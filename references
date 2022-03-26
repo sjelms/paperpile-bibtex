@@ -2683,6 +2683,14 @@
   language  = "eng"
 }
 
+@ARTICLE{Knowles2002-ic,
+  title   = "Malcolm Knowles, informal adult education, self-direction, and
+             andragogy",
+  author  = "Knowles, Malcolm",
+  journal = "The encyclopedia of informal education",
+  year    =  2002
+}
+
 @ARTICLE{Clark1928-ka,
   title    = "March of the Machine Makes Idle Hands: Farm Employment Less With
               Increased Output",
