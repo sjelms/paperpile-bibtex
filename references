@@ -3229,26 +3229,6 @@
   language = "en"
 }
 
-@ARTICLE{Knowles1989-gi,
-  title    = "Everything You Wanted to Know from Malcolm Knowles (And Weren't
-              Afraid to Ask)",
-  author   = "Knowles, Malcolm S",
-  abstract = "In an adaptation from ``The Making of an Adult Educator: An
-              Autobiographical Journey,'' Malcolm Knowles, the father of adult
-              learning theory, discusses motivation, self-directed learning,
-              trainers and organizational change, and social and economic
-              inequalities in the United States. (JOW)",
-  journal  = "Training",
-  volume   =  26,
-  number   =  8,
-  pages    = "45--50",
-  year     =  1989,
-  keywords = "Adult Education; Adult Learning; Autobiographies; Independent
-              Study; Learning Theories; Motivation; Organizational Change;
-              Trainers;Andragogy",
-  language = "en"
-}
-
 @ARTICLE{Knowles2002-ic,
   title    = "Malcolm Knowles, informal adult education, self-direction, and
               andragogy",
