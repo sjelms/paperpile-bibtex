@@ -3238,6 +3238,16 @@
   keywords  = "ePub;Book (physical);EPubs Books"
 }
 
+@INPROCEEDINGS{Risley2013-xz,
+  title     = "Andragogical Methods Applied to Adult Learning Environments:
+               Adult Education for Adult Learners in and out of the Traditional
+               Classroom",
+  booktitle = "Research-to Practice Conference in Adult and Higher Education,
+               Lindenwood University, St. Charles, {MO}",
+  author    = "Risley, Lori and McKee, Sue",
+  year      =  2013
+}
+
 @BOOK{Liu2017-wo,
   title     = "Virtual, Augmented, and Mixed Realities in Education",
   author    = "Liu, Dejian and Dede, Chris and Huang, Ronghuai and Richards,
