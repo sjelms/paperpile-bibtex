@@ -2684,11 +2684,12 @@
 }
 
 @ARTICLE{Knowles2002-ic,
-  title   = "Malcolm Knowles, informal adult education, self-direction, and
-             andragogy",
-  author  = "Knowles, Malcolm",
-  journal = "The encyclopedia of informal education",
-  year    =  2002
+  title    = "Malcolm Knowles, informal adult education, self-direction, and
+              andragogy",
+  author   = "Knowles, Malcolm",
+  journal  = "The encyclopedia of informal education",
+  year     =  2002,
+  keywords = "Andragogy"
 }
 
 @ARTICLE{Clark1928-ka,
