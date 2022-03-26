@@ -3245,7 +3245,8 @@
   booktitle = "Research-to Practice Conference in Adult and Higher Education,
                Lindenwood University, St. Charles, {MO}",
   author    = "Risley, Lori and McKee, Sue",
-  year      =  2013
+  year      =  2013,
+  keywords  = "Skill Acquisition"
 }
 
 @ARTICLE{Blondy2007-lo,
