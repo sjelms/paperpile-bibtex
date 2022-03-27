@@ -3566,3 +3566,11 @@
   year      =  1999,
   keywords  = "AIEd;Intelligent Tutoring Systems (ITS);§New Literature"
 }
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@MISC{noauthor_undated-if,
+  title    = "{FerrariTaylorVanLehn.pdf}",
+  keywords = "§New Literature;AIEd;Intelligent Tutoring Systems (ITS);Workplace
+              Learning"
+}
