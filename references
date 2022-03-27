@@ -117,7 +117,7 @@
   publisher = "Routledge",
   year      =  1988,
   address   = "USA",
-  keywords  = "Intelligent Tutoring Systems (ITS)"
+  keywords  = "Intelligent Tutoring Systems (ITS);New Literature"
 }
 
 @BOOK{Sleeman1982-qr,
@@ -134,7 +134,7 @@
                some informal gaming environments''",
   publisher = "London: Academic Press",
   year      =  1982,
-  keywords  = "Intelligent Tutoring Systems (ITS)"
+  keywords  = "Intelligent Tutoring Systems (ITS);New Literature"
 }
 
 @BOOK{Wenger2014-yw,
@@ -163,7 +163,7 @@
   publisher = "Morgan Kaufmann",
   month     =  may,
   year      =  2014,
-  keywords  = "AIEd",
+  keywords  = "AIEd;New Literature",
   language  = "en"
 }
 
@@ -175,7 +175,7 @@
               MIT Press, Massachusetts",
   pages    = "9--10",
   year     =  1999,
-  keywords = "AIEd"
+  keywords = "AIEd;New Literature"
 }
 
 @ARTICLE{Lesgold1988-at,
@@ -197,7 +197,7 @@
   publisher = "Lawrence Erlbaum Associates",
   pages     = "201",
   year      =  1988,
-  keywords  = "Intelligent Tutoring Systems (ITS)"
+  keywords  = "Intelligent Tutoring Systems (ITS);New Literature"
 }
 
 @BOOK{Oecd2020-ge,
@@ -3244,7 +3244,7 @@
   author   = "Knowles, Malcolm",
   journal  = "The encyclopedia of informal education",
   year     =  2002,
-  keywords = "Andragogy"
+  keywords = "Andragogy;New Literature"
 }
 
 @BOOK{Russell2019-or,
@@ -3264,7 +3264,7 @@
                Lindenwood University, St. Charles, {MO}",
   author    = "Risley, Lori and McKee, Sue",
   year      =  2013,
-  keywords  = "Andragogy"
+  keywords  = "Andragogy;New Literature"
 }
 
 @ARTICLE{Blondy2007-lo,
@@ -3286,7 +3286,7 @@
   number   =  2,
   pages    = "116--130",
   year     =  2007,
-  keywords = "Andragogy"
+  keywords = "Andragogy;New Literature"
 }
 
 @BOOK{Liu2017-wo,
