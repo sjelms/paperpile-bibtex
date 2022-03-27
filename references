@@ -1827,7 +1827,8 @@
   author       = "Conniff, Richard",
   month        =  mar,
   year         =  2011,
-  howpublished = "\url{https://www.smithsonianmag.com/history/what-the-luddites-really-fought-against-264412/}"
+  howpublished = "\url{https://www.smithsonianmag.com/history/what-the-luddites-really-fought-against-264412/}",
+  keywords     = "Cited for Frontiers"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
