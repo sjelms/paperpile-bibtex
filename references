@@ -3574,3 +3574,35 @@
   keywords = "§New Literature;AIEd;Intelligent Tutoring Systems (ITS);Workplace
               Learning"
 }
+
+@ARTICLE{Ferrari1999-xf,
+  title     = "Adapting work simulations for schools",
+  author    = "Ferrari, Michel and Taylor, Roger and VanLehn, Kurt",
+  abstract  = "Although computer-based simulations of workplaces are a
+               promising way to prepare high school students for the world of
+               work, it is unclear how many workplace simulations exist and how
+               suitable they are for school-to-work programs. An extensive
+               survey located 142 workplace simulations, many of which were not
+               intended for the school-to-work market. Thirty-nine of the most
+               promising simulations were obtained and analyzed to determine
+               potential problems that might impede their use in school-to-work
+               programs. These simulations were classified according to type
+               (e.g., Skill simulations; Role-Playing simulations; and Strategy
+               simulations) and then critiqued regarding common problems in
+               using them (e.g., usability, learnability, content, and
+               available teacher support). We indicate which problems are most
+               common and what educators can do to overcome them. We close with
+               a propositional analysis of two of the most promising workplace
+               simulations that measures the job-specificity and implicitness
+               of their content. We conclude that simulations can play an
+               important role in school-to-work transition programs, even if
+               not specifically designed for that purpose.",
+  journal   = "J. Educ. Comput. Res.",
+  publisher = "SAGE Publications",
+  volume    =  21,
+  number    =  1,
+  pages     = "25--53",
+  month     =  jul,
+  year      =  1999,
+  language  = "en"
+}
