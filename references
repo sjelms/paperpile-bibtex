@@ -3549,3 +3549,20 @@
   keywords  = "§New Literature",
   language  = "en"
 }
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Andriessen1999-ke,
+  title     = "Where is Education and how about {AI}?",
+  author    = "Andriessen, J E B and Sandberg, J A C",
+  abstract  = "PDF | On Jan 1, 1999, J.E.B. Andriessen and others published
+               Where is Education and how about AI? | Find, read and cite all
+               the research you need on ResearchGate",
+  journal   = "Int. J. Artif. Intell. Educ.",
+  publisher = "Springer Verlag",
+  volume    =  10,
+  number    =  2,
+  month     =  jan,
+  year      =  1999,
+  keywords  = "AIEd;Intelligent Tutoring Systems (ITS);§New Literature"
+}
