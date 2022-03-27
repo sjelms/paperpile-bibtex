@@ -201,10 +201,13 @@
 }
 
 @BOOK{Oecd2020-ge,
-  title  = "Strengthening the Governance of Skills Systems",
-  author = "{Oecd}",
-  pages  = "178",
-  year   =  2020
+  title     = "Strengthening the Governance of Skills Systems: Lessons from Six
+               {OECD} Countries",
+  author    = "{OECD}",
+  editor    = "{OECD Skills Studies}",
+  publisher = "OECD Publishing",
+  pages     = "178",
+  year      =  2020
 }
 
 @ARTICLE{Autor2013-ht,
