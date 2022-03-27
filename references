@@ -1634,12 +1634,6 @@
   keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
-@MISC{Conniff2011-dm,
-  title  = "{What the Luddites Really Fought Against}",
-  author = "Conniff, Richard",
-  year   =  2011
-}
-
 @BOOK{Autor2022-vv,
   title     = "The Work of the Future: Building Better Jobs in an Age of
                Intelligent Machines",
@@ -1825,6 +1819,15 @@
   year         =  2019,
   howpublished = "\url{https://www.history.com/news/who-were-the-luddites}",
   keywords     = "Cited for Frontiers"
+}
+
+@MISC{Conniff2011-dm,
+  title        = "What the Luddites Really Fought Against",
+  booktitle    = "Smithsonian Magazine",
+  author       = "Conniff, Richard",
+  month        =  mar,
+  year         =  2011,
+  howpublished = "\url{https://www.smithsonianmag.com/history/what-the-luddites-really-fought-against-264412/}"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
