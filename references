@@ -1,3 +1,5 @@
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Suppes1969-kb,
   title     = "Computer-assisted instruction",
   author    = "Suppes, P and Morningstar, M",
@@ -8,10 +10,12 @@
   pages     = "343--350",
   month     =  oct,
   year      =  1969,
-  keywords  = "Intelligent Tutoring Systems (ITS);New Literature",
+  keywords  = "Intelligent Tutoring Systems (ITS);§New Literature",
   language  = "en"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Yudelson2013-yg,
   title     = "Individualized Bayesian knowledge tracing models",
   booktitle = "Lecture Notes in Computer Science",
@@ -22,8 +26,8 @@
   series    = "Lecture notes in computer science",
   year      =  2013,
   address   = "Berlin, Heidelberg",
-  keywords  = "New Literature;Artificial Intelligence (AI);Intelligent Tutoring
-               Systems (ITS)"
+  keywords  = "§New Literature;Artificial Intelligence (AI);Intelligent
+               Tutoring Systems (ITS)"
 }
 
 @ARTICLE{Chieu2010-ib,
@@ -117,9 +121,11 @@
   publisher = "Routledge",
   year      =  1988,
   address   = "USA",
-  keywords  = "Intelligent Tutoring Systems (ITS);New Literature"
+  keywords  = "Intelligent Tutoring Systems (ITS);§New Literature"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @BOOK{Sleeman1982-qr,
   title     = "Intelligent tutoring systems",
   author    = "Sleeman, Derek and Brown, John Seely",
@@ -134,9 +140,11 @@
                some informal gaming environments''",
   publisher = "London: Academic Press",
   year      =  1982,
-  keywords  = "Intelligent Tutoring Systems (ITS);New Literature"
+  keywords  = "Intelligent Tutoring Systems (ITS);§New Literature"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @BOOK{Wenger2014-yw,
   title     = "Artificial Intelligence and Tutoring Systems: Computational and
                Cognitive Approaches to the Communication of Knowledge",
@@ -163,10 +171,12 @@
   publisher = "Morgan Kaufmann",
   month     =  may,
   year      =  2014,
-  keywords  = "AIEd;New Literature",
+  keywords  = "AIEd;§New Literature",
   language  = "en"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{VanLehn1999-iw,
   title    = "{AI} and Education",
   author   = "VanLehn, K and Soloway, E",
@@ -175,9 +185,11 @@
               MIT Press, Massachusetts",
   pages    = "9--10",
   year     =  1999,
-  keywords = "AIEd;New Literature"
+  keywords = "AIEd;§New Literature"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Lesgold1988-at,
   title     = "Sherlock: A Coached Practice Environment for an Electronics
                Troubleshooting Job",
@@ -197,7 +209,7 @@
   publisher = "Lawrence Erlbaum Associates",
   pages     = "201",
   year      =  1988,
-  keywords  = "Intelligent Tutoring Systems (ITS);New Literature"
+  keywords  = "Intelligent Tutoring Systems (ITS);§New Literature"
 }
 
 @BOOK{Oecd2020-ge,
@@ -209,6 +221,8 @@
   keywords  = "Skill Acquisition;Report"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Autor2013-ht,
   title     = "The growth of low-skill service jobs and the polarization of the
                {US} labor market",
@@ -233,7 +247,7 @@
   pages     = "1553--1597",
   month     =  aug,
   year      =  2013,
-  keywords  = "New Literature",
+  keywords  = "§New Literature",
   language  = "en"
 }
 
@@ -248,6 +262,8 @@
                instructions;Intelligent Tutoring Systems (ITS);AIEd"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INPROCEEDINGS{Gamboa2001-rk,
   title     = "Designing intelligent tutoring systems: A Bayesian approach",
   author    = "Gamboa, Hugo and Fred, Ana L N",
@@ -267,7 +283,7 @@
   pages     = "452--458",
   month     =  jan,
   year      =  2001,
-  keywords  = "Intelligent Tutoring Systems (ITS);New Literature"
+  keywords  = "Intelligent Tutoring Systems (ITS);§New Literature"
 }
 
 @INPROCEEDINGS{Chen2020-fm,
@@ -298,6 +314,8 @@
   keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INPROCEEDINGS{Amokrane2008-zr,
   title           = "An intelligent tutoring system for training and learning
                      in a virtual environment for high-risk sites",
@@ -308,12 +326,14 @@
   publisher       = "IEEE",
   month           =  nov,
   year            =  2008,
-  keywords        = "Intelligent Tutoring Systems (ITS);New Literature;AR/MR",
+  keywords        = "Intelligent Tutoring Systems (ITS);§New Literature;AR/MR",
   conference      = "2008 20th IEEE International Conference on Tools with
                      Artificial Intelligence (ICTAI)",
   location        = "Dayton, OH, USA"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INPROCEEDINGS{Alday2018-yc,
   title           = "Bayesian networks in intelligent tutoring systems as an
                      assessment of student performance using student modeling",
@@ -323,7 +343,7 @@
   publisher       = "ACM Press",
   year            =  2018,
   address         = "New York, New York, USA",
-  keywords        = "Intelligent Tutoring Systems (ITS);New Literature",
+  keywords        = "Intelligent Tutoring Systems (ITS);§New Literature",
   copyright       = "http://www.acm.org/publications/policies/copyright\_policy\#Background",
   conference      = "the 2018 2nd International Conference",
   location        = "Beijing, China"
@@ -451,6 +471,8 @@
   language = "en"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INPROCEEDINGS{Wolf2019-ff,
   title           = "Case study on mobile virtual reality construction training",
   booktitle       = "Proceedings of the 36th International Symposium on
@@ -460,7 +482,7 @@
                      Construction (IAARC)",
   month           =  may,
   year            =  2019,
-  keywords        = "New Literature;International Association for Automation
+  keywords        = "§New Literature;International Association for Automation
                      and Robotics in Construction (IAARC)",
   conference      = "36th International Symposium on Automation and Robotics in
                      Construction",
@@ -1358,6 +1380,8 @@
   keywords    = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Xu2019-iv,
   title     = "The effectiveness of virtual reality in safety training:
                Measurement of emotional arousal with electromyography",
@@ -1367,7 +1391,7 @@
   pages     = "20--25",
   month     =  may,
   year      =  2019,
-  keywords  = "New Literature;International Association for Automation and
+  keywords  = "§New Literature;International Association for Automation and
                Robotics in Construction (IAARC)"
 }
 
@@ -1390,6 +1414,8 @@
   location        = "Banff, AB, Canada"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Volk2014-ar,
   title    = "Building Information Modeling ({BIM}) for existing buildings ---
               Literature review and future needs",
@@ -1417,9 +1443,11 @@
   pages    = "109--127",
   month    =  mar,
   year     =  2014,
-  keywords = "New Literature;Zotero Import (Feb 22);My Library;Game Engine"
+  keywords = "§New Literature;Zotero Import (Feb 22);My Library;Game Engine"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Wang2007-gk,
   title    = "Design, strategies, and issues towards an augmented reality-based
               construction training platform",
@@ -1454,9 +1482,11 @@
   pages    = "363--380",
   month    =  jul,
   year     =  2007,
-  keywords = "New Literature;Zotero Import (Feb 22);My Library;Game Engine"
+  keywords = "§New Literature;Zotero Import (Feb 22);My Library;Game Engine"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Chu2018-al,
   title    = "Integrating mobile Building Information Modelling and Augmented
               Reality systems: An experimental study",
@@ -1496,9 +1526,11 @@
   pages    = "305--316",
   month    =  jan,
   year     =  2018,
-  keywords = "New Literature;Zotero Import (Feb 22);My Library;Game Engine"
+  keywords = "§New Literature;Zotero Import (Feb 22);My Library;Game Engine"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Chi2013-dk,
   title    = "Research trends and opportunities of augmented reality
               applications in architecture, engineering, and construction",
@@ -1529,9 +1561,11 @@
   pages    = "116--122",
   month    =  aug,
   year     =  2013,
-  keywords = "New Literature;Zotero Import (Feb 22);My Library;Game Engine"
+  keywords = "§New Literature;Zotero Import (Feb 22);My Library;Game Engine"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Shanbari2019-ig,
   title    = "Use of video games to enhance construction management education",
   author   = "Shanbari, Hamzah and Issa, Raja R A",
@@ -1557,9 +1591,11 @@
   pages    = "206--221",
   month    =  may,
   year     =  2019,
-  keywords = "New Literature;Zotero Import (Feb 22);My Library;Game Engine"
+  keywords = "§New Literature;Zotero Import (Feb 22);My Library;Game Engine"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Shanbari2016-ch,
   title    = "Using augmented reality video in enhancing masonry and roof
               component comprehension for construction management students",
@@ -1596,9 +1632,11 @@
   pages    = "765--781",
   month    =  nov,
   year     =  2016,
-  keywords = "New Literature;Zotero Import (Feb 22);My Library;Game Engine"
+  keywords = "§New Literature;Zotero Import (Feb 22);My Library;Game Engine"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Xiao_Li2018-sw,
   title    = "A critical review of virtual and augmented reality ({VR/AR})
               applications in construction safety",
@@ -1640,9 +1678,11 @@
   pages    = "150--162",
   month    =  feb,
   year     =  2018,
-  keywords = "New Literature;Zotero Import (Feb 22);My Library;Game Engine"
+  keywords = "§New Literature;Zotero Import (Feb 22);My Library;Game Engine"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Chalhoub2018-bd,
   title    = "Using Mixed Reality for electrical construction design
               communication",
@@ -1688,7 +1728,7 @@
   pages    = "1--10",
   month    =  feb,
   year     =  2018,
-  keywords = "New Literature;Zotero Import (Feb 22);My Library;Game Engine"
+  keywords = "§New Literature;Zotero Import (Feb 22);My Library;Game Engine"
 }
 
 @INCOLLECTION{Rebolledo-Mendez2011-mg,
@@ -2483,6 +2523,8 @@
   location  = "Roskilde, Denmark"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INPROCEEDINGS{Liang2019-mx,
   title           = "Teaching robots to perform construction tasks via learning
                      from demonstration",
@@ -2493,13 +2535,15 @@
                      Construction (IAARC)",
   month           =  may,
   year            =  2019,
-  keywords        = "New Literature;International Association for Automation
+  keywords        = "§New Literature;International Association for Automation
                      and Robotics in Construction (IAARC)",
   conference      = "36th International Symposium on Automation and Robotics in
                      Construction",
   location        = "Banff, AB, Canada"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Mohammadpour2019-eu,
   title     = "Artificial Intelligence Techniques to Support Design and
                Construction",
@@ -2509,10 +2553,12 @@
   pages     = "1282--1289",
   month     =  may,
   year      =  2019,
-  keywords  = "New Literature;International Association for Automation and
+  keywords  = "§New Literature;International Association for Automation and
                Robotics in Construction (IAARC)"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Kyjanek2019-su,
   title     = "Implementation of an augmented reality {AR} workflow for human
                robot collaboration in timber prefabrication",
@@ -2523,10 +2569,12 @@
   pages     = "1223--1230",
   month     =  may,
   year      =  2019,
-  keywords  = "New Literature;International Association for Automation and
+  keywords  = "§New Literature;International Association for Automation and
                Robotics in Construction (IAARC)"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Tayeh2019-ij,
   title     = "Implementing collaborative learning platforms in construction
                management education",
@@ -2536,10 +2584,12 @@
   pages     = "1114--1120",
   month     =  may,
   year      =  2019,
-  keywords  = "New Literature;International Association for Automation and
+  keywords  = "§New Literature;International Association for Automation and
                Robotics in Construction (IAARC)"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Xiang2019-my,
   title     = "Towards mobile projective {AR} for construction co-robots",
   author    = "Xiang, Siyuan and Wang, Ruoyu and Feng, Chen",
@@ -2548,10 +2598,12 @@
   pages     = "1106--1113",
   month     =  may,
   year      =  2019,
-  keywords  = "New Literature;International Association for Automation and
+  keywords  = "§New Literature;International Association for Automation and
                Robotics in Construction (IAARC)"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Habibnezhad2019-gd,
   title     = "A mixed {VR} and physical framework to evaluate impacts of
                virtual legs and elevated narrow working space on construction
@@ -2563,10 +2615,12 @@
   pages     = "1057--1064",
   month     =  may,
   year      =  2019,
-  keywords  = "New Literature;International Association for Automation and
+  keywords  = "§New Literature;International Association for Automation and
                Robotics in Construction (IAARC)"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Chi1981-hq,
   title     = "Categorization and representation of physics problems by experts
                and novices",
@@ -2578,7 +2632,7 @@
   pages     = "121--152",
   month     =  apr,
   year      =  1981,
-  keywords  = "Skill Acquisition;New Literature"
+  keywords  = "Skill Acquisition;§New Literature"
 }
 
 @INCOLLECTION{Goller2022-oc,
@@ -2608,6 +2662,8 @@
   keywords  = "Workplace Learning"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Ye2019-oc,
   title     = "Applying eye tracking in virtual construction environments to
                improve cognitive data collection and human-computer interaction
@@ -2642,10 +2698,12 @@
   pages     = "1073--1080",
   month     =  may,
   year      =  2019,
-  keywords  = "New Literature;International Association for Automation and
+  keywords  = "§New Literature;International Association for Automation and
                Robotics in Construction (IAARC)"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Golovina2019-ij,
   title     = "Using serious games in virtual reality for automated close call
                and contact collision analysis in construction safety",
@@ -2656,10 +2714,12 @@
   pages     = "967--974",
   month     =  may,
   year      =  2019,
-  keywords  = "New Literature;International Association for Automation and
+  keywords  = "§New Literature;International Association for Automation and
                Robotics in Construction (IAARC)"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Barkokebas2019-eh,
   title     = "Application of virtual reality in task training in the
                construction manufacturing industry",
@@ -2670,10 +2730,12 @@
   pages     = "796--803",
   month     =  may,
   year      =  2019,
-  keywords  = "New Literature;International Association for Automation and
+  keywords  = "§New Literature;International Association for Automation and
                Robotics in Construction (IAARC)"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Hashimoto2019-te,
   title     = "Comparative study of experienced and inexperienced operators
                with auto-controlled construction machine",
@@ -2683,10 +2745,12 @@
   pages     = "658--664",
   month     =  may,
   year      =  2019,
-  keywords  = "New Literature;International Association for Automation and
+  keywords  = "§New Literature;International Association for Automation and
                Robotics in Construction (IAARC)"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Aragao2019-sn,
   title     = "Semantic network analysis as a knowledge representation and
                retrieval approach applied to unstructured documents of
@@ -2697,10 +2761,12 @@
   pages     = "529--536",
   month     =  may,
   year      =  2019,
-  keywords  = "New Literature;International Association for Automation and
+  keywords  = "§New Literature;International Association for Automation and
                Robotics in Construction (IAARC)"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Krieg2019-ot,
   title     = "Adaptive automation strategies for robotic prefabrication of
                parametrized mass timber building components",
@@ -2710,10 +2776,12 @@
   pages     = "521--528",
   month     =  may,
   year      =  2019,
-  keywords  = "New Literature;International Association for Automation and
+  keywords  = "§New Literature;International Association for Automation and
                Robotics in Construction (IAARC)"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Nassereddine2019-ox,
   title     = "Augmented reality-enabled production strategy process",
   author    = "Nassereddine, Hala and Veeramani, Dharmaraj and Hanna, Awad",
@@ -2722,10 +2790,12 @@
   pages     = "297--305",
   month     =  may,
   year      =  2019,
-  keywords  = "New Literature;International Association for Automation and
+  keywords  = "§New Literature;International Association for Automation and
                Robotics in Construction (IAARC)"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Vahdatikhaki2019-zj,
   title     = "Context-realistic virtual reality-based training simulators for
                asphalt operations",
@@ -2736,10 +2806,12 @@
   pages     = "218--225",
   month     =  may,
   year      =  2019,
-  keywords  = "New Literature;International Association for Automation and
+  keywords  = "§New Literature;International Association for Automation and
                Robotics in Construction (IAARC)"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Harichandran2019-vc,
   title     = "Identification of the structural state in automated modular
                construction",
@@ -2749,10 +2821,12 @@
   pages     = "187--193",
   month     =  may,
   year      =  2019,
-  keywords  = "New Literature;International Association for Automation and
+  keywords  = "§New Literature;International Association for Automation and
                Robotics in Construction (IAARC)"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Hasan2019-ei,
   title     = "Robotic fabrication of nail laminated timber",
   author    = "Hasan, Hakim and Reddy, Anish and Tsayjacobs, Andrew",
@@ -2761,7 +2835,7 @@
   pages     = "1210--1216",
   month     =  may,
   year      =  2019,
-  keywords  = "New Literature;International Association for Automation and
+  keywords  = "§New Literature;International Association for Automation and
                Robotics in Construction (IAARC)"
 }
 
@@ -3015,6 +3089,8 @@
               Library;Intelligent Tutoring Systems (ITS)"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INPROCEEDINGS{Howson2022-ln,
   title     = "{INSPIRE}: Fourth Industrial Revolution Teaching in the
                Classroom",
@@ -3052,7 +3128,7 @@
   year      =  2022,
   address   = "New York, NY, USA",
   keywords  = "artificial intelligence, k-12, education, pedagogy, 4th
-               industrial revolution, robotics, internet of things;New
+               industrial revolution, robotics, internet of things;§New
                Literature",
   location  = "Providence, RI, USA"
 }
@@ -3078,9 +3154,11 @@
   volume    =  8,
   pages     = "12--13",
   year      =  2019,
-  keywords  = "New Literature"
+  keywords  = "§New Literature"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Vasilevski2020-bl,
   title     = "Analysing construction student experiences of mobile mixed
                reality enhanced learning in virtual and augmented reality
@@ -3119,7 +3197,7 @@
   number    =  0,
   month     =  jan,
   year      =  2020,
-  keywords  = "AEC;ePub;New Literature"
+  keywords  = "AEC;ePub;§New Literature"
 }
 
 @INPROCEEDINGS{Vasilevski2019-cl,
@@ -3139,6 +3217,8 @@
   location        = "Brisbane QLD Australia"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Baker2016-ln,
   title     = "Stupid Tutoring Systems, Intelligent Humans",
   author    = "Baker, Ryan S",
@@ -3149,7 +3229,7 @@
   pages     = "600--614",
   month     =  jun,
   year      =  2016,
-  keywords  = "Intelligent Tutoring Systems (ITS);New Literature"
+  keywords  = "Intelligent Tutoring Systems (ITS);§New Literature"
 }
 
 @ARTICLE{Dede2009-ro,
@@ -3181,6 +3261,8 @@
   language  = "en"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Gabriele2012-uz,
   title     = "Active learning in a robotics laboratory with university
                students",
@@ -3193,9 +3275,11 @@
   series    = "Cutting-edge technologies in higher education",
   month     =  jan,
   year      =  2012,
-  keywords  = "New Literature"
+  keywords  = "§New Literature"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INPROCEEDINGS{Dinet2018-jv,
   title           = "Immersive Interfaces for Engagement and Learning",
   booktitle       = "Proceedings of the Virtual Reality International
@@ -3205,7 +3289,7 @@
   month           =  apr,
   year            =  2018,
   address         = "New York, NY, USA",
-  keywords        = "New Literature",
+  keywords        = "§New Literature",
   copyright       = "http://www.acm.org/publications/policies/copyright\_policy\#Background",
   conference      = "VRIC '18: Virtual Reality International Conference - Laval
                      Virtual VRIC '18",
@@ -3238,13 +3322,15 @@
   language = "en"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Knowles2002-ic,
   title    = "Malcolm Knowles, informal adult education, self-direction, and
               andragogy",
   author   = "Knowles, Malcolm",
   journal  = "The encyclopedia of informal education",
   year     =  2002,
-  keywords = "Andragogy;New Literature"
+  keywords = "Andragogy;§New Literature"
 }
 
 @BOOK{Russell2019-or,
@@ -3256,6 +3342,8 @@
   keywords  = "ePub;Book (physical);EPubs Books"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INPROCEEDINGS{Risley2013-xz,
   title     = "Andragogical Methods Applied to Adult Learning Environments:
                Adult Education for Adult Learners in and out of the Traditional
@@ -3264,9 +3352,11 @@
                Lindenwood University, St. Charles, {MO}",
   author    = "Risley, Lori and McKee, Sue",
   year      =  2013,
-  keywords  = "Andragogy;New Literature"
+  keywords  = "Andragogy;§New Literature"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Blondy2007-lo,
   title    = "Evaluation and application of andragogical assumptions to the
               adult online learning environment",
@@ -3286,9 +3376,11 @@
   number   =  2,
   pages    = "116--130",
   year     =  2007,
-  keywords = "Andragogy;New Literature"
+  keywords = "Andragogy;§New Literature;Mark Up"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @BOOK{Liu2017-wo,
   title     = "Virtual, Augmented, and Mixed Realities in Education",
   author    = "Liu, Dejian and Dede, Chris and Huang, Ronghuai and Richards,
@@ -3317,10 +3409,12 @@
   publisher = "Springer",
   month     =  nov,
   year      =  2017,
-  keywords  = "New Literature;ePub",
+  keywords  = "§New Literature;ePub",
   language  = "en"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Shimic2012-ua,
   title     = "Problem-based learning in formal and informal learning
                environments",
@@ -3340,10 +3434,12 @@
   pages     = "351--367",
   month     =  aug,
   year      =  2012,
-  keywords  = "New Literature;Intelligent Tutoring Systems (ITS)",
+  keywords  = "§New Literature;Intelligent Tutoring Systems (ITS)",
   language  = "en"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Psotka2019-ml,
   title     = "The new potentials for Intelligent Tutoring with learning
                analytics approaches",
@@ -3355,9 +3451,11 @@
   pages     = "583--584",
   month     =  aug,
   year      =  2019,
-  keywords  = "New Literature;Intelligent Tutoring Systems (ITS)"
+  keywords  = "§New Literature;Intelligent Tutoring Systems (ITS)"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Meng2021-ld,
   title     = "{CS-BKT}: introducing item relationship to the Bayesian
                knowledge tracing model",
@@ -3383,9 +3481,11 @@
   pages     = "1393--1403",
   month     =  nov,
   year      =  2021,
-  keywords  = "Intelligent Tutoring Systems (ITS);New Literature"
+  keywords  = "Intelligent Tutoring Systems (ITS);§New Literature"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Tang2021-ch,
   title     = "Trends in artificial intelligence-supported e-learning: a
                systematic review and co-citation network analysis (1998--2019)",
@@ -3418,9 +3518,11 @@
   pages     = "1--19",
   month     =  jan,
   year      =  2021,
-  keywords  = "Intelligent Tutoring Systems (ITS);New Literature"
+  keywords  = "Intelligent Tutoring Systems (ITS);§New Literature"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{VanLehn1987-hn,
   title     = "Learning one subprocedure per lesson",
   author    = "VanLehn, Kurt",
@@ -3444,6 +3546,6 @@
   pages     = "1--40",
   month     =  jan,
   year      =  1987,
-  keywords  = "New Literature",
+  keywords  = "§New Literature",
   language  = "en"
 }
