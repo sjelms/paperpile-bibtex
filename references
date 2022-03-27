@@ -3641,3 +3641,26 @@
   keywords  = "Book (physical)",
   language  = "en"
 }
+
+@ARTICLE{Vogel-Heuser2016-ng,
+  title    = "Guest Editorial Industry 4.0--Prerequisites and Visions",
+  author   = "Vogel-Heuser, Birgit and Hess, Dieter",
+  abstract = "The papers in this special section focus on the concept of
+              Industry 4.0. From its origin, Industry 4.0--derived from the
+              German term Industrie 4.0--is used as a synonym for
+              Cyber-Physical Production Systems (CPPS), i.e., Cyber-Physical
+              Systems applied in the domain of manufacturing/production. To
+              enable CPPS their automation systems need to be enabled to
+              fulfill the requirements. The term Industrie 4.0 was first used
+              in 2011 at the Hannover Fair and the topic has grown every year
+              not only on the fair. There are still several definitions of
+              Industrie 4.0 (I4.0).",
+  journal  = "IEEE Trans. Autom. Sci. Eng.",
+  volume   =  13,
+  number   =  2,
+  pages    = "411--413",
+  month    =  apr,
+  year     =  2016,
+  keywords = "Special issues and sections;Cyber-physical
+              systems;Industries;Automation;Real-time systems"
+}
