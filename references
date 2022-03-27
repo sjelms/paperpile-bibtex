@@ -3673,7 +3673,9 @@
 }
 
 @MISC{Andrews2019-pu,
-  title  = "{Who Were the Luddites?}",
-  author = "Andrews, Evan",
-  year   =  2019
+  title        = "Who Were the Luddites?",
+  author       = "Andrews, Evan",
+  month        =  jun,
+  year         =  2019,
+  howpublished = "\url{https://www.history.com/news/who-were-the-luddites}"
 }
