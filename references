@@ -75,14 +75,6 @@
 
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
-@MISC{noauthor_undated-if,
-  title    = "{FerrariTaylorVanLehn.pdf}",
-  keywords = "§New Literature;AIEd;Intelligent Tutoring Systems (ITS);Workplace
-              Learning"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
 @ARTICLE{Andriessen1999-ke,
   title     = "Where is Education and how about {AI}?",
   author    = "Andriessen, J E B and Sandberg, J A C",
