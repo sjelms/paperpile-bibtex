@@ -790,16 +790,6 @@
   keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
-@TECHREPORT{Miller2020-fp,
-  title       = "Fine Margins: Delivering Financial Sustainability in {UK}
-                 Construction",
-  author      = "Miller, T",
-  institution = "Confederation of British Industry",
-  month       =  feb,
-  year        =  2020,
-  keywords    = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
-}
-
 @TECHREPORT{Meisels2019-fj,
   title       = "2019 Engineering and Construction Industry Outlook",
   author      = "Meisels, M",
@@ -3667,4 +3657,15 @@
   keywords = "Special issues and sections;Cyber-physical
               systems;Industries;Automation;Real-time systems;Mark Up;Cited for
               Frontiers"
+}
+
+@TECHREPORT{Miller2020-fp,
+  title       = "Fine Margins: Delivering Financial Sustainability in {UK}
+                 Construction",
+  author      = "Miller, T",
+  institution = "Confederation of British Industry",
+  month       =  feb,
+  year        =  2020,
+  keywords    = "Cited for Frontiers;Zotero Import (Feb 22);My
+                 Library;2021-12-03 Frontiers"
 }
