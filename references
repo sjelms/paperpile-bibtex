@@ -3597,10 +3597,10 @@
   keywords  = "Read;Misc"
 }
 
-@INCOLLECTION{Hyde2021-wa,
+@INCOLLECTION{Robotics2021-wa,
   title     = "{PROFILE}: Scaling Construction Robotics",
   booktitle = "Intelligent Control: Disruptive Technologies",
-  author    = "Hyde, Rob and Filippidis, Filippos",
+  author    = "Robotics, Odico Construction",
   publisher = "RIBA Publishing",
   pages     = "95--102",
   month     =  aug,
