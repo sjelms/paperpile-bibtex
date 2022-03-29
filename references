@@ -322,7 +322,8 @@
   pages     = "56--67",
   month     =  aug,
   year      =  2021,
-  address   = "London"
+  address   = "London",
+  keywords  = "Book\_Intelligent Control: Disruptive Technologies"
 }
 
 @INCOLLECTION{Youkhana2021-sm,
