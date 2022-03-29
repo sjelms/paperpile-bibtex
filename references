@@ -2150,10 +2150,9 @@
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
-@INCOLLECTION{Robotics2021-wa,
+@INCOLLECTION{Hyde2021-wa,
   title     = "{PROFILE}: Scaling Construction Robotics",
   booktitle = "Intelligent Control: Disruptive Technologies",
-  author    = "Robotics, Odico Construction",
   editor    = "Hyde, Rob and Filippidis, Filippos",
   publisher = "RIBA Publishing",
   pages     = "95--102",
