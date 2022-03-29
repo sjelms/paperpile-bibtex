@@ -3750,3 +3750,15 @@
                Technologies",
   language  = "en"
 }
+
+@INCOLLECTION{Hahm2021-ee,
+  title     = "Augmenting human designers and builders: Augmentation discussed
+               in architectural design research",
+  booktitle = "Intelligent Control: Disruptive Technologies",
+  author    = "Hahm, Soomeen",
+  publisher = "RIBA Publishing",
+  pages     = "68--77",
+  month     =  aug,
+  year      =  2021,
+  address   = "London"
+}
