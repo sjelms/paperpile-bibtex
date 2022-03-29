@@ -333,7 +333,8 @@
   pages     = "10--25",
   month     =  aug,
   year      =  2021,
-  address   = "London"
+  address   = "London",
+  keywords  = "Book\_Intelligent Control: Disruptive Technologies"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
