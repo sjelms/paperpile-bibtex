@@ -314,6 +314,17 @@
   keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
+@INCOLLECTION{Claypool2021-wg,
+  title     = "Automation, Architecture and Labour",
+  booktitle = "Intelligent Control: Disruptive Technologies",
+  author    = "Claypool, Mollie",
+  publisher = "RIBA Publishing",
+  pages     = "56--67",
+  month     =  aug,
+  year      =  2021,
+  address   = "London"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Amokrane2008-zr,
