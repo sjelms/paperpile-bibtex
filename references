@@ -325,6 +325,17 @@
   address   = "London"
 }
 
+@INCOLLECTION{Youkhana2021-sm,
+  title     = "The Allegorithmic Utopia of Videogame Urbanism",
+  booktitle = "Intelligent Control: Disruptive Technologies",
+  author    = "Youkhana, Sandra and Pearson, Luke Caspar",
+  publisher = "RIBA Publishing",
+  pages     = "10--25",
+  month     =  aug,
+  year      =  2021,
+  address   = "London"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Amokrane2008-zr,
