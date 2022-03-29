@@ -3779,10 +3779,10 @@
   keywords  = "Book\_Intelligent Control: Disruptive Technologies"
 }
 
-@INCOLLECTION{Brown2021-xj,
+@INCOLLECTION{Hyde2021-xj,
   title     = "{CASE} {STUDY}: Research by design: The gantry",
   booktitle = "Intelligent Control: Disruptive Technologies",
-  author    = "Brown, Hawkins",
+  editor    = "Hyde, Rob and Filippidis, Filippos",
   publisher = "RIBA Publishing",
   pages     = "108--113",
   month     =  aug,
