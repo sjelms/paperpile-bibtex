@@ -3821,7 +3821,8 @@
   publisher = "Springer Singapore",
   pages     = "3--11",
   year      =  2022,
-  address   = "Singapore"
+  address   = "Singapore",
+  keywords  = "Skill Acquisition"
 }
 
 @INCOLLECTION{Nonaka2022-du,
