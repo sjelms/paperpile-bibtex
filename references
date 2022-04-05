@@ -3791,8 +3791,11 @@
   keywords  = "Book\_Intelligent Control: Disruptive Technologies"
 }
 
-@MISC{Sorensen2021-jj,
-  title  = "{What Is the Fourth Industrial Revolution?}",
-  author = "Sorensen, Peter",
-  year   =  2021
+@MISC{Sorensen2020-jj,
+  title        = "What Is the Fourth Industrial Revolution?",
+  booktitle    = "Salesforce, The 360 Blog",
+  author       = "Sorensen, Peter",
+  month        =  oct,
+  year         =  2020,
+  howpublished = "\url{https://www.salesforce.com/blog/what-is-the-fourth-industrial-revolution-4ir/}"
 }
