@@ -3799,3 +3799,27 @@
   year         =  2020,
   howpublished = "\url{https://www.salesforce.com/blog/what-is-the-fourth-industrial-revolution-4ir/}"
 }
+
+@INCOLLECTION{Nonaka2022-dc,
+  title     = "Dialogue Between Ikujiro Nonaka and Ichiro Yamaguchi:
+               ``Bracketing'' Management Science",
+  booktitle = "Management by Eidetic Intuition: A Dynamic Management Theory
+               Predicated on the ``Philosophy of Empathy''",
+  author    = "Nonaka, Ikujiro and Yamaguchi, Ichiro",
+  editor    = "Nonaka, Ikujiro and Yamaguchi, Ichiro",
+  abstract  = "Management theorist Professor Nonaka and phenomenologist
+               Professor Yamaguchi discuss the relationship between art and
+               science. According to them, scientific objectivity always comes
+               from subjective experience of human beings, and meaning and
+               values are the most fundamental condition for human existence.
+               However, we now live in the ``meaningless'' and ``value-less''
+               world dominated by the natural sciences where ``objectivity'' is
+               valued over subjectivity and many of us are feeling disoriented
+               in our lives. Husserl's phenomenology gives us an insight to
+               overcome this existential challenge in the way that is deeply
+               connected to Nonaka's management studies.",
+  publisher = "Springer Singapore",
+  pages     = "3--11",
+  year      =  2022,
+  address   = "Singapore"
+}
