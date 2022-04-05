@@ -3790,3 +3790,9 @@
   address   = "London",
   keywords  = "Book\_Intelligent Control: Disruptive Technologies"
 }
+
+@MISC{Sorensen2021-jj,
+  title  = "{What Is the Fourth Industrial Revolution?}",
+  author = "Sorensen, Peter",
+  year   =  2021
+}
