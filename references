@@ -3409,6 +3409,12 @@
   keywords  = "AIEd;Intelligent Tutoring Systems (ITS);§New Literature"
 }
 
+@MISC{Surette2011-pc,
+  title  = "{Histories of Disney's Contemporary and Polynesian Resorts}",
+  author = "Surette, Cappy and Cantore, Nicole and Scott, Eric",
+  year   =  2011
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Ye2019-oc,
