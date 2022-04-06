@@ -293,7 +293,8 @@
   author       = "Allen, Nichol",
   month        =  jun,
   year         =  2019,
-  howpublished = "\url{https://madison-historical.siue.edu/encyclopedia/standard-oils-company-housing-in-wood-river-illinois/}"
+  howpublished = "\url{https://madison-historical.siue.edu/encyclopedia/standard-oils-company-housing-in-wood-river-illinois/}",
+  keywords     = "Cited for Frontiers"
 }
 
 @MISC{Surette2011-pc,
