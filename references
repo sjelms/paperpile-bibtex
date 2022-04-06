@@ -287,10 +287,13 @@
 }
 
 @MISC{Allen2019-us,
-  title  = "{Standard Oil's Company Housing in Wood River, Illinois -- Madison
-            Historical}",
-  author = "Allen, Nichol",
-  year   =  2019
+  title        = "Standard Oil's Company Housing in Wood River, Illinois",
+  booktitle    = "Madison Historical: The Online Encyclopedia and Digital
+                  Archive",
+  author       = "Allen, Nichol",
+  month        =  jun,
+  year         =  2019,
+  howpublished = "\url{https://madison-historical.siue.edu/encyclopedia/standard-oils-company-housing-in-wood-river-illinois/}"
 }
 
 @MISC{Surette2011-pc,
