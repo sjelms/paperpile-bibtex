@@ -340,6 +340,15 @@
   keywords  = "Book\_Intelligent Control: Disruptive Technologies"
 }
 
+@MISC{Bureau_of_Labor_Statistics2000-ge,
+  title     = "{BLS} Data Viewer",
+  author    = "{Bureau of Labor Statistics}",
+  publisher = "United States Department of Labor",
+  year      =  2000,
+  keywords  = "Cited for Frontiers;Zotero Import (Feb 22);My Library;2021-12-03
+               Frontiers"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Amokrane2008-zr,
@@ -1100,14 +1109,6 @@
   month    =  oct,
   year     =  2015,
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
-}
-
-@MISC{Bureau_of_Labor_Statistics2000-ge,
-  title     = "{BLS} Data Viewer",
-  author    = "{Bureau of Labor Statistics}",
-  publisher = "United States Department of Labor",
-  year      =  2000,
-  keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
 @MISC{Siegel2021-ks,
