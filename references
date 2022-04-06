@@ -218,7 +218,7 @@
   author    = "{OECD}",
   publisher = "OECD Publishing",
   year      =  2020,
-  keywords  = "Skill Acquisition;Report"
+  keywords  = "Knowledge - Skill Acquisition;Report"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -604,8 +604,8 @@
   journal  = "New York Times",
   month    =  jan,
   year     =  1918,
-  keywords = "General Interest Periodicals--United States;Zotero Import (Feb
-              22);My Library",
+  keywords = "General Interest Periodicals--United States;Cited for
+              Frontiers;Zotero Import (Feb 22);My Library",
   language = "English"
 }
 
@@ -2077,9 +2077,9 @@
   pages    = "67--87",
   month    =  apr,
   year     =  2010,
-  keywords = "Intelligent Tutoring Systems (ITS);Skill Acquisition;Zotero
-              Import (Feb 22);My Library;Frontiers [2021];Intelligent Tutoring
-              Systems (ITS)"
+  keywords = "Intelligent Tutoring Systems (ITS);Knowledge - Skill
+              Acquisition;Zotero Import (Feb 22);My Library;Frontiers
+              [2021];Intelligent Tutoring Systems (ITS)"
 }
 
 @ARTICLE{Alkhatlan2018-pv,
@@ -2642,7 +2642,7 @@
   pages     = "121--152",
   month     =  apr,
   year      =  1981,
-  keywords  = "Skill Acquisition;§New Literature"
+  keywords  = "Knowledge - Skill Acquisition;§New Literature"
 }
 
 @INCOLLECTION{Goller2022-oc,
@@ -3822,7 +3822,7 @@
   pages     = "3--11",
   year      =  2022,
   address   = "Singapore",
-  keywords  = "Skill Acquisition"
+  keywords  = "Knowledge - Skill Acquisition"
 }
 
 @INCOLLECTION{Nonaka2022-du,
@@ -3844,5 +3844,5 @@
   pages     = "125--139",
   year      =  2022,
   address   = "Singapore",
-  keywords  = "Skill Acquisition"
+  keywords  = "Knowledge - Skill Acquisition"
 }
