@@ -1250,15 +1250,17 @@
   keywords    = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
-@MISC{Barbosa2017-rj,
-  title    = "Reinventing construction through a productivity revolution",
-  author   = "Barbosa, Filipe and Woetzel, Jonathan and Mischke, Jan and
-              Ribeirinho, Maria Jo{\~a}o and Sridhar, Mukund and Parsons,
-              Matthew and Bertram, Nick and Brown, Stephanie",
-  month    =  feb,
-  year     =  2017,
-  keywords = "Cited for Frontiers;Zotero Import (Feb 22);My Library;2021-12-03
-              Frontiers"
+@TECHREPORT{Barbosa2017-rj,
+  title       = "Reinventing construction through a productivity revolution",
+  author      = "Barbosa, Filipe and Woetzel, Jonathan and Mischke, Jan and
+                 Ribeirinho, Maria Jo{\~a}o and Sridhar, Mukund and Parsons,
+                 Matthew and Bertram, Nick and Brown, Stephanie",
+  institution = "McKinsey Global Institute",
+  month       =  feb,
+  year        =  2017,
+  keywords    = "Cited for Frontiers;Zotero Import (Feb 22);My
+                 Library;2021-12-03 Frontiers",
+  copyright   = "McKinsey \& Company"
 }
 
 @BOOK{Collins2018-ut,
