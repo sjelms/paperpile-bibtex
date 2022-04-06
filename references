@@ -286,11 +286,11 @@
   keywords  = "Intelligent Tutoring Systems (ITS);§New Literature"
 }
 
-@MISC{Video2019-vy,
+@MISC{Redshift2019-vy,
   title     = "The History of Prefabrication, From Roman Forts to Modern
                Modular Housing",
-  author    = "Video, Redshift",
-  publisher = "Redshift",
+  author    = "{Redshift}",
+  publisher = "Redshift Video",
   month     =  feb,
   year      =  2019,
   address   = "United States",
