@@ -1090,11 +1090,12 @@
 }
 
 @MISC{MIT_Work_of_the_Future2020-dz,
-  title    = "About Us",
-  author   = "{MIT Work of the Future}",
-  month    =  nov,
-  year     =  2020,
-  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
+  title        = "About Us",
+  author       = "{MIT Work of the Future}",
+  month        =  nov,
+  year         =  2020,
+  howpublished = "\url{https://workofthefuture.mit.edu/mission/}",
+  keywords     = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
 @MISC{Office_of_Qualifications_and_Examinations_Regulation_Ofqual2014-ny,
