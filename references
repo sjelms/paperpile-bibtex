@@ -3104,6 +3104,16 @@
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
+@MISC{Surette2011-pc,
+  title        = "Histories of Disney's Contemporary and Polynesian Resorts",
+  booktitle    = "Disney Parks Blog",
+  author       = "Surette, Cappy and Cantore, Nicole and Scott, Eric",
+  month        =  sep,
+  year         =  2011,
+  howpublished = "\url{https://disneyparks.disney.go.com/blog/2011/09/histories-of-disneys-contemporary-and-polynesian-resorts/}",
+  copyright    = "The Walt Disney Company"
+}
+
 @INPROCEEDINGS{Luckin2001-ue,
   title     = "Ecolab: Exploring the Construction of a Learning Assistant",
   booktitle = "Intelligent Tutoring Systems",
@@ -3407,12 +3417,6 @@
   month     =  jan,
   year      =  1999,
   keywords  = "AIEd;Intelligent Tutoring Systems (ITS);§New Literature"
-}
-
-@MISC{Surette2011-pc,
-  title  = "{Histories of Disney's Contemporary and Polynesian Resorts}",
-  author = "Surette, Cappy and Cantore, Nicole and Scott, Eric",
-  year   =  2011
 }
 
 % The entry below contains non-ASCII chars that could not be converted
