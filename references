@@ -3868,7 +3868,8 @@
   month     =  jan,
   year      =  2012,
   address   = "Boston",
-  keywords  = "AEC"
+  keywords  = "AEC;Handbook of Green Building Design and Construction (Second
+               Edition)"
 }
 
 @INCOLLECTION{Kubba2017-dy,
@@ -3902,7 +3903,9 @@
   year      =  2017,
   keywords  = "Bid solicitation; Certificate for payment; ConsensusDOCS;
                Cost-plus contract; Design-bid-build; Field report; Lump sum
-               contract; Request for proposal; Scope of work; Shop drawing;AEC"
+               contract; Request for proposal; Scope of work; Shop
+               drawing;AEC;Handbook of Green Building Design and Construction
+               (Second Edition)"
 }
 
 @INCOLLECTION{Kubba2017-ph,
@@ -3936,7 +3939,8 @@
   keywords  = "Brownfield sites; Building commissioning; Building information
                modeling (BIM); Gray water; Green design strategies; Holistic
                approach; IgCC codes; Integrated design; Intelligent buildings;
-               Solar energy;AEC"
+               Solar energy;AEC;Handbook of Green Building Design and
+               Construction (Second Edition)"
 }
 
 @INCOLLECTION{Kubba2017-uo,
