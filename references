@@ -286,6 +286,18 @@
   keywords  = "Intelligent Tutoring Systems (ITS);§New Literature"
 }
 
+@MISC{Video2019-vy,
+  title     = "The History of Prefabrication, From Roman Forts to Modern
+               Modular Housing",
+  author    = "Video, Redshift",
+  publisher = "Redshift",
+  month     =  feb,
+  year      =  2019,
+  address   = "United States",
+  keywords  = "YouTube;Zotero Import (Feb 22);My Library;2021-12-03 Frontiers",
+  copyright = "Autodesk"
+}
+
 @INPROCEEDINGS{Chen2020-fm,
   title     = "User Behavior Analysis Toward Adaptive Guidance for Machine
                Operation Tasks",
@@ -1324,17 +1336,6 @@
   month     =  jun,
   year      =  2021,
   keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
-}
-
-@MISC{noauthor_2019-vy,
-  title     = "The History of Prefabrication, From Roman Forts to Modern
-               Modular Housing",
-  publisher = "Redshift",
-  month     =  feb,
-  year      =  2019,
-  address   = "United States",
-  keywords  = "YouTube;Zotero Import (Feb 22);My Library;2021-12-03 Frontiers",
-  copyright = "Autodesk"
 }
 
 @MISC{Ellis2021-gp,
