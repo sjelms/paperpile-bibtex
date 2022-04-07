@@ -3876,20 +3876,6 @@
   keywords  = "Knowledge - Skill Acquisition"
 }
 
-@INCOLLECTION{Kubba2012-jw,
-  title     = "Chapter 14 - Types of Building Contract Agreements",
-  booktitle = "Handbook of Green Building Design and Construction",
-  author    = "Kubba, Sam",
-  editor    = "Kubba, Sam",
-  publisher = "Butterworth-Heinemann",
-  pages     = "633--676",
-  month     =  jan,
-  year      =  2012,
-  address   = "Boston",
-  keywords  = "AEC;Handbook of Green Building Design and Construction (Second
-               Edition)"
-}
-
 @INCOLLECTION{Kubba2017-dy,
   title     = "Chapter Fourteen - Types of Building Contract Agreements",
   booktitle = "Handbook of Green Building Design and Construction (Second
