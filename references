@@ -3972,7 +3972,7 @@
   pages     = "53--59",
   month     =  feb,
   year      =  1971,
-  keywords  = "Cited for Frontiers;+Notion;Frontiers [2022]"
+  keywords  = "Cited for Frontiers;+Notion;Labor;Frontiers [2022]"
 }
 
 @TECHREPORT{Barua2020-br,
@@ -3996,7 +3996,8 @@
                decades. This paper examines the causes of the labor shortage …",
   publisher = "ascpro0.ascweb.org",
   pages     = "187--196",
-  year      =  1999
+  year      =  1999,
+  keywords  = "Labor"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -4044,7 +4045,7 @@
   pages     = "969--974",
   year      =  2006,
   keywords  = "건설현장;기능인력 수급;생산성 향상;construction industry;skilled labor
-               productivity improvement",
+               productivity improvement;Labor",
   language  = "ko"
 }
 
@@ -4092,7 +4093,8 @@
   journal   = "Construction Research Congress",
   publisher = "ascelibrary.org",
   pages     = "1--8",
-  year      =  2003
+  year      =  2003,
+  keywords  = "Labor"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -4112,5 +4114,6 @@
   pages     = "04019035",
   month     =  jan,
   year      =  2020,
+  keywords  = "Labor",
   language  = "en"
 }
