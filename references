@@ -294,7 +294,7 @@
   month        =  jun,
   year         =  2019,
   howpublished = "\url{https://madison-historical.siue.edu/encyclopedia/standard-oils-company-housing-in-wood-river-illinois/}",
-  keywords     = "Cited for Frontiers"
+  keywords     = "Cited for Frontiers;Frontiers [2022]"
 }
 
 @MISC{Surette2011-pc,
@@ -304,7 +304,7 @@
   month        =  sep,
   year         =  2011,
   howpublished = "\url{https://disneyparks.disney.go.com/blog/2011/09/histories-of-disneys-contemporary-and-polynesian-resorts/}",
-  keywords     = "Cited for Frontiers",
+  keywords     = "Cited for Frontiers;Frontiers [2022]",
   copyright    = "The Walt Disney Company"
 }
 
@@ -382,7 +382,7 @@
   note      = "Title of the publication associated with this dataset: Labor
                Force Statistics from the Current Population Survey",
   keywords  = "Cited for Frontiers;Zotero Import (Feb 22);My Library;2021-12-03
-               Frontiers"
+               Frontiers;Frontiers [2022]"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -650,7 +650,7 @@
   month    =  jan,
   year     =  1918,
   keywords = "General Interest Periodicals--United States;Cited for
-              Frontiers;Zotero Import (Feb 22);My Library",
+              Frontiers;Zotero Import (Feb 22);My Library;Frontiers [2022]",
   language = "English"
 }
 
@@ -706,7 +706,8 @@
   author    = "Frey, C B",
   publisher = "Princeton University Press",
   year      =  2019,
-  keywords  = "Cited for Frontiers;Zotero Import (Feb 22);My Library"
+  keywords  = "Cited for Frontiers;Zotero Import (Feb 22);My Library;Frontiers
+               [2022]"
 }
 
 @ARTICLE{Gott1988-dw,
@@ -850,7 +851,7 @@
   month       =  jun,
   year        =  2021,
   keywords    = "Cited for Frontiers;Zotero Import (Feb 22);My
-                 Library;2021-12-03 Frontiers"
+                 Library;2021-12-03 Frontiers;Frontiers [2022]"
 }
 
 @BOOK{Benner1984-ut,
@@ -869,7 +870,7 @@
   month       =  may,
   year        =  2019,
   keywords    = "Cited for Frontiers;Zotero Import (Feb 22);My
-                 Library;2021-12-03 Frontiers"
+                 Library;2021-12-03 Frontiers;Frontiers [2022]"
 }
 
 @MISC{Historic_Buildings_and_Monuments_Commission_for_England2018-dl,
@@ -939,7 +940,7 @@
   month       =  nov,
   year        =  2020,
   keywords    = "Cited for Frontiers;Zotero Import (Feb 22);My
-                 Library;2021-12-03 Frontiers"
+                 Library;2021-12-03 Frontiers;Frontiers [2022]"
 }
 
 @TECHREPORT{Zahidi2020-lt,
@@ -950,7 +951,7 @@
   month       =  oct,
   year        =  2020,
   keywords    = "Cited for Frontiers;Zotero Import (Feb 22);My
-                 Library;2021-12-03 Frontiers"
+                 Library;2021-12-03 Frontiers;Frontiers [2022]"
 }
 
 @TECHREPORT{Leopold2018-cc,
@@ -961,7 +962,7 @@
   institution = "Centre for the New Economy and Society",
   year        =  2018,
   keywords    = "Cited for Frontiers;Zotero Import (Feb 22);My
-                 Library;2021-12-03 Frontiers"
+                 Library;2021-12-03 Frontiers;Frontiers [2022]"
 }
 
 @ARTICLE{Kambhampati2021-lr,
@@ -1132,7 +1133,7 @@
   year         =  2020,
   howpublished = "\url{https://workofthefuture.mit.edu/mission/}",
   keywords     = "Cited for Frontiers;Zotero Import (Feb 22);My
-                  Library;2021-12-03 Frontiers"
+                  Library;2021-12-03 Frontiers;Frontiers [2022]"
 }
 
 @MISC{Office_of_Qualifications_and_Examinations_Regulation_Ofqual2014-ny,
@@ -1195,15 +1196,6 @@
   keywords    = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
-@TECHREPORT{Barua2020-br,
-  title    = "The construction workforce: Growing again, but not changing much",
-  author   = "Barua, A",
-  month    =  feb,
-  year     =  2020,
-  keywords = "Cited for Frontiers;Zotero Import (Feb 22);My Library;2021-12-03
-              Frontiers"
-}
-
 @TECHREPORT{McKinsey_Global_Institute2016-wd,
   title       = "A tool kit to close California's housing gap: 3.5 million
                  homes by 2025",
@@ -1261,7 +1253,7 @@
   publisher = "Adfo Books",
   year      =  2017,
   keywords  = "Cited for Frontiers;Zotero Import (Feb 22);My Library;2021-12-03
-               Frontiers"
+               Frontiers;Frontiers [2022]"
 }
 
 @MISC{Factory_OS2020-jw,
@@ -1293,7 +1285,7 @@
   month       =  feb,
   year        =  2017,
   keywords    = "Cited for Frontiers;Zotero Import (Feb 22);My
-                 Library;2021-12-03 Frontiers",
+                 Library;2021-12-03 Frontiers;Frontiers [2022]",
   copyright   = "McKinsey \& Company"
 }
 
@@ -2892,7 +2884,7 @@
   publisher = "MIT Press",
   year      =  2022,
   keywords  = "Book (physical);ePub;Mark Up;Cited for
-               Frontiers;The\_Work\_of\_the\_Future.bibtex"
+               Frontiers;The\_Work\_of\_the\_Future.bibtex;Frontiers [2022]"
 }
 
 @ARTICLE{Boder1990-uj,
@@ -3685,7 +3677,7 @@
   publisher = "W. W. Norton \& Company",
   month     =  jan,
   year      =  2014,
-  keywords  = "Book (physical);Cited for Frontiers",
+  keywords  = "Book (physical);Cited for Frontiers;Frontiers [2022]",
   language  = "en"
 }
 
@@ -3710,7 +3702,7 @@
   year     =  2016,
   keywords = "Special issues and sections;Cyber-physical
               systems;Industries;Automation;Real-time systems;Mark Up;Cited for
-              Frontiers"
+              Frontiers;Frontiers [2022]"
 }
 
 @TECHREPORT{Miller2020-fp,
@@ -3721,7 +3713,7 @@
   month       =  feb,
   year        =  2020,
   keywords    = "Cited for Frontiers;Zotero Import (Feb 22);My
-                 Library;2021-12-03 Frontiers"
+                 Library;2021-12-03 Frontiers;Frontiers [2022]"
 }
 
 @TECHREPORT{Green2020-gb,
@@ -3732,7 +3724,7 @@
   month       =  feb,
   year        =  2020,
   keywords    = "Cited for Frontiers;Zotero Import (Feb 22);My
-                 Library;2021-12-03 Frontiers"
+                 Library;2021-12-03 Frontiers;Frontiers [2022]"
 }
 
 @MISC{Andrews2019-pu,
@@ -3741,7 +3733,7 @@
   month        =  jun,
   year         =  2019,
   howpublished = "\url{https://www.history.com/news/who-were-the-luddites}",
-  keywords     = "Cited for Frontiers"
+  keywords     = "Cited for Frontiers;Frontiers [2022]"
 }
 
 @MISC{Conniff2011-dm,
@@ -3751,7 +3743,7 @@
   month        =  mar,
   year         =  2011,
   howpublished = "\url{https://www.smithsonianmag.com/history/what-the-luddites-really-fought-against-264412/}",
-  keywords     = "Cited for Frontiers"
+  keywords     = "Cited for Frontiers;Frontiers [2022]"
 }
 
 @BOOK{Hyde2021-ai,
@@ -3834,7 +3826,7 @@
   month        =  oct,
   year         =  2020,
   howpublished = "\url{https://www.salesforce.com/blog/what-is-the-fourth-industrial-revolution-4ir/}",
-  keywords     = "Cited for Frontiers"
+  keywords     = "Cited for Frontiers;Frontiers [2022]"
 }
 
 @INCOLLECTION{Nonaka2022-dc,
@@ -3992,5 +3984,14 @@
   pages     = "53--59",
   month     =  feb,
   year      =  1971,
-  keywords  = "Cited for Frontiers"
+  keywords  = "Cited for Frontiers;Frontiers [2022]"
+}
+
+@TECHREPORT{Barua2020-br,
+  title    = "The construction workforce: Growing again, but not changing much",
+  author   = "Barua, A",
+  month    =  feb,
+  year     =  2020,
+  keywords = "Cited for Frontiers;Zotero Import (Feb 22);My Library;2021-12-03
+              Frontiers;Frontiers [2022]"
 }
