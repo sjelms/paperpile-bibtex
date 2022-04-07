@@ -3998,3 +3998,52 @@
   pages     = "187--196",
   year      =  1999
 }
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Lee2006-ll,
+  title     = "Using Next Generation Technologies to Resolve Construction Labor
+               Shortage Problems",
+  author    = "Lee, Bok-Nam and Woo, Sungkwon and Chang, Chul-Ki and Koo,
+               Bon-Sang",
+  abstract  = "국내 건설현장 기능 인력 부족 문제가 심각하다. 현재 국내 건설현장은 신규 인력 진입 저조에 따른 공급 부족과 기능
+               인력의 고령화에 따른 생산성 저하 등 양적, 질적인 문제를 동시에 겪고 있다. 여기에 현재 계획되고 있는 대규모
+               국가사업으로 향후 건설현장 기능 인력의 부족은 더욱 심각해질 전망이다. 건설현장 기능인력 수급 불균형 문제에 대한
+               해결방안으로서의 공급 확보 정책은 시대의 흐름과 기술 발전에 따른 미래 전망을 고려해볼 때, 어느 정도 한계가
+               있다고 판단되며, 기술적 접근을 통해 기능 인력에 대한 수요를 줄이는 노력이 병행되어야 한다고 판단된다. 기술
+               발전을 통한 기능인력 수요 감소를 위해서는 현장에서 수행되는 작업 프로세스의 생산성과 효율성을 향상시킬 수 있는
+               분야에 연구의 초점이 맞춰져야 하며, 기능인력 수요 저감의 핵심이 되며 연구개발 노력이 필요한 분야로서 1) 건설
+               자동화 및 기계화 확대를 통한 기능 인력의 대체, 2) 고성능 건설 자재 개발 및 활용으로 현장 작업량 저감, 3)
+               정보화 기술 도입으로 현장 작업대기 시간 감축에 의한 생산성 향상, 4) 모듈화, 선조립, 공장제작 등 선작업
+               방식의 적용을 통한 현장 기능 인력 수요 저감 및 생산성 향상, 5) 재설계/재시공 예방으로 추가 작업 발생 방지,
+               6) 기능 및 직종 통합에 의한 다기능 인력 양성, 7) 시공 프로세스 개선에 의한 작업 생산성 향상 등의 7가지
+               주제를 제시하였다. Labor shortages are a serious problem for Korea's
+               construction industry. The problem is both quantitative and
+               qualitative. There is a shortage in supply as due to a decrease
+               in the influx of new labor, and existing workers are less
+               productive as they age. The problem will only get worse as more
+               and more major public projects are being planned. Options for
+               increasing the labor supply are somewhat limited, and thus
+               efforts need to be made to adopt new technologies that can
+               improve the productivity and efficiency of field work and their
+               processes. This paper introduces seven innovation technologies
+               that have the best potential to increase productivity and thus
+               reduce the burden of labor shortage problems. These include 1)
+               Substitution by use of robotics and automation, 2) development
+               and applications of Innovative materials to reduce on site field
+               work, 3) increase in productivity through the implementation of
+               Information Technology, 4) improved productivity through the
+               application of modules, and prefabrication, 5) prevention of
+               rework and redesign, 6) diversification of labor by integrating
+               labor skills, and 7) improved productivity by standardizing site
+               processes.",
+  journal   = "KSCE Journal of Civil and Environmental Engineering Research",
+  publisher = "Korean Society of Civil Engeneers",
+  volume    =  26,
+  number    = "6D",
+  pages     = "969--974",
+  year      =  2006,
+  keywords  = "건설현장;기능인력 수급;생산성 향상;construction industry;skilled labor
+               productivity improvement",
+  language  = "ko"
+}
