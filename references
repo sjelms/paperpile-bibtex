@@ -4094,3 +4094,23 @@
   pages     = "1--8",
   year      =  2003
 }
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Kim2020-fo,
+  title     = "Dynamic modeling for analyzing impacts of skilled labor shortage
+               on construction project management",
+  author    = "Kim, Sungjin and Chang, Soowon and Castro-Lacouture, Daniel",
+  abstract  = "… labor shortage in construction projects. A total of five
+               scenarios were established to simulate shortages and
+               construction … skilled labor shortage and its influence on
+               construction projects. …",
+  journal   = "J. Manage. Eng.",
+  publisher = "American Society of Civil Engineers (ASCE)",
+  volume    =  36,
+  number    =  1,
+  pages     = "04019035",
+  month     =  jan,
+  year      =  2020,
+  language  = "en"
+}
