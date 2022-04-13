@@ -3738,6 +3738,15 @@
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
+@INPROCEEDINGS{Olsen2012-gr,
+  title     = "Bad for Business: Skilled Labor Shortages in Alabama's
+               Construction Industry",
+  booktitle = "48th {ASC} Annual International Conference Proceedings, April",
+  author    = "Olsen, Darren and Tatum, Mark C",
+  pages     = "11--14",
+  year      =  2012
+}
+
 @BOOK{Halttunen2014-gh,
   title     = "Promoting, Assessing, Recognizing and Certifying Lifelong
                Learning: International Perspectives and Practices",
@@ -4103,17 +4112,6 @@
   author   = "{Reed Online}",
   year     =  2021,
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@INPROCEEDINGS{Olsen2012-gr,
-  title     = "Bad for business: Skilled labor shortages in Alabama{\^a}€™ s
-               construction industry",
-  booktitle = "48th {ASC} Annual International Conference Proceedings, April",
-  author    = "Olsen, Darren and Tatum, Mark C",
-  pages     = "11--14",
-  year      =  2012
 }
 
 @MISC{Ngo2021-qp,
