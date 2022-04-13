@@ -4203,3 +4203,14 @@
   note         = "Accessed: 2022-4-13",
   language     = "en"
 }
+
+@ARTICLE{Inman2021-ce,
+  title     = "{UK} enjoys property sales boom amid Covid-19 pandemic",
+  author    = "Inman, Phillip",
+  abstract  = "Britain's real estate market defies predictions of a house price
+               crash despite coronavirus crisis",
+  journal   = "The Guardian",
+  publisher = "The Guardian",
+  month     =  sep,
+  year      =  2021
+}
