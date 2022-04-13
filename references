@@ -4188,11 +4188,11 @@
 
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
-@MISC{Schoni2021-mh,
+@MISC{Cheshire2021-mh,
   title        = "Why central London has seen the biggest rises in house
                   prices, despite {COVID}",
   booktitle    = "London School of Economics and Political Science",
-  author       = "Sch{\"o}ni, Paul Cheshire, Christian Hilber,",
+  author       = "Cheshire, Paul and Hilber, Christian and Sch{\"o}ni, Olivier",
   abstract     = "As many predicted, the pandemic led to a demand for bigger
                   homes and gardens. But with supply limited by Britain's
                   strict planning regulations, and the market propped up by a
