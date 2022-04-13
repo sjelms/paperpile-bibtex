@@ -3841,6 +3841,17 @@
   keywords  = "Book\_Intelligent Control: Disruptive Technologies"
 }
 
+@ARTICLE{noauthor_undated-ju,
+  title    = "The Covid-19 Pandemic Has Fueled A Crisis In The Housing Market",
+  author   = "{Sai Balasubramanian, M.D., J.D.}",
+  abstract = "Increased demand, limited supply, and a relentless global
+              pandemic have created the perfect storm in the housing market.",
+  journal  = "Forbes Magazine",
+  month    =  apr,
+  year     =  2021,
+  language = "en"
+}
+
 @MISC{Sorensen2020-jj,
   title        = "What Is the Fourth Industrial Revolution?",
   booktitle    = "Salesforce, The 360 Blog",
