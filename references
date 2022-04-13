@@ -4184,3 +4184,20 @@
   note         = "Accessed: 2022-4-13",
   language     = "en"
 }
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@MISC{noauthor_2021-mh,
+  title        = "Why central London has seen the biggest rises in house
+                  prices, despite {COVID}",
+  booktitle    = "{LSE} {COVID-19}",
+  abstract     = "As many predicted, the pandemic led to a demand for bigger
+                  homes and gardens. But with supply limited by Britain's
+                  strict planning regulations, and the market propped up by a
+                  stamp duty waive…",
+  month        =  mar,
+  year         =  2021,
+  howpublished = "\url{https://blogs.lse.ac.uk/covid19/2021/03/31/why-central-london-has-seen-the-biggest-rises-in-house-prices-despite-covid/}",
+  note         = "Accessed: 2022-4-13",
+  language     = "en"
+}
