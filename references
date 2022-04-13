@@ -3849,6 +3849,7 @@
   journal  = "Forbes Magazine",
   month    =  apr,
   year     =  2021,
+  keywords = "Cited for Frontiers",
   language = "en"
 }
 
@@ -4223,5 +4224,6 @@
   journal   = "The Guardian",
   publisher = "The Guardian",
   month     =  sep,
-  year      =  2021
+  year      =  2021,
+  keywords  = "Cited for Frontiers"
 }
