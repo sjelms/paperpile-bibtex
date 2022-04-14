@@ -4358,3 +4358,26 @@
   year      =  2011,
   keywords  = "AEC;Labor;Frontiers [2022]"
 }
+
+@BOOK{Marriott2014-ef,
+  title     = "{NHBC} Foundation: improving recruitment of young people into
+               home building : a literature review",
+  author    = "Marriott, John and Moore, Nicki",
+  abstract  = "This literature review was undertaken to support research into
+               young people's attitudes to careers in house building. The
+               review is based on database searches supplemented by the
+               evidence gathered during stakeholder interviews and through
+               requests made to the wider careers and home building sectors. In
+               order to fully answer the main research questions, the
+               literature mapping the barriers faced by young people to working
+               within the sector was explored. Based on the review a set of
+               criteria for analysing and categorising industry sector
+               initiatives will also be developed. The criteria will be
+               presented as a separate compendium of opportunities.",
+  publisher = "University of Derby",
+  month     =  dec,
+  year      =  2014,
+  keywords  = "Career development; Construction careers; House building
+               careers; Technical Report",
+  language  = "en"
+}
