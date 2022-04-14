@@ -4274,7 +4274,7 @@
   publisher = "uknowledge.uky.edu",
   year      =  2008,
   school    = "University of Kentucky",
-  keywords  = "AEC;Labor;Cited for Frontiers;Frontiers [2022]"
+  keywords  = "AEC;Labor;Cited for Frontiers;+Notion;Frontiers [2022]"
 }
 
 @MISC{Ghebreyesus2020-hb,
@@ -4321,7 +4321,7 @@
   number      =  568,
   institution = "Institute for Employment Studies",
   year        =  2021,
-  keywords    = "Labor;Frontiers [2022]"
+  keywords    = "Labor;+Notion;Frontiers [2022]"
 }
 
 @MISC{Agc2021-px,
@@ -4338,7 +4338,7 @@
   year         =  2021,
   howpublished = "\url{https://www.agc.org/news/2021/12/03/construction-adds-31000-jobs-november-gains-all-segments-industry-will-need-even-more-workers-demand}",
   note         = "Accessed: 2022-4-14",
-  keywords     = "Labor;AEC;Frontiers [2022]",
+  keywords     = "Labor;AEC;+Notion;Frontiers [2022]",
   language     = "en"
 }
 
@@ -4378,6 +4378,6 @@
   month     =  dec,
   year      =  2014,
   keywords  = "Career development; Construction careers; House building
-               careers; Technical Report",
+               careers; Technical Report;+Notion",
   language  = "en"
 }
