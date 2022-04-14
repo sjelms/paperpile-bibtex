@@ -4198,6 +4198,18 @@
   language     = "en"
 }
 
+@ARTICLE{Inman2021-ce,
+  title     = "{UK} enjoys property sales boom amid Covid-19 pandemic",
+  author    = "Inman, Phillip",
+  abstract  = "Britain's real estate market defies predictions of a house price
+               crash despite coronavirus crisis",
+  journal   = "The Guardian",
+  publisher = "The Guardian",
+  month     =  sep,
+  year      =  2021,
+  keywords  = "Cited for Frontiers;Frontiers [2022]"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @MISC{Cheshire2021-mh,
@@ -4213,17 +4225,6 @@
   year         =  2021,
   howpublished = "\url{https://blogs.lse.ac.uk/covid19/2021/03/31/why-central-london-has-seen-the-biggest-rises-in-house-prices-despite-covid/}",
   note         = "Accessed: 2022-4-13",
+  keywords     = "+Notion",
   language     = "en"
-}
-
-@ARTICLE{Inman2021-ce,
-  title     = "{UK} enjoys property sales boom amid Covid-19 pandemic",
-  author    = "Inman, Phillip",
-  abstract  = "Britain's real estate market defies predictions of a house price
-               crash despite coronavirus crisis",
-  journal   = "The Guardian",
-  publisher = "The Guardian",
-  month     =  sep,
-  year      =  2021,
-  keywords  = "Cited for Frontiers;Frontiers [2022]"
 }
