@@ -4276,9 +4276,13 @@
   keywords  = "AEC;Labor;Cited for Frontiers;Frontiers [2022]"
 }
 
-@MISC{noauthor_undated-hb,
+@MISC{Ghebreyesus2020-hb,
   title        = "{WHO} {Director-General's} opening remarks at the media
                   briefing on {COVID-19} - 11 March 2020",
+  booktitle    = "World Health Organization",
+  author       = "Ghebreyesus, Tedros Adhanom",
+  month        =  mar,
+  year         =  2020,
   howpublished = "\url{https://www.who.int/director-general/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020}",
   note         = "Accessed: 2022-4-14",
   language     = "en"
