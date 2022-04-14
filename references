@@ -4288,3 +4288,18 @@
   keywords     = "Cited for Frontiers",
   language     = "en"
 }
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Williams2021-iq,
+  title     = "A Better Future: Transforming jobs and skills for young people
+               post-pandemic",
+  author    = "Williams, J and Alexander, K and Wilson, T and Newton, B and
+               McNeil, C and Jung, C",
+  abstract  = "… workers from the construction sector trades , such as home
+               retrofitting and … some mid- skill growth, while the 'continued
+               trends' trajectory sees a … labour market with a loss of mid-
+               skilled jobs …",
+  publisher = "employment-studies.co.uk",
+  year      =  2021
+}
