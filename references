@@ -251,6 +251,22 @@
   language  = "en"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Milkman2020-mp,
+  title     = "Union Decline And Labor Revival In The 21st Century United
+               States",
+  author    = "Milkman, Ruth",
+  abstract  = "The size and influence of organized labor in the United States
+               has been declining steadily for more than half a century. The
+               relentless downward trend in union density (defined as the …",
+  journal   = "Chi. -Kent L. Rev.",
+  publisher = "HeinOnline",
+  volume    =  95,
+  pages     = "273",
+  year      =  2020
+}
+
 @BOOK{Self1995-ne,
   title     = "{Computational Mathetics: Towards a Science of Learning Systems
                Design}",
