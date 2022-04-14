@@ -4393,3 +4393,17 @@
   year     =  1997,
   language = "en"
 }
+
+@ARTICLE{Han_Seung_H2008-of,
+  title     = "Critical Issues and Possible Solutions for Motivating Foreign
+               Construction Workers",
+  author    = "{Han Seung H.} and {Park Sang H.} and {Jin Eui J.} and {Kim
+               Hyoungkwan} and {Seong Yeon K.}",
+  journal   = "J. Manage. Eng.",
+  publisher = "American Society of Civil Engineers",
+  volume    =  24,
+  number    =  4,
+  pages     = "217--226",
+  month     =  oct,
+  year      =  2008
+}
