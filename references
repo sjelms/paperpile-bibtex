@@ -4174,16 +4174,6 @@
   language  = "en"
 }
 
-@TECHREPORT{Bishop2021-qh,
-  title       = "Trade Union Membership, {UK} 1995-2020: Statistical Bulletin",
-  author      = "Bishop, Ivan",
-  institution = "Department for Business, Energy, and Industrial Strategy",
-  month       =  may,
-  year        =  2021,
-  keywords    = "Cited for Frontiers;Labor;Frontiers [2022]",
-  copyright   = "Crown copyright"
-}
-
 @MISC{Schankula2019-ju,
   title     = "The Future Of Work: {VICE} Special Report",
   booktitle = "{HBO} Documentary Films",
@@ -4473,7 +4463,7 @@
   pages     = "163--188",
   month     =  jan,
   year      =  1989,
-  keywords  = "Labor;Cited for Frontiers;Frontiers [2022]"
+  keywords  = "Labor;Cited for Frontiers;+Notion;Frontiers [2022]"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -4491,4 +4481,14 @@
   pages     = "477--502",
   year      =  2019,
   keywords  = "Labor"
+}
+
+@TECHREPORT{Bishop2021-qh,
+  title       = "Trade Union Membership, {UK} 1995-2020: Statistical Bulletin",
+  author      = "Bishop, Ivan",
+  institution = "Department for Business, Energy, and Industrial Strategy",
+  month       =  may,
+  year        =  2021,
+  keywords    = "Cited for Frontiers;Labor;+Notion;Frontiers [2022]",
+  copyright   = "Crown copyright"
 }
