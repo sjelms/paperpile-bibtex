@@ -2134,6 +2134,17 @@
   language = "en"
 }
 
+@INCOLLECTION{Hibbi2020-aw,
+  title     = "Integrating an intelligent tutoring system into an adaptive
+               E-learning process",
+  booktitle = "Applied and Numerical Harmonic Analysis",
+  author    = "Hibbi, Fatima-Zohra and Abdoun, Otman and Haimoudi, El Khatir",
+  publisher = "Springer International Publishing",
+  pages     = "141--150",
+  year      =  2020,
+  address   = "Cham"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Chini1999-tj,
