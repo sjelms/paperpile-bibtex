@@ -4174,8 +4174,13 @@
   language  = "en"
 }
 
-@MISC{noauthor_undated-qh,
-  title = "Trade-union-membership-2020-statistical-bulletin.pdf"
+@TECHREPORT{Bishop2021-qh,
+  title       = "Trade Union Membership, {UK} 1995-2020: Statistical Bulletin",
+  author      = "Bishop, Ivan",
+  institution = "Department for Business, Energy, and Industrial Strategy",
+  month       =  may,
+  year        =  2021,
+  copyright   = "Crown copyright"
 }
 
 @MISC{Schankula2019-ju,
