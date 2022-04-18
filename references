@@ -2134,17 +2134,6 @@
   language = "en"
 }
 
-@BOOK{Dos_Santos2020-ct,
-  title     = "Recent advances in mathematics and technology: Proceedings of
-               the first international conference on technology, engineering,
-               and mathematics, Kenitra, morocco, march 26-27, 2018",
-  editor    = "Dos Santos, Serge and Maslouhi, Mostafa and Okoudjou, Kasso A",
-  publisher = "Springer International Publishing",
-  year      =  2020,
-  address   = "Cham",
-  keywords  = "Intelligent Tutoring Systems (ITS)"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Chini1999-tj,
