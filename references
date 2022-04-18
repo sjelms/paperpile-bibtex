@@ -4465,3 +4465,19 @@
   year      =  1989,
   keywords  = "Labor;Cited for Frontiers;Frontiers [2022]"
 }
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Meyer2019-pv,
+  title     = "Financialization, technological change, and trade union decline",
+  author    = "Meyer, Brett",
+  abstract  = "… Explanations for trade union decline can be grouped into four
+               broad categories: (a … and have actively worked to weaken unions
+               (Brady, 2007) … in 1981, which began an anti- union turn in …",
+  journal   = "Socio-Economic Review",
+  publisher = "Oxford University Press",
+  volume    =  17,
+  number    =  3,
+  pages     = "477--502",
+  year      =  2019
+}
