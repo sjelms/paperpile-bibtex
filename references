@@ -2141,7 +2141,8 @@
   editor    = "Dos Santos, Serge and Maslouhi, Mostafa and Okoudjou, Kasso A",
   publisher = "Springer International Publishing",
   year      =  2020,
-  address   = "Cham"
+  address   = "Cham",
+  keywords  = "Intelligent Tutoring Systems (ITS)"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
