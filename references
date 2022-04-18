@@ -4021,22 +4021,6 @@
 
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
-@INPROCEEDINGS{Chini1999-tj,
-  title     = "Causes of the construction skilled labor shortage and proposed
-               solutions",
-  booktitle = "{ASC} Proceedings of the 35th Annual Conference",
-  author    = "Chini, Abdol R and Brown, Brisbane H and Drummond, Eric G",
-  abstract  = "… potentially greater supply of individuals for the construction
-               work force. Yet, there … construction industry over the next two
-               decades. This paper examines the causes of the labor shortage …",
-  publisher = "ascpro0.ascweb.org",
-  pages     = "187--196",
-  year      =  1999,
-  keywords  = "Labor;@\_Mark Up;Cited for Frontiers"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
 @ARTICLE{Lee2006-ll,
   title     = "Using Next Generation Technologies to Resolve Construction Labor
                Shortage Problems",
@@ -4491,4 +4475,20 @@
   year        =  2021,
   keywords    = "Cited for Frontiers;Labor;+Notion;Frontiers [2022]",
   copyright   = "Crown copyright"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@INPROCEEDINGS{Chini1999-tj,
+  title     = "Causes of the construction skilled labor shortage and proposed
+               solutions",
+  booktitle = "{ASC} Proceedings of the 35th Annual Conference",
+  author    = "Chini, Abdol R and Brown, Brisbane H and Drummond, Eric G",
+  abstract  = "… potentially greater supply of individuals for the construction
+               work force. Yet, there … construction industry over the next two
+               decades. This paper examines the causes of the labor shortage …",
+  publisher = "ascpro0.ascweb.org",
+  pages     = "187--196",
+  year      =  1999,
+  keywords  = "Labor;@\_Mark Up;Cited for Frontiers;Frontiers [2022]"
 }
