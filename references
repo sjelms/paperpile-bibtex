@@ -257,6 +257,7 @@
   author    = "Self, John",
   publisher = "Drakkar Press",
   year      =  1995,
+  address   = "Lancaster LA2 9PJ",
   keywords  = "diagnosis ; reasoning ; dialogues ; computational mathetics ;
                instructions;Intelligent Tutoring Systems (ITS);AIEd"
 }
