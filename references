@@ -4587,8 +4587,9 @@
   keywords  = "Workplace Learning;@\_Mark Up;+Notion;Labor"
 }
 
-@ARTICLE{noauthor_1973-wn,
+@ARTICLE{Sage1973-wn,
   title    = "In Memoriam Jaime R. Carbonell",
+  editor   = "Sage, Andrew P",
   abstract = "Summary form only given, as follows. Dr. Jaime R. Carbonell, who
               was a member of the Administrative Committee of the IEEE Systems,
               Man, and Cybernetics Society, died suddenly on February 2, 1973,
