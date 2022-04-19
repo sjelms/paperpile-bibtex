@@ -406,8 +406,6 @@
   keywords  = "AEC;Labor;+Notion;@\_Mark Up;Completed;Frontiers [2022]"
 }
 
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
 @INPROCEEDINGS{Amokrane2008-zr,
   title           = "An intelligent tutoring system for training and learning
                      in a virtual environment for high-risk sites",
@@ -418,7 +416,7 @@
   publisher       = "IEEE",
   month           =  nov,
   year            =  2008,
-  keywords        = "Intelligent Tutoring Systems (ITS);§New Literature;AR/MR",
+  keywords        = "Intelligent Tutoring Systems (ITS);AR/MR;@\_Mark Up",
   conference      = "2008 20th IEEE International Conference on Tools with
                      Artificial Intelligence (ICTAI)",
   location        = "Dayton, OH, USA"
