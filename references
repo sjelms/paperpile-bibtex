@@ -2766,6 +2766,22 @@
               (ITS)"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@INPROCEEDINGS{LaViola2015-bg,
+  title     = "Using augmented reality to tutor military tasks in the wild",
+  booktitle = "Proceedings of the {Interservice/Industry} Training Simulation
+               \& Education Conference, Orlando, Florida",
+  author    = "LaViola, J and Williamson, B and Brooks, Conner and Veazanchin,
+               Sergiu and Sottilare, Robert and Garrity, Pat",
+  abstract  = "… The goal is to more closely align intelligently guided
+               instruction with … of Authoring Simulation and Game-based
+               Intelligent Tutoring Workshop at the Artificial Intelligence in
+               Education …",
+  publisher = "gifttutoring.org",
+  year      =  2015
+}
+
 @MISC{Conniff2011-dm,
   title        = "What the Luddites Really Fought Against",
   booktitle    = "Smithsonian Magazine",
