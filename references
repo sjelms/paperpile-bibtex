@@ -1,106 +1,244 @@
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@ARTICLE{Suppes1969-kb,
-  title     = "Computer-assisted instruction",
-  author    = "Suppes, P and Morningstar, M",
+@BOOK{Self1995-ne,
+  title     = "Computational Mathetics: Towards a Science of Learning Systems
+               Design",
+  author    = "Self, John",
+  publisher = "Drakkar Press",
+  year      =  1995,
+  address   = "Lancaster",
+  keywords  = "diagnosis ; reasoning ; dialogues ; computational mathetics ;
+               instructions;Intelligent Tutoring Systems (ITS);AIEd"
+}
+
+@MISC{Dede2009-zt,
+  title           = "Immersive interfaces for engagement and learning",
+  author          = "Dede, Chris",
+  abstract        = "Immersion is the subjective impression that one is
+                     participating in a comprehensive, realistic experience.
+                     Interactive media now enable various degrees of digital
+                     immersion. The more a virtual immersive experience is
+                     based on design strategies that combine actional,
+                     symbolic, and sensory factors, the greater the
+                     participant's suspension of disbelief that she or he is
+                     ``inside'' a digitally enhanced setting. Studies have
+                     shown that immersion in a digital environment can enhance
+                     education in at least three ways: by allowing multiple
+                     perspectives, situated learning, and transfer. Further
+                     studies are needed on the capabilities of immersive media
+                     for learning, on the instructional designs best suited to
+                     each type of immersive medium, and on the learning
+                     strengths and preferences these media develop in users.",
+  publisher       = "Science",
+  volume          =  323,
+  month           =  jan,
+  year            =  2009,
+  keywords        = "Intelligent Tutoring Systems (ITS);Completed",
+  language        = "en"
+}
+
+@ARTICLE{Dede2009-ro,
+  title     = "Immersive interfaces for engagement and learning",
+  author    = "Dede, Chris",
+  abstract  = "Immersion is the subjective impression that one is participating
+               in a comprehensive, realistic experience. Interactive media now
+               enable various degrees of digital immersion. The more a virtual
+               immersive experience is based on design strategies that combine
+               actional, symbolic, and sensory factors, the greater the
+               participant's suspension of disbelief that she or he is
+               ``inside'' a digitally enhanced setting. Studies have shown that
+               immersion in a digital environment can enhance education in at
+               least three ways: by allowing multiple perspectives, situated
+               learning, and transfer. Further studies are needed on the
+               capabilities of immersive media for learning, on the
+               instructional designs best suited to each type of immersive
+               medium, and on the learning strengths and preferences these
+               media develop in users.",
   journal   = "Science",
   publisher = "American Association for the Advancement of Science (AAAS)",
-  volume    =  166,
-  number    =  3903,
-  pages     = "343--350",
-  month     =  oct,
-  year      =  1969,
-  keywords  = "Intelligent Tutoring Systems (ITS);§New Literature",
+  volume    =  323,
+  number    =  5910,
+  pages     = "66--69",
+  month     =  jan,
+  year      =  2009,
+  keywords  = "Intelligent Tutoring Systems (ITS);AR/MR;@\_Mark
+               Up;Completed;Frontiers [2022]",
   language  = "en"
 }
 
+@ARTICLE{Blodgett1918-km,
+  title    = "Doing Farm Work By Motor Tractor: Agriculture Simplified And Food
+              Supply Increased By Labor-saving Machinery;-stage School For
+              Operators",
+  author   = "Blodgett, W K",
+  abstract = "During the coming season motor machinery will be a growing factor
+              toward enabling the farmer to maintain production of foodstuffs
+              at usual standards. With competent farm hands gone, in fact with
+              help of any sort well nigh unobtainable, the farmer who has just
+              ...",
+  journal  = "New York Times",
+  month    =  jan,
+  year     =  1918,
+  keywords = "General Interest Periodicals--United States;Cited for
+              Frontiers;Zotero Import (Feb 22);My Library;Frontiers [2022]",
+  language = "English"
+}
+
+@ARTICLE{Clark1928-ka,
+  title    = "March of the Machine Makes Idle Hands: Farm Employment Less With
+              Increased Output",
+  author   = "Clark, Evans",
+  abstract = "A FEW days ago the General Motors Corporation reported the
+              largest peace-time earnings ever made by a single con cern in the
+              history of America. Three days later Governor Smith made public a
+              report from the New ...",
+  journal  = "New York Times",
+  month    =  feb,
+  year     =  1928,
+  keywords = "General Interest Periodicals--United States;Zotero Import (Feb
+              22);My Library",
+  language = "English"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
-@INCOLLECTION{Yudelson2013-yg,
-  title     = "Individualized Bayesian knowledge tracing models",
-  booktitle = "Lecture Notes in Computer Science",
-  author    = "Yudelson, Michael V and Koedinger, Kenneth R and Gordon,
-               Geoffrey J",
-  publisher = "Springer Berlin Heidelberg",
-  pages     = "171--180",
-  series    = "Lecture notes in computer science",
-  year      =  2013,
-  address   = "Berlin, Heidelberg",
-  keywords  = "§New Literature;Artificial Intelligence (AI);Intelligent
-               Tutoring Systems (ITS);@\_Mark Up"
+@ARTICLE{Wang2007-gk,
+  title    = "Design, strategies, and issues towards an augmented reality-based
+              construction training platform",
+  author   = "Wang, Xiangyu and Dunston, Phillip S",
+  abstract = "This paper provides information on Augmented Reality (AR) and
+              their potential applications in heavy construction equipment
+              operator training. Augmented Reality involves the use of special
+              display and tracking technology that are capable of seamlessly
+              merging digital (virtual) contents into real environments.
+              Augmented Reality technology has been applied in many application
+              domains outside construction (e.g., medical applications and
+              surgeries, military training and warfare, manufacturing assembly
+              and maintenance, design and modeling, precinct specific instant
+              information, and various forms of entertainment) and the
+              ever-increasing power of hardware rendering systems and tracking
+              technology should motivate the creation of AR-based systems to
+              benefit construction industry. This paper discusses the
+              potentials of AR in construction equipment operation and operator
+              training. A construction application for AR technology focused in
+              this paper is an AR-based real world Training System (ARTS) that
+              trains the novice operators in a real worksite environment
+              populated with virtual materials and instructions. This paper
+              focuses on the conceptual design and development of
+              mechanisms/strategies for the ARTS in the context of certain
+              identified application scenarios. Discussion of limitations of
+              Augmented Reality technology for construction applications
+              include mature of technology, data resource, technology transfer,
+              social attitude, etc., is also presented.",
+  journal  = "Journal of Information Technology in Construction",
+  volume   =  12,
+  number   =  25,
+  pages    = "363--380",
+  month    =  jul,
+  year     =  2007,
+  keywords = "§New Literature;Zotero Import (Feb 22);My Library;Game Engine"
 }
 
-@ARTICLE{Chieu2010-ib,
-  title     = "Student modeling in orthopedic surgery training: Exploiting
-               symbiosis between temporal bayesian networks and fine-grained
-               didactic analysis",
-  author    = "Chieu, Vu Minh and Luengo, Vanda and Vadcard, Lucile and
-               Tonetti, J{\'e}r{\^o}me",
-  abstract  = "Cognitive approaches have been used for student modeling in
-               intelligent tutoring systems (ITSs). Many of those systems have
-               tackled fundamental subjects such as mathematics, physics, and
-               computer programming. The change of the student's cognitive
-               behavior over time, however, has not been considered and modeled
-               systematically. Furthermore, the nature of domain knowledge in
-               specific subjects such as orthopedic surgery, in which pragmatic
-               knowledge could play an important role, has also not been taken
-               into account deliberately. We believe that the temporal
-               dimension in modeling the student's knowledge state and
-               cognitive behavior is critical, especially in such domains. In
-               this paper, we propose an approach for student modeling and
-               diagnosis, which is based on a symbiosis between temporal
-               Bayesian networks and fine-grained didactic analysis. The latter
-               may help building a powerful domain knowledge model and the
-               former may help modeling the learner's complex cognitive
-               behavior, so as to be able to provide him or her with relevant
-               feedback during a problem-solving process. To illustrate the
-               application of the approach, we designed and developed several
-               key components of an intelligent learning environment for
-               teaching the concept of sacro-iliac screw fixation in orthopedic
-               surgery, for which we videotaped and analyzed six surgical
-               interventions in a French hospital. A preliminary gold-standard
-               validation suggests that our diagnosis component is able to
-               produce coherent diagnosis with acceptable response time.",
-  journal   = "International Journal of Artificial Intelligence in Education",
-  publisher = "IOS Press",
-  volume    =  20,
-  number    =  3,
-  pages     = "269--301",
-  year      =  2010,
-  keywords  = "Intelligent Tutoring Systems (ITS)"
+@ARTICLE{Luckin2008-bd,
+  title    = "The learner centric ecology of resources: A framework for using
+              technology to scaffold learning",
+  author   = "Luckin, Rosemary",
+  abstract = "This paper is based upon a Keynote presentation at CAL07 and
+              extends previous introductory descriptions of the Ecology of
+              Resources model of educational contexts. The relationships
+              between the elements in the Ecology of Resources are a particular
+              focus for discussion here. In particular, we consider how we
+              might use the Ecology of Resources model to scaffold learning so
+              that a wide range of the resources available to a learner within
+              their context can be used to best support their learning needs.
+              Resources here include people, technologies and artifacts. We
+              look for ways in which they can be linked and marshaled in a
+              learner centric manner and draw on the HOMEWORK and VeSEL
+              projects as practical examples of the way the Ecology of
+              Resources framework can be used.",
+  journal  = "Comput. Educ.",
+  volume   =  50,
+  number   =  2,
+  pages    = "449--462",
+  year     =  2008,
+  keywords = "Cited for Frontiers;Intelligent Tutoring Systems (ITS);Knowledge
+              - Skill Acquisition;Zotero Import (Feb 22);My Library;Frontiers
+              [2022]"
 }
 
-@INCOLLECTION{Opwis2001-vw,
-  title     = "Instructional Technology: Cognitive Science Perspectives",
-  booktitle = "International Encyclopedia of the Social \& Behavioral Sciences",
-  author    = "Opwis, K",
-  editor    = "Smelser, Neil J and Baltes, Paul B",
-  abstract  = "Intelligent tutoring refers to computer-based instructional
-               systems that are founded on the assumption that learning based
-               on individualized instruction by a competent tutor is far
-               superior to classroom-style group instruction. Good human tutors
-               are `intelligent tutors' because they are able to continously
-               adapt the content and style of their instruction to best meet
-               the needs of the learner. The historical evolution of
-               intelligent tutoring systems is presented. The starting point
-               was programmed instruction in the late 1960s, followed by
-               knowledge-based tutors that try to simulate good human tutors by
-               the integrated use of domain knowledge, teaching knowledge, and
-               knowledge about the individual student. Finally some important
-               current trends like distance learning, collaborative learning,
-               and Web-based learning are outlined. The presentation is given
-               within a cognitive science point of view. From this perspective
-               the research on intelligent tutoring has shown many fruitful
-               interactions between academic research and application-oriented
-               research with regard to topics like knowledge representation,
-               computerized assessment of knowledge, learning and knowledge
-               acquisition, and expertise research.",
-  publisher = "Pergamon",
-  pages     = "7573--7577",
-  month     =  jan,
-  year      =  2001,
-  address   = "Oxford",
-  keywords  = "Intelligent Tutoring Systems (ITS);@\_Mark Up;Completed"
+@ARTICLE{Bell2010-ax,
+  title    = "Performance Gains from Speech-enhanced Simulation in Military
+              Flying Training",
+  author   = "Bell, Benjamin and Billington, Stacie and Bennett, Winston and
+              Billington, Ian and Ryder, Joan",
+  abstract = "Flight simulation is a proven technique for training technical
+              and procedural skills, but team skills present needs that remain
+              unmet by simulator technology. Communication and coordination,
+              two skills representative of this gap, are typically incorporated
+              into simulation via human role players, a practice that entails
+              cost, introduces variation, and can compromise availability of
+              training. In this article we explore the use of
+              speech-interactive synthetic teammates to bring team skills into
+              simulation-based training. We report on a US Air Force study that
+              led to the development of a desktop air traffic pattern
+              simulation for practicing radio communications, and present
+              findings from a study conducted with US Air Force student pilots
+              who employed this system during part of their pilot training. The
+              work reported here addresses two questions. First, can
+              contemporary desktop simulation augmented with intelligent agents
+              and voice recognition provide training gains in communications
+              performance among student pilots? Second, will users accept this
+              approach?",
+  journal  = "Journal of Defense Modeling \& Simulation",
+  volume   =  7,
+  number   =  2,
+  pages    = "67--87",
+  month    =  apr,
+  year     =  2010,
+  keywords = "Intelligent Tutoring Systems (ITS);Knowledge - Skill
+              Acquisition;Cited for Frontiers;Zotero Import (Feb 22);My
+              Library;Frontiers [2021];Intelligent Tutoring Systems
+              (ITS);Frontiers [2022]"
+}
+
+@ARTICLE{Mousavinasab2021-eg,
+  title    = "Intelligent tutoring systems: a systematic review of
+              characteristics, applications, and evaluation methods",
+  author   = "Mousavinasab, Elham and Zarifsanaiey, Nahid and Kalhori, Sharareh
+              R Niakan and Rakhshan, Mahnaz and Keikha, Leila and Saeedi,
+              Marjan Ghazi",
+  abstract = "With the rapid growth of technology, computer learning has become
+              increasingly integrated with artificial intelligence techniques
+              in order to develop more personalized educational systems. These
+              systems are known as Intelligent Tutoring systems (ITSs). This
+              paper focused on the variant characteristics of ITSs developed
+              across different educational fields. The original studies from
+              2007 to 2017 were extracted from the PubMed, ProQuest, Scopus,
+              Google scholar, Embase, Cochrane, and Web of Science databases.
+              Finally, 53 papers were included in the study based on inclusion
+              criteria. The educational fields in the ITSs were mainly computer
+              sciences (37.73\%). Action-condition rule-based reasoning, data
+              mining, and Bayesian network with 33.96\%, 22.64\%, and 20.75\%
+              frequency respectively, were the most frequent artificial
+              intelligent techniques applied in the ITSs. These techniques
+              enable ITSs to deliver adaptive guidance and instruction,
+              evaluate learners, define and update the learner's model, and
+              classify or cluster learners. Specifically, the performance of
+              the system, learner's performance, and experiences were used for
+              evaluation of ITSs. Most ITSs were designed for web user
+              interfaces. Although these systems could facilitate reasoning in
+              the learning process, these systems have rarely been applied in
+              experimental courses including problem-solving, decision-making
+              in physics, chemistry, and clinical fields. Due to the important
+              role of a cell phone in facilitating personalized learning and
+              given the low rate of using mobile-based ITSs, this study has
+              recommended the development and evaluation of mobile-based ITSs.",
+  journal  = "Interactive Learning Environments",
+  volume   =  29,
+  number   =  1,
+  pages    = "142--163",
+  year     =  2021,
+  keywords = "Intelligent Tutoring Systems (ITS);ePub;@\_Mark
+              Up;Completed;Zotero Import (Feb 22);My Library;Intelligent
+              Tutoring Systems (ITS);Frontiers [2022];EPubs Books"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -186,123 +324,6 @@
   pages    = "9--10",
   year     =  1999,
   keywords = "AIEd;§New Literature"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@ARTICLE{Lesgold1988-at,
-  title     = "Sherlock: A Coached Practice Environment for an Electronics
-               Troubleshooting Job",
-  author    = "Lesgold, Alan and Lajoie, Susanne and Bunzo, Marilyn and Eggan,
-               Gary",
-  abstract  = "``Sherlock'' is a computer-based, supported practice environment
-               for a complex troubleshooting job in Air Force electronics. The
-               program was developed to raise the level of troubleshooting
-               knowledge of avionics technicians. This describes that training
-               problem for which Sherlock was developed, the principles behind
-               its development, and its implementation. It leads the reader
-               through the Sherlock program, with drawings of some of the
-               various screens displayed during use of the program. A glossary
-               and list of references are included.",
-  journal   = "Computer Assisted Instruction and Intelligent Tutoring Systems:
-               Establishing Communication and Collaboration",
-  publisher = "Lawrence Erlbaum Associates",
-  pages     = "201",
-  year      =  1988,
-  keywords  = "Intelligent Tutoring Systems (ITS);§New Literature"
-}
-
-@BOOK{Oecd2020-ge,
-  title     = "Strengthening the Governance of Skills Systems: Lessons from Six
-               {OECD} Countries",
-  author    = "{OECD}",
-  publisher = "OECD Publishing",
-  year      =  2020,
-  keywords  = "Knowledge - Skill Acquisition;Report"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@ARTICLE{Autor2013-ht,
-  title     = "The growth of low-skill service jobs and the polarization of the
-               {US} labor market",
-  author    = "Autor, David H and Dorn, David",
-  abstract  = "We offer a unified analysis of the growth of low-skill service
-               occupations between 1980 and 2005 and the concurrent
-               polarization of US employment and wages. We hypothesize that
-               polarization stems from the interaction between consumer
-               preferences, which favor variety over specialization, and the
-               falling cost of automating routine, codifiable job tasks.
-               Applying a spatial equilibrium model, we corroborate four
-               implications of this hypothesis. Local labor markets that
-               specialized in routine tasks differentially adopted information
-               technology, reallocated low-skill labor into service occupations
-               (employment polarization), experienced earnings growth at the
-               tails of the distribution (wage polarization), and received
-               inflows of skilled labor. (JEL J24, J31, R23)",
-  journal   = "Am. Econ. Rev.",
-  publisher = "American Economic Association",
-  volume    =  103,
-  number    =  5,
-  pages     = "1553--1597",
-  month     =  aug,
-  year      =  2013,
-  keywords  = "§New Literature",
-  language  = "en"
-}
-
-@BOOK{Self1995-ne,
-  title     = "Computational Mathetics: Towards a Science of Learning Systems
-               Design",
-  author    = "Self, John",
-  publisher = "Drakkar Press",
-  year      =  1995,
-  address   = "Lancaster",
-  keywords  = "diagnosis ; reasoning ; dialogues ; computational mathetics ;
-               instructions;Intelligent Tutoring Systems (ITS);AIEd"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@INPROCEEDINGS{Gamboa2001-rk,
-  title     = "Designing intelligent tutoring systems: A Bayesian approach",
-  author    = "Gamboa, Hugo and Fred, Ana L N",
-  abstract  = "This paper proposes a model and an architecture for designing
-               intelligent tutoring system using Bayesian Networks. The design
-               model of an intelligent tutoring system is directed towards the
-               separation between the domain knowledge and the tutor shell. The
-               architecture is composed by a user model, a knowledge base, an
-               adaptation module, a pedagogical module and a presentation
-               module. Bayesian Networks are used to assess user's state of
-               knowledge and preferences, in order to suggest pedagogical
-               options and recommend future steps in the tutor. The proposed
-               architecture is implemented in the Internet, enabling its use as
-               an e-learning tool. An example of an intelligent tutoring system
-               is shown for illustration purposes.",
-  publisher = "unknown",
-  pages     = "452--458",
-  month     =  jan,
-  year      =  2001,
-  keywords  = "Intelligent Tutoring Systems (ITS);§New Literature"
-}
-
-@ARTICLE{VanLehn2006-op,
-  title     = "The behavior of tutoring systems",
-  author    = "VanLehn, Kurt",
-  abstract  = "Tutoring systems are described as having two loops. The outer
-               loop executes once for each task, where a task usually consists
-               of solving a complex, multi-step problem. The inner loop
-               executes once for each step taken by the student in the solution
-               of",
-  journal   = "Int. J. Artif. Intell. Educ.",
-  publisher = "IOS Press",
-  volume    =  16,
-  number    =  3,
-  pages     = "227--265",
-  month     =  jan,
-  year      =  2006,
-  keywords  = "Intelligent Tutoring Systems (ITS);Cited for Frontiers;Frontiers
-               [2022]"
 }
 
 @MISC{Allen2019-us,
@@ -404,87 +425,6 @@
                Frontiers;Frontiers [2022]"
 }
 
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@INPROCEEDINGS{Olsen2012-bm,
-  title     = "How industrial contractors are handling skilled labor shortages
-               in the United States",
-  booktitle = "48th {ASC} Annual International Conference Proceedings",
-  author    = "Olsen, Darren and Tatum, Mark and Defnall, Christopher",
-  abstract  = "In the United States, industrial construction annually
-               contributes around four percent to the GDP and has continuously
-               increased this percentage year over year until the recent
-               economic downturn. The construction industry requires a massive
-               workforce and employs over seven million full-time and part-time
-               employees. Out of those employees, approximately one million are
-               employed within the industrial side of construction. Since the
-               early 1980s, the US construction industry has seen a severe
-               shortage of skilled craft labor and even …",
-  publisher = "ascpro0.ascweb.org",
-  year      =  2012,
-  keywords  = "AEC;Labor;+Notion;@\_Mark Up;Completed;Frontiers [2022]"
-}
-
-@INPROCEEDINGS{Amokrane2008-zr,
-  title           = "An intelligent tutoring system for training and learning
-                     in a virtual environment for high-risk sites",
-  booktitle       = "2008 20th {IEEE} International Conference on Tools with
-                     Artificial Intelligence",
-  author          = "Amokrane, Kahina and Lourdeaux, Domitile and Barth{\`e}s,
-                     Jean-Paul and Burkhardt, Jean-Marie",
-  publisher       = "IEEE",
-  month           =  nov,
-  year            =  2008,
-  keywords        = "Intelligent Tutoring Systems (ITS);AR/MR;@\_Mark
-                     Up;+Notion;Frontiers [2022]",
-  conference      = "2008 20th IEEE International Conference on Tools with
-                     Artificial Intelligence (ICTAI)",
-  location        = "Dayton, OH, USA"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@INPROCEEDINGS{Alday2018-yc,
-  title           = "Bayesian networks in intelligent tutoring systems as an
-                     assessment of student performance using student modeling",
-  booktitle       = "Proceedings of the 2018 2nd International Conference on
-                     Algorithms, Computing and Systems - {ICACS} '18",
-  author          = "Alday, Roselie B",
-  publisher       = "ACM Press",
-  year            =  2018,
-  address         = "New York, New York, USA",
-  keywords        = "Intelligent Tutoring Systems (ITS);§New Literature",
-  copyright       = "http://www.acm.org/publications/policies/copyright\_policy\#Background",
-  conference      = "the 2018 2nd International Conference",
-  location        = "Beijing, China"
-}
-
-@MISC{Dede2009-zt,
-  title           = "Immersive interfaces for engagement and learning",
-  author          = "Dede, Chris",
-  abstract        = "Immersion is the subjective impression that one is
-                     participating in a comprehensive, realistic experience.
-                     Interactive media now enable various degrees of digital
-                     immersion. The more a virtual immersive experience is
-                     based on design strategies that combine actional,
-                     symbolic, and sensory factors, the greater the
-                     participant's suspension of disbelief that she or he is
-                     ``inside'' a digitally enhanced setting. Studies have
-                     shown that immersion in a digital environment can enhance
-                     education in at least three ways: by allowing multiple
-                     perspectives, situated learning, and transfer. Further
-                     studies are needed on the capabilities of immersive media
-                     for learning, on the instructional designs best suited to
-                     each type of immersive medium, and on the learning
-                     strengths and preferences these media develop in users.",
-  publisher       = "Science",
-  volume          =  323,
-  month           =  jan,
-  year            =  2009,
-  keywords        = "Intelligent Tutoring Systems (ITS);Completed",
-  language        = "en"
-}
-
 @MISC{Mcleod2020-ol,
   title    = "Maslow's Hierarchy of Needs",
   author   = "Mcleod, Saul",
@@ -510,95 +450,6 @@
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
-@TECHREPORT{Prefabrication_and_Modular_Construction_20202020-ir,
-  title       = "Prefabrication and Modular Construction 2020",
-  author      = "{Prefabrication and Modular Construction 2020}",
-  institution = "Prefabrication and Modular Construction 2020",
-  year        =  2020,
-  keywords    = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
-}
-
-@ARTICLE{Melenbrink2020-gr,
-  title     = "On-site autonomous construction robots: Towards unsupervised
-               building",
-  author    = "Melenbrink, Nathan and Werfel, Justin and Menges, Achim",
-  journal   = "Autom. Constr.",
-  publisher = "Elsevier BV",
-  volume    =  119,
-  number    =  103312,
-  pages     = "103312",
-  month     =  nov,
-  year      =  2020,
-  keywords  = "Automation;AEC;Important;@\_Mark Up;Game Engine \_ AR-VR",
-  language  = "en"
-}
-
-@INCOLLECTION{dummy_key,
-  title     = "The Core Concept of Statistics",
-  booktitle = "Understanding Statistics and Experimental Design: How not to lie
-               with statistics",
-  author    = "Herzog, Michael and Francis, Gregory and Clarke, Aaron",
-  publisher = "Springer International Publishing",
-  pages     = "23--50",
-  year      =  2019,
-  address   = "Cham, Switzerland",
-  keywords  = "Statistics;Methods"
-}
-
-@BOOK{dummy_key,
-  title     = "The Amazing Journey of Reason: from {DNA} to Artificial
-               Intelligence",
-  author    = "Alemi, Mario",
-  abstract  = "The Amazing Journey analyzes the latest results in chemistry,
-               biology, neuroscience, anthropology and sociology under the
-               light of the evolution of intelligence, seen as the ability of
-               processing information.",
-  publisher = "Springer International Publishing",
-  series    = "SpringerBriefs in Computer Science",
-  year      =  2020,
-  address   = "Cham, Switzerland",
-  keywords  = "Read;Misc"
-}
-
-@ARTICLE{dummy_key,
-  title    = "Ten simple rules for writing research papers",
-  author   = "Zhang, Weixiong",
-  abstract = "The importance of writing well can never be overstated for a
-              successful professional career, and the ability to write solid
-              papers is an essential trait of a productive researcher. Writing
-              and publishing a paper has its own life cycle; properly following
-              a course of action and avoiding missteps can be vital to the
-              overall success not only of a paper but of the underlying
-              research as well. Here, we offer ten simple rules for writing and
-              publishing research papers.",
-  journal  = "PLoS Comput. Biol.",
-  volume   =  10,
-  number   =  1,
-  pages    = "e1003453",
-  month    =  jan,
-  year     =  2014,
-  keywords = "Important;Methods",
-  language = "en"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@INPROCEEDINGS{Wolf2019-ff,
-  title           = "Case study on mobile virtual reality construction training",
-  booktitle       = "Proceedings of the 36th International Symposium on
-                     Automation and Robotics in Construction ({ISARC})",
-  author          = "Wolf, Mario and Teizer, Jochen and Ruse, J H",
-  publisher       = "International Association for Automation and Robotics in
-                     Construction (IAARC)",
-  month           =  may,
-  year            =  2019,
-  keywords        = "§New Literature;International Association for Automation
-                     and Robotics in Construction (IAARC)",
-  conference      = "36th International Symposium on Automation and Robotics in
-                     Construction",
-  location        = "Banff, AB, Canada"
-}
-
 @MISC{McKendrick2021-bk,
   title        = "{AI} Adoption Skyrocketed Over the Last 18 Months",
   booktitle    = "Harvard Business Review",
@@ -607,18 +458,6 @@
   year         =  2021,
   howpublished = "\url{https://hbr.org/2021/09/ai-adoption-skyrocketed-over-the-last-18-months}",
   keywords     = "Zotero Import (Feb 22);My Library"
-}
-
-@ARTICLE{Wood1976-cd,
-  title    = "The Role of Tutoring in Problem Solving",
-  author   = "Wood, David and Bruner, Jerome S and Ross, Gail",
-  journal  = "J. Child Psychol. Psychiatry",
-  volume   =  17,
-  number   =  2,
-  pages    = "89--100",
-  year     =  1976,
-  keywords = "Cited for Frontiers;Knowledge - Skill Acquisition;Zotero Import
-              (Feb 22);My Library;Frontiers [2022]"
 }
 
 @ARTICLE{English1993-ro,
@@ -640,76 +479,6 @@
   pages    = "387--393",
   year     =  1993,
   keywords = "Zotero Import (Feb 22);My Library"
-}
-
-@ARTICLE{Abdel-Wahab2012-so,
-  title    = "Rethinking apprenticeship training in the British construction
-              industry",
-  author   = "Abdel-Wahab, Mohamed",
-  journal  = "Journal of Vocational Education \& Training",
-  volume   =  64,
-  number   =  2,
-  pages    = "145--154",
-  year     =  2012,
-  keywords = "Zotero Import (Feb 22);My Library;Frontiers [2021]"
-}
-
-@ARTICLE{Smith1976-wi,
-  title    = "Educational Uses of the {PLATO} Computer System",
-  author   = "Smith, Stanley G and Sherwood, Bruce Arne",
-  journal  = "Science",
-  volume   =  192,
-  number   =  4237,
-  pages    = "344--352",
-  year     =  1976,
-  keywords = "Intelligent Tutoring Systems (ITS);Cited for Frontiers;Zotero
-              Import (Feb 22);My Library;Intelligent Tutoring Systems
-              (ITS);Frontiers [2022]"
-}
-
-@ARTICLE{Collins1989-me,
-  title    = "Cognitive Apprenticeship: Teaching the Crafts of Reading,
-              Writing, and Mathematics",
-  author   = "Collins, Allan and Brown, John Seely and Newman, Susan E",
-  journal  = "Knowing, Learning, and Instruction",
-  pages    = "453--494",
-  year     =  1989,
-  keywords = "Cited for Frontiers;Labor;Workplace Learning;Zotero Import (Feb
-              22);My Library;Frontiers [2022]"
-}
-
-@ARTICLE{Blodgett1918-km,
-  title    = "Doing Farm Work By Motor Tractor: Agriculture Simplified And Food
-              Supply Increased By Labor-saving Machinery;-stage School For
-              Operators",
-  author   = "Blodgett, W K",
-  abstract = "During the coming season motor machinery will be a growing factor
-              toward enabling the farmer to maintain production of foodstuffs
-              at usual standards. With competent farm hands gone, in fact with
-              help of any sort well nigh unobtainable, the farmer who has just
-              ...",
-  journal  = "New York Times",
-  month    =  jan,
-  year     =  1918,
-  keywords = "General Interest Periodicals--United States;Cited for
-              Frontiers;Zotero Import (Feb 22);My Library;Frontiers [2022]",
-  language = "English"
-}
-
-@ARTICLE{Clark1928-ka,
-  title    = "March of the Machine Makes Idle Hands: Farm Employment Less With
-              Increased Output",
-  author   = "Clark, Evans",
-  abstract = "A FEW days ago the General Motors Corporation reported the
-              largest peace-time earnings ever made by a single con cern in the
-              history of America. Three days later Governor Smith made public a
-              report from the New ...",
-  journal  = "New York Times",
-  month    =  feb,
-  year     =  1928,
-  keywords = "General Interest Periodicals--United States;Zotero Import (Feb
-              22);My Library",
-  language = "English"
 }
 
 @BOOK{Benner2001-mh,
@@ -750,19 +519,6 @@
   year      =  2019,
   keywords  = "Cited for Frontiers;Zotero Import (Feb 22);My Library;Frontiers
                [2022]"
-}
-
-@ARTICLE{Gott1988-dw,
-  title    = "Chapter 3: Apprenticeship Instruction for {Real-World} Tasks: The
-              Coordination of Procedures, Mental Models, and Strategies",
-  author   = "Gott, Sherrie P",
-  journal  = "Review of Research in Education",
-  volume   =  15,
-  number   =  1,
-  pages    = "97--169",
-  year     =  1988,
-  keywords = "Workplace Learning;Cited for Frontiers;Zotero Import (Feb 22);My
-              Library;Frontiers [2022]"
 }
 
 @ARTICLE{Butler1998-ph,
@@ -1050,19 +806,6 @@
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
-@TECHREPORT{Gott1998-ww,
-  title       = "Rediscovering Learning: Acquiring Expertise in Real World
-                 Problem Solving Tasks",
-  author      = "Gott, S P and {Armstrong Laboratory Air Force Materiel
-                 Command}",
-  number      = "AL/HR-TP-1997-0009",
-  institution = "United States Air Force",
-  month       =  may,
-  year        =  1998,
-  keywords    = "Workplace Learning;Cited for Frontiers;Zotero Import (Feb
-                 22);My Library;2021-12-03 Frontiers;Frontiers [2022]"
-}
-
 @ARTICLE{Randhawa2019-so,
   title    = "The role of artificial intelligence in learning and professional
               development for healthcare professionals",
@@ -1084,29 +827,6 @@
   pages    = "190--202",
   year     =  2009,
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
-}
-
-@ARTICLE{Kaklauskas2016-uk,
-  title    = "Intelligent decision-support systems and the Internet of Things
-              for the smart built environment",
-  author   = "Kaklauskas, A and Gudauskas, R",
-  journal  = "Start-Up Creation",
-  pages    = "413--449",
-  year     =  2016,
-  keywords = "Cited for Frontiers;Zotero Import (Feb 22);My Library;2021-12-03
-              Frontiers;Frontiers [2022]"
-}
-
-@ARTICLE{Metsamuuronen2018-km,
-  title    = "{Cognitive--Linguistic} and Constructivist Mnemonic Triggers in
-              Teaching Based on Jerome Bruner's Thinking",
-  author   = "Mets{\"a}muuronen, Jari and R{\"a}s{\"a}nen, Pekka",
-  journal  = "Front. Psychol.",
-  volume   =  9,
-  year     =  2018,
-  keywords = "Cited for Frontiers;Knowledge - Skill Acquisition;ePub;Zotero
-              Import (Feb 22);My Library;2021-12-03 Frontiers;Frontiers
-              [2022];EPubs Books"
 }
 
 @ARTICLE{Lajoie2005-xt,
@@ -1323,32 +1043,10 @@
   keywords    = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
-@TECHREPORT{Barbosa2017-rj,
-  title       = "Reinventing construction through a productivity revolution",
-  author      = "Barbosa, Filipe and Woetzel, Jonathan and Mischke, Jan and
-                 Ribeirinho, Maria Jo{\~a}o and Sridhar, Mukund and Parsons,
-                 Matthew and Bertram, Nick and Brown, Stephanie",
-  institution = "McKinsey Global Institute",
-  month       =  feb,
-  year        =  2017,
-  keywords    = "Cited for Frontiers;Zotero Import (Feb 22);My
-                 Library;2021-12-03 Frontiers;Frontiers [2022]",
-  copyright   = "McKinsey \& Company"
-}
-
 @MISC{NBCUniversal_News_Group_CNBC2021-kx,
   title    = "Can {Factory-Built} Homes Help Solve The Housing Crisis?",
   author   = "{NBCUniversal News Group [CNBC]}",
   month    =  feb,
-  year     =  2021,
-  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
-}
-
-@MISC{De_Laubier2021-rh,
-  title    = "The Offsite Revolution in Construction",
-  author   = "de Laubier, Romain and Burfeind, Arne and Arnold, Sebastien and
-              Witth{\"o}ft, Sven and Wunder, Marius",
-  month    =  jul,
   year     =  2021,
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
@@ -1456,40 +1154,6 @@
 
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
-@ARTICLE{Xu2019-iv,
-  title     = "The effectiveness of virtual reality in safety training:
-               Measurement of emotional arousal with electromyography",
-  author    = "Xu, Sheng and Ni, Qingqing and Du, Qiang",
-  journal   = "ISARC Proceedings",
-  publisher = "IAARC",
-  pages     = "20--25",
-  month     =  may,
-  year      =  2019,
-  keywords  = "§New Literature;AR/MR;International Association for Automation
-               and Robotics in Construction (IAARC)"
-}
-
-@INPROCEEDINGS{Zhang2019-bm,
-  title           = "Cartesian points visualization in game simulation for
-                     analyzing geometric representations of {AEC} objects in
-                     {IFC}",
-  booktitle       = "Proceedings of the 36th International Symposium on
-                     Automation and Robotics in Construction ({ISARC})",
-  author          = "Zhang, Jiansong and Chen, Yunfeng and Liu, Rui and Debs,
-                     Luciana",
-  publisher       = "International Association for Automation and Robotics in
-                     Construction (IAARC)",
-  month           =  may,
-  year            =  2019,
-  keywords        = "@\_Mark Up;International Association for Automation and
-                     Robotics in Construction (IAARC)",
-  conference      = "36th International Symposium on Automation and Robotics in
-                     Construction",
-  location        = "Banff, AB, Canada"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
 @ARTICLE{Volk2014-ar,
   title    = "Building Information Modeling ({BIM}) for existing buildings ---
               Literature review and future needs",
@@ -1517,45 +1181,6 @@
   pages    = "109--127",
   month    =  mar,
   year     =  2014,
-  keywords = "§New Literature;Zotero Import (Feb 22);My Library;Game Engine"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@ARTICLE{Wang2007-gk,
-  title    = "Design, strategies, and issues towards an augmented reality-based
-              construction training platform",
-  author   = "Wang, Xiangyu and Dunston, Phillip S",
-  abstract = "This paper provides information on Augmented Reality (AR) and
-              their potential applications in heavy construction equipment
-              operator training. Augmented Reality involves the use of special
-              display and tracking technology that are capable of seamlessly
-              merging digital (virtual) contents into real environments.
-              Augmented Reality technology has been applied in many application
-              domains outside construction (e.g., medical applications and
-              surgeries, military training and warfare, manufacturing assembly
-              and maintenance, design and modeling, precinct specific instant
-              information, and various forms of entertainment) and the
-              ever-increasing power of hardware rendering systems and tracking
-              technology should motivate the creation of AR-based systems to
-              benefit construction industry. This paper discusses the
-              potentials of AR in construction equipment operation and operator
-              training. A construction application for AR technology focused in
-              this paper is an AR-based real world Training System (ARTS) that
-              trains the novice operators in a real worksite environment
-              populated with virtual materials and instructions. This paper
-              focuses on the conceptual design and development of
-              mechanisms/strategies for the ARTS in the context of certain
-              identified application scenarios. Discussion of limitations of
-              Augmented Reality technology for construction applications
-              include mature of technology, data resource, technology transfer,
-              social attitude, etc., is also presented.",
-  journal  = "Journal of Information Technology in Construction",
-  volume   =  12,
-  number   =  25,
-  pages    = "363--380",
-  month    =  jul,
-  year     =  2007,
   keywords = "§New Literature;Zotero Import (Feb 22);My Library;Game Engine"
 }
 
@@ -1806,64 +1431,6 @@
   keywords = "§New Literature;Zotero Import (Feb 22);My Library;Game Engine"
 }
 
-@INCOLLECTION{Rebolledo-Mendez2011-mg,
-  title     = "Designing Adaptive Motivational Scaffolding for a Tutoring
-               System",
-  booktitle = "New Perspectives on Affect and Learning Technologies",
-  author    = "Rebolledo-Mendez, Genaro and Luckin, Rosemary and Boulay,
-               Benedict du",
-  editor    = "Calvo, Rafael A and D'Mello, Sidney K",
-  abstract  = "Attribution Theory (Weiner, 1990) and Goal Orientation Theory
-               (Ames, 1990) provide human teachers with useful guidelines to
-               help them understand students' motivation and personalize their
-               choice of educational activities. Such theories can assist
-               teachers by informing the way they may interact with students in
-               real class settings. However, it is less obvious how these
-               theories can aid the development of motivationally aware
-               educational technology. One of the strengths of educational
-               technology, for example, intelligent tutoring systems, is the
-               use of learner models to adapt the learning activities to the
-               student's current abilities and needs. This adaptation has
-               provided some degree of efficiency tailoring in educational
-               content delivery but the resulting activities are not,
-               necessarily, motivating for students.",
-  publisher = "Springer New York",
-  pages     = "155--168",
-  year      =  2011,
-  address   = "New York, NY",
-  keywords  = "Intelligent Tutoring Systems (ITS);Zotero Import (Feb 22);My
-               Library;Intelligent Tutoring Systems (ITS)"
-}
-
-@ARTICLE{Puntambekar2021-pm,
-  title    = "Distributed Scaffolding: Scaffolding Students in Classroom
-              Environments",
-  author   = "Puntambekar, Sadhana",
-  abstract = "This paper traces the origins of the scaffolding construct,
-              placing it in its theoretical-historical context. The paper
-              discusses the connection between Vygotsky's Zone of Proximal
-              Development (ZPD), and the notion of scaffolding, and explicates
-              the differences between scaffolding and scaffolds. The paper then
-              presents a discussion of the changes that the notion of
-              scaffolding has undergone, especially when it comes to supporting
-              students in classroom contexts. In classrooms where one teacher
-              supports multiple students, scaffolding is distributed across
-              various tools and social scaffolds. A discussion of the notion of
-              distributed scaffolding is presented, to describe how students in
-              classrooms may be supported by various tools and social
-              scaffolds. The paper then introduces the kinds of distribution
-              and interactions between tools and social scaffolds that need to
-              be considered to support multiple students in classroom contexts.
-              Finally, distributed scaffolding is discussed with reference to
-              the key features of scaffolding, especially fading and transfer
-              of responsibility.",
-  journal  = "Educ. Psychol. Rev.",
-  month    =  aug,
-  year     =  2021,
-  keywords = "@\_Mark Up;Knowledge - Skill Acquisition;Cited for
-              Frontiers;Zotero Import (Feb 22);My Library;Frontiers [2022]"
-}
-
 @ARTICLE{Wertsch1995-cz,
   title    = "Vygotsky on Learning and Development",
   author   = "Wertsch, James V and Sohmer, Richard",
@@ -1890,33 +1457,6 @@
   pages    = "332--337",
   year     =  1995,
   keywords = "Knowledge - Skill Acquisition;Zotero Import (Feb 22);My Library"
-}
-
-@ARTICLE{Luckin2008-bd,
-  title    = "The learner centric ecology of resources: A framework for using
-              technology to scaffold learning",
-  author   = "Luckin, Rosemary",
-  abstract = "This paper is based upon a Keynote presentation at CAL07 and
-              extends previous introductory descriptions of the Ecology of
-              Resources model of educational contexts. The relationships
-              between the elements in the Ecology of Resources are a particular
-              focus for discussion here. In particular, we consider how we
-              might use the Ecology of Resources model to scaffold learning so
-              that a wide range of the resources available to a learner within
-              their context can be used to best support their learning needs.
-              Resources here include people, technologies and artifacts. We
-              look for ways in which they can be linked and marshaled in a
-              learner centric manner and draw on the HOMEWORK and VeSEL
-              projects as practical examples of the way the Ecology of
-              Resources framework can be used.",
-  journal  = "Comput. Educ.",
-  volume   =  50,
-  number   =  2,
-  pages    = "449--462",
-  year     =  2008,
-  keywords = "Cited for Frontiers;Intelligent Tutoring Systems (ITS);Knowledge
-              - Skill Acquisition;Zotero Import (Feb 22);My Library;Frontiers
-              [2022]"
 }
 
 @INCOLLECTION{Bruner2006-bj,
@@ -2089,6 +1629,1119 @@
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
+@BOOK{Wild2017-ng,
+  title     = "Immersive Learning Research Network: Third International
+               Conference, {iLRN} 2017, Coimbra, Portugal, June 26--29, 2017.
+               Proceedings",
+  author    = "Wild, Fridolin and Klemke, Roland and Lefrere, Paul and
+               Fominykh, Mikhail and Kuula, Timo",
+  editor    = "Beck, Dennis and Allison, Colin and Morgado, Leonel and Pirker,
+               Johanna and Khosmood, Foaad and Richter, Jonathon and G{\"u}tl,
+               Christian",
+  publisher = "Springer, Cham",
+  year      =  2017,
+  keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
+}
+
+@MISC{Solman2021-vc,
+  title     = "The manufacturing sector needs workers. Training high schoolers
+               could help fill that void",
+  booktitle = "{PBS} Newshour",
+  author    = "Solman, P",
+  abstract  = "Even as the U.S. labor picture improves, the manufacturing
+               sector is still struggling with a shortage of workers and raw
+               materials. An analysis by Deloitte found that over two million
+               manufacturing jobs will be unfilled through 2030. Economic
+               correspondent Paul Solman looks at a program that's preparing
+               inner city high school students for high-skill, high-paying
+               factory jobs.",
+  publisher = "PBS",
+  month     =  jul,
+  year      =  2021,
+  keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
+}
+
+@BOOK{Autor2022-vv,
+  title     = "The Work of the Future: Building Better Jobs in an Age of
+               Intelligent Machines",
+  author    = "Autor, D H and Mindell, D A and Reynolds, E and Solow, R M",
+  publisher = "MIT Press",
+  year      =  2022,
+  keywords  = "Book (physical);ePub;@\_Mark Up;Cited for
+               Frontiers;The\_Work\_of\_the\_Future.bibtex;Frontiers
+               [2022];EPubs Books"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@INCOLLECTION{Gabriele2012-uz,
+  title     = "Active learning in a robotics laboratory with university
+               students",
+  booktitle = "Increasing Student Engagement and Retention Using Immersive
+               Interfaces: Virtual Worlds, Gaming, and Simulation",
+  author    = "Gabriele, Lorella and Tavernise, Assunta and Bertacchini,
+               Francesca",
+  publisher = "Emerald Group Publishing Limited",
+  pages     = "315--339",
+  series    = "Cutting-edge technologies in higher education",
+  month     =  jan,
+  year      =  2012,
+  keywords  = "§New Literature"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@INPROCEEDINGS{Dinet2018-jv,
+  title           = "Immersive Interfaces for Engagement and Learning",
+  booktitle       = "Proceedings of the Virtual Reality International
+                     Conference - Laval Virtual",
+  author          = "Dinet, J{\'e}r{\^o}me and Kitajima, Mun{\'e}o",
+  publisher       = "ACM",
+  month           =  apr,
+  year            =  2018,
+  address         = "New York, NY, USA",
+  keywords        = "§New Literature",
+  copyright       = "http://www.acm.org/publications/policies/copyright\_policy\#Background",
+  conference      = "VRIC '18: Virtual Reality International Conference - Laval
+                     Virtual VRIC '18",
+  location        = "Laval France"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Knowles2002-ic,
+  title    = "Malcolm Knowles, informal adult education, self-direction, and
+              andragogy",
+  author   = "Knowles, Malcolm",
+  journal  = "The encyclopedia of informal education",
+  year     =  2002,
+  keywords = "Andragogy;§New Literature"
+}
+
+@BOOK{Russell2019-or,
+  title     = "Human Compatible: Artificial Intelligence and the Problem of
+               Control",
+  author    = "Russell, S",
+  publisher = "Penguin Publishing Group",
+  year      =  2019,
+  keywords  = "ePub;Book (physical);EPubs Books;Frontiers [2022]"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@BOOK{Liu2017-wo,
+  title     = "Virtual, Augmented, and Mixed Realities in Education",
+  author    = "Liu, Dejian and Dede, Chris and Huang, Ronghuai and Richards,
+               John",
+  abstract  = "This book describes the current state of the art of various
+               types of immersive learning: in research, in practice, and in
+               the marketplace. It discusses advanced approaches in the design
+               and development for various forms of immersive learning
+               environments, and also the emerging innovations in assessment
+               and research in the field. In addition, it demonstrates the
+               opportunities and challenges in implementing advances in VR and
+               immersion at scale in formal and informal learning.We are living
+               in a time of rapid advances in terms of both the capabilities
+               and the cost of virtual reality, multi-user virtual
+               environments, and various forms of mixed reality. These new
+               media potentially offer extraordinary opportunities for
+               enhancing both motivation and learning across a range of subject
+               areas, student developmental levels, and educational settings.
+               With the development of practical and affordable virtual reality
+               and mixed reality, people now have the chance to experience
+               immersive learning both in classrooms and informally in homes,
+               libraries, and community centers. The book appeals to a broad
+               readership including teachers, administrators, scholars, policy
+               makers, instructional designers, evaluators and industry
+               leaders.",
+  publisher = "Springer",
+  month     =  nov,
+  year      =  2017,
+  keywords  = "§New Literature;ePub;EPubs Books",
+  language  = "en"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{VanLehn1987-hn,
+  title     = "Learning one subprocedure per lesson",
+  author    = "VanLehn, Kurt",
+  abstract  = "sierra is a program that learns procedures incrementally from
+               examples, where an example is a sequence of actions. sierra
+               learns by completing explanations. Whenever the current
+               procedure is inadequate for explaining (parsing) the current
+               example, sierra formulates a new subprocedure whose
+               instantiation completes the explanation (parse tree). The key to
+               sierra's success lies in supplying a small amount of extra
+               information with the examples. Instead of giving it a set of
+               examples, under which conditions correct learning is provably
+               impossible, it is given a sequence of ``lessons,'' where a
+               lesson is a set of examples that is guaranteed to introduce only
+               one subprocedure. This permits unbiased learning, i.e., learning
+               without a priori, heuristic preferences concerning the outcome.",
+  journal   = "Artif. Intell.",
+  publisher = "Elsevier BV",
+  volume    =  31,
+  number    =  1,
+  pages     = "1--40",
+  month     =  jan,
+  year      =  1987,
+  keywords  = "§New Literature",
+  language  = "en"
+}
+
+@BOOK{Brynjolfsson2014-kx,
+  title     = "The Second Machine Age: Work, Progress, and Prosperity in a Time
+               of Brilliant Technologies",
+  author    = "Brynjolfsson, Erik and McAfee, Andrew",
+  abstract  = "A New York Times Bestseller A revolution is under way. In recent
+               years, Google's autonomous cars have logged thousands of miles
+               on American highways and IBM's Watson trounced the best human
+               Jeopardy! players. Digital technologies---with hardware,
+               software, and networks at their core---will in the near future
+               diagnose diseases more accurately than doctors can, apply
+               enormous data sets to transform retailing, and accomplish many
+               tasks once considered uniquely human. In The Second Machine Age
+               MIT's Erik Brynjolfsson and Andrew McAfee---two thinkers at the
+               forefront of their field---reveal the forces driving the
+               reinvention of our lives and our economy. As the full impact of
+               digital technologies is felt, we will realize immense bounty in
+               the form of dazzling personal technology, advanced
+               infrastructure, and near-boundless access to the cultural items
+               that enrich our lives. Amid this bounty will also be wrenching
+               change. Professions of all kinds---from lawyers to truck
+               drivers---will be forever upended. Companies will be forced to
+               transform or die. Recent economic indicators reflect this shift:
+               fewer people are working, and wages are falling even as
+               productivity and profits soar. Drawing on years of research and
+               up-to-the-minute trends, Brynjolfsson and McAfee identify the
+               best strategies for survival and offer a new path to prosperity.
+               These include revamping education so that it prepares people for
+               the next economy instead of the last one, designing new
+               collaborations that pair brute processing power with human
+               ingenuity, and embracing policies that make sense in a radically
+               transformed landscape. A fundamentally optimistic book, The
+               Second Machine Age will alter how we think about issues of
+               technological, societal, and economic progress.",
+  publisher = "W. W. Norton \& Company",
+  month     =  jan,
+  year      =  2014,
+  keywords  = "Book (physical);Cited for Frontiers;Frontiers [2022]",
+  language  = "en"
+}
+
+@TECHREPORT{Miller2020-fp,
+  title       = "Fine Margins: Delivering Financial Sustainability in {UK}
+                 Construction",
+  author      = "Miller, T",
+  institution = "Confederation of British Industry",
+  month       =  feb,
+  year        =  2020,
+  keywords    = "Cited for Frontiers;Zotero Import (Feb 22);My
+                 Library;2021-12-03 Frontiers;Frontiers [2022]"
+}
+
+@MISC{Andrews2019-pu,
+  title        = "Who Were the Luddites?",
+  author       = "Andrews, Evan",
+  month        =  jun,
+  year         =  2019,
+  howpublished = "\url{https://www.history.com/news/who-were-the-luddites}",
+  keywords     = "Cited for Frontiers;Frontiers [2022]"
+}
+
+@MISC{Conniff2011-dm,
+  title        = "What the Luddites Really Fought Against",
+  booktitle    = "Smithsonian Magazine",
+  author       = "Conniff, Richard",
+  month        =  mar,
+  year         =  2011,
+  howpublished = "\url{https://www.smithsonianmag.com/history/what-the-luddites-really-fought-against-264412/}",
+  keywords     = "Cited for Frontiers;Frontiers [2022]"
+}
+
+@BOOK{Hyde2021-ai,
+  title     = "Design Studio Vol. 2: Intelligent Control 2021: Disruptive
+               Technologies",
+  author    = "Hyde, Rob and Filippidis, Filippos",
+  abstract  = "How should we train? What should we learn? What is our value?
+               Disruptive technologies have increased speculation about what it
+               means to be an architect. Innovations simultaneously offer great
+               promise and potential risk to design practice. This volume
+               identifies the game-changing trends driven by technology, and
+               the opportunities they provide for architecture, urbanism and
+               design. It advocates for an approach of intelligent control that
+               transforms practice with specialist knowledge of technological
+               models and systems. It features new developments in automation,
+               generative design, augmented reality, videogame urbanism,
+               artificial intelligence and robotics, as well as lived
+               experiences within a continually shifting landscape. Showcasing
+               evolving research, it discusses the cultural, social,
+               environmental and political implications of various
+               technological trajectories. In doing so it speculates upon
+               future urban, spatial, aesthetic and formal possibilities within
+               architecture. The future is already here. Now is the time to
+               act. Features: Austrian Institute of Technology AiT - City
+               Intelligence Lab CiT, Bryden Wood, Mollie Claypool, Soomeen
+               Hahm, Hawkins\textbackslashBrown, LASSA Architects, The Living,
+               Danil Nagy, Odico Construction Robotics, Stefana Parascho, Luke
+               Caspar Pearson, SHoP Architects, Kostas Terzidis, Mette
+               Ramsgaard Thomsen and Sandra Youkhana.",
+  publisher = "RIBA Publishing",
+  month     =  sep,
+  year      =  2021,
+  keywords  = "AEC;ePub;Book (physical);Book\_Intelligent Control: Disruptive
+               Technologies;EPubs Books",
+  language  = "en"
+}
+
+@INCOLLECTION{Hahm2021-ee,
+  title     = "Augmenting human designers and builders: Augmentation discussed
+               in architectural design research",
+  booktitle = "Intelligent Control: Disruptive Technologies",
+  author    = "Hahm, Soomeen",
+  editor    = "Hyde, Rob and Filippidis, Filippos",
+  publisher = "RIBA Publishing",
+  pages     = "68--77",
+  month     =  aug,
+  year      =  2021,
+  address   = "London",
+  keywords  = "Book\_Intelligent Control: Disruptive Technologies"
+}
+
+@INCOLLECTION{Hyde2021-wa,
+  title     = "{PROFILE}: Scaling Construction Robotics",
+  booktitle = "Intelligent Control: Disruptive Technologies",
+  editor    = "Hyde, Rob and Filippidis, Filippos",
+  publisher = "RIBA Publishing",
+  pages     = "95--102",
+  month     =  aug,
+  year      =  2021,
+  address   = "London",
+  keywords  = "Book\_Intelligent Control: Disruptive Technologies"
+}
+
+@INCOLLECTION{Hyde2021-xj,
+  title     = "{CASE} {STUDY}: Research by design: The gantry",
+  booktitle = "Intelligent Control: Disruptive Technologies",
+  editor    = "Hyde, Rob and Filippidis, Filippos",
+  publisher = "RIBA Publishing",
+  pages     = "108--113",
+  month     =  aug,
+  year      =  2021,
+  address   = "London",
+  keywords  = "Book\_Intelligent Control: Disruptive Technologies"
+}
+
+@ARTICLE{Balasubramanian2021-ju,
+  title    = "The Covid-19 Pandemic Has Fueled A Crisis In The Housing Market",
+  author   = "Balasubramanian, Sai",
+  abstract = "Increased demand, limited supply, and a relentless global
+              pandemic have created the perfect storm in the housing market.",
+  journal  = "Forbes Magazine",
+  month    =  apr,
+  year     =  2021,
+  keywords = "Cited for Frontiers;+Notion;Frontiers [2022]",
+  language = "en"
+}
+
+@MISC{Sorensen2020-jj,
+  title        = "What Is the Fourth Industrial Revolution?",
+  booktitle    = "Salesforce, The 360 Blog",
+  author       = "Sorensen, Peter",
+  month        =  oct,
+  year         =  2020,
+  howpublished = "\url{https://www.salesforce.com/blog/what-is-the-fourth-industrial-revolution-4ir/}",
+  keywords     = "Cited for Frontiers;+Notion;Frontiers [2022]"
+}
+
+@INCOLLECTION{Nonaka2022-dc,
+  title     = "Dialogue Between Ikujiro Nonaka and Ichiro Yamaguchi:
+               ``Bracketing'' Management Science",
+  booktitle = "Management by Eidetic Intuition: A Dynamic Management Theory
+               Predicated on the ``Philosophy of Empathy''",
+  author    = "Nonaka, Ikujiro and Yamaguchi, Ichiro",
+  editor    = "Nonaka, Ikujiro and Yamaguchi, Ichiro",
+  abstract  = "Management theorist Professor Nonaka and phenomenologist
+               Professor Yamaguchi discuss the relationship between art and
+               science. According to them, scientific objectivity always comes
+               from subjective experience of human beings, and meaning and
+               values are the most fundamental condition for human existence.
+               However, we now live in the ``meaningless'' and ``value-less''
+               world dominated by the natural sciences where ``objectivity'' is
+               valued over subjectivity and many of us are feeling disoriented
+               in our lives. Husserl's phenomenology gives us an insight to
+               overcome this existential challenge in the way that is deeply
+               connected to Nonaka's management studies.",
+  publisher = "Springer Singapore",
+  pages     = "3--11",
+  year      =  2022,
+  address   = "Singapore",
+  keywords  = "Knowledge - Skill Acquisition;+Notion"
+}
+
+@INCOLLECTION{Nonaka2022-du,
+  title     = "The {SECI} Model: Knowledge Creation in the Cycle of
+               Subjectivity and Objectivity",
+  booktitle = "Management by Eidetic Intuition: A Dynamic Management Theory
+               Predicated on the ``Philosophy of Empathy''",
+  author    = "Nonaka, Ikujiro and Yamaguchi, Ichiro",
+  editor    = "Nonaka, Ikujiro and Yamaguchi, Ichiro",
+  abstract  = "The SECI model is essentially a framework for innovation. It
+               explains how to create value and how to live a ``good'' life as
+               an organization to advance humanity. Instead of the age-old
+               principle of ``information-processing'' in management science,
+               this chapter explores ``knowledge creation'' paradigm, and how
+               it successfully integrates and makes the most out of the
+               seemingly opposite concepts, such as subjectivity and
+               objectivity, and art and science.",
+  publisher = "Springer Singapore",
+  pages     = "125--139",
+  year      =  2022,
+  address   = "Singapore",
+  keywords  = "Knowledge - Skill Acquisition;+Notion"
+}
+
+@TECHREPORT{Barua2020-br,
+  title    = "The construction workforce: Growing again, but not changing much",
+  author   = "Barua, A",
+  month    =  feb,
+  year     =  2020,
+  keywords = "Cited for Frontiers;Zotero Import (Feb 22);My Library;2021-12-03
+              Frontiers;Frontiers [2022]"
+}
+
+@MISC{Schankula2019-ju,
+  title     = "The Future Of Work: {VICE} Special Report",
+  booktitle = "{HBO} Documentary Films",
+  author    = "Schankula, David",
+  publisher = "Home Box Office",
+  month     =  apr,
+  year      =  2019,
+  address   = "New York, NY",
+  keywords  = "YouTube;Cited for Frontiers;Frontiers [2022]"
+}
+
+@MISC{Propeller2021-ud,
+  title        = "How to Adapt to the Skilled Labor Shortage in Construction",
+  booktitle    = "Propeller Aerobotics Pty Ltd",
+  author       = "{Propeller}",
+  abstract     = "72\% of general contractors anticipate labor shortages to be
+                  the biggest hurdle this year. Here's how digital tools can
+                  help.",
+  month        =  jan,
+  year         =  2021,
+  howpublished = "\url{https://www.propelleraero.com/blog/how-to-adapt-to-the-skilled-labor-shortage-in-construction/}",
+  note         = "Accessed: 2022-4-13",
+  keywords     = "Labor;+Notion;Frontiers [2022]",
+  language     = "en"
+}
+
+@ARTICLE{Inman2021-ce,
+  title     = "{UK} enjoys property sales boom amid Covid-19 pandemic",
+  author    = "Inman, Phillip",
+  abstract  = "Britain's real estate market defies predictions of a house price
+               crash despite coronavirus crisis",
+  journal   = "The Guardian",
+  publisher = "The Guardian",
+  month     =  sep,
+  year      =  2021,
+  keywords  = "Cited for Frontiers;+Notion;Frontiers [2022]"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@MISC{Cheshire2021-mh,
+  title        = "Why central London has seen the biggest rises in house
+                  prices, despite {COVID}",
+  booktitle    = "London School of Economics and Political Science",
+  author       = "Cheshire, Paul and Hilber, Christian and Sch{\"o}ni, Olivier",
+  abstract     = "As many predicted, the pandemic led to a demand for bigger
+                  homes and gardens. But with supply limited by Britain's
+                  strict planning regulations, and the market propped up by a
+                  stamp duty waive…",
+  month        =  mar,
+  year         =  2021,
+  howpublished = "\url{https://blogs.lse.ac.uk/covid19/2021/03/31/why-central-london-has-seen-the-biggest-rises-in-house-prices-despite-covid/}",
+  note         = "Accessed: 2022-4-13",
+  keywords     = "+Notion;Frontiers [2022]",
+  language     = "en"
+}
+
+@MISC{Ghebreyesus2020-hb,
+  title        = "{WHO} {Director-General's} opening remarks at the media
+                  briefing on {COVID-19} - 11 March 2020",
+  booktitle    = "World Health Organization",
+  author       = "Ghebreyesus, Tedros Adhanom",
+  month        =  mar,
+  year         =  2020,
+  howpublished = "\url{https://www.who.int/director-general/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020}",
+  note         = "Accessed: 2022-4-14",
+  keywords     = "Cited for Frontiers",
+  language     = "en"
+}
+
+@MISC{Agc2021-px,
+  title        = "Construction Adds 31,000 Jobs In November, With Gains In All
+                  Segments, But Industry Will Need Even More Workers As Demand
+                  Accelerates",
+  booktitle    = "Associated General Contractors of America ({AGC})",
+  author       = "{AGC}",
+  abstract     = "Contractors Cope with Record Number of Job Openings as Firms
+                  Struggle to Find Enough Qualified Workers as Association
+                  Officials Call for New Investments in Career and Technical
+                  Education",
+  month        =  dec,
+  year         =  2021,
+  howpublished = "\url{https://www.agc.org/news/2021/12/03/construction-adds-31000-jobs-november-gains-all-segments-industry-will-need-even-more-workers-demand}",
+  note         = "Accessed: 2022-4-14",
+  keywords     = "Labor;AEC;+Notion;Frontiers [2022]",
+  language     = "en"
+}
+
+@ARTICLE{Rosenthal1990-it,
+  title   = "Perceptions and attitudes of young people about the construction
+             industry: A qualitative study",
+  author  = "Rosenthal, B G",
+  journal = "Qualitative Research Services, Potomac, MD",
+  year    =  1990
+}
+
+@ARTICLE{Millard1997-yr,
+  title    = "Skilled Trade Classes Could Ease Technical Worker Shortage",
+  author   = "Millard, Pete",
+  abstract = "The best kept secret in Milwaukee has nothing to do with beer,
+              brats or stadium sauce. It is Milwaukee Public Schools' recipe
+              for teaching students about the value of skilled trades.",
+  journal  = "Milwaukee Business Journal",
+  month    =  aug,
+  year     =  1997,
+  keywords = "Labor;Workplace Learning",
+  language = "en"
+}
+
+@INCOLLECTION{Hibbi2020-aw,
+  title     = "Integrating an intelligent tutoring system into an adaptive
+               E-learning process",
+  booktitle = "Applied and Numerical Harmonic Analysis",
+  author    = "Hibbi, Fatima-Zohra and Abdoun, Otman and Haimoudi, El Khatir",
+  publisher = "Springer International Publishing",
+  pages     = "141--150",
+  year      =  2020,
+  address   = "Cham",
+  keywords  = "Intelligent Tutoring Systems (ITS)"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@INPROCEEDINGS{Chini1999-tj,
+  title     = "Causes of the construction skilled labor shortage and proposed
+               solutions",
+  booktitle = "{ASC} Proceedings of the 35th Annual Conference",
+  author    = "Chini, Abdol R and Brown, Brisbane H and Drummond, Eric G",
+  abstract  = "… potentially greater supply of individuals for the construction
+               work force. Yet, there … construction industry over the next two
+               decades. This paper examines the causes of the labor shortage …",
+  publisher = "ascpro0.ascweb.org",
+  pages     = "187--196",
+  year      =  1999,
+  keywords  = "Labor;@\_Mark Up;Cited for Frontiers;Frontiers [2022]"
+}
+
+@BOOK{Collins2018-ut,
+  title     = "Rethinking Education in the Age of Technology: The Digital
+               Revolution and Schooling in America",
+  author    = "Collins, Allan and Halverson, Richard",
+  abstract  = "The digital revolution in education is well under way, with more
+               and more learners plugged into the online world. How can schools
+               make the most of both the technology and the learning potential
+               of today's ``born digital'' students? In this new edition of
+               their groundbreaking book, Collins and Halverson argue that new
+               technologies have transformed our workplaces, our lives, and our
+               culture and it is time we take the next step to transform
+               learning---in and out of schools. The authors show how, over
+               time, public schooling was so successful that it became
+               synonymous with education. But new technologies risk making
+               schools obsolete and this book explains why and how today's
+               educators, policymakers, and communities must adapt to provide
+               all learners with access to the new learning tools of the 21st
+               century.",
+  publisher = "Teachers College Press",
+  series    = "Technology, Education--Connections",
+  edition   =  2,
+  year      =  2018,
+  address   = "New York, NY",
+  keywords  = "Cited for Frontiers;Labor;Workplace Learning;ePub;Zotero Import
+               (Feb 22);My Library;2021-12-03 Frontiers;Frontiers [2022];EPubs
+               Books"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Suppes1969-kb,
+  title     = "Computer-assisted instruction",
+  author    = "Suppes, P and Morningstar, M",
+  journal   = "Science",
+  publisher = "American Association for the Advancement of Science (AAAS)",
+  volume    =  166,
+  number    =  3903,
+  pages     = "343--350",
+  month     =  oct,
+  year      =  1969,
+  keywords  = "Intelligent Tutoring Systems (ITS);§New Literature",
+  language  = "en"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@INCOLLECTION{Yudelson2013-yg,
+  title     = "Individualized Bayesian knowledge tracing models",
+  booktitle = "Lecture Notes in Computer Science",
+  author    = "Yudelson, Michael V and Koedinger, Kenneth R and Gordon,
+               Geoffrey J",
+  publisher = "Springer Berlin Heidelberg",
+  pages     = "171--180",
+  series    = "Lecture notes in computer science",
+  year      =  2013,
+  address   = "Berlin, Heidelberg",
+  keywords  = "§New Literature;Artificial Intelligence (AI);Intelligent
+               Tutoring Systems (ITS);@\_Mark Up"
+}
+
+@ARTICLE{Chieu2010-ib,
+  title     = "Student modeling in orthopedic surgery training: Exploiting
+               symbiosis between temporal bayesian networks and fine-grained
+               didactic analysis",
+  author    = "Chieu, Vu Minh and Luengo, Vanda and Vadcard, Lucile and
+               Tonetti, J{\'e}r{\^o}me",
+  abstract  = "Cognitive approaches have been used for student modeling in
+               intelligent tutoring systems (ITSs). Many of those systems have
+               tackled fundamental subjects such as mathematics, physics, and
+               computer programming. The change of the student's cognitive
+               behavior over time, however, has not been considered and modeled
+               systematically. Furthermore, the nature of domain knowledge in
+               specific subjects such as orthopedic surgery, in which pragmatic
+               knowledge could play an important role, has also not been taken
+               into account deliberately. We believe that the temporal
+               dimension in modeling the student's knowledge state and
+               cognitive behavior is critical, especially in such domains. In
+               this paper, we propose an approach for student modeling and
+               diagnosis, which is based on a symbiosis between temporal
+               Bayesian networks and fine-grained didactic analysis. The latter
+               may help building a powerful domain knowledge model and the
+               former may help modeling the learner's complex cognitive
+               behavior, so as to be able to provide him or her with relevant
+               feedback during a problem-solving process. To illustrate the
+               application of the approach, we designed and developed several
+               key components of an intelligent learning environment for
+               teaching the concept of sacro-iliac screw fixation in orthopedic
+               surgery, for which we videotaped and analyzed six surgical
+               interventions in a French hospital. A preliminary gold-standard
+               validation suggests that our diagnosis component is able to
+               produce coherent diagnosis with acceptable response time.",
+  journal   = "International Journal of Artificial Intelligence in Education",
+  publisher = "IOS Press",
+  volume    =  20,
+  number    =  3,
+  pages     = "269--301",
+  year      =  2010,
+  keywords  = "Intelligent Tutoring Systems (ITS)"
+}
+
+@INCOLLECTION{Opwis2001-vw,
+  title     = "Instructional Technology: Cognitive Science Perspectives",
+  booktitle = "International Encyclopedia of the Social \& Behavioral Sciences",
+  author    = "Opwis, K",
+  editor    = "Smelser, Neil J and Baltes, Paul B",
+  abstract  = "Intelligent tutoring refers to computer-based instructional
+               systems that are founded on the assumption that learning based
+               on individualized instruction by a competent tutor is far
+               superior to classroom-style group instruction. Good human tutors
+               are `intelligent tutors' because they are able to continously
+               adapt the content and style of their instruction to best meet
+               the needs of the learner. The historical evolution of
+               intelligent tutoring systems is presented. The starting point
+               was programmed instruction in the late 1960s, followed by
+               knowledge-based tutors that try to simulate good human tutors by
+               the integrated use of domain knowledge, teaching knowledge, and
+               knowledge about the individual student. Finally some important
+               current trends like distance learning, collaborative learning,
+               and Web-based learning are outlined. The presentation is given
+               within a cognitive science point of view. From this perspective
+               the research on intelligent tutoring has shown many fruitful
+               interactions between academic research and application-oriented
+               research with regard to topics like knowledge representation,
+               computerized assessment of knowledge, learning and knowledge
+               acquisition, and expertise research.",
+  publisher = "Pergamon",
+  pages     = "7573--7577",
+  month     =  jan,
+  year      =  2001,
+  address   = "Oxford",
+  keywords  = "Intelligent Tutoring Systems (ITS);@\_Mark Up;Completed"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Lesgold1988-at,
+  title     = "Sherlock: A Coached Practice Environment for an Electronics
+               Troubleshooting Job",
+  author    = "Lesgold, Alan and Lajoie, Susanne and Bunzo, Marilyn and Eggan,
+               Gary",
+  abstract  = "``Sherlock'' is a computer-based, supported practice environment
+               for a complex troubleshooting job in Air Force electronics. The
+               program was developed to raise the level of troubleshooting
+               knowledge of avionics technicians. This describes that training
+               problem for which Sherlock was developed, the principles behind
+               its development, and its implementation. It leads the reader
+               through the Sherlock program, with drawings of some of the
+               various screens displayed during use of the program. A glossary
+               and list of references are included.",
+  journal   = "Computer Assisted Instruction and Intelligent Tutoring Systems:
+               Establishing Communication and Collaboration",
+  publisher = "Lawrence Erlbaum Associates",
+  pages     = "201",
+  year      =  1988,
+  keywords  = "Intelligent Tutoring Systems (ITS);§New Literature"
+}
+
+@BOOK{Oecd2020-ge,
+  title     = "Strengthening the Governance of Skills Systems: Lessons from Six
+               {OECD} Countries",
+  author    = "{OECD}",
+  publisher = "OECD Publishing",
+  year      =  2020,
+  keywords  = "Knowledge - Skill Acquisition;Report"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Autor2013-ht,
+  title     = "The growth of low-skill service jobs and the polarization of the
+               {US} labor market",
+  author    = "Autor, David H and Dorn, David",
+  abstract  = "We offer a unified analysis of the growth of low-skill service
+               occupations between 1980 and 2005 and the concurrent
+               polarization of US employment and wages. We hypothesize that
+               polarization stems from the interaction between consumer
+               preferences, which favor variety over specialization, and the
+               falling cost of automating routine, codifiable job tasks.
+               Applying a spatial equilibrium model, we corroborate four
+               implications of this hypothesis. Local labor markets that
+               specialized in routine tasks differentially adopted information
+               technology, reallocated low-skill labor into service occupations
+               (employment polarization), experienced earnings growth at the
+               tails of the distribution (wage polarization), and received
+               inflows of skilled labor. (JEL J24, J31, R23)",
+  journal   = "Am. Econ. Rev.",
+  publisher = "American Economic Association",
+  volume    =  103,
+  number    =  5,
+  pages     = "1553--1597",
+  month     =  aug,
+  year      =  2013,
+  keywords  = "§New Literature",
+  language  = "en"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@INPROCEEDINGS{Gamboa2001-rk,
+  title     = "Designing intelligent tutoring systems: A Bayesian approach",
+  author    = "Gamboa, Hugo and Fred, Ana L N",
+  abstract  = "This paper proposes a model and an architecture for designing
+               intelligent tutoring system using Bayesian Networks. The design
+               model of an intelligent tutoring system is directed towards the
+               separation between the domain knowledge and the tutor shell. The
+               architecture is composed by a user model, a knowledge base, an
+               adaptation module, a pedagogical module and a presentation
+               module. Bayesian Networks are used to assess user's state of
+               knowledge and preferences, in order to suggest pedagogical
+               options and recommend future steps in the tutor. The proposed
+               architecture is implemented in the Internet, enabling its use as
+               an e-learning tool. An example of an intelligent tutoring system
+               is shown for illustration purposes.",
+  publisher = "unknown",
+  pages     = "452--458",
+  month     =  jan,
+  year      =  2001,
+  keywords  = "Intelligent Tutoring Systems (ITS);§New Literature"
+}
+
+@ARTICLE{VanLehn2006-op,
+  title     = "The behavior of tutoring systems",
+  author    = "VanLehn, Kurt",
+  abstract  = "Tutoring systems are described as having two loops. The outer
+               loop executes once for each task, where a task usually consists
+               of solving a complex, multi-step problem. The inner loop
+               executes once for each step taken by the student in the solution
+               of",
+  journal   = "Int. J. Artif. Intell. Educ.",
+  publisher = "IOS Press",
+  volume    =  16,
+  number    =  3,
+  pages     = "227--265",
+  month     =  jan,
+  year      =  2006,
+  keywords  = "Intelligent Tutoring Systems (ITS);Cited for Frontiers;Frontiers
+               [2022]"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@INPROCEEDINGS{Olsen2012-bm,
+  title     = "How industrial contractors are handling skilled labor shortages
+               in the United States",
+  booktitle = "48th {ASC} Annual International Conference Proceedings",
+  author    = "Olsen, Darren and Tatum, Mark and Defnall, Christopher",
+  abstract  = "In the United States, industrial construction annually
+               contributes around four percent to the GDP and has continuously
+               increased this percentage year over year until the recent
+               economic downturn. The construction industry requires a massive
+               workforce and employs over seven million full-time and part-time
+               employees. Out of those employees, approximately one million are
+               employed within the industrial side of construction. Since the
+               early 1980s, the US construction industry has seen a severe
+               shortage of skilled craft labor and even …",
+  publisher = "ascpro0.ascweb.org",
+  year      =  2012,
+  keywords  = "AEC;Labor;+Notion;@\_Mark Up;Completed;Frontiers [2022]"
+}
+
+@INPROCEEDINGS{Amokrane2008-zr,
+  title           = "An intelligent tutoring system for training and learning
+                     in a virtual environment for high-risk sites",
+  booktitle       = "2008 20th {IEEE} International Conference on Tools with
+                     Artificial Intelligence",
+  author          = "Amokrane, Kahina and Lourdeaux, Domitile and Barth{\`e}s,
+                     Jean-Paul and Burkhardt, Jean-Marie",
+  publisher       = "IEEE",
+  month           =  nov,
+  year            =  2008,
+  keywords        = "Intelligent Tutoring Systems (ITS);AR/MR;@\_Mark
+                     Up;+Notion;Frontiers [2022]",
+  conference      = "2008 20th IEEE International Conference on Tools with
+                     Artificial Intelligence (ICTAI)",
+  location        = "Dayton, OH, USA"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@INPROCEEDINGS{Alday2018-yc,
+  title           = "Bayesian networks in intelligent tutoring systems as an
+                     assessment of student performance using student modeling",
+  booktitle       = "Proceedings of the 2018 2nd International Conference on
+                     Algorithms, Computing and Systems - {ICACS} '18",
+  author          = "Alday, Roselie B",
+  publisher       = "ACM Press",
+  year            =  2018,
+  address         = "New York, New York, USA",
+  keywords        = "Intelligent Tutoring Systems (ITS);§New Literature",
+  copyright       = "http://www.acm.org/publications/policies/copyright\_policy\#Background",
+  conference      = "the 2018 2nd International Conference",
+  location        = "Beijing, China"
+}
+
+@TECHREPORT{Prefabrication_and_Modular_Construction_20202020-ir,
+  title       = "Prefabrication and Modular Construction 2020",
+  author      = "{Prefabrication and Modular Construction 2020}",
+  institution = "Prefabrication and Modular Construction 2020",
+  year        =  2020,
+  keywords    = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
+}
+
+@ARTICLE{Melenbrink2020-gr,
+  title     = "On-site autonomous construction robots: Towards unsupervised
+               building",
+  author    = "Melenbrink, Nathan and Werfel, Justin and Menges, Achim",
+  journal   = "Autom. Constr.",
+  publisher = "Elsevier BV",
+  volume    =  119,
+  number    =  103312,
+  pages     = "103312",
+  month     =  nov,
+  year      =  2020,
+  keywords  = "Automation;AEC;Important;@\_Mark Up;Game Engine \_ AR-VR",
+  language  = "en"
+}
+
+@INCOLLECTION{dummy_key,
+  title     = "The Core Concept of Statistics",
+  booktitle = "Understanding Statistics and Experimental Design: How not to lie
+               with statistics",
+  author    = "Herzog, Michael and Francis, Gregory and Clarke, Aaron",
+  publisher = "Springer International Publishing",
+  pages     = "23--50",
+  year      =  2019,
+  address   = "Cham, Switzerland",
+  keywords  = "Statistics;Methods"
+}
+
+@BOOK{dummy_key,
+  title     = "The Amazing Journey of Reason: from {DNA} to Artificial
+               Intelligence",
+  author    = "Alemi, Mario",
+  abstract  = "The Amazing Journey analyzes the latest results in chemistry,
+               biology, neuroscience, anthropology and sociology under the
+               light of the evolution of intelligence, seen as the ability of
+               processing information.",
+  publisher = "Springer International Publishing",
+  series    = "SpringerBriefs in Computer Science",
+  year      =  2020,
+  address   = "Cham, Switzerland",
+  keywords  = "Read;Misc"
+}
+
+@ARTICLE{dummy_key,
+  title    = "Ten simple rules for writing research papers",
+  author   = "Zhang, Weixiong",
+  abstract = "The importance of writing well can never be overstated for a
+              successful professional career, and the ability to write solid
+              papers is an essential trait of a productive researcher. Writing
+              and publishing a paper has its own life cycle; properly following
+              a course of action and avoiding missteps can be vital to the
+              overall success not only of a paper but of the underlying
+              research as well. Here, we offer ten simple rules for writing and
+              publishing research papers.",
+  journal  = "PLoS Comput. Biol.",
+  volume   =  10,
+  number   =  1,
+  pages    = "e1003453",
+  month    =  jan,
+  year     =  2014,
+  keywords = "Important;Methods",
+  language = "en"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@INPROCEEDINGS{Wolf2019-ff,
+  title           = "Case study on mobile virtual reality construction training",
+  booktitle       = "Proceedings of the 36th International Symposium on
+                     Automation and Robotics in Construction ({ISARC})",
+  author          = "Wolf, Mario and Teizer, Jochen and Ruse, J H",
+  publisher       = "International Association for Automation and Robotics in
+                     Construction (IAARC)",
+  month           =  may,
+  year            =  2019,
+  keywords        = "§New Literature;International Association for Automation
+                     and Robotics in Construction (IAARC)",
+  conference      = "36th International Symposium on Automation and Robotics in
+                     Construction",
+  location        = "Banff, AB, Canada"
+}
+
+@ARTICLE{Wood1976-cd,
+  title    = "The Role of Tutoring in Problem Solving",
+  author   = "Wood, David and Bruner, Jerome S and Ross, Gail",
+  journal  = "J. Child Psychol. Psychiatry",
+  volume   =  17,
+  number   =  2,
+  pages    = "89--100",
+  year     =  1976,
+  keywords = "Cited for Frontiers;Knowledge - Skill Acquisition;Zotero Import
+              (Feb 22);My Library;Frontiers [2022]"
+}
+
+@ARTICLE{Abdel-Wahab2012-so,
+  title    = "Rethinking apprenticeship training in the British construction
+              industry",
+  author   = "Abdel-Wahab, Mohamed",
+  journal  = "Journal of Vocational Education \& Training",
+  volume   =  64,
+  number   =  2,
+  pages    = "145--154",
+  year     =  2012,
+  keywords = "Zotero Import (Feb 22);My Library;Frontiers [2021]"
+}
+
+@ARTICLE{Smith1976-wi,
+  title    = "Educational Uses of the {PLATO} Computer System",
+  author   = "Smith, Stanley G and Sherwood, Bruce Arne",
+  journal  = "Science",
+  volume   =  192,
+  number   =  4237,
+  pages    = "344--352",
+  year     =  1976,
+  keywords = "Intelligent Tutoring Systems (ITS);Cited for Frontiers;Zotero
+              Import (Feb 22);My Library;Intelligent Tutoring Systems
+              (ITS);Frontiers [2022]"
+}
+
+@ARTICLE{Collins1989-me,
+  title    = "Cognitive Apprenticeship: Teaching the Crafts of Reading,
+              Writing, and Mathematics",
+  author   = "Collins, Allan and Brown, John Seely and Newman, Susan E",
+  journal  = "Knowing, Learning, and Instruction",
+  pages    = "453--494",
+  year     =  1989,
+  keywords = "Cited for Frontiers;Labor;Workplace Learning;Zotero Import (Feb
+              22);My Library;Frontiers [2022]"
+}
+
+@ARTICLE{Gott1988-dw,
+  title    = "Chapter 3: Apprenticeship Instruction for {Real-World} Tasks: The
+              Coordination of Procedures, Mental Models, and Strategies",
+  author   = "Gott, Sherrie P",
+  journal  = "Review of Research in Education",
+  volume   =  15,
+  number   =  1,
+  pages    = "97--169",
+  year     =  1988,
+  keywords = "Workplace Learning;Cited for Frontiers;Zotero Import (Feb 22);My
+              Library;Frontiers [2022]"
+}
+
+@TECHREPORT{Gott1998-ww,
+  title       = "Rediscovering Learning: Acquiring Expertise in Real World
+                 Problem Solving Tasks",
+  author      = "Gott, S P and {Armstrong Laboratory Air Force Materiel
+                 Command}",
+  number      = "AL/HR-TP-1997-0009",
+  institution = "United States Air Force",
+  month       =  may,
+  year        =  1998,
+  keywords    = "Workplace Learning;Cited for Frontiers;Zotero Import (Feb
+                 22);My Library;2021-12-03 Frontiers;Frontiers [2022]"
+}
+
+@ARTICLE{Kaklauskas2016-uk,
+  title    = "Intelligent decision-support systems and the Internet of Things
+              for the smart built environment",
+  author   = "Kaklauskas, A and Gudauskas, R",
+  journal  = "Start-Up Creation",
+  pages    = "413--449",
+  year     =  2016,
+  keywords = "Cited for Frontiers;Zotero Import (Feb 22);My Library;2021-12-03
+              Frontiers;Frontiers [2022]"
+}
+
+@ARTICLE{Metsamuuronen2018-km,
+  title    = "{Cognitive--Linguistic} and Constructivist Mnemonic Triggers in
+              Teaching Based on Jerome Bruner's Thinking",
+  author   = "Mets{\"a}muuronen, Jari and R{\"a}s{\"a}nen, Pekka",
+  journal  = "Front. Psychol.",
+  volume   =  9,
+  year     =  2018,
+  keywords = "Cited for Frontiers;Knowledge - Skill Acquisition;ePub;Zotero
+              Import (Feb 22);My Library;2021-12-03 Frontiers;Frontiers
+              [2022];EPubs Books"
+}
+
+@TECHREPORT{Barbosa2017-rj,
+  title       = "Reinventing construction through a productivity revolution",
+  author      = "Barbosa, Filipe and Woetzel, Jonathan and Mischke, Jan and
+                 Ribeirinho, Maria Jo{\~a}o and Sridhar, Mukund and Parsons,
+                 Matthew and Bertram, Nick and Brown, Stephanie",
+  institution = "McKinsey Global Institute",
+  month       =  feb,
+  year        =  2017,
+  keywords    = "Cited for Frontiers;Zotero Import (Feb 22);My
+                 Library;2021-12-03 Frontiers;Frontiers [2022]",
+  copyright   = "McKinsey \& Company"
+}
+
+@MISC{De_Laubier2021-rh,
+  title    = "The Offsite Revolution in Construction",
+  author   = "de Laubier, Romain and Burfeind, Arne and Arnold, Sebastien and
+              Witth{\"o}ft, Sven and Wunder, Marius",
+  month    =  jul,
+  year     =  2021,
+  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Xu2019-iv,
+  title     = "The effectiveness of virtual reality in safety training:
+               Measurement of emotional arousal with electromyography",
+  author    = "Xu, Sheng and Ni, Qingqing and Du, Qiang",
+  journal   = "ISARC Proceedings",
+  publisher = "IAARC",
+  pages     = "20--25",
+  month     =  may,
+  year      =  2019,
+  keywords  = "§New Literature;AR/MR;International Association for Automation
+               and Robotics in Construction (IAARC)"
+}
+
+@INPROCEEDINGS{Zhang2019-bm,
+  title           = "Cartesian points visualization in game simulation for
+                     analyzing geometric representations of {AEC} objects in
+                     {IFC}",
+  booktitle       = "Proceedings of the 36th International Symposium on
+                     Automation and Robotics in Construction ({ISARC})",
+  author          = "Zhang, Jiansong and Chen, Yunfeng and Liu, Rui and Debs,
+                     Luciana",
+  publisher       = "International Association for Automation and Robotics in
+                     Construction (IAARC)",
+  month           =  may,
+  year            =  2019,
+  keywords        = "@\_Mark Up;International Association for Automation and
+                     Robotics in Construction (IAARC)",
+  conference      = "36th International Symposium on Automation and Robotics in
+                     Construction",
+  location        = "Banff, AB, Canada"
+}
+
+@INCOLLECTION{Rebolledo-Mendez2011-mg,
+  title     = "Designing Adaptive Motivational Scaffolding for a Tutoring
+               System",
+  booktitle = "New Perspectives on Affect and Learning Technologies",
+  author    = "Rebolledo-Mendez, Genaro and Luckin, Rosemary and Boulay,
+               Benedict du",
+  editor    = "Calvo, Rafael A and D'Mello, Sidney K",
+  abstract  = "Attribution Theory (Weiner, 1990) and Goal Orientation Theory
+               (Ames, 1990) provide human teachers with useful guidelines to
+               help them understand students' motivation and personalize their
+               choice of educational activities. Such theories can assist
+               teachers by informing the way they may interact with students in
+               real class settings. However, it is less obvious how these
+               theories can aid the development of motivationally aware
+               educational technology. One of the strengths of educational
+               technology, for example, intelligent tutoring systems, is the
+               use of learner models to adapt the learning activities to the
+               student's current abilities and needs. This adaptation has
+               provided some degree of efficiency tailoring in educational
+               content delivery but the resulting activities are not,
+               necessarily, motivating for students.",
+  publisher = "Springer New York",
+  pages     = "155--168",
+  year      =  2011,
+  address   = "New York, NY",
+  keywords  = "Intelligent Tutoring Systems (ITS);Zotero Import (Feb 22);My
+               Library;Intelligent Tutoring Systems (ITS)"
+}
+
+@ARTICLE{Puntambekar2021-pm,
+  title    = "Distributed Scaffolding: Scaffolding Students in Classroom
+              Environments",
+  author   = "Puntambekar, Sadhana",
+  abstract = "This paper traces the origins of the scaffolding construct,
+              placing it in its theoretical-historical context. The paper
+              discusses the connection between Vygotsky's Zone of Proximal
+              Development (ZPD), and the notion of scaffolding, and explicates
+              the differences between scaffolding and scaffolds. The paper then
+              presents a discussion of the changes that the notion of
+              scaffolding has undergone, especially when it comes to supporting
+              students in classroom contexts. In classrooms where one teacher
+              supports multiple students, scaffolding is distributed across
+              various tools and social scaffolds. A discussion of the notion of
+              distributed scaffolding is presented, to describe how students in
+              classrooms may be supported by various tools and social
+              scaffolds. The paper then introduces the kinds of distribution
+              and interactions between tools and social scaffolds that need to
+              be considered to support multiple students in classroom contexts.
+              Finally, distributed scaffolding is discussed with reference to
+              the key features of scaffolding, especially fading and transfer
+              of responsibility.",
+  journal  = "Educ. Psychol. Rev.",
+  month    =  aug,
+  year     =  2021,
+  keywords = "@\_Mark Up;Knowledge - Skill Acquisition;Cited for
+              Frontiers;Zotero Import (Feb 22);My Library;Frontiers [2022]"
+}
+
 @ARTICLE{Zhang2018-qu,
   title    = "Large-scale {3D} printing by a team of mobile robots",
   author   = "Zhang, Xu and Li, Mingyang and Lim, Jian Hui and Weng, Yiwei and
@@ -2114,41 +2767,6 @@
   year     =  2018,
   keywords = "AEC;Robots;Zotero Import (Feb 22);My Library;Frontiers [2021]",
   language = "en"
-}
-
-@ARTICLE{Bell2010-ax,
-  title    = "Performance Gains from Speech-enhanced Simulation in Military
-              Flying Training",
-  author   = "Bell, Benjamin and Billington, Stacie and Bennett, Winston and
-              Billington, Ian and Ryder, Joan",
-  abstract = "Flight simulation is a proven technique for training technical
-              and procedural skills, but team skills present needs that remain
-              unmet by simulator technology. Communication and coordination,
-              two skills representative of this gap, are typically incorporated
-              into simulation via human role players, a practice that entails
-              cost, introduces variation, and can compromise availability of
-              training. In this article we explore the use of
-              speech-interactive synthetic teammates to bring team skills into
-              simulation-based training. We report on a US Air Force study that
-              led to the development of a desktop air traffic pattern
-              simulation for practicing radio communications, and present
-              findings from a study conducted with US Air Force student pilots
-              who employed this system during part of their pilot training. The
-              work reported here addresses two questions. First, can
-              contemporary desktop simulation augmented with intelligent agents
-              and voice recognition provide training gains in communications
-              performance among student pilots? Second, will users accept this
-              approach?",
-  journal  = "Journal of Defense Modeling \& Simulation",
-  volume   =  7,
-  number   =  2,
-  pages    = "67--87",
-  month    =  apr,
-  year     =  2010,
-  keywords = "Intelligent Tutoring Systems (ITS);Knowledge - Skill
-              Acquisition;Cited for Frontiers;Zotero Import (Feb 22);My
-              Library;Frontiers [2021];Intelligent Tutoring Systems
-              (ITS);Frontiers [2022]"
 }
 
 @ARTICLE{Alkhatlan2018-pv,
@@ -2365,38 +2983,6 @@
               22);My Library;Frontiers [2021];Intelligent Tutoring Systems
               (ITS);Frontiers [2022]",
   language = "en"
-}
-
-@BOOK{Wild2017-ng,
-  title     = "Immersive Learning Research Network: Third International
-               Conference, {iLRN} 2017, Coimbra, Portugal, June 26--29, 2017.
-               Proceedings",
-  author    = "Wild, Fridolin and Klemke, Roland and Lefrere, Paul and
-               Fominykh, Mikhail and Kuula, Timo",
-  editor    = "Beck, Dennis and Allison, Colin and Morgado, Leonel and Pirker,
-               Johanna and Khosmood, Foaad and Richter, Jonathon and G{\"u}tl,
-               Christian",
-  publisher = "Springer, Cham",
-  year      =  2017,
-  keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
-}
-
-@MISC{Solman2021-vc,
-  title     = "The manufacturing sector needs workers. Training high schoolers
-               could help fill that void",
-  booktitle = "{PBS} Newshour",
-  author    = "Solman, P",
-  abstract  = "Even as the U.S. labor picture improves, the manufacturing
-               sector is still struggling with a shortage of workers and raw
-               materials. An analysis by Deloitte found that over two million
-               manufacturing jobs will be unfilled through 2030. Economic
-               correspondent Paul Solman looks at a program that's preparing
-               inner city high school students for high-skill, high-paying
-               factory jobs.",
-  publisher = "PBS",
-  month     =  jul,
-  year      =  2021,
-  keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
 @INPROCEEDINGS{Chang2008-jg,
@@ -2920,17 +3506,6 @@
                Robotics in Construction (IAARC)"
 }
 
-@BOOK{Autor2022-vv,
-  title     = "The Work of the Future: Building Better Jobs in an Age of
-               Intelligent Machines",
-  author    = "Autor, D H and Mindell, D A and Reynolds, E and Solow, R M",
-  publisher = "MIT Press",
-  year      =  2022,
-  keywords  = "Book (physical);ePub;@\_Mark Up;Cited for
-               Frontiers;The\_Work\_of\_the\_Future.bibtex;Frontiers
-               [2022];EPubs Books"
-}
-
 @ARTICLE{Boder1990-uj,
   title     = "An epistemological approach to intelligent tutoring systems",
   author    = "Boder, Andr{\'e} and Cavallo, David",
@@ -3069,48 +3644,6 @@
   keywords    = "Intelligent Tutoring Systems (ITS);Zotero Import (Feb 22);My
                  Library;2021-12-03 Frontiers;Intelligent Tutoring Systems
                  (ITS)"
-}
-
-@ARTICLE{Mousavinasab2021-eg,
-  title    = "Intelligent tutoring systems: a systematic review of
-              characteristics, applications, and evaluation methods",
-  author   = "Mousavinasab, Elham and Zarifsanaiey, Nahid and Kalhori, Sharareh
-              R Niakan and Rakhshan, Mahnaz and Keikha, Leila and Saeedi,
-              Marjan Ghazi",
-  abstract = "With the rapid growth of technology, computer learning has become
-              increasingly integrated with artificial intelligence techniques
-              in order to develop more personalized educational systems. These
-              systems are known as Intelligent Tutoring systems (ITSs). This
-              paper focused on the variant characteristics of ITSs developed
-              across different educational fields. The original studies from
-              2007 to 2017 were extracted from the PubMed, ProQuest, Scopus,
-              Google scholar, Embase, Cochrane, and Web of Science databases.
-              Finally, 53 papers were included in the study based on inclusion
-              criteria. The educational fields in the ITSs were mainly computer
-              sciences (37.73\%). Action-condition rule-based reasoning, data
-              mining, and Bayesian network with 33.96\%, 22.64\%, and 20.75\%
-              frequency respectively, were the most frequent artificial
-              intelligent techniques applied in the ITSs. These techniques
-              enable ITSs to deliver adaptive guidance and instruction,
-              evaluate learners, define and update the learner's model, and
-              classify or cluster learners. Specifically, the performance of
-              the system, learner's performance, and experiences were used for
-              evaluation of ITSs. Most ITSs were designed for web user
-              interfaces. Although these systems could facilitate reasoning in
-              the learning process, these systems have rarely been applied in
-              experimental courses including problem-solving, decision-making
-              in physics, chemistry, and clinical fields. Due to the important
-              role of a cell phone in facilitating personalized learning and
-              given the low rate of using mobile-based ITSs, this study has
-              recommended the development and evaluation of mobile-based ITSs.",
-  journal  = "Interactive Learning Environments",
-  volume   =  29,
-  number   =  1,
-  pages    = "142--163",
-  year     =  2021,
-  keywords = "Intelligent Tutoring Systems (ITS);ePub;@\_Mark
-              Up;Completed;Zotero Import (Feb 22);My Library;Intelligent
-              Tutoring Systems (ITS);Frontiers [2022];EPubs Books"
 }
 
 @ARTICLE{Roll2018-op,
@@ -3317,70 +3850,6 @@
   keywords  = "Intelligent Tutoring Systems (ITS);§New Literature"
 }
 
-@ARTICLE{Dede2009-ro,
-  title     = "Immersive interfaces for engagement and learning",
-  author    = "Dede, Chris",
-  abstract  = "Immersion is the subjective impression that one is participating
-               in a comprehensive, realistic experience. Interactive media now
-               enable various degrees of digital immersion. The more a virtual
-               immersive experience is based on design strategies that combine
-               actional, symbolic, and sensory factors, the greater the
-               participant's suspension of disbelief that she or he is
-               ``inside'' a digitally enhanced setting. Studies have shown that
-               immersion in a digital environment can enhance education in at
-               least three ways: by allowing multiple perspectives, situated
-               learning, and transfer. Further studies are needed on the
-               capabilities of immersive media for learning, on the
-               instructional designs best suited to each type of immersive
-               medium, and on the learning strengths and preferences these
-               media develop in users.",
-  journal   = "Science",
-  publisher = "American Association for the Advancement of Science (AAAS)",
-  volume    =  323,
-  number    =  5910,
-  pages     = "66--69",
-  month     =  jan,
-  year      =  2009,
-  keywords  = "Intelligent Tutoring Systems (ITS);AR/MR;@\_Mark
-               Up;Completed;Frontiers [2022]",
-  language  = "en"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@INCOLLECTION{Gabriele2012-uz,
-  title     = "Active learning in a robotics laboratory with university
-               students",
-  booktitle = "Increasing Student Engagement and Retention Using Immersive
-               Interfaces: Virtual Worlds, Gaming, and Simulation",
-  author    = "Gabriele, Lorella and Tavernise, Assunta and Bertacchini,
-               Francesca",
-  publisher = "Emerald Group Publishing Limited",
-  pages     = "315--339",
-  series    = "Cutting-edge technologies in higher education",
-  month     =  jan,
-  year      =  2012,
-  keywords  = "§New Literature"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@INPROCEEDINGS{Dinet2018-jv,
-  title           = "Immersive Interfaces for Engagement and Learning",
-  booktitle       = "Proceedings of the Virtual Reality International
-                     Conference - Laval Virtual",
-  author          = "Dinet, J{\'e}r{\^o}me and Kitajima, Mun{\'e}o",
-  publisher       = "ACM",
-  month           =  apr,
-  year            =  2018,
-  address         = "New York, NY, USA",
-  keywords        = "§New Literature",
-  copyright       = "http://www.acm.org/publications/policies/copyright\_policy\#Background",
-  conference      = "VRIC '18: Virtual Reality International Conference - Laval
-                     Virtual VRIC '18",
-  location        = "Laval France"
-}
-
 @ARTICLE{Self1998-fu,
   title    = "The defining characteristics of intelligent tutoring systems
               research: {ITSs} care, precisely",
@@ -3405,26 +3874,6 @@
   keywords = "research methods;Intelligent Tutoring Systems (ITS);@\_Mark
               Up;Completed;Frontiers [2022]",
   language = "en"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@ARTICLE{Knowles2002-ic,
-  title    = "Malcolm Knowles, informal adult education, self-direction, and
-              andragogy",
-  author   = "Knowles, Malcolm",
-  journal  = "The encyclopedia of informal education",
-  year     =  2002,
-  keywords = "Andragogy;§New Literature"
-}
-
-@BOOK{Russell2019-or,
-  title     = "Human Compatible: Artificial Intelligence and the Problem of
-               Control",
-  author    = "Russell, S",
-  publisher = "Penguin Publishing Group",
-  year      =  2019,
-  keywords  = "ePub;Book (physical);EPubs Books;Frontiers [2022]"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -3462,40 +3911,6 @@
   pages    = "116--130",
   year     =  2007,
   keywords = "Andragogy;§New Literature;@\_Mark Up"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@BOOK{Liu2017-wo,
-  title     = "Virtual, Augmented, and Mixed Realities in Education",
-  author    = "Liu, Dejian and Dede, Chris and Huang, Ronghuai and Richards,
-               John",
-  abstract  = "This book describes the current state of the art of various
-               types of immersive learning: in research, in practice, and in
-               the marketplace. It discusses advanced approaches in the design
-               and development for various forms of immersive learning
-               environments, and also the emerging innovations in assessment
-               and research in the field. In addition, it demonstrates the
-               opportunities and challenges in implementing advances in VR and
-               immersion at scale in formal and informal learning.We are living
-               in a time of rapid advances in terms of both the capabilities
-               and the cost of virtual reality, multi-user virtual
-               environments, and various forms of mixed reality. These new
-               media potentially offer extraordinary opportunities for
-               enhancing both motivation and learning across a range of subject
-               areas, student developmental levels, and educational settings.
-               With the development of practical and affordable virtual reality
-               and mixed reality, people now have the chance to experience
-               immersive learning both in classrooms and informally in homes,
-               libraries, and community centers. The book appeals to a broad
-               readership including teachers, administrators, scholars, policy
-               makers, instructional designers, evaluators and industry
-               leaders.",
-  publisher = "Springer",
-  month     =  nov,
-  year      =  2017,
-  keywords  = "§New Literature;ePub;EPubs Books",
-  language  = "en"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -3608,35 +4023,6 @@
 
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
-@ARTICLE{VanLehn1987-hn,
-  title     = "Learning one subprocedure per lesson",
-  author    = "VanLehn, Kurt",
-  abstract  = "sierra is a program that learns procedures incrementally from
-               examples, where an example is a sequence of actions. sierra
-               learns by completing explanations. Whenever the current
-               procedure is inadequate for explaining (parsing) the current
-               example, sierra formulates a new subprocedure whose
-               instantiation completes the explanation (parse tree). The key to
-               sierra's success lies in supplying a small amount of extra
-               information with the examples. Instead of giving it a set of
-               examples, under which conditions correct learning is provably
-               impossible, it is given a sequence of ``lessons,'' where a
-               lesson is a set of examples that is guaranteed to introduce only
-               one subprocedure. This permits unbiased learning, i.e., learning
-               without a priori, heuristic preferences concerning the outcome.",
-  journal   = "Artif. Intell.",
-  publisher = "Elsevier BV",
-  volume    =  31,
-  number    =  1,
-  pages     = "1--40",
-  month     =  jan,
-  year      =  1987,
-  keywords  = "§New Literature",
-  language  = "en"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
 @ARTICLE{Andriessen1999-ke,
   title     = "Where is Education and how about {AI}?",
   author    = "Andriessen, J E B and Sandberg, J A C",
@@ -3687,46 +4073,6 @@
   language  = "en"
 }
 
-@BOOK{Brynjolfsson2014-kx,
-  title     = "The Second Machine Age: Work, Progress, and Prosperity in a Time
-               of Brilliant Technologies",
-  author    = "Brynjolfsson, Erik and McAfee, Andrew",
-  abstract  = "A New York Times Bestseller A revolution is under way. In recent
-               years, Google's autonomous cars have logged thousands of miles
-               on American highways and IBM's Watson trounced the best human
-               Jeopardy! players. Digital technologies---with hardware,
-               software, and networks at their core---will in the near future
-               diagnose diseases more accurately than doctors can, apply
-               enormous data sets to transform retailing, and accomplish many
-               tasks once considered uniquely human. In The Second Machine Age
-               MIT's Erik Brynjolfsson and Andrew McAfee---two thinkers at the
-               forefront of their field---reveal the forces driving the
-               reinvention of our lives and our economy. As the full impact of
-               digital technologies is felt, we will realize immense bounty in
-               the form of dazzling personal technology, advanced
-               infrastructure, and near-boundless access to the cultural items
-               that enrich our lives. Amid this bounty will also be wrenching
-               change. Professions of all kinds---from lawyers to truck
-               drivers---will be forever upended. Companies will be forced to
-               transform or die. Recent economic indicators reflect this shift:
-               fewer people are working, and wages are falling even as
-               productivity and profits soar. Drawing on years of research and
-               up-to-the-minute trends, Brynjolfsson and McAfee identify the
-               best strategies for survival and offer a new path to prosperity.
-               These include revamping education so that it prepares people for
-               the next economy instead of the last one, designing new
-               collaborations that pair brute processing power with human
-               ingenuity, and embracing policies that make sense in a radically
-               transformed landscape. A fundamentally optimistic book, The
-               Second Machine Age will alter how we think about issues of
-               technological, societal, and economic progress.",
-  publisher = "W. W. Norton \& Company",
-  month     =  jan,
-  year      =  2014,
-  keywords  = "Book (physical);Cited for Frontiers;Frontiers [2022]",
-  language  = "en"
-}
-
 @ARTICLE{Vogel-Heuser2016-ng,
   title    = "Guest Editorial Industry 4.0--Prerequisites and Visions",
   author   = "Vogel-Heuser, Birgit and Hess, Dieter",
@@ -3751,17 +4097,6 @@
               for Frontiers;Frontiers [2022]"
 }
 
-@TECHREPORT{Miller2020-fp,
-  title       = "Fine Margins: Delivering Financial Sustainability in {UK}
-                 Construction",
-  author      = "Miller, T",
-  institution = "Confederation of British Industry",
-  month       =  feb,
-  year        =  2020,
-  keywords    = "Cited for Frontiers;Zotero Import (Feb 22);My
-                 Library;2021-12-03 Frontiers;Frontiers [2022]"
-}
-
 @TECHREPORT{Green2020-gb,
   title       = "The Real Face of Construction 2020: Socio-economic Analysis of
                  the True Value of the Built Environment",
@@ -3771,167 +4106,6 @@
   year        =  2020,
   keywords    = "Cited for Frontiers;Zotero Import (Feb 22);My
                  Library;2021-12-03 Frontiers;Frontiers [2022]"
-}
-
-@MISC{Andrews2019-pu,
-  title        = "Who Were the Luddites?",
-  author       = "Andrews, Evan",
-  month        =  jun,
-  year         =  2019,
-  howpublished = "\url{https://www.history.com/news/who-were-the-luddites}",
-  keywords     = "Cited for Frontiers;Frontiers [2022]"
-}
-
-@MISC{Conniff2011-dm,
-  title        = "What the Luddites Really Fought Against",
-  booktitle    = "Smithsonian Magazine",
-  author       = "Conniff, Richard",
-  month        =  mar,
-  year         =  2011,
-  howpublished = "\url{https://www.smithsonianmag.com/history/what-the-luddites-really-fought-against-264412/}",
-  keywords     = "Cited for Frontiers;Frontiers [2022]"
-}
-
-@BOOK{Hyde2021-ai,
-  title     = "Design Studio Vol. 2: Intelligent Control 2021: Disruptive
-               Technologies",
-  author    = "Hyde, Rob and Filippidis, Filippos",
-  abstract  = "How should we train? What should we learn? What is our value?
-               Disruptive technologies have increased speculation about what it
-               means to be an architect. Innovations simultaneously offer great
-               promise and potential risk to design practice. This volume
-               identifies the game-changing trends driven by technology, and
-               the opportunities they provide for architecture, urbanism and
-               design. It advocates for an approach of intelligent control that
-               transforms practice with specialist knowledge of technological
-               models and systems. It features new developments in automation,
-               generative design, augmented reality, videogame urbanism,
-               artificial intelligence and robotics, as well as lived
-               experiences within a continually shifting landscape. Showcasing
-               evolving research, it discusses the cultural, social,
-               environmental and political implications of various
-               technological trajectories. In doing so it speculates upon
-               future urban, spatial, aesthetic and formal possibilities within
-               architecture. The future is already here. Now is the time to
-               act. Features: Austrian Institute of Technology AiT - City
-               Intelligence Lab CiT, Bryden Wood, Mollie Claypool, Soomeen
-               Hahm, Hawkins\textbackslashBrown, LASSA Architects, The Living,
-               Danil Nagy, Odico Construction Robotics, Stefana Parascho, Luke
-               Caspar Pearson, SHoP Architects, Kostas Terzidis, Mette
-               Ramsgaard Thomsen and Sandra Youkhana.",
-  publisher = "RIBA Publishing",
-  month     =  sep,
-  year      =  2021,
-  keywords  = "AEC;ePub;Book (physical);Book\_Intelligent Control: Disruptive
-               Technologies;EPubs Books",
-  language  = "en"
-}
-
-@INCOLLECTION{Hahm2021-ee,
-  title     = "Augmenting human designers and builders: Augmentation discussed
-               in architectural design research",
-  booktitle = "Intelligent Control: Disruptive Technologies",
-  author    = "Hahm, Soomeen",
-  editor    = "Hyde, Rob and Filippidis, Filippos",
-  publisher = "RIBA Publishing",
-  pages     = "68--77",
-  month     =  aug,
-  year      =  2021,
-  address   = "London",
-  keywords  = "Book\_Intelligent Control: Disruptive Technologies"
-}
-
-@INCOLLECTION{Hyde2021-wa,
-  title     = "{PROFILE}: Scaling Construction Robotics",
-  booktitle = "Intelligent Control: Disruptive Technologies",
-  editor    = "Hyde, Rob and Filippidis, Filippos",
-  publisher = "RIBA Publishing",
-  pages     = "95--102",
-  month     =  aug,
-  year      =  2021,
-  address   = "London",
-  keywords  = "Book\_Intelligent Control: Disruptive Technologies"
-}
-
-@INCOLLECTION{Hyde2021-xj,
-  title     = "{CASE} {STUDY}: Research by design: The gantry",
-  booktitle = "Intelligent Control: Disruptive Technologies",
-  editor    = "Hyde, Rob and Filippidis, Filippos",
-  publisher = "RIBA Publishing",
-  pages     = "108--113",
-  month     =  aug,
-  year      =  2021,
-  address   = "London",
-  keywords  = "Book\_Intelligent Control: Disruptive Technologies"
-}
-
-@ARTICLE{Balasubramanian2021-ju,
-  title    = "The Covid-19 Pandemic Has Fueled A Crisis In The Housing Market",
-  author   = "Balasubramanian, Sai",
-  abstract = "Increased demand, limited supply, and a relentless global
-              pandemic have created the perfect storm in the housing market.",
-  journal  = "Forbes Magazine",
-  month    =  apr,
-  year     =  2021,
-  keywords = "Cited for Frontiers;+Notion;Frontiers [2022]",
-  language = "en"
-}
-
-@MISC{Sorensen2020-jj,
-  title        = "What Is the Fourth Industrial Revolution?",
-  booktitle    = "Salesforce, The 360 Blog",
-  author       = "Sorensen, Peter",
-  month        =  oct,
-  year         =  2020,
-  howpublished = "\url{https://www.salesforce.com/blog/what-is-the-fourth-industrial-revolution-4ir/}",
-  keywords     = "Cited for Frontiers;+Notion;Frontiers [2022]"
-}
-
-@INCOLLECTION{Nonaka2022-dc,
-  title     = "Dialogue Between Ikujiro Nonaka and Ichiro Yamaguchi:
-               ``Bracketing'' Management Science",
-  booktitle = "Management by Eidetic Intuition: A Dynamic Management Theory
-               Predicated on the ``Philosophy of Empathy''",
-  author    = "Nonaka, Ikujiro and Yamaguchi, Ichiro",
-  editor    = "Nonaka, Ikujiro and Yamaguchi, Ichiro",
-  abstract  = "Management theorist Professor Nonaka and phenomenologist
-               Professor Yamaguchi discuss the relationship between art and
-               science. According to them, scientific objectivity always comes
-               from subjective experience of human beings, and meaning and
-               values are the most fundamental condition for human existence.
-               However, we now live in the ``meaningless'' and ``value-less''
-               world dominated by the natural sciences where ``objectivity'' is
-               valued over subjectivity and many of us are feeling disoriented
-               in our lives. Husserl's phenomenology gives us an insight to
-               overcome this existential challenge in the way that is deeply
-               connected to Nonaka's management studies.",
-  publisher = "Springer Singapore",
-  pages     = "3--11",
-  year      =  2022,
-  address   = "Singapore",
-  keywords  = "Knowledge - Skill Acquisition;+Notion"
-}
-
-@INCOLLECTION{Nonaka2022-du,
-  title     = "The {SECI} Model: Knowledge Creation in the Cycle of
-               Subjectivity and Objectivity",
-  booktitle = "Management by Eidetic Intuition: A Dynamic Management Theory
-               Predicated on the ``Philosophy of Empathy''",
-  author    = "Nonaka, Ikujiro and Yamaguchi, Ichiro",
-  editor    = "Nonaka, Ikujiro and Yamaguchi, Ichiro",
-  abstract  = "The SECI model is essentially a framework for innovation. It
-               explains how to create value and how to live a ``good'' life as
-               an organization to advance humanity. Instead of the age-old
-               principle of ``information-processing'' in management science,
-               this chapter explores ``knowledge creation'' paradigm, and how
-               it successfully integrates and makes the most out of the
-               seemingly opposite concepts, such as subjectivity and
-               objectivity, and art and science.",
-  publisher = "Springer Singapore",
-  pages     = "125--139",
-  year      =  2022,
-  address   = "Singapore",
-  keywords  = "Knowledge - Skill Acquisition;+Notion"
 }
 
 @INCOLLECTION{Kubba2017-dy,
@@ -4031,15 +4205,6 @@
   month     =  feb,
   year      =  1971,
   keywords  = "Cited for Frontiers;+Notion;Labor;Frontiers [2022]"
-}
-
-@TECHREPORT{Barua2020-br,
-  title    = "The construction workforce: Growing again, but not changing much",
-  author   = "Barua, A",
-  month    =  feb,
-  year     =  2020,
-  keywords = "Cited for Frontiers;Zotero Import (Feb 22);My Library;2021-12-03
-              Frontiers;Frontiers [2022]"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -4182,17 +4347,6 @@
   language  = "en"
 }
 
-@MISC{Schankula2019-ju,
-  title     = "The Future Of Work: {VICE} Special Report",
-  booktitle = "{HBO} Documentary Films",
-  author    = "Schankula, David",
-  publisher = "Home Box Office",
-  month     =  apr,
-  year      =  2019,
-  address   = "New York, NY",
-  keywords  = "YouTube;Cited for Frontiers;Frontiers [2022]"
-}
-
 @INPROCEEDINGS{Olsen2012-gr,
   title     = "Bad for Business: Skilled Labor Shortages in Alabama's
                Construction Industry",
@@ -4201,52 +4355,6 @@
   pages     = "11--14",
   year      =  2012,
   keywords  = "AEC;Labor;+Notion;@\_Mark Up;Frontiers [2022]"
-}
-
-@MISC{Propeller2021-ud,
-  title        = "How to Adapt to the Skilled Labor Shortage in Construction",
-  booktitle    = "Propeller Aerobotics Pty Ltd",
-  author       = "{Propeller}",
-  abstract     = "72\% of general contractors anticipate labor shortages to be
-                  the biggest hurdle this year. Here's how digital tools can
-                  help.",
-  month        =  jan,
-  year         =  2021,
-  howpublished = "\url{https://www.propelleraero.com/blog/how-to-adapt-to-the-skilled-labor-shortage-in-construction/}",
-  note         = "Accessed: 2022-4-13",
-  keywords     = "Labor;+Notion;Frontiers [2022]",
-  language     = "en"
-}
-
-@ARTICLE{Inman2021-ce,
-  title     = "{UK} enjoys property sales boom amid Covid-19 pandemic",
-  author    = "Inman, Phillip",
-  abstract  = "Britain's real estate market defies predictions of a house price
-               crash despite coronavirus crisis",
-  journal   = "The Guardian",
-  publisher = "The Guardian",
-  month     =  sep,
-  year      =  2021,
-  keywords  = "Cited for Frontiers;+Notion;Frontiers [2022]"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@MISC{Cheshire2021-mh,
-  title        = "Why central London has seen the biggest rises in house
-                  prices, despite {COVID}",
-  booktitle    = "London School of Economics and Political Science",
-  author       = "Cheshire, Paul and Hilber, Christian and Sch{\"o}ni, Olivier",
-  abstract     = "As many predicted, the pandemic led to a demand for bigger
-                  homes and gardens. But with supply limited by Britain's
-                  strict planning regulations, and the market propped up by a
-                  stamp duty waive…",
-  month        =  mar,
-  year         =  2021,
-  howpublished = "\url{https://blogs.lse.ac.uk/covid19/2021/03/31/why-central-london-has-seen-the-biggest-rises-in-house-prices-despite-covid/}",
-  note         = "Accessed: 2022-4-13",
-  keywords     = "+Notion;Frontiers [2022]",
-  language     = "en"
 }
 
 @PHDTHESIS{Wang2008-cx,
@@ -4296,19 +4404,6 @@
   keywords  = "AEC;Labor;Cited for Frontiers;+Notion;Frontiers [2022]"
 }
 
-@MISC{Ghebreyesus2020-hb,
-  title        = "{WHO} {Director-General's} opening remarks at the media
-                  briefing on {COVID-19} - 11 March 2020",
-  booktitle    = "World Health Organization",
-  author       = "Ghebreyesus, Tedros Adhanom",
-  month        =  mar,
-  year         =  2020,
-  howpublished = "\url{https://www.who.int/director-general/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020}",
-  note         = "Accessed: 2022-4-14",
-  keywords     = "Cited for Frontiers",
-  language     = "en"
-}
-
 @TECHREPORT{Williams2021-iq,
   title       = "A Better Future: Transforming jobs and skills for young people
                  post-pandemic",
@@ -4343,32 +4438,6 @@
   keywords    = "Labor;+Notion;Frontiers [2022]"
 }
 
-@MISC{Agc2021-px,
-  title        = "Construction Adds 31,000 Jobs In November, With Gains In All
-                  Segments, But Industry Will Need Even More Workers As Demand
-                  Accelerates",
-  booktitle    = "Associated General Contractors of America ({AGC})",
-  author       = "{AGC}",
-  abstract     = "Contractors Cope with Record Number of Job Openings as Firms
-                  Struggle to Find Enough Qualified Workers as Association
-                  Officials Call for New Investments in Career and Technical
-                  Education",
-  month        =  dec,
-  year         =  2021,
-  howpublished = "\url{https://www.agc.org/news/2021/12/03/construction-adds-31000-jobs-november-gains-all-segments-industry-will-need-even-more-workers-demand}",
-  note         = "Accessed: 2022-4-14",
-  keywords     = "Labor;AEC;+Notion;Frontiers [2022]",
-  language     = "en"
-}
-
-@ARTICLE{Rosenthal1990-it,
-  title   = "Perceptions and attitudes of young people about the construction
-             industry: A qualitative study",
-  author  = "Rosenthal, B G",
-  journal = "Qualitative Research Services, Potomac, MD",
-  year    =  1990
-}
-
 @INPROCEEDINGS{Clarke2011-zz,
   title     = "Youths' perception of the construction industry: An analysis at
                the elementary, middle, and high school levels",
@@ -4401,19 +4470,6 @@
   language  = "en"
 }
 
-@ARTICLE{Millard1997-yr,
-  title    = "Skilled Trade Classes Could Ease Technical Worker Shortage",
-  author   = "Millard, Pete",
-  abstract = "The best kept secret in Milwaukee has nothing to do with beer,
-              brats or stadium sauce. It is Milwaukee Public Schools' recipe
-              for teaching students about the value of skilled trades.",
-  journal  = "Milwaukee Business Journal",
-  month    =  aug,
-  year     =  1997,
-  keywords = "Labor;Workplace Learning",
-  language = "en"
-}
-
 @ARTICLE{Han_Seung_H2008-of,
   title     = "Critical Issues and Possible Solutions for Motivating Foreign
                Construction Workers",
@@ -4444,18 +4500,6 @@
   pages     = "273",
   year      =  2020,
   keywords  = "Labor;Cited for Frontiers;+Notion;Frontiers [2022]"
-}
-
-@INCOLLECTION{Hibbi2020-aw,
-  title     = "Integrating an intelligent tutoring system into an adaptive
-               E-learning process",
-  booktitle = "Applied and Numerical Harmonic Analysis",
-  author    = "Hibbi, Fatima-Zohra and Abdoun, Otman and Haimoudi, El Khatir",
-  publisher = "Springer International Publishing",
-  pages     = "141--150",
-  year      =  2020,
-  address   = "Cham",
-  keywords  = "Intelligent Tutoring Systems (ITS)"
 }
 
 @ARTICLE{Towers1989-ll,
@@ -4512,22 +4556,6 @@
   year        =  2021,
   keywords    = "Cited for Frontiers;Labor;+Notion;Frontiers [2022]",
   copyright   = "Crown copyright"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@INPROCEEDINGS{Chini1999-tj,
-  title     = "Causes of the construction skilled labor shortage and proposed
-               solutions",
-  booktitle = "{ASC} Proceedings of the 35th Annual Conference",
-  author    = "Chini, Abdol R and Brown, Brisbane H and Drummond, Eric G",
-  abstract  = "… potentially greater supply of individuals for the construction
-               work force. Yet, there … construction industry over the next two
-               decades. This paper examines the causes of the labor shortage …",
-  publisher = "ascpro0.ascweb.org",
-  pages     = "187--196",
-  year      =  1999,
-  keywords  = "Labor;@\_Mark Up;Cited for Frontiers;Frontiers [2022]"
 }
 
 @ARTICLE{Belaya2018-we,
@@ -4630,34 +4658,6 @@
   year     =  1973,
   keywords = "Obituaries;Carbonell, Jaime R.;Cited for Frontiers;Frontiers
               [2022]"
-}
-
-@BOOK{Collins2018-ut,
-  title     = "Rethinking Education in the Age of Technology: The Digital
-               Revolution and Schooling in America",
-  author    = "Collins, Allan and Halverson, Richard",
-  abstract  = "The digital revolution in education is well under way, with more
-               and more learners plugged into the online world. How can schools
-               make the most of both the technology and the learning potential
-               of today's ``born digital'' students? In this new edition of
-               their groundbreaking book, Collins and Halverson argue that new
-               technologies have transformed our workplaces, our lives, and our
-               culture and it is time we take the next step to transform
-               learning---in and out of schools. The authors show how, over
-               time, public schooling was so successful that it became
-               synonymous with education. But new technologies risk making
-               schools obsolete and this book explains why and how today's
-               educators, policymakers, and communities must adapt to provide
-               all learners with access to the new learning tools of the 21st
-               century.",
-  publisher = "Teachers College Press",
-  series    = "Technology, Education--Connections",
-  edition   =  2,
-  year      =  2018,
-  address   = "New York, NY",
-  keywords  = "Cited for Frontiers;Labor;Workplace Learning;ePub;Zotero Import
-               (Feb 22);My Library;2021-12-03 Frontiers;Frontiers [2022];EPubs
-               Books"
 }
 
 @INCOLLECTION{Corbett1997-hp,
@@ -4805,7 +4805,8 @@
                Education …",
   publisher = "gifttutoring.org",
   year      =  2015,
-  keywords  = "Intelligent Tutoring Systems (ITS);AR/MR;@\_Mark Up"
+  keywords  = "Intelligent Tutoring Systems (ITS);AR/MR;@\_Mark Up;Cited for
+               Frontiers"
 }
 
 @INPROCEEDINGS{Westerfield2013-fl,
