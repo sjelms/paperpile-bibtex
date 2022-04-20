@@ -192,7 +192,7 @@
   publisher = "Springer Berlin Heidelberg",
   pages     = "542--551",
   year      =  2013,
-  keywords  = "Intelligent Tutoring Systems (ITS)"
+  keywords  = "Intelligent Tutoring Systems (ITS);AR/MR"
 }
 
 @INCOLLECTION{Nonaka2022-dc,
@@ -934,7 +934,7 @@
   keywords  = "Intelligent tutoring systems; Computers and learning; Augmented
                reality; Human computer interaction; Psychomotor learning;
                Kinaesthetic learning; Experiential learning;Intelligent
-               Tutoring Systems (ITS)"
+               Tutoring Systems (ITS);AR/MR"
 }
 
 @ARTICLE{Luckin2008-bd,
@@ -2804,7 +2804,7 @@
                Education …",
   publisher = "gifttutoring.org",
   year      =  2015,
-  keywords  = "Intelligent Tutoring Systems (ITS)"
+  keywords  = "Intelligent Tutoring Systems (ITS);AR/MR"
 }
 
 @MISC{Conniff2011-dm,
