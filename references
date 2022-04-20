@@ -300,7 +300,8 @@
   number    =  3,
   pages     = "227--265",
   month     =  jan,
-  year      =  2006
+  year      =  2006,
+  keywords  = "Intelligent Tutoring Systems (ITS)"
 }
 
 @MISC{Allen2019-us,
