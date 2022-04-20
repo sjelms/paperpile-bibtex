@@ -191,7 +191,8 @@
                to traditional AR training.",
   publisher = "Springer Berlin Heidelberg",
   pages     = "542--551",
-  year      =  2013
+  year      =  2013,
+  keywords  = "Intelligent Tutoring Systems (ITS)"
 }
 
 @INCOLLECTION{Nonaka2022-dc,
@@ -932,7 +933,8 @@
   year      =  2018,
   keywords  = "Intelligent tutoring systems; Computers and learning; Augmented
                reality; Human computer interaction; Psychomotor learning;
-               Kinaesthetic learning; Experiential learning"
+               Kinaesthetic learning; Experiential learning;Intelligent
+               Tutoring Systems (ITS)"
 }
 
 @ARTICLE{Luckin2008-bd,
@@ -2801,7 +2803,8 @@
                Intelligent Tutoring Workshop at the Artificial Intelligence in
                Education …",
   publisher = "gifttutoring.org",
-  year      =  2015
+  year      =  2015,
+  keywords  = "Intelligent Tutoring Systems (ITS)"
 }
 
 @MISC{Conniff2011-dm,
