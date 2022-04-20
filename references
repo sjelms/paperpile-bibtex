@@ -4661,5 +4661,6 @@
   pages     = "849--874",
   month     =  jan,
   year      =  1997,
-  address   = "Amsterdam"
+  address   = "Amsterdam",
+  keywords  = "Intelligent Tutoring Systems (ITS)"
 }
