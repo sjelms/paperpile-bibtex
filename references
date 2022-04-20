@@ -286,6 +286,23 @@
   keywords  = "Intelligent Tutoring Systems (ITS);§New Literature"
 }
 
+@ARTICLE{VanLehn2006-op,
+  title     = "The behavior of tutoring systems",
+  author    = "VanLehn, Kurt",
+  abstract  = "Tutoring systems are described as having two loops. The outer
+               loop executes once for each task, where a task usually consists
+               of solving a complex, multi-step problem. The inner loop
+               executes once for each step taken by the student in the solution
+               of",
+  journal   = "Int. J. Artif. Intell. Educ.",
+  publisher = "IOS Press",
+  volume    =  16,
+  number    =  3,
+  pages     = "227--265",
+  month     =  jan,
+  year      =  2006
+}
+
 @MISC{Allen2019-us,
   title        = "Standard Oil's Company Housing in Wood River, Illinois",
   booktitle    = "Madison Historical: The Online Encyclopedia and Digital
