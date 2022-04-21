@@ -2865,6 +2865,16 @@
   language  = "en"
 }
 
+@INCOLLECTION{Ghobadi2020-ac,
+  title     = "An investigation of virtual reality technology adoption in the
+               construction industry",
+  booktitle = "Smart Cities and Construction Technologies",
+  author    = "Ghobadi, Mohsen and M.E. Sepasgozar, Samad",
+  publisher = "IntechOpen",
+  month     =  may,
+  year      =  2020
+}
+
 @MISC{Ellis2021-gp,
   title    = "100+ Construction Industry Statistics",
   author   = "Ellis, Grace",
