@@ -451,6 +451,27 @@
   keywords  = "Book\_Intelligent Control: Disruptive Technologies"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Sottilare2016-md,
+  title     = "A process for adaptive instruction of tasks in the psychomotor
+               domain",
+  author    = "Sottilare, Robert A and LaViola, Joseph",
+  abstract  = "Intelligent tutoring systems (ITSs) have been authored to
+               support desktop applications with the most common domains
+               involving cognitive problem solving (eg, mathematics and
+               physics) in which sets of problems are presented to the learner
+               with increasing complexity and decreasing tutor support as
+               learning progresses. In recent years, implementations of
+               game-based tutors based on the Generalized Intelligent Framework
+               for Tutoring (GIFT; Sottilare, Brawner, Goldberg \& Holden,
+               2012), an open-source tutoring architecture, have …",
+  journal   = "Design recommendations for intelligent tutoring systems",
+  publisher = "researchgate.net",
+  pages     = "185",
+  year      =  2016
+}
+
 @MISC{Bureau_of_Labor_Statistics2021-ge,
   title     = "Unemployment Level -- Construction (2000-2021)",
   author    = "{Bureau of Labor Statistics}",
