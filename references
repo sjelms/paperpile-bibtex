@@ -586,6 +586,7 @@
   year         =  2019,
   howpublished = "\url{https://news.kennesaw.edu/stories/2019/computing-construction-vr-haskell.php}",
   note         = "Accessed: 2022-4-21",
+  keywords     = "AEC",
   language     = "en"
 }
 
