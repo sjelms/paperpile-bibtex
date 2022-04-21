@@ -569,8 +569,10 @@
   year        =  2010
 }
 
-@MISC{noauthor_undated-cp,
+@MISC{Highfield2019-cp,
   title        = "Future of Safety Training",
+  booktitle    = "Kennesaw State University",
+  author       = "Highfield, Travis",
   abstract     = "Seeking to enhance its existing safety material, leading
                   architecture, engineering and construction firm Haskell has
                   partnered with Kennesaw State University's College of
@@ -580,6 +582,8 @@
                   an immersive simulation that teleports users into a virtual
                   construction site riddled with potential hazards in an effort
                   to reinforce safety training among its employees.",
+  month        =  sep,
+  year         =  2019,
   howpublished = "\url{https://news.kennesaw.edu/stories/2019/computing-construction-vr-haskell.php}",
   note         = "Accessed: 2022-4-21",
   language     = "en"
