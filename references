@@ -264,6 +264,28 @@
 
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
+@INPROCEEDINGS{Hamlin2006-gf,
+  title     = "Do spatial abilities impact the learning of 3 d solid modeling
+               software?",
+  booktitle = "2006 Annual Conference \& Exposition",
+  author    = "Hamlin, Amy and Boersma, Norma and Sorby, Sheryl",
+  abstract  = "… Abstract With the prolific use of 3 - D solid modeling
+               packages, should engineering graphics courses designed to
+               improve spatial visualization skills continue to be an important
+               foundation topic in engineering education? Does a person's
+               spatial ability influence their ability to learn and use 3 - D
+               solid modeling packages? In the fall of 2005, a study was
+               undertaken at Michigan Technological University to answer these
+               questions. Two different tests were administered at the
+               beginning of an introductory engineering course to determine the
+               students' level of …",
+  publisher = "peer.asee.org",
+  pages     = "11--493",
+  year      =  2006
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INPROCEEDINGS{Gamboa2001-rk,
   title     = "Designing intelligent tutoring systems: A Bayesian approach",
   author    = "Gamboa, Hugo and Fred, Ana L N",
