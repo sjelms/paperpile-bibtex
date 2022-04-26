@@ -4978,6 +4978,22 @@
   keywords    = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@INPROCEEDINGS{Russell2007-qj,
+  title       = "Apprenticeship With a Shokunin A Search for the Source of
+                 Quality in Japanese Architecture",
+  booktitle   = "Fresh Air: 2007 {ACSA} Annual Meeting, Philadelphia, {PA}",
+  author      = "Russell, Stanley",
+  abstract    = "… Fig. 1 Tamotsu Edo Tamotsu Edo is a master carpenter who
+                 started his apprenticeship to his father at 15 years of age.
+                 At 16 he assisted his father in …",
+  publisher   = "acsa-arch.org",
+  pages       = "393",
+  institution = "Association of Collegiate Schools of Architecture",
+  year        =  2007
+}
+
 @MISC{De_Laubier2021-rh,
   title    = "The Offsite Revolution in Construction",
   author   = "de Laubier, Romain and Burfeind, Arne and Arnold, Sebastien and
