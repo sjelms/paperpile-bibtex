@@ -5069,6 +5069,21 @@
   language  = "en"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Wolter2011-qg,
+  title     = "Empirical Research in Vocational Education and Training",
+  author    = "Wolter, Stefan",
+  editor    = "Wolter, Stefan",
+  abstract  = "… Empirical Research in Vocational Education and Training …
+               Empirical Research in Vocational Education and Training . Sense
+               Publishers …",
+  publisher = "Sense Publishers",
+  year      =  2011,
+  address   = "Rotterdam",
+  language  = "en"
+}
+
 @ARTICLE{Kennedy2022-tt,
   title    = "``you make yourself entirely available'': Emotional labour in a
               caring approach to online teaching",
