@@ -570,10 +570,8 @@
   keywords  = "AEC;Labor;+Notion;@\_Mark Up;Completed;Frontiers [2022]"
 }
 
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
 @ARTICLE{Sorby2009-nw,
-  title     = "Educational Research in Developing 3‐D Spatial Skills for
+  title     = "Educational Research in Developing {3D} Spatial Skills for
                Engineering Students",
   author    = "Sorby, Sheryl A",
   abstract  = "The ability to visualize in three dimensions is a cognitive
