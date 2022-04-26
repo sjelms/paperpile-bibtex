@@ -265,7 +265,7 @@
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Hamlin2006-gf,
-  title     = "Do spatial abilities impact the learning of {3-D} solid modeling
+  title     = "Do spatial abilities impact the learning of {3D} solid modeling
                software?",
   booktitle = "2006 Annual Conference \& Exposition",
   author    = "Hamlin, Amy and Boersma, Norma and Sorby, Sheryl",
