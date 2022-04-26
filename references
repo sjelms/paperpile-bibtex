@@ -4110,6 +4110,15 @@
   keywords = "§New Literature;Zotero Import (Feb 22);My Library;Game Engine"
 }
 
+@ARTICLE{Fuller2017-dj,
+  title     = "Better Apprenticeships: Access, quality and labour market
+               outcomes in the English apprenticeship system",
+  author    = "Fuller, Alison and Unwin, Lorna and Cavaglia, Chiara and
+               McNally, Sandra and Ventura, Guglielmo",
+  publisher = "Sutton Trust",
+  year      =  2017
+}
+
 @ARTICLE{Sanzogni2017-bw,
   title     = "Artificial intelligence and knowledge management: questioning
                the tacit dimension",
