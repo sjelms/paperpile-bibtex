@@ -282,7 +282,7 @@
   publisher = "peer.asee.org",
   pages     = "11--493",
   year      =  2006,
-  keywords  = "Workplace Learning;AR/MR"
+  keywords  = "Workplace Learning;AR/MR;Knowledge - Skill Acquisition"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -600,7 +600,8 @@
   number    =  3,
   pages     = "459--480",
   month     =  feb,
-  year      =  2009
+  year      =  2009,
+  keywords  = "Knowledge - Skill Acquisition"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -5104,6 +5105,7 @@
   publisher = "Sense Publishers",
   year      =  2011,
   address   = "Rotterdam",
+  keywords  = "Knowledge - Skill Acquisition",
   language  = "en"
 }
 
@@ -5224,7 +5226,7 @@
   pages     = "1--31",
   month     =  aug,
   year      =  2015,
-  keywords  = "Workplace Learning",
+  keywords  = "Workplace Learning;Knowledge - Skill Acquisition",
   language  = "en"
 }
 
@@ -5286,7 +5288,7 @@
   pages     = "1--22",
   month     =  sep,
   year      =  2017,
-  keywords  = "Workplace Learning",
+  keywords  = "Workplace Learning;Knowledge - Skill Acquisition",
   language  = "en"
 }
 
@@ -5304,5 +5306,5 @@
   pages       = "393",
   institution = "Association of Collegiate Schools of Architecture",
   year        =  2007,
-  keywords    = "Workplace Learning;AEC"
+  keywords    = "Workplace Learning;AEC;Knowledge - Skill Acquisition"
 }
