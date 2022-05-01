@@ -648,6 +648,8 @@
   language     = "en"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Cuendet2013-vm,
   title     = "Designing augmented reality for the classroom",
   author    = "Cuendet, S{\'e}bastien and Bonnard, Quentin and Do-Lenh, Son and
@@ -670,6 +672,7 @@
   pages     = "557--569",
   month     =  oct,
   year      =  2013,
+  keywords  = "AR/MR;§New Literature",
   language  = "en"
 }
 
