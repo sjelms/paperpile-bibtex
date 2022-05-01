@@ -648,6 +648,31 @@
   language     = "en"
 }
 
+@ARTICLE{Cuendet2013-vm,
+  title     = "Designing augmented reality for the classroom",
+  author    = "Cuendet, S{\'e}bastien and Bonnard, Quentin and Do-Lenh, Son and
+               Dillenbourg, Pierre",
+  abstract  = "Augmented reality (AR) has recently received a lot of attention
+               in education. Multiple AR systems for learning have been
+               developed and tested through empirical studies often conducted
+               in lab settings. While lab studies can be insightful, they leave
+               out the complexity of a classroom environment. We developed
+               three AR learning environments that have been used in genuine
+               classroom contexts, some of them being now part of classroom
+               regular practices. These systems and the learning activities
+               they provide have been co-designed with teachers, for their own
+               classrooms, through multiple cycles of prototyping and testing.
+               We present here the features that emerged from these co-design
+               cycles and abstract them into design principles.",
+  journal   = "Comput. Educ.",
+  publisher = "Elsevier BV",
+  volume    =  68,
+  pages     = "557--569",
+  month     =  oct,
+  year      =  2013,
+  language  = "en"
+}
+
 @INPROCEEDINGS{Amokrane2008-zr,
   title           = "An intelligent tutoring system for training and learning
                      in a virtual environment for high-risk sites",
