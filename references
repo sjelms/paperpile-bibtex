@@ -5391,6 +5391,8 @@
                Up;Completed;Frontiers [2022]"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Kerawalla2006-kw,
   title     = "``Making it real'': exploring the potential of augmented reality
                for teaching primary school science",
@@ -5403,6 +5405,6 @@
   pages     = "163--174",
   month     =  nov,
   year      =  2006,
-  keywords  = "AR/MR;UCL",
+  keywords  = "AR/MR;UCL;§New Literature",
   language  = "en"
 }
