@@ -5390,3 +5390,18 @@
   keywords  = "Knowledge - Skill Acquisition;UCL;Workplace Learning;@\_Mark
                Up;Completed;Frontiers [2022]"
 }
+
+@ARTICLE{Kerawalla2006-kw,
+  title     = "``Making it real'': exploring the potential of augmented reality
+               for teaching primary school science",
+  author    = "Kerawalla, Lucinda and Luckin, Rosemary and Seljeflot, Simon and
+               Woolard, Adrian",
+  journal   = "Virtual Real.",
+  publisher = "Springer Science and Business Media LLC",
+  volume    =  10,
+  number    = "3-4",
+  pages     = "163--174",
+  month     =  nov,
+  year      =  2006,
+  language  = "en"
+}
