@@ -5420,9 +5420,9 @@
                  Library;2021-12-03 Frontiers;Frontiers [2022]"
 }
 
-@TECHREPORT{Hardin2022-ql,
+@TECHREPORT{Meisels2022-ql,
   title       = "2022 Engineering and Construction Industry Outlook",
-  author      = "Hardin, Michelle Meisels, Paul Wellener,",
+  author      = "Meisels, Michelle and Wellener, Paul and Hardin, Kate",
   institution = "Deloitte",
   month       =  may,
   year        =  2022,
