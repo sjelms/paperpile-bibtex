@@ -1239,8 +1239,8 @@
 
 @TECHREPORT{Zahidi2020-lt,
   title       = "The Future of Jobs Report 2020",
-  author      = "Zahidi, S and Ratcheva, V and Hingel, G and Brown, S and
-                 {World Economic Forum}",
+  author      = "Zahidi, S and Ratcheva, V and Hingel, G and Brown, S",
+  publisher   = "World Economic Forum",
   institution = "Centre for the New Economy and Society",
   month       =  oct,
   year        =  2020,
