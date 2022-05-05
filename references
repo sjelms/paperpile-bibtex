@@ -5398,7 +5398,8 @@
   number    =  4,
   pages     = "303--321",
   month     =  dec,
-  year      =  1996
+  year      =  1996,
+  keywords  = "Knowledge - Skill Acquisition"
 }
 
 @INCOLLECTION{Fuller2016-el,
