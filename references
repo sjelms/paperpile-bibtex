@@ -5493,7 +5493,7 @@
   keywords     = "Workplace Learning"
 }
 
-@ARTICLE{Chen_undated-fx,
+@ARTICLE{Chen2022-fx,
   title    = "Disrupting Science",
   author   = "Chen, Chinchih and Frey, Carl Benedikt and Presidente, Giorgio",
   abstract = "In this paper, we explore how the rise of remote collaboration
@@ -5509,5 +5509,7 @@
               in key technologies needed for effective remote collaboration.",
   journal  = "Oxford Martin Working Paper Series on Technological and Economic
               Change",
-  pages    = "47"
+  pages    = "47",
+  month    =  apr,
+  year     =  2022
 }
