@@ -5493,6 +5493,8 @@
   keywords     = "Workplace Learning"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Chen2022-fx,
   title    = "Disrupting Science",
   author   = "Chen, Chinchih and Frey, Carl Benedikt and Presidente, Giorgio",
@@ -5512,5 +5514,5 @@
   pages    = "47",
   month    =  apr,
   year     =  2022,
-  keywords = "Workplace Learning"
+  keywords = "Workplace Learning;§New Literature"
 }
