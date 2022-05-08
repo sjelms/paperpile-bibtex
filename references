@@ -3522,8 +3522,6 @@
   keywords  = "§New Literature"
 }
 
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
 @ARTICLE{Vasilevski2020-bl,
   title     = "Analysing construction student experiences of mobile mixed
                reality enhanced learning in virtual and augmented reality
@@ -3562,7 +3560,7 @@
   number    =  0,
   month     =  jan,
   year      =  2020,
-  keywords  = "AEC;ePub;§New Literature;@\_Mark Up;EPubs Books"
+  keywords  = "AEC;ePub;@\_Mark Up;EPubs Books"
 }
 
 @INPROCEEDINGS{Vasilevski2019-cl,
