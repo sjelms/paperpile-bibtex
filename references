@@ -552,7 +552,7 @@
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Olsen2012-bm,
-  title     = "How industrial contractors are handling skilled labor shortages
+  title     = "How Industrial Contractors Are Handling Skilled Labor Shortages
                in the United States",
   booktitle = "48th {ASC} Annual International Conference Proceedings",
   author    = "Olsen, Darren and Tatum, Mark and Defnall, Christopher",
