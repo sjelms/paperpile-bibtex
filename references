@@ -5700,10 +5700,17 @@
                  Library;2021-12-03 Frontiers;Frontiers [2022]"
 }
 
-@MISC{noauthor_undated-ax,
+@MISC{Coupland_undated-ax,
   title        = "What is a quality apprenticeship",
   booktitle    = "Institute for Apprenticeships and Technical Education",
-  abstract     = "The Institute quality statement.",
+  author       = "Coupland, Jennifer",
+  abstract     = "For Apprenticeships to offer great opportunities for people
+                  of all ages, they must be of the highest quality. High
+                  quality will mean that those undertaking apprenticeships have
+                  confidence that the skills they are learning will help them
+                  succeed, progress and thrive. And it means that employers
+                  will see the bottom-line return of a workforce with the right
+                  knowledge, skills and behaviours.",
   howpublished = "\url{https://www.instituteforapprenticeships.org/quality/what-is-a-quality-apprenticeship/}",
   note         = "Accessed: 2022-5-12",
   language     = "en"
