@@ -545,8 +545,8 @@
   year      =  2021,
   note      = "Title of the publication associated with this dataset: Labor
                Force Statistics from the Current Population Survey",
-  keywords  = "Cited for Frontiers;Zotero Import (Feb 22);My Library;2021-12-03
-               Frontiers;Frontiers [2022]"
+  keywords  = "Cited for Frontiers;AEC;Zotero Import (Feb 22);My
+               Library;2021-12-03 Frontiers;Frontiers [2022]"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -863,8 +863,8 @@
                      Construction (IAARC)",
   month           =  may,
   year            =  2019,
-  keywords        = "§New Literature;International Association for Automation
-                     and Robotics in Construction (IAARC)",
+  keywords        = "§New Literature;AEC;International Association for
+                     Automation and Robotics in Construction (IAARC)",
   conference      = "36th International Symposium on Automation and Robotics in
                      Construction",
   location        = "Banff, AB, Canada"
@@ -922,8 +922,8 @@
   number   =  2,
   pages    = "145--154",
   year     =  2012,
-  keywords = "Workplace Learning;Zotero Import (Feb 22);My Library;Frontiers
-              [2021]"
+  keywords = "Workplace Learning;AEC;Zotero Import (Feb 22);My
+              Library;Frontiers [2021]"
 }
 
 @ARTICLE{Smith1976-wi,
@@ -1166,7 +1166,7 @@
   institution = "Construction Industry Training Board",
   month       =  jun,
   year        =  2021,
-  keywords    = "Cited for Frontiers;Zotero Import (Feb 22);My
+  keywords    = "Cited for Frontiers;AEC;Zotero Import (Feb 22);My
                  Library;2021-12-03 Frontiers;Frontiers [2022]"
 }
 
@@ -1185,7 +1185,7 @@
   institution = "Deloitte",
   month       =  may,
   year        =  2019,
-  keywords    = "Cited for Frontiers;Zotero Import (Feb 22);My
+  keywords    = "Cited for Frontiers;AEC;Zotero Import (Feb 22);My
                  Library;2021-12-03 Frontiers;Frontiers [2022]"
 }
 
@@ -1220,7 +1220,7 @@
   volume   =  2,
   pages    = "100076",
   year     =  2021,
-  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
+  keywords = "AEC;Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
 @INCOLLECTION{Harteis2014-go,
@@ -1321,7 +1321,7 @@
   number   =  7,
   pages    = "811--820",
   year     =  2012,
-  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
+  keywords = "AEC;Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
 @TECHREPORT{Gott1998-ww,
@@ -1751,8 +1751,8 @@
                      Construction (IAARC)",
   month           =  may,
   year            =  2019,
-  keywords        = "@\_Mark Up;International Association for Automation and
-                     Robotics in Construction (IAARC)",
+  keywords        = "@\_Mark Up;AEC;International Association for Automation
+                     and Robotics in Construction (IAARC)",
   conference      = "36th International Symposium on Automation and Robotics in
                      Construction",
   location        = "Banff, AB, Canada"
@@ -1787,7 +1787,7 @@
   pages    = "109--127",
   month    =  mar,
   year     =  2014,
-  keywords = "§New Literature;Zotero Import (Feb 22);My Library;Game Engine"
+  keywords = "§New Literature;AEC;Zotero Import (Feb 22);My Library;Game Engine"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -1826,7 +1826,7 @@
   pages    = "363--380",
   month    =  jul,
   year     =  2007,
-  keywords = "§New Literature;Zotero Import (Feb 22);My Library;Game Engine"
+  keywords = "§New Literature;AEC;Zotero Import (Feb 22);My Library;Game Engine"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -1870,7 +1870,7 @@
   pages    = "305--316",
   month    =  jan,
   year     =  2018,
-  keywords = "§New Literature;Zotero Import (Feb 22);My Library;Game Engine"
+  keywords = "§New Literature;AEC;Zotero Import (Feb 22);My Library;Game Engine"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -1905,7 +1905,7 @@
   pages    = "116--122",
   month    =  aug,
   year     =  2013,
-  keywords = "§New Literature;Zotero Import (Feb 22);My Library;Game Engine"
+  keywords = "§New Literature;AEC;Zotero Import (Feb 22);My Library;Game Engine"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -1935,7 +1935,7 @@
   pages    = "206--221",
   month    =  may,
   year     =  2019,
-  keywords = "§New Literature;Zotero Import (Feb 22);My Library;Game Engine"
+  keywords = "§New Literature;AEC;Zotero Import (Feb 22);My Library;Game Engine"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -1976,7 +1976,7 @@
   pages    = "765--781",
   month    =  nov,
   year     =  2016,
-  keywords = "§New Literature;Zotero Import (Feb 22);My Library;Game Engine"
+  keywords = "§New Literature;AEC;Zotero Import (Feb 22);My Library;Game Engine"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -2022,7 +2022,7 @@
   pages    = "150--162",
   month    =  feb,
   year     =  2018,
-  keywords = "§New Literature;AR/MR;Zotero Import (Feb 22);My Library;Game
+  keywords = "§New Literature;AR/MR;AEC;Zotero Import (Feb 22);My Library;Game
               Engine"
 }
 
@@ -2073,7 +2073,7 @@
   pages    = "1--10",
   month    =  feb,
   year     =  2018,
-  keywords = "§New Literature;Zotero Import (Feb 22);My Library;Game Engine"
+  keywords = "§New Literature;AEC;Zotero Import (Feb 22);My Library;Game Engine"
 }
 
 @INCOLLECTION{Rebolledo-Mendez2011-mg,
@@ -2270,8 +2270,8 @@
   pages    = "337--349",
   month    =  jan,
   year     =  2005,
-  keywords = "Workplace Learning;Cited for Frontiers;Zotero Import (Feb 22);My
-              Library;Frontiers [2021];Frontiers [2022]"
+  keywords = "Workplace Learning;Cited for Frontiers;AEC;Zotero Import (Feb
+              22);My Library;Frontiers [2021];Frontiers [2022]"
 }
 
 @ARTICLE{Frey2017-ix,
@@ -2357,7 +2357,7 @@
   number   =  10,
   pages    = "04015032",
   year     =  2015,
-  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
+  keywords = "AEC;Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
 @ARTICLE{Zhang2018-qu,
@@ -4018,7 +4018,7 @@
   institution = "Confederation of British Industry",
   month       =  feb,
   year        =  2020,
-  keywords    = "Cited for Frontiers;Zotero Import (Feb 22);My
+  keywords    = "Cited for Frontiers;AEC;Zotero Import (Feb 22);My
                  Library;2021-12-03 Frontiers;Frontiers [2022]"
 }
 
