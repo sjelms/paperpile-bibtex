@@ -513,7 +513,7 @@
   month     =  jan,
   year      =  2015,
   keywords  = "learning/training model; occupational safety and health;
-               industrial-based"
+               industrial-based;AEC"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -787,14 +787,6 @@
   month    =  sep,
   year     =  2021,
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
-}
-
-@TECHREPORT{Prefabrication_and_Modular_Construction_20202020-ir,
-  title       = "Prefabrication and Modular Construction 2020",
-  author      = "{Prefabrication and Modular Construction 2020}",
-  institution = "Prefabrication and Modular Construction 2020",
-  year        =  2020,
-  keywords    = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
 @ARTICLE{Melenbrink2020-gr,
@@ -1551,7 +1543,7 @@
   institution = "USG Corporation",
   month       =  dec,
   year        =  2019,
-  keywords    = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
+  keywords    = "AEC;Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
 @TECHREPORT{PricewaterhouseCoopers_LLP2017-nq,
@@ -1609,7 +1601,7 @@
   institution = "McKinsey Global Institute",
   month       =  feb,
   year        =  2017,
-  keywords    = "Cited for Frontiers;Zotero Import (Feb 22);My
+  keywords    = "Cited for Frontiers;AEC;Zotero Import (Feb 22);My
                  Library;2021-12-03 Frontiers;Frontiers [2022]",
   copyright   = "McKinsey \& Company"
 }
@@ -1628,7 +1620,7 @@
               Witth{\"o}ft, Sven and Wunder, Marius",
   month    =  jul,
   year     =  2021,
-  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
+  keywords = "AEC;Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
 @MISC{MacDonald2018-kr,
@@ -1663,7 +1655,7 @@
   publisher = "United States Census Bureau",
   month     =  jun,
   year      =  2021,
-  keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
+  keywords  = "AEC;Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
 @MISC{Ellis2021-gp,
@@ -1671,7 +1663,7 @@
   author   = "Ellis, Grace",
   month    =  may,
   year     =  2021,
-  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
+  keywords = "AEC;Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -2884,23 +2876,12 @@
   location  = "Roskilde, Denmark"
 }
 
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@INPROCEEDINGS{Liang2019-mx,
-  title           = "Teaching robots to perform construction tasks via learning
-                     from demonstration",
-  booktitle       = "Proceedings of the 36th International Symposium on
-                     Automation and Robotics in Construction ({ISARC})",
-  author          = "Liang, Ci-Jyun and Kamat, Vineet and Menassa, Carol",
-  publisher       = "International Association for Automation and Robotics in
-                     Construction (IAARC)",
-  month           =  may,
-  year            =  2019,
-  keywords        = "§New Literature;International Association for Automation
-                     and Robotics in Construction (IAARC)",
-  conference      = "36th International Symposium on Automation and Robotics in
-                     Construction",
-  location        = "Banff, AB, Canada"
+@TECHREPORT{Prefabrication_and_Modular_Construction_20202020-ir,
+  title       = "Prefabrication and Modular Construction 2020",
+  author      = "{Prefabrication and Modular Construction 2020}",
+  institution = "Prefabrication and Modular Construction 2020",
+  year        =  2020,
+  keywords    = "AEC;Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -2914,7 +2895,7 @@
   pages     = "1282--1289",
   month     =  may,
   year      =  2019,
-  keywords  = "§New Literature;International Association for Automation and
+  keywords  = "§New Literature;AEC;International Association for Automation and
                Robotics in Construction (IAARC)"
 }
 
@@ -2945,7 +2926,7 @@
   pages     = "1114--1120",
   month     =  may,
   year      =  2019,
-  keywords  = "§New Literature;International Association for Automation and
+  keywords  = "§New Literature;AEC;International Association for Automation and
                Robotics in Construction (IAARC)"
 }
 
@@ -2959,7 +2940,7 @@
   pages     = "1106--1113",
   month     =  may,
   year      =  2019,
-  keywords  = "§New Literature;International Association for Automation and
+  keywords  = "§New Literature;AEC;International Association for Automation and
                Robotics in Construction (IAARC)"
 }
 
@@ -2976,7 +2957,7 @@
   pages     = "1057--1064",
   month     =  may,
   year      =  2019,
-  keywords  = "§New Literature;International Association for Automation and
+  keywords  = "§New Literature;AEC;International Association for Automation and
                Robotics in Construction (IAARC)"
 }
 
@@ -3059,7 +3040,7 @@
   pages     = "1073--1080",
   month     =  may,
   year      =  2019,
-  keywords  = "§New Literature;International Association for Automation and
+  keywords  = "§New Literature;AEC;International Association for Automation and
                Robotics in Construction (IAARC)"
 }
 
@@ -3075,8 +3056,8 @@
   pages     = "967--974",
   month     =  may,
   year      =  2019,
-  keywords  = "§New Literature;AR/MR;International Association for Automation
-               and Robotics in Construction (IAARC)"
+  keywords  = "§New Literature;AR/MR;AEC;International Association for
+               Automation and Robotics in Construction (IAARC)"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -3091,7 +3072,7 @@
   pages     = "796--803",
   month     =  may,
   year      =  2019,
-  keywords  = "§New Literature;International Association for Automation and
+  keywords  = "§New Literature;AEC;International Association for Automation and
                Robotics in Construction (IAARC)"
 }
 
@@ -3106,7 +3087,7 @@
   pages     = "658--664",
   month     =  may,
   year      =  2019,
-  keywords  = "§New Literature;International Association for Automation and
+  keywords  = "§New Literature;AEC;International Association for Automation and
                Robotics in Construction (IAARC)"
 }
 
@@ -3122,7 +3103,7 @@
   pages     = "529--536",
   month     =  may,
   year      =  2019,
-  keywords  = "§New Literature;International Association for Automation and
+  keywords  = "§New Literature;AEC;International Association for Automation and
                Robotics in Construction (IAARC)"
 }
 
@@ -3182,7 +3163,7 @@
   pages     = "187--193",
   month     =  may,
   year      =  2019,
-  keywords  = "§New Literature;International Association for Automation and
+  keywords  = "§New Literature;AEC;International Association for Automation and
                Robotics in Construction (IAARC)"
 }
 
@@ -3266,8 +3247,8 @@
                Bayesian Belief Network ; Computer science; control theory;
                systems ; Curriculum Area ; Design Framework ; Exact sciences
                and technology ; Learning and adaptive systems ; Learning
-               Gain;Intelligent Tutoring Systems (ITS);UCL;Intelligent Tutoring
-               Systems (ITS)",
+               Gain;Intelligent Tutoring Systems (ITS);UCL;AEC;Intelligent
+               Tutoring Systems (ITS)",
   copyright = "Springer-Verlag Berlin Heidelberg 1998",
   language  = "eng"
 }
@@ -4048,7 +4029,7 @@
   institution = "Chartered Institute of Building",
   month       =  feb,
   year        =  2020,
-  keywords    = "Cited for Frontiers;Zotero Import (Feb 22);My
+  keywords    = "Cited for Frontiers;AEC;Zotero Import (Feb 22);My
                  Library;2021-12-03 Frontiers;Frontiers [2022]"
 }
 
@@ -4129,7 +4110,7 @@
   month     =  aug,
   year      =  2021,
   address   = "London",
-  keywords  = "Book\_Intelligent Control: Disruptive Technologies"
+  keywords  = "AEC;Book\_Intelligent Control: Disruptive Technologies"
 }
 
 @INCOLLECTION{Hyde2021-xj,
@@ -4317,8 +4298,8 @@
   author   = "Barua, A",
   month    =  feb,
   year     =  2020,
-  keywords = "Cited for Frontiers;Zotero Import (Feb 22);My Library;2021-12-03
-              Frontiers;Frontiers [2022]"
+  keywords = "Cited for Frontiers;AEC;Zotero Import (Feb 22);My
+              Library;2021-12-03 Frontiers;Frontiers [2022]"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -4366,7 +4347,7 @@
   pages     = "969--974",
   year      =  2006,
   keywords  = "건설현장;기능인력 수급;생산성 향상;construction industry;skilled labor
-               productivity improvement;Labor",
+               productivity improvement;Labor;AEC",
   language  = "ko"
 }
 
@@ -4415,7 +4396,7 @@
   publisher = "ascelibrary.org",
   pages     = "1--8",
   year      =  2003,
-  keywords  = "Labor"
+  keywords  = "Labor;AEC"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -4435,7 +4416,8 @@
   pages     = "04019035",
   month     =  jan,
   year      =  2020,
-  keywords  = "Labor;@\_Mark Up;Completed;Cited for Frontiers;Frontiers [2022]",
+  keywords  = "Labor;@\_Mark Up;Completed;Cited for Frontiers;AEC;Frontiers
+               [2022]",
   language  = "en"
 }
 
@@ -4494,7 +4476,7 @@
   year         =  2021,
   howpublished = "\url{https://www.propelleraero.com/blog/how-to-adapt-to-the-skilled-labor-shortage-in-construction/}",
   note         = "Accessed: 2022-4-13",
-  keywords     = "Labor;+Notion;Frontiers [2022]",
+  keywords     = "Labor;+Notion;AEC;Frontiers [2022]",
   language     = "en"
 }
 
@@ -4642,11 +4624,12 @@
 }
 
 @ARTICLE{Rosenthal1990-it,
-  title   = "Perceptions and attitudes of young people about the construction
-             industry: A qualitative study",
-  author  = "Rosenthal, B G",
-  journal = "Qualitative Research Services, Potomac, MD",
-  year    =  1990
+  title    = "Perceptions and attitudes of young people about the construction
+              industry: A qualitative study",
+  author   = "Rosenthal, B G",
+  journal  = "Qualitative Research Services, Potomac, MD",
+  year     =  1990,
+  keywords = "AEC"
 }
 
 @INPROCEEDINGS{Clarke2011-zz,
@@ -4807,7 +4790,7 @@
   publisher = "ascpro0.ascweb.org",
   pages     = "187--196",
   year      =  1999,
-  keywords  = "Labor;@\_Mark Up;Cited for Frontiers;Frontiers [2022]"
+  keywords  = "Labor;@\_Mark Up;Cited for Frontiers;AEC;Frontiers [2022]"
 }
 
 @ARTICLE{Belaya2018-we,
@@ -5495,23 +5478,13 @@
   language  = "en"
 }
 
-@TECHREPORT{Meisels2021-qt,
-  title       = "2021 Engineering and Construction Industry Outlook",
-  author      = "Meisels, M",
-  institution = "Deloitte",
-  month       =  may,
-  year        =  2021,
-  keywords    = "Cited for Frontiers;Zotero Import (Feb 22);My
-                 Library;2021-12-03 Frontiers;Frontiers [2022]"
-}
-
 @TECHREPORT{Meisels2022-ql,
   title       = "2022 Engineering and Construction Industry Outlook",
   author      = "Meisels, Michelle and Wellener, Paul and Hardin, Kate",
   institution = "Deloitte",
   month       =  may,
   year        =  2022,
-  keywords    = "Cited for Frontiers;Zotero Import (Feb 22);My
+  keywords    = "Cited for Frontiers;AEC;Zotero Import (Feb 22);My
                  Library;2021-12-03 Frontiers;Frontiers [2022]"
 }
 
@@ -5522,7 +5495,7 @@
   year         =  2021,
   howpublished = "\url{https://www.reed.co.uk/courses/building-construction-course/315859#/courses/construction-training}",
   note         = "Accessed: 2021-9-9",
-  keywords     = "Workplace Learning"
+  keywords     = "Workplace Learning;AEC"
 }
 
 @MISC{Unesco-unevoc2015-ie,
@@ -5714,4 +5687,33 @@
   year     =  2021,
   keywords = "Buildings; Frame; Structures; Design; Carbon; Mass;AEC;Cited for
               Frontiers"
+}
+
+@TECHREPORT{Meisels2021-qt,
+  title       = "2021 Engineering and Construction Industry Outlook",
+  author      = "Meisels, M",
+  institution = "Deloitte",
+  month       =  may,
+  year        =  2021,
+  keywords    = "Cited for Frontiers;AEC;Zotero Import (Feb 22);My
+                 Library;2021-12-03 Frontiers;Frontiers [2022]"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@INPROCEEDINGS{Liang2019-mx,
+  title           = "Teaching robots to perform construction tasks via learning
+                     from demonstration",
+  booktitle       = "Proceedings of the 36th International Symposium on
+                     Automation and Robotics in Construction ({ISARC})",
+  author          = "Liang, Ci-Jyun and Kamat, Vineet and Menassa, Carol",
+  publisher       = "International Association for Automation and Robotics in
+                     Construction (IAARC)",
+  month           =  may,
+  year            =  2019,
+  keywords        = "§New Literature;AEC;International Association for
+                     Automation and Robotics in Construction (IAARC)",
+  conference      = "36th International Symposium on Automation and Robotics in
+                     Construction",
+  location        = "Banff, AB, Canada"
 }
