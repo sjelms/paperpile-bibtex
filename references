@@ -213,7 +213,8 @@
   publisher = "Springer Singapore",
   pages     = "1--16",
   year      =  2017,
-  address   = "Singapore"
+  address   = "Singapore",
+  keywords  = "ePub"
 }
 
 @INCOLLECTION{Nonaka2022-dc,
