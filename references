@@ -2197,14 +2197,14 @@
   language  = "en"
 }
 
-@MISC{noauthor_2019-xx,
+@MISC{noauthor_2021-xx,
   title        = "The Skilled Labor Shortage: Causes, Costs \& {COVID-19}",
   booktitle    = "Conger Industries Inc.",
   abstract     = "This is an overview of the skilled labor shortage. Learn the
                   costs of labor shortages and what you can do to attract
                   skilled workers.",
-  month        =  jan,
-  year         =  2019,
+  month        =  mar,
+  year         =  2021,
   howpublished = "\url{https://www.conger.com/skilled-labor-shortage/}",
   note         = "Accessed: 2022-5-16",
   language     = "en"
