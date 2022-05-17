@@ -4494,6 +4494,16 @@
   keywords = "§New Literature;AEC;Zotero Import (Feb 22);My Library;Game Engine"
 }
 
+@INCOLLECTION{Shute2017-lm,
+  title     = "Assessment for Learning in Immersive Environments",
+  booktitle = "Smart Computing and Intelligence",
+  author    = "Shute, Valerie and Rahimi, Seyedahmad and Emihovich, Benjamin",
+  publisher = "Springer Singapore",
+  pages     = "71--87",
+  year      =  2017,
+  address   = "Singapore"
+}
+
 @INCOLLECTION{Dede2017-ny,
   title     = "Introduction: Virtual, Augmented, and Mixed Realities in
                Education",
