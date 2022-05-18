@@ -2271,20 +2271,6 @@
   keywords  = "+Notion;ePub;AR/MR"
 }
 
-@INPROCEEDINGS{Cuendet2012-rb,
-  title           = "Tangible vs. virtual representations",
-  booktitle       = "Proceedings of the 7th Nordic Conference on
-                     {Human-Computer} Interaction Making Sense Through Design -
-                     {NordiCHI} '12",
-  author          = "Cuendet, S{\'e}bastien and Bumbacher, Engin and
-                     Dillenbourg, Pierre",
-  publisher       = "ACM Press",
-  year            =  2012,
-  address         = "New York, New York, USA",
-  conference      = "the 7th Nordic Conference",
-  location        = "Copenhagen, Denmark"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Suppes1969-kb,
@@ -5874,4 +5860,19 @@
   keywords  = "AIEd;@\_Mark Up;+Notion;Intelligent Tutoring Systems
                (ITS);Knowledge - Skill Acquisition;+Readwise",
   language  = "en"
+}
+
+@INPROCEEDINGS{Cuendet2012-rb,
+  title           = "Tangible vs. virtual representations",
+  booktitle       = "Proceedings of the 7th Nordic Conference on
+                     {Human-Computer} Interaction Making Sense Through Design -
+                     {NordiCHI} '12",
+  author          = "Cuendet, S{\'e}bastien and Bumbacher, Engin and
+                     Dillenbourg, Pierre",
+  publisher       = "ACM Press",
+  year            =  2012,
+  address         = "New York, New York, USA",
+  keywords        = "+Notion;+Readwise;AR/MR",
+  conference      = "the 7th Nordic Conference",
+  location        = "Copenhagen, Denmark"
 }
