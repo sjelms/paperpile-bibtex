@@ -5870,7 +5870,7 @@
   publisher       = "ACM Press",
   year            =  2012,
   address         = "New York, New York, USA",
-  keywords        = "+Notion;AR/MR;@\_Mark Up",
+  keywords        = "AR/MR;@\_Mark Up",
   conference      = "the 7th Nordic Conference",
   location        = "Copenhagen, Denmark"
 }
