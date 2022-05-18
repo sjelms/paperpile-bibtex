@@ -5872,7 +5872,7 @@
   publisher       = "ACM Press",
   year            =  2012,
   address         = "New York, New York, USA",
-  keywords        = "+Notion;+Readwise;AR/MR;@\_Mark Up",
+  keywords        = "+Notion;AR/MR;@\_Mark Up",
   conference      = "the 7th Nordic Conference",
   location        = "Copenhagen, Denmark"
 }
