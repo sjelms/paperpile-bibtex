@@ -3735,8 +3735,6 @@
   keywords = "Andragogy;§New Literature;@\_Mark Up"
 }
 
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
 @BOOK{Liu2017-wo,
   title     = "Virtual, Augmented, and Mixed Realities in Education",
   author    = "Liu, Dejian and Dede, Chris and Huang, Ronghuai and Richards,
@@ -3765,7 +3763,7 @@
   publisher = "Springer",
   month     =  nov,
   year      =  2017,
-  keywords  = "§New Literature;ePub;EPubs Books",
+  keywords  = "ePub;EPubs Books",
   language  = "en"
 }
 
