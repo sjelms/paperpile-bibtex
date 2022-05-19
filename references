@@ -339,40 +339,6 @@
   keywords = "AIEd;§New Literature"
 }
 
-@ARTICLE{Chi2001-nu,
-  title     = "Learning from human tutoring",
-  author    = "Chi, Michelene T H and Siler, Stephanie A and Jeong, Heisawn and
-               Yamauchi, Takashi and Hausmann, Robert G",
-  abstract  = "Abstract Human one-to-one tutoring has been shown to be a very
-               effective form of instruction. Three contrasting hypotheses, a
-               tutor-centered one, a student-centered one, and an interactive
-               one could all potentially explain the effectiveness of tutoring.
-               To test these hypotheses, analyses focused not only on the
-               effectiveness of the tutors' moves, but also on the
-               effectiveness of the students' construction on learning, as well
-               as their interaction. The interaction hypothesis is further
-               tested in the second study by manipulating the kind of tutoring
-               tactics tutors were permitted to use. In order to promote a more
-               interactive style of dialogue, rather than a didactic style,
-               tutors were suppressed from giving explanations and feedback.
-               Instead, tutors were encouraged to prompt the students.
-               Surprisingly, students learned just as effectively even when
-               tutors were suppressed from giving explanations and feedback.
-               Their learning in the interactive style of tutoring is
-               attributed to construction from deeper and a greater amount of
-               scaffolding episodes, as well as their greater effort to take
-               control of their own learning by reading more. What they learned
-               from reading was limited, however, by their reading abilities.",
-  journal   = "Cogn. Sci.",
-  publisher = "Wiley",
-  volume    =  25,
-  number    =  4,
-  pages     = "471--533",
-  month     =  jul,
-  year      =  2001,
-  language  = "en"
-}
-
 @MISC{Allen2019-us,
   title        = "Standard Oil's Company Housing in Wood River, Illinois",
   booktitle    = "Madison Historical: The Online Encyclopedia and Digital
@@ -2518,6 +2484,41 @@
   month     =  jan,
   year      =  2001,
   keywords  = "Intelligent Tutoring Systems (ITS);§New Literature"
+}
+
+@ARTICLE{Chi2001-nu,
+  title     = "Learning from human tutoring",
+  author    = "Chi, Michelene T H and Siler, Stephanie A and Jeong, Heisawn and
+               Yamauchi, Takashi and Hausmann, Robert G",
+  abstract  = "Abstract Human one-to-one tutoring has been shown to be a very
+               effective form of instruction. Three contrasting hypotheses, a
+               tutor-centered one, a student-centered one, and an interactive
+               one could all potentially explain the effectiveness of tutoring.
+               To test these hypotheses, analyses focused not only on the
+               effectiveness of the tutors' moves, but also on the
+               effectiveness of the students' construction on learning, as well
+               as their interaction. The interaction hypothesis is further
+               tested in the second study by manipulating the kind of tutoring
+               tactics tutors were permitted to use. In order to promote a more
+               interactive style of dialogue, rather than a didactic style,
+               tutors were suppressed from giving explanations and feedback.
+               Instead, tutors were encouraged to prompt the students.
+               Surprisingly, students learned just as effectively even when
+               tutors were suppressed from giving explanations and feedback.
+               Their learning in the interactive style of tutoring is
+               attributed to construction from deeper and a greater amount of
+               scaffolding episodes, as well as their greater effort to take
+               control of their own learning by reading more. What they learned
+               from reading was limited, however, by their reading abilities.",
+  journal   = "Cogn. Sci.",
+  publisher = "Wiley",
+  volume    =  25,
+  number    =  4,
+  pages     = "471--533",
+  month     =  jul,
+  year      =  2001,
+  keywords  = "Knowledge - Skill Acquisition",
+  language  = "en"
 }
 
 @ARTICLE{VanLehn2006-op,
