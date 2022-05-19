@@ -339,6 +339,15 @@
   keywords = "AIEd;§New Literature"
 }
 
+@ARTICLE{Russell2021-vx,
+  title   = "Artificial intelligence: A modern approach, global edition 4th",
+  author  = "Russell, S and Norvig, P",
+  journal = "Foundations",
+  volume  =  19,
+  pages   = "23",
+  year    =  2021
+}
+
 @MISC{Allen2019-us,
   title        = "Standard Oil's Company Housing in Wood River, Illinois",
   booktitle    = "Madison Historical: The Online Encyclopedia and Digital
