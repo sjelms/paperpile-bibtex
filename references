@@ -320,6 +320,21 @@
   keywords  = "ePub;Book (physical);Artificial Intelligence (AI)"
 }
 
+@ARTICLE{Lippert2020-ei,
+  title     = "Multiple agent designs in conversational intelligent tutoring
+               systems",
+  author    = "Lippert, Anne and Shubeck, Keith and Morgan, Brent and Hampton,
+               Andrew and Graesser, Arthur",
+  journal   = "Technol. Knowl. Learn.",
+  publisher = "Springer Science and Business Media LLC",
+  volume    =  25,
+  number    =  3,
+  pages     = "443--463",
+  month     =  sep,
+  year      =  2020,
+  language  = "en"
+}
+
 @ARTICLE{Chi2001-nu,
   title     = "Learning from human tutoring",
   author    = "Chi, Michelene T H and Siler, Stephanie A and Jeong, Heisawn and
