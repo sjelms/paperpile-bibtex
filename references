@@ -314,7 +314,6 @@
   title     = "Artificial Intelligence: A Modern Approach",
   author    = "Russell, Stuart and Norvig, Peter",
   publisher = "Pearson Education Limited",
-  pages     = "23",
   edition   = "4th Global ed",
   year      =  2021,
   address   = "Harlow, UK"
