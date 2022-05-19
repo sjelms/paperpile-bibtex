@@ -339,13 +339,13 @@
   keywords = "AIEd;§New Literature"
 }
 
-@ARTICLE{Russell2021-vx,
-  title   = "Artificial intelligence: A modern approach, global edition 4th",
-  author  = "Russell, S and Norvig, P",
-  journal = "Foundations",
-  volume  =  19,
-  pages   = "23",
-  year    =  2021
+@BOOK{Russell2021-vx,
+  title     = "Artificial Intelligence: A Modern Approach, 4th Global ed",
+  author    = "Russell, Stuart and Norvig, Peter",
+  publisher = "Pearson Education Limited",
+  pages     = "23",
+  year      =  2021,
+  address   = "Harlow, UK"
 }
 
 @MISC{Allen2019-us,
