@@ -286,6 +286,13 @@
   keywords  = "Workplace Learning;AR/MR;Knowledge - Skill Acquisition"
 }
 
+@BOOK{Norman2013-mt,
+  title     = "The design of everyday things: Revised and expanded edition",
+  author    = "Norman, Don",
+  publisher = "Basic books",
+  year      =  2013
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Gamboa2001-rk,
