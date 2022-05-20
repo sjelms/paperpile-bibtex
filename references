@@ -5937,3 +5937,29 @@
   conference      = "the 7th Nordic Conference",
   location        = "Copenhagen, Denmark"
 }
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Hegazy2013-dm,
+  title     = "Hands-on exercise for enhancing students' construction
+               management skills",
+  author    = "Hegazy, Tarek and Abdel-Monem, Mohamed and Saad, Dina A and
+               Rashedi, Roozbeh",
+  abstract  = "This paper presents a hands-on exercise on construction project
+               management to augment traditional teaching methods and help
+               students improve their construction experience and project
+               management skills. The exercise involved 100 students
+               participating in managing and constructing a 3.8-m (12.5-ft)
+               model of Canada's CN Tower within a 30-min deadline. Before
+               construction, the groups prepared method statements, cost
+               estimates, and schedules for constructing the model. During
+               construction, the groups had to manage limited resources …",
+  journal   = "J. Constr. Eng. Manage.",
+  publisher = "American Society of Civil Engineers (ASCE)",
+  volume    =  139,
+  number    =  9,
+  pages     = "1135--1143",
+  month     =  sep,
+  year      =  2013,
+  language  = "en"
+}
