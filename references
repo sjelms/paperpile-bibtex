@@ -286,13 +286,6 @@
   keywords  = "Workplace Learning;AR/MR;Knowledge - Skill Acquisition"
 }
 
-@BOOK{Norman2013-mt,
-  title     = "The design of everyday things: Revised and expanded edition",
-  author    = "Norman, Don",
-  publisher = "Basic books",
-  year      =  2013
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Gamboa2001-rk,
@@ -429,6 +422,14 @@
   address   = "United States",
   keywords  = "YouTube;Zotero Import (Feb 22);My Library;2021-12-03 Frontiers",
   copyright = "Autodesk"
+}
+
+@BOOK{Norman2013-mt,
+  title     = "The Design of Everyday Things: Revised and Expanded Edition",
+  author    = "Norman, Don",
+  publisher = "MIT Press",
+  year      =  2013,
+  address   = "Cambridge, MA"
 }
 
 @INPROCEEDINGS{Chen2020-fm,
