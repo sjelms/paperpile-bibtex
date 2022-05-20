@@ -1968,8 +1968,6 @@
   keywords = "§New Literature;AEC;Zotero Import (Feb 22);My Library;Game Engine"
 }
 
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
 @ARTICLE{Shanbari2019-ig,
   title    = "Use of video games to enhance construction management education",
   author   = "Shanbari, Hamzah and Issa, Raja R A",
@@ -1995,9 +1993,8 @@
   pages    = "206--221",
   month    =  may,
   year     =  2019,
-  keywords = "§New Literature;AEC;Workplace Learning;@\_Mark
-              Up;+Notion;+Readwise;Zotero Import (Feb 22);My Library;Game
-              Engine"
+  keywords = "AEC;Workplace Learning;@\_Mark Up;+Notion;+Readwise;Zotero Import
+              (Feb 22);My Library;Game Engine"
 }
 
 @ARTICLE{Shanbari2016-ch,
