@@ -5970,17 +5970,3 @@
   keywords  = "AEC;@\_Mark Up",
   language  = "en"
 }
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@ARTICLE{Egan2005-pd,
-  title     = "An imaginative approach to teaching",
-  author    = "Egan, Kieran",
-  abstract  = "``All knowledge is human knowledge and all knowledge is a
-               product of human hopes, fears, and passions. To bring knowledge
-               to life in students' minds, we must introduce it to students …",
-  journal   = "San Francisco",
-  publisher = "researchgate.net",
-  year      =  2005,
-  keywords  = "+Notion;+Readwise;Education"
-}
