@@ -428,6 +428,7 @@
   title     = "The Design of Everyday Things: Revised and Expanded Edition",
   author    = "Norman, Don",
   publisher = "MIT Press",
+  month     =  nov,
   year      =  2013,
   address   = "Cambridge, MA",
   keywords  = "ePub;Book (physical)"
