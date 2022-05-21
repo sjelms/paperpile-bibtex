@@ -251,6 +251,20 @@
   language  = "en"
 }
 
+@ARTICLE{Coskun2010-td,
+  title     = "Mirtazapine treatment for comorbid anxiety/depressive disorders
+               in young subjects with attention-deficit hyperactivity disorder:
+               Case series",
+  author    = "Coskun, Murat and Ahmetoglu, Emine and Ozturk, Mucahit",
+  journal   = "Klinik Psikofarmakol. Bulteni",
+  publisher = "Informa UK Limited",
+  volume    =  20,
+  number    =  3,
+  pages     = "246--251",
+  month     =  sep,
+  year      =  2010
+}
+
 @BOOK{Self1995-ne,
   title     = "Computational Mathetics: Towards a Science of Learning Systems
                Design",
