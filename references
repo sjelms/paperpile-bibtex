@@ -5985,3 +5985,19 @@
   keywords  = "AEC;@\_Mark Up",
   language  = "en"
 }
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Holmes2019-xb,
+  title     = "Artificial intelligence in education",
+  author    = "Holmes, Wayne and Bialik, Maya and Fadel, Charles",
+  abstract  = "Artificial intelligence (AI) is arguably the driving
+               technological force of the first half of this century, and will
+               transform virtually every industry, if not human endeavors at
+               large. 1 …",
+  journal   = "Boston: Center for Curriculum Redesign",
+  publisher = "curriculumredesign.org",
+  volume    =  2019,
+  pages     = "1--35",
+  year      =  2019
+}
