@@ -2225,8 +2225,6 @@
   language  = "en"
 }
 
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
 @INCOLLECTION{Yudelson2013-yg,
   title     = "Individualized Bayesian knowledge tracing models",
   booktitle = "Lecture Notes in Computer Science",
@@ -2237,8 +2235,8 @@
   series    = "Lecture notes in computer science",
   year      =  2013,
   address   = "Berlin, Heidelberg",
-  keywords  = "§New Literature;Artificial Intelligence (AI);Intelligent
-               Tutoring Systems (ITS);@\_Mark Up;Cited for Frontiers"
+  keywords  = "Artificial Intelligence (AI);Intelligent Tutoring Systems
+               (ITS);@\_Mark Up;Cited for Frontiers"
 }
 
 @ARTICLE{Chieu2010-ib,
