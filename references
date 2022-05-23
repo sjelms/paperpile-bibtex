@@ -2210,10 +2210,12 @@
 }
 
 @ARTICLE{Bransford1999-ta,
-  title   = "Rethinking transfer: A simple proposal with multiple implications
-             (Vol. 24)",
-  author  = "Bransford, J D and Schwartz, D L",
+  title   = "Rethinking Transfer: a Simple Proposal With Multiple Implications",
+  author  = "Bransford, John D and Schwartz, Daniel L",
+  editor  = "Pearson, A Iran-Nejad \& P",
   journal = "Washington DC: American Educational Research Association",
+  volume  =  24,
+  pages   = "61--100",
   year    =  1999
 }
 
