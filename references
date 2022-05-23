@@ -1,3 +1,13 @@
+@INCOLLECTION{Martin2018-ht,
+  title     = "Research Methods in Education 8th edition edited by Louis Cohen,
+               Lawrence Manion and Keith Morrison",
+  booktitle = "Research methods in education",
+  author    = "Martin, Jane",
+  publisher = "Routledge",
+  pages     = "323--333",
+  year      =  2018
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Suppes1969-kb,
