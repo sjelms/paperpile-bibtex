@@ -2209,6 +2209,14 @@
   keywords  = "Book (physical);ePub"
 }
 
+@ARTICLE{Bransford1999-ta,
+  title   = "Rethinking transfer: A simple proposal with multiple implications
+             (Vol. 24)",
+  author  = "Bransford, J D and Schwartz, D L",
+  journal = "Washington DC: American Educational Research Association",
+  year    =  1999
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Suppes1969-kb,
