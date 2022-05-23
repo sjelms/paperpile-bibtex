@@ -2241,7 +2241,7 @@
   publisher = "Elsevier",
   month     =  apr,
   year      =  2011,
-  keywords  = "ePub",
+  keywords  = "ePub;HCI",
   language  = "en"
 }
 
