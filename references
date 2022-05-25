@@ -2257,6 +2257,19 @@
   language  = "en"
 }
 
+@MISC{noauthor_2014-vq,
+  title        = "Math for the Trades",
+  booktitle    = "{KML} Carpenters Training Fund | Training The Best Carpenters
+                  in the {Keystone+Mountain+Lakes}",
+  abstract     = "Carpenters must have a",
+  publisher    = "KML Carpenters Training Fund",
+  month        =  jun,
+  year         =  2014,
+  howpublished = "\url{https://www.kmltf.org/math-for-the-trades/}",
+  note         = "Accessed: 2022-5-25",
+  language     = "en"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Suppes1969-kb,
