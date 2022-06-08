@@ -6171,5 +6171,6 @@
                vocational classrooms",
   author    = "Cuendet, S{\'e}bastien",
   publisher = "Lausanne, EPFL",
-  year      =  2013
+  year      =  2013,
+  keywords  = "AR/MR"
 }
