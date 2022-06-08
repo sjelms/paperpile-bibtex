@@ -6165,3 +6165,11 @@
   year        =  2022,
   keywords    = "AEC;Report"
 }
+
+@MISC{Cuendet2013-tu,
+  title     = "Tangible interfaces for learning:Training spatial skills in
+               vocational classrooms",
+  author    = "Cuendet, S{\'e}bastien",
+  publisher = "Lausanne, EPFL",
+  year      =  2013
+}
