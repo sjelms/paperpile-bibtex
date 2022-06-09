@@ -73,7 +73,8 @@
                virtual reality and augmented reality applications.",
   publisher = "Springer Berlin Heidelberg",
   pages     = "1198--1207",
-  year      =  2006
+  year      =  2006,
+  keywords  = "AR/MR"
 }
 
 @INCOLLECTION{Rebolledo-Mendez2011-mg,
