@@ -157,6 +157,32 @@
   keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
+@INPROCEEDINGS{Jermann2008-pb,
+  title     = "Tinkering or Sketching: Apprentices' Use of Tangibles and
+               Drawings to Solve Design Problems",
+  booktitle = "Times of Convergence. Technologies Across Learning Contexts",
+  author    = "Jermann, Patrick and Zufferey, Guillaume and Dillenbourg, Pierre",
+  abstract  = "The articulation of practice and theory is a central problematic
+               in a dual apprenticeship system that combines working in a
+               company and attending courses at school. Design problems are
+               proposed by teachers as a way to address theoretical concepts in
+               a practical context. The difficulties encountered by apprentices
+               while creating paper based sketches motivated the development of
+               a tabletop warehouse simulation providing apprentices with a
+               Tangible User Interface in the form of a small-scale model. We
+               compare drawings and tangible representational modalities with
+               regards to three phases of design problem solving. Tinkering
+               with tangibles is described as an easy way to engage into the
+               problem. The physical properties of tangibles facilitate the
+               extraction of features relevant for verification. The limited
+               expressiveness of tangibles allows apprentices to focus on the
+               search for a solution rather than on the representation of the
+               problem space.",
+  publisher = "Springer Berlin Heidelberg",
+  pages     = "167--178",
+  year      =  2008
+}
+
 @INPROCEEDINGS{Do-Lenh2012-ug,
   title     = "{TinkerLamp} 2.0: Designing and Evaluating Orchestration
                Technologies for the Classroom",
