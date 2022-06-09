@@ -180,7 +180,8 @@
                problem space.",
   publisher = "Springer Berlin Heidelberg",
   pages     = "167--178",
-  year      =  2008
+  year      =  2008,
+  keywords  = "AR/MR"
 }
 
 @INPROCEEDINGS{Do-Lenh2012-ug,
@@ -204,7 +205,8 @@
                outcomes.",
   publisher = "Springer Berlin Heidelberg",
   pages     = "65--78",
-  year      =  2012
+  year      =  2012,
+  keywords  = "AR/MR"
 }
 
 @INCOLLECTION{Yudelson2013-yg,
