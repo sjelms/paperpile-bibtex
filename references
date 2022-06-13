@@ -6868,9 +6868,9 @@
   keywords = "AIEd [CCME0123]"
 }
 
-@ARTICLE{Ryan_Baker2018-fx,
-  title    = "({PDF}) {BROMP} Quantitative Field Observations: A Review",
-  author   = "{Ryan Baker}",
+@ARTICLE{Baker2018-fx,
+  title    = "{BROMP} Quantitative Field Observations: A Review",
+  author   = "Baker, Ryan",
   month    =  dec,
   year     =  2018,
   keywords = "AIEd [CCME0123]"
