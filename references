@@ -6419,28 +6419,6 @@
   keywords  = "Intelligent Tutoring Systems (ITS);AIEd [CCME0123]"
 }
 
-@ARTICLE{Ali_Alkhatlan2018-sz,
-  title    = "-- Intelligent Tutoring Systems: A Comprehensive Historical
-              Survey with Recent Developments",
-  author   = "Ali Alkhatlan, Jugal Kalita",
-  abstract = "This paper provides interested beginners with an updated and
-              detailed introduction to the field of Intelligent Tutoring
-              Systems (ITS). ITSs are computer programs that use artificial
-              intelligence techniques to enhance and personalize automation in
-              teaching. This paper is a literature review that provides the
-              following: First, a review of the history of ITS along with a
-              discussion on the interface between human learning and computer
-              tutors and how effective ITSs are in contemporary education.
-              Second, the traditional architectural components of an ITS and
-              their functions are discussed along with approaches taken by
-              various ITSs. Finally, recent innovative ideas in ITS systems are
-              presented. This paper concludes with some of the author's views
-              regarding future work in the field of intelligent tutoring
-              systems.",
-  year     =  2018,
-  keywords = "Intelligent Tutoring Systems (ITS);AIEd [CCME0123]"
-}
-
 @ARTICLE{Hand2006-bu,
   title    = "Classifier Technology and the Illusion of Progress",
   author   = "Hand, David J",
