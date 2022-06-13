@@ -6690,16 +6690,13 @@
   keywords = "AIEd [CCME0123]"
 }
 
-@ARTICLE{Davis1998-ti,
-  title     = "What are intelligence ? And why : 1996 {AAAI} Presidential
-               Address",
-  author    = "Davis, R",
-  journal   = "The AI magazine",
-  publisher = "American Association for Artificial Intelligence",
-  volume    =  19,
-  pages     = "91",
-  year      =  1998,
-  keywords  = "AIEd [CCME0123]"
+@MISC{Davis1998-ti,
+  title        = "What Are Intelligence? And Why?",
+  author       = "Davis, Randall",
+  publisher    = "American Association for Artificial Intelligence",
+  year         =  1998,
+  howpublished = "1996 AAAI Presidential Address",
+  keywords     = "AIEd [CCME0123]"
 }
 
 @ARTICLE{Porayska-Pomsta2008-ps,
