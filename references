@@ -6729,3 +6729,155 @@
   year     =  2008,
   keywords = "AIEd [CCME0123]"
 }
+
+@ARTICLE{noauthor_undated-ja,
+  title    = "Exploring the Potential of Speech Recognition to Support Problem
+              Solving and Reflection",
+  keywords = "AIEd [CCME0123]"
+}
+
+@MISC{noauthor_undated-mh,
+  title        = "{AI} Extenders | Proceedings of the 2019 {AAAI/ACM}
+                  Conference on {AI}, Ethics, and Society",
+  howpublished = "\url{https://dl-acm-org.libproxy.ucl.ac.uk/doi/10.1145/3306618.3314238}",
+  keywords     = "AIEd [CCME0123]"
+}
+
+@ARTICLE{Prieto2015-hc,
+  title    = "Orchestration in learning technology research: evaluation of a
+              conceptual framework",
+  author   = "Prieto, Luis P and Dimitriadis, Yannis and Asensio-P{\'e}rez,
+              Juan I and Looi, Chee-Kit",
+  journal  = "Research in Learning Technology",
+  volume   =  23,
+  month    =  sep,
+  year     =  2015,
+  keywords = "AIEd [CCME0123]"
+}
+
+@PROCEEDINGS{Kitto_undated-pt,
+  title    = "Embracing imperfection in learning analytics",
+  author   = "Kitto, Kirsty and Shum, Simon Buckingham and Gibson, Andrew",
+  keywords = "AIEd [CCME0123]"
+}
+
+@MISC{noauthor_undated-lh,
+  title        = "House of Lords - {AI} in the {UK}: ready, willing and able? -
+                  Artificial Intelligence Committee",
+  howpublished = "\url{https://publications.parliament.uk/pa/ld201719/ldselect/ldai/100/10002.htm}",
+  keywords     = "AIEd [CCME0123]"
+}
+
+@BOOK{Russell2016-dy,
+  title     = "Artificial intelligence: a modern approach",
+  author    = "Russell, Stuart J and Norvig, Peter",
+  abstract  = "Chapters 2 (rational agents), 3 (logical agents) and 7
+               (knowledge representation, planning and search) I don't expect
+               you to read all of the chapters in their entirety, but it would
+               be useful if you could get familiar with the basics of knowledge
+               representation (different forms lending themselves to different
+               forms of search).",
+  publisher = "Pearson",
+  edition   = "Third edition, Global edition",
+  year      =  2016,
+  address   = "Boston",
+  keywords  = "AIEd [CCME0123]"
+}
+
+@BOOK{Russell2016-yi,
+  title     = "Artificial intelligence: a modern approach",
+  author    = "Russell, Stuart J and Norvig, Peter",
+  abstract  = "See Chapter 1 for Introduction to AI. These chapters are very
+               useful in helping define AI, by taking both a historical and
+               technical perspective.",
+  publisher = "Pearson",
+  edition   = "Third edition, Global edition",
+  year      =  2016,
+  address   = "Boston",
+  keywords  = "AIEd [CCME0123]"
+}
+
+@ARTICLE{Porayska-Pomsta2016-zx,
+  title    = "{AI} as a Methodology for Supporting Educational Praxis and
+              Teacher Metacognition",
+  author   = "Porayska-Pomsta, Ka{\'s}ka",
+  abstract = "This is paper talks specifically about knowledge representation
+              as a way of helping teachers understand their own practices. It
+              makes a direct link to Davis et al, 1993 - five functions of KR.",
+  journal  = "International Journal of Artificial Intelligence in Education",
+  volume   =  26,
+  number   =  2,
+  pages    = "679--700",
+  year     =  2016,
+  keywords = "AIEd [CCME0123]"
+}
+
+@INCOLLECTION{Porayska-Pomsta2019-zv,
+  title     = "Accountability in Human and Artificial Intelligence
+               {Decision-Making} as the Basis for Diversity and Educational
+               Inclusion",
+  booktitle = "Artificial Intelligence and Inclusive Education",
+  author    = "Porayska-Pomsta, Ka{\'s}ka and Rajendran, Gnanathusharan",
+  editor    = "Knox, Jeremy and Wang, Yuchen and Gallagher, Michael",
+  abstract  = "My own fresh off the press chapter speaking to the social
+               sciences community, looking at the definition of accountability
+               in the context of AI applications and educational inclusion.",
+  publisher = "Springer Singapore",
+  pages     = "39--59",
+  year      =  2019,
+  address   = "Singapore",
+  keywords  = "AIEd [CCME0123]"
+}
+
+@INBOOK{noauthor_undated-oh,
+  title    = "Neurocomputational models of cognition versus technology as a
+              tool for supporting learning and teaching",
+  keywords = "AIEd [CCME0123]"
+}
+
+@ARTICLE{Ryan_SJd_Baker2009-hy,
+  title    = "The State of Educational Data Mining in 2009: A Review and Future
+              Visions",
+  author   = "{Ryan S.J.d. Baker}",
+  journal  = "Journal of Educational Data Mining",
+  volume   =  1,
+  number   =  1,
+  pages    = "3--17",
+  year     =  2009,
+  keywords = "AIEd [CCME0123]"
+}
+
+@ARTICLE{noauthor_undated-ps,
+  title    = "Mark Sprevak (2020). Extended cognition. The Routledge
+              Encyclopedia of Philosophy",
+  keywords = "AIEd [CCME0123]"
+}
+
+@MISC{noauthor_undated-xg,
+  title        = "{AI} Extenders | Proceedings of the 2019 {AAAI/ACM}
+                  Conference on {AI}, Ethics, and Society",
+  howpublished = "\url{https://dl-acm-org.libproxy.ucl.ac.uk/doi/10.1145/3306618.3314238}",
+  keywords     = "AIEd [CCME0123]"
+}
+
+@ARTICLE{Pedro2019-et,
+  title    = "Artificial intelligence in education : challenges and
+              opportunities for sustainable development",
+  author   = "Pedro, Francesc",
+  year     =  2019,
+  keywords = "AIEd [CCME0123]"
+}
+
+@ARTICLE{Ryan_Baker2018-fx,
+  title    = "({PDF}) {BROMP} Quantitative Field Observations: A Review",
+  author   = "{Ryan Baker}",
+  month    =  dec,
+  year     =  2018,
+  keywords = "AIEd [CCME0123]"
+}
+
+@ARTICLE{noauthor_undated-tb,
+  title    = "Epistemology, assessment, pedagogy: where learning meets
+              analytics in the middle space",
+  keywords = "AIEd [CCME0123]"
+}
