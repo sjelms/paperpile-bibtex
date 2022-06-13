@@ -6493,12 +6493,6 @@
   keywords = "AIEd [CCME0123]"
 }
 
-@ARTICLE{noauthor_undated-ui,
-  title    = "Vernor Vinge (1993). The Coming of Technological Singularity.
-              Vision-21 Symposium. ``Whole Earth Review''",
-  keywords = "AIEd [CCME0123]"
-}
-
 @ARTICLE{Andy_Clark_and_David_Chalmers1998-gj,
   title     = "The Extended Mind",
   author    = "{Andy Clark and David Chalmers}",
@@ -6839,5 +6833,18 @@
 @ARTICLE{noauthor_undated-tb,
   title    = "Epistemology, assessment, pedagogy: where learning meets
               analytics in the middle space",
+  keywords = "AIEd [CCME0123]"
+}
+
+@ARTICLE{Vinge1993-ui,
+  title    = "The Coming of Technological Singularity. Vision-21 Symposium.
+              ``Whole Earth Review''",
+  author   = "Vinge, Vernor",
+  abstract = "This article was for the VISION-21 Symposium sponsored by NASA
+              Lewis Research Center and the Ohio Aerospace Institute, March
+              30-31, 1993. It is also retrievable from the NASA technical
+              reports server as part of NASA CP-10129.",
+  month    =  mar,
+  year     =  1993,
   keywords = "AIEd [CCME0123]"
 }
