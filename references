@@ -6376,10 +6376,10 @@
   keywords = "AIEd [CCME0123]"
 }
 
-@ARTICLE{Cristina_Conati2018-km,
-  title    = "({PDF}) {AI} in Education needs interpretable machine learning:
-              Lessons from Open Learner Modelling",
-  author   = "{Cristina Conati}",
+@ARTICLE{Conati2018-km,
+  title    = "{AI} in Education needs interpretable machine learning: Lessons
+              from Open Learner Modelling",
+  author   = "Conati, Cristina and Porayska-Pomsta, Kaska and Mavrikis, Manolis",
   abstract = "Links symbolic representations with machine learning, explaining
               what ML approaches can learn from KR and AIED research",
   month    =  jun,
