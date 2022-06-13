@@ -342,7 +342,8 @@
   edition   = "4th Global ed",
   year      =  2021,
   address   = "Harlow, UK",
-  keywords  = "ePub;Book (physical);Artificial Intelligence (AI)"
+  keywords  = "ePub;Book (physical);Artificial Intelligence (AI);AIEd
+               [CCME0123]"
 }
 
 @ARTICLE{Lippert2020-ei,
