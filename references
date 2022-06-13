@@ -6375,18 +6375,6 @@
   keywords = "AIEd [CCME0123]"
 }
 
-@BOOK{Russell2016-dd,
-  title     = "Artificial intelligence: a modern approach",
-  author    = "Russell, Stuart J and Norvig, Peter",
-  abstract  = "A very useful introduction to AI agent design as a way of
-               modelling a system that interacts with its environment.",
-  publisher = "Pearson",
-  edition   = "Third edition, Global edition",
-  year      =  2016,
-  address   = "Boston",
-  keywords  = "AIEd [CCME0123]"
-}
-
 @ARTICLE{Cristina_Conati2018-km,
   title    = "({PDF}) {AI} in Education needs interpretable machine learning:
               Lessons from Open Learner Modelling",
@@ -6766,35 +6754,6 @@
                   Artificial Intelligence Committee",
   howpublished = "\url{https://publications.parliament.uk/pa/ld201719/ldselect/ldai/100/10002.htm}",
   keywords     = "AIEd [CCME0123]"
-}
-
-@BOOK{Russell2016-dy,
-  title     = "Artificial intelligence: a modern approach",
-  author    = "Russell, Stuart J and Norvig, Peter",
-  abstract  = "Chapters 2 (rational agents), 3 (logical agents) and 7
-               (knowledge representation, planning and search) I don't expect
-               you to read all of the chapters in their entirety, but it would
-               be useful if you could get familiar with the basics of knowledge
-               representation (different forms lending themselves to different
-               forms of search).",
-  publisher = "Pearson",
-  edition   = "Third edition, Global edition",
-  year      =  2016,
-  address   = "Boston",
-  keywords  = "AIEd [CCME0123]"
-}
-
-@BOOK{Russell2016-yi,
-  title     = "Artificial intelligence: a modern approach",
-  author    = "Russell, Stuart J and Norvig, Peter",
-  abstract  = "See Chapter 1 for Introduction to AI. These chapters are very
-               useful in helping define AI, by taking both a historical and
-               technical perspective.",
-  publisher = "Pearson",
-  edition   = "Third edition, Global edition",
-  year      =  2016,
-  address   = "Boston",
-  keywords  = "AIEd [CCME0123]"
 }
 
 @ARTICLE{Porayska-Pomsta2016-zx,
