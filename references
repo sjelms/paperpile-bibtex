@@ -4531,6 +4531,18 @@
                Robotics in Construction (IAARC)"
 }
 
+@BOOK{Clark2021-ef,
+  title     = "Bryman's Social Research Methods",
+  author    = "Clark, Tom and Bryman, Alan and Foster, Liam and Sloan, Luke",
+  editor    = "Vacchelli, Elena",
+  publisher = "Oxford University Press",
+  edition   = "Sixth edition",
+  year      =  2021,
+  address   = "Oxford",
+  keywords  = "Social sciences -- Research -- Methodology;RDL [CCME0041]",
+  language  = "eng"
+}
+
 @MISC{Tallinn_University2014-wg,
   title    = "Tacit and Explicit Knowledge | Key Concepts in Information and
               Knowledge Management",
@@ -5799,18 +5811,6 @@
   note         = "Accessed: 2022-4-14",
   keywords     = "Cited for Frontiers",
   language     = "en"
-}
-
-@BOOK{Tom2021-ef,
-  title     = "Bryman's social research methods",
-  author    = "Tom, Clark",
-  publisher = "Oxford University Press",
-  edition   = "Sixth edition / Tom Clark, Liam Foster, Luke Sloan, Alan Bryman
-               ; editorial advisor, Elena Vacchelli.",
-  year      =  2021,
-  address   = "Oxford",
-  keywords  = "Social sciences -- Research -- Methodology;RDL [CCME0041]",
-  language  = "eng"
 }
 
 @MISC{Bureau_of_Labor_Statistics2021-ge,
