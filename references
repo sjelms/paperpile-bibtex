@@ -6151,10 +6151,6 @@
   language     = "en"
 }
 
-@ARTICLE{noauthor_undated-ey,
-  title = "Reimagining {HCI\_} toward a more human-centered perspective.pdf"
-}
-
 @TECHREPORT{Hovnanian2022-kv,
   title       = "Bridging the Labor Mismatch in {US} Construction",
   author      = "Hovnanian, Garo and Luby, Ryan and Peloquin, Shannon",
@@ -7229,4 +7225,17 @@
   pages     = "126--200",
   year      =  2017,
   keywords  = "Week 1\_ Design and technology"
+}
+
+@ARTICLE{Bannon2011-ey,
+  title     = "Reimagining {HCI}: toward a more human-centered perspective",
+  author    = "Bannon, Liam",
+  journal   = "Interactions",
+  publisher = "Association for Computing Machinery",
+  volume    =  18,
+  number    =  4,
+  pages     = "50--57",
+  month     =  jul,
+  year      =  2011,
+  address   = "New York, NY, USA"
 }
