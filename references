@@ -7000,6 +7000,44 @@
   location  = "Boston, Massachusetts"
 }
 
+@INPROCEEDINGS{Kim2017-mq,
+  title     = "Understanding Uncertainty in Measurement and Accommodating its
+               Impact in {3D} Modeling and Printing",
+  booktitle = "Proceedings of the 2017 Conference on Designing Interactive
+               Systems",
+  author    = "Kim, Jeeeun and Guo, Anhong and Yeh, Tom and Hudson, Scott E and
+               Mankoff, Jennifer",
+  abstract  = "The growing accessibility of 3D printing to everyday users has
+               led to the rapid adoption, sharing of 3D models on sites such as
+               Thingiverse.com, and visions of a future in which customization
+               is a norm and 3D printing can solve a variety of real-world
+               problems. However, in practice, creating models is difficult and
+               many end users simply print models created by others. In this
+               paper, we explore a specific area of model design that is a
+               challenge for end users' measurement. When a model must conform
+               to a specific real world goal once printed, it is important that
+               that goal is precisely specified. We demonstrate that
+               measurement errors are a significant (yet often overlooked)
+               challenge for end users through a systematic study of the
+               sources and types of measurement errors. We argue for a new
+               design principle--accommodating measurement error--that
+               designers, as well as novice modelers, should to use at design
+               time. We offer two strategies--buffer insertion and replacement
+               of minimal parts--to help designers, as well as novice modelers,
+               to build models that are robust to measurement error. We argue
+               that these strategies can reduce the need for and costs of
+               iteration and demonstrate their use in a series of printed
+               objects.",
+  publisher = "Association for Computing Machinery",
+  pages     = "1067--1078",
+  series    = "DIS '17",
+  month     =  jun,
+  year      =  2017,
+  address   = "New York, NY, USA",
+  keywords  = "uncertainty, measurement, personal fabrication, 3D printing",
+  location  = "Edinburgh, United Kingdom"
+}
+
 @ARTICLE{Kim_undated-zo,
   title  = "Towar rd {3D-P} Printed Movab ble Tact ile Pict tures fo or Child
             dren wit h Visua al Impa airments s",
