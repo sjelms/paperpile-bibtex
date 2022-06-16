@@ -6955,6 +6955,13 @@
                electronics, materiality, Craft, materials science, DIY"
 }
 
+@ARTICLE{Buechley_undated-hd,
+  title  = "The {LilyPad} Arduino: Using Computational Textiles to Investigate
+            Engagement, Aesthetics, and Diversity in Computer Science Education",
+  author = "Buechley, Leah and Eisenberg, Mike and Catchen, Jaime and Crockett,
+            Ali"
+}
+
 @MISC{Tholander2012-au,
   title   = "Understanding agency in interaction design materials",
   author  = "Tholander, Jakob and Normark, Maria and Rossitto, Chiara",
