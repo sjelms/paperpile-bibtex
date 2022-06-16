@@ -6151,6 +6151,10 @@
   language     = "en"
 }
 
+@MISC{noauthor_undated-ey,
+  title = "Reimagining {HCI\_} toward a more human-centered perspective.pdf"
+}
+
 @TECHREPORT{Hovnanian2022-kv,
   title       = "Bridging the Labor Mismatch in {US} Construction",
   author      = "Hovnanian, Garo and Luby, Ryan and Peloquin, Shannon",
@@ -6158,6 +6162,10 @@
   month       =  mar,
   year        =  2022,
   keywords    = "AEC;Report"
+}
+
+@MISC{noauthor_undated-oo,
+  title = "The divisiveness of design thinking.pdf"
 }
 
 @MISC{Cuendet2013-tu,
