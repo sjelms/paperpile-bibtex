@@ -7183,6 +7183,32 @@
               approaches and processes"
 }
 
+@INPROCEEDINGS{Green2018-es,
+  title     = "Open Design, Inclusivity and the Intersections of Making",
+  booktitle = "Proceedings of the 2018 Designing Interactive Systems Conference",
+  author    = "Green, David and Kirk, David",
+  abstract  = "This paper presents insights from an ethnographic study with a
+               diverse population of makers in the city of Newcastle upon Tyne,
+               UK. By engaging individuals, groups and communities who 'make'
+               in different contexts, we reveal under-explored perspectives on
+               'making' and highlight points of intersection between different
+               kinds of making across the city. We reflect on the dynamics of
+               these intersections and connect our observations to emerging
+               discourses around 'open design'. In doing so, we argue for a
+               renewed focus on 'inclusivity' and highlight a need for new
+               infrastructure to support iterative, collaborative making within
+               -- and across -- interconnected networks of makers.",
+  publisher = "Association for Computing Machinery",
+  pages     = "173--186",
+  series    = "DIS '18",
+  month     =  jun,
+  year      =  2018,
+  address   = "New York, NY, USA",
+  keywords  = "documentary, making, diversity, inclusivity, makers,
+               participatory action research, ethnography, open design",
+  location  = "Hong Kong, China"
+}
+
 @ARTICLE{Bardzell2017-xq,
   title     = "{HCI's} Making Agendas",
   author    = "Bardzell, Jeffrey and Bardzell, Shaowen and Lin, Cindy and
