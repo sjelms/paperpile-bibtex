@@ -7088,6 +7088,33 @@
   location  = "Seoul, Republic of Korea"
 }
 
+@ARTICLE{Halskov2015-qr,
+  title    = "The diversity of participatory design research practice at {PDC}
+              2002--2012",
+  author   = "Halskov, Kim and Hansen, Nicolai Brodersen",
+  abstract = "We investigate the diversity of participatory design research
+              practice, based on a review of ten years of participatory design
+              research published as full research papers at the Participatory
+              Design Conferences (PDC) 2002--2012, and relate this body of
+              research to five fundamental aspects of PD from classic
+              participatory design literature. We identify five main categories
+              of research contributions: Participatory Design in new domains,
+              Participatory Design methods, Participatory Design and new
+              technology, Theoretical contributions to Participatory Design,
+              and Basic concepts in Participatory Design. Moreover, we identify
+              how participation is defined, and how participation is conducted
+              in experimental design cases, with a particular focus on
+              interpretation, planning, and decision-making in the design
+              process.",
+  journal  = "Int. J. Hum. Comput. Stud.",
+  volume   =  74,
+  pages    = "81--92",
+  month    =  feb,
+  year     =  2015,
+  keywords = "Participation; Cooperative design; Design process; Methods;
+              Context;Week 3\_ Design approaches and processes"
+}
+
 @ARTICLE{Parsons2014-ek,
   title     = "Reflections on the role of the `users': challenges in a
                multi-disciplinary context of learner-centred design for
