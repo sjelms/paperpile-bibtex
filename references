@@ -3046,8 +3046,8 @@
   year      =  2012,
   address   = "New York, NY, USA",
   keywords  = "art, paper-based electronics, design, education, e-textiles,
-               electronics, materiality, Craft, materials science, DIY;W2\_
-               Additional Readings"
+               electronics, materiality, Craft, materials science, DIY;Course
+               Assignment;W2\_ Additional Readings"
 }
 
 @INPROCEEDINGS{Cuendet2012-rb,
@@ -3138,8 +3138,8 @@
   month     =  apr,
   year      =  2015,
   address   = "New York, NY, USA",
-  keywords  = "3d printing, tactile pictures, 3d modeling, movables;W2\_
-               Additional Readings",
+  keywords  = "3d printing, tactile pictures, 3d modeling, movables;Course
+               Assignment;W2\_ Additional Readings",
   location  = "Seoul, Republic of Korea"
 }
 
@@ -3199,8 +3199,8 @@
   month     =  jun,
   year      =  2015,
   address   = "New York, NY, USA",
-  keywords  = "assistive technology, music education, music visualization;W2\_
-               Additional Readings",
+  keywords  = "assistive technology, music education, music
+               visualization;Course Assignment;W2\_ Additional Readings",
   location  = "Boston, Massachusetts"
 }
 
@@ -3238,8 +3238,8 @@
   month     =  jun,
   year      =  2017,
   address   = "New York, NY, USA",
-  keywords  = "uncertainty, measurement, personal fabrication, 3D printing;W2\_
-               Additional Readings",
+  keywords  = "uncertainty, measurement, personal fabrication, 3D
+               printing;Course Assignment;W2\_ Additional Readings",
   location  = "Edinburgh, United Kingdom"
 }
 
@@ -3273,8 +3273,8 @@
   year      =  2017,
   address   = "New York, NY, USA",
   keywords  = "computational thinking, participatory design, hackathon, primary
-               education, makerspace, professional development;W2\_ Additional
-               Readings",
+               education, makerspace, professional development;Course
+               Assignment;W2\_ Additional Readings",
   location  = "Brisbane, Queensland, Australia"
 }
 
@@ -5280,7 +5280,7 @@
               Science Education",
   author   = "Buechley, Leah and Eisenberg, Mike and Catchen, Jaime and
               Crockett, Ali",
-  keywords = "W2\_ Additional Readings"
+  keywords = "Course Assignment;W2\_ Additional Readings"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
