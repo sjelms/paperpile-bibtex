@@ -6928,3 +6928,33 @@
              Systems",
   year    =  2012
 }
+
+@INPROCEEDINGS{Kim2015-oz,
+  title     = "Seen music: ambient music data visualization for children with
+               hearing impairments",
+  booktitle = "Proceedings of the 14th International Conference on Interaction
+               Design and Children",
+  author    = "Kim, Jeeeun and Ananthanarayan, Swamy and Yeh, Tom",
+  abstract  = "In this paper, we propose a prototype of music visualization
+               system that captures and records the music component into
+               digital data form, and then displays the data in visual form for
+               children with hearing impairments. The analog sound data of
+               music played physically is scaled into a binary matrix and
+               scalar values that is then used as data structures for
+               transcribing the output. We designed a system that detects tune
+               and speed from a physical violin, and demonstrated three
+               tangible music visualizations that children see in their daily
+               lives, employing a flowerpot, plants and a picture of frame. We
+               describe how the data captured from physical musical instruments
+               can be seen through these objects, and suggest future
+               possibilities for interactive sound visualization in music
+               education for children with hearing impairments.",
+  publisher = "Association for Computing Machinery",
+  pages     = "426--429",
+  series    = "IDC '15",
+  month     =  jun,
+  year      =  2015,
+  address   = "New York, NY, USA",
+  keywords  = "assistive technology, music education, music visualization",
+  location  = "Boston, Massachusetts"
+}
