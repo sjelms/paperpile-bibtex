@@ -6894,3 +6894,11 @@
                materiality",
   location  = "Seoul, Republic of Korea"
 }
+
+@MISC{Tholander2012-au,
+  title   = "Understanding agency in interaction design materials",
+  author  = "Tholander, Jakob and Normark, Maria and Rossitto, Chiara",
+  journal = "Proceedings of the SIGCHI Conference on Human Factors in Computing
+             Systems",
+  year    =  2012
+}
