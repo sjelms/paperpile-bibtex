@@ -6151,10 +6151,6 @@
   language     = "en"
 }
 
-@MISC{noauthor_undated-oo,
-  title = "The divisiveness of design thinking.pdf"
-}
-
 @TECHREPORT{Hovnanian2022-kv,
   title       = "Bridging the Labor Mismatch in {US} Construction",
   author      = "Hovnanian, Garo and Luby, Ryan and Peloquin, Shannon",
@@ -7225,6 +7221,20 @@
   pages     = "126--200",
   year      =  2017,
   keywords  = "Week 1\_ Design and technology"
+}
+
+@ARTICLE{Kolko2018-oo,
+  title     = "The divisiveness of design thinking",
+  author    = "Kolko, Jon",
+  journal   = "Interactions",
+  publisher = "Association for Computing Machinery (ACM)",
+  volume    =  25,
+  number    =  3,
+  pages     = "28--34",
+  month     =  apr,
+  year      =  2018,
+  copyright = "http://www.acm.org/publications/policies/copyright\_policy\#Background",
+  language  = "en"
 }
 
 @ARTICLE{Bannon2011-ey,
