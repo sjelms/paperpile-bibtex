@@ -6925,7 +6925,8 @@
   year      =  2017,
   address   = "New York, NY, USA",
   keywords  = "computational thinking, participatory design, hackathon, primary
-               education, makerspace, professional development",
+               education, makerspace, professional development;W2\_ Additional
+               Readings",
   location  = "Brisbane, Queensland, Australia"
 }
 
@@ -6952,14 +6953,17 @@
   year      =  2012,
   address   = "New York, NY, USA",
   keywords  = "art, paper-based electronics, design, education, e-textiles,
-               electronics, materiality, Craft, materials science, DIY"
+               electronics, materiality, Craft, materials science, DIY;W2\_
+               Additional Readings"
 }
 
 @ARTICLE{Buechley_undated-hd,
-  title  = "The {LilyPad} Arduino: Using Computational Textiles to Investigate
-            Engagement, Aesthetics, and Diversity in Computer Science Education",
-  author = "Buechley, Leah and Eisenberg, Mike and Catchen, Jaime and Crockett,
-            Ali"
+  title    = "The {LilyPad} Arduino: Using Computational Textiles to
+              Investigate Engagement, Aesthetics, and Diversity in Computer
+              Science Education",
+  author   = "Buechley, Leah and Eisenberg, Mike and Catchen, Jaime and
+              Crockett, Ali",
+  keywords = "W2\_ Additional Readings"
 }
 
 @MISC{Tholander2012-au,
@@ -6997,7 +7001,8 @@
   month     =  jun,
   year      =  2015,
   address   = "New York, NY, USA",
-  keywords  = "assistive technology, music education, music visualization",
+  keywords  = "assistive technology, music education, music visualization;W2\_
+               Additional Readings",
   location  = "Boston, Massachusetts"
 }
 
@@ -7035,12 +7040,14 @@
   month     =  jun,
   year      =  2017,
   address   = "New York, NY, USA",
-  keywords  = "uncertainty, measurement, personal fabrication, 3D printing",
+  keywords  = "uncertainty, measurement, personal fabrication, 3D printing;W2\_
+               Additional Readings",
   location  = "Edinburgh, United Kingdom"
 }
 
 @ARTICLE{Kim_undated-zo,
-  title  = "Towar rd {3D-P} Printed Movab ble Tact ile Pict tures fo or Child
-            dren wit h Visua al Impa airments s",
-  author = "Kim, Jeee Eun and Tom, Yeh h"
+  title    = "Towar rd {3D-P} Printed Movab ble Tact ile Pict tures fo or Child
+              dren wit h Visua al Impa airments s",
+  author   = "Kim, Jeee Eun and Tom, Yeh h",
+  keywords = "W2\_ Additional Readings"
 }
