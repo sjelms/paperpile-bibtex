@@ -6891,7 +6891,7 @@
   year      =  2015,
   address   = "New York, NY, USA",
   keywords  = "practice, interaction design, theory, materials experience,
-               materiality",
+               materiality;Week 2\_ Materials in design",
   location  = "Seoul, Republic of Korea"
 }
 
@@ -6963,11 +6963,12 @@
 }
 
 @MISC{Tholander2012-au,
-  title   = "Understanding agency in interaction design materials",
-  author  = "Tholander, Jakob and Normark, Maria and Rossitto, Chiara",
-  journal = "Proceedings of the SIGCHI Conference on Human Factors in Computing
-             Systems",
-  year    =  2012
+  title    = "Understanding agency in interaction design materials",
+  author   = "Tholander, Jakob and Normark, Maria and Rossitto, Chiara",
+  journal  = "Proceedings of the SIGCHI Conference on Human Factors in
+              Computing Systems",
+  year     =  2012,
+  keywords = "Week 2\_ Materials in design"
 }
 
 @INPROCEEDINGS{Kim2015-oz,
