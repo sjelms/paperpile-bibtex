@@ -2985,7 +2985,7 @@
   journal  = "Proceedings of the SIGCHI Conference on Human Factors in
               Computing Systems",
   year     =  2012,
-  keywords = "Week 2\_ Materials in design"
+  keywords = "Course Assignment;Week 2\_ Materials in design"
 }
 
 @INPROCEEDINGS{Bodker2012-ex,
@@ -3169,7 +3169,7 @@
   year      =  2015,
   address   = "New York, NY, USA",
   keywords  = "practice, interaction design, theory, materials experience,
-               materiality;Week 2\_ Materials in design",
+               materiality;Course Assignment;Week 2\_ Materials in design",
   location  = "Seoul, Republic of Korea"
 }
 
