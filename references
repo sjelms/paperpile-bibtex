@@ -2567,7 +2567,8 @@
   month    =  nov,
   year     =  2011,
   keywords = "reasoning; framing; problem solving; design
-              practice;Optional;Course Assignment;Week 6"
+              practice;Optional;Course Assignment;Week 6\_ Ideation and
+              creative design"
 }
 
 @ARTICLE{Hey2007-au,
@@ -2597,7 +2598,8 @@
   pages     = "79--99",
   month     =  jan,
   year      =  2007,
-  keywords  = "Essential;Course Assignment;Week 6"
+  keywords  = "Essential;Course Assignment;Week 6\_ Ideation and creative
+               design"
 }
 
 @ARTICLE{Paton2011-eb,
@@ -2624,7 +2626,8 @@
   month    =  nov,
   year     =  2011,
   keywords = "framing; design strategy; design practice; communication; graphic
-              design;Recommended;Course Assignment;Week 6"
+              design;Recommended;Course Assignment;Week 6\_ Ideation and
+              creative design"
 }
 
 @ARTICLE{Antle2008-eh,
@@ -2648,7 +2651,7 @@
   pages    = "155--166",
   month    =  apr,
   year     =  2008,
-  keywords = "Optional;Course Assignment;Week 6"
+  keywords = "Optional;Course Assignment;Week 6\_ Ideation and creative design"
 }
 
 @INPROCEEDINGS{Wright2008-hl,
@@ -2677,7 +2680,8 @@
   publisher       = "ACM Press",
   year            =  2008,
   address         = "New York, New York, USA",
-  keywords        = "Essential;Course Assignment;Week 6",
+  keywords        = "Essential;Course Assignment;Week 6\_ Ideation and creative
+                     design",
   conference      = "Proceeding of the twenty-sixth annual CHI conference",
   location        = "Florence, Italy"
 }
@@ -2777,7 +2781,7 @@
   address   = "New York, NY, USA",
   keywords  = "persona usage, interaction design, personas, persona
                development, theory and practice;Optional;Course Assignment;Week
-               6",
+               6\_ Ideation and creative design",
   location  = "Lund, Sweden"
 }
 
@@ -2811,7 +2815,8 @@
   address   = "New York, NY, USA",
   keywords  = "reflection, experience-centered design, self, probes,
                personhood, empathy, memory, reminiscence,
-               dementia;Optional;Course Assignment;Week 6",
+               dementia;Optional;Course Assignment;Week 6\_ Ideation and
+               creative design",
   location  = "Paris, France"
 }
 
@@ -2841,7 +2846,7 @@
   month     =  apr,
   year      =  2020,
   address   = "New York, NY, USA",
-  keywords  = "Optional;Course Assignment;Week 6"
+  keywords  = "Optional;Course Assignment;Week 6\_ Ideation and creative design"
 }
 
 @ARTICLE{Wyche2020-xa,
@@ -2877,7 +2882,8 @@
   year      =  2020,
   address   = "New York, NY, USA",
   keywords  = "speculative design, design, cultural probes, Kenya, ICTD, HCI4D,
-               design workbooks;Optional;Course Assignment;Week 6"
+               design workbooks;Optional;Course Assignment;Week 6\_ Ideation
+               and creative design"
 }
 
 @INPROCEEDINGS{Boehner2007-ux,
@@ -2904,7 +2910,7 @@
   year      =  2007,
   address   = "New York, NY, USA",
   keywords  = "reflective HCI, probes, cultural probes;Optional;Course
-               Assignment;Week 6",
+               Assignment;Week 6\_ Ideation and creative design",
   location  = "San Jose, California, USA"
 }
 
@@ -2922,7 +2928,7 @@
   month     =  sep,
   year      =  2004,
   address   = "New York, NY, USA",
-  keywords  = "Optional;Course Assignment;Week 6"
+  keywords  = "Optional;Course Assignment;Week 6\_ Ideation and creative design"
 }
 
 @INPROCEEDINGS{Bodker2012-ex,
@@ -2956,7 +2962,7 @@
   year      =  2012,
   address   = "New York, NY, USA",
   keywords  = "participation, design, personas, eGovernment;Optional;Course
-               Assignment;Week 6",
+               Assignment;Week 6\_ Ideation and creative design",
   location  = "Roskilde, Denmark"
 }
 
@@ -6855,6 +6861,36 @@
   month     =  jun,
   year      =  2002,
   address   = "New York, NY, USA",
-  keywords  = "Optional;Course Assignment;Week 6",
+  keywords  = "Optional;Course Assignment;Week 6\_ Ideation and creative design",
   location  = "London, England"
+}
+
+@INPROCEEDINGS{Giaccardi2015-lz,
+  title     = "Foundations of Materials Experience: An Approach for {HCI}",
+  booktitle = "Proceedings of the 33rd Annual {ACM} Conference on Human Factors
+               in Computing Systems",
+  author    = "Giaccardi, Elisa and Karana, Elvin",
+  abstract  = "A growing number of HCI scholars have started to take
+               materiality as an entry point for acquiring a deeper
+               understanding of the possibilities and constraints of design.
+               Steadily moving beyond a distinction between the physical and
+               the digital, a few have also started to look at materials as
+               part of the unfolding of social and cultural practices. Yet, to
+               date, relatively little is known about how these practices
+               develop within the situated experience of materials, and how
+               this situational whole can be supported by design. By
+               contributing to both growing materiality scholarship and
+               emerging practice-oriented approaches in HCI, this paper
+               articulates a framework of materials experience that discusses
+               how materials shape ways of doing and ultimately, practice, and
+               how this is rooted in the experience of those materials.",
+  publisher = "Association for Computing Machinery",
+  pages     = "2447--2456",
+  series    = "CHI '15",
+  month     =  apr,
+  year      =  2015,
+  address   = "New York, NY, USA",
+  keywords  = "practice, interaction design, theory, materials experience,
+               materiality",
+  location  = "Seoul, Republic of Korea"
 }
