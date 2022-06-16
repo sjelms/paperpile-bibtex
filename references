@@ -7151,3 +7151,34 @@
   year      =  2014,
   keywords  = "Week 3\_ Design approaches and processes"
 }
+
+@ARTICLE{Vasalou2021-tv,
+  title    = "On power and participation: Reflections from design with
+              developmentally diverse children",
+  author   = "Vasalou, Asimina and Ibrahim, Seray and Clarke, Michael and
+              Griffiths, Yvonne",
+  abstract = "The involvement of developmentally diverse children in design has
+              been driven by pragmatic concerns and also an emancipatory aim to
+              give children voice and agency over decisions. However, little
+              attention has been given to how participation and power are
+              performed in the early exploratory phase of design prior to overt
+              decision points. Our research seeks to contribute to this gap
+              with two separate case studies of design involvement, one with
+              dyslexic children and the other with children with cerebral
+              palsy. An analysis of children's and researchers' power dynamics
+              during design sessions supports us to understand the contextual
+              factors shaping how the different participants exercised power;
+              the outcomes of this power and to reflect on how these moments
+              shaped the design agenda. Our work identifies a number of
+              challenges and raises new questions that may guide future
+              reflexive participatory practice with developmentally diverse
+              children.",
+  journal  = "International Journal of Child-Computer Interaction",
+  volume   =  27,
+  pages    = "100241",
+  month    =  mar,
+  year     =  2021,
+  keywords = "Participatory design; Developmentally diverse children; Power;
+              Participation; Dyslexia; Cerebral palsy;Week 3\_ Design
+              approaches and processes"
+}
