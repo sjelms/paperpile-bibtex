@@ -6895,6 +6895,40 @@
   location  = "Seoul, Republic of Korea"
 }
 
+@INPROCEEDINGS{Karimi2017-zm,
+  title     = "The community garden hack: participatory experiments in
+               facilitating primary school teacher's appropriation of
+               technology",
+  booktitle = "Proceedings of the 29th Australian Conference on
+               {Computer-Human} Interaction",
+  author    = "Karimi, Arafeh and Worthy, Peter and McInnes, Paul and
+               Bod{\'e}n, Marie and Matthews, Ben and Viller, Stephen",
+  abstract  = "1As technology increasingly pervades the daily life of teachers
+               and students, finding sustainable ways to successfully integrate
+               innovative technologies in classrooms remains a challenge. This
+               paper reports on our experiences designing and running workshops
+               with (and for) teachers. Collectively, the aims of the workshops
+               were geared ultimately at encouraging teachers to work with
+               technologies in more `designerly' ways in the classroom, i.e.
+               looking at technology as a working material, rather than as an
+               off-the-shelf tool for certain activities, educational content
+               or as an isolated part of the curriculum. We present a case
+               study of one of the workshops, the Community Garden, designed in
+               the format of a hackathon. We report on how teachers adopted the
+               workshop concept, appropriated the technologies and, more
+               interestingly, how six months later they appropriated the design
+               process as a pedagogy to engage students in their learning.",
+  publisher = "Association for Computing Machinery",
+  pages     = "143--151",
+  series    = "OZCHI '17",
+  month     =  nov,
+  year      =  2017,
+  address   = "New York, NY, USA",
+  keywords  = "computational thinking, participatory design, hackathon, primary
+               education, makerspace, professional development",
+  location  = "Brisbane, Queensland, Australia"
+}
+
 @ARTICLE{Buechley2012-mx,
   title     = "Crafting technology: Reimagining the processes, materials, and
                cultures of electronics",
