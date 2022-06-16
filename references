@@ -2976,7 +2976,7 @@
   month     =  jul,
   year      =  2011,
   address   = "New York, NY, USA",
-  keywords  = "Week 1\_ Design and technology"
+  keywords  = "Course Assignment;Week 1\_ Design and technology"
 }
 
 @MISC{Tholander2012-au,
@@ -3294,7 +3294,7 @@
   pages     = "28--34",
   month     =  apr,
   year      =  2018,
-  keywords  = "Week 1\_ Design and technology",
+  keywords  = "Course Assignment;Week 1\_ Design and technology",
   copyright = "http://www.acm.org/publications/policies/copyright\_policy\#Background",
   language  = "en"
 }
@@ -3321,8 +3321,8 @@
   year      =  2018,
   address   = "New York, NY, USA",
   keywords  = "documentary, making, diversity, inclusivity, makers,
-               participatory action research, ethnography, open design;Week 1\_
-               Design and technology",
+               participatory action research, ethnography, open design;Course
+               Assignment;Week 1\_ Design and technology",
   location  = "Hong Kong, China"
 }
 
@@ -4000,7 +4000,7 @@
   number    =  3,
   pages     = "126--200",
   year      =  2017,
-  keywords  = "Week 1\_ Design and technology"
+  keywords  = "Course Assignment;Week 1\_ Design and technology"
 }
 
 @ARTICLE{Randall_Davis1993-gk,
