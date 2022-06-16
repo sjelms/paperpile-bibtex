@@ -2935,42 +2935,6 @@
   language  = "en"
 }
 
-@ARTICLE{Renwick2017-fp,
-  title    = "Critical Health Literacy in {3D}",
-  author   = "Renwick, Kerry",
-  abstract = "Literacy is increasingly being thought of as a social practice
-              with its use and understandings being context dependent. As an
-              essential element within and of education, literacy offers
-              possibilities for engaging in everyday life. Health literacy has
-              emerged as a means to develop health-promoting practices that has
-              meaning in social contexts. Reflecting biomedical interests, the
-              focus of health literacy is predominately constructed as a
-              neutral and technical process that has specific meaning and
-              practice, positioning it as functional literacy. This paper
-              presents one approach to critical health literacy based on a
-              multidimension (3D) approach with literacy as a situated social
-              practice. The 3D model will be described and then the model's
-              application to health literacy will be explored. The use of the
-              3D model to build critical health literacy challenges the
-              biomedical approach to health literacy as solely functional
-              literacy. Functional literacy is not sufficient for a person to
-              build a critical social consciousness and illuminate how social
-              determinates of health create inequitable health or how it could
-              be ameliorated. Social justice and equity are presented as
-              fundamental prerequisites for health. Working with young people
-              in context of schools, the reciprocal relationship between health
-              and education offers space for possibilities around literacy
-              skills and understanding about what creates health. The same
-              space can enable young people to see opportunities for
-              empowerment to shape and recreate their social reality. Health
-              literacy for social justice and equity, therefore, has to include
-              possibilities for understanding and responding to sociocultural
-              knowing.",
-  journal  = "Frontiers in Education",
-  volume   =  2,
-  year     =  2017
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Suppes1969-kb,
@@ -7309,4 +7273,41 @@
   year      =  2011,
   address   = "New York, NY, USA",
   keywords  = "Course Assignment;Week 1\_ Design and technology"
+}
+
+@ARTICLE{Renwick2017-fp,
+  title    = "Critical Health Literacy in {3D}",
+  author   = "Renwick, Kerry",
+  abstract = "Literacy is increasingly being thought of as a social practice
+              with its use and understandings being context dependent. As an
+              essential element within and of education, literacy offers
+              possibilities for engaging in everyday life. Health literacy has
+              emerged as a means to develop health-promoting practices that has
+              meaning in social contexts. Reflecting biomedical interests, the
+              focus of health literacy is predominately constructed as a
+              neutral and technical process that has specific meaning and
+              practice, positioning it as functional literacy. This paper
+              presents one approach to critical health literacy based on a
+              multidimension (3D) approach with literacy as a situated social
+              practice. The 3D model will be described and then the model's
+              application to health literacy will be explored. The use of the
+              3D model to build critical health literacy challenges the
+              biomedical approach to health literacy as solely functional
+              literacy. Functional literacy is not sufficient for a person to
+              build a critical social consciousness and illuminate how social
+              determinates of health create inequitable health or how it could
+              be ameliorated. Social justice and equity are presented as
+              fundamental prerequisites for health. Working with young people
+              in context of schools, the reciprocal relationship between health
+              and education offers space for possibilities around literacy
+              skills and understanding about what creates health. The same
+              space can enable young people to see opportunities for
+              empowerment to shape and recreate their social reality. Health
+              literacy for social justice and equity, therefore, has to include
+              possibilities for understanding and responding to sociocultural
+              knowing.",
+  journal  = "Frontiers in Education",
+  volume   =  2,
+  year     =  2017,
+  keywords = "Education"
 }
