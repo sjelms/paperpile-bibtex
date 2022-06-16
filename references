@@ -2567,7 +2567,7 @@
   month    =  nov,
   year     =  2011,
   keywords = "reasoning; framing; problem solving; design
-              practice;Optional;Week 6"
+              practice;Optional;Course Assignment;Week 6"
 }
 
 @ARTICLE{Hey2007-au,
@@ -2597,7 +2597,7 @@
   pages     = "79--99",
   month     =  jan,
   year      =  2007,
-  keywords  = "Essential;Week 6"
+  keywords  = "Essential;Course Assignment;Week 6"
 }
 
 @ARTICLE{Paton2011-eb,
@@ -2624,7 +2624,7 @@
   month    =  nov,
   year     =  2011,
   keywords = "framing; design strategy; design practice; communication; graphic
-              design;Recommended;Week 6"
+              design;Recommended;Course Assignment;Week 6"
 }
 
 @ARTICLE{Antle2008-eh,
@@ -2648,7 +2648,7 @@
   pages    = "155--166",
   month    =  apr,
   year     =  2008,
-  keywords = "Optional;Week 6"
+  keywords = "Optional;Course Assignment;Week 6"
 }
 
 @INPROCEEDINGS{Wright2008-hl,
@@ -2677,25 +2677,9 @@
   publisher       = "ACM Press",
   year            =  2008,
   address         = "New York, New York, USA",
-  keywords        = "Essential;Week 6",
+  keywords        = "Essential;Course Assignment;Week 6",
   conference      = "Proceeding of the twenty-sixth annual CHI conference",
   location        = "Florence, Italy"
-}
-
-@INPROCEEDINGS{Nielsen2002-no,
-  title     = "From user to character: an investigation into user-descriptions
-               in scenarios",
-  booktitle = "Proceedings of the 4th conference on Designing interactive
-               systems: processes, practices, methods, and techniques",
-  author    = "Nielsen, Lene",
-  publisher = "Association for Computing Machinery",
-  pages     = "99--104",
-  series    = "DIS '02",
-  month     =  jun,
-  year      =  2002,
-  address   = "New York, NY, USA",
-  keywords  = "Optional;Week 6",
-  location  = "London, England"
 }
 
 @ARTICLE{Carbonell1970-ty,
@@ -2792,7 +2776,8 @@
   year      =  2008,
   address   = "New York, NY, USA",
   keywords  = "persona usage, interaction design, personas, persona
-               development, theory and practice;Optional;Week 6",
+               development, theory and practice;Optional;Course Assignment;Week
+               6",
   location  = "Lund, Sweden"
 }
 
@@ -2826,7 +2811,7 @@
   address   = "New York, NY, USA",
   keywords  = "reflection, experience-centered design, self, probes,
                personhood, empathy, memory, reminiscence,
-               dementia;Optional;Week 6",
+               dementia;Optional;Course Assignment;Week 6",
   location  = "Paris, France"
 }
 
@@ -2856,7 +2841,7 @@
   month     =  apr,
   year      =  2020,
   address   = "New York, NY, USA",
-  keywords  = "Optional;Week 6"
+  keywords  = "Optional;Course Assignment;Week 6"
 }
 
 @ARTICLE{Wyche2020-xa,
@@ -2892,7 +2877,7 @@
   year      =  2020,
   address   = "New York, NY, USA",
   keywords  = "speculative design, design, cultural probes, Kenya, ICTD, HCI4D,
-               design workbooks;Optional;Week 6"
+               design workbooks;Optional;Course Assignment;Week 6"
 }
 
 @INPROCEEDINGS{Boehner2007-ux,
@@ -2918,7 +2903,8 @@
   month     =  apr,
   year      =  2007,
   address   = "New York, NY, USA",
-  keywords  = "reflective HCI, probes, cultural probes;Optional;Week 6",
+  keywords  = "reflective HCI, probes, cultural probes;Optional;Course
+               Assignment;Week 6",
   location  = "San Jose, California, USA"
 }
 
@@ -2936,7 +2922,7 @@
   month     =  sep,
   year      =  2004,
   address   = "New York, NY, USA",
-  keywords  = "Optional;Week 6"
+  keywords  = "Optional;Course Assignment;Week 6"
 }
 
 @INPROCEEDINGS{Bodker2012-ex,
@@ -2969,7 +2955,8 @@
   month     =  aug,
   year      =  2012,
   address   = "New York, NY, USA",
-  keywords  = "participation, design, personas, eGovernment;Optional;Week 6",
+  keywords  = "participation, design, personas, eGovernment;Optional;Course
+               Assignment;Week 6",
   location  = "Roskilde, Denmark"
 }
 
@@ -6854,4 +6841,20 @@
   abstract = "A first report from the AI Now Institute pulling together key
               ethical considerations in relation to AI.",
   keywords = "Course Assignment;AIEd [CCME0123]"
+}
+
+@INPROCEEDINGS{Nielsen2002-no,
+  title     = "From user to character: an investigation into user-descriptions
+               in scenarios",
+  booktitle = "Proceedings of the 4th conference on Designing interactive
+               systems: processes, practices, methods, and techniques",
+  author    = "Nielsen, Lene",
+  publisher = "Association for Computing Machinery",
+  pages     = "99--104",
+  series    = "DIS '02",
+  month     =  jun,
+  year      =  2002,
+  address   = "New York, NY, USA",
+  keywords  = "Optional;Course Assignment;Week 6",
+  location  = "London, England"
 }
