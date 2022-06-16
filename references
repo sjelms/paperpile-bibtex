@@ -7205,7 +7205,8 @@
   year      =  2018,
   address   = "New York, NY, USA",
   keywords  = "documentary, making, diversity, inclusivity, makers,
-               participatory action research, ethnography, open design",
+               participatory action research, ethnography, open design;Week 1\_
+               Design and technology",
   location  = "Hong Kong, China"
 }
 
@@ -7233,6 +7234,7 @@
   pages     = "28--34",
   month     =  apr,
   year      =  2018,
+  keywords  = "Week 1\_ Design and technology",
   copyright = "http://www.acm.org/publications/policies/copyright\_policy\#Background",
   language  = "en"
 }
@@ -7247,5 +7249,6 @@
   pages     = "50--57",
   month     =  jul,
   year      =  2011,
-  address   = "New York, NY, USA"
+  address   = "New York, NY, USA",
+  keywords  = "Week 1\_ Design and technology"
 }
