@@ -7356,12 +7356,13 @@
 }
 
 @PHDTHESIS{Ruttenberg2020-pr,
-  title  = "The {SensorAble} Project: A multi-sensory, assistive technology
-            that filters distractions and increases focus for individuals
-            diagnosed with Autism Spectrum Condition",
-  author = "Ruttenberg, David Paul",
-  editor = "Porayska-Pomsta, Ka{\'s}ka and White, Sarah and Holmes, Joni",
-  month  =  jun,
-  year   =  2020,
-  school = "University College London"
+  title    = "The {SensorAble} Project: A multi-sensory, assistive technology
+              that filters distractions and increases focus for individuals
+              diagnosed with Autism Spectrum Condition",
+  author   = "Ruttenberg, David Paul",
+  editor   = "Porayska-Pomsta, Ka{\'s}ka and White, Sarah and Holmes, Joni",
+  month    =  jun,
+  year     =  2020,
+  school   = "University College London",
+  keywords = "UCL"
 }
