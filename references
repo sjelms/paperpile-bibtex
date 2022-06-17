@@ -7369,10 +7369,11 @@
 }
 
 @PHDTHESIS{Ibrahim2016-sc,
-  title  = "Designing Communication Technologies With Children Who Have Severe
-            Speech and Physical Impairments: a Focus on Values",
-  author = "Ibrahim, Seray",
-  month  =  oct,
-  year   =  2016,
-  school = "University College London"
+  title    = "Designing Communication Technologies With Children Who Have
+              Severe Speech and Physical Impairments: a Focus on Values",
+  author   = "Ibrahim, Seray",
+  month    =  oct,
+  year     =  2016,
+  school   = "University College London",
+  keywords = "Upgrade Research Proposals"
 }
