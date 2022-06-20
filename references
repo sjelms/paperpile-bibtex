@@ -98,7 +98,7 @@
   publisher = "Springer Berlin Heidelberg",
   pages     = "1198--1207",
   year      =  2006,
-  keywords  = "AR/MR"
+  keywords  = "XR/MR"
 }
 
 @INCOLLECTION{Rebolledo-Mendez2011-mg,
@@ -252,7 +252,7 @@
   publisher = "Springer Berlin Heidelberg",
   pages     = "167--178",
   year      =  2008,
-  keywords  = "AR/MR"
+  keywords  = "XR/MR"
 }
 
 @INPROCEEDINGS{Do-Lenh2012-ug,
@@ -277,7 +277,7 @@
   publisher = "Springer Berlin Heidelberg",
   pages     = "65--78",
   year      =  2012,
-  keywords  = "AR/MR"
+  keywords  = "XR/MR"
 }
 
 @INCOLLECTION{Yudelson2013-yg,
@@ -314,7 +314,7 @@
   publisher = "Springer Berlin Heidelberg",
   pages     = "542--551",
   year      =  2013,
-  keywords  = "Intelligent Tutoring Systems (ITS);AR/MR;Frontiers [2022]"
+  keywords  = "Intelligent Tutoring Systems (ITS);XR/MR;Frontiers [2022]"
 }
 
 @INCOLLECTION{Dede2017-ny,
@@ -362,7 +362,7 @@
   pages     = "219--236",
   year      =  2017,
   address   = "Singapore",
-  keywords  = "ePub;AR/MR;@\_Mark Up;Cited for Frontiers"
+  keywords  = "ePub;XR/MR;@\_Mark Up;Cited for Frontiers"
 }
 
 @INCOLLECTION{Shute2017-lm,
@@ -373,7 +373,7 @@
   pages     = "71--87",
   year      =  2017,
   address   = "Singapore",
-  keywords  = "AR/MR;ePub;EPubs Books"
+  keywords  = "XR/MR;ePub;EPubs Books"
 }
 
 @INCOLLECTION{Porayska-Pomsta2019-zv,
@@ -524,7 +524,7 @@
   pages     = "163--174",
   month     =  nov,
   year      =  2006,
-  keywords  = "AR/MR;UCL;§New Literature;+Notion",
+  keywords  = "XR/MR;UCL;§New Literature;+Notion",
   language  = "en"
 }
 
@@ -1238,7 +1238,7 @@
   pages    = "150--162",
   month    =  feb,
   year     =  2018,
-  keywords = "§New Literature;AR/MR;AEC;Zotero Import (Feb 22);My Library;Game
+  keywords = "§New Literature;XR/MR;AEC;Zotero Import (Feb 22);My Library;Game
               Engine"
 }
 
@@ -1333,7 +1333,7 @@
   keywords  = "Intelligent tutoring systems; Computers and learning; Augmented
                reality; Human computer interaction; Psychomotor learning;
                Kinaesthetic learning; Experiential learning;Intelligent
-               Tutoring Systems (ITS);AR/MR;@\_Mark Up;Cited for
+               Tutoring Systems (ITS);XR/MR;@\_Mark Up;Cited for
                Frontiers;Frontiers [2022]"
 }
 
@@ -1414,7 +1414,7 @@
   pages     = "557--569",
   month     =  oct,
   year      =  2013,
-  keywords  = "AR/MR;HCI;@\_Mark Up",
+  keywords  = "XR/MR;HCI;@\_Mark Up",
   language  = "en"
 }
 
@@ -2606,7 +2606,7 @@
   pages    = "765--781",
   month    =  nov,
   year     =  2016,
-  keywords = "AEC;AR/MR;@\_Mark Up;+Notion;Game Engine \_ AR-VR;Frontiers
+  keywords = "AEC;XR/MR;@\_Mark Up;+Notion;Game Engine \_ AR-VR;Frontiers
               [2022]"
 }
 
@@ -2726,7 +2726,7 @@
   publisher       = "IEEE",
   month           =  nov,
   year            =  2008,
-  keywords        = "Intelligent Tutoring Systems (ITS);AR/MR;@\_Mark
+  keywords        = "Intelligent Tutoring Systems (ITS);XR/MR;@\_Mark
                      Up;+Notion;Frontiers [2022]",
   conference      = "2008 20th IEEE International Conference on Tools with
                      Artificial Intelligence (ICTAI)",
@@ -2871,7 +2871,7 @@
   pages     = "66--69",
   month     =  jan,
   year      =  2009,
-  keywords  = "Intelligent Tutoring Systems (ITS);AR/MR;@\_Mark
+  keywords  = "Intelligent Tutoring Systems (ITS);XR/MR;@\_Mark
                Up;Completed;Cited for Frontiers;Frontiers [2022]",
   language  = "en"
 }
@@ -3104,7 +3104,7 @@
   publisher       = "ACM Press",
   year            =  2012,
   address         = "New York, New York, USA",
-  keywords        = "AR/MR;@\_Mark Up;Cited for Frontiers",
+  keywords        = "XR/MR;@\_Mark Up;Cited for Frontiers",
   conference      = "the 7th Nordic Conference",
   location        = "Copenhagen, Denmark"
 }
@@ -3444,7 +3444,7 @@
   month           =  nov,
   year            =  2019,
   address         = "New York, NY, USA",
-  keywords        = "AR/MR;HCI",
+  keywords        = "XR/MR;HCI",
   copyright       = "http://www.acm.org/publications/policies/copyright\_policy\#Background",
   conference      = "VRCAI '19: The 17th International Conference on
                      Virtual-Reality Continuum and its Applications in Industry",
@@ -3756,7 +3756,7 @@
   pages     = "331--343",
   month     =  oct,
   year      =  2017,
-  keywords  = "AR/MR;Cited for Frontiers;Frontiers [2022]"
+  keywords  = "XR/MR;Cited for Frontiers;Frontiers [2022]"
 }
 
 @ARTICLE{Cuendet2014-vs,
@@ -4577,7 +4577,7 @@
   author    = "Cuendet, S{\'e}bastien",
   publisher = "Lausanne, EPFL",
   year      =  2013,
-  keywords  = "AR/MR"
+  keywords  = "XR/MR"
 }
 
 @ARTICLE{Ryan_SJd_Baker2009-hy,
@@ -4640,7 +4640,7 @@
   publisher = "IntechOpen",
   month     =  may,
   year      =  2020,
-  keywords  = "§New Literature;AEC;AR/MR"
+  keywords  = "§New Literature;AEC;XR/MR"
 }
 
 @ARTICLE{Gobert_undated-nr,
@@ -4723,7 +4723,7 @@
                Education …",
   publisher = "gifttutoring.org",
   year      =  2015,
-  keywords  = "Intelligent Tutoring Systems (ITS);AR/MR;@\_Mark Up;Cited for
+  keywords  = "Intelligent Tutoring Systems (ITS);XR/MR;@\_Mark Up;Cited for
                Frontiers;Frontiers [2022]"
 }
 
@@ -4896,7 +4896,7 @@
   pages     = "967--974",
   month     =  may,
   year      =  2019,
-  keywords  = "§New Literature;AR/MR;AEC;International Association for
+  keywords  = "§New Literature;XR/MR;AEC;International Association for
                Automation and Robotics in Construction (IAARC)"
 }
 
@@ -5818,7 +5818,7 @@
   year         =  2019,
   howpublished = "\url{https://news.kennesaw.edu/stories/2019/computing-construction-vr-haskell.php}",
   note         = "Accessed: 2022-4-21",
-  keywords     = "AEC;AR/MR;Website",
+  keywords     = "AEC;XR/MR;Website",
   language     = "en"
 }
 
@@ -5907,7 +5907,7 @@
   publisher = "peer.asee.org",
   pages     = "11--493",
   year      =  2006,
-  keywords  = "Workplace Learning;AR/MR;Knowledge - Skill Acquisition"
+  keywords  = "Workplace Learning;XR/MR;Knowledge - Skill Acquisition"
 }
 
 @BOOK{Woolf2010-is,
@@ -6411,7 +6411,7 @@
                applicable guidelines, and over 300 additional references.",
   publisher = "Association for Computing Machinery",
   year      =  2016,
-  keywords  = "AR/MR",
+  keywords  = "XR/MR;ePub",
   language  = "en"
 }
 
@@ -7028,7 +7028,7 @@
   pages     = "20--25",
   month     =  may,
   year      =  2019,
-  keywords  = "§New Literature;AR/MR;International Association for Automation
+  keywords  = "§New Literature;XR/MR;International Association for Automation
                and Robotics in Construction (IAARC)"
 }
 
@@ -7132,7 +7132,7 @@
   publisher = "researchgate.net",
   pages     = "185",
   year      =  2016,
-  keywords  = "AR/MR;Cited for Frontiers;Frontiers [2022]"
+  keywords  = "XR/MR;Cited for Frontiers;Frontiers [2022]"
 }
 
 @MISC{Solman2021-vc,
