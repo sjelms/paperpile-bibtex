@@ -2928,51 +2928,6 @@
   language  = "en"
 }
 
-@ARTICLE{Chun_Tie2019-xa,
-  title     = "Grounded theory research: A design framework for novice
-               researchers",
-  author    = "Chun Tie, Ylona and Birks, Melanie and Francis, Karen",
-  abstract  = "BACKGROUND: Grounded theory is a well-known methodology employed
-               in many research studies. Qualitative and quantitative data
-               generation techniques can be used in a grounded theory study.
-               Grounded theory sets out to discover or construct theory from
-               data, systematically obtained and analysed using comparative
-               analysis. While grounded theory is inherently flexible, it is a
-               complex methodology. Thus, novice researchers strive to
-               understand the discourse and the practical application of
-               grounded theory concepts and processes. OBJECTIVE: The aim of
-               this article is to provide a contemporary research framework
-               suitable to inform a grounded theory study. RESULT: This article
-               provides an overview of grounded theory illustrated through a
-               graphic representation of the processes and methods employed in
-               conducting research using this methodology. The framework is
-               presented as a diagrammatic representation of a research design
-               and acts as a visual guide for the novice grounded theory
-               researcher. DISCUSSION: As grounded theory is not a linear
-               process, the framework illustrates the interplay between the
-               essential grounded theory methods and iterative and comparative
-               actions involved. Each of the essential methods and processes
-               that underpin grounded theory are defined in this article.
-               CONCLUSION: Rather than an engagement in philosophical
-               discussion or a debate of the different genres that can be used
-               in grounded theory, this article illustrates how a framework for
-               a research study design can be used to guide and inform the
-               novice nurse researcher undertaking a study using grounded
-               theory. Research findings and recommendations can contribute to
-               policy or knowledge development, service provision and can
-               reform thinking to initiate change in the substantive area of
-               inquiry.",
-  journal   = "SAGE Open Med.",
-  publisher = "SAGE Publications",
-  volume    =  7,
-  pages     = "2050312118822927",
-  month     =  jan,
-  year      =  2019,
-  keywords  = "Framework; grounded theory; grounded theory methods; novice
-               researcher; study design",
-  language  = "en"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Suppes1969-kb,
@@ -7488,4 +7443,52 @@
   conference = "FAccT '22: 2022 ACM Conference on Fairness, Accountability, and
                 Transparency",
   location   = "Seoul Republic of Korea"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Chun_Tie2019-xa,
+  title     = "Grounded theory research: A design framework for novice
+               researchers",
+  author    = "Chun Tie, Ylona and Birks, Melanie and Francis, Karen",
+  abstract  = "BACKGROUND: Grounded theory is a well-known methodology employed
+               in many research studies. Qualitative and quantitative data
+               generation techniques can be used in a grounded theory study.
+               Grounded theory sets out to discover or construct theory from
+               data, systematically obtained and analysed using comparative
+               analysis. While grounded theory is inherently flexible, it is a
+               complex methodology. Thus, novice researchers strive to
+               understand the discourse and the practical application of
+               grounded theory concepts and processes. OBJECTIVE: The aim of
+               this article is to provide a contemporary research framework
+               suitable to inform a grounded theory study. RESULT: This article
+               provides an overview of grounded theory illustrated through a
+               graphic representation of the processes and methods employed in
+               conducting research using this methodology. The framework is
+               presented as a diagrammatic representation of a research design
+               and acts as a visual guide for the novice grounded theory
+               researcher. DISCUSSION: As grounded theory is not a linear
+               process, the framework illustrates the interplay between the
+               essential grounded theory methods and iterative and comparative
+               actions involved. Each of the essential methods and processes
+               that underpin grounded theory are defined in this article.
+               CONCLUSION: Rather than an engagement in philosophical
+               discussion or a debate of the different genres that can be used
+               in grounded theory, this article illustrates how a framework for
+               a research study design can be used to guide and inform the
+               novice nurse researcher undertaking a study using grounded
+               theory. Research findings and recommendations can contribute to
+               policy or knowledge development, service provision and can
+               reform thinking to initiate change in the substantive area of
+               inquiry.",
+  journal   = "SAGE Open Med.",
+  publisher = "SAGE Publications",
+  volume    =  7,
+  pages     = "2050312118822927",
+  month     =  jan,
+  year      =  2019,
+  keywords  = "Framework; grounded theory; grounded theory methods; novice
+               researcher; study design;+Notion;§New Literature;Research
+               Methods",
+  language  = "en"
 }
