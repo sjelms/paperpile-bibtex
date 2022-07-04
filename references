@@ -7883,18 +7883,6 @@
   keywords  = "RDL [CCME0041]"
 }
 
-@ARTICLE{Levitt_undated-st,
-  title    = "Journal Article Reporting Standards for Qualitative Primary,
-              Qualitative {Meta-Analytic}, and Mixed Methods Research in
-              Psychology: The {APA} Publications and Communications Board Task
-              Force Report",
-  author   = "Levitt, H M and Bamberg, M and Creswell, J W and Frost, D M and
-              Josselson, R and Suarez-Orozco, C",
-  journal  = "Am. Psychol.",
-  volume   =  73,
-  keywords = "RDL [CCME0041]"
-}
-
 @ARTICLE{Flyvbjerg2006-vk,
   title    = "Five Misunderstandings About {Case-Study} Research, Qualitative
               Inquiry,",
@@ -8250,4 +8238,50 @@
   year      =  2006,
   keywords  = "RDL [CCME0041]",
   language  = "en"
+}
+
+@ARTICLE{Levitt2018-st,
+  title    = "Journal article reporting standards for qualitative primary,
+              qualitative meta-analytic, and mixed methods research in
+              psychology: The {APA} Publications and Communications Board task
+              force report",
+  author   = "Levitt, Heidi M and Bamberg, Michael and Creswell, John W and
+              Frost, David M and Josselson, Ruthellen and Su{\'a}rez-Orozco,
+              Carola",
+  abstract = "The American Psychological Association Publications and
+              Communications Board Working Group on Journal Article Reporting
+              Standards for Qualitative Research (JARS-Qual Working Group) was
+              charged with examining the state of journal article reporting
+              standards as they applied to qualitative research and with
+              generating recommendations for standards that would be
+              appropriate for a wide range of methods within the discipline of
+              psychology. These standards describe what should be included in a
+              research report to enable and facilitate the review process. This
+              publication marks a historical moment-the first inclusion of
+              qualitative research in APA Style, which is the basis of both the
+              Publication Manual of the American Psychological Association
+              (APA, 2010) and APA Style CENTRAL, an online program to support
+              APA Style. In addition to the general JARS-Qual guidelines, the
+              Working Group has developed standards for both qualitative
+              meta-analysis and mixed methods research. The reporting standards
+              were developed for psychological qualitative research but may
+              hold utility for a broad range of social sciences. They honor a
+              range of qualitative traditions, methods, and reporting styles.
+              The Working Group was composed of a group of researchers with
+              backgrounds in varying methods, research topics, and approaches
+              to inquiry. In this article, they present these standards and
+              their rationale, and they detail the ways that the standards
+              differ from the quantitative research reporting standards. They
+              describe how the standards can be used by authors in the process
+              of writing qualitative research for submission as well as by
+              reviewers and editors in the process of reviewing research.
+              (PsycINFO Database Record",
+  journal  = "Am. Psychol.",
+  volume   =  73,
+  number   =  1,
+  pages    = "26--46",
+  month    =  jan,
+  year     =  2018,
+  keywords = "RDL [CCME0041]",
+  language = "en"
 }
