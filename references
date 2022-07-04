@@ -909,7 +909,7 @@
   pages     = "23--50",
   year      =  2019,
   address   = "Cham, Switzerland",
-  keywords  = "Statistics;Methods"
+  keywords  = "Statistics;Research Methods;Methods"
 }
 
 @BOOK{dummy_key,
@@ -7399,7 +7399,7 @@
   year     =  2020,
   note     = "Upgrade Research Proposal",
   school   = "University College London",
-  keywords = "UCL;Upgrade Research Proposals"
+  keywords = "UCL;UCL Upgrade Research Proposals"
 }
 
 @PHDTHESIS{Ibrahim2016-sc,
@@ -7410,7 +7410,7 @@
   year     =  2016,
   note     = "Upgrade Research Proposal",
   school   = "University College London",
-  keywords = "UCL;Upgrade Research Proposals"
+  keywords = "UCL;UCL Upgrade Research Proposals"
 }
 
 @INPROCEEDINGS{Costanza-Chock2022-sz,
