@@ -7519,15 +7519,6 @@
   keywords = "RDL [CCME0041]"
 }
 
-@ARTICLE{Van_Mechelen2020-xu,
-  title    = "18 Years of ethics in child-computer interaction research |
-              Proceedings of the Interaction Design and Children Conference",
-  author   = "Van Mechelen, M and Baykal, G E and Dindler, C and Eriksson, E
-              and Iversen, O S",
-  year     =  2020,
-  keywords = "RDL [CCME0041]"
-}
-
 @ARTICLE{noauthor_undated-oh,
   title    = "Arts-based research by Shaun {McNiff}",
   keywords = "RDL [CCME0041]"
@@ -8412,4 +8403,38 @@
   year      =  2007,
   keywords  = "RDL [CCME0041]",
   language  = "en"
+}
+
+@INPROCEEDINGS{Van_Mechelen2020-xu,
+  title     = "18 Years of ethics in child-computer interaction research: a
+               systematic literature review",
+  booktitle = "Proceedings of the Interaction Design and Children Conference",
+  author    = "Van Mechelen, Maarten and Baykal, G{\"o}k{\c c}e Elif and
+               Dindler, Christian and Eriksson, Eva and Iversen, Ole Sejer",
+  abstract  = "Recent years have seen growing interest in 'ethics' within the
+               Child-Computer Interaction (CCI) community. In this paper, we
+               take stock of 18 years of CCI research by conducting a
+               systematic literature study exploring how and to what extent
+               ethics has been dealt with in the community's leading venues:
+               the Interaction Design and Children (IDC) conference and the
+               International Journal of Child-Computer Interaction (CCI).
+               Searching all papers in the IDC conference proceedings and
+               IJCCI, 157 papers were found that use the word stem 'ethic*'.
+               Based on our analysis of these papers, our study demonstrates
+               that while ethics is frequently mentioned, the literature
+               remains underdeveloped in a number of areas including definition
+               and theoretical basis, the reporting of formal ethical approval
+               procedures, and the extent to which design and participation
+               ethics is dealt with. Based on our study we provide five avenues
+               of future research in the interests of developing a more
+               explicit discourse on ethics in CCI.",
+  publisher = "Association for Computing Machinery",
+  pages     = "161--183",
+  series    = "IDC '20",
+  month     =  jun,
+  year      =  2020,
+  address   = "New York, NY, USA",
+  keywords  = "child-computer interaction, children, ethics, systematic
+               literature review;RDL [CCME0041]",
+  location  = "London, United Kingdom"
 }
