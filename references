@@ -6732,12 +6732,6 @@
               [CCME0123]"
 }
 
-@ARTICLE{noauthor_undated-ja,
-  title    = "Exploring the Potential of Speech Recognition to Support Problem
-              Solving and Reflection",
-  keywords = "Course Assignment;AIEd [CCME0123]"
-}
-
 @MISC{noauthor_undated-mh,
   title        = "{AI} Extenders | Proceedings of the 2019 {AAAI/ACM}
                   Conference on {AI}, Ethics, and Society",
@@ -8524,6 +8518,40 @@
                   learning and teaching",
   author       = "Thomas, Michael S C and Porayska-Pomsta, Kaska",
   howpublished = "\url{http://193.61.4.246/dnl/wp-content/uploads/2019/11/Thomas-Porayska-Pomsta.pdf}",
+  note         = "Accessed: 2022-7-4",
+  keywords     = "Course Assignment;AIEd [CCME0123]"
+}
+
+@MISC{Mavrikis_undated-ja,
+  title        = "Exploring the Potential of Speech Recognition to Support
+                  Problem Solving and Reflection Wizards go to school in the
+                  elementary maths classroom",
+  author       = "Mavrikis, Manolis and Grawemeyer, Beate and Hansen, Alice and
+                  Gutierrez-Santos, Sergio",
+  abstract     = "The work described in this paper investigates the potential
+                  of Automatic Speech Recognition (ASR) to support young
+                  children's exploration and reflection as they are working
+                  with interactive learning environments. We describe a unique
+                  ecologically valid Wizard-of-Oz (WoZ) study in a classroom
+                  equipped with computers, two of which were set up to allow
+                  human facilitators (wizards) to listen to students
+                  thinking-aloud while having access to their interaction with
+                  the environment. The wizards provided support using a script
+                  and following an iterative methodology that limited on
+                  purpose their communication capacity in order to simulate the
+                  actual system. Our results indicate that the feedback
+                  received from the wizards did serve its function i.e. it
+                  helped modify students' behaviour in that they did
+                  think-aloud significantly more than in past interactions and
+                  rephrased their language to employ mathematical terminology.
+                  Additional results from student perception questionnaires
+                  show that overall students find the system suggestions
+                  helpful, not repetitive and understandable. Most also enjoy
+                  thinking aloud to the computer but, as expected, some find
+                  the feedback cognitively overloading, indicating that more
+                  work is needed on how to design the interaction tipping the
+                  balance towards facilitating post-task reflection.",
+  howpublished = "\url{https://www.italk2learn.com/wp-content/uploads/2014/07/ECTEL-WOZ.pdf}",
   note         = "Accessed: 2022-7-4",
   keywords     = "Course Assignment;AIEd [CCME0123]"
 }
