@@ -7796,17 +7796,6 @@
   keywords = "RDL [CCME0041]"
 }
 
-@ARTICLE{Cukurova2016-vw,
-  title     = "An analysis framework for collaborative problem solving in
-               practice-based learning activities",
-  author    = "Cukurova, Mutlu and Avramides, Katerina and Spikol, Daniel and
-               Luckin, Rose and Mavrikis, Manolis",
-  publisher = "ACM Press",
-  pages     = "84--88",
-  year      =  2016,
-  keywords  = "RDL [CCME0041]"
-}
-
 @BOOK{Emerson2011-ms,
   title     = "Writing ethnographic fieldnotes",
   author    = "Emerson, Robert M and Fretz, Rachel I and Shaw, Linda L",
@@ -8345,4 +8334,37 @@
   series   = "Government and International Affairs Faculty Publications",
   year     =  2013,
   keywords = "RDL [CCME0041]"
+}
+
+@INPROCEEDINGS{Cukurova2016-vw,
+  title     = "An analysis framework for collaborative problem solving in
+               practice-based learning activities: a mixed-method approach",
+  booktitle = "Proceedings of the Sixth International Conference on Learning
+               Analytics \& Knowledge",
+  author    = "Cukurova, Mutlu and Avramides, Katerina and Spikol, Daniel and
+               Luckin, Rose and Mavrikis, Manolis",
+  abstract  = "Systematic investigation of the collaborative problem solving
+               process in open-ended, hands-on, physical computing design tasks
+               requires a framework that highlights the main process features,
+               stages and actions that then can be used to provide 'meaningful'
+               learning analytics data. This paper presents an analysis
+               framework that can be used to identify crucial aspects of the
+               collaborative problem solving process in practice-based learning
+               activities. We deployed a mixed-methods approach that allowed us
+               to generate an analysis framework that is theoretically robust,
+               and generalizable. Additionally, the framework is grounded in
+               data and hence applicable to real-life learning contexts. This
+               paper presents how our framework was developed and how it can be
+               used to analyse data. We argue for the value of effective
+               analysis frameworks in the generation and presentation of
+               learning analytics for practice-based learning activities.",
+  publisher = "Association for Computing Machinery",
+  pages     = "84--88",
+  series    = "LAK '16",
+  month     =  apr,
+  year      =  2016,
+  address   = "New York, NY, USA",
+  keywords  = "problem solving, collaborative learning, analysis framework,
+               practice-based learning;RDL [CCME0041]",
+  location  = "Edinburgh, United Kingdom"
 }
