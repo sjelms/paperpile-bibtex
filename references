@@ -7606,9 +7606,12 @@
   keywords = "RDL [CCME0041]"
 }
 
-@ARTICLE{noauthor_undated-ff,
-  title    = "Critical discourse analysis by N. Fairclough",
-  keywords = "RDL [CCME0041]"
+@MISC{Fairclough_undated-ff,
+  title        = "Critical discourse analysis",
+  author       = "Fairclough, Norman",
+  howpublished = "\url{https://www.hse.ru/data/2015/04/13/1094925608/Critical%20discourse%20analysis_THEORY_FAIRCLOUGH.pdf}",
+  note         = "Accessed: 2022-7-4",
+  keywords     = "RDL [CCME0041]"
 }
 
 @ARTICLE{Clandinin2006-lo,
