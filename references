@@ -6614,16 +6614,6 @@
   keywords = "Course Assignment;AIEd [CCME0123]"
 }
 
-@ARTICLE{Gobert_undated-nr,
-  title    = "Leveraging Educational Data Mining for Real-time Performance
-              Assessment of Scientific Inquiry Skills within Microworlds",
-  author   = "Gobert, Janice D and Sao Pedro, Michael A and Baker, Ryan S J D
-              and Toto, Ermal and Montalvo, Orlando",
-  abstract = "Follow this link to access the reading:
-              https://eric.ed.gov/?id=EJ1115360",
-  keywords = "Course Assignment;AIEd [CCME0123]"
-}
-
 @INCOLLECTION{Cukurova2017-fr,
   title     = "Machine and Human Observable Differences in Groups'
                Collaborative {Problem-Solving} Behaviours",
@@ -8554,4 +8544,26 @@
   howpublished = "\url{https://www.italk2learn.com/wp-content/uploads/2014/07/ECTEL-WOZ.pdf}",
   note         = "Accessed: 2022-7-4",
   keywords     = "Course Assignment;AIEd [CCME0123]"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Gobert2012-nr,
+  title     = "Leveraging educational data mining for real-time performance
+               assessment of scientific inquiry skills within microworlds",
+  author    = "Gobert, J D and Sao Pedro, M A and Baker, R S J and Toto, E and
+               {others}",
+  abstract  = "We present Science Assistments, an interactive environment,
+               which assesses students' inquiry skills as they engage in
+               inquiry using science microworlds. We frame our variables,
+               tasks, assessments, and methods of analyzing data in terms of
+               evidence-centered design. Specifically, we focus on the student
+               model, the task model, and the evidence model in the conceptual
+               assessment framework. In order to support both assessment and
+               the provision of scaffolding, the environment makes inferences
+               about student inquiry skills using models …",
+  journal   = "Journal of Educational",
+  publisher = "ERIC",
+  year      =  2012,
+  keywords  = "Course Assignment;AIEd [CCME0123]"
 }
