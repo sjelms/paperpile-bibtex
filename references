@@ -7560,9 +7560,11 @@
   keywords  = "RDL [CCME0041]"
 }
 
-@ARTICLE{noauthor_undated-mx,
-  title    = "Social network analysis ``How to guide'' by Home Office",
-  keywords = "RDL [CCME0041]"
+@MISC{noauthor_undated-mx,
+  title        = "Social network analysis: 'how to guide'",
+  howpublished = "\url{https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/491572/socnet_howto.pdf}",
+  note         = "Accessed: 2022-7-4",
+  keywords     = "RDL [CCME0041]"
 }
 
 @INBOOK{Liamputtong_undated-rf,
