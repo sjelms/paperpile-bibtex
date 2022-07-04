@@ -8040,13 +8040,6 @@
   keywords = "RDL [CCME0041]"
 }
 
-@ARTICLE{Guba1982-ff,
-  title    = "Epistemological and methodological bases of naturalistic inquiry",
-  author   = "Guba, E G and Lincoln, Y S",
-  year     =  1982,
-  keywords = "RDL [CCME0041]"
-}
-
 @BOOK{Friesen2012-hk,
   title     = "Hermeneutic Phenomenology in Education",
   editor    = "Friesen, Norm and Henriksson, Carina and Saevi, Tone",
@@ -8175,4 +8168,21 @@
   keywords  = "RDL [CCME0041]",
   copyright = "http://onlinelibrary.wiley.com/termsAndConditions\#vor",
   language  = "en"
+}
+
+@ARTICLE{Guba1982-ff,
+  title    = "Epistemological and methodological bases of naturalistic inquiry",
+  author   = "Guba, Egon G and Lincoln, Yvonna S",
+  abstract = "How suitable is the rationalistic paradigm for research focusing
+              on human behavior? Proposing that naturalistic inquiry better
+              serves the social/ behavioral sciences, the authors define the
+              differences between the two paradigms and suggest criteria for
+              ensuring the trustworthiness of naturalistic inquiry.",
+  journal  = "ECTJ",
+  volume   =  30,
+  number   =  4,
+  pages    = "233--252",
+  month    =  dec,
+  year     =  1982,
+  keywords = "RDL [CCME0041]"
 }
