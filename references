@@ -7567,10 +7567,14 @@
   keywords     = "RDL [CCME0041]"
 }
 
-@ARTICLE{Van_Dijk_undated-dp,
+@ARTICLE{Van_Dijk1995-dp,
   title    = "Aims of Critical Discourse Analysis",
-  author   = "van Dijk, T A",
+  author   = "van Dijk, Teun A",
   journal  = "Japanese discourse",
+  volume   =  1,
+  number   =  1,
+  pages    = "17--28",
+  year     =  1995,
   keywords = "RDL [CCME0041]"
 }
 
