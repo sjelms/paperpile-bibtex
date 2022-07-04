@@ -6820,12 +6820,6 @@
   keywords = "Course Assignment;AIEd [CCME0123]"
 }
 
-@ARTICLE{noauthor_undated-ps,
-  title    = "Mark Sprevak (2020). Extended cognition. The Routledge
-              Encyclopedia of Philosophy",
-  keywords = "Course Assignment;AIEd [CCME0123]"
-}
-
 @MISC{noauthor_undated-xg,
   title        = "{AI} Extenders | Proceedings of the 2019 {AAAI/ACM}
                   Conference on {AI}, Ethics, and Society",
@@ -7019,6 +7013,22 @@
   keywords  = "art, paper-based electronics, design, education, e-textiles,
                electronics, materiality, Craft, materials science, DIY;Course
                Assignment;W2\_ Additional Readings"
+}
+
+@MISC{Sprevak_undated-ps,
+  title    = "Mark Sprevak (2020). Extended cognition. The Routledge
+              Encyclopedia of Philosophy",
+  author   = "Sprevak, Mark",
+  abstract = "Extended cognition takes the idea that your mind is 'on' your
+              smartphone literally. It says that human cognitive states and
+              processes sometimes spill outside our heads and into objects in
+              our environment. Alleged examples include not just smartphones,
+              but also use of simpler technology (pencil and paper to perform a
+              calculation), our own body (ticking o our ngers when we count),
+              and other people (our spouse who remembers appointments so we
+              don't have to). ere are three main arguments for extended
+              cognition.",
+  keywords = "Course Assignment;AIEd [CCME0123]"
 }
 
 @MISC{Tholander2012-au,
