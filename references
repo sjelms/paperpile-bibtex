@@ -7567,6 +7567,12 @@
   keywords     = "RDL [CCME0041]"
 }
 
+@ARTICLE{Van_Dijk_undated-dp,
+  title   = "Aims of critical discourse analysis",
+  author  = "{Van Dijk} and {Others}",
+  journal = "Japanese discourse"
+}
+
 @INBOOK{Liamputtong_undated-rf,
   title     = "Focus Group Methodology: Principles and Practice",
   author    = "Liamputtong, Pranee",
