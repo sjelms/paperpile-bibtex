@@ -7783,9 +7783,11 @@
   keywords = "RDL [CCME0041]"
 }
 
-@ARTICLE{noauthor_undated-st,
-  title    = "Narrative inquiry by D. Clandinin and J. Huber",
-  keywords = "RDL [CCME0041]"
+@MISC{noauthor_undated-st,
+  title        = "Narrative inquiry by D. Clandinin and J. Huber",
+  howpublished = "\url{http://www.mofet.macam.ac.il/amitim/iun/CollaborativeResearch/Documents/NarrativeInquiry.pdf}",
+  note         = "Accessed: 2022-7-4",
+  keywords     = "RDL [CCME0041]"
 }
 
 @PROCEEDINGS{Jewitt2012-nf,
