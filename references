@@ -6550,12 +6550,6 @@
               [CCME0123]"
 }
 
-@ARTICLE{noauthor_undated-fx,
-  title    = "Two motivational systems that shape development: Epistemic and
-              self organising",
-  keywords = "Course Assignment;AIEd [CCME0123]"
-}
-
 @MISC{noauthor_undated-lw,
   title        = "New Vision for Education: Unlocking the Potential of
                   Technology | {ICT} in education policy toolkit",
@@ -8576,4 +8570,25 @@
   publisher = "ERIC",
   year      =  2012,
   keywords  = "Course Assignment;AIEd [CCME0123]"
+}
+
+@MISC{Fischer_undated-fx,
+  title        = "Two motivational systems that shape development: Epistemic
+                  and self-organizing",
+  author       = "Fischer, Kurt W and Connell, Michael W",
+  abstract     = "Cognitive science, with its narrow focus on the structure of
+                  the mind, has largely lost sight of motivation. In this
+                  article, we propose that understanding the structure of the
+                  mind requires understanding the forces and biases that shape
+                  the mind-which are generally called 'motivation'. Development
+                  is not the execution of a program, the implementation of a
+                  blueprint or the unfolding of a predetermined sequence. It is
+                  a dynamically equilibrated, self-organizing process that is
+                  both driven internally toward higher levels of complexity and
+                  simultaneously supported and shaped powerfully by the
+                  contexts to which it has adapted over evolutionary time and
+                  to which it is constantly adapting in real time (",
+  howpublished = "\url{https://static1.squarespace.com/static/57309137ab48de6f423b3eec/t/6016e16dc8d9b527a242913a/1612112240187/Fischer+%26+Connell+2003.pdf}",
+  note         = "Accessed: 2022-7-4",
+  keywords     = "Course Assignment;AIEd [CCME0123]"
 }
