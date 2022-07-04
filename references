@@ -7971,9 +7971,11 @@
   keywords = "RDL [CCME0041]"
 }
 
-@ARTICLE{noauthor_undated-sw,
-  title    = "Decolonising Methodologies: Research and Indigenous Peoples",
-  keywords = "RDL [CCME0041]"
+@MISC{noauthor_undated-sw,
+  title        = "Decolonising Methodologies: Research and Indigenous Peoples",
+  howpublished = "\url{https://nycstandswithstandingrock.files.wordpress.com/2016/10/linda-tuhiwai-smith-decolonizing-methodologies-research-and-indigenous-peoples.pdf}",
+  note         = "Accessed: 2022-7-4",
+  keywords     = "RDL [CCME0041]"
 }
 
 @ARTICLE{DallAlba2009-hm,
