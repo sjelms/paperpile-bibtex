@@ -7650,11 +7650,6 @@
   keywords  = "RDL [CCME0041]"
 }
 
-@ARTICLE{noauthor_undated-rr,
-  title    = "Principles of discourse analysis by J. van Dijk",
-  keywords = "RDL [CCME0041]"
-}
-
 @BOOK{Bhattacherjee2012-fx,
   title     = "Social Science Research",
   author    = "Bhattacherjee, Anol",
@@ -7897,11 +7892,6 @@
   year      =  2009,
   address   = "London",
   keywords  = "RDL [CCME0041]"
-}
-
-@ARTICLE{noauthor_undated-og,
-  title    = "Aims of critical discourse analysis by T. A. van Dijk",
-  keywords = "RDL [CCME0041]"
 }
 
 @ARTICLE{Alexandra_S_Drawson2017-ec,
