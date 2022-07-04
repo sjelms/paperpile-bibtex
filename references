@@ -7034,15 +7034,6 @@
                Assignment;W2\_ Additional Readings"
 }
 
-@ARTICLE{Buechley_undated-hd,
-  title    = "The {LilyPad} Arduino: Using Computational Textiles to
-              Investigate Engagement, Aesthetics, and Diversity in Computer
-              Science Education",
-  author   = "Buechley, Leah and Eisenberg, Mike and Catchen, Jaime and
-              Crockett, Ali",
-  keywords = "Course Assignment;W2\_ Additional Readings"
-}
-
 @MISC{Tholander2012-au,
   title    = "Understanding agency in interaction design materials",
   author   = "Tholander, Jakob and Normark, Maria and Rossitto, Chiara",
@@ -8442,4 +8433,40 @@
   keywords  = "child-computer interaction, children, ethics, systematic
                literature review;RDL [CCME0041]",
   location  = "London, United Kingdom"
+}
+
+@INPROCEEDINGS{Buechley2008-hd,
+  title     = "The {LilyPad} Arduino: using computational textiles to
+               investigate engagement, aesthetics, and diversity in computer
+               science education",
+  booktitle = "Proceedings of the {SIGCHI} Conference on Human Factors in
+               Computing Systems",
+  author    = "Buechley, Leah and Eisenberg, Mike and Catchen, Jaime and
+               Crockett, Ali",
+  abstract  = "The advent of novel materials (such as conductive fibers)
+               combined with accessible embedded computing platforms have made
+               it possible to re-imagine the landscapes of fabric and
+               electronic crafts--extending these landscapes with the creative
+               range of electronic/computational textiles or e-textiles. This
+               paper describes the LilyPad Arduino, a fabric-based construction
+               kit that enables novices to design and build their own soft
+               wearables and other textile artifacts. The kit consists of a
+               microcontroller and an assortment of sensors and actuators in
+               stitch-able packages; these elements can be sewn to cloth
+               substrates and each other with conductive thread to build
+               e-textiles. This paper will introduce the latest version of the
+               kit; reflect on its affordances; present the results of our most
+               recent user studies; and discuss possible directions for future
+               work in the area of personalized e-textile design and its
+               relation to technology education.",
+  publisher = "Association for Computing Machinery",
+  pages     = "423--432",
+  series    = "CHI '08",
+  month     =  apr,
+  year      =  2008,
+  address   = "New York, NY, USA",
+  keywords  = "construction kits., smart textiles, e-textiles, electronic
+               textiles, lilypad arduino, computational textiles, wearable
+               computing;Course Assignment;W2\_ Additional Readings",
+  location  = "Florence, Italy"
 }
