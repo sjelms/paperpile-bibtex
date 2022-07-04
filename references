@@ -6580,15 +6580,6 @@
   keywords = "Course Assignment;AIEd [CCME0123]"
 }
 
-@ARTICLE{Legg2007-tc,
-  title    = "A Collection of Definitions of Intelligence",
-  author   = "Legg, Shane",
-  abstract = "A fairly comprehensive collection of different definitions of
-              intelligence.",
-  year     =  2007,
-  keywords = "Course Assignment;AIEd [CCME0123]"
-}
-
 @ARTICLE{Andy_Clark_and_David_Chalmers1998-ee,
   title     = "The Extended Mind",
   author    = "{Andy Clark and David Chalmers}",
@@ -6612,6 +6603,25 @@
   month    =  mar,
   year     =  2007,
   keywords = "Course Assignment;AIEd [CCME0123]"
+}
+
+@ARTICLE{Legg2007-tc,
+  title         = "A Collection of Definitions of Intelligence",
+  author        = "Legg, Shane and Hutter, Marcus",
+  abstract      = "This paper is a survey of a large number of informal
+                   definitions of ``intelligence'' that the authors have
+                   collected over the years. Naturally, compiling a complete
+                   list would be impossible as many definitions of intelligence
+                   are buried deep inside articles and books. Nevertheless, the
+                   70-odd definitions presented here are, to the authors'
+                   knowledge, the largest and most well referenced collection
+                   there is.",
+  month         =  jun,
+  year          =  2007,
+  keywords      = "Course Assignment;AIEd [CCME0123]",
+  archivePrefix = "arXiv",
+  primaryClass  = "cs.AI",
+  eprint        = "0706.3639"
 }
 
 @INCOLLECTION{Cukurova2017-fr,
