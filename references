@@ -7849,15 +7849,6 @@
   keywords = "RDL [CCME0041]"
 }
 
-@ARTICLE{Nicolaas2014-mi,
-  title     = "Web Surveys for the General Population: How, Why and When?",
-  author    = "Nicolaas, Gerry and Calderwood, Lisa and Lynn, Peter and
-               Roberts, Caroline",
-  publisher = "National Centre for Research Methods",
-  year      =  2014,
-  keywords  = "RDL [CCME0041]"
-}
-
 @BOOK{Robson2022-tm,
   title     = "Real World Research",
   author    = "Robson, Colin and McCartan, Kieran",
@@ -8284,4 +8275,38 @@
   year     =  2018,
   keywords = "RDL [CCME0041]",
   language = "en"
+}
+
+@ARTICLE{Nicolaas2014-mi,
+  title     = "Web Surveys for the General Population: How, Why and When?",
+  author    = "Nicolaas, Gerry and Calderwood, Lisa and Lynn, Peter and
+               Roberts, Caroline",
+  abstract  = "Cultural and technological change has made the web a possible
+               and even desirable mode for complex social surveys, but the
+               financial challenges faced by the Research Councils and the UK
+               Government has accelerated this shift, creating an urgent need
+               to explore both its potential and hazards for a range of
+               studies. While some progress in carrying out large-scale complex
+               social surveys on the web has been made, there is still no
+               consensus about how this can best be achieved while maintaining
+               population representativeness and preserving data quality. To
+               address this problem, the NCRM funded a network of
+               methodological innovation ``Web Surveys for the General
+               Population: How, Why and When?'' (also known by its acronym
+               GenPopWeb). A key objective of the network's activities was to
+               review and synthesise existing knowledge about the use of
+               web-based data collection for general population samples and to
+               identify areas where new research is needed. In this report, the
+               authors provide a summary of the main issues identified by the
+               network (chapter 2), present the key barriers to using web for
+               surveys of the general population (chapter 3), propose a
+               research agenda for the social science community (chapter 4),
+               argue the case for a UK probability-based web panel (chapter 5),
+               and conclude with recommendations for an infrastructure for
+               enabling a transition to web platforms (chapter 6).",
+  publisher = "NCRM",
+  month     =  feb,
+  year      =  2014,
+  keywords  = "RDL [CCME0041]",
+  language  = "en"
 }
