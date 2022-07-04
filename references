@@ -7503,11 +7503,6 @@
   keywords  = "+Notion;§New Literature;Research Methods"
 }
 
-@INBOOK{noauthor_undated-py,
-  title    = "Planning a research project and formulating research questions",
-  keywords = "RDL [CCME0041]"
-}
-
 @ARTICLE{Derry_undated-oa,
   title    = "Conducting Video Research in the Learning Sciences: Guidance on
               Selection, Analysis, Technology, and Ethics",
@@ -7516,6 +7511,17 @@
   journal  = "J. Learn. Sci.",
   volume   =  19,
   keywords = "RDL [CCME0041]"
+}
+
+@INCOLLECTION{Clercq2004-py,
+  title     = "Single {Sign-On}",
+  booktitle = "Windows Server 2003 Security Infrastructures",
+  author    = "Clercq, Jan De",
+  publisher = "Elsevier",
+  pages     = "299--327",
+  year      =  2004,
+  keywords  = "RDL [CCME0041]",
+  language  = "en"
 }
 
 @ARTICLE{noauthor_undated-oh,
