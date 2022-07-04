@@ -7579,13 +7579,6 @@
   keywords  = "RDL [CCME0041]"
 }
 
-@ARTICLE{noauthor_2019-vb,
-  title     = "Internet Research: Ethical Guidelines 3.0",
-  publisher = "Association of Internet Researchers",
-  year      =  2019,
-  keywords  = "RDL [CCME0041]"
-}
-
 @ARTICLE{Braun2006-si,
   title    = "Using thematic analysis in psychology",
   author   = "Braun, Virginia and Clarke, Victoria",
@@ -8374,4 +8367,18 @@
   keywords  = "problem solving, collaborative learning, analysis framework,
                practice-based learning;RDL [CCME0041]",
   location  = "Edinburgh, United Kingdom"
+}
+
+@MISC{Brake2019-vb,
+  title        = "Internet Research: Ethical Guidelines 3.0",
+  author       = "Brake, David J and Gammelby, Ane Kathrine and Heise, Nele and
+                  Henriksen, Anne Hove and Hongladarom, Soraj and Jobin, Anna
+                  and Kinder-Kurlanda, Katharina and Lim, Sun Sun and
+                  Locatelli, Elisabetta and Markham, Annette and Reilly, Paul J
+                  and Tiidenberg, Katrin and Wilhelm, Carsten",
+  publisher    = "Association of Internet Researchers",
+  year         =  2019,
+  howpublished = "\url{https://aoir.org/reports/ethics3.pdf}",
+  note         = "Accessed: 2022-7-4",
+  keywords     = "RDL [CCME0041]"
 }
