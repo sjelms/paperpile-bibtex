@@ -6802,12 +6802,6 @@
   keywords  = "Course Assignment;AIEd [CCME0123]"
 }
 
-@INBOOK{noauthor_undated-oh,
-  title    = "Neurocomputational models of cognition versus technology as a
-              tool for supporting learning and teaching",
-  keywords = "Course Assignment;AIEd [CCME0123]"
-}
-
 @ARTICLE{Ryan_SJd_Baker2009-hy,
   title    = "The State of Educational Data Mining in 2009: A Review and Future
               Visions",
@@ -8522,4 +8516,14 @@
   month     =  dec,
   year      =  2018,
   keywords  = "Course Assignment;AIEd [CCME0123]"
+}
+
+@MISC{Thomas_undated-oh,
+  title        = "Computational methods in education: Neurocomputational models
+                  of cognition versus technology as a tool for supporting
+                  learning and teaching",
+  author       = "Thomas, Michael S C and Porayska-Pomsta, Kaska",
+  howpublished = "\url{http://193.61.4.246/dnl/wp-content/uploads/2019/11/Thomas-Porayska-Pomsta.pdf}",
+  note         = "Accessed: 2022-7-4",
+  keywords     = "Course Assignment;AIEd [CCME0123]"
 }
