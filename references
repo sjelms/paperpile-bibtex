@@ -7599,12 +7599,16 @@
   keywords = "RDL [CCME0041]"
 }
 
-@ARTICLE{Coe2002-qv,
-  title    = "It's the effect size, stupid: what effect size is and why it is
-              important",
-  author   = "Coe, R",
-  year     =  2002,
-  keywords = "RDL [CCME0041]"
+@MISC{University_of_Leeds2002-qv,
+  title        = "404-error",
+  booktitle    = "University of Leeds",
+  author       = "{University of Leeds}",
+  abstract     = "404 error",
+  year         =  2002,
+  howpublished = "\url{http://www.leeds.ac.uk/educol/documents/00002182.htm}",
+  note         = "Accessed: 2022-7-4",
+  keywords     = "RDL [CCME0041]",
+  language     = "en"
 }
 
 @MISC{Fairclough_undated-ff,
