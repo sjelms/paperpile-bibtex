@@ -8026,9 +8026,16 @@
   keywords = "RDL [CCME0041]"
 }
 
-@ARTICLE{noauthor_undated-ie,
-  title    = "Arts Based Educational Research by {BERA}",
-  keywords = "RDL [CCME0041]"
+@MISC{noauthor_undated-ie,
+  title        = "Arts based educational research",
+  abstract     = "Arts Based Education Research aims to understand education
+                  through arts-based concepts, techniques and practice.
+                  Practitioners use a variety of arts-based methodologies to
+                  undertake their research...",
+  howpublished = "\url{https://www.bera.ac.uk/community/arts-based-educational-research}",
+  note         = "Accessed: 2022-7-4",
+  keywords     = "RDL [CCME0041]",
+  language     = "en"
 }
 
 @BOOK{Friesen2012-hk,
