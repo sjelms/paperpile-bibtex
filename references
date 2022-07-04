@@ -2928,6 +2928,14 @@
   language  = "en"
 }
 
+@BOOK{Given2008-gq,
+  title     = "The {SAGE} encyclopedia of qualitative research methods",
+  author    = "Given, Lisa",
+  publisher = "SAGE Publications, Inc.",
+  year      =  2008,
+  address   = "2455 Teller Road, Thousand Oaks California 91320 United States"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Suppes1969-kb,
