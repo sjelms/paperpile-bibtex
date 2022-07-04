@@ -6833,12 +6833,13 @@
   keywords     = "Course Assignment;AIEd [CCME0123]"
 }
 
-@ARTICLE{Pedro2019-et,
-  title    = "Artificial Intelligence in Education: Challenges and
-              Opportunities for Sustainable Development",
-  author   = "Pedro, Francesc",
-  year     =  2019,
-  keywords = "Course Assignment;AIEd [CCME0123]"
+@MISC{Pedro2019-et,
+  title        = "Request Rejected",
+  author       = "Pedro, Francesc",
+  year         =  2019,
+  howpublished = "\url{https://repositorio.minedu.gob.pe/handle/20.500.12799/6533}",
+  note         = "Accessed: 2022-7-4",
+  keywords     = "Course Assignment;AIEd [CCME0123]"
 }
 
 @INPROCEEDINGS{Vinge1993-ui,
