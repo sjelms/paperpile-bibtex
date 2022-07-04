@@ -7854,3 +7854,531 @@
               {UK}: Oxford University Press",
   keywords = "RDL Course Bib"
 }
+
+@BOOK{Stebbins2001-mg,
+  title     = "Exploratory research in the social sciences",
+  author    = "Stebbins, Robert A",
+  publisher = "SAGE",
+  volume    =  48,
+  year      =  2001,
+  address   = "London",
+  keywords  = "RDL Course Bib"
+}
+
+@INCOLLECTION{Baker2014-jv,
+  title     = "Educational data mining and learning analytics",
+  booktitle = "Cambridge Handbook of the Learning Sciences",
+  author    = "Baker, R and Siemens, G",
+  abstract  = "Tip: read pages 253-274. You can skip or skim through section 2
+               for this activity.",
+  year      =  2014,
+  keywords  = "RDL Course Bib"
+}
+
+@ARTICLE{Jarg_Bergold2012-te,
+  title    = "Participatory Research Methods: A Methodological Approach in
+              Motion",
+  author   = "{Jarg Bergold}",
+  journal  = "Forum Qual. Soc. Res.",
+  volume   =  13,
+  number   =  1,
+  year     =  2012,
+  keywords = "RDL Course Bib"
+}
+
+@ARTICLE{noauthor_undated-lf,
+  title    = "Learning, Media and Technology",
+  keywords = "RDL Course Bib"
+}
+
+@ARTICLE{Anderson2012-zy,
+  title    = "{Design-Based} Research: A Decade of Progress in Education
+              Research?",
+  author   = "Anderson, Terry and Shattuck, Julie",
+  journal  = "Educ. Res.",
+  volume   =  41,
+  number   =  1,
+  pages    = "16--25",
+  month    =  jan,
+  year     =  2012,
+  keywords = "RDL Course Bib"
+}
+
+@ARTICLE{Shenton2004-zi,
+  title    = "Strategies for ensuring trustworthiness in qualitative research
+              projects. Education for Information",
+  author   = "Shenton, A",
+  journal  = "Education for Information",
+  year     =  2004,
+  keywords = "RDL Course Bib"
+}
+
+@BOOK{Patton1990-iz,
+  title     = "Qualitative evaluation and research methods",
+  author    = "Patton, Michael Quinn",
+  publisher = "Sage Publications",
+  edition   = "2nd ed",
+  year      =  1990,
+  address   = "London",
+  keywords  = "RDL Course Bib"
+}
+
+@INCOLLECTION{Field2009-kq,
+  title     = "Chapter 9: ``Comparing two means''",
+  booktitle = "Discovering Statistics Using {SPSS}",
+  author    = "Field, A",
+  editor    = "Field, Andy",
+  publisher = "Sage Publications Ltd (Digital)",
+  edition   = "3rd Revised edition",
+  month     =  aug,
+  year      =  2009,
+  address   = "London",
+  keywords  = "RDL Course Bib"
+}
+
+@ARTICLE{Burnard2008-tn,
+  title    = "Analysing and presenting qualitative data",
+  author   = "Burnard, P and Gill, P and Stewart, K and Treasure, E and
+              Chadwick, B",
+  journal  = "Br. Dent. J.",
+  volume   =  204,
+  number   =  8,
+  pages    = "429--432",
+  year     =  2008,
+  keywords = "RDL Course Bib"
+}
+
+@ARTICLE{noauthor_undated-st,
+  title    = "Narrative inquiry by D. Clandinin and J. Huber",
+  keywords = "RDL Course Bib"
+}
+
+@PROCEEDINGS{Jewitt2012-nf,
+  title    = "Multimodal approach to video analysis of digital learning
+              environments",
+  author   = "Jewitt, C and Price, S",
+  year     =  2012,
+  keywords = "RDL Course Bib"
+}
+
+@ARTICLE{Cukurova2016-vw,
+  title     = "An analysis framework for collaborative problem solving in
+               practice-based learning activities",
+  author    = "Cukurova, Mutlu and Avramides, Katerina and Spikol, Daniel and
+               Luckin, Rose and Mavrikis, Manolis",
+  publisher = "ACM Press",
+  pages     = "84--88",
+  year      =  2016,
+  keywords  = "RDL Course Bib"
+}
+
+@INBOOK{noauthor_undated-sk,
+  title    = "Bryman, A. (2015). Social Research Methods (5th ed). Oxford,
+              {UK}: Oxford University Press",
+  keywords = "RDL Course Bib"
+}
+
+@BOOK{Emerson2011-ms,
+  title     = "Writing ethnographic fieldnotes",
+  author    = "Emerson, Robert M and Fretz, Rachel I and Shaw, Linda L",
+  abstract  = "Read Chapter 2: ``In the Field: Participating, Observing, and
+               Jotting Notes''",
+  publisher = "University of Chicago Press",
+  edition   = "2nd ed",
+  year      =  2011,
+  address   = "London",
+  keywords  = "RDL Course Bib"
+}
+
+@INCOLLECTION{Field2009-rk,
+  title     = "Chapter 1: ``Why is my evil lecturer forcing me to learn
+               statistics?''",
+  booktitle = "Discovering Statistics Using {SPSS}",
+  author    = "Field, A",
+  editor    = "Field, Andy",
+  publisher = "Sage Publications Ltd (Digital)",
+  edition   = "3rd Revised edition",
+  month     =  aug,
+  year      =  2009,
+  address   = "London",
+  keywords  = "RDL Course Bib"
+}
+
+@BOOK{Bryman2016-xt,
+  title     = "Social research methods",
+  author    = "Bryman, Alan",
+  abstract  = "Read Chapter 15 ``Quantitative data analysis'' pages 336-340 and
+               Chapter 8 ``Sampling in quantitative research'' pages 174-175.",
+  publisher = "Oxford University Press",
+  edition   = "Fifth edition",
+  year      =  2016,
+  address   = "Oxford, United Kingdom",
+  keywords  = "RDL Course Bib"
+}
+
+@INBOOK{noauthor_undated-nw,
+  title    = "Bryman, A. (2015). Social Research Methods (5th ed). Oxford,
+              {UK}: Oxford University Press",
+  abstract = "Read Chapter 27: ``Mixed methods research: combining quantitative
+              and qualitative research.''",
+  keywords = "RDL Course Bib"
+}
+
+@INCOLLECTION{OLeary2017-gf,
+  title     = "Undertaking Credible and Ethical Research",
+  booktitle = "The essential guide of doing your research project",
+  author    = "O'Leary, Z",
+  editor    = "O'Leary, Z",
+  abstract  = "Read pages 139-140 with a focus on the positivist credibility
+               indicators from Table 4.2",
+  year      =  2017,
+  keywords  = "RDL Course Bib"
+}
+
+@BOOK{Tom2021-pi,
+  title     = "Bryman's social research methods",
+  author    = "Tom, Clark and Foster, Liam and Sloan, Luke and Bryman, Alan",
+  publisher = "Oxford University Press",
+  edition   = "Sixth edition",
+  year      =  2021,
+  address   = "Oxford",
+  keywords  = "RDL Course Bib"
+}
+
+@INBOOK{Bhattacherjee2012-ho,
+  title    = "Social Science Research: Principles, Methods, and Practices",
+  author   = "Bhattacherjee, Anol",
+  abstract = "Read Chapter 5: ``Research design'' (pages: 35-39) and Chapter 7:
+              ``Scale reliability and validity.''",
+  year     =  2012,
+  keywords = "RDL Course Bib"
+}
+
+@ARTICLE{Fine1993-hi,
+  title    = "Journal of Contemporary Ethnography",
+  author   = "Fine, G A",
+  volume   =  22,
+  year     =  1993,
+  keywords = "RDL Course Bib"
+}
+
+@ARTICLE{Reiter2013-wa,
+  title    = "The Epistemology and Methodology of Exploratory Social Science
+              Research: Crossing Popper with Marcuse",
+  author   = "Reiter, Bernd",
+  year     =  2013,
+  keywords = "RDL Course Bib"
+}
+
+@ARTICLE{Nicolaas2014-mi,
+  title     = "Web Surveys for the General Population: How, Why and When?",
+  author    = "Nicolaas, Gerry and Calderwood, Lisa and Lynn, Peter and
+               Roberts, Caroline",
+  publisher = "National Centre for Research Methods",
+  year      =  2014,
+  keywords  = "RDL Course Bib"
+}
+
+@INCOLLECTION{Diamond2001-wq,
+  title     = "Chapter 8 - From Samples to Populations",
+  booktitle = "Beginning Statistics: An Introduction for Social Scientists",
+  author    = "Diamond, I and Jefferies, J",
+  editor    = "Diamond, I and Jefferies, J",
+  publisher = "SAGE Publications Ltd",
+  year      =  2001,
+  address   = "London",
+  keywords  = "RDL Course Bib"
+}
+
+@BOOK{Robson2022-tm,
+  title     = "Real World Research",
+  author    = "Robson, Colin and McCartan, Kieran",
+  publisher = "John Wiley \& Sons Inc",
+  month     =  sep,
+  year      =  2022,
+  address   = "New York",
+  keywords  = "RDL Course Bib"
+}
+
+@PROCEEDINGS{Ramey_undated-ho,
+  title    = "Qualitative Analysis of Video Data: Standards and Heuristics",
+  author   = "Ramey, K E R and Hilpp{\"o}, J and Dyer, E and Villanosa, K",
+  keywords = "RDL Course Bib"
+}
+
+@INCOLLECTION{Diamond2001-mz,
+  title     = "Chapter 4 - Averages and Percentiles",
+  booktitle = "Beginning Statistics: An Introduction for Social Scientists",
+  author    = "Diamond, I and Jefferies, J",
+  editor    = "Diamond, I and Jefferies, J",
+  abstract  = "Read pages 11-13 ``The shape of a distribution.''",
+  publisher = "SAGE Publications Ltd",
+  year      =  2001,
+  address   = "London",
+  keywords  = "RDL Course Bib"
+}
+
+@INCOLLECTION{Fife-Schaw_undated-sx,
+  title     = "Quasi Experimental Designs",
+  booktitle = "Research methods in psychology",
+  author    = "Fife-Schaw, C",
+  editor    = "Breakwell, G",
+  publisher = "SAGE Publishing Ltd",
+  keywords  = "RDL Course Bib"
+}
+
+@ARTICLE{Levitt_undated-st,
+  title    = "Journal Article Reporting Standards for Qualitative Primary,
+              Qualitative {Meta-Analytic}, and Mixed Methods Research in
+              Psychology: The {APA} Publications and Communications Board Task
+              Force Report",
+  author   = "Levitt, H M and Bamberg, M and Creswell, J W and Frost, D M and
+              Josselson, R and Suarez-Orozco, C",
+  journal  = "Am. Psychol.",
+  volume   =  73,
+  keywords = "RDL Course Bib"
+}
+
+@INBOOK{noauthor_undated-pq,
+  title    = "Bryman, A. (2015). Social Research Methods (5th ed). Oxford,
+              {UK}: Oxford University Press",
+  keywords = "RDL Course Bib"
+}
+
+@INCOLLECTION{OLeary2017-cu,
+  title     = "Analysing Quantitative Data",
+  booktitle = "Essential Guide to Doing Your Research Project",
+  author    = "O'Leary, Z",
+  editor    = "O'Leary, Zina",
+  publisher = "SAGE Publications Ltd",
+  edition   = "3rd Revised edition",
+  month     =  apr,
+  year      =  2017,
+  address   = "London",
+  keywords  = "RDL Course Bib"
+}
+
+@ARTICLE{Flyvbjerg2006-vk,
+  title    = "Five Misunderstandings About {Case-Study} Research, Qualitative
+              Inquiry,",
+  author   = "Flyvbjerg, Bent",
+  journal  = "Qual. Inq.",
+  volume   =  12,
+  number   =  2,
+  pages    = "219--245",
+  month    =  apr,
+  year     =  2006,
+  keywords = "RDL Course Bib"
+}
+
+@INBOOK{noauthor_undated-tr,
+  title    = "Bryman, A. (2015). Social Research Methods (5th ed). Oxford,
+              {UK}: Oxford University Press",
+  keywords = "RDL Course Bib"
+}
+
+@ARTICLE{Scotland2012-lw,
+  title    = "Exploring the Philosophical Underpinnings of Research: Relating
+              Ontology and Epistemology to the Methodology and Methods of the
+              Scientific, Interpretive, and Critical Research Paradigms",
+  author   = "Scotland, James",
+  journal  = "English Language Teaching",
+  volume   =  5,
+  number   =  9,
+  month    =  jul,
+  year     =  2012,
+  keywords = "RDL Course Bib"
+}
+
+@BOOK{Hine2009-zv,
+  title     = "Virtual Ethnography: Modes, Varieties, Affordances, The {SAGE}
+               handbook of online research methods",
+  author    = "Hine, C",
+  publisher = "SAGE",
+  year      =  2009,
+  address   = "London",
+  keywords  = "RDL Course Bib"
+}
+
+@ARTICLE{noauthor_undated-og,
+  title    = "Aims of critical discourse analysis by T. A. van Dijk",
+  keywords = "RDL Course Bib"
+}
+
+@ARTICLE{Alexandra_S_Drawson2017-ec,
+  title    = "Indigenous Research Methods: A Systematic Review",
+  author   = "{Alexandra S Drawson}",
+  journal  = "International Indigenous Policy Journal",
+  volume   =  8,
+  number   =  2,
+  year     =  2017,
+  keywords = "RDL Course Bib"
+}
+
+@ARTICLE{Morse2002-hb,
+  title    = "Verification strategies for establishing reliability and validity
+              in qualitative research. International Journal of Qualitative
+              Methods",
+  author   = "Morse, J and Barrett, M and Mayan, M and Olson, K and Spiers, J",
+  journal  = "International Journal of Qualitative Methods.",
+  year     =  2002,
+  keywords = "RDL Course Bib"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{BrydonMiller2009-nj,
+  title    = "Participatory action research: contributions to the development
+              of practitioner inquiry in education",
+  author   = "Brydon‐Miller, Mary and Maguire, Patricia",
+  journal  = "Educational Action Research",
+  volume   =  17,
+  number   =  1,
+  pages    = "79--93",
+  month    =  mar,
+  year     =  2009,
+  keywords = "RDL Course Bib"
+}
+
+@ARTICLE{noauthor_undated-sw,
+  title    = "Decolonising Methodologies: Research and Indigenous Peoples",
+  keywords = "RDL Course Bib"
+}
+
+@ARTICLE{DallAlba2009-hm,
+  title    = "Phenomenology and Education: An introduction",
+  author   = "Dall'Alba, Gloria",
+  journal  = "Educational Philosophy and Theory",
+  volume   =  41,
+  number   =  1,
+  pages    = "7--9",
+  month    =  jan,
+  year     =  2009,
+  keywords = "RDL Course Bib"
+}
+
+@INCOLLECTION{Barab2006-jc,
+  title     = "Design-based research: A methodological toolkit",
+  booktitle = "The Cambridge Handbook of the Learning Sciences. Cambridge",
+  author    = "Barab, Sasha",
+  publisher = "Cambridge University Press.",
+  year      =  2006,
+  keywords  = "RDL Course Bib"
+}
+
+@INCOLLECTION{Rivas2012-qo,
+  title     = "Coding and analysing qualitative data",
+  booktitle = "Researching Society and Culture (3rd Edition)",
+  author    = "Rivas, C",
+  publisher = "London, UK: Sage",
+  year      =  2012,
+  keywords  = "RDL Course Bib"
+}
+
+@ARTICLE{Ivankova_undated-pu,
+  title    = "Using {Mixed-Methods} Sequential Explanatory Design: From Theory
+              to Practice",
+  author   = "Ivankova, Nataliya V and Creswell, John W and Stick, Sheldon L",
+  keywords = "RDL Course Bib"
+}
+
+@ARTICLE{Herodotou2018-ef,
+  title    = "Mobile games and science learning: A comparative study of 4 and 5
+              years old playing the game Angry Birds",
+  author   = "Herodotou, Christothea",
+  journal  = "Br. J. Educ. Technol.",
+  volume   =  49,
+  number   =  1,
+  pages    = "6--16",
+  month    =  jan,
+  year     =  2018,
+  keywords = "RDL Course Bib"
+}
+
+@BOOK{Tom2021-pk,
+  title     = "Bryman's social research methods",
+  author    = "Tom, Clark and Foster, Liam and Sloan, Luke and Bryman, Alan",
+  abstract  = "Chapter 3: ``Research design'' pages 41-42 (focus on the
+               credibility indicators for quantitative designs); Chapter 7: The
+               nature of quantitative research`` pages 157-160.",
+  publisher = "Oxford University Press",
+  edition   = "Sixth edition",
+  year      =  2021,
+  address   = "Oxford",
+  keywords  = "RDL Course Bib"
+}
+
+@ARTICLE{Johnson2008-yb,
+  title    = "Simulating Medical Patients and Practices: Bodies and the
+              Construction of Valid Medical Simulators",
+  author   = "Johnson, Ericka",
+  journal  = "Body \& Society",
+  volume   =  14,
+  number   =  3,
+  pages    = "105--128",
+  month    =  sep,
+  year     =  2008,
+  keywords = "RDL Course Bib"
+}
+
+@ARTICLE{noauthor_undated-ie,
+  title    = "Arts Based Educational Research by {BERA}",
+  keywords = "RDL Course Bib"
+}
+
+@ARTICLE{Muteanu2015-ju,
+  title    = "Situational Ethics | Proceedings of the 33rd Annual {ACM}
+              Conference on Human Factors in Computing Systems",
+  author   = "Muteanu, C and Molyneaux, H and Moncur, W and Romero, M and
+              O'Donnell, S and Vines, J",
+  year     =  2015,
+  keywords = "RDL Course Bib"
+}
+
+@ARTICLE{Guba1982-ff,
+  title    = "Epistemological and methodological bases of naturalistic inquiry",
+  author   = "Guba, E G and Lincoln, Y S",
+  year     =  1982,
+  keywords = "RDL Course Bib"
+}
+
+@BOOK{Friesen2012-hk,
+  title     = "Hermeneutic Phenomenology in Education",
+  editor    = "Friesen, Norm and Henriksson, Carina and Saevi, Tone",
+  publisher = "SensePublishers",
+  year      =  2012,
+  address   = "Rotterdam",
+  keywords  = "RDL Course Bib"
+}
+
+@INBOOK{noauthor_undated-va,
+  title    = "Bryman, A. (2015). Social Research Methods (5th ed). Oxford,
+              {UK}: Oxford University Press",
+  abstract = "Read Chapter 1: ``The nature and process of social research.''",
+  keywords = "RDL Course Bib"
+}
+
+@INCOLLECTION{OLeary2017-jq,
+  title     = "Understanding methodologies: Evaluative, action-oriented and
+               emancipatory strategies",
+  booktitle = "The essential guide to doing your research project",
+  author    = "O'Leary, Z",
+  editor    = "O'Leary, Zina",
+  publisher = "SAGE Publications Ltd",
+  edition   = "3rd edition",
+  year      =  2017,
+  address   = "Los Angeles",
+  keywords  = "RDL Course Bib"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Archer_undated-bo,
+  title    = "The symbolic violence of setting: A Bourdieusian analysis of
+              mixed methods data on secondary students' views about setting",
+  author   = "Archer, Louise and Francis, Becky and Miller, Sarah and Taylor,
+              Becky and Tereshchenko, Antonina and Mazenod, Anna and Pepper,
+              David and Travers, Mary‐claire",
+  volume   =  44,
+  keywords = "RDL Course Bib"
+}
