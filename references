@@ -7568,9 +7568,10 @@
 }
 
 @ARTICLE{Van_Dijk_undated-dp,
-  title   = "Aims of critical discourse analysis",
-  author  = "{Van Dijk} and {Others}",
-  journal = "Japanese discourse"
+  title    = "Aims of critical discourse analysis",
+  author   = "{Van Dijk} and {Others}",
+  journal  = "Japanese discourse",
+  keywords = "RDL [CCME0041]"
 }
 
 @INBOOK{Liamputtong_undated-rf,
