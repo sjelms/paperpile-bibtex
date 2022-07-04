@@ -7509,12 +7509,6 @@
   keywords = "RDL Course Bib"
 }
 
-@INBOOK{noauthor_undated-fz,
-  title    = "Bryman, A. (2015). Social Research Methods (5th ed). Oxford,
-              {UK}: Oxford University Press",
-  keywords = "RDL Course Bib"
-}
-
 @INCOLLECTION{Diamond2001-kj,
   title     = "Chapter 5 - Spreads",
   booktitle = "Beginning Statistics: An Introduction for Social Scientists",
