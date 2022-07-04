@@ -556,7 +556,7 @@
   month     =  aug,
   year      =  2021,
   address   = "London",
-  keywords  = "Book\_Intelligent Control: Disruptive Technologies"
+  keywords  = "AEC;Book\_Intelligent Control: Disruptive Technologies"
 }
 
 @INCOLLECTION{Youkhana2021-sm,
@@ -569,7 +569,7 @@
   month     =  aug,
   year      =  2021,
   address   = "London",
-  keywords  = "Book\_Intelligent Control: Disruptive Technologies"
+  keywords  = "AEC;Book\_Intelligent Control: Disruptive Technologies"
 }
 
 @ARTICLE{Endroyo2015-qg,
@@ -4196,7 +4196,7 @@
   month     =  aug,
   year      =  2021,
   address   = "London",
-  keywords  = "Book\_Intelligent Control: Disruptive Technologies"
+  keywords  = "AEC;Book\_Intelligent Control: Disruptive Technologies"
 }
 
 @INCOLLECTION{Hyde2021-wa,
@@ -4220,7 +4220,7 @@
   month     =  aug,
   year      =  2021,
   address   = "London",
-  keywords  = "Book\_Intelligent Control: Disruptive Technologies"
+  keywords  = "AEC;Book\_Intelligent Control: Disruptive Technologies"
 }
 
 @ARTICLE{Balasubramanian2021-ju,
