@@ -6915,7 +6915,7 @@
   year      =  2021,
   address   = "Oxford",
   keywords  = "Social sciences -- Research -- Methodology;Course Assignment;RDL
-               Course Bib",
+               [CCME0041]",
   language  = "eng"
 }
 
@@ -7506,7 +7506,7 @@
 
 @INBOOK{noauthor_undated-py,
   title    = "Planning a research project and formulating research questions",
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @INCOLLECTION{Diamond2001-kj,
@@ -7517,7 +7517,7 @@
   publisher = "SAGE Publications Ltd",
   year      =  2001,
   address   = "London",
-  keywords  = "RDL Course Bib"
+  keywords  = "RDL [CCME0041]"
 }
 
 @ARTICLE{Derry_undated-oa,
@@ -7528,7 +7528,7 @@
               M and Sherin, B",
   journal  = "Journal of the Learning Sciences",
   volume   =  19,
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @ARTICLE{Van_Mechelen2020-xu,
@@ -7537,12 +7537,12 @@
   author   = "Van Mechelen, M and Baykal, G E and Dindler, C and Eriksson, E
               and Iversen, O S",
   year     =  2020,
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @ARTICLE{noauthor_undated-oh,
   title    = "Arts-based research by Shaun {McNiff}",
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @INCOLLECTION{Field2009-sg,
@@ -7556,7 +7556,7 @@
   month     =  aug,
   year      =  2009,
   address   = "London",
-  keywords  = "RDL Course Bib"
+  keywords  = "RDL [CCME0041]"
 }
 
 @INCOLLECTION{Diamond2001-yq,
@@ -7567,7 +7567,7 @@
   publisher = "SAGE Publications Ltd",
   year      =  2001,
   address   = "London",
-  keywords  = "RDL Course Bib"
+  keywords  = "RDL [CCME0041]"
 }
 
 @INCOLLECTION{Chambliss2018-wg,
@@ -7580,30 +7580,17 @@
   edition   = "6th Revised edition",
   month     =  dec,
   year      =  2018,
-  keywords  = "RDL Course Bib"
+  keywords  = "RDL [CCME0041]"
 }
 
 @ARTICLE{noauthor_undated-mx,
   title    = "Social network analysis ``How to guide'' by Home Office",
-  keywords = "RDL Course Bib"
-}
-
-@ARTICLE{Herodotou2018-vt,
-  title    = "Mobile games and science learning: A comparative study of 4 and 5
-              years old playing the game Angry Birds",
-  author   = "Herodotou, Christothea",
-  journal  = "Br. J. Educ. Technol.",
-  volume   =  49,
-  number   =  1,
-  pages    = "6--16",
-  month    =  jan,
-  year     =  2018,
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @ARTICLE{noauthor_undated-cb,
   title    = "Ethical guidelines for educational research",
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @INBOOK{Liamputtong_undated-rf,
@@ -7612,14 +7599,14 @@
   abstract  = "Read Chapter 1: ``Focus Group Methodology: Introduction and
                History.''",
   publisher = "SAGE Publishing Ltd",
-  keywords  = "RDL Course Bib"
+  keywords  = "RDL [CCME0041]"
 }
 
 @ARTICLE{noauthor_2019-vb,
   title     = "Internet Research: Ethical Guidelines 3.0",
   publisher = "Association of Internet Researchers",
   year      =  2019,
-  keywords  = "RDL Course Bib"
+  keywords  = "RDL [CCME0041]"
 }
 
 @ARTICLE{Braun2006-si,
@@ -7631,7 +7618,7 @@
   pages    = "77--101",
   month    =  jan,
   year     =  2006,
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @ARTICLE{Coe2002-qv,
@@ -7639,12 +7626,12 @@
               important",
   author   = "Coe, R",
   year     =  2002,
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @ARTICLE{noauthor_undated-ff,
   title    = "Critical discourse analysis by N. Fairclough",
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @ARTICLE{Clandinin2006-lo,
@@ -7656,7 +7643,7 @@
   pages    = "44--54",
   month    =  dec,
   year     =  2006,
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @ARTICLE{Dindar2016-au,
@@ -7670,7 +7657,7 @@
   pages    = "49--77",
   month    =  mar,
   year     =  2016,
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @INBOOK{OLeary2017-js,
@@ -7683,7 +7670,7 @@
   edition   = "3rd edition",
   year      =  2017,
   address   = "Los Angeles",
-  keywords  = "RDL Course Bib"
+  keywords  = "RDL [CCME0041]"
 }
 
 @BOOK{Bhattacherjee2012-kq,
@@ -7691,7 +7678,7 @@
   author    = "Bhattacherjee, Anol",
   publisher = "Global Text Project",
   year      =  2012,
-  keywords  = "RDL Course Bib"
+  keywords  = "RDL [CCME0041]"
 }
 
 @BOOK{Yin2013-ej,
@@ -7700,12 +7687,12 @@
   author    = "Yin, R K",
   publisher = "SAGE Publishing Ltd",
   year      =  2013,
-  keywords  = "RDL Course Bib"
+  keywords  = "RDL [CCME0041]"
 }
 
 @ARTICLE{noauthor_undated-rr,
   title    = "Principles of discourse analysis by J. van Dijk",
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @BOOK{Bhattacherjee2012-fx,
@@ -7716,7 +7703,7 @@
   publisher = "Createspace Independent Publishing Platform",
   month     =  apr,
   year      =  2012,
-  keywords  = "RDL Course Bib"
+  keywords  = "RDL [CCME0041]"
 }
 
 @ARTICLE{Geerz1973-kk,
@@ -7724,7 +7711,7 @@
   author    = "Geerz, C",
   publisher = "Basic Books",
   year      =  1973,
-  keywords  = "RDL Course Bib"
+  keywords  = "RDL [CCME0041]"
 }
 
 @INBOOK{OLeary2017-kr,
@@ -7737,7 +7724,7 @@
   edition   = "3rd edition",
   year      =  2017,
   address   = "Los Angeles",
-  keywords  = "RDL Course Bib"
+  keywords  = "RDL [CCME0041]"
 }
 
 @ARTICLE{Berland2014-ra,
@@ -7747,7 +7734,7 @@
   journal  = "Technology, Knowledge, and Learning",
   volume   =  19,
   year     =  2014,
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @INBOOK{Robson2016-sn,
@@ -7757,7 +7744,7 @@
   edition   = "Fourth edition",
   year      =  2016,
   address   = "Chichester, West Sussex, United Kingdom",
-  keywords  = "RDL Course Bib"
+  keywords  = "RDL [CCME0041]"
 }
 
 @BOOK{Stebbins2001-mg,
@@ -7767,7 +7754,7 @@
   volume    =  48,
   year      =  2001,
   address   = "London",
-  keywords  = "RDL Course Bib"
+  keywords  = "RDL [CCME0041]"
 }
 
 @INCOLLECTION{Baker2014-jv,
@@ -7777,7 +7764,7 @@
   abstract  = "Tip: read pages 253-274. You can skip or skim through section 2
                for this activity.",
   year      =  2014,
-  keywords  = "RDL Course Bib"
+  keywords  = "RDL [CCME0041]"
 }
 
 @ARTICLE{Jarg_Bergold2012-te,
@@ -7788,12 +7775,12 @@
   volume   =  13,
   number   =  1,
   year     =  2012,
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @ARTICLE{noauthor_undated-lf,
   title    = "Learning, Media and Technology",
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @ARTICLE{Anderson2012-zy,
@@ -7806,7 +7793,7 @@
   pages    = "16--25",
   month    =  jan,
   year     =  2012,
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @ARTICLE{Shenton2004-zi,
@@ -7815,7 +7802,7 @@
   author   = "Shenton, A",
   journal  = "Education for Information",
   year     =  2004,
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @BOOK{Patton1990-iz,
@@ -7825,7 +7812,7 @@
   edition   = "2nd ed",
   year      =  1990,
   address   = "London",
-  keywords  = "RDL Course Bib"
+  keywords  = "RDL [CCME0041]"
 }
 
 @INCOLLECTION{Field2009-kq,
@@ -7838,7 +7825,7 @@
   month     =  aug,
   year      =  2009,
   address   = "London",
-  keywords  = "RDL Course Bib"
+  keywords  = "RDL [CCME0041]"
 }
 
 @ARTICLE{Burnard2008-tn,
@@ -7850,12 +7837,12 @@
   number   =  8,
   pages    = "429--432",
   year     =  2008,
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @ARTICLE{noauthor_undated-st,
   title    = "Narrative inquiry by D. Clandinin and J. Huber",
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @PROCEEDINGS{Jewitt2012-nf,
@@ -7863,7 +7850,7 @@
               environments",
   author   = "Jewitt, C and Price, S",
   year     =  2012,
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @ARTICLE{Cukurova2016-vw,
@@ -7874,7 +7861,7 @@
   publisher = "ACM Press",
   pages     = "84--88",
   year      =  2016,
-  keywords  = "RDL Course Bib"
+  keywords  = "RDL [CCME0041]"
 }
 
 @BOOK{Emerson2011-ms,
@@ -7886,7 +7873,7 @@
   edition   = "2nd ed",
   year      =  2011,
   address   = "London",
-  keywords  = "RDL Course Bib"
+  keywords  = "RDL [CCME0041]"
 }
 
 @INCOLLECTION{Field2009-rk,
@@ -7900,7 +7887,7 @@
   month     =  aug,
   year      =  2009,
   address   = "London",
-  keywords  = "RDL Course Bib"
+  keywords  = "RDL [CCME0041]"
 }
 
 @INCOLLECTION{OLeary2017-gf,
@@ -7911,7 +7898,7 @@
   abstract  = "Read pages 139-140 with a focus on the positivist credibility
                indicators from Table 4.2",
   year      =  2017,
-  keywords  = "RDL Course Bib"
+  keywords  = "RDL [CCME0041]"
 }
 
 @INBOOK{Bhattacherjee2012-ho,
@@ -7920,7 +7907,7 @@
   abstract = "Read Chapter 5: ``Research design'' (pages: 35-39) and Chapter 7:
               ``Scale reliability and validity.''",
   year     =  2012,
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @ARTICLE{Fine1993-hi,
@@ -7928,7 +7915,7 @@
   author   = "Fine, G A",
   volume   =  22,
   year     =  1993,
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @ARTICLE{Reiter2013-wa,
@@ -7936,7 +7923,7 @@
               Research: Crossing Popper with Marcuse",
   author   = "Reiter, Bernd",
   year     =  2013,
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @ARTICLE{Nicolaas2014-mi,
@@ -7945,7 +7932,7 @@
                Roberts, Caroline",
   publisher = "National Centre for Research Methods",
   year      =  2014,
-  keywords  = "RDL Course Bib"
+  keywords  = "RDL [CCME0041]"
 }
 
 @INCOLLECTION{Diamond2001-wq,
@@ -7956,7 +7943,7 @@
   publisher = "SAGE Publications Ltd",
   year      =  2001,
   address   = "London",
-  keywords  = "RDL Course Bib"
+  keywords  = "RDL [CCME0041]"
 }
 
 @BOOK{Robson2022-tm,
@@ -7966,13 +7953,13 @@
   month     =  sep,
   year      =  2022,
   address   = "New York",
-  keywords  = "RDL Course Bib"
+  keywords  = "RDL [CCME0041]"
 }
 
 @PROCEEDINGS{Ramey_undated-ho,
   title    = "Qualitative Analysis of Video Data: Standards and Heuristics",
   author   = "Ramey, K E R and Hilpp{\"o}, J and Dyer, E and Villanosa, K",
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @INCOLLECTION{Diamond2001-mz,
@@ -7984,7 +7971,7 @@
   publisher = "SAGE Publications Ltd",
   year      =  2001,
   address   = "London",
-  keywords  = "RDL Course Bib"
+  keywords  = "RDL [CCME0041]"
 }
 
 @INCOLLECTION{Fife-Schaw_undated-sx,
@@ -7993,7 +7980,7 @@
   author    = "Fife-Schaw, C",
   editor    = "Breakwell, G",
   publisher = "SAGE Publishing Ltd",
-  keywords  = "RDL Course Bib"
+  keywords  = "RDL [CCME0041]"
 }
 
 @ARTICLE{Levitt_undated-st,
@@ -8005,7 +7992,7 @@
               Josselson, R and Suarez-Orozco, C",
   journal  = "Am. Psychol.",
   volume   =  73,
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @INCOLLECTION{OLeary2017-cu,
@@ -8018,7 +8005,7 @@
   month     =  apr,
   year      =  2017,
   address   = "London",
-  keywords  = "RDL Course Bib"
+  keywords  = "RDL [CCME0041]"
 }
 
 @ARTICLE{Flyvbjerg2006-vk,
@@ -8031,7 +8018,7 @@
   pages    = "219--245",
   month    =  apr,
   year     =  2006,
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @ARTICLE{Scotland2012-lw,
@@ -8044,7 +8031,7 @@
   number   =  9,
   month    =  jul,
   year     =  2012,
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @BOOK{Hine2009-zv,
@@ -8054,12 +8041,12 @@
   publisher = "SAGE",
   year      =  2009,
   address   = "London",
-  keywords  = "RDL Course Bib"
+  keywords  = "RDL [CCME0041]"
 }
 
 @ARTICLE{noauthor_undated-og,
   title    = "Aims of critical discourse analysis by T. A. van Dijk",
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @ARTICLE{Alexandra_S_Drawson2017-ec,
@@ -8069,7 +8056,7 @@
   volume   =  8,
   number   =  2,
   year     =  2017,
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @ARTICLE{Morse2002-hb,
@@ -8079,7 +8066,7 @@
   author   = "Morse, J and Barrett, M and Mayan, M and Olson, K and Spiers, J",
   journal  = "International Journal of Qualitative Methods.",
   year     =  2002,
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -8094,12 +8081,12 @@
   pages    = "79--93",
   month    =  mar,
   year     =  2009,
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @ARTICLE{noauthor_undated-sw,
   title    = "Decolonising Methodologies: Research and Indigenous Peoples",
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @ARTICLE{DallAlba2009-hm,
@@ -8111,7 +8098,7 @@
   pages    = "7--9",
   month    =  jan,
   year     =  2009,
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @INCOLLECTION{Barab2006-jc,
@@ -8120,7 +8107,7 @@
   author    = "Barab, Sasha",
   publisher = "Cambridge University Press.",
   year      =  2006,
-  keywords  = "RDL Course Bib"
+  keywords  = "RDL [CCME0041]"
 }
 
 @INCOLLECTION{Rivas2012-qo,
@@ -8129,27 +8116,14 @@
   author    = "Rivas, C",
   publisher = "London, UK: Sage",
   year      =  2012,
-  keywords  = "RDL Course Bib"
+  keywords  = "RDL [CCME0041]"
 }
 
 @ARTICLE{Ivankova_undated-pu,
   title    = "Using {Mixed-Methods} Sequential Explanatory Design: From Theory
               to Practice",
   author   = "Ivankova, Nataliya V and Creswell, John W and Stick, Sheldon L",
-  keywords = "RDL Course Bib"
-}
-
-@ARTICLE{Herodotou2018-ef,
-  title    = "Mobile games and science learning: A comparative study of 4 and 5
-              years old playing the game Angry Birds",
-  author   = "Herodotou, Christothea",
-  journal  = "Br. J. Educ. Technol.",
-  volume   =  49,
-  number   =  1,
-  pages    = "6--16",
-  month    =  jan,
-  year     =  2018,
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @ARTICLE{Johnson2008-yb,
@@ -8162,12 +8136,12 @@
   pages    = "105--128",
   month    =  sep,
   year     =  2008,
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @ARTICLE{noauthor_undated-ie,
   title    = "Arts Based Educational Research by {BERA}",
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @ARTICLE{Muteanu2015-ju,
@@ -8176,14 +8150,14 @@
   author   = "Muteanu, C and Molyneaux, H and Moncur, W and Romero, M and
               O'Donnell, S and Vines, J",
   year     =  2015,
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @ARTICLE{Guba1982-ff,
   title    = "Epistemological and methodological bases of naturalistic inquiry",
   author   = "Guba, E G and Lincoln, Y S",
   year     =  1982,
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
 }
 
 @BOOK{Friesen2012-hk,
@@ -8192,7 +8166,7 @@
   publisher = "SensePublishers",
   year      =  2012,
   address   = "Rotterdam",
-  keywords  = "RDL Course Bib"
+  keywords  = "RDL [CCME0041]"
 }
 
 @INCOLLECTION{OLeary2017-jq,
@@ -8205,7 +8179,7 @@
   edition   = "3rd edition",
   year      =  2017,
   address   = "Los Angeles",
-  keywords  = "RDL Course Bib"
+  keywords  = "RDL [CCME0041]"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -8217,5 +8191,18 @@
               Becky and Tereshchenko, Antonina and Mazenod, Anna and Pepper,
               David and Travers, Mary‐claire",
   volume   =  44,
-  keywords = "RDL Course Bib"
+  keywords = "RDL [CCME0041]"
+}
+
+@ARTICLE{Herodotou2018-ef,
+  title    = "Mobile games and science learning: A comparative study of 4 and 5
+              years old playing the game Angry Birds",
+  author   = "Herodotou, Christothea",
+  journal  = "Br. J. Educ. Technol.",
+  volume   =  49,
+  number   =  1,
+  pages    = "6--16",
+  month    =  jan,
+  year     =  2018,
+  keywords = "RDL [CCME0041]"
 }
