@@ -7565,12 +7565,6 @@
   keywords  = "RDL Course Bib"
 }
 
-@INBOOK{noauthor_undated-kd,
-  title    = "Bryman, A. (2015). Social Research Methods (5th ed). Oxford,
-              {UK}: Oxford University Press",
-  keywords = "RDL Course Bib"
-}
-
 @INCOLLECTION{Diamond2001-yq,
   title     = "Chapter 3 - Pretty Graphs",
   booktitle = "Beginning Statistics: An Introduction for Social Scientists",
@@ -7613,32 +7607,8 @@
   keywords = "RDL Course Bib"
 }
 
-@BOOK{Tom2021-bf,
-  title     = "Bryman's social research methods",
-  author    = "Tom, Clark and Foster, Liam and Sloan, Luke and Bryman, Alan",
-  publisher = "Oxford University Press",
-  edition   = "Sixth edition",
-  year      =  2021,
-  address   = "Oxford",
-  keywords  = "RDL Course Bib"
-}
-
 @ARTICLE{noauthor_undated-cb,
   title    = "Ethical guidelines for educational research",
-  keywords = "RDL Course Bib"
-}
-
-@INBOOK{noauthor_undated-xn,
-  title    = "Bryman, A. (2015). Social Research Methods (5th ed). Oxford,
-              {UK}: Oxford University Press",
-  abstract = "Read Chapter 16: ``The nature of qualitative research.''",
-  keywords = "RDL Course Bib"
-}
-
-@INBOOK{noauthor_undated-mz,
-  title    = "Bryman, A. (2015). Social Research Methods (5th ed). Oxford,
-              {UK}: Oxford University Press",
-  abstract = "Read Chapter 6: ``Ethics and politics in social research.''",
   keywords = "RDL Course Bib"
 }
 
@@ -7656,12 +7626,6 @@
   publisher = "Association of Internet Researchers",
   year      =  2019,
   keywords  = "RDL Course Bib"
-}
-
-@INBOOK{noauthor_undated-fl,
-  title    = "Bryman, A. (2015). Social Research Methods (5th ed). Oxford,
-              {UK}: Oxford University Press",
-  keywords = "RDL Course Bib"
 }
 
 @ARTICLE{Braun2006-si,
@@ -7698,14 +7662,6 @@
   pages    = "44--54",
   month    =  dec,
   year     =  2006,
-  keywords = "RDL Course Bib"
-}
-
-@INBOOK{noauthor_undated-uw,
-  title    = "Bryman, A. (2015). Social Research Methods (5th ed). Oxford,
-              {UK}: Oxford University Press",
-  abstract = "Read Chapter 26: ``Breaking down the quantitative/qualitative
-              divide.''",
   keywords = "RDL Course Bib"
 }
 
@@ -7751,12 +7707,6 @@
   publisher = "SAGE Publishing Ltd",
   year      =  2013,
   keywords  = "RDL Course Bib"
-}
-
-@INBOOK{noauthor_undated-sm,
-  title    = "Bryman, A. (2015). Social Research Methods (5th ed). Oxford,
-              {UK}: Oxford University Press",
-  keywords = "RDL Course Bib"
 }
 
 @ARTICLE{noauthor_undated-rr,
@@ -7806,18 +7756,6 @@
   keywords = "RDL Course Bib"
 }
 
-@BOOK{Tom2021-oh,
-  title     = "Bryman's social research methods",
-  author    = "Tom, Clark and Foster, Liam and Sloan, Luke and Bryman, Alan",
-  abstract  = "Chapter 11: ``Issues to consider for your structured interview
-               schedule or self-administered questionnaire''. Read page 262",
-  publisher = "Oxford University Press",
-  edition   = "Sixth edition",
-  year      =  2021,
-  address   = "Oxford",
-  keywords  = "RDL Course Bib"
-}
-
 @INBOOK{Robson2016-sn,
   title     = "Fixed designs",
   editor    = "Robson, Colin and McCartan, Kieran",
@@ -7826,33 +7764,6 @@
   year      =  2016,
   address   = "Chichester, West Sussex, United Kingdom",
   keywords  = "RDL Course Bib"
-}
-
-@INBOOK{noauthor_undated-jh,
-  title    = "Bryman, A. (2015). Social Research Methods (5th ed). Oxford,
-              {UK}: Oxford University Press",
-  abstract = "Read Chapter 2: ``Social research strategies: quantitative
-              research and qualitative research.''",
-  keywords = "RDL Course Bib"
-}
-
-@INBOOK{noauthor_undated-ln,
-  title    = "Bryman, A. (2015). Social Research Methods (5th ed). Oxford,
-              {UK}: Oxford University Press",
-  abstract = "Read Chapter 22: ``Documents as sources of data.''",
-  keywords = "RDL Course Bib"
-}
-
-@INBOOK{noauthor_undated-yx,
-  title    = "Bryman, A. (2015). Social Research Methods (5th ed). Oxford,
-              {UK}: Oxford University Press",
-  keywords = "RDL Course Bib"
-}
-
-@INBOOK{noauthor_undated-og,
-  title    = "Bryman, A. (2015). Social Research Methods (5th ed). Oxford,
-              {UK}: Oxford University Press",
-  keywords = "RDL Course Bib"
 }
 
 @BOOK{Stebbins2001-mg,
@@ -7972,12 +7883,6 @@
   keywords  = "RDL Course Bib"
 }
 
-@INBOOK{noauthor_undated-sk,
-  title    = "Bryman, A. (2015). Social Research Methods (5th ed). Oxford,
-              {UK}: Oxford University Press",
-  keywords = "RDL Course Bib"
-}
-
 @BOOK{Emerson2011-ms,
   title     = "Writing ethnographic fieldnotes",
   author    = "Emerson, Robert M and Fretz, Rachel I and Shaw, Linda L",
@@ -8004,26 +7909,6 @@
   keywords  = "RDL Course Bib"
 }
 
-@BOOK{Bryman2016-xt,
-  title     = "Social research methods",
-  author    = "Bryman, Alan",
-  abstract  = "Read Chapter 15 ``Quantitative data analysis'' pages 336-340 and
-               Chapter 8 ``Sampling in quantitative research'' pages 174-175.",
-  publisher = "Oxford University Press",
-  edition   = "Fifth edition",
-  year      =  2016,
-  address   = "Oxford, United Kingdom",
-  keywords  = "RDL Course Bib"
-}
-
-@INBOOK{noauthor_undated-nw,
-  title    = "Bryman, A. (2015). Social Research Methods (5th ed). Oxford,
-              {UK}: Oxford University Press",
-  abstract = "Read Chapter 27: ``Mixed methods research: combining quantitative
-              and qualitative research.''",
-  keywords = "RDL Course Bib"
-}
-
 @INCOLLECTION{OLeary2017-gf,
   title     = "Undertaking Credible and Ethical Research",
   booktitle = "The essential guide of doing your research project",
@@ -8032,16 +7917,6 @@
   abstract  = "Read pages 139-140 with a focus on the positivist credibility
                indicators from Table 4.2",
   year      =  2017,
-  keywords  = "RDL Course Bib"
-}
-
-@BOOK{Tom2021-pi,
-  title     = "Bryman's social research methods",
-  author    = "Tom, Clark and Foster, Liam and Sloan, Luke and Bryman, Alan",
-  publisher = "Oxford University Press",
-  edition   = "Sixth edition",
-  year      =  2021,
-  address   = "Oxford",
   keywords  = "RDL Course Bib"
 }
 
@@ -8139,12 +8014,6 @@
   keywords = "RDL Course Bib"
 }
 
-@INBOOK{noauthor_undated-pq,
-  title    = "Bryman, A. (2015). Social Research Methods (5th ed). Oxford,
-              {UK}: Oxford University Press",
-  keywords = "RDL Course Bib"
-}
-
 @INCOLLECTION{OLeary2017-cu,
   title     = "Analysing Quantitative Data",
   booktitle = "Essential Guide to Doing Your Research Project",
@@ -8168,12 +8037,6 @@
   pages    = "219--245",
   month    =  apr,
   year     =  2006,
-  keywords = "RDL Course Bib"
-}
-
-@INBOOK{noauthor_undated-tr,
-  title    = "Bryman, A. (2015). Social Research Methods (5th ed). Oxford,
-              {UK}: Oxford University Press",
   keywords = "RDL Course Bib"
 }
 
@@ -8295,19 +8158,6 @@
   keywords = "RDL Course Bib"
 }
 
-@BOOK{Tom2021-pk,
-  title     = "Bryman's social research methods",
-  author    = "Tom, Clark and Foster, Liam and Sloan, Luke and Bryman, Alan",
-  abstract  = "Chapter 3: ``Research design'' pages 41-42 (focus on the
-               credibility indicators for quantitative designs); Chapter 7: The
-               nature of quantitative research`` pages 157-160.",
-  publisher = "Oxford University Press",
-  edition   = "Sixth edition",
-  year      =  2021,
-  address   = "Oxford",
-  keywords  = "RDL Course Bib"
-}
-
 @ARTICLE{Johnson2008-yb,
   title    = "Simulating Medical Patients and Practices: Bodies and the
               Construction of Valid Medical Simulators",
@@ -8349,13 +8199,6 @@
   year      =  2012,
   address   = "Rotterdam",
   keywords  = "RDL Course Bib"
-}
-
-@INBOOK{noauthor_undated-va,
-  title    = "Bryman, A. (2015). Social Research Methods (5th ed). Oxford,
-              {UK}: Oxford University Press",
-  abstract = "Read Chapter 1: ``The nature and process of social research.''",
-  keywords = "RDL Course Bib"
 }
 
 @INCOLLECTION{OLeary2017-jq,
