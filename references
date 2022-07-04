@@ -7509,17 +7509,6 @@
   keywords = "RDL [CCME0041]"
 }
 
-@INCOLLECTION{Diamond2001-kj,
-  title     = "Chapter 5 - Spreads",
-  booktitle = "Beginning Statistics: An Introduction for Social Scientists",
-  author    = "Diamond, I and Jefferies, J",
-  editor    = "Diamond, I and Jefferies, J",
-  publisher = "SAGE Publications Ltd",
-  year      =  2001,
-  address   = "London",
-  keywords  = "RDL [CCME0041]"
-}
-
 @ARTICLE{Derry_undated-oa,
   title    = "Conducting Video Research in the Learning Sciences: Guidance on
               Selection, Analysis, Technology, and Ethics",
@@ -7555,17 +7544,6 @@
   edition   = "3rd Revised edition",
   month     =  aug,
   year      =  2009,
-  address   = "London",
-  keywords  = "RDL [CCME0041]"
-}
-
-@INCOLLECTION{Diamond2001-yq,
-  title     = "Chapter 3 - Pretty Graphs",
-  booktitle = "Beginning Statistics: An Introduction for Social Scientists",
-  author    = "Diamond, I and Jefferies, J",
-  editor    = "Diamond, I and Jefferies, J",
-  publisher = "SAGE Publications Ltd",
-  year      =  2001,
   address   = "London",
   keywords  = "RDL [CCME0041]"
 }
@@ -7660,27 +7638,6 @@
   keywords = "RDL [CCME0041]"
 }
 
-@INBOOK{OLeary2017-js,
-  title     = "The essential guide to doing your research project",
-  author    = "O'Leary, Zina",
-  abstract  = "Read Chapter 11: ``Primary data: Surveys, interviews and
-               observations.'' Note: this link doesn't provide us with a
-               downable resource.",
-  publisher = "SAGE Publications Ltd",
-  edition   = "3rd edition",
-  year      =  2017,
-  address   = "Los Angeles",
-  keywords  = "RDL [CCME0041]"
-}
-
-@BOOK{Bhattacherjee2012-kq,
-  title     = "Social Science Research: Principles, Methods, and Practices",
-  author    = "Bhattacherjee, Anol",
-  publisher = "Global Text Project",
-  year      =  2012,
-  keywords  = "RDL [CCME0041]"
-}
-
 @BOOK{Yin2013-ej,
   title     = "How to Know Whether and When to Use Case Studies as a Research
                Method",
@@ -7711,19 +7668,6 @@
   author    = "Geerz, C",
   publisher = "Basic Books",
   year      =  1973,
-  keywords  = "RDL [CCME0041]"
-}
-
-@INBOOK{OLeary2017-kr,
-  title     = "The essential guide to doing your research project",
-  author    = "O'Leary, Zina",
-  abstract  = "Read Chapter 11: ``Primary data: Surveys, interviews and
-               observations.'' Note: this link doesn't provide us with a
-               downable resource.",
-  publisher = "SAGE Publications Ltd",
-  edition   = "3rd edition",
-  year      =  2017,
-  address   = "Los Angeles",
   keywords  = "RDL [CCME0041]"
 }
 
@@ -7890,26 +7834,6 @@
   keywords  = "RDL [CCME0041]"
 }
 
-@INCOLLECTION{OLeary2017-gf,
-  title     = "Undertaking Credible and Ethical Research",
-  booktitle = "The essential guide of doing your research project",
-  author    = "O'Leary, Z",
-  editor    = "O'Leary, Z",
-  abstract  = "Read pages 139-140 with a focus on the positivist credibility
-               indicators from Table 4.2",
-  year      =  2017,
-  keywords  = "RDL [CCME0041]"
-}
-
-@INBOOK{Bhattacherjee2012-ho,
-  title    = "Social Science Research: Principles, Methods, and Practices",
-  author   = "Bhattacherjee, Anol",
-  abstract = "Read Chapter 5: ``Research design'' (pages: 35-39) and Chapter 7:
-              ``Scale reliability and validity.''",
-  year     =  2012,
-  keywords = "RDL [CCME0041]"
-}
-
 @ARTICLE{Fine1993-hi,
   title    = "Journal of Contemporary Ethnography",
   author   = "Fine, G A",
@@ -7935,17 +7859,6 @@
   keywords  = "RDL [CCME0041]"
 }
 
-@INCOLLECTION{Diamond2001-wq,
-  title     = "Chapter 8 - From Samples to Populations",
-  booktitle = "Beginning Statistics: An Introduction for Social Scientists",
-  author    = "Diamond, I and Jefferies, J",
-  editor    = "Diamond, I and Jefferies, J",
-  publisher = "SAGE Publications Ltd",
-  year      =  2001,
-  address   = "London",
-  keywords  = "RDL [CCME0041]"
-}
-
 @BOOK{Robson2022-tm,
   title     = "Real World Research",
   author    = "Robson, Colin and McCartan, Kieran",
@@ -7960,18 +7873,6 @@
   title    = "Qualitative Analysis of Video Data: Standards and Heuristics",
   author   = "Ramey, K E R and Hilpp{\"o}, J and Dyer, E and Villanosa, K",
   keywords = "RDL [CCME0041]"
-}
-
-@INCOLLECTION{Diamond2001-mz,
-  title     = "Chapter 4 - Averages and Percentiles",
-  booktitle = "Beginning Statistics: An Introduction for Social Scientists",
-  author    = "Diamond, I and Jefferies, J",
-  editor    = "Diamond, I and Jefferies, J",
-  abstract  = "Read pages 11-13 ``The shape of a distribution.''",
-  publisher = "SAGE Publications Ltd",
-  year      =  2001,
-  address   = "London",
-  keywords  = "RDL [CCME0041]"
 }
 
 @INCOLLECTION{Fife-Schaw_undated-sx,
@@ -7993,19 +7894,6 @@
   journal  = "Am. Psychol.",
   volume   =  73,
   keywords = "RDL [CCME0041]"
-}
-
-@INCOLLECTION{OLeary2017-cu,
-  title     = "Analysing Quantitative Data",
-  booktitle = "Essential Guide to Doing Your Research Project",
-  author    = "O'Leary, Z",
-  editor    = "O'Leary, Zina",
-  publisher = "SAGE Publications Ltd",
-  edition   = "3rd Revised edition",
-  month     =  apr,
-  year      =  2017,
-  address   = "London",
-  keywords  = "RDL [CCME0041]"
 }
 
 @ARTICLE{Flyvbjerg2006-vk,
@@ -8205,4 +8093,54 @@
   month    =  jan,
   year     =  2018,
   keywords = "RDL [CCME0041]"
+}
+
+@INCOLLECTION{OLeary2017-cu,
+  title     = "Undertaking Credible and Ethical Research",
+  booktitle = "The essential guide of doing your research project",
+  author    = "O'Leary, Z",
+  editor    = "O'Leary, Zina",
+  abstract  = "Read pages 139-140 with a focus on the positivist credibility
+               indicators from Table 4.2",
+  publisher = "SAGE Publications Ltd",
+  edition   = "3rd Revised edition",
+  month     =  apr,
+  year      =  2017,
+  address   = "London",
+  keywords  = "RDL [CCME0041]"
+}
+
+@INCOLLECTION{Diamond2001-mz,
+  title     = "Chapter 8 - From Samples to Populations",
+  booktitle = "Beginning Statistics: An Introduction for Social Scientists",
+  author    = "Diamond, I and Jefferies, J",
+  editor    = "Diamond, I and Jefferies, J",
+  abstract  = "Read pages 11-13 ``The shape of a distribution.''",
+  publisher = "SAGE Publications Ltd",
+  year      =  2001,
+  address   = "London",
+  keywords  = "RDL [CCME0041]"
+}
+
+@INBOOK{Bhattacherjee2012-ho,
+  title     = "Social Science Research: Principles, Methods, and Practices",
+  author    = "Bhattacherjee, Anol",
+  abstract  = "Read Chapter 5: ``Research design'' (pages: 35-39) and Chapter
+               7: ``Scale reliability and validity.''",
+  publisher = "Global Text Project",
+  year      =  2012,
+  keywords  = "RDL [CCME0041]"
+}
+
+@INBOOK{OLeary2017-kr,
+  title     = "The essential guide to doing your research project",
+  author    = "O'Leary, Zina",
+  abstract  = "Read Chapter 11: ``Primary data: Surveys, interviews and
+               observations.'' Note: this link doesn't provide us with a
+               downable resource.",
+  publisher = "SAGE Publications Ltd",
+  edition   = "3rd edition",
+  year      =  2017,
+  address   = "Los Angeles",
+  keywords  = "RDL [CCME0041]"
 }
