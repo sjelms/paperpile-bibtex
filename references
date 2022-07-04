@@ -8006,13 +8006,6 @@
   keywords  = "RDL [CCME0041]"
 }
 
-@ARTICLE{Ivankova_undated-pu,
-  title    = "Using {Mixed-Methods} Sequential Explanatory Design: From Theory
-              to Practice",
-  author   = "Ivankova, Nataliya V and Creswell, John W and Stick, Sheldon L",
-  keywords = "RDL [CCME0041]"
-}
-
 @ARTICLE{Johnson2008-yb,
   title    = "Simulating Medical Patients and Practices: Bodies and the
               Construction of Valid Medical Simulators",
@@ -8222,4 +8215,37 @@
   keywords  = "ethics, vulnerable populations, situational ethics, research
                protocol, field studies;RDL [CCME0041]",
   location  = "Seoul, Republic of Korea"
+}
+
+@ARTICLE{Ivankova2006-pu,
+  title     = "Using mixed-methods sequential explanatory design: From theory
+               to practice",
+  author    = "Ivankova, Nataliya V and Creswell, John W and Stick, Sheldon L",
+  abstract  = "This article discusses some procedural issues related to the
+               mixed-methods sequential explanatory design, which implies
+               collecting and analyzing quantitative and then qualitative data
+               in two consecutive phases within one study. Such issues include
+               deciding on the priority or weight given to the quantitative and
+               qualitative data collection and analysis in the study, the
+               sequence of the data collection and analysis, and the
+               stage/stages in the research process at which the quantitative
+               and qualitative data are connected and the results are
+               integrated. The article provides a methodological overview of
+               priority, implementation, and mixing in the sequential
+               explanatory design and offers some practical guidance in
+               addressing those issues. It also outlines the steps for
+               graphically representing the procedures in a mixed-methods
+               study. A mixed-methods sequential explanatory study of doctoral
+               students' persistence in a distance-learning program in
+               educational leadership is used to illustrate the methodological
+               discussion.",
+  journal   = "Field methods",
+  publisher = "SAGE Publications",
+  volume    =  18,
+  number    =  1,
+  pages     = "3--20",
+  month     =  feb,
+  year      =  2006,
+  keywords  = "RDL [CCME0041]",
+  language  = "en"
 }
