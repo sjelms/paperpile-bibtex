@@ -8069,18 +8069,6 @@
   keywords  = "RDL [CCME0041]"
 }
 
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@ARTICLE{Archer_undated-bo,
-  title    = "The symbolic violence of setting: A Bourdieusian analysis of
-              mixed methods data on secondary students' views about setting",
-  author   = "Archer, Louise and Francis, Becky and Miller, Sarah and Taylor,
-              Becky and Tereshchenko, Antonina and Mazenod, Anna and Pepper,
-              David and Travers, Mary‐claire",
-  volume   =  44,
-  keywords = "RDL [CCME0041]"
-}
-
 @ARTICLE{Herodotou2018-ef,
   title    = "Mobile games and science learning: A comparative study of 4 and 5
               years old playing the game Angry Birds",
@@ -8142,4 +8130,49 @@
   year      =  2017,
   address   = "Los Angeles",
   keywords  = "RDL [CCME0041]"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Archer2018-bo,
+  title     = "The symbolic violence of setting: A Bourdieusian analysis of
+               mixed methods data on secondary students' views about setting",
+  author    = "Archer, Louise and Francis, Becky and Miller, Sarah and Taylor,
+               Becky and Tereshchenko, Antonina and Mazenod, Anna and Pepper,
+               David and Travers, Mary-Claire",
+  abstract  = "`Setting' is a widespread practice in the UK, despite little
+               evidence of its efficacy and substantial evidence of its
+               detrimental impact on those allocated to the lowest sets. Taking
+               a Bourdieusian approach, we propose that setting can be
+               understood as a practice through which the social and cultural
+               reproduction of dominant power relations is enacted within
+               schools. Drawing on survey data from 12,178 Year 7 (age 11/12)
+               students and discussion groups and individual interviews with 33
+               students, conducted as part of a wider project on secondary
+               school grouping practices, we examine the views of students who
+               experience setting, exploring the extent to which the legitimacy
+               of the practice is accepted or challenged, focusing on students'
+               negative views about setting. Analyses show that privileged
+               students (White, middle class) were most likely to be in top
+               sets whereas working‐class and Black students were more likely
+               to be in bottom sets. Students in the lowest sets (and boys,
+               Black students and those in receipt of free school meals) were
+               the most likely to express negative views of setting and to
+               question the legitimacy and `fairness' of setting as a practice,
+               whereas top‐set students defended the legitimacy of setting and
+               set allocations as `natural' and `deserved'. This paper argues
+               that setting is incompatible with social justice approaches to
+               education and calls for the foregrounding of the views of those
+               who are disadvantaged by the practice as a tool for challenging
+               the doxa of setting.",
+  journal   = "Br. Educ. Res. J.",
+  publisher = "Wiley",
+  volume    =  44,
+  number    =  1,
+  pages     = "119--140",
+  month     =  feb,
+  year      =  2018,
+  keywords  = "RDL [CCME0041]",
+  copyright = "http://onlinelibrary.wiley.com/termsAndConditions\#vor",
+  language  = "en"
 }
