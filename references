@@ -7662,12 +7662,14 @@
   keywords  = "RDL [CCME0041]"
 }
 
-@ARTICLE{Geerz1973-kk,
-  title     = "Thick description: toward an interpretive theory of culture",
-  author    = "Geerz, C",
-  publisher = "Basic Books",
-  year      =  1973,
-  keywords  = "RDL [CCME0041]"
+@MISC{Geerz1973-kk,
+  title        = "Thick description: toward an interpretive theory of culture",
+  author       = "Geerz, C",
+  publisher    = "Basic Books",
+  year         =  1973,
+  howpublished = "\url{https://philpapers.org/archive/GEETTD.pdf}",
+  note         = "Accessed: 2022-7-4",
+  keywords     = "RDL [CCME0041]"
 }
 
 @ARTICLE{Berland2014-ra,
