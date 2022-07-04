@@ -6849,12 +6849,6 @@
   keywords = "Course Assignment;AIEd [CCME0123]"
 }
 
-@ARTICLE{noauthor_undated-tb,
-  title    = "Epistemology, assessment, pedagogy: where learning meets
-              analytics in the middle space",
-  keywords = "Course Assignment;AIEd [CCME0123]"
-}
-
 @INPROCEEDINGS{Vinge1993-ui,
   title       = "The Coming of Technological Singularity. Vision-21 Symposium.
                  ``Whole Earth Review''",
@@ -8469,4 +8463,38 @@
                textiles, lilypad arduino, computational textiles, wearable
                computing;Course Assignment;W2\_ Additional Readings",
   location  = "Florence, Italy"
+}
+
+@ARTICLE{Knight2014-tb,
+  title    = "Epistemology, assessment, pedagogy: where learning meets
+              analytics in the middle space",
+  author   = "Knight, Simon and Buckingham Shum, Simon and Littleton, Karen",
+  abstract = "Learning Analytics is an emerging research field and design
+              discipline which occupies the `middle space' between the learning
+              sciences/educational research, and the use of computational
+              techniques to capture and analyse data (Suthers and Verbert,
+              2013). We propose that the literature examining the triadic
+              relationships between epistemology (the nature of knowledge),
+              pedagogy (the nature of learning and teaching) and assessment
+              provide critical considerations for bounding this middle space.
+              We provide examples to illustrate the ways in which the
+              understandings of particular analytics are informed by this
+              triad. As a detailed worked example of how one might design
+              analytics to scaffold a specific form of higher order learning,
+              we focus on the construct of epistemic beliefs: beliefs about the
+              nature of knowledge. We argue that analytics grounded in a
+              pragmatic, sociocultural perspective are well placed to explore
+              this construct using discourse-centric technologies. The examples
+              provided throughout this paper, through emphasising the
+              consideration of intentional design issues in the middle space,
+              underscore the ``interpretative flexibility'' (Hamilton \&
+              Feenberg, 2005) of new technologies, including analytics.",
+  journal  = "Journal of Learning Analytics",
+  volume   =  1,
+  number   =  2,
+  pages    = "23--47",
+  year     =  2014,
+  keywords = "learning analytics; epistemology; pedagogy; educational
+              assessment; discourse analytics; social learning analytics;Course
+              Assignment;AIEd [CCME0123]"
 }
