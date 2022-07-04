@@ -6841,14 +6841,6 @@
   keywords = "Course Assignment;AIEd [CCME0123]"
 }
 
-@ARTICLE{Baker2018-fx,
-  title    = "{BROMP} Quantitative Field Observations: A Review",
-  author   = "Baker, Ryan",
-  month    =  dec,
-  year     =  2018,
-  keywords = "Course Assignment;AIEd [CCME0123]"
-}
-
 @INPROCEEDINGS{Vinge1993-ui,
   title       = "The Coming of Technological Singularity. Vision-21 Symposium.
                  ``Whole Earth Review''",
@@ -8497,4 +8489,26 @@
   keywords = "learning analytics; epistemology; pedagogy; educational
               assessment; discourse analytics; social learning analytics;Course
               Assignment;AIEd [CCME0123]"
+}
+
+@INCOLLECTION{Baker2018-fx,
+  title     = "{BROMP} Quantitative Field Observations: A Review",
+  booktitle = "Learning Science: Theory, Research, and Practice",
+  author    = "Baker, Ryan and Ocumpaugh, Jaclyn and Andres, Alexandra",
+  abstract  = "In this chapter, we discuss over a decade of research to
+               establish the Baker Rodrigo Ocumpaugh Monitoring Protocol
+               (BROMP) as a method for conducting rapid, highly-quality, and
+               time- synchronized quantitative field observations. We discuss
+               work to establish standards and scalable training methods for
+               the protocol in four countries, as well as work to develop and
+               refine a handheld app that sped and facilitated uptake and use
+               of the method. We then discuss the use of BROMP in research at
+               scale: from its use in developing automated detectors of student
+               engagement and affect, to use to study classroom pedagogy in
+               settings from Pittsburgh to Chennai, to use in the iterative
+               refinement of blended learning software.",
+  publisher = "unknown",
+  month     =  dec,
+  year      =  2018,
+  keywords  = "Course Assignment;AIEd [CCME0123]"
 }
