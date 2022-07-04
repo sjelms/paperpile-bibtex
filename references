@@ -7511,10 +7511,9 @@
 @ARTICLE{Derry_undated-oa,
   title    = "Conducting Video Research in the Learning Sciences: Guidance on
               Selection, Analysis, Technology, and Ethics",
-  author   = "Derry, S J and Barron, B and Engle, R and Erickson, F and
-              Goldman, R and Hall, R and Koschmann, T and Lemke, J and Sherin,
-              M and Sherin, B",
-  journal  = "Journal of the Learning Sciences",
+  author   = "{Derry} and {Barron} and {Engle} and {Erickson} and {Goldman} and
+              {Hall} and {Koschmann} and {Lemke} and {Sherin} and {Sherin}",
+  journal  = "J. Learn. Sci.",
   volume   =  19,
   keywords = "RDL [CCME0041]"
 }
