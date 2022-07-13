@@ -8618,7 +8618,7 @@
   month    =  feb,
   year     =  2017,
   keywords = "Augmented reality; Systematic review; Educational
-              technology;XR/MR"
+              technology;XR/MR;AACE UNC Call for Papers"
 }
 
 @INPROCEEDINGS{Chen2017-sr,
@@ -8641,7 +8641,7 @@
   publisher = "Springer Singapore",
   pages     = "13--18",
   year      =  2017,
-  keywords  = "XR/MR"
+  keywords  = "XR/MR;AACE UNC Call for Papers"
 }
 
 @ARTICLE{Chuah2019-ft,
@@ -8654,7 +8654,7 @@
   number    = "3/4",
   pages     = "205",
   year      =  2019,
-  keywords  = "XR/MR",
+  keywords  = "XR/MR;AACE UNC Call for Papers",
   language  = "en"
 }
 
@@ -8687,5 +8687,5 @@
   pages    = "3051--3080",
   month    =  dec,
   year     =  2021,
-  keywords = "XR/MR"
+  keywords = "XR/MR;AACE UNC Call for Papers"
 }
