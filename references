@@ -7414,10 +7414,6 @@
   language  = "en"
 }
 
-@ARTICLE{noauthor_undated-ln,
-
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Chun_Tie2019-xa,
@@ -8692,4 +8688,57 @@
   month    =  dec,
   year     =  2021,
   keywords = "XR/MR;AACE UNC Call for Papers"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{McKenzie2019-ln,
+  title     = "Virtually there: The potential, process and problems of using
+               360° video in the classroom",
+  author    = "McKenzie, Sophie and Rough, Justin and Spence, Aaron and
+               Patterson, Nick",
+  abstract  = "Aim/Purpose: This paper presents an exploratory case study into
+               using 360° videos to present small segments of lecture content
+               for IT students in an Australian University. The aim of this
+               study was to understand; what is the impact of incorporating
+               360° videos into class content for students and teaching staff?
+               In this study the 360° videos are described as ``learning
+               atoms''. Learning atoms are short duration videos (1 to 5
+               minutes) captured in 360°. Background: Within this paper we
+               conducted experiments in the classroom using 360° videos to
+               determine if they have an impact on student's feeling of
+               presence with class content. Additionally, to follow up, how
+               does the inclusion of 360° impact on the teaching experience.
+               Methodology: The methodology used in this study focused on both
+               quantitative and qualita-tive aspects. Data was captured at the
+               same time during the teaching period to address the research
+               questions. In order to gauge the feeling of presence within the
+               classroom a short survey was administered to students in the
+               undergraduate IT class at the start (pre) and end (post) of the
+               semester using the same questions to measure any change.
+               Contribution: The main contributions from this study were that
+               we demonstrated there is a potential for providing an
+               alternative `immersive' content presentation for students. This
+               alternative content took the form of 360° learning atoms,
+               whereas further showed our nuance process for creating and
+               publishing of these atoms. Findings: The results show that for
+               students, learning atoms can help improve the sense of presence,
+               particularly for remote students, however the interactive
+               experience can take student's attention away from the lecturer.
+               The results present potential for providing an alternative
+               `immersive' content presentation for students, however problems
+               for uptake are present for both students and teachers, such as
+               image capture quality and file size Impact on Society: We
+               foresee this approach as being a new approach to teaching
+               students in higher education within online spaces to increase
+               engagement and move towards having a richer virtual experience
+               no matter the location. Future Research: Future research will be
+               conducted to resolve whether presence and engagement is
+               supported by the inclusion of 360° videos in the classroom.",
+  journal   = "Issues Informing Sci. Inf. Technol.",
+  publisher = "Informing Science Institute",
+  volume    =  16,
+  pages     = "211--219",
+  year      =  2019,
+  language  = "en"
 }
