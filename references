@@ -8771,7 +8771,7 @@
   pages      = "282--292",
   month      =  dec,
   year       =  1995,
-  keywords   = "XR/MR",
+  keywords   = "XR/MR;AACE UNC Call for Papers",
   language   = "en",
   conference = "Telemanipulator and Telepresence Technologies"
 }
@@ -8803,5 +8803,5 @@
   month    =  nov,
   year     =  2017,
   keywords = "Mobile gaming; Augmented reality; Pok{\'e}mon Go; Gratification;
-              Risk; Flow;XR/MR"
+              Risk; Flow;XR/MR;AACE UNC Call for Papers"
 }
