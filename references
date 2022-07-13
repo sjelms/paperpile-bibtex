@@ -8774,3 +8774,33 @@
   language   = "en",
   conference = "Telemanipulator and Telepresence Technologies"
 }
+
+@ARTICLE{Rauschnabel2017-ci,
+  title    = "An adoption framework for mobile augmented reality games: The
+              case of Pok{\'e}mon Go",
+  author   = "Rauschnabel, Philipp A and Rossmann, Alexander and tom Dieck, M
+              Claudia",
+  abstract = "Pok{\'e}mon Go was the first mobile augmented reality (AR) game
+              to reach the top of the download charts of mobile applications.
+              However, little is known about this new generation of mobile
+              online AR games. Existing theories provide limited applicability
+              for user understanding. Against this background, this research
+              provides a comprehensive framework based on uses and
+              gratification theory, technology risk research, and flow theory.
+              The proposed framework aims to explain the drivers of attitudinal
+              and intentional reactions, such as continuance in gaming or
+              willingness to invest money in in-app purchases. A survey among
+              642 Pok{\'e}mon Go players provides insights into the
+              psychological drivers of mobile AR games. The results show that
+              hedonic, emotional, and social benefits and social norms drive
+              consumer reactions while physical risks (but not data privacy
+              risks) hinder consumer reactions. However, the importance of
+              these drivers differs depending on the form of user behavior.",
+  journal  = "Comput. Human Behav.",
+  volume   =  76,
+  pages    = "276--286",
+  month    =  nov,
+  year     =  2017,
+  keywords = "Mobile gaming; Augmented reality; Pok{\'e}mon Go; Gratification;
+              Risk; Flow"
+}
