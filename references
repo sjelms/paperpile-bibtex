@@ -8617,7 +8617,8 @@
   pages    = "1--11",
   month    =  feb,
   year     =  2017,
-  keywords = "Augmented reality; Systematic review; Educational technology"
+  keywords = "Augmented reality; Systematic review; Educational
+              technology;XR/MR"
 }
 
 @INPROCEEDINGS{Chen2017-sr,
@@ -8639,7 +8640,8 @@
                reality for educational settings.",
   publisher = "Springer Singapore",
   pages     = "13--18",
-  year      =  2017
+  year      =  2017,
+  keywords  = "XR/MR"
 }
 
 @ARTICLE{Chuah2019-ft,
@@ -8652,6 +8654,7 @@
   number    = "3/4",
   pages     = "205",
   year      =  2019,
+  keywords  = "XR/MR",
   language  = "en"
 }
 
@@ -8683,5 +8686,6 @@
   number   =  6,
   pages    = "3051--3080",
   month    =  dec,
-  year     =  2021
+  year     =  2021,
+  keywords = "XR/MR"
 }
