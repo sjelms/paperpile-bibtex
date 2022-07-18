@@ -8841,3 +8841,10 @@
   year      =  2018,
   keywords  = "Book (physical)"
 }
+
+@BOOK{Groh2014-rk,
+  title     = "Making Space: How the Brain Knows Where Things Are",
+  author    = "Groh, J M",
+  publisher = "Harvard University Press",
+  year      =  2014
+}
