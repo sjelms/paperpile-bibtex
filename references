@@ -8849,3 +8849,12 @@
   year      =  2014,
   keywords  = "ePub"
 }
+
+@BOOK{Jerald2015-dg,
+  title     = "The {VR} Book: {Human-Centered} Design for Virtual Reality",
+  author    = "Jerald, J",
+  publisher = "Association for Computing Machinery and Morgan \& Claypool
+               Publishers",
+  series    = "ACM Books",
+  year      =  2015
+}
