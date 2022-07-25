@@ -801,7 +801,8 @@
               a single reprint.",
   journal  = "Harvard Business Review",
   month    =  nov,
-  year     =  2017
+  year     =  2017,
+  keywords = "XR/MR"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
