@@ -754,6 +754,8 @@
   keywords  = "Course Assignment;AIEd [CCME0123]"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Porter2017-zm,
   title    = "Why Every Organization Needs an Augmented Reality Strategy",
   author   = "Porter, Michael E and Heppelmann, James E",
@@ -802,7 +804,7 @@
   journal  = "Harvard Business Review",
   month    =  nov,
   year     =  2017,
-  keywords = "XR/MR"
+  keywords = "XR/MR;§New Literature"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
