@@ -4066,21 +4066,6 @@
   language  = "en"
 }
 
-@INPROCEEDINGS{Garland1997-xz,
-  title     = "Surface simplification using quadric error metrics",
-  booktitle = "Proceedings of the 24th annual conference on Computer graphics
-               and interactive techniques",
-  author    = "Garland, Michael and Heckbert, Paul S",
-  publisher = "ACM Press/Addison-Wesley Publishing Co.",
-  pages     = "209--216",
-  series    = "SIGGRAPH '97",
-  month     =  aug,
-  year      =  1997,
-  address   = "USA",
-  keywords  = "surface simplification, pair contraction, level of detail,
-               non-manifold, mutiresolution modeling"
-}
-
 @BOOK{Park2018-nf,
   title     = "Designing Across Senses: A Multimodal Approach to Product Design",
   author    = "Park, C W and Alderman, J",
@@ -8929,4 +8914,19 @@
   year     =  2017,
   keywords = "Mobile gaming; Augmented reality; Pok{\'e}mon Go; Gratification;
               Risk; Flow;XR/MR;§New Literature;AACE UNC Call for Papers"
+}
+
+@INPROCEEDINGS{Garland1997-xz,
+  title     = "Surface simplification using quadric error metrics",
+  booktitle = "Proceedings of the 24th annual conference on Computer graphics
+               and interactive techniques",
+  author    = "Garland, Michael and Heckbert, Paul S",
+  publisher = "ACM Press/Addison-Wesley Publishing Co.",
+  pages     = "209--216",
+  series    = "SIGGRAPH '97",
+  month     =  aug,
+  year      =  1997,
+  address   = "USA",
+  keywords  = "surface simplification, pair contraction, level of detail,
+               non-manifold, mutiresolution modeling;XR/MR"
 }
