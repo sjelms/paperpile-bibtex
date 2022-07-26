@@ -8645,6 +8645,8 @@
   keywords     = "Course Assignment;AIEd [CCME0123]"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Akcayir2017-sh,
   title    = "Advantages and challenges associated with augmented reality for
               education: A systematic review of the literature",
@@ -8670,9 +8672,11 @@
   month    =  feb,
   year     =  2017,
   keywords = "Augmented reality; Systematic review; Educational
-              technology;XR/MR;AACE UNC Call for Papers"
+              technology;XR/MR;§New Literature;AACE UNC Call for Papers"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INPROCEEDINGS{Chen2017-sr,
   title     = "A review of using Augmented Reality in Education from 2011 to
                2016",
@@ -8693,9 +8697,11 @@
   publisher = "Springer Singapore",
   pages     = "13--18",
   year      =  2017,
-  keywords  = "XR/MR;AACE UNC Call for Papers"
+  keywords  = "XR/MR;§New Literature;AACE UNC Call for Papers"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Chuah2019-ft,
   title     = "Wearable {XR-technology}: literature review, conceptual
                framework and future research directions",
@@ -8706,10 +8712,12 @@
   number    = "3/4",
   pages     = "205",
   year      =  2019,
-  keywords  = "XR/MR;AACE UNC Call for Papers",
+  keywords  = "XR/MR;§New Literature;AACE UNC Call for Papers",
   language  = "en"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Georgiou2021-hp,
   title    = "Learning experience design with immersive virtual reality in
               physics education",
@@ -8739,7 +8747,7 @@
   pages    = "3051--3080",
   month    =  dec,
   year     =  2021,
-  keywords = "XR/MR;AACE UNC Call for Papers"
+  keywords = "XR/MR;§New Literature;AACE UNC Call for Papers"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -8792,10 +8800,12 @@
   volume    =  16,
   pages     = "211--219",
   year      =  2019,
-  keywords  = "XR/MR;AACE UNC Call for Papers",
+  keywords  = "XR/MR;§New Literature;AACE UNC Call for Papers",
   language  = "en"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INPROCEEDINGS{Milgram1995-vx,
   title      = "Augmented reality: a class of displays on the
                 reality-virtuality continuum",
@@ -8823,11 +8833,13 @@
   pages      = "282--292",
   month      =  dec,
   year       =  1995,
-  keywords   = "XR/MR;AACE UNC Call for Papers",
+  keywords   = "XR/MR;§New Literature;AACE UNC Call for Papers",
   language   = "en",
   conference = "Telemanipulator and Telepresence Technologies"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Rauschnabel2017-ci,
   title    = "An adoption framework for mobile augmented reality games: The
               case of Pok{\'e}mon Go",
@@ -8855,7 +8867,7 @@
   month    =  nov,
   year     =  2017,
   keywords = "Mobile gaming; Augmented reality; Pok{\'e}mon Go; Gratification;
-              Risk; Flow;XR/MR;AACE UNC Call for Papers"
+              Risk; Flow;XR/MR;§New Literature;AACE UNC Call for Papers"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
