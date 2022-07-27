@@ -8675,8 +8675,6 @@
               technology;XR/MR;§New Literature;AACE UNC Call for Papers"
 }
 
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
 @INPROCEEDINGS{Chen2017-sr,
   title     = "A review of using Augmented Reality in Education from 2011 to
                2016",
@@ -8697,7 +8695,8 @@
   publisher = "Springer Singapore",
   pages     = "13--18",
   year      =  2017,
-  keywords  = "XR/MR;§New Literature;AACE UNC Call for Papers;XR Reviewed"
+  keywords  = "XR/MR;+Readwise;+Notion;@\_Mark Up;AACE UNC Call for Papers;XR
+               Reviewed"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
