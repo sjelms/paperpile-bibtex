@@ -8930,6 +8930,8 @@
   keywords  = "ePub"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Gavish2015-mv,
   title     = "Evaluating virtual reality and augmented reality training for
                industrial maintenance and assembly tasks",
@@ -8943,5 +8945,5 @@
   pages     = "778--798",
   month     =  nov,
   year      =  2015,
-  keywords  = "XR/MR"
+  keywords  = "XR/MR;§New Literature"
 }
