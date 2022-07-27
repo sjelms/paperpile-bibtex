@@ -8646,8 +8646,6 @@
   language  = "en"
 }
 
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
 @ARTICLE{Akcayir2017-sh,
   title    = "Advantages and challenges associated with augmented reality for
               education: A systematic review of the literature",
@@ -8673,7 +8671,8 @@
   month    =  feb,
   year     =  2017,
   keywords = "Augmented reality; Systematic review; Educational
-              technology;XR/MR;§New Literature;AACE UNC Call for Papers"
+              technology;XR/MR;+Readwise;+Notion;@\_Mark Up;AACE UNC Call for
+              Papers"
 }
 
 @INPROCEEDINGS{Chen2017-sr,
