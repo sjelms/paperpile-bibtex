@@ -8929,3 +8929,18 @@
   year      =  2014,
   keywords  = "ePub"
 }
+
+@ARTICLE{Gavish2015-mv,
+  title     = "Evaluating virtual reality and augmented reality training for
+               industrial maintenance and assembly tasks",
+  author    = "Gavish, Nirit and Guti{\'e}rrez, Teresa and Webel, Sabine and
+               Rodr{\'\i}guez, Jorge and Peveri, Matteo and Bockholt, Uli and
+               Tecchia, Franco",
+  journal   = "Interact. Learn. Environ.",
+  publisher = "Informa UK Limited",
+  volume    =  23,
+  number    =  6,
+  pages     = "778--798",
+  month     =  nov,
+  year      =  2015
+}
