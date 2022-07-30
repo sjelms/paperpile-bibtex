@@ -558,6 +558,8 @@
   keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Shum2022-yx,
   title     = "Framing professional learning analytics as reframing oneself",
   author    = "Shum, Simon Buckingham and Littlejohn, Allison and Kitto, Kirsty
@@ -566,7 +568,7 @@
   publisher = "Institute of Electrical and Electronics Engineers (IEEE)",
   pages     = "1--17",
   year      =  2022,
-  keywords  = "UCL",
+  keywords  = "UCL;§New Literature",
   copyright = "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"
 }
 
