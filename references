@@ -558,6 +558,17 @@
   keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
+@ARTICLE{Shum2022-yx,
+  title     = "Framing professional learning analytics as reframing oneself",
+  author    = "Shum, Simon Buckingham and Littlejohn, Allison and Kitto, Kirsty
+               and Crick, Ruth",
+  journal   = "IEEE trans. learn. technol.",
+  publisher = "Institute of Electrical and Electronics Engineers (IEEE)",
+  pages     = "1--17",
+  year      =  2022,
+  copyright = "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"
+}
+
 @ARTICLE{Sottilare2017-ul,
   title     = "Adaptive instruction for medical training in the psychomotor
                domain",
