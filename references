@@ -830,6 +830,28 @@
   language     = "en"
 }
 
+@ARTICLE{Dede2022-if,
+  title     = "The coming sea-change in teacher education",
+  author    = "Dede, Chris",
+  abstract  = "All stakeholders in schooling, including teacher educators, are
+               slowly realizing that the pandemic has created a sea-change
+               rather than a temporary discontinuity. The pandemic-as-endemic
+               world is neither a return to pre-pandemic normal nor a
+               new-normal. Instead, we are now in Oz rather than Kansas,
+               and---contrary to what some parents, many politicians, and all
+               technophobes are hoping---no magical red slippers can bring us
+               back to where we were. Understanding why this is the case and
+               what schooling must now become is essential to a ``rich and
+               strange'' transformation of teacher education to meet...",
+  journal   = "J. Technol. Teach. Educ.",
+  publisher = "Society for Information Technology \& Teacher Education",
+  volume    =  30,
+  number    =  2,
+  pages     = "117--125",
+  month     =  aug,
+  year      =  2022
+}
+
 @ARTICLE{Cuendet2013-vm,
   title     = "Designing augmented reality for the classroom",
   author    = "Cuendet, S{\'e}bastien and Bonnard, Quentin and Do-Lenh, Son and
