@@ -9658,3 +9658,26 @@
   keywords = "§New Literature;Game Engine;AEC",
   issn     = "1874-4753"
 }
+
+@ARTICLE{Edwards2015-cq,
+  title    = "{BIM} based collaborative and interactive design process using
+              computer game engine for general end-users",
+  author   = "Edwards, Gareth and Li, Haijiang and Wang, Bin",
+  abstract = "The emerging Building Information Modelling (BIM) in the
+              Architectural, Engineering and Construction (AEC)/Facility
+              Management (FM) industry promotes life cycle process and
+              collaborative way of working. Currently, many efforts have been
+              contributed for professional integrated
+              design/construction/maintenance process, there are very few
+              practical methods that can enable a professional designer to
+              effectively interact and collaborate with end-users/clients on a
+              functional level.",
+  journal  = "Visualization in Engineering",
+  volume   =  3,
+  number   =  1,
+  pages    = "4",
+  month    =  feb,
+  year     =  2015,
+  issn     = "2213-7459",
+  doi      = "10.1186/s40327-015-0018-2"
+}
