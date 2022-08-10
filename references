@@ -9659,6 +9659,8 @@
   issn     = "1874-4753"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Edwards2015-cq,
   title    = "{BIM} based collaborative and interactive design process using
               computer game engine for general end-users",
@@ -9678,7 +9680,7 @@
   pages    = "4",
   month    =  feb,
   year     =  2015,
-  keywords = "AEC;Game Engine",
+  keywords = "AEC;Game Engine;§New Literature",
   issn     = "2213-7459",
   doi      = "10.1186/s40327-015-0018-2"
 }
