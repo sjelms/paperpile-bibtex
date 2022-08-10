@@ -9647,3 +9647,11 @@
   issn     = "0887-3801",
   doi      = "10.1061/9780784480830.049"
 }
+
+@ARTICLE{Kumar_undated-fe,
+  title   = "Developing an experienced-based design review application for
+             healthcare facilities using a 3d game engine",
+  author  = "{Kumar} and {Hedrick} and {Wiacek} and {Messner}",
+  journal = "J. Inf. Technol. Constr.",
+  issn    = "1874-4753"
+}
