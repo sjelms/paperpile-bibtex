@@ -4317,16 +4317,49 @@
   doi       = "10.2466/pms.1998.87.1.19"
 }
 
-@ARTICLE{Collins1993-eb,
-  title     = "The Structure of Knowledge",
-  author    = "Collins, H M",
-  journal   = "Soc. Res.",
-  publisher = "The New School",
-  volume    =  60,
-  number    =  1,
-  pages     = "95--116",
-  year      =  1993,
-  issn      = "0037-783X"
+@ARTICLE{Pour_Rahimian2020-sq,
+  title    = "On-demand monitoring of construction projects through a game-like
+              hybrid application of {BIM} and machine learning",
+  author   = "Pour Rahimian, Farzad and Seyedzadeh, Saleh and Oliver, Stephen
+              and Rodriguez, Sergio and Dawood, Nashwan",
+  abstract = "While unavoidable, inspections, progress monitoring, and
+              comparing as-planned with as-built conditions in construction
+              projects do not readily add tangible intrinsic value to the
+              end-users. In large-scale construction projects, the process of
+              monitoring the implementation of every single part of buildings
+              and reflecting them on the BIM models can become highly labour
+              intensive and error-prone, due to the vast amount of data
+              produced in the form of schedules, reports and photo logs. In
+              order to address the mentioned methodological and technical gap,
+              this paper presents a framework and a proof of concept prototype
+              for on-demand automated simulation of construction projects,
+              integrating some cutting edge IT solutions, namely image
+              processing, machine learning, BIM and Virtual Reality. This study
+              utilised the Unity game engine to integrate data from the
+              original BIM models and the as-built images, which were processed
+              via various computer vision techniques. These methods include
+              object recognition and semantic segmentation for identifying
+              different structural elements through supervised training in
+              order to superimpose the real world images on the as-planned
+              model. The proposed framework leads to an automated update of the
+              3D virtual environment with states of the construction site. This
+              framework empowers project managers and stockholders with an
+              advanced decision-making tool, highlighting the inconsistencies
+              in an effective manner. This paper contributes to body knowledge
+              by providing a technical exemplar for the integration of ML and
+              image processing approaches with immersive and interactive BIM
+              interfaces, the algorithms and program codes of which can help
+              replicability of these approaches by other scholars.",
+  journal  = "Autom. Constr.",
+  volume   =  110,
+  pages    = "103012",
+  month    =  feb,
+  year     =  2020,
+  keywords = "Construction management; Progress monitoring; Building
+              information modelling; Image processing; Virtual reality; Machine
+              learning",
+  issn     = "0926-5805",
+  doi      = "10.1016/j.autcon.2019.103012"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -9545,4 +9578,16 @@
   month     =  dec,
   year      =  2015,
   isbn      = "9781473943582"
+}
+
+@ARTICLE{Collins1993-eb,
+  title     = "The Structure of Knowledge",
+  author    = "Collins, H M",
+  journal   = "Soc. Res.",
+  publisher = "The New School",
+  volume    =  60,
+  number    =  1,
+  pages     = "95--116",
+  year      =  1993,
+  issn      = "0037-783X"
 }
