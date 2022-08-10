@@ -98,6 +98,8 @@
   doi       = "10.1561/1100000066"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Pour_Rahimian2020-sq,
   title    = "On-demand monitoring of construction projects through a game-like
               hybrid application of {BIM} and machine learning",
@@ -138,7 +140,7 @@
   year     =  2020,
   keywords = "Construction management; Progress monitoring; Building
               information modelling; Image processing; Virtual reality; Machine
-              learning;AEC;Game Engine",
+              learning;AEC;Game Engine;§New Literature",
   issn     = "0926-5805",
   doi      = "10.1016/j.autcon.2019.103012"
 }
