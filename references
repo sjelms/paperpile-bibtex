@@ -9606,6 +9606,8 @@
   keywords = "Knowledge - Skill Acquisition"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Mastli_Majid_undated-ek,
   title    = "Interactive Highway Construction Simulation Using Game Engine and
               Virtual Reality for Education and Training Purpose",
@@ -9639,7 +9641,7 @@
               construction planning.",
   journal  = "J. Comput. Civ. Eng.",
   pages    = "399--406",
-  keywords = "@\_Mark Up",
+  keywords = "@\_Mark Up;§New Literature",
   issn     = "0887-3801",
   doi      = "10.1061/9780784480830.049"
 }
