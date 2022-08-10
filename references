@@ -9685,6 +9685,8 @@
   doi      = "10.1186/s40327-015-0018-2"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Zou2019-ko,
   title     = "Environmental Art Teaching Equipment and Program Research",
   author    = "Zou, Na",
@@ -9705,6 +9707,7 @@
   volume    =  79,
   pages     = "01003",
   year      =  2019,
+  keywords  = "§New Literature",
   language  = "en",
   issn      = "2267-1242, 2267-1242",
   doi       = "10.1051/e3sconf/20197901003"
