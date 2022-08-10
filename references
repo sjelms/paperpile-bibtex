@@ -4364,6 +4364,15 @@
   doi       = "10.2466/pms.1998.87.1.19"
 }
 
+@ARTICLE{noauthor_undated-fz,
+  title    = "Strengthening the governance of Skills Systems: Lessons from Six
+              {OECD} Countries",
+  abstract = "Strengthening the Governance of Skills Systems: Lessons from Six
+              OECD Countries provides advice on how to make the governance of
+              skills systems effective. Building on the OECD Skills Strategy
+              2019, which identified four main challenges of skills..."
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Wolf2019-ff,
