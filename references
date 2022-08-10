@@ -9684,3 +9684,28 @@
   issn     = "2213-7459",
   doi      = "10.1186/s40327-015-0018-2"
 }
+
+@ARTICLE{Zou2019-ko,
+  title     = "Environmental Art Teaching Equipment and Program Research",
+  author    = "Zou, Na",
+  abstract  = "Once the ``Internet +'' action plan is proposed, all walks of
+               life actively take measures to integrate with the Internet.
+               Higher education should also meet the requirements of the times
+               to achieve new developments in education and teaching. Under the
+               new situation, the education of environmental art design in
+               colleges and universities should not only adopt the
+               information-based teaching tools, but also take effective
+               teaching new measures on the basis of the specific
+               characteristics of the subjects, and turn passive learning into
+               active learning to improve the teaching level and quality as
+               well as cultivate innovative, skilled and applied talents that
+               meet the needs of society.",
+  journal   = "E3S Web of Conferences",
+  publisher = "EDP Sciences",
+  volume    =  79,
+  pages     = "01003",
+  year      =  2019,
+  language  = "en",
+  issn      = "2267-1242, 2267-1242",
+  doi       = "10.1051/e3sconf/20197901003"
+}
