@@ -5959,7 +5959,8 @@
   month    =  aug,
   year     =  2019,
   keywords = "Complex systems; Construction; High reliability organising; Human
-              factors; Resilience engineering;Frontiers import [Aug 11]",
+              factors; Resilience engineering;Workplace Learning;Frontiers
+              import [Aug 11]",
   issn     = "0925-7535",
   doi      = "10.1016/j.ssci.2016.08.019"
 }
@@ -9766,7 +9767,7 @@
   pages     = "159--183",
   month     =  jan,
   year      =  2020,
-  keywords  = "Frontiers import [Aug 11]",
+  keywords  = "Workplace Learning;Frontiers import [Aug 11]",
   issn      = "0040-0912",
   doi       = "10.1108/ET-02-2019-0041"
 }
@@ -9896,7 +9897,8 @@
   pages    = "616--631",
   month    =  dec,
   year     =  2018,
-  keywords = "Knowledge - Skill Acquisition;Frontiers import [Aug 11]",
+  keywords = "Knowledge - Skill Acquisition;Workplace Learning;Frontiers import
+              [Aug 11]",
   issn     = "1560-4306",
   doi      = "10.1007/s40593-017-0163-y"
 }
