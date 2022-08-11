@@ -1486,8 +1486,9 @@
 
 @BOOK{Nonaka2008-ts,
   title     = "The {Knowledge-Creating} Company",
-  author    = "Nonaka, I and {Harvard Business Review Press}",
+  author    = "Nonaka, Ikujiro",
   publisher = "Reed Business Education",
+  series    = "Harvard Business Review Press",
   year      =  2008,
   address   = "Amsterdam, Netherlands",
   keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
