@@ -7238,12 +7238,17 @@
   isbn      = "9780192636614"
 }
 
-@ARTICLE{noauthor_undated-cl,
-  title    = "Algorithmic Impact Assessments: A Practical Framework for Public
-              Agency Accountability, {AI} Now Institute Report, April 2018",
-  abstract = "A first report from the AI Now Institute pulling together key
-              ethical considerations in relation to AI.",
-  keywords = "Course Assignment;AIEd [CCME0123]"
+@TECHREPORT{Reisman2018-cl,
+  title       = "Algorithmic Impact Assessments: a Practical Framework for
+                 Public Agency Accountability",
+  author      = "Reisman, Dillon and Schultz, Jason and Crawford, Kate and
+                 Whittaker, Meredith",
+  abstract    = "Public agencies urgently need a practical framework to assess
+                 automated decision systems and to ensure public accountability",
+  institution = "AI Now Institute",
+  month       =  apr,
+  year        =  2018,
+  keywords    = "Course Assignment;AIEd [CCME0123]"
 }
 
 @INPROCEEDINGS{Nielsen2002-no,
