@@ -292,16 +292,6 @@
   keywords  = "Intelligent Tutoring Systems (ITS);§New Literature"
 }
 
-@BOOK{Oecd2020-ge,
-  title     = "Strengthening the Governance of Skills Systems: Lessons from Six
-               {OECD} Countries",
-  author    = "{OECD}",
-  publisher = "OECD Publishing",
-  year      =  2020,
-  keywords  = "Knowledge - Skill Acquisition;Report",
-  doi       = "10.1787/3a4bb6ea-en"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Autor2013-ht,
@@ -10061,25 +10051,6 @@
   keywords    = "Intelligent Tutoring Systems (ITS);Frontiers import [Aug 11]",
   conference  = "International Florida Artificial Intelligence Research Society
                  Conference"
-}
-
-@BOOK{Oecd2020-fz,
-  title     = "{OECD} skills studies strengthening the governance of skills
-               systems lessons from six {OECD} countries: Lessons from six
-               {OECD} countries",
-  author    = "{Oecd}",
-  abstract  = "Strengthening the Governance of Skills Systems: Lessons from Six
-               OECD Countries provides advice on how to make the governance of
-               skills systems effective. Building on the OECD Skills Strategy
-               2019, which identified four main challenges of skills...",
-  publisher = "Organization for Economic Co-operation and Development (OECD)",
-  month     =  apr,
-  year      =  2020,
-  address   = "Paris Cedex, France",
-  keywords  = "Knowledge - Skill Acquisition",
-  issn      = "2307-8731",
-  isbn      = "9789264937345, 9789264647473",
-  doi       = "10.1787/3a4bb6ea-en"
 }
 
 @INCOLLECTION{Reiter2013-wa,
