@@ -9748,3 +9748,37 @@
   isbn      = "9780128104330",
   doi       = "10.1016/B978-0-12-810433-0.00005-8"
 }
+
+@INCOLLECTION{Kubba2017-nm,
+  title     = "Chapter Two - Components of Sustainable Design and Construction",
+  booktitle = "Handbook of Green Building Design and Construction (Second
+               Edition)",
+  author    = "Kubba, Sam",
+  editor    = "Kubba, Sam",
+  abstract  = "This chapter offers an overview of Green Building Evaluation
+               Systems including the USGBC Leadership in Energy and
+               Environmental Design (LEED) Certification and Rating System and
+               the Green Globes Certification Rating System. This chapter also
+               explains how the LEED Points Rating System works and the
+               differences between version 3 (and earlier) and version 4. It
+               also discusses the Whole Building Design Guide (WBDG) in
+               addition to giving an overview of the Green Building Initiative
+               (GBI). Differences between the LEED and Green Globes Rating
+               Systems are explored as is Third Party Assessment/Certification
+               systems and costs. Also discussed are Green Rating Standards
+               used worldwide such as the Building Research Establishment
+               Environmental Assessment Method (BREEAM), ENERGY STAR, the Green
+               Building Council of Australia (GBCA), Japan GreenBuild Council
+               (JaGBC)/Japan Sustainable Building Consortium (JSBC), the Mexico
+               Green Building Council (CMES), and others.",
+  publisher = "Butterworth-Heinemann",
+  pages     = "55--110",
+  month     =  jan,
+  year      =  2017,
+  keywords  = "Certification process; Green Globes; High-performance buildings;
+               Indoor environmental quality; LEED certification and rating
+               systems; LEED Online; Pollutants; Project management; The Whole
+               Building Design Guide; Waste management",
+  isbn      = "9780128104330",
+  doi       = "10.1016/B978-0-12-810433-0.00002-2"
+}
