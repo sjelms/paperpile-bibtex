@@ -1980,6 +1980,41 @@
   doi      = "10.1016/j.jclepro.2020.123487"
 }
 
+@ARTICLE{Cale2019-ca,
+  title     = "Australian prison vocational education and training and returns
+               to custody among male and female ex-prisoners: A
+               cross-jurisdictional study",
+  author    = "Cale, Jesse and Day, Andrew and Casey, Sharon and Bright, David
+               and Wodak, Jo and Giles, Margaret and Baldry, Eileen",
+  abstract  = "The current study examined the impact of vocational education
+               and training in the custody setting on returns to custody among
+               Australian adult prisoners from selected jurisdictions.
+               Vocational education and training, education, and behavioural
+               change programme participation in custody and demographic and
+               risk assessment data were provided by correctional services in
+               four Australian states for 10,834 Australian prisoners released
+               from custody in 2010?2011. This information was used to predict
+               returns to custody by 2015?2016. Overall, the results showed
+               that participating in vocational education and training in
+               custody contributed to the likelihood of remaining custody free
+               at two and five years post-release for both male and female
+               prisoners. However, for males the relationship was moderated by
+               risk level. These findings are discussed in the context of
+               developing vocational education and training in prison settings
+               to address the specific needs of individuals and expectation of
+               the wider community.",
+  journal   = "Aust. N. Z. J. Criminol.",
+  publisher = "SAGE Publications Ltd",
+  volume    =  52,
+  number    =  1,
+  pages     = "129--147",
+  month     =  mar,
+  year      =  2019,
+  keywords  = "Frontiers import [Aug 11]",
+  issn      = "0004-8658",
+  doi       = "10.1177/0004865818779418"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Georgiou2021-hp,
