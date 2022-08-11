@@ -1707,19 +1707,6 @@
   doi      = "10.1177/0270467604264992"
 }
 
-@ARTICLE{Ferry1998-qa,
-  title    = "An Inquiry into Sch{\"o}n's Epistemology of Practice: Exploring
-              Links between Experience and Reflective Practice",
-  author   = "Ferry, Natalie M and Ross-Gordon, Jovita M",
-  journal  = "Adult Education Quarterly",
-  volume   =  48,
-  number   =  2,
-  pages    = "98--112",
-  year     =  1998,
-  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers",
-  doi      = "10.1177/074171369804800205"
-}
-
 @MISC{Krugman1998-ue,
   title    = "Why Most Economists' Predictions Are Wrong",
   author   = "Krugman, P",
@@ -6758,23 +6745,6 @@
   keywords     = "Course Assignment;AIEd [CCME0123]"
 }
 
-@ARTICLE{Porayska-Pomsta2008-kc,
-  title    = "Diagnosing and acting on student affect: the tutor's perspective",
-  author   = "Porayska-Pomsta, Ka{\'s}ka and Mavrikis, Manolis and Pain, Helen",
-  abstract = "Another example from our work of developing computational models
-              of what information teachers' attend to when making feedback
-              decisions in the context of maths tutoring.",
-  journal  = "User Model. User-adapt Interact.",
-  volume   =  18,
-  number   = "1-2",
-  pages    = "125--173",
-  year     =  2008,
-  keywords = "Intelligent Tutoring Systems (ITS);Course Assignment;AIEd
-              [CCME0123]",
-  issn     = "0924-1868, 1573-1391",
-  doi      = "10.1007/s11257-007-9041-x"
-}
-
 @ARTICLE{Spikol2018-ku,
   title    = "Supervised machine learning in multimodal learning analytics for
               estimating success in project-based learning",
@@ -6982,19 +6952,6 @@
   doi      = "10.1609/aimag.v14i1.1029"
 }
 
-@ARTICLE{Andy_Clark_and_David_Chalmers1998-gj,
-  title     = "The Extended Mind",
-  author    = "{Andy Clark and David Chalmers}",
-  journal   = "Analysis",
-  publisher = "Oxford University Press",
-  volume    =  58,
-  number    =  1,
-  pages     = "7",
-  year      =  1998,
-  keywords  = "Course Assignment;AIEd [CCME0123]",
-  issn      = "0003-2638"
-}
-
 @BOOK{Nilsson1998-nx,
   title     = "Artificial Intelligence",
   author    = "Nilsson, Nils",
@@ -7048,19 +7005,6 @@
   keywords = "Course Assignment;AIEd [CCME0123]",
   issn     = "0028-0836, 1476-4687",
   doi      = "10.1038/538311a"
-}
-
-@ARTICLE{Andy_Clark_and_David_Chalmers1998-ee,
-  title     = "The Extended Mind",
-  author    = "{Andy Clark and David Chalmers}",
-  journal   = "Analysis",
-  publisher = "Oxford University Press",
-  volume    =  58,
-  number    =  1,
-  pages     = "7",
-  year      =  1998,
-  keywords  = "Course Assignment;AIEd [CCME0123]",
-  issn      = "0003-2638"
 }
 
 @ARTICLE{Immordino-Yang2007-fy,
@@ -7205,27 +7149,6 @@
   keywords     = "Course Assignment;AIEd [CCME0123]"
 }
 
-@ARTICLE{Porayska-Pomsta2008-ps,
-  title    = "Diagnosing and acting on student affect: the tutor's perspective",
-  author   = "Porayska-Pomsta, Ka{\'s}ka and Mavrikis, Manolis and Pain, Helen",
-  journal  = "User Model. User-adapt Interact.",
-  volume   =  18,
-  number   = "1-2",
-  pages    = "125--173",
-  year     =  2008,
-  keywords = "Intelligent Tutoring Systems (ITS);Course Assignment;AIEd
-              [CCME0123]",
-  issn     = "0924-1868, 1573-1391",
-  doi      = "10.1007/s11257-007-9041-x"
-}
-
-@MISC{noauthor_undated-mh,
-  title        = "{AI} Extenders | Proceedings of the 2019 {AAAI/ACM}
-                  Conference on {AI}, Ethics, and Society",
-  howpublished = "\url{https://dl-acm-org.libproxy.ucl.ac.uk/doi/10.1145/3306618.3314238}",
-  keywords     = "Course Assignment;AIEd [CCME0123]"
-}
-
 @ARTICLE{Prieto2015-hc,
   title    = "Orchestration in learning technology research: evaluation of a
               conceptual framework",
@@ -7302,13 +7225,6 @@
   keywords = "Course Assignment;AIEd [CCME0123]",
   issn     = "2157-2100",
   doi      = "10.5281/zenodo.3554657"
-}
-
-@MISC{noauthor_undated-xg,
-  title        = "{AI} Extenders | Proceedings of the 2019 {AAAI/ACM}
-                  Conference on {AI}, Ethics, and Society",
-  howpublished = "\url{https://dl-acm-org.libproxy.ucl.ac.uk/doi/10.1145/3306618.3314238}",
-  keywords     = "Course Assignment;AIEd [CCME0123]"
 }
 
 @MISC{Pedro2019-et,
@@ -10071,36 +9987,6 @@
   doi      = "10.1007/s40593-017-0163-y"
 }
 
-@ARTICLE{Ferry1998-xo,
-  title     = "An Inquiry into Sch{\"o}n's Epistemology of Practice: Exploring
-               Links between Experience and Reflective Practice",
-  author    = "Ferry, Natalie M and Ross-Gordon, Jovita M",
-  abstract  = "This article describes a qualitative study that documented the
-               use of reflection-in-action by adult educators in problematic
-               situations. The focus of the study was to explore aspects of
-               Sch{\"o}n's theory. The results supported the basic assumption
-               of Sch{\"o}n's theory that reflecting practitioners use a
-               constructivist decision-making perspective while non-reflecting
-               educators use an instrumental problem-solving approach. The
-               findings demonstrated that reflecting educators, whether novice
-               or experienced, use reflecting-in-action and
-               reflecting-on-action as a means to develop expertise. The
-               presence of experienced educators exhibiting minimal reflection
-               and presence of one highly reflective novice indicates that
-               experience alone is not the ``master teacher'' of the reflective
-               process.",
-  journal   = "Adult Education Quarterly",
-  publisher = "SAGE Publications Inc",
-  volume    =  48,
-  number    =  2,
-  pages     = "98--112",
-  month     =  feb,
-  year      =  1998,
-  keywords  = "Frontiers import [Aug 11]",
-  issn      = "0741-7136",
-  doi       = "10.1177/074171369804800205"
-}
-
 @ARTICLE{Collins1987-me,
   title    = "Cognitive Apprenticeship: Teaching the Crafts of Reading,
               Writing, and Mathematics",
@@ -10196,4 +10082,41 @@
                Library;2021-12-03 Frontiers",
   issn      = "0741-7136",
   doi       = "10.1177/074171369804800205"
+}
+
+@MISC{noauthor_undated-xg,
+  title        = "{AI} Extenders | Proceedings of the 2019 {AAAI/ACM}
+                  Conference on {AI}, Ethics, and Society",
+  howpublished = "\url{https://dl-acm-org.libproxy.ucl.ac.uk/doi/10.1145/3306618.3314238}",
+  keywords     = "Course Assignment;AIEd [CCME0123]"
+}
+
+@ARTICLE{Porayska-Pomsta2008-ps,
+  title    = "Diagnosing and acting on student affect: the tutor's perspective",
+  author   = "Porayska-Pomsta, Ka{\'s}ka and Mavrikis, Manolis and Pain, Helen",
+  abstract = "Another example from our work of developing computational models
+              of what information teachers' attend to when making feedback
+              decisions in the context of maths tutoring.",
+  journal  = "User Model. User-adapt Interact.",
+  volume   =  18,
+  number   = "1-2",
+  pages    = "125--173",
+  year     =  2008,
+  keywords = "Intelligent Tutoring Systems (ITS);Course Assignment;AIEd
+              [CCME0123]",
+  issn     = "0924-1868, 1573-1391",
+  doi      = "10.1007/s11257-007-9041-x"
+}
+
+@ARTICLE{Andy_Clark_and_David_Chalmers1998-ee,
+  title     = "The Extended Mind",
+  author    = "{Andy Clark and David Chalmers}",
+  journal   = "Analysis",
+  publisher = "Oxford University Press",
+  volume    =  58,
+  number    =  1,
+  pages     = "7",
+  year      =  1998,
+  keywords  = "Course Assignment;AIEd [CCME0123]",
+  issn      = "0003-2638"
 }
