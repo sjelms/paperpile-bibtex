@@ -6743,14 +6743,6 @@
   doi      = "10.1111/jcal.12263"
 }
 
-@ARTICLE{Godwin_undated-xm,
-  title    = "Classroom activities and off-task behavior in elementary school
-              children",
-  author   = "Godwin, Karrie E and Almeda, Victoria and Petroccia, Megan and
-              Baker, Ryan and Fisher, Anna",
-  keywords = "Course Assignment;AIEd [CCME0123]"
-}
-
 @BOOK{Jonassen2012-gc,
   title     = "Theoretical foundations of learning environments",
   author    = "Jonassen, David H and Land, Susan M",
@@ -10224,4 +10216,19 @@
   keywords  = "RDL [CCME0041]",
   issn      = "1743-9884",
   doi       = "10.1080/17439884.2013.770404"
+}
+
+@ARTICLE{GOdwin2013-xm,
+  title    = "Classroom activities and off-task behavior in elementary school
+              children",
+  author   = "GOdwin, Karrie and Almeda, Victoria and Petroccia, Megan and
+              Baker, Ryan and Fisher, Anna",
+  abstract = "Author(s): GOdwin, Karrie; Almeda, Victoria; Petroccia, Megan;
+              Baker, Ryan; Fisher, Anna",
+  journal  = "Proceedings of the Annual Meeting of the Cognitive Science
+              Society",
+  volume   =  35,
+  number   =  35,
+  year     =  2013,
+  keywords = "Social and Behavioral Sciences;Course Assignment;AIEd [CCME0123]"
 }
