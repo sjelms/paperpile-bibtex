@@ -10083,9 +10083,7 @@
   keywords = "Frontiers import [Aug 11]"
 }
 
-@MISC{noauthor_undated-xo,
-  title    = "An Inquiry into Sch{\"o}n's Epistemology of Practice: Exploring
-              Links between Experience and Reflective
-              {Practice\_AUTHOR(s)\_Ferry,Ross-Gordon.pdf}",
-  keywords = "Frontiers import [Aug 11]"
+@ARTICLE{noauthor_undated-xo,
+  keywords = "Frontiers import [Aug 11]",
+  doi      = "10.1177/074171369804800205"
 }
