@@ -7757,6 +7757,8 @@
   doi       = "10.1145/1978822.1978833"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Marin-Vega2017-dy,
   title     = "A Brief Review of Game Engines for Educational and Serious Games
                Development",
@@ -7774,7 +7776,7 @@
   number    =  4,
   pages     = "1--22",
   year      =  2017,
-  keywords  = "Game Engine;+Notion",
+  keywords  = "Game Engine;+Notion;§New Literature",
   language  = "en",
   issn      = "1443-458X",
   doi       = "10.4018/JITR.2017100101"
