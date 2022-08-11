@@ -6842,17 +6842,6 @@
   doi      = "10.1006/ijhc.1994.1083"
 }
 
-@ARTICLE{Conati2018-km,
-  title    = "{AI} in Education needs interpretable machine learning: Lessons
-              from Open Learner Modelling",
-  author   = "Conati, Cristina and Porayska-Pomsta, Kaska and Mavrikis, Manolis",
-  abstract = "Links symbolic representations with machine learning, explaining
-              what ML approaches can learn from KR and AIED research",
-  month    =  jun,
-  year     =  2018,
-  keywords = "Course Assignment;AIEd [CCME0123]"
-}
-
 @ARTICLE{Calder2018-fz,
   title    = "Computational modelling for decision-making: where, why, what,
               who and how",
@@ -10165,4 +10154,27 @@
                 Language Processing",
   location   = "New Orleans, Louisiana, USA",
   doi        = "10.18653/v1/w18-0802"
+}
+
+@UNPUBLISHED{Conati2018-km,
+  title    = "{AI} in Education needs interpretable machine learning: Lessons
+              from Open Learner Modelling",
+  author   = "Conati, Cristina and Porayska-Pomsta, Kaska and Mavrikis, Manolis",
+  abstract = "Interpretability of the underlying AI representations is a key
+              raison d'\textbackslash^\{e\}tre for Open Learner Modelling (OLM)
+              -- a branch of Intelligent Tutoring Systems (ITS) research. OLMs
+              provide tools for 'opening' up the AI models of learners'
+              cognition and emotions for the purpose of supporting human
+              learning and teaching. Over thirty years of research in ITS (also
+              known as AI in Education) produced important work, which informs
+              about how AI can be used in Education to best effects and,
+              through the OLM research, what are the necessary considerations
+              to make it interpretable and explainable for the benefit of
+              learning. We argue that this work can provide a valuable starting
+              point for a framework of interpretable AI, and as such is of
+              relevance to the application of both knowledge-based and machine
+              learning systems in other high-stakes contexts, beyond education.",
+  month    =  jun,
+  year     =  2018,
+  keywords = "Course Assignment;AIEd [CCME0123]"
 }
