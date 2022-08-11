@@ -6729,16 +6729,6 @@
   doi       = "10.1108/AA-10-2018-0147"
 }
 
-@ARTICLE{noauthor_undated-mf,
-  title    = "Holstein, K. and Doroudi, S. (2019) Fairness and Equity in
-              Learning Analytics Systems ({FairLAK}) (2019). Workshop
-              proceedings",
-  abstract = "There are only 3 fairly light weight papers in this collection
-              all of which discuss latest thinking and direction in relation to
-              fairness and learning analytics.",
-  keywords = "Course Assignment;AIEd [CCME0123]"
-}
-
 @MISC{noauthor_undated-lv,
   title        = "Kevin Kelly (2010). What technology wants,",
   howpublished = "\url{https://nebula.wsimg.com/fb88fd2e75ed5e26e53082aab6aa26ee?AccessKeyId=39A2DC689E4CA87C906D&amp;disposition=0&amp;alloworigin=1}",
@@ -6840,6 +6830,18 @@
   keywords = "Course Assignment;AIEd [CCME0123]",
   issn     = "1071-5819",
   doi      = "10.1006/ijhc.1994.1083"
+}
+
+@MISC{noauthor_undated-mf,
+  title        = "Holstein, K. and Doroudi, S. (2019) Fairness and Equity in
+                  Learning Analytics Systems ({FairLAK}) (2019). Workshop
+                  proceedings",
+  abstract     = "There are only 3 fairly light weight papers in this
+                  collection all of which discuss latest thinking and direction
+                  in relation to fairness and learning analytics.",
+  howpublished = "\url{http://kenholstein.com/FairLAK_proceedings.pdf}",
+  note         = "Accessed: 2022-8-11",
+  keywords     = "Course Assignment;AIEd [CCME0123]"
 }
 
 @ARTICLE{Calder2018-fz,
