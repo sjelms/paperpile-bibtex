@@ -10381,7 +10381,7 @@
   publisher = "Random House",
   month     =  sep,
   year      =  2021,
-  keywords  = "Book (physical)",
+  keywords  = "Book (physical);Artificial Intelligence (AI)",
   language  = "en",
   isbn      = "9780753559031"
 }
