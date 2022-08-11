@@ -7902,15 +7902,38 @@
   doi       = "10.4135/9781412963909"
 }
 
-@ARTICLE{Derry_undated-oa,
-  title    = "Conducting Video Research in the Learning Sciences: Guidance on
-              Selection, Analysis, Technology, and Ethics",
-  author   = "{Derry} and {Barron} and {Engle} and {Erickson} and {Goldman} and
-              {Hall} and {Koschmann} and {Lemke} and {Sherin} and {Sherin}",
-  journal  = "J. Learn. Sci.",
-  volume   =  19,
-  keywords = "RDL [CCME0041]",
-  issn     = "1050-8406, 1532-7809"
+@ARTICLE{Derry2010-oa,
+  title     = "Conducting video research in the learning sciences: Guidance on
+               selection, analysis, technology, and ethics",
+  author    = "Derry, Sharon J and Pea, Roy D and Barron, Brigid and Engle,
+               Randi A and Erickson, Frederick and Goldman, Ricki and Hall,
+               Rogers and Koschmann, Timothy and Lemke, Jay L and Sherin,
+               Miriam Gamoran and Sherin, Bruce L",
+  abstract  = "Focusing on expanding technical capabilities and new
+               collaborative possibilities, we address 4 challenges for
+               scientists who collect and use video records to conduct research
+               in and on complex learning environments: (a) Selection: How can
+               researchers be systematic in deciding which elements of a
+               complex environment or extensive video corpus to select for
+               study? (b) Analysis: What analytical frameworks and practices
+               are appropriate for given research problems? (c) Technology:
+               What technologies are available and what new tools must be
+               developed to support collecting, archiving, analyzing,
+               reporting, and collaboratively sharing video? and (d) Ethics:
+               How can research protocols encourage broad video sharing and
+               reuse while adequately protecting the rights of research
+               participants who are recorded?",
+  journal   = "J. Learn. Sci.",
+  publisher = "Informa UK Limited",
+  volume    =  19,
+  number    =  1,
+  pages     = "3--53",
+  month     =  jan,
+  year      =  2010,
+  keywords  = "RDL [CCME0041]",
+  language  = "en",
+  issn      = "1050-8406, 1532-7809",
+  doi       = "10.1080/10508400903452884"
 }
 
 @INCOLLECTION{Clercq2004-py,
