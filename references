@@ -8744,48 +8744,50 @@
   language    = "en"
 }
 
-@ARTICLE{Reiter2013-wa,
-  title    = "The Epistemology and Methodology of Exploratory Social Science
-              Research: Crossing Popper with Marcuse",
-  author   = "Reiter, Bernd",
-  abstract = "This article seeks to propose a rationale for exploratory
-              research in the social sciences. Inspired by the recent debates
-              around qualitative methods (Gerring, 2001; George and Bennett,
-              2005; Brady and Collier, 2004; Mahoney and Rueschemeyer, 2003;
-              Ragin, 2008; to name just a few), I seek to demonstrate that
-              exploratory research also has a rightful place within the social
-              sciences. In order to live up to its potential, exploratory
-              research needs to be conducted in a transparent, honest, and
-              selfreflexive way -- and follow a set of guidelines that ensure
-              its reliability. Exploratory research, if conducted in such a
-              way, can achieve great validity and it can provide new and
-              innovative ways to analyze reality. In most cases, exploration
-              demands more from the researcher than confirmatory research, both
-              in terms of preparation, as well as in terms of willingness and
-              ability to expose oneself to foreign cultures and languages as
-              well as the courage to engage in a critical and honest
-              selfreflection and critique. It also requires intellectual
-              engagement with the topic at stake far beyond the needs of those
-              running regressions from their office computers. However,
-              exploratory research normally demands less money to conduct, as
-              most projects can be done by one researcher alone, without the
-              need to mobilize, train, and pay, large research apparatuses.
-              Given the disciplinary power of elite scholars and academic
-              institutions when it comes to selecting research through funding
-              and hiring, exploratory research thus has great emancipatory
-              potential, because it can escape the disciplinary power of senior
-              ``peers'' and mainstream funding agencies. To legitimize and
-              provide a solid epistemological ground for exploratory research
-              in the social sciences, it needs to be grounded in a philosophy
-              of science; it has to be articulated within an epistemological
-              framework; and it has to formulate a comprehensive methodological
-              framework that justifies its methods. Thought also needs to be
-              given to the ontology of the social sciences, as decisions about
-              what counts as real and what we shall accept as a fact
-              necessarily impact our strategy of inquiry.",
-  series   = "Government and International Affairs Faculty Publications",
-  year     =  2013,
-  keywords = "RDL [CCME0041]"
+@INCOLLECTION{Reiter2013-wa,
+  title     = "The Epistemology and Methodology of Exploratory Social Science
+               Research: Crossing Popper with Marcuse",
+  booktitle = "Government and International Affairs Faculty Publications",
+  author    = "Reiter, Bernd",
+  abstract  = "This article seeks to propose a rationale for exploratory
+               research in the social sciences. Inspired by the recent debates
+               around qualitative methods (Gerring, 2001; George and Bennett,
+               2005; Brady and Collier, 2004; Mahoney and Rueschemeyer, 2003;
+               Ragin, 2008; to name just a few), I seek to demonstrate that
+               exploratory research also has a rightful place within the social
+               sciences. In order to live up to its potential, exploratory
+               research needs to be conducted in a transparent, honest, and
+               selfreflexive way -- and follow a set of guidelines that ensure
+               its reliability. Exploratory research, if conducted in such a
+               way, can achieve great validity and it can provide new and
+               innovative ways to analyze reality. In most cases, exploration
+               demands more from the researcher than confirmatory research,
+               both in terms of preparation, as well as in terms of willingness
+               and ability to expose oneself to foreign cultures and languages
+               as well as the courage to engage in a critical and honest
+               selfreflection and critique. It also requires intellectual
+               engagement with the topic at stake far beyond the needs of those
+               running regressions from their office computers. However,
+               exploratory research normally demands less money to conduct, as
+               most projects can be done by one researcher alone, without the
+               need to mobilize, train, and pay, large research apparatuses.
+               Given the disciplinary power of elite scholars and academic
+               institutions when it comes to selecting research through funding
+               and hiring, exploratory research thus has great emancipatory
+               potential, because it can escape the disciplinary power of
+               senior ``peers'' and mainstream funding agencies. To legitimize
+               and provide a solid epistemological ground for exploratory
+               research in the social sciences, it needs to be grounded in a
+               philosophy of science; it has to be articulated within an
+               epistemological framework; and it has to formulate a
+               comprehensive methodological framework that justifies its
+               methods. Thought also needs to be given to the ontology of the
+               social sciences, as decisions about what counts as real and what
+               we shall accept as a fact necessarily impact our strategy of
+               inquiry.",
+  series    = "Government and International Affairs Faculty Publications",
+  year      =  2013,
+  keywords  = "RDL [CCME0041]"
 }
 
 @INPROCEEDINGS{Cukurova2016-vw,
