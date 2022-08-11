@@ -9783,3 +9783,34 @@
   isbn      = "9780128104330",
   doi       = "10.1016/B978-0-12-810433-0.00002-2"
 }
+
+@ARTICLE{Lane2005-zh,
+  title     = "Teaching the tacit knowledge of programming to noviceswith
+               natural language tutoring",
+  author    = "Lane, H Chad and VanLehn, Kurt",
+  abstract  = "For beginning programmers, inadequate problem solving and
+               planning skills are among the most salient of their weaknesses.
+               In this paper, we test the efficacy of natural language tutoring
+               to teach and scaffold acquisition of these skills. We describe
+               ProPL (Pro-PELL), a dialogue-based intelligent tutoring system
+               that elicits goal decompositions and program plans from students
+               in natural language. The system uses a variety of tutoring
+               tactics that leverage students' intuitive understandings of the
+               problem, how it might be solved, and the underlying concepts of
+               programming. We report the results of a small-scale evaluation
+               comparing students who used ProPL with a control group who read
+               the same content. Our primary findings are that students who
+               received tutoring from ProPL seem to have developed an improved
+               ability to solve the composition problem and displayed behaviors
+               that suggest they were able to think at greater levels of
+               abstraction than students in the read-only group.",
+  journal   = "Computer Science Education",
+  publisher = "Routledge",
+  volume    =  15,
+  number    =  3,
+  pages     = "183--201",
+  month     =  sep,
+  year      =  2005,
+  issn      = "0899-3408",
+  doi       = "10.1080/08993400500224286"
+}
