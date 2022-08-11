@@ -6009,6 +6009,34 @@
   keywords = "Andragogy;§New Literature"
 }
 
+@ARTICLE{Bilginsoy2003-vq,
+  title     = "The hazards of training: Attrition and retention in construction
+               industry apprenticeship programs",
+  author    = "Bilginsoy, Cihan",
+  abstract  = "Apprenticeship programs in the United States, which provide
+               workers with the broad-based skills required for practicing a
+               trade via on-the-job training, are sponsored either unilaterally
+               by employers or jointly by employers and trade unions. A
+               comparison of the attrition and retention rates in these
+               programs shows that program completion is more likely for
+               apprentices in joint programs than for similar apprentices in
+               unilateral programs. Rates of completion are lower for women
+               than for men, and lower for ethnic and racial minorities than
+               for whites. Apprenticeship duration rises with the unemployment
+               rate.",
+  journal   = "Ind. Labor Relat. Rev.",
+  publisher = "SAGE Publications",
+  volume    =  57,
+  number    =  1,
+  pages     = "54--67",
+  month     =  oct,
+  year      =  2003,
+  keywords  = "Frontiers import [Aug 11]",
+  language  = "en",
+  issn      = "0019-7939, 2162-271X",
+  doi       = "10.1177/001979390305700103"
+}
+
 @INCOLLECTION{Clercq2004-py,
   title     = "Single {Sign-On}",
   booktitle = "Windows Server 2003 Security Infrastructures",
