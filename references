@@ -3717,6 +3717,36 @@
   language = "en"
 }
 
+@ARTICLE{Ferry1998-xo,
+  title     = "An Inquiry into Sch{\"o}n's Epistemology of Practice: Exploring
+               Links between Experience and Reflective Practice",
+  author    = "Ferry, Natalie M and Ross-Gordon, Jovita M",
+  abstract  = "This article describes a qualitative study that documented the
+               use of reflection-in-action by adult educators in problematic
+               situations. The focus of the study was to explore aspects of
+               Sch{\"o}n's theory. The results supported the basic assumption
+               of Sch{\"o}n's theory that reflecting practitioners use a
+               constructivist decision-making perspective while non-reflecting
+               educators use an instrumental problem-solving approach. The
+               findings demonstrated that reflecting educators, whether novice
+               or experienced, use reflecting-in-action and
+               reflecting-on-action as a means to develop expertise. The
+               presence of experienced educators exhibiting minimal reflection
+               and presence of one highly reflective novice indicates that
+               experience alone is not the ``master teacher'' of the reflective
+               process.",
+  journal   = "Adult Education Quarterly",
+  publisher = "SAGE Publications Inc",
+  volume    =  48,
+  number    =  2,
+  pages     = "98--112",
+  month     =  feb,
+  year      =  1998,
+  keywords  = "Frontiers import [Aug 11]",
+  issn      = "0741-7136",
+  doi       = "10.1177/074171369804800205"
+}
+
 @ARTICLE{Brosnan1998-tu,
   title     = "Spatial ability in children's play with Lego blocks",
   author    = "Brosnan, M J",
@@ -10081,9 +10111,4 @@
               Systems",
   author   = "And, James Niehaus Boyang and Riedl, Mark O",
   keywords = "Frontiers import [Aug 11]"
-}
-
-@ARTICLE{noauthor_undated-xo,
-  keywords = "Frontiers import [Aug 11]",
-  doi      = "10.1177/074171369804800205"
 }
