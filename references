@@ -3187,9 +3187,10 @@
   doi       = "10.1145/2347635.2347649"
 }
 
-@TECHREPORT{Prefabrication_and_Modular_Construction_20202020-ir,
+@TECHREPORT{Buckley2020-ir,
   title       = "Prefabrication and Modular Construction 2020",
-  author      = "{Prefabrication and Modular Construction 2020}",
+  author      = "Buckley, Bruce and Logan, Katharine and Schuler, Timothy",
+  editor      = "Jones, Stephen A and Laquidara-Carr, Donna",
   institution = "Prefabrication and Modular Construction 2020",
   year        =  2020,
   keywords    = "AEC;Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
