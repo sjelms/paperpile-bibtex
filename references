@@ -9342,6 +9342,13 @@
   doi       = "10.2466/pms.1998.87.1.19"
 }
 
+@MANUAL{noauthor_2021-ea,
+  title        = "Future Visual {VR} Training Handbook",
+  month        =  feb,
+  year         =  2021,
+  organization = "Future Visual"
+}
+
 @BOOK{Saldana2015-ul,
   title     = "An Introduction to Codes and Coding",
   author    = "Salda{\~n}a, Johnny",
