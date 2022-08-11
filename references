@@ -1,10 +1,3 @@
-@ARTICLE{And_undated-ri,
-  title    = "Automated Scenario Adaptation in Support of Intelligent Tutoring
-              Systems",
-  author   = "And, James Niehaus Boyang and Riedl, Mark O",
-  keywords = "Frontiers import [Aug 11]"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Wolf2019-ff,
@@ -10179,4 +10172,18 @@
   month    =  jun,
   year     =  2018,
   keywords = "Course Assignment;AIEd [CCME0123]"
+}
+
+@INPROCEEDINGS{And2010-ri,
+  title       = "Automated Scenario Adaptation in Support of Intelligent
+                 Tutoring Systems",
+  booktitle   = "Proceedings of the {Twenty-Fourth} International Florida
+                 Artificial Intelligence Research Society Conference",
+  author      = "And, James Niehaus Boyang and Riedl, Mark O",
+  pages       = "531--536",
+  institution = "Association for the Advancement of Artificial Intelligence",
+  year        =  2010,
+  keywords    = "Frontiers import [Aug 11]",
+  conference  = "International Florida Artificial Intelligence Research Society
+                 Conference"
 }
