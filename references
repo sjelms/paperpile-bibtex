@@ -4352,14 +4352,6 @@
   doi       = "10.2466/pms.1998.87.1.19"
 }
 
-@MISC{Collins_undated-ac,
-  title   = "Cognitive apprenticeship: Teaching the crafts of reading, writing,
-             and mathematics",
-  author  = "{Collins} and {Brown} and {Newman}",
-  journal = "Knowing, learning, and instruction: Essays in honor of Robert
-             Glaser."
-}
-
 @ARTICLE{And_undated-ri,
   title    = "Automated Scenario Adaptation in Support of Intelligent Tutoring
               Systems",
