@@ -9715,3 +9715,34 @@
   issn      = "2267-1242, 2267-1242",
   doi       = "10.1051/e3sconf/20197901003"
 }
+
+@INCOLLECTION{Kubba2017-tc,
+  title     = "Chapter Five - Building Information Modeling ({BIM})",
+  booktitle = "Handbook of Green Building Design and Construction (Second
+               Edition)",
+  author    = "Kubba, Sam",
+  editor    = "Kubba, Sam",
+  abstract  = "This chapter basically offers a brief history of Building
+               Information Modeling which is one of the most promising
+               developments in the architecture, engineering, and construction
+               fields in recent years. The most significant benefits as well as
+               negatives of BIM are clearly defined, including the benefits of
+               employing Integrated Project Delivery, which is a recently
+               adopted innovative approach to the design and construction of
+               buildings. Moreover, the customization of BIM can usually
+               provide great benefits in the use of BIM software. This chapter
+               also explains why the transition to BIM will require the hiring
+               of a specialist BIM Manager---someone with a solid foundation of
+               BIM technology and computer skills, particularly as BIM
+               technology continues to rapidly evolve. The future of BIM is
+               examined as well as its use worldwide outside the United States.",
+  publisher = "Butterworth-Heinemann",
+  pages     = "227--256",
+  month     =  jan,
+  year      =  2017,
+  keywords  = "3D Modeling; 3D Visualization; Autodesk; BIM benefits;
+               buildingSMART; Computer-generated model; Cost forecasting;
+               Integrated project delivery (IPD); Stakeholder; Virtual model",
+  isbn      = "9780128104330",
+  doi       = "10.1016/B978-0-12-810433-0.00005-8"
+}
