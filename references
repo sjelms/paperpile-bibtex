@@ -8134,12 +8134,6 @@
   issn     = "1438-5627"
 }
 
-@ARTICLE{noauthor_undated-lf,
-  title    = "Learning, Media and Technology",
-  keywords = "RDL [CCME0041]",
-  doi      = "10.1080/17439884.2013.770404"
-}
-
 @ARTICLE{Anderson2012-zy,
   title    = "{Design-Based} Research: A Decade of Progress in Education
               Research?",
@@ -10192,4 +10186,37 @@
   series    = "Government and International Affairs Faculty Publications",
   year      =  2013,
   keywords  = "RDL [CCME0041]"
+}
+
+@ARTICLE{Kirkwood2014-lf,
+  title     = "Technology-enhanced learning and teaching in higher education:
+               what is `enhanced' and how do we know? A critical literature
+               review",
+  author    = "Kirkwood, Adrian and Price, Linda",
+  abstract  = "The term technology-enhanced learning (TEL) is used to describe
+               the application of information and communication technologies to
+               teaching and learning. Explicit statements about what the term
+               is understood to mean are rare and it is not evident that a
+               shared understanding has been developed in higher education of
+               what constitutes an enhancement of the student learning
+               experience. This article presents a critical review and
+               assessment of how TEL is interpreted in recent literature. It
+               examines the purpose of technology interventions, the approaches
+               adopted to demonstrate the role of technology in enhancing the
+               learning experience, differing ways in which enhancement is
+               conceived and the use of various forms evidence to substantiate
+               claims about TEL. Thematic analysis enabled categories to be
+               developed and relationships explored between the aims of TEL
+               interventions, the evidence presented, and the ways in which
+               enhancement is conceived.",
+  journal   = "Learn. Media Technol.",
+  publisher = "Routledge",
+  volume    =  39,
+  number    =  1,
+  pages     = "6--36",
+  month     =  jan,
+  year      =  2014,
+  keywords  = "RDL [CCME0041]",
+  issn      = "1743-9884",
+  doi       = "10.1080/17439884.2013.770404"
 }
