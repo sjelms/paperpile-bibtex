@@ -1248,17 +1248,6 @@
   isbn      = "9789401786942"
 }
 
-@BOOK{Frey2019-yf,
-  title     = "The Technology Trap: Capital, Labor, and Power in the Age of
-               Automation",
-  author    = "Frey, C B",
-  publisher = "Princeton University Press",
-  year      =  2019,
-  keywords  = "Cited for Frontiers;Zotero Import (Feb 22);My Library;Frontiers
-               [2022]",
-  isbn      = "9780691172798"
-}
-
 @ARTICLE{Gott1988-dw,
   title    = "Chapter 3: Apprenticeship Instruction for {Real-World} Tasks: The
               Coordination of Procedures, Mental Models, and Strategies",
@@ -10387,4 +10376,15 @@
   keywords  = "Book (physical);Artificial Intelligence (AI)",
   language  = "en",
   isbn      = "9780753559031"
+}
+
+@BOOK{Frey2019-yf,
+  title     = "The Technology Trap: Capital, Labor, and Power in the Age of
+               Automation",
+  author    = "Frey, C B",
+  publisher = "Princeton University Press",
+  year      =  2019,
+  keywords  = "Cited for Frontiers;Book (physical);Zotero Import (Feb 22);My
+               Library;Frontiers [2022]",
+  isbn      = "9780691172798"
 }
