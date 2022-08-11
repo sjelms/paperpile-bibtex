@@ -1790,15 +1790,6 @@
   keywords    = "AEC;Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
-@TECHREPORT{PricewaterhouseCoopers_LLP2017-nq,
-  title       = "How Will Artificial Intelligence Affect the {UK} Economy?",
-  author      = "{PricewaterhouseCoopers LLP}",
-  institution = "PricewaterhouseCoopers LLP",
-  month       =  jun,
-  year        =  2017,
-  keywords    = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
-}
-
 @TECHREPORT{Council_of_the_European_Union2016-zv,
   title       = "Upskilling Pathways: New Opportunities for Adults",
   author      = "{Council of the European Union}",
@@ -10387,4 +10378,17 @@
   keywords  = "Cited for Frontiers;Book (physical);Audiobook;Zotero Import (Feb
                22);My Library;Frontiers [2022]",
   isbn      = "9780691172798"
+}
+
+@TECHREPORT{Cameron2017-nq,
+  title       = "The Economic Impact of Artificial Intelligence on the {UK}
+                 Economy",
+  author      = "Cameron, Euan and Andrews, Jon and Gillham, Jonathan",
+  abstract    = "Artificial intelligence (AI) can transform the productivity
+                 and GDP potential of the UK landscape. But, we need to invest
+                 in the different types of AI technology to make that happen.",
+  institution = "PriceWaterhouseCoopers LLP",
+  month       =  jun,
+  year        =  2017,
+  keywords    = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
