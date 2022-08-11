@@ -10265,3 +10265,9 @@
   isbn      = "9789264937345, 9789264647473",
   doi       = "10.1787/3a4bb6ea-en"
 }
+
+@MISC{Khanna2015-mw,
+  title  = "{Contextual Intelligence}",
+  author = "Khanna, Tarun",
+  year   =  2015
+}
