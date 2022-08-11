@@ -10266,8 +10266,13 @@
   doi       = "10.1787/3a4bb6ea-en"
 }
 
-@MISC{Khanna2015-mw,
-  title  = "{Contextual Intelligence}",
-  author = "Khanna, Tarun",
-  year   =  2015
+@MISC{Khanna2014-mw,
+  title     = "Contextual Intelligence",
+  editor    = "Khanna, Tarun",
+  abstract  = "Despite 30 years of experimentation and study, we are only
+               starting to understand that some managerial knowledge is
+               universal and some is specific to a market or a culture.",
+  publisher = "Harvard Business Review",
+  month     =  sep,
+  year      =  2014
 }
