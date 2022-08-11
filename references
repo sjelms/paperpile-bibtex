@@ -9352,12 +9352,6 @@
   organization = "Future Visual"
 }
 
-@MISC{The_Brainwaves_Video_Brainwaves_Video_Anthology_The2014-nw,
-  title  = "{Chris Dede - Preparing for Careers that Don't Yet Exist}",
-  author = "{The Brainwaves Video [Brainwaves Video Anthology, The]}",
-  year   =  2014
-}
-
 @BOOK{Saldana2015-ul,
   title     = "An Introduction to Codes and Coding",
   author    = "Salda{\~n}a, Johnny",
@@ -10283,4 +10277,31 @@
   month     =  sep,
   year      =  2014,
   keywords  = "Knowledge - Skill Acquisition"
+}
+
+@MISC{Dede2014-nw,
+  title    = "Chris Dede - Preparing for Careers that Don't Yet Exist",
+  author   = "Dede, Chris",
+  editor   = "{The Brainwaves Video Anthology}",
+  abstract = "Chris Dede is the Timothy E. Wirth Professor in Learning
+              Technologies at Harvard's Graduate School of Education. His
+              fields of scholarship include emerging technologies, policy, and
+              leadership. His funded research includes five grants from NSF and
+              the Gates Foundation to design and study immersive simulations,
+              transformed social interactions, and online professional
+              development. In 2007, he was honored by Harvard University as an
+              outstanding teacher, and in 2011 he was named a Fellow of the
+              American Educational Research Association. Chris has served as a
+              member of the National Academy of Sciences Committee on
+              Foundations of Educational and Psychological Assessment and a
+              member of the 2010 National Educational Technology Plan Technical
+              Working Group. His co-edited book, Scaling Up Success: Lessons
+              Learned from Technology-based Educational Improvement, was
+              published by Jossey-Bass in 2005. A second volume he edited,
+              Online Professional Development for Teachers: Emerging Models and
+              Methods, was published by the Harvard Education Press in 2006.
+              His latest book, Digital Teaching Platforms, will be published by
+              Teachers College Press in 2012.",
+  month    =  sep,
+  year     =  2014
 }
