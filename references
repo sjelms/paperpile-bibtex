@@ -420,8 +420,8 @@
   edition   = "4th Global ed",
   year      =  2021,
   address   = "Harlow, UK",
-  keywords  = "ePub;Book (physical);Artificial Intelligence (AI);Course
-               Assignment;AIEd [CCME0123]",
+  keywords  = "ePub | Kindle;Book (physical);Artificial Intelligence
+               (AI);Course Assignment;AIEd [CCME0123]",
   issn      = "0015-8992",
   isbn      = "9780134610993"
 }
@@ -543,7 +543,7 @@
   month     =  nov,
   year      =  2013,
   address   = "Cambridge, MA",
-  keywords  = "ePub;Book (physical)",
+  keywords  = "ePub | Kindle;Book (physical)",
   isbn      = "9780465050659"
 }
 
@@ -1491,7 +1491,8 @@
   series    = "Harvard Business Review Press",
   year      =  2008,
   address   = "Amsterdam, Netherlands",
-  keywords  = "ePub;Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
+  keywords  = "ePub | Kindle;Knowledge - Skill Acquisition;Zotero Import (Feb
+               22);My Library;2021-12-03 Frontiers"
 }
 
 @TECHREPORT{Autor2020-ol,
@@ -1598,7 +1599,7 @@
   number   =  1,
   pages    = "19--24",
   year     =  2019,
-  keywords = "Workplace Learning;ePub;Zotero Import (Feb 22);My
+  keywords = "Workplace Learning;ePub | Kindle;Zotero Import (Feb 22);My
               Library;2021-12-03 Frontiers",
   issn     = "0840-4704",
   doi      = "10.1177/0840470419869032"
@@ -1636,9 +1637,9 @@
   journal  = "Front. Psychol.",
   volume   =  9,
   year     =  2018,
-  keywords = "Cited for Frontiers;Knowledge - Skill Acquisition;ePub;Zotero
-              Import (Feb 22);My Library;2021-12-03 Frontiers;Frontiers
-              [2022];EPubs Books",
+  keywords = "Cited for Frontiers;Knowledge - Skill Acquisition;ePub |
+              Kindle;Zotero Import (Feb 22);My Library;2021-12-03
+              Frontiers;Frontiers [2022];EPubs Books",
   doi      = "10.3389/fpsyg.2018.02543"
 }
 
@@ -2574,7 +2575,8 @@
   pages    = "254--280",
   year     =  2017,
   keywords = "Employment;Occupational choice;Skill demand;Technological
-              change;Wage inequality;ePub;Zotero Import (Feb 22);My Library",
+              change;Wage inequality;ePub | Kindle;Zotero Import (Feb 22);My
+              Library",
   issn     = "0040-1625",
   doi      = "10.1016/j.techfore.2016.08.019"
 }
@@ -3301,7 +3303,7 @@
   pages     = "71--87",
   year      =  2017,
   address   = "Singapore",
-  keywords  = "XR/MR;ePub;EPubs Books",
+  keywords  = "XR/MR;ePub | Kindle;EPubs Books",
   issn      = "2522-0888, 2522-0896",
   isbn      = "9789811054891, 9789811054907",
   doi       = "10.1007/978-981-10-5490-7\_5"
@@ -3516,8 +3518,8 @@
   author    = "Autor, D H and Mindell, D A and Reynolds, E and Solow, R M",
   publisher = "MIT Press",
   year      =  2022,
-  keywords  = "Book (physical);ePub;@\_Mark Up;Cited for Frontiers;Frontiers
-               [2022];EPubs Books",
+  keywords  = "Book (physical);ePub | Kindle;@\_Mark Up;Cited for
+               Frontiers;Frontiers [2022];EPubs Books",
   isbn      = "9780262046367",
   lccn      = "2021010583"
 }
@@ -3705,7 +3707,7 @@
   number   =  1,
   pages    = "142--163",
   year     =  2021,
-  keywords = "Intelligent Tutoring Systems (ITS);ePub;@\_Mark
+  keywords = "Intelligent Tutoring Systems (ITS);ePub | Kindle;@\_Mark
               Up;Completed;Zotero Import (Feb 22);My Library;Intelligent
               Tutoring Systems (ITS);Frontiers [2022];EPubs Books",
   doi      = "10.1080/10494820.2018.1558257"
@@ -3883,7 +3885,7 @@
   number    =  0,
   month     =  jan,
   year      =  2020,
-  keywords  = "AEC;ePub;@\_Mark Up;Cited for Frontiers;EPubs Books",
+  keywords  = "AEC;ePub | Kindle;@\_Mark Up;Cited for Frontiers;EPubs Books",
   issn      = "2156-7069, 2156-7077",
   doi       = "10.25304/rlt.v28.2329"
 }
@@ -4039,7 +4041,7 @@
   author    = "Russell, S",
   publisher = "Penguin Publishing Group",
   year      =  2019,
-  keywords  = "ePub;Book (physical);EPubs Books;Frontiers [2022]",
+  keywords  = "ePub | Kindle;Book (physical);EPubs Books;Frontiers [2022]",
   isbn      = "9780525558620",
   lccn      = "2019029689"
 }
@@ -4109,7 +4111,7 @@
   publisher = "Springer",
   month     =  nov,
   year      =  2017,
-  keywords  = "ePub;EPubs Books",
+  keywords  = "ePub | Kindle;EPubs Books",
   language  = "en",
   isbn      = "9789811054907"
 }
@@ -4455,8 +4457,8 @@
   publisher = "RIBA Publishing",
   month     =  sep,
   year      =  2021,
-  keywords  = "AEC;ePub;Book (physical);Book\_Intelligent Control: Disruptive
-               Technologies;EPubs Books",
+  keywords  = "AEC;ePub | Kindle;Book (physical);Book\_Intelligent Control:
+               Disruptive Technologies;EPubs Books",
   language  = "en",
   isbn      = "9781859469705"
 }
@@ -4546,7 +4548,7 @@
   pages     = "3--11",
   year      =  2022,
   address   = "Singapore",
-  keywords  = "Knowledge - Skill Acquisition;ePub",
+  keywords  = "Knowledge - Skill Acquisition;ePub | Kindle",
   isbn      = "9789811668517",
   doi       = "10.1007/978-981-16-6851-7\_1"
 }
@@ -5329,9 +5331,9 @@
   edition   =  2,
   year      =  2018,
   address   = "New York, NY",
-  keywords  = "Cited for Frontiers;Labor;Workplace Learning;ePub;Zotero Import
-               (Feb 22);My Library;2021-12-03 Frontiers;Frontiers [2022];EPubs
-               Books",
+  keywords  = "Cited for Frontiers;Labor;Workplace Learning;ePub |
+               Kindle;Zotero Import (Feb 22);My Library;2021-12-03
+               Frontiers;Frontiers [2022];EPubs Books",
   isbn      = "9780807759066"
 }
 
@@ -6245,7 +6247,7 @@
   pages     = "1--16",
   year      =  2017,
   address   = "Singapore",
-  keywords  = "ePub;EPubs Books",
+  keywords  = "ePub | Kindle;EPubs Books",
   isbn      = "9789811054907",
   doi       = "10.1007/978-981-10-5490-7\_1"
 }
@@ -6291,7 +6293,7 @@
   pages     = "219--236",
   year      =  2017,
   address   = "Singapore",
-  keywords  = "ePub;XR/MR;@\_Mark Up;Cited for Frontiers",
+  keywords  = "ePub | Kindle;XR/MR;@\_Mark Up;Cited for Frontiers",
   isbn      = "9789811054907",
   doi       = "10.1007/978-981-10-5490-7\_12"
 }
@@ -6389,7 +6391,7 @@
   edition   = "8th",
   year      =  2018,
   address   = "New York, NY",
-  keywords  = "Book (physical);ePub",
+  keywords  = "Book (physical);ePub | Kindle",
   isbn      = "9781138209886"
 }
 
@@ -6488,7 +6490,7 @@
   publisher = "Elsevier",
   month     =  apr,
   year      =  2011,
-  keywords  = "ePub;HCI;Cited for Frontiers;+Notion",
+  keywords  = "ePub | Kindle;HCI;Cited for Frontiers;+Notion",
   language  = "en",
   isbn      = "9780123822321"
 }
@@ -8993,7 +8995,7 @@
                Publishers",
   series    = "ACM Books",
   year      =  2015,
-  keywords  = "ePub;XR/MR;EPubs Books",
+  keywords  = "ePub | Kindle;XR/MR;EPubs Books",
   language  = "en",
   isbn      = "9781970001136"
 }
@@ -9293,7 +9295,7 @@
   author    = "Groh, J M",
   publisher = "Harvard University Press",
   year      =  2014,
-  keywords  = "ePub",
+  keywords  = "ePub | Kindle",
   isbn      = "9780674744875"
 }
 
