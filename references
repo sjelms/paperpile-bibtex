@@ -2408,6 +2408,44 @@
   isbn      = "9781526413079"
 }
 
+@INPROCEEDINGS{Humble2019-ws,
+  title     = "Artificial Intelligence in Education -a Promise, a Threat or a
+               Hype?",
+  booktitle = "European Conference on the Impact of Artificial Intelligence and
+               Robotics",
+  author    = "Humble, Niklas and Mozelius, Peter",
+  abstract  = "The idea of creating intelligent machines and artificial
+               intelligence (AI) have been around for centuries, and can be
+               traced back to at least to the 14 th century. Artificial
+               Intelligence in Education (AIED) is a much younger discipline,
+               but during the last 25 years there have been achievements in a
+               number of fields which have made impact on education. Critical
+               voices have been raised against the over-optimism in
+               contemporary AI research. Less have been written about the high
+               expectation of AIED and its potential impact on education. The
+               aim of this study was to analyse and discuss AIED from the
+               teacher perspective. This study was carried out as a
+               SWOT-analysis, with data gathered from a literature study. Main
+               keywords in the literature search were: artificial intelligence,
+               artificial intelligence in education, AIED, teacher perspective,
+               education and teacher. Themes and patterns in the four main
+               categories where further processed as a deductive-inductive
+               thematic analysis. Findings indicates that there are both
+               promises and threats for the teacher in the contemporary AIED.
+               In several aspects the field seems to be in a state of hype but
+               as other hype areas there is a potential for maturing and with
+               concrete applications in daily teaching and learning activities.
+               Recommendations is to learn from traditional AI and to open up
+               for an informative and nuanced discussion concerning the role of
+               AI in education. Otherwise there is a risk for artificial
+               education instead of artificial intelligence in education.",
+  publisher = "unknown",
+  month     =  oct,
+  year      =  2019,
+  keywords  = "Frontiers import [Aug 11]",
+  doi       = "10.34190/ECIAIR.19.005"
+}
+
 @BOOK{Roll2021-ye,
   title     = "Artificial Intelligence in Education: 22nd International
                Conference, {AIED} 2021, Utrecht, The Netherlands, June 14--18,
