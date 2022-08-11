@@ -7926,9 +7926,11 @@
   doi       = "10.1016/b978-155558283-8/50012-4"
 }
 
-@ARTICLE{noauthor_undated-oh,
-  title    = "Arts-based research by Shaun {McNiff}",
-  keywords = "RDL [CCME0041]"
+@MISC{noauthor_undated-oh,
+  title        = "Arts-based research by Shaun {McNiff}",
+  howpublished = "\url{https://pdfs.semanticscholar.org/c004/801ceeff7eb079c1710e445ccc26a5485ac8.pdf}",
+  note         = "Accessed: 2022-8-11",
+  keywords     = "RDL [CCME0041]"
 }
 
 @INCOLLECTION{Field2009-sg,
