@@ -9608,11 +9608,13 @@
 
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
-@ARTICLE{Kumar_undated-fe,
+@ARTICLE{Kumar2011-fe,
   title    = "Developing an experienced-based design review application for
               healthcare facilities using a 3d game engine",
   author   = "{Kumar} and {Hedrick} and {Wiacek} and {Messner}",
   journal  = "J. Inf. Technol. Constr.",
+  month    =  jan,
+  year     =  2011,
   keywords = "§New Literature;Game Engine;AEC",
   issn     = "1874-4753"
 }
