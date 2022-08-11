@@ -10381,6 +10381,7 @@
   publisher = "Random House",
   month     =  sep,
   year      =  2021,
+  keywords  = "Book (physical)",
   language  = "en",
   isbn      = "9780753559031"
 }
