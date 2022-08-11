@@ -6920,17 +6920,6 @@
   doi      = "10.1007/s11023-007-9079-x"
 }
 
-@ARTICLE{Cercas_Curry2018-jc,
-  title     = "{\#MeToo} Alexa: How Conversational Systems Respond to Sexual
-               Harassment",
-  author    = "Cercas Curry, Amanda and Rieser, Verena",
-  publisher = "Association for Computational Linguistics",
-  pages     = "7--14",
-  year      =  2018,
-  keywords  = "Course Assignment;AIEd [CCME0123]",
-  doi       = "10.18653/v1/W18-0802"
-}
-
 @MISC{noauthor_undated-ev,
   title        = "Learning analytics and educational data mining | Proceedings
                   of the 2nd International Conference on Learning Analytics and
@@ -10144,4 +10133,36 @@
   year      =  1998,
   keywords  = "Course Assignment;AIEd [CCME0123]",
   issn      = "0003-2638"
+}
+
+@INPROCEEDINGS{Cercas_Curry2018-jc,
+  title      = "{\#MeToo} Alexa: How conversational systems respond to sexual
+                harassment",
+  booktitle  = "Proceedings of the Second {ACL} Workshop on Ethics in Natural
+                Language Processing",
+  author     = "Cercas Curry, Amanda and Rieser, Verena",
+  abstract   = "Conversational AI systems, such as Amazon's Alexa, are rapidly
+                developing from purely transactional systems to social
+                chatbots, which can respond to a wide variety of user requests.
+                In this article, we establish how current stateof-the-art
+                conversational systems react to inappropriate requests, such as
+                bullying and sexual harassment on the part of the user, by
+                collecting and analysing the novel \#MeTooAlexa corpus. Our
+                results show that commercial systems mainly avoid answering,
+                while rulebased chatbots show a variety of behaviours and often
+                deflect. Data-driven systems, on the other hand, are often
+                non-coherent, but also run the risk of being interpreted as
+                flirtatious and sometimes react with counter-aggression. This
+                includes our own system, trained on ``clean'' data, which
+                suggests that inappropriate system behaviour is not caused by
+                data bias.",
+  publisher  = "Association for Computational Linguistics",
+  pages      = "7--14",
+  year       =  2018,
+  address    = "Stroudsburg, PA, USA",
+  keywords   = "Course Assignment;AIEd [CCME0123]",
+  conference = "Proceedings of the Second ACL Workshop on Ethics in Natural
+                Language Processing",
+  location   = "New Orleans, Louisiana, USA",
+  doi        = "10.18653/v1/w18-0802"
 }
