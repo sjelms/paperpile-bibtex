@@ -4302,38 +4302,6 @@
   isbn      = "9789460915741"
 }
 
-@ARTICLE{Kapralos2008-xq,
-  title     = "Virtual audio systems",
-  author    = "Kapralos, B and Jenkin, M R and Milios, E",
-  abstract  = "To be immersed in a virtual environment, the user must be
-               presented with plausible sensory input including auditory cues.
-               A virtual (three-dimensional) audio display aims to allow the
-               user to perceive the position of a sound source at an arbitrary
-               position in three-dimensional space despite the fact that the
-               generated sound may be emanating from a fixed number of
-               loudspeakers at fixed positions in space or a pair of
-               headphones. The foundation of virtual audio rests on the
-               development of technology to present auditory signals to the
-               listener's ears so that these signals are perceptually
-               equivalent to those the listener would receive in the
-               environment being simulated. This paper reviews the human
-               perceptual and technical literature relevant to the modeling and
-               generation of accurate audio displays for virtual environments.
-               Approaches to acoustical environment simulation are summarized
-               and the advantages and disadvantages of the various approaches
-               are presented.",
-  journal   = "Presence",
-  publisher = "MIT Press - Journals",
-  volume    =  17,
-  number    =  6,
-  pages     = "527--549",
-  month     =  dec,
-  year      =  2008,
-  language  = "en",
-  issn      = "1054-7460, 1531-3263",
-  doi       = "10.1162/pres.17.6.527"
-}
-
 @MISC{Khanna2014-mw,
   title     = "Contextual Intelligence",
   editor    = "Khanna, Tarun",
@@ -10369,6 +10337,39 @@
               import [Aug 11]",
   issn     = "0925-7535",
   doi      = "10.1016/j.ssci.2016.08.019"
+}
+
+@ARTICLE{Kapralos2008-xq,
+  title     = "Virtual audio systems",
+  author    = "Kapralos, B and Jenkin, M R and Milios, E",
+  abstract  = "To be immersed in a virtual environment, the user must be
+               presented with plausible sensory input including auditory cues.
+               A virtual (three-dimensional) audio display aims to allow the
+               user to perceive the position of a sound source at an arbitrary
+               position in three-dimensional space despite the fact that the
+               generated sound may be emanating from a fixed number of
+               loudspeakers at fixed positions in space or a pair of
+               headphones. The foundation of virtual audio rests on the
+               development of technology to present auditory signals to the
+               listener's ears so that these signals are perceptually
+               equivalent to those the listener would receive in the
+               environment being simulated. This paper reviews the human
+               perceptual and technical literature relevant to the modeling and
+               generation of accurate audio displays for virtual environments.
+               Approaches to acoustical environment simulation are summarized
+               and the advantages and disadvantages of the various approaches
+               are presented.",
+  journal   = "Presence",
+  publisher = "MIT Press - Journals",
+  volume    =  17,
+  number    =  6,
+  pages     = "527--549",
+  month     =  dec,
+  year      =  2008,
+  keywords  = "Sensory Processing",
+  language  = "en",
+  issn      = "1054-7460, 1531-3263",
+  doi       = "10.1162/pres.17.6.527"
 }
 
 @BOOK{Oecd2020-fz,
