@@ -4302,17 +4302,6 @@
   isbn      = "9789460915741"
 }
 
-@MISC{noauthor_undated-rl,
-  title        = "(10) ({PDF}) Virtual Audio Systems",
-  booktitle    = "{ResearchGate}",
-  abstract     = "ResearchGate is a network dedicated to science and research.
-                  Connect, collaborate and discover scientific publications,
-                  jobs and conferences. All for free.",
-  howpublished = "\url{https://www.researchgate.net/profile/Bill-Kapralos/publication/257764036_Virtual_Audio_Systems/links/00463525d362d45c8b000000/Virtual-Audio-Systems.pdf}",
-  note         = "Accessed: 2022-8-13",
-  language     = "en"
-}
-
 @ARTICLE{Kapralos2008-xq,
   title     = "Virtual audio systems",
   author    = "Kapralos, B and Jenkin, M R and Milios, E",
