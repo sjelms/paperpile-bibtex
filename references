@@ -10231,6 +10231,52 @@
   doi      = "10.1016/j.ssci.2016.08.019"
 }
 
+@ARTICLE{Lee2014-ys,
+  title    = "Different stimuli, different spatial codes: a visual map and an
+              auditory rate code for oculomotor space in the primate superior
+              colliculus",
+  author   = "Lee, Jungah and Groh, Jennifer M",
+  abstract = "Maps are a mainstay of visual, somatosensory, and motor coding in
+              many species. However, auditory maps of space have not been
+              reported in the primate brain. Instead, recent studies have
+              suggested that sound location may be encoded via broadly
+              responsive neurons whose firing rates vary roughly
+              proportionately with sound azimuth. Within frontal space, maps
+              and such rate codes involve different response patterns at the
+              level of individual neurons. Maps consist of neurons exhibiting
+              circumscribed receptive fields, whereas rate codes involve
+              open-ended response patterns that peak in the periphery. This
+              coding format discrepancy therefore poses a potential problem for
+              brain regions responsible for representing both visual and
+              auditory information. Here, we investigated the coding of
+              auditory space in the primate superior colliculus(SC), a
+              structure known to contain visual and oculomotor maps for guiding
+              saccades. We report that, for visual stimuli, neurons showed
+              circumscribed receptive fields consistent with a map, but for
+              auditory stimuli, they had open-ended response patterns
+              consistent with a rate or level-of-activity code for location.
+              The discrepant response patterns were not segregated into
+              different neural populations but occurred in the same neurons. We
+              show that a read-out algorithm in which the site and level of SC
+              activity both contribute to the computation of stimulus location
+              is successful at evaluating the discrepant visual and auditory
+              codes, and can account for subtle but systematic differences in
+              the accuracy of auditory compared to visual saccades. This
+              suggests that a given population of neurons can use different
+              codes to support appropriate multimodal behavior.",
+  journal  = "PLoS One",
+  volume   =  9,
+  number   =  1,
+  pages    = "e85017",
+  month    =  jan,
+  year     =  2014,
+  language = "en",
+  issn     = "1932-6203",
+  pmid     = "24454779",
+  doi      = "10.1371/journal.pone.0085017",
+  pmc      = "PMC3893137"
+}
+
 @ARTICLE{Kapralos2008-xq,
   title     = "Virtual audio systems",
   author    = "Kapralos, B and Jenkin, M R and Milios, E",
