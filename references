@@ -10472,3 +10472,51 @@
   year        =  2017,
   keywords    = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
+
+@ARTICLE{Naber2011-ev,
+  title     = "Perceptual rivalry: reflexes reveal the gradual nature of visual
+               awareness",
+  author    = "Naber, Marnix and Fr{\"a}ssle, Stefan and Einh{\"a}user,
+               Wolfgang",
+  abstract  = "Rivalry is a common tool to probe visual awareness: a constant
+               physical stimulus evokes multiple, distinct perceptual
+               interpretations (``percepts'') that alternate over time.
+               Percepts are typically described as mutually exclusive,
+               suggesting that a discrete (all-or-none) process underlies
+               changes in visual awareness. Here we follow two strategies to
+               address whether rivalry is an all-or-none process: first, we
+               introduce two reflexes as objective measures of rivalry, pupil
+               dilation and optokinetic nystagmus (OKN); second, we use a
+               continuous input device (analog joystick) to allow observers a
+               gradual subjective report. We find that the ``reflexes'' reflect
+               the percept rather than the physical stimulus. Both reflexes
+               show a gradual dependence on the time relative to perceptual
+               transitions. Similarly, observers' joystick deflections, which
+               are highly correlated with the reflex measures, indicate gradual
+               transitions. Physically simulating wave-like transitions between
+               percepts suggest piece-meal rivalry (i.e., different regions of
+               space belonging to distinct percepts) as one possible
+               explanation for the gradual transitions. Furthermore, the
+               reflexes show that dominance durations depend on whether or not
+               the percept is actively reported. In addition, reflexes respond
+               to transitions with shorter latencies than the subjective report
+               and show an abundance of short dominance durations. This failure
+               to report fast changes in dominance may result from limited
+               access of introspection to rivalry dynamics. In sum, reflexes
+               reveal that rivalry is a gradual process, rivalry's dynamics is
+               modulated by the required action (response mode), and that rapid
+               transitions in perceptual dominance can slip away from
+               awareness.",
+  journal   = "PLoS One",
+  publisher = "Public Library of Science (PLoS)",
+  volume    =  6,
+  number    =  6,
+  pages     = "e20910",
+  month     =  jun,
+  year      =  2011,
+  language  = "en",
+  issn      = "1932-6203",
+  pmid      = "21677786",
+  doi       = "10.1371/journal.pone.0020910",
+  pmc       = "PMC3109001"
+}
