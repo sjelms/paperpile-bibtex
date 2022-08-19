@@ -10533,3 +10533,55 @@
   doi       = "10.1371/journal.pone.0020910",
   pmc       = "PMC3109001"
 }
+
+@ARTICLE{Pietra2021-jq,
+  title     = "Promoting eco-driving behavior through multisensory stimulation:
+               a preliminary study on the use of visual and haptic feedback in
+               a virtual reality driving simulator",
+  author    = "Pietra, Andrea and Vazquez Rull, Marina and Etzi, Roberta and
+               Gallace, Alberto and Scurati, Giulia Wally and Ferrise,
+               Francesco and Bordegoni, Monica",
+  abstract  = "AbstractThis paper describes the design and preliminary test of
+               a virtual reality driving simulator capable of conveying haptic
+               and visual messages to promote eco-sustainable driving behavior.
+               The driving simulator was implemented through the Unity game
+               engine; a large street environment, including high-speed and
+               urban sections, was created to examine different driving
+               behaviors. The hardware setup included a gaming driving seat,
+               equipped with a steering wheel and pedals; the virtual scenarios
+               were displayed through an Oculus Rift headset to guarantee an
+               immersive experience. Haptic stimulation (i.e., vibrations) was
+               delivered to the driver through the accelerator pedal, while
+               visual stimuli (i.e., icons and colors) were shown on a virtual
+               head-up display. The sensory feedbacks were presented both alone
+               and in combination, providing information about excessive
+               acceleration and speed. Four different virtual scenarios, each
+               one including a distracting element (i.e., navigator, rain,
+               call, and traffic), were also created. Ten participants tested
+               the simulator. Fuel consumption was evaluated by calculating a
+               mean power index (MPI) in reference to the sensory feedback
+               presentation; physiological reactions and responses to a
+               usability survey were also collected. The results revealed that
+               the haptic and visuo-haptic feedback were responsible for an MPI
+               reduction, respectively, for 14\% and 11\% compared with a
+               condition of no feedback presentation; while visual feedback
+               alone resulted in an MPI increase of 11\%. The efficacy of
+               haptic feedback was also accompanied by a more relaxing
+               physiological state of the users, compared with the visual
+               stimulation. The system's usability was adequate, although
+               haptic stimuli were rated slightly more intrusive than the
+               visual ones. Overall, these preliminary results highlight how
+               promising the use of the haptic channel can be in communicating
+               and guiding the driver toward a more eco-sustainable behavior.",
+  journal   = "Virtual Real.",
+  publisher = "Springer Science and Business Media LLC",
+  volume    =  25,
+  number    =  4,
+  pages     = "945--959",
+  month     =  dec,
+  year      =  2021,
+  copyright = "https://creativecommons.org/licenses/by/4.0",
+  language  = "en",
+  issn      = "1359-4338, 1434-9957",
+  doi       = "10.1007/s10055-021-00499-1"
+}
