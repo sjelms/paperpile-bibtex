@@ -10615,6 +10615,20 @@
   language     = "en"
 }
 
+@MISC{Grady1993-ky,
+  title        = "The vision thing: Mainly in the brain",
+  booktitle    = "Discover Magazine",
+  author       = "Grady, Denise",
+  abstract     = "The eye and brain work in a partnership to interpret
+                  conflicting signals from the outside world. Ultimately, we
+                  see whatever our brains think we should.",
+  month        =  jun,
+  year         =  1993,
+  howpublished = "\url{https://www.discovermagazine.com/mind/the-vision-thing-mainly-in-the-brain}",
+  note         = "Accessed: 2022-9-2",
+  language     = "en"
+}
+
 @ARTICLE{Barsalou2010-tp,
   title    = "Grounded cognition: past, present, and future",
   author   = "Barsalou, Lawrence W",
