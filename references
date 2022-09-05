@@ -43,6 +43,7 @@
   month           =  oct,
   year            =  2014,
   address         = "New York, NY, USA",
+  keywords        = "XR/MR",
   conference      = "SUI '14: Symposium on Spatial User Interaction",
   location        = "Honolulu Hawaii USA",
   isbn            = "9781450328203",
