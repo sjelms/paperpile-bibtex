@@ -4514,6 +4514,20 @@
   doi       = "10.1007/978-3-031-08518-5\_25"
 }
 
+@INCOLLECTION{Gerholz2022-ue,
+  title     = "Design-based research -- grounding, understanding and empirical
+               illustration in the context of vocational education",
+  booktitle = "Methods for Researching Professional Learning and Development",
+  author    = "Gerholz, Karl-Heinz and Wagner, Anne",
+  publisher = "Springer International Publishing",
+  pages     = "513--534",
+  year      =  2022,
+  address   = "Cham",
+  issn      = "2210-5549, 2210-5557",
+  isbn      = "9783031085178, 9783031085185",
+  doi       = "10.1007/978-3-031-08518-5\_23"
+}
+
 @INPROCEEDINGS{Steinicke2014-vp,
   title           = "A self-experimentation report about long-term use of
                      fully-immersive technology",
