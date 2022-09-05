@@ -13,6 +13,42 @@
   doi       = "10.2307/2025464"
 }
 
+@INPROCEEDINGS{Steinicke2014-vp,
+  title           = "A self-experimentation report about long-term use of
+                     fully-immersive technology",
+  booktitle       = "Proceedings of the 2nd {ACM} symposium on Spatial user
+                     interaction",
+  author          = "Steinicke, Frank and Bruder, Gerd",
+  abstract        = "Virtual and digital worlds have become an essential part
+                     of our daily life, and many activities that we used to
+                     perform in the real world such as communication,
+                     e-commerce, or games, have been transferred to the virtual
+                     world nowadays. This transition has been addressed many
+                     times by science fic- tion literature and cinematographic
+                     works, which often show dystopic visions in which humans
+                     live their lives in a virtual reality (VR)-based setup,
+                     while they are immersed into a vir- tual or remote
+                     location by means of avatars or surrogates. In order to
+                     gain a better understanding of how living in such a
+                     virtual environment (VE) would impact human beings, we
+                     conducted a self-experiment in which we exposed a single
+                     participant in an immersive VR setup for 24 hours (divided
+                     into repeated sessions of two hours VR exposure followed
+                     by ten minutes breaks), which is to our knowledge the
+                     longest documented use of an immersive VEs so far. We
+                     measured different metrics to analyze how human
+                     perception, behav- ior, cognition, and motor system change
+                     over time in a fully isolated virtual world.",
+  publisher       = "ACM",
+  month           =  oct,
+  year            =  2014,
+  address         = "New York, NY, USA",
+  conference      = "SUI '14: Symposium on Spatial User Interaction",
+  location        = "Honolulu Hawaii USA",
+  isbn            = "9781450328203",
+  doi             = "10.1145/2659766.2659767"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Wolf2019-ff,
