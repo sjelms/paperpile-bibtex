@@ -10845,3 +10845,32 @@
   doi       = "10.7554/eLife.81075",
   pmc       = "PMC9322996"
 }
+
+@ARTICLE{Lochhead2022-as,
+  title     = "The Immersive mental rotations test: Evaluating spatial ability
+               in virtual reality",
+  author    = "Lochhead, Ian and Hedley, Nick and {\c C}{\"o}ltekin, Arzu and
+               Fisher, Brian",
+  abstract  = "Advancements in extended reality (XR) have inspired new uses and
+               users of advanced visualization interfaces, transforming
+               geospatial data visualization and consumption by enabling
+               interactive 3D geospatial data experiences in 3D. Conventional
+               metrics (e.g., mental rotations test (MRT)) are often used to
+               assess and predict the appropriateness of these visualizations
+               without accounting for the effect the interface has on those
+               metrics. We developed the Immersive MRT (IMRT) to evaluate the
+               impact that virtual reality (VR) based visualizations and 3D
+               virtual environments have on mental rotation performance.
+               Consistent with previous work, the results of our pilot study
+               suggest that mental rotation tasks are performed more accurately
+               and rapidly with stereo 3D stimuli than with 2D images of those
+               stimuli.",
+  journal   = "Front. Virtual Real.",
+  publisher = "Frontiers Media SA",
+  volume    =  3,
+  month     =  jan,
+  year      =  2022,
+  copyright = "https://creativecommons.org/licenses/by/4.0/",
+  issn      = "2673-4192",
+  doi       = "10.3389/frvir.2022.820237"
+}
