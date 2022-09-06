@@ -6142,6 +6142,8 @@
   doi      = "10.1609/aimag.v27i4.1904"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Saunders2021-ku,
   title     = "Identifying solution strategies in a mentalrotation test with
                gender-stereotyped objects",
@@ -6175,7 +6177,7 @@
   month     =  mar,
   year      =  2021,
   keywords  = "eye tracking; gender stereotype; mental rotation; scan path;
-               strategies",
+               strategies;§New Literature;Sensory Processing",
   language  = "en",
   issn      = "1995-8692",
   pmid      = "33828815",
