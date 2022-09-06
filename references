@@ -10846,6 +10846,8 @@
   pmc       = "PMC9322996"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Lochhead2022-as,
   title     = "The Immersive mental rotations test: Evaluating spatial ability
                in virtual reality",
@@ -10870,6 +10872,7 @@
   volume    =  3,
   month     =  jan,
   year      =  2022,
+  keywords  = "+Notion;+Readwise;§New Literature;XR/MR",
   copyright = "https://creativecommons.org/licenses/by/4.0/",
   issn      = "2673-4192",
   doi       = "10.3389/frvir.2022.820237"
