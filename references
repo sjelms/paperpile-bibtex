@@ -10921,3 +10921,16 @@
   doi       = "10.16910/jemr.13.6.5",
   pmc       = "PMC8015812"
 }
+
+@INPROCEEDINGS{Zimmons2003-kh,
+  title      = "The influence of rendering quality on presence and task
+                performance in a virtual environment",
+  booktitle  = "{IEEE} Virtual Reality, 2003. Proceedings",
+  author     = "Zimmons, P and Panter, A",
+  publisher  = "IEEE Comput. Soc",
+  year       =  2003,
+  conference = "IEEE Virtual Reality 2003",
+  location   = "Los Angeles, CA, USA",
+  isbn       = "9780769518824",
+  doi        = "10.1109/vr.2003.1191170"
+}
