@@ -10922,6 +10922,8 @@
   pmc       = "PMC8015812"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INPROCEEDINGS{Zimmons2003-kh,
   title      = "The influence of rendering quality on presence and task
                 performance in a virtual environment",
@@ -10929,7 +10931,7 @@
   author     = "Zimmons, P and Panter, A",
   publisher  = "IEEE Comput. Soc",
   year       =  2003,
-  keywords   = "XR/MR",
+  keywords   = "XR/MR;§New Literature",
   conference = "IEEE Virtual Reality 2003",
   location   = "Los Angeles, CA, USA",
   isbn       = "9780769518824",
