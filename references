@@ -11072,3 +11072,21 @@
   issn      = "0737-0024",
   doi       = "10.1080/07370024.2018.1531001"
 }
+
+@MISC{Bailenson2018-hl,
+  title        = "What is Virtual Reality?",
+  author       = "Bailenson, Jeremy",
+  abstract     = "An in-depth look at virtual reality and how it can be
+                  harnessed to improve our everyday lives. Virtual reality is
+                  able to effectively blur the line between reality and
+                  illusion, pushing the limits of our imagination and granting
+                  us access to any experience imaginable. With well-crafted
+                  simulations, these experiences, which are so immersive that
+                  the brain believes they're real, are already widely available
+                  with a VR headset and will only become more accessible and
+                  commonplace. But how does this new medium affect its users,
+                  and does it have a future beyond fantasy and escapism?",
+  month        =  jan,
+  year         =  2018,
+  howpublished = "Talks at Google"
+}
