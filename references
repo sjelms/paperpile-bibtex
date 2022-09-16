@@ -10956,6 +10956,8 @@
   doi       = "10.1145/129888.129892"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Vandenberg1978-xa,
   title    = "Mental rotations, a group test of three-dimensional spatial
               visualization",
@@ -10975,7 +10977,7 @@
   pages    = "599--604",
   month    =  oct,
   year     =  1978,
-  keywords = "Sensory Processing",
+  keywords = "Sensory Processing;§New Literature",
   language = "en",
   issn     = "0031-5125",
   pmid     = "724398",
