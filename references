@@ -360,6 +360,8 @@
   keywords  = "Intelligent Tutoring Systems (ITS);§New Literature"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INPROCEEDINGS{Peter_Khooshabeh_undated-yd,
   title           = "How visual information affects a spatial task",
   booktitle       = "Proceedings of Cognitive Science Society",
@@ -379,7 +381,7 @@
                      ability construct representations that include both visual
                      and spatial information.",
   keywords        = "color; mental rotation; individual differences;Sensory
-                     Processing",
+                     Processing;§New Literature",
   language        = "en",
   conference      = "Cognitive Science Society"
 }
