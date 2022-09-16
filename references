@@ -10955,3 +10955,28 @@
   issn      = "0001-0782, 1557-7317",
   doi       = "10.1145/129888.129892"
 }
+
+@ARTICLE{Vandenberg1978-xa,
+  title    = "Mental rotations, a group test of three-dimensional spatial
+              visualization",
+  author   = "Vandenberg, S G and Kuse, A R",
+  abstract = "A new paper-and-pencil test of spatial visualization was
+              constructed from the figures used in the chronometric study of
+              Shepard and Metzler (1971). In large samples, the new test
+              displayed substantial internal consistency (Kuder-Richardson 20 =
+              .88), a test-retest reliability (.83), and consistent sex
+              differences over the entire range of ages investigated.
+              Correlations with other measures indicated strong association
+              with tests of spatial visualization and virtually no association
+              with tests of verbal ability.",
+  journal  = "Percept. Mot. Skills",
+  volume   =  47,
+  number   =  2,
+  pages    = "599--604",
+  month    =  oct,
+  year     =  1978,
+  language = "en",
+  issn     = "0031-5125",
+  pmid     = "724398",
+  doi      = "10.2466/pms.1978.47.2.599"
+}
