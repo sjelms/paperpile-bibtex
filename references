@@ -11088,5 +11088,6 @@
                   and does it have a future beyond fantasy and escapism?",
   month        =  jan,
   year         =  2018,
-  howpublished = "Talks at Google"
+  howpublished = "Talks at Google",
+  keywords     = "XR/MR"
 }
