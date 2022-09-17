@@ -154,6 +154,20 @@
   language     = "en"
 }
 
+@MISC{Wikipedia_contributors2022-fx,
+  title        = "{SECI} model of knowledge dimensions",
+  booktitle    = "Wikipedia, The Free Encyclopedia",
+  author       = "{Wikipedia contributors}",
+  abstract     = "The SECI model of knowledge dimensions (or the
+                  Nonaka-Takeuchi model) is a model of knowledge creation that
+                  explains how tacit and explicit knowledge are converted into
+                  organizational knowledge.",
+  month        =  jun,
+  year         =  2022,
+  howpublished = "\url{https://en.wikipedia.org/w/index.php?title=SECI_model_of_knowledge_dimensions&oldid=1094600557}",
+  note         = "Accessed: NA-NA-NA"
+}
+
 @ARTICLE{Rawsthorn2010-ut,
   title     = "Putting New Tools in Students' Hands",
   author    = "Rawsthorn, Alice",
