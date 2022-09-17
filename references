@@ -10985,6 +10985,43 @@
   pmc       = "PMC8015812"
 }
 
+@ARTICLE{Wang2015-lz,
+  title     = "An Empirical Study of Employees' Tacit Knowledge Sharing
+               Behavior",
+  author    = "Wang, Juanru and Yang, Jin",
+  abstract  = "This paper is to investigate how employees' tacit knowledge
+               sharing behavior is influenced by various antecedents. We
+               propose that tacit knowledge sharing consists of three specific
+               behaviors (i.e., socialization, externalization, and
+               internalization) and they are influenced by four antecedents
+               (trust, self-efficacy, knowledge tacitness, and IT support). A
+               survey was conducted to collect data from 258 knowledge workers
+               who worked on complex product development projects. Structural
+               equation modeling was used to analyze the data. The results
+               demonstrate that trust, self-efficacy, knowledge tacitness, and
+               IT support significantly affect the externalization and
+               internalization behaviors, and trust and IT support
+               significantly affect the socialization behavior. This study is
+               helpful to organizations where it is critical for employees to
+               share tacit knowledge. It suggests that tacit knowledge is
+               difficult to share and organizations should nurture mutual trust
+               between employees, enhance their self-efficacy, and provide
+               sufficient IT support so that they are more likely to engage in
+               tacit knowledge sharing.",
+  journal   = "Int. J. Inf. Syst. Sci.",
+  publisher = "De Gruyter",
+  volume    =  3,
+  number    =  3,
+  pages     = "264--278",
+  month     =  jun,
+  year      =  2015,
+  keywords  = "tacit knowledge; knowledge sharing; trust; self-efficacy; IT
+               support",
+  language  = "en",
+  issn      = "1708-296X, 2512-6660",
+  doi       = "10.1515/JSSI-2015-0264"
+}
+
 @INPROCEEDINGS{Zimmons2003-kh,
   title      = "The influence of rendering quality on presence and task
                 performance in a virtual environment",
