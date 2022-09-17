@@ -10658,6 +10658,18 @@
   doi       = "10.1007/s10055-021-00499-1"
 }
 
+@BOOK{Zuboff1988-mo,
+  title     = "In Age Of Smart Mach",
+  author    = "Zuboff, Shoshana",
+  abstract  = "A noted Harvard social scientist documents the pitfalls and
+               promises of computerized technology in business life.",
+  publisher = "Basic Books",
+  month     =  may,
+  year      =  1988,
+  language  = "en",
+  isbn      = "9780465032129"
+}
+
 @MISC{noauthor_2009-ux,
   title        = "Brain sees tools as extensions of body",
   booktitle    = "Live Science",
