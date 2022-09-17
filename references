@@ -3868,6 +3868,15 @@
   doi      = "10.1080/00461520.2011.611369"
 }
 
+@MISC{noauthor_undated-mx,
+  title        = "Global Infrastructure Outlook - A {G20} {INITIATIVE}",
+  abstract     = "The Global Infrastructure Outlook compare infrastructure
+                  investment forecasts for 56 countries \& 7 sectors",
+  howpublished = "\url{https://outlook.gihub.org/}",
+  note         = "Accessed: 2022-9-17",
+  language     = "en"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Howson2022-ln,
