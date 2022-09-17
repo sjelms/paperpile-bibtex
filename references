@@ -517,6 +517,20 @@
   conference      = "Cognitive Science Society"
 }
 
+@MISC{Authers2021-dw,
+  title        = "If Your {CEO} Talks Like Kant, Think Twice Before Investing",
+  booktitle    = "Bloomberg",
+  author       = "Authers, John",
+  abstract     = "Quantitative research by Nomura shows companies whose
+                  executives use the most complex language on earnings calls
+                  produce lower returns.",
+  month        =  sep,
+  year         =  2021,
+  howpublished = "\url{https://www.bloomberg.com/opinion/articles/2021-09-17/complex-language-on-earnings-calls-is-a-warning-to-investors}",
+  note         = "Accessed: 2022-9-17",
+  language     = "en"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Autor2013-ht,
