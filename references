@@ -224,14 +224,16 @@
 
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
-@ARTICLE{noauthor_undated-wq,
-  title    = "Expert--novice - discourses on learning in education",
+@ARTICLE{Davis_undated-wq,
+  title    = "{Expert--Novice}: Discourses on Learning in Education",
+  author   = "Davis, B and Francis, K",
   abstract = "The Expert--Novice literature explores the realization that the
               main difference between expert and novice performance is
               principally a matter of knowing differently rather than knowing
               more. Most commentators attribute differences between an expert's
               fluid competencies and a novice's more tentative abilities to the
               fact that the expert's are memory-based (and…",
+  journal  = "Discourses on Learning in Education",
   language = "en"
 }
 
