@@ -182,6 +182,18 @@
   language  = "en"
 }
 
+@TECHREPORT{Gross2017-aw,
+  title       = "Scale versus scope in the diffusion of new technology:
+                 Evidence from the farm tractor",
+  author      = "Gross, Daniel",
+  publisher   = "National Bureau of Economic Research",
+  institution = "National Bureau of Economic Research",
+  month       =  dec,
+  year        =  2017,
+  address     = "Cambridge, MA",
+  doi         = "10.3386/w24125"
+}
+
 @TECHREPORT{Global_Infrastructure_Hub2020-mx,
   title       = "Global Infrastructure Outlook - A {G20} {INITIATIVE}",
   author      = "{Global Infrastructure Hub}",
