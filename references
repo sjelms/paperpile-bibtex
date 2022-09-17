@@ -11613,6 +11613,36 @@
   doi       = "10.1007/978-94-007-7012-6\_11"
 }
 
+@INCOLLECTION{Goller2014-jx,
+  title     = "Agentic Behaviour at Work: Crafting Learning Experiences",
+  booktitle = "Discourses on Professional Learning: On the Boundary Between
+               Learning and Working",
+  author    = "Goller, Michael and Billett, Stephen",
+  editor    = "Harteis, Christian and Rausch, Andreas and Seifried, J{\"u}rgen",
+  abstract  = "A key priority for research on professional development is
+               elaborating how employees become and remain high-performing
+               workers who are able to effectively respond to the changing
+               requirements of their work. This chapter focuses on how workers
+               develop such high performance at work. It is proposed that
+               current accounts of professional expertise development lack a
+               consideration of the variety and breadth of work-relevant
+               experiences necessary to generate expertise, including employees
+               who deliberately contribute to that development. Although
+               deliberate practice as originally conceptualised by Ericsson et
+               al. (1993) may not be readably identifiable in work contexts,
+               certainly analogous processes and other agentic efforts shape
+               the quality of workplace learning. It is illuminated how
+               employees can deliberately influence their expertise development
+               by seeking additional work experiences and proactively securing
+               information and feedback.",
+  publisher = "Springer Netherlands",
+  pages     = "25--44",
+  year      =  2014,
+  address   = "Dordrecht",
+  isbn      = "9789400770126",
+  doi       = "10.1007/978-94-007-7012-6\_3"
+}
+
 @ARTICLE{Eraut2004-wa,
   title     = "Informal learning in the workplace",
   author    = "Eraut, Michael",
