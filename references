@@ -153,6 +153,18 @@
   issn      = "0362-4331, 1553-8095"
 }
 
+@TECHREPORT{Global_Infrastructure_Hub2020-df,
+  title       = "Global Infrastructure Outlook - A {G20} {INITIATIVE}",
+  author      = "{Global Infrastructure Hub}",
+  abstract    = "The Global Infrastructure Outlook compare infrastructure
+                 investment forecasts for 56 countries \& 7 sectors",
+  institution = "Global Infrastructure Hub",
+  month       =  oct,
+  year        =  2020,
+  language    = "en",
+  isbn        = "9780648857129"
+}
+
 @TECHREPORT{Global_Infrastructure_Hub2020-mx,
   title       = "Global Infrastructure Outlook - A {G20} {INITIATIVE}",
   author      = "{Global Infrastructure Hub}",
