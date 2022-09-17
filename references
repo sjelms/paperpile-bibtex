@@ -160,7 +160,8 @@
   institution = "Global Infrastructure Hub",
   month       =  oct,
   year        =  2020,
-  language    = "en"
+  language    = "en",
+  isbn        = "9780648857129"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
