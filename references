@@ -4831,35 +4831,6 @@
   isbn      = "9780393634990"
 }
 
-@ARTICLE{Eraut_2004-wa,
-  title     = "Informal learning in the workplace",
-  author    = "Eraut *, Michael",
-  abstract  = "This paper focuses mainly on theoretical frameworks for
-               understanding and investigating informal learning in the
-               workplace, which have been developed through a series of large?
-               and small?scale projects. The main conclusions are included but
-               readers are referred to other publications for more detailed
-               accounts of individual projects. Two types of framework are
-               discussed. The first group seeks to deconstruct the ?key
-               concepts? of informal learning, learning from experience, tacit
-               knowledge, transfer of learning and> intuitive practice to
-               disclose the range of different phenomena that are embraced by
-               these popular terms. The second group comprises frameworks for
-               addressing the three central questions that pervaded the
-               research programme: what is being learned, how is it being
-               learned and what are the factors that influence the level and
-               directions of the learning effort?",
-  journal   = "Studies in Continuing Education",
-  publisher = "Routledge",
-  volume    =  26,
-  number    =  2,
-  pages     = "247--273",
-  month     =  jul,
-  year      =  2004,
-  issn      = "0158-037X",
-  doi       = "10.1080/158037042000225245"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
@@ -11527,4 +11498,34 @@
   pmid     = "29535997",
   doi      = "10.3389/fpubh.2018.00044",
   pmc      = "PMC5834832"
+}
+
+@ARTICLE{Eraut_2004-wa,
+  title     = "Informal learning in the workplace",
+  author    = "Eraut *, Michael",
+  abstract  = "This paper focuses mainly on theoretical frameworks for
+               understanding and investigating informal learning in the
+               workplace, which have been developed through a series of large?
+               and small?scale projects. The main conclusions are included but
+               readers are referred to other publications for more detailed
+               accounts of individual projects. Two types of framework are
+               discussed. The first group seeks to deconstruct the ?key
+               concepts? of informal learning, learning from experience, tacit
+               knowledge, transfer of learning and> intuitive practice to
+               disclose the range of different phenomena that are embraced by
+               these popular terms. The second group comprises frameworks for
+               addressing the three central questions that pervaded the
+               research programme: what is being learned, how is it being
+               learned and what are the factors that influence the level and
+               directions of the learning effort?",
+  journal   = "Studies in Continuing Education",
+  publisher = "Routledge",
+  volume    =  26,
+  number    =  2,
+  pages     = "247--273",
+  month     =  jul,
+  year      =  2004,
+  keywords  = "Workplace Learning",
+  issn      = "0158-037X",
+  doi       = "10.1080/158037042000225245"
 }
