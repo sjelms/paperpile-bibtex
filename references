@@ -1,17 +1,3 @@
-@MISC{noauthor_2017-jg,
-  title    = "The big debate about the future of work, explained",
-  abstract = "Why economists and futurists disagree about the future of the
-              labor market.Subscribe to our channel!
-              http://goo.gl/0bsAjOSources: https://economics.mit.edu/f...",
-  month    =  nov,
-  year     =  2017,
-  keywords = "vox.com; vox; explain; shift change; future of work; automation;
-              robots; jobs; technological unemployment; joss fong; heidi
-              shierholz; martin ford; rise of the robots; humans; workers;
-              employment; economics; macroeconomics; silicon valley; basic
-              income"
-}
-
 @INCOLLECTION{dummy_key,
   title     = "The Core Concept of Statistics",
   booktitle = "Understanding Statistics and Experimental Design: How not to lie
@@ -9894,6 +9880,22 @@
   year      =  2019,
   keywords  = "AEC;XR/MR;@\_Mark Up;+Notion;+Readwise;International Association
                for Automation and Robotics in Construction (IAARC);XR Reviewed"
+}
+
+@MISC{Fong2017-jg,
+  title     = "The Big Debate About the Future of Work, Explained",
+  author    = "Fong, Joss",
+  abstract  = "Why economists and futurists disagree about the future of the
+               labor market.Subscribe to our channel!
+               http://goo.gl/0bsAjOSources: https://economics.mit.edu/f...",
+  publisher = "Vox Media",
+  month     =  nov,
+  year      =  2017,
+  keywords  = "vox.com; vox; explain; shift change; future of work; automation;
+               robots; jobs; technological unemployment; joss fong; heidi
+               shierholz; martin ford; rise of the robots; humans; workers;
+               employment; economics; macroeconomics; silicon valley; basic
+               income"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
