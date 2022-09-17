@@ -140,28 +140,6 @@
   doi       = "10.1007/978-3-031-08518-5\_28"
 }
 
-@MISC{Wikipedia_contributors2022-ot,
-  title        = "Reflective practice",
-  booktitle    = "Wikipedia, The Free Encyclopedia",
-  author       = "{Wikipedia contributors}",
-  abstract     = "Reflective practice is the ability to reflect on one's
-                  actions so as to take a critical stance or attitude towards
-                  one's own practice and that of one's peers, engaging in a
-                  process of continuous adaptation and learning.[1][2]
-                  According to one definition it involves ``paying critical
-                  attention to the practical values and theories which inform
-                  everyday actions, by examining practice reflectively and
-                  reflexively. This leads to developmental insight''.[3] A key
-                  rationale for reflective practice is that experience alone
-                  does not necessarily lead to learning; deliberate reflection
-                  on experience is essential.[4][5]",
-  month        =  jul,
-  year         =  2022,
-  howpublished = "\url{https://en.wikipedia.org/w/index.php?title=Reflective_practice&oldid=1100956279}",
-  note         = "Accessed: NA-NA-NA",
-  keywords     = "Wikipedia"
-}
-
 @ARTICLE{Rawsthorn2010-ut,
   title     = "Putting New Tools in Students' Hands",
   author    = "Rawsthorn, Alice",
@@ -11574,6 +11552,28 @@
   keywords  = "Book (physical)",
   language  = "en",
   isbn      = "9780593084496"
+}
+
+@MISC{Wikipedia_contributors2022-ot,
+  title        = "Reflective practice",
+  booktitle    = "Wikipedia, The Free Encyclopedia",
+  author       = "{Wikipedia contributors}",
+  abstract     = "Reflective practice is the ability to reflect on one's
+                  actions so as to take a critical stance or attitude towards
+                  one's own practice and that of one's peers, engaging in a
+                  process of continuous adaptation and learning.[1][2]
+                  According to one definition it involves ``paying critical
+                  attention to the practical values and theories which inform
+                  everyday actions, by examining practice reflectively and
+                  reflexively. This leads to developmental insight''.[3] A key
+                  rationale for reflective practice is that experience alone
+                  does not necessarily lead to learning; deliberate reflection
+                  on experience is essential.[4][5]",
+  month        =  jul,
+  year         =  2022,
+  howpublished = "\url{https://en.wikipedia.org/w/index.php?title=Reflective_practice&oldid=1100956279}",
+  note         = "Accessed: NA-NA-NA",
+  keywords     = "Wikipedia;Wikipedia"
 }
 
 @ARTICLE{Eraut2004-wa,
