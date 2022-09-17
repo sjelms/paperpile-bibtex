@@ -11228,7 +11228,8 @@
   pages     = "243b--243b",
   month     =  jan,
   year      =  2005,
-  keywords  = "Knowledge management;Educational institutions",
+  keywords  = "Knowledge management;Educational institutions;Knowledge - Skill
+               Acquisition",
   issn      = "1530-1605",
   doi       = "10.1109/HICSS.2005.446"
 }
@@ -11260,7 +11261,7 @@
   year      =  2005,
   keywords  = "Artificial intelligence;Knowledge representation;Knowledge
                management;Cognition;Decision making;Information
-               systems;Humans;Bridges;Lakes",
+               systems;Humans;Bridges;Lakes;Knowledge - Skill Acquisition",
   issn      = "1530-1605",
   doi       = "10.1109/HICSS.2005.620"
 }
