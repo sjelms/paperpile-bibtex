@@ -224,7 +224,7 @@
 
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
-@ARTICLE{Davis_undated-wq,
+@ARTICLE{Davis2022-wq,
   title    = "{Expert--Novice}: Discourses on Learning in Education",
   author   = "Davis, B and Francis, K",
   abstract = "The Expert--Novice literature explores the realization that the
@@ -234,6 +234,7 @@
               fluid competencies and a novice's more tentative abilities to the
               fact that the expert's are memory-based (and…",
   journal  = "Discourses on Learning in Education",
+  year     =  2022,
   language = "en"
 }
 
