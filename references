@@ -253,9 +253,10 @@
   language = "en"
 }
 
-@MISC{noauthor_2020-cx,
+@MISC{Lizop2020-cx,
   title     = "Vygotsky's Theory of cognitive development in social
                relationships",
+  author    = "Lizop, Morgan and Abbott, Matt",
   abstract  = "Vygotsky's Theory of Social Development argues that community
                and language play a central part in learning. Vygotsky believed
                that children develop independe...",
