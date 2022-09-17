@@ -140,6 +140,19 @@
   doi       = "10.1007/978-3-031-08518-5\_28"
 }
 
+@ARTICLE{Rawsthorn2010-ut,
+  title     = "Putting New Tools in Students' Hands",
+  author    = "Rawsthorn, Alice",
+  abstract  = "Two young designers from San Francisco have set up an innovative
+               design-and-build program at a high school in one of North
+               Carolina's poorest areas.",
+  journal   = "The New York Times",
+  publisher = "The New York Times",
+  month     =  aug,
+  year      =  2010,
+  issn      = "0362-4331, 1553-8095"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Suppes1969-kb,
