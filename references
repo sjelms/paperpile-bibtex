@@ -7822,6 +7822,15 @@
   doi       = "10.1145/3529163"
 }
 
+@MISC{noauthor_undated-ah,
+  title        = "Engineering Applications of Artificial Intelligence",
+  abstract     = "Read the latest articles of Engineering Applications of
+                  Artificial Intelligence at ScienceDirect.com, Elsevier's
+                  leading platform of peer-reviewed scholarly literature",
+  howpublished = "\url{https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence/vol/71/suppl/C}",
+  note         = "Accessed: 2022-9-17"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Chun_Tie2019-xa,
