@@ -253,6 +253,19 @@
   language = "en"
 }
 
+@MISC{noauthor_2020-cx,
+  title    = "Vygotsky's Theory of cognitive development in social
+              relationships",
+  abstract = "Vygotsky's Theory of Social Development argues that community and
+              language play a central part in learning. Vygotsky believed that
+              children develop independe...",
+  month    =  feb,
+  year     =  2020,
+  keywords = "education; learning; science; sprouts; vygotsky; theory; social
+              development; development; language; more knowledgeable other;
+              scaffolding"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Suppes1969-kb,
