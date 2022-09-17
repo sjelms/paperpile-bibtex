@@ -10658,27 +10658,6 @@
   doi       = "10.1007/s10055-021-00499-1"
 }
 
-@BOOK{Dreyfus1988-pf,
-  title     = "Mind Over Machine",
-  author    = "Dreyfus, Hubert and Dreyfus, Stuart E and Athanasiou, Tom",
-  abstract  = "Heburt L. Drefyus discusses and debates the use of computers in
-               education in this book that proves to be ``crucial in the
-               development of computer technology'' (Terry Winograd, Associate
-               Professor of Computer Science, Stanford University).Arguing the
-               power of human intuition over the technical strengths of
-               computer technology, Hubert and Stuart Drefyus present a
-               stunning reaffirmation of human intelligence. A compelling
-               approach to inferiority of binary logic, Mind Over Machine
-               presents a reassuring argument that human intuition and
-               expertise will remain far more valuable than technology
-               develops.",
-  publisher = "Free Press",
-  month     =  sep,
-  year      =  1988,
-  language  = "en",
-  isbn      = "9780029080610"
-}
-
 @MISC{noauthor_2009-ux,
   title        = "Brain sees tools as extensions of body",
   booktitle    = "Live Science",
@@ -11287,4 +11266,27 @@
                systems;Humans;Bridges;Lakes;Knowledge - Skill Acquisition",
   issn      = "1530-1605",
   doi       = "10.1109/HICSS.2005.620"
+}
+
+@BOOK{Dreyfus1988-pf,
+  title     = "Mind Over Machine: The Power of Human Intuition and Expertise in
+               the Era of the Computer",
+  author    = "Dreyfus, Hubert and Dreyfus, Stuart E",
+  editor    = "Athanasiou, Tom",
+  abstract  = "Heburt L. Drefyus discusses and debates the use of computers in
+               education in this book that proves to be ``crucial in the
+               development of computer technology'' (Terry Winograd, Associate
+               Professor of Computer Science, Stanford University).Arguing the
+               power of human intuition over the technical strengths of
+               computer technology, Hubert and Stuart Drefyus present a
+               stunning reaffirmation of human intelligence. A compelling
+               approach to inferiority of binary logic, Mind Over Machine
+               presents a reassuring argument that human intuition and
+               expertise will remain far more valuable than technology
+               develops.",
+  publisher = "Free Press",
+  month     =  sep,
+  year      =  1988,
+  language  = "en",
+  isbn      = "9780029080610"
 }
