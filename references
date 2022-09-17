@@ -1103,6 +1103,22 @@
   language = "en"
 }
 
+@ARTICLE{Ngo2021-qp,
+  title     = "Skilled Workers Are Scarce, Posing a Challenge for Biden's
+               Infrastructure Plan",
+  author    = "Ngo, Madeleine",
+  abstract  = "One estimate says the bill would add \$1.4 trillion to the U.S.
+               economy over eight years, but without enough workers, efforts to
+               strengthen roads and public transit could be set back.",
+  journal   = "The New York Times",
+  publisher = "The New York Times",
+  month     =  sep,
+  year      =  2021,
+  keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers",
+  language  = "en",
+  issn      = "0362-4331, 1553-8095"
+}
+
 @MISC{Lizop2020-cx,
   title     = "Vygotsky's Theory of cognitive development in social
                relationships",
@@ -1551,15 +1567,6 @@
   year        =  2018,
   keywords    = "Workplace Learning;Zotero Import (Feb 22);My
                  Library;2021-12-03 Frontiers"
-}
-
-@ARTICLE{Ngo2021-qp,
-  title    = "Skilled Workers Are Scarce, Posing a Challenge for Biden's
-              Infrastructure Plan",
-  author   = "Ngo, Madeleine",
-  month    =  nov,
-  year     =  2021,
-  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
 @BOOK{Halttunen2014-de,
