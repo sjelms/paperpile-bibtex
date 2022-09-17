@@ -3855,21 +3855,6 @@
   doi      = "10.1080/00461520.2011.611369"
 }
 
-@ARTICLE{Koschmann1987-if,
-  title   = "Mind over machine: The power of human intuition and expertise in
-             the era of the computer: Hubert L. Dreyfus and Stuart E. Dreyfus
-             (Basil Blackwell, Oxford, 1986); 223 pages, \pounds{}15.00",
-  author  = "Koschmann, Timothy D",
-  journal = "Artif. Intell.",
-  volume  =  33,
-  number  =  1,
-  pages   = "135--140",
-  month   =  sep,
-  year    =  1987,
-  issn    = "0004-3702",
-  doi     = "10.1016/0004-3702(87)90056-7"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Howson2022-ln,
