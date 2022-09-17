@@ -167,6 +167,21 @@
   issn      = "0362-4331, 1553-8095"
 }
 
+@ARTICLE{Pailliez2017-av,
+  title     = "You're hired! France's Macron targets apprentices in labor
+               market shake-up",
+  author    = "Pailliez, Caroline",
+  abstract  = "In a warehouse outside Paris, university drop-out Celine Galland
+               stacks palettes and fills out an inventory sheet, part of a
+               logistics apprenticeship she hopes will put a decade of
+               short-term contracts and unemployment behind her.",
+  journal   = "Reuters",
+  publisher = "Reuters",
+  month     =  nov,
+  year      =  2017,
+  language  = "en"
+}
+
 @TECHREPORT{Global_Infrastructure_Hub2020-mx,
   title       = "Global Infrastructure Outlook - A {G20} {INITIATIVE}",
   author      = "{Global Infrastructure Hub}",
