@@ -10836,6 +10836,25 @@
   doi      = "10.1007/BF01323044"
 }
 
+@BOOK{Rolfe2001-ch,
+  title     = "Critical Reflection for Nursing and the Helping Professions: A
+               User's Guide",
+  author    = "Rolfe, Gary and Freshwater, Dawn and Jasper, Melanie",
+  abstract  = "Critical reflection, like all practice based skills, can only be
+               mastered by doing it. This practical user's guide takes the
+               reader through a structured and coherent course in reflective
+               practice, with frequent reflective writing exercises, discussion
+               breaks and suggestions for further reading. With chapters on
+               individual and group supervision, reflective writing, research
+               and education, this book should be of interest to students and
+               practitioners at all levels of nursing, midwifery, health
+               visiting and social work.",
+  publisher = "Palgrave",
+  year      =  2001,
+  language  = "en",
+  isbn      = "9780333777954"
+}
+
 @ARTICLE{Barsalou2010-tp,
   title    = "Grounded cognition: past, present, and future",
   author   = "Barsalou, Lawrence W",
