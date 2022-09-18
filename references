@@ -1282,12 +1282,14 @@
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
-@MISC{Street2019-yq,
-  title    = "Gates' Law: How Progress Compounds and Why It Matters",
-  author   = "Street, Farnam",
-  month    =  oct,
-  year     =  2019,
-  keywords = "Zotero Import (Feb 22);My Library"
+@MISC{Farnam_Street_Media2019-yq,
+  title        = "Gates' Law: How Progress Compounds and Why It Matters",
+  booktitle    = "Farnam Street Media",
+  author       = "{Farnam Street Media}",
+  month        =  oct,
+  year         =  2019,
+  howpublished = "\url{https://fs.blog/2019/05/gates-law/}",
+  keywords     = "Zotero Import (Feb 22);My Library"
 }
 
 @MISC{Azevedo2021-eb,
