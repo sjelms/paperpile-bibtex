@@ -10875,6 +10875,18 @@
   issn     = "0362-4331"
 }
 
+@ARTICLE{Florida2018-xv,
+  title    = "The Global Housing Crisis",
+  author   = "Florida, Richard and Schneider, Benjamin",
+  abstract = "Scarce, unaffordable housing is not a local problem in a few
+              places, but is baked into the 21st-century global city. It's time
+              for cities, nations, and global leaders to start acting like it.",
+  journal  = "Bloomberg News",
+  month    =  apr,
+  year     =  2018,
+  language = "en"
+}
+
 @ARTICLE{Barsalou2010-tp,
   title    = "Grounded cognition: past, present, and future",
   author   = "Barsalou, Lawrence W",
