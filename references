@@ -6777,6 +6777,8 @@
   doi       = "10.1007/978-3-642-33263-0\_6"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INPROCEEDINGS{Jermann2008-pb,
   title     = "Tinkering or Sketching: Apprentices' Use of Tangibles and
                Drawings to Solve Design Problems",
@@ -6801,7 +6803,7 @@
   publisher = "Springer Berlin Heidelberg",
   pages     = "167--178",
   year      =  2008,
-  keywords  = "XR/MR",
+  keywords  = "XR/MR;§New Literature",
   doi       = "10.1007/978-3-540-87605-2\_19"
 }
 
