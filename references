@@ -12201,10 +12201,11 @@
   isbn      = "9781846147562"
 }
 
-@ARTICLE{Jana_Randow_Eleni_Chrepa_Peter_Flanagan_Carolynn_Look_Stefan_Nicola_Andra_Timu_Ott_Ummelas_Zoe_Schneeweiss2021-bi,
+@ARTICLE{Randow2021-bi,
   title    = "Berliners Are Angry About Housing. And So Is Much of Europe",
-  author   = "{Jana Randow, Eleni Chrepa, Peter Flanagan, Carolynn Look, Stefan
-              Nicola, Andra Timu, Ott Ummelas, Zoe Schneeweiss}",
+  author   = "Randow, Jana and Chrepa, Eleni and Flanagan, Peter and Look,
+              Carolynn and Nicola, Stefan and Timu, Andra and Ummelas, Ott and
+              Schneeweiss, Zoe",
   abstract = "Soaring rents and out-of-reach prices have fueled property
               inequality",
   journal  = "Bloomberg News",
