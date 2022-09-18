@@ -3887,6 +3887,8 @@
   doi      = "10.1108/00400910910960722"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Prensky2002-ml,
   title     = "The Motivation of gameplay or, the {REAL} 21st century learning
                revolution",
@@ -3910,7 +3912,7 @@
   pages     = "5--11",
   month     =  mar,
   year      =  2002,
-  keywords  = "Game Engine",
+  keywords  = "Game Engine;§New Literature",
   language  = "en",
   issn      = "1074-8121, 2054-1708",
   doi       = "10.1108/10748120210431349"
