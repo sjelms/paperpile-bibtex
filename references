@@ -12347,3 +12347,18 @@
               youth...",
   language = "en"
 }
+
+@MISC{Fry2020-da,
+  title        = "A majority of young adults in the {U.S}. live with their
+                  parents for the first time since the Great Depression",
+  booktitle    = "Pew Research Center",
+  author       = "Fry, Richard and Passel, Jeffrey S and Cohn, D'vera",
+  abstract     = "The share of 18- to 29-year-olds living with their parents
+                  has become a majority since U.S. coronavirus cases began
+                  spreading early this year.",
+  month        =  sep,
+  year         =  2020,
+  howpublished = "\url{https://pewrsr.ch/351SVs1}",
+  note         = "Accessed: 2022-9-18",
+  language     = "en"
+}
