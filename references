@@ -7936,6 +7936,12 @@
   keywords = "UCL;UCL Upgrade Research Proposals"
 }
 
+@BOOK{noauthor_undated-kg,
+  title     = "Artificial Intelligence in Education",
+  publisher = "Springer International Publishing",
+  doi       = "10.1007/978-3-030-78292-4"
+}
+
 @INPROCEEDINGS{Costanza-Chock2022-sz,
   title      = "Who Audits the Auditors? Recommendations from a field scan of
                 the algorithmic auditing ecosystem",
