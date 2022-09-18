@@ -9536,18 +9536,18 @@
 }
 
 @MISC{Park2016-wq,
-  title     = "What is multimodal design? An interview with John Alderman and
-               Christine Park",
-  author    = "Park, Christine and Alderman, John",
-  abstract  = "Multimodal design is an approach that reflects how we use our
-               senses together in the physical world. John Alderman and
-               Christine Park discuss the application...",
-  publisher = "O'Reilly",
-  month     =  mar,
-  year      =  2016,
-  keywords  = "O'Reilly Media (Publisher); O'Reilly; OReilly; OReilly Media;
-               design; multimodal design; Internet of Things; Web design; Web
-               development;YouTube"
+  title           = "What is multimodal design? An interview with John Alderman
+                     and Christine Park",
+  author          = "Park, Christine and Alderman, John",
+  abstract        = "Multimodal design is an approach that reflects how we use
+                     our senses together in the physical world. John Alderman
+                     and Christine Park discuss the application...",
+  publisher       = "O'Reilly",
+  month           =  mar,
+  year            =  2016,
+  keywords        = "O'Reilly Media (Publisher); O'Reilly; OReilly; OReilly
+                     Media; design; multimodal design; Internet of Things; Web
+                     design; Web development;YouTube"
 }
 
 @ARTICLE{Collins1993-eb,
