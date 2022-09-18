@@ -12098,3 +12098,13 @@
   year      =  2019,
   keywords  = "YouTube;HCI"
 }
+
+@MISC{noauthor_2017-cu,
+  title    = "Building augmented reality experiences with {Unity3D} - Abhishek
+              Singh - {CS50} tech talk",
+  abstract = "CS50 presents... a tech talk on augmented reality (AR) by
+              Abhishek Singh, Resident Researcher at NYU.``Watch this guy play
+              Super Mario Bros. IRL in Central Pa...",
+  month    =  jul,
+  year     =  2017
+}
