@@ -10875,16 +10875,6 @@
   issn     = "0362-4331"
 }
 
-@ARTICLE{noauthor_2021-bi,
-  title    = "Berliners Are Angry About Housing. And So Is Much of Europe",
-  abstract = "Soaring rents and out-of-reach prices have fueled property
-              inequality",
-  journal  = "Bloomberg News",
-  month    =  oct,
-  year     =  2021,
-  language = "en"
-}
-
 @ARTICLE{Barsalou2010-tp,
   title    = "Grounded cognition: past, present, and future",
   author   = "Barsalou, Lawrence W",
@@ -12209,4 +12199,16 @@
   keywords  = "Book (physical)",
   language  = "en",
   isbn      = "9781846147562"
+}
+
+@ARTICLE{Jana_Randow_Eleni_Chrepa_Peter_Flanagan_Carolynn_Look_Stefan_Nicola_Andra_Timu_Ott_Ummelas_Zoe_Schneeweiss2021-bi,
+  title    = "Berliners Are Angry About Housing. And So Is Much of Europe",
+  author   = "{Jana Randow, Eleni Chrepa, Peter Flanagan, Carolynn Look, Stefan
+              Nicola, Andra Timu, Ott Ummelas, Zoe Schneeweiss}",
+  abstract = "Soaring rents and out-of-reach prices have fueled property
+              inequality",
+  journal  = "Bloomberg News",
+  month    =  oct,
+  year     =  2021,
+  language = "en"
 }
