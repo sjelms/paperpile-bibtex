@@ -10658,17 +10658,15 @@
   keywords    = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
-@MISC{Koperniak2020-br,
-  title        = "Applying new education technologies to meet workforce
-                  education needs",
-  booktitle    = "{MIT} Work of the Future",
-  author       = "Koperniak, Stefanie",
-  publisher    = "JRD Template",
-  month        =  oct,
-  year         =  2020,
-  howpublished = "\url{https://workofthefuture.mit.edu/research-post/applying-new-education-technologies-to-meet-workforce-education-needs/}",
-  note         = "Accessed: 2022-9-18",
-  language     = "en"
+@TECHREPORT{Sarma2020-br,
+  title       = "Applying new education technologies to meet workforce
+                 education needs",
+  author      = "Sarma, Sanjay E and Bonvillian, William B",
+  publisher   = "MIT Work of the Future",
+  institution = "MIT Work of the Future",
+  month       =  oct,
+  year        =  2020,
+  language    = "en"
 }
 
 @ARTICLE{Naber2011-ev,
