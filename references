@@ -4994,6 +4994,23 @@
   doi       = "10.1007/978-94-007-7012-6\_3"
 }
 
+@MISC{Schwartz2021-vj,
+  title        = "The worker-employer relationship disrupted",
+  booktitle    = "Deloitte Insights",
+  author       = "Schwartz, Jeff and Eaton, Kraig and Mallon, David and Van
+                  Durme, Yves and Hauptmann, Maren and Poynton, Shannon and
+                  Scoble-Williams, Nic",
+  abstract     = "The pandemic strained and tested the worker-employer
+                  relationship beyond anyone's anticipation. Going forward,
+                  thriving in an uncertain future depends on having a
+                  compelling vision for where that relationship should go.",
+  publisher    = "Deloitte",
+  month        =  jul,
+  year         =  2021,
+  howpublished = "\url{https://www2.deloitte.com/global/en/insights/focus/human-capital-trends/2021/the-evolving-employer-employee-relationship.html}",
+  note         = "Accessed: 2022-9-18"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
