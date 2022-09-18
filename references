@@ -9539,6 +9539,7 @@
   title           = "What is multimodal design? An interview with John Alderman
                      and Christine Park",
   author          = "Park, Christine and Alderman, John",
+  editor          = "Slocum, Mac",
   abstract        = "Multimodal design is an approach that reflects how we use
                      our senses together in the physical world. John Alderman
                      and Christine Park discuss the application...",
@@ -9547,7 +9548,9 @@
   year            =  2016,
   keywords        = "O'Reilly Media (Publisher); O'Reilly; OReilly; OReilly
                      Media; design; multimodal design; Internet of Things; Web
-                     design; Web development;YouTube"
+                     design; Web development;YouTube",
+  conference      = "Software Architecture NY 2016",
+  location        = "New York, New York"
 }
 
 @ARTICLE{Collins1993-eb,
