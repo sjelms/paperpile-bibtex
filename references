@@ -10836,9 +10836,9 @@
   doi      = "10.1007/BF01323044"
 }
 
-@BOOK{Rolfe2001-ch,
-  title     = "Critical Reflection for Nursing and the Helping Professions: A
-               User's Guide",
+@MISC{Rolfe2001-ch,
+  title     = "Critical Reflection for Nursing and the Helping Professions:
+               Reflective Framework",
   author    = "Rolfe, Gary and Freshwater, Dawn and Jasper, Melanie",
   abstract  = "Critical reflection, like all practice based skills, can only be
                mastered by doing it. This practical user's guide takes the
@@ -10851,8 +10851,7 @@
                visiting and social work.",
   publisher = "Palgrave",
   year      =  2001,
-  language  = "en",
-  isbn      = "9780333777954"
+  language  = "en"
 }
 
 @ARTICLE{Barsalou2010-tp,
