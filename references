@@ -10902,6 +10902,8 @@
   doi      = "10.1111/j.1756-8765.2010.01115.x"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Shepard1971-qp,
   title    = "Mental rotation of three-dimensional objects",
   author   = "Shepard, R N and Metzler, J",
@@ -10919,7 +10921,7 @@
   pages    = "701--703",
   month    =  feb,
   year     =  1971,
-  keywords = "Sensory Processing;Brain and Space [Coursera]",
+  keywords = "Sensory Processing;§New Literature;Brain and Space [Coursera]",
   language = "en",
   issn     = "0036-8075",
   pmid     = "5540314",
