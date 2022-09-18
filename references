@@ -8922,37 +8922,6 @@
   keywords     = "RDL [CCME0041]"
 }
 
-@ARTICLE{Griffiths2007-cb,
-  title     = "Review: Basic vision: An introduction to visual perception,
-               cognitive psychology (4th edition), ethical issues and
-               guidelines in psychology, evaluating research methods in
-               psychology, getting started with neurofeedback, handbook of the
-               teaching of psychology, human neuropsychology (2nd edition),
-               introduction to research methods and statistics in psychology,
-               physiology of behavior (8th edition), psychology (7th edition),
-               speaking as a professional: Enhance your therapy or coaching
-               practice through presentations, workshops and seminars,
-               systematic reviews in the social sciences: A practical guide,
-               teaching with emotional intelligence: A step-by-step guide for
-               higher and further educational professionals",
-  author    = "Griffiths, Mike and Hardman, David and Rutherford, Andrew and
-               Shams, Manfusa and Wainwright, Tony and Wesson, Caroline and
-               Allen, Rory and Brennan, Toni and Bucks, Romola and Brown,
-               Caroline and Coyne, Sarah M and Brotherton, Chris and Milne,
-               Derek and Biggerstaff, Deborah",
-  journal   = "Psychol. Learn. Teach.",
-  publisher = "SAGE Publications",
-  volume    =  6,
-  number    =  1,
-  pages     = "47--60",
-  month     =  mar,
-  year      =  2007,
-  keywords  = "RDL [CCME0041]",
-  language  = "en",
-  issn      = "1475-7257, 2057-3022",
-  doi       = "10.2304/plat.2007.6.1.47"
-}
-
 @INPROCEEDINGS{Van_Mechelen2020-xu,
   title     = "18 Years of ethics in child-computer interaction research: a
                systematic literature review",
