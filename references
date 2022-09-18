@@ -12087,6 +12087,19 @@
   isbn      = "9781491954195"
 }
 
+@MISC{Briscoe2006-xc,
+  title        = "Metcalfe's law is wrong",
+  booktitle    = "{IEEE} Spectrum",
+  author       = "Briscoe, Bob",
+  abstract     = "Communications networks increase in value as they add
+                  members---but by how much? The devil is in the details",
+  month        =  jul,
+  year         =  2006,
+  howpublished = "\url{https://spectrum.ieee.org/metcalfes-law-is-wrong}",
+  note         = "Accessed: 2022-9-18",
+  language     = "en"
+}
+
 @MISC{IxDA2019-mo,
   title     = "Ruby Steel --- Interaction Design Day @ {IxDA} London",
   author    = "IxDA, London",
