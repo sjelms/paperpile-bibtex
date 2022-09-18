@@ -7936,12 +7936,6 @@
   keywords = "UCL;UCL Upgrade Research Proposals"
 }
 
-@BOOK{noauthor_undated-kg,
-  title     = "Artificial Intelligence in Education",
-  publisher = "Springer International Publishing",
-  doi       = "10.1007/978-3-030-78292-4"
-}
-
 @INPROCEEDINGS{Costanza-Chock2022-sz,
   title      = "Who Audits the Auditors? Recommendations from a field scan of
                 the algorithmic auditing ecosystem",
@@ -12367,4 +12361,14 @@
   howpublished = "\url{https://pewrsr.ch/351SVs1}",
   note         = "Accessed: 2022-9-18",
   language     = "en"
+}
+
+@PROCEEDINGS{Roll_undated-kg,
+  title     = "Artificial Intelligence in Education",
+  editor    = "Roll, Ido and McNamara, Danielle and Sosnovsky, Sergey and
+               Luckin, Rose and Dimitrova, Vania",
+  publisher = "Springer International Publishing",
+  volume    =  12748,
+  series    = "Lecture Notes in Computer Science",
+  doi       = "10.1007/978-3-030-78292-4"
 }
