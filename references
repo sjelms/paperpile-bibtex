@@ -10863,6 +10863,15 @@
   language  = "en"
 }
 
+@ARTICLE{noauthor_2013-ut,
+  title    = "An Ubernerd Weighs In",
+  abstract = "It's technically great, so it must be important, right?",
+  journal  = "The New York Times",
+  month    =  dec,
+  year     =  2013,
+  issn     = "0362-4331"
+}
+
 @ARTICLE{Barsalou2010-tp,
   title    = "Grounded cognition: past, present, and future",
   author   = "Barsalou, Lawrence W",
