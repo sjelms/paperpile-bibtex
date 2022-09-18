@@ -12149,3 +12149,16 @@
   note         = "Accessed: 2022-9-18",
   language     = "en"
 }
+
+@MISC{Chu2018-az,
+  title        = "The future of automated ports",
+  author       = "Chu, Fox and Gailus, Sven and Liu, Lisa and Ni, Liumin",
+  abstract     = "Port automation poses significant problems, but careful
+                  planning and implementation can surmount them.",
+  publisher    = "McKinsey \& Company",
+  month        =  dec,
+  year         =  2018,
+  howpublished = "\url{https://www.mckinsey.com/industries/travel-logistics-and-infrastructure/our-insights/the-future-of-automated-ports}",
+  note         = "Accessed: 2022-9-18",
+  language     = "en"
+}
