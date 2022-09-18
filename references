@@ -10875,6 +10875,16 @@
   issn     = "0362-4331"
 }
 
+@ARTICLE{noauthor_2021-bi,
+  title    = "Berliners Are Angry About Housing. And So Is Much of Europe",
+  abstract = "Soaring rents and out-of-reach prices have fueled property
+              inequality",
+  journal  = "Bloomberg News",
+  month    =  oct,
+  year     =  2021,
+  language = "en"
+}
+
 @ARTICLE{Barsalou2010-tp,
   title    = "Grounded cognition: past, present, and future",
   author   = "Barsalou, Lawrence W",
