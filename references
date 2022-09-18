@@ -9462,15 +9462,6 @@
   doi       = "10.1145/258734.258849"
 }
 
-@BOOK{Park2018-nf,
-  title     = "Designing Across Senses: A Multimodal Approach to Product Design",
-  author    = "Park, C W and Alderman, J",
-  publisher = "O'Reilly Media",
-  year      =  2018,
-  keywords  = "Book (physical)",
-  isbn      = "9781491954195"
-}
-
 @BOOK{Groh2014-rk,
   title     = "Making Space: How the Brain Knows Where Things Are",
   author    = "Groh, J M",
@@ -9548,7 +9539,7 @@
   year            =  2016,
   keywords        = "O'Reilly Media (Publisher); O'Reilly; OReilly; OReilly
                      Media; design; multimodal design; Internet of Things; Web
-                     design; Web development;YouTube",
+                     design; Web development;YouTube;HCI",
   conference      = "Software Architecture NY 2016",
   location        = "New York, New York"
 }
@@ -12085,4 +12076,13 @@
   institution = "Deloitte Insights",
   month       =  jul,
   year        =  2021
+}
+
+@BOOK{Park2018-nf,
+  title     = "Designing Across Senses: A Multimodal Approach to Product Design",
+  author    = "Park, C W and Alderman, J",
+  publisher = "O'Reilly Media",
+  year      =  2018,
+  keywords  = "Book (physical);HCI",
+  isbn      = "9781491954195"
 }
