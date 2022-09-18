@@ -12086,3 +12086,14 @@
   keywords  = "Book (physical);HCI",
   isbn      = "9781491954195"
 }
+
+@MISC{IxDA2019-mo,
+  title     = "Ruby Steel --- Interaction Design Day @ {IxDA} London",
+  author    = "IxDA, London",
+  abstract  = "This is ``Ruby Steel --- Interaction Design Day @ IxDA London''
+               by London IxDA on Vimeo, the home for high quality videos and
+               the people who love them.",
+  publisher = "Vimeo",
+  month     =  jun,
+  year      =  2019
+}
