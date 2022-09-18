@@ -1703,7 +1703,7 @@
   pages     = "37--56",
   year      =  2014,
   address   = "Dordrecht",
-  keywords  = "Zotero Import (Feb 22);My Library",
+  keywords  = "ePub | Kindle;Zotero Import (Feb 22);My Library",
   language  = "en",
   isbn      = "9789401786935, 9789401786942"
 }
@@ -4973,20 +4973,6 @@
   address   = "Dordrecht",
   isbn      = "9789400770126",
   doi       = "10.1007/978-94-007-7012-6\_3"
-}
-
-@INPROCEEDINGS{Humble2019-rg,
-  title      = "Artificial Intelligence in Education -- A Promise, a Threat or
-                a Hype?",
-  booktitle  = "European Conference on the Impact of Artificial Intelligence
-                and Robotics",
-  author     = "Humble, Niklas and Mozelius, Peter",
-  month      =  oct,
-  year       =  2019,
-  conference = "European Conference on the Impact of Artificial Intelligence
-                and Robotics",
-  location   = "Oxford, United Kingdom",
-  doi        = "10.34190/ECIAIR.19.005"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -11813,4 +11799,18 @@
   keywords  = "Workplace Learning;Knowledge - Skill Acquisition",
   issn      = "0158-037X",
   doi       = "10.1080/158037042000225245"
+}
+
+@INPROCEEDINGS{Humble2019-rg,
+  title      = "Artificial Intelligence in Education -- A Promise, a Threat or
+                a Hype?",
+  booktitle  = "European Conference on the Impact of Artificial Intelligence
+                and Robotics",
+  author     = "Humble, Niklas and Mozelius, Peter",
+  month      =  oct,
+  year       =  2019,
+  conference = "European Conference on the Impact of Artificial Intelligence
+                and Robotics",
+  location   = "Oxford, United Kingdom",
+  doi        = "10.34190/ECIAIR.19.005"
 }
