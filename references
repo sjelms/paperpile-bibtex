@@ -9113,6 +9113,40 @@
   keywords = "UCL;UCL Upgrade Research Proposals"
 }
 
+@ARTICLE{Ryan1993-hf,
+  title     = "The Relationship Between Mandatory vs. Voluntary Participation
+               In A Prison Literacy Program and Academic Achievement",
+  author    = "Ryan, T A and McCabe, K A",
+  abstract  = "[A synthetic retrospective study was designed using 1990-91
+               educational recordsfrom the South Carolina Department of Youth
+               Services. The sample consisted of 100\% of the participants
+               enrolled in the General Educational Development (GED) program.
+               The study was designed to test the following hypothesis: The
+               odds of voluntary participation in a literacy program was higher
+               for participants who achieved academically than the odds of
+               mandatory participation in a literacy program for participants
+               who achieved academically, controlling for race, sex, age, IQ,
+               and education. Crude Odds Rations were used to determine the
+               relationship between type of participant and academic
+               achievement. Adjusted Odds Ratios were utilized to show the
+               relationship between the independent variables and voluntary
+               participation. Multiple Logistic Regression was utilized to show
+               the odds ratio along with the 95\% Confidence Interval for the
+               association between voluntary participation and academic
+               achievement. Results failed to indicate a statistically
+               significant difference in academic achievement when the
+               participation in literacy programs was either voluntary or
+               mandatory. These findings support mandatory literacy programs in
+               corrections.]",
+  journal   = "Journal of Correctional Education",
+  publisher = "Correctional Education Association",
+  volume    =  44,
+  number    =  3,
+  pages     = "134--138",
+  year      =  1993,
+  issn      = "0740-2708"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @MISC{YouTube_Originals2020-kd,
