@@ -11914,8 +11914,15 @@
   doi       = "10.1002/jee.20308"
 }
 
-@ARTICLE{Christensen_undated-mi,
-  title   = "Disruption 2020: An Interview With Clayton M. Christensen",
-  author  = "{Christensen}",
-  journal = "MIT Sloan Management Review; Cambridge"
+@MISC{Christensen2020-mi,
+  title    = "Disruption 2020: An Interview With Clayton M. Christensen",
+  author   = "Christensen, Clayton M",
+  editor   = "Dillon, Karen",
+  abstract = "With technology and capital rapidly increasing the pace of
+              innovation, Christensen's thinking is more relevant today than
+              ever. What do we know now about the power of disruption and where
+              it's taking us?",
+  journal  = "MIT Sloan Management Review; Cambridge",
+  year     =  2020,
+  location = " Massachusetts Institute of Technology, Cambridge, MA"
 }
