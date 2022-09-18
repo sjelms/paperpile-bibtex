@@ -12338,13 +12338,12 @@
   issn      = "0740-2708"
 }
 
-@MISC{noauthor_undated-bd,
-  title        = "Homeless in California statistics 2019. Homeless estimation
-                  by state",
-  abstract     = "Find out homeless population statistics for the state of
-                  California, get the data on families, veterans, chronic and
-                  youth...",
-  howpublished = "\url{https://www.usich.gov/homelessness-statistics/ca/}",
-  note         = "Accessed: 2022-9-18",
-  language     = "en"
+@MISC{US_Interagency_Council_on_Homelessness_USICH_undated-bd,
+  title    = "Homeless in California statistics 2019. Homeless estimation by
+              state",
+  author   = "{U.S. Interagency Council on Homelessness (USICH)}",
+  abstract = "Find out homeless population statistics for the state of
+              California, get the data on families, veterans, chronic and
+              youth...",
+  language = "en"
 }
