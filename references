@@ -12108,5 +12108,6 @@
   month        =  jul,
   year         =  2017,
   howpublished = "CS50 tech talk",
+  keywords     = "YouTube",
   location     = "Harvard University"
 }
