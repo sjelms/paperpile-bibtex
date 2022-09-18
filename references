@@ -11248,14 +11248,17 @@
   doi       = "10.1515/JSSI-2015-0264"
 }
 
-@MISC{noauthor_2022-fi,
-  title    = "A working flight simulator, no computers necessary",
-  abstract = "There are only a few working Link Trainers left in the world: but
-              before microprocessors, before display screnes, half a million
-              pilots learned the basics of...",
-  month    =  jul,
-  year     =  2022,
-  keywords = "tom scott; tomscott"
+@MISC{Scott2022-fi,
+  title     = "A working flight simulator, no computers necessary",
+  author    = "Scott, Tom",
+  abstract  = "There are only a few working Link Trainers left in the world:
+               but before microprocessors, before display screnes, half a
+               million pilots learned the basics of...",
+  publisher = "Pad 26 Limited",
+  month     =  jul,
+  year      =  2022,
+  address   = "United Kingdom",
+  keywords  = "tom scott; tomscott"
 }
 
 @INPROCEEDINGS{Zimmons2003-kh,
