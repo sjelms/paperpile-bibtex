@@ -11869,8 +11869,8 @@
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Goller2020-or,
-  title     = "Engineering students' learning during internships: Exploring the
-               explanatory power of the job demands‐control‐support model",
+  title     = "Engineering Students' Learning During Internships: Exploring the
+               Explanatory Power of the Job Demands‐control‐support Model",
   author    = "Goller, Michael and Harteis, Christian and Gijbels, David and
                Donche, Vincent",
   abstract  = "Abstract Background Internships are highly relevant learning
@@ -11900,7 +11900,7 @@
                evidence supporting it. In fact, job demands, job control, and
                social support exhibited much less explanatory power than
                expected for engineering students' learning during internships.",
-  journal   = "J. Eng. Educ.",
+  journal   = "Journal of Engineering Education",
   publisher = "Wiley",
   volume    =  109,
   number    =  2,
