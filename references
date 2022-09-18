@@ -6716,8 +6716,6 @@
   isbn      = "9780123822321"
 }
 
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
 @MISC{United_Brotherhood_of_Carpenters_UBC2014-vq,
   title        = "Math for the Trades",
   booktitle    = "{KML} Carpenters Training Fund",
@@ -6728,7 +6726,7 @@
   year         =  2014,
   howpublished = "\url{https://www.kmltf.org/math-for-the-trades/}",
   note         = "Accessed: NA-NA-NA",
-  keywords     = "AEC;Cited for Frontiers;+Notion;§New Literature",
+  keywords     = "AEC;Cited for Frontiers;+Notion",
   language     = "en"
 }
 
