@@ -10863,8 +10863,9 @@
   language  = "en"
 }
 
-@ARTICLE{noauthor_2013-ut,
+@ARTICLE{Krugman2013-ut,
   title    = "An Ubernerd Weighs In",
+  author   = "Krugman, Paul",
   abstract = "It's technically great, so it must be important, right?",
   journal  = "The New York Times",
   month    =  dec,
