@@ -12134,3 +12134,18 @@
   keywords     = "YouTube",
   location     = "Harvard University"
 }
+
+@MISC{Fisher2020-nl,
+  title        = "The next decade of disruption in education? Unlocking
+                  networks",
+  booktitle    = "Clayton Christensen Institute",
+  author       = "Fisher, Julia Freeland",
+  abstract     = "The last decade witnessed the meteoric rise of online
+                  learning. The next decade will be about edtech that expands
+                  connections.",
+  month        =  jan,
+  year         =  2020,
+  howpublished = "\url{https://www.christenseninstitute.org/blog/the-next-decade-of-disruption-in-education-unlocking-networks/}",
+  note         = "Accessed: 2022-9-18",
+  language     = "en"
+}
