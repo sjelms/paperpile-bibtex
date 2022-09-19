@@ -1085,6 +1085,7 @@
   publisher = "The New York Times",
   month     =  aug,
   year      =  2010,
+  keywords  = "Notion Catalogued",
   issn      = "0362-4331, 1553-8095"
 }
 
@@ -4551,6 +4552,7 @@
   publisher = "Basic Books",
   month     =  may,
   year      =  1988,
+  keywords  = "Notion Catalogued",
   language  = "en",
   isbn      = "9780465032129"
 }
@@ -4652,7 +4654,7 @@
                help understanding the construction process.",
   publisher = "Prentice Hall",
   year      =  2001,
-  keywords  = "AEC",
+  keywords  = "AEC;Notion Catalogued",
   language  = "en",
   isbn      = "9780138638535"
 }
@@ -4771,7 +4773,7 @@
   month        =  jan,
   year         =  2018,
   howpublished = "Talks at Google",
-  keywords     = "XR/MR;YouTube"
+  keywords     = "XR/MR;YouTube;Notion Catalogued"
 }
 
 @ARTICLE{Halaburda2014-dw,
@@ -4826,7 +4828,7 @@
   publisher = "Free Press",
   month     =  sep,
   year      =  1988,
-  keywords  = "Knowledge - Skill Acquisition",
+  keywords  = "Knowledge - Skill Acquisition;Notion Catalogued",
   language  = "en",
   isbn      = "9780029080610"
 }
@@ -4863,7 +4865,7 @@
   publisher = "MIT Press",
   month     =  feb,
   year      =  2017,
-  keywords  = "Artificial Intelligence (AI)",
+  keywords  = "Artificial Intelligence (AI);Notion Catalogued",
   language  = "en",
   isbn      = "9780262338370",
   doi       = "10.7551/mitpress/10909.001.0001"
@@ -4892,7 +4894,7 @@
   number     =  1,
   month      =  jan,
   year       =  2022,
-  keywords   = "Podcast;@\_Mark Up",
+  keywords   = "Podcast;@\_Mark Up;Notion Catalogued",
   conference = " Building Better: The Bartlett Podcast"
 }
 
@@ -4906,6 +4908,7 @@
   volume    =  71,
   number    = "ii",
   year      =  2018,
+  keywords  = "Notion Catalogued",
   issn      = "0952-1976",
   doi       = "10.1016/S0952-1976(18)30078-2"
 }
@@ -4944,7 +4947,7 @@
                replace.",
   publisher = "W.W. Norton",
   year      =  2018,
-  keywords  = "Book (physical)",
+  keywords  = "Book (physical);Notion Catalogued",
   language  = "en",
   isbn      = "9780393634990"
 }
@@ -11556,7 +11559,7 @@
   pages    = "205--221",
   month    =  sep,
   year     =  1993,
-  keywords = "Knowledge - Skill Acquisition",
+  keywords = "Knowledge - Skill Acquisition;Notion Catalogued",
   issn     = "1040-726X, 1573-336X",
   doi      = "10.1007/BF01323044"
 }
@@ -11852,7 +11855,7 @@
   month     =  jun,
   year      =  2015,
   keywords  = "tacit knowledge; knowledge sharing; trust; self-efficacy; IT
-               support;Knowledge - Skill Acquisition",
+               support;Knowledge - Skill Acquisition;Notion Catalogued",
   language  = "en",
   issn      = "1708-296X, 2512-6660",
   doi       = "10.1515/JSSI-2015-0264"
@@ -11979,7 +11982,7 @@
   month     =  jan,
   year      =  2005,
   keywords  = "Knowledge management;Educational institutions;Knowledge - Skill
-               Acquisition",
+               Acquisition;Notion Catalogued",
   issn      = "1530-1605",
   doi       = "10.1109/HICSS.2005.446"
 }
@@ -12011,7 +12014,8 @@
   year      =  2005,
   keywords  = "Artificial intelligence;Knowledge representation;Knowledge
                management;Cognition;Decision making;Information
-               systems;Humans;Bridges;Lakes;Knowledge - Skill Acquisition",
+               systems;Humans;Bridges;Lakes;Knowledge - Skill
+               Acquisition;Notion Catalogued",
   issn      = "1530-1605",
   doi       = "10.1109/HICSS.2005.620"
 }
@@ -12129,7 +12133,8 @@
   pages     = "247--273",
   month     =  jul,
   year      =  2004,
-  keywords  = "Workplace Learning;Knowledge - Skill Acquisition",
+  keywords  = "Workplace Learning;Knowledge - Skill Acquisition;Notion
+               Catalogued",
   issn      = "0158-037X",
   doi       = "10.1080/158037042000225245"
 }
