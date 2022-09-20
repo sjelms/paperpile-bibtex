@@ -12674,6 +12674,8 @@
   doi       = "10.1016/j.compedu.2012.10.024"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Teizer2013-rm,
   title     = "Location tracking and data visualization technology to advance
                construction ironworkers' education and training in safety and
@@ -12707,6 +12709,7 @@
   pages     = "53--68",
   month     =  nov,
   year      =  2013,
+  keywords  = "AEC;\_XR/MR;§New Literature;Training",
   language  = "en",
   issn      = "0926-5805, 1872-7891",
   doi       = "10.1016/j.autcon.2013.03.004"
