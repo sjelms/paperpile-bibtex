@@ -12573,3 +12573,36 @@
   issn      = "1052-3928, 1943-5541",
   doi       = "10.1061/(asce)ei.1943-5541.0000268"
 }
+
+@ARTICLE{Guo2012-wh,
+  title     = "Using game technologies to improve the safety of construction
+               plant operations",
+  author    = "Guo, Hongling and Li, Heng and Chan, Greg and Skitmore, Martin",
+  abstract  = "Many accidents occur world-wide in the use of construction plant
+               and equipment, and safety training is considered by many to be
+               one of the best approaches to their prevention. However, current
+               safety training methods/tools are unable to provide trainees
+               with the hands-on practice needed. Game technology-based safety
+               training platforms have the potential to overcome this problem
+               in a virtual environment. One such platform is described in this
+               paper - its characteristics are analysed and its possible
+               contribution to safety training identified. This is developed
+               and tested by means of a case study involving three major pieces
+               of construction plant, which successfully demonstrates that the
+               platform can improve the process and performance of the safety
+               training involved in their operation. This research not only
+               presents a new and useful solution to the safety training of
+               construction operations, but illustrates the potential use of
+               advanced technologies in solving construction industry problems
+               in general.",
+  journal   = "Accid. Anal. Prev.",
+  publisher = "Elsevier BV",
+  volume    =  48,
+  pages     = "204--213",
+  month     =  sep,
+  year      =  2012,
+  language  = "en",
+  issn      = "0001-4575, 1879-2057",
+  pmid      = "22664683",
+  doi       = "10.1016/j.aap.2011.06.002"
+}
