@@ -12574,6 +12574,8 @@
   doi       = "10.1061/(asce)ei.1943-5541.0000268"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Guo2012-wh,
   title     = "Using game technologies to improve the safety of construction
                plant operations",
@@ -12601,6 +12603,7 @@
   pages     = "204--213",
   month     =  sep,
   year      =  2012,
+  keywords  = "AEC;§New Literature;Game Engine",
   language  = "en",
   issn      = "0001-4575, 1879-2057",
   pmid      = "22664683",
