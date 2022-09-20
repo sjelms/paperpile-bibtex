@@ -5236,6 +5236,8 @@
   doi       = "10.1007/978-3-030-78292-4"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Webster2016-jd,
   title     = "Declarative knowledge acquisition in immersive virtual learning
                environments",
@@ -5247,7 +5249,7 @@
   pages     = "1319--1333",
   month     =  aug,
   year      =  2016,
-  keywords  = "VR Ref via Ceja \& Price",
+  keywords  = "§New Literature;XR/MR;VR Ref via Ceja \& Price",
   issn      = "1049-4820, 1744-5191",
   doi       = "10.1080/10494820.2014.994533"
 }
