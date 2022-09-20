@@ -12553,3 +12553,20 @@
   issn      = "1084-0680, 1943-5576",
   doi       = "10.1061/(asce)sc.1943-5576.0000191"
 }
+
+@ARTICLE{Park2016-qc,
+  title     = "Interactive building anatomy modeling for experiential building
+               construction education",
+  author    = "Park, Chan Sik and Le, Quang Tuan and Pedro, Akeem and Lim,
+               Chung Rok",
+  journal   = "J. Prof. Issues Eng. Educ. Pract.",
+  publisher = "American Society of Civil Engineers (ASCE)",
+  volume    =  142,
+  number    =  3,
+  pages     = "04015019",
+  month     =  jul,
+  year      =  2016,
+  language  = "en",
+  issn      = "1052-3928, 1943-5541",
+  doi       = "10.1061/(asce)ei.1943-5541.0000268"
+}
