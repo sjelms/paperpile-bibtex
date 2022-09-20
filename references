@@ -12475,6 +12475,8 @@
   doi       = "10.1080/10494820.2014.994533"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Wang2018-sj,
   title     = "A critical review of the use of virtual reality in construction
                engineering education and training",
@@ -12487,7 +12489,7 @@
   pages     = "1204",
   month     =  jun,
   year      =  2018,
-  keywords  = "XR/MR;XR Reviewed",
+  keywords  = "XR/MR;§New Literature;XR Reviewed",
   issn      = "1661-7827, 1660-4601",
   doi       = "10.3390/ijerph15061204"
 }
