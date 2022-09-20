@@ -12535,6 +12535,8 @@
   doi       = "10.1061/(asce)ei.1943-5541.0000078"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Russell2014-ky,
   title     = "Learning opportunities and career implications of experience
                with {BIM/VDC}",
@@ -12546,6 +12548,7 @@
   pages     = "111--121",
   month     =  feb,
   year      =  2014,
+  keywords  = "§New Literature;AEC",
   language  = "en",
   issn      = "1084-0680, 1943-5576",
   doi       = "10.1061/(asce)sc.1943-5576.0000191"
