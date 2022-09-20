@@ -12513,3 +12513,20 @@
   issn      = "1661-7827, 1660-4601",
   doi       = "10.3390/ijerph15061204"
 }
+
+@ARTICLE{Chen2011-su,
+  title     = "Use of tangible and augmented reality models in engineering
+               graphics courses",
+  author    = "Chen, Yi-Chen and Chi, Hung-Lin and Hung, Wei-Han and Kang,
+               Shih-Chung",
+  journal   = "J. Prof. Issues Eng. Educ. Pract.",
+  publisher = "American Society of Civil Engineers (ASCE)",
+  volume    =  137,
+  number    =  4,
+  pages     = "267--276",
+  month     =  oct,
+  year      =  2011,
+  language  = "en",
+  issn      = "1052-3928, 1943-5541",
+  doi       = "10.1061/(asce)ei.1943-5541.0000078"
+}
