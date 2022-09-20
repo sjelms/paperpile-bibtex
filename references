@@ -5331,6 +5331,8 @@
   doi       = "10.1016/j.aap.2011.06.002"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Pedro2016-lp,
   title     = "Framework for integrating safety into construction methods
                education through interactive virtual reality",
@@ -5342,6 +5344,7 @@
   pages     = "04015011",
   month     =  apr,
   year      =  2016,
+  keywords  = "AEC;\_XR/MR;§New Literature",
   language  = "en",
   issn      = "1052-3928, 1943-5541",
   doi       = "10.1061/(asce)ei.1943-5541.0000261"
