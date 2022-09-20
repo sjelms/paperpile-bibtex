@@ -5350,6 +5350,8 @@
   doi       = "10.1061/(asce)ei.1943-5541.0000261"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Wu2013-sq,
   title     = "Current status, opportunities and challenges of augmented
                reality in education",
@@ -5387,6 +5389,7 @@
   pages     = "41--49",
   month     =  mar,
   year      =  2013,
+  keywords  = "§New Literature;\_XR/MR;Education",
   language  = "en",
   issn      = "0360-1315, 1873-782X",
   doi       = "10.1016/j.compedu.2012.10.024"
