@@ -11350,6 +11350,8 @@
   doi        = "10.1109/vr.2003.1191170"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Goedert2016-vs,
   title     = "Project-based construction education with simulations in a
                gaming environment",
@@ -11361,7 +11363,8 @@
   pages     = "208--223",
   month     =  jul,
   year      =  2016,
-  keywords  = "VR Ref via Ceja \& Price;Game Engine \_ AR-VR",
+  keywords  = "XR/MR;AEC;§New Literature;VR Ref via Ceja \& Price;Game Engine
+               \_ AR-VR",
   language  = "en",
   issn      = "1557-8771, 1550-3984",
   doi       = "10.1080/15578771.2015.1121936"
