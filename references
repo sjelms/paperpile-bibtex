@@ -6776,7 +6776,7 @@
   author    = "Cuendet, S{\'e}bastien",
   publisher = "Lausanne, EPFL",
   year      =  2013,
-  keywords  = "\_XR/MR",
+  keywords  = "\_XR/MR;Training",
   doi       = "10.5075/EPFL-THESIS-5931"
 }
 
@@ -6908,7 +6908,7 @@
   pages     = "931--943",
   month     =  jan,
   year      =  2019,
-  keywords  = "Game Engine;UCL",
+  keywords  = "Game Engine;UCL;Training",
   issn      = "0144-5154",
   doi       = "10.1108/AA-10-2018-0147"
 }
@@ -11785,7 +11785,7 @@
   year     =  2018,
   keywords = "antibacterial resistance; antibiotic stewardship; communication
               skills; medical education; virtual reality;\_XR/MR;UCL;@\_Mark
-              Up;Notion Catalogued",
+              Up;Training;Notion Catalogued",
   language = "en",
   issn     = "2296-2565",
   pmid     = "29535997",
