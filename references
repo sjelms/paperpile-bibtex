@@ -11350,6 +11350,22 @@
   doi        = "10.1109/vr.2003.1191170"
 }
 
+@ARTICLE{Goedert2016-vs,
+  title     = "Project-based construction education with simulations in a
+               gaming environment",
+  author    = "Goedert, James D and Rokooei, Saeed",
+  journal   = "Int. J. Constr. Educ. Res.",
+  publisher = "Informa UK Limited",
+  volume    =  12,
+  number    =  3,
+  pages     = "208--223",
+  month     =  jul,
+  year      =  2016,
+  language  = "en",
+  issn      = "1557-8771, 1550-3984",
+  doi       = "10.1080/15578771.2015.1121936"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Cruz-Neira1992-rc,
