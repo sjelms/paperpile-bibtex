@@ -12554,6 +12554,8 @@
   doi       = "10.1061/(asce)sc.1943-5576.0000191"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Park2016-qc,
   title     = "Interactive building anatomy modeling for experiential building
                construction education",
@@ -12566,6 +12568,7 @@
   pages     = "04015019",
   month     =  jul,
   year      =  2016,
+  keywords  = "AEC;\_XR/MR;§New Literature",
   language  = "en",
   issn      = "1052-3928, 1943-5541",
   doi       = "10.1061/(asce)ei.1943-5541.0000268"
