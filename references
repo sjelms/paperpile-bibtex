@@ -12514,6 +12514,8 @@
   doi       = "10.3390/ijerph15061204"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Chen2011-su,
   title     = "Use of tangible and augmented reality models in engineering
                graphics courses",
@@ -12526,6 +12528,7 @@
   pages     = "267--276",
   month     =  oct,
   year      =  2011,
+  keywords  = "§New Literature;XR/MR;AEC",
   language  = "en",
   issn      = "1052-3928, 1943-5541",
   doi       = "10.1061/(asce)ei.1943-5541.0000078"
