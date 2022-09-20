@@ -5236,22 +5236,20 @@
   doi       = "10.1007/978-3-030-78292-4"
 }
 
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@ARTICLE{Webster2016-jd,
-  title     = "Declarative knowledge acquisition in immersive virtual learning
-               environments",
-  author    = "Webster, Rustin",
-  journal   = "Interact. Learn. Environ.",
-  publisher = "Informa UK Limited",
-  volume    =  24,
+@ARTICLE{Wang2018-sj,
+  title     = "A critical review of the use of virtual reality in construction
+               engineering education and training",
+  author    = "Wang, Peng and Wu, Peng and Wang, Jun and Chi, Hung-Lin and
+               Wang, Xiangyu",
+  journal   = "Int. J. Environ. Res. Public Health",
+  publisher = "MDPI AG",
+  volume    =  15,
   number    =  6,
-  pages     = "1319--1333",
-  month     =  aug,
-  year      =  2016,
-  keywords  = "§New Literature;XR/MR;VR Ref via Ceja \& Price",
-  issn      = "1049-4820, 1744-5191",
-  doi       = "10.1080/10494820.2014.994533"
+  pages     = "1204",
+  month     =  jun,
+  year      =  2018,
+  issn      = "1661-7827, 1660-4601",
+  doi       = "10.3390/ijerph15061204"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -12473,4 +12471,22 @@
   year      =  1993,
   keywords  = "Notion Catalogued",
   issn      = "0740-2708"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Webster2016-jd,
+  title     = "Declarative knowledge acquisition in immersive virtual learning
+               environments",
+  author    = "Webster, Rustin",
+  journal   = "Interact. Learn. Environ.",
+  publisher = "Informa UK Limited",
+  volume    =  24,
+  number    =  6,
+  pages     = "1319--1333",
+  month     =  aug,
+  year      =  2016,
+  keywords  = "§New Literature;XR/MR;VR Ref via Ceja \& Price",
+  issn      = "1049-4820, 1744-5191",
+  doi       = "10.1080/10494820.2014.994533"
 }
