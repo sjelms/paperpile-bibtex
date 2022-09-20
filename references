@@ -12673,3 +12673,41 @@
   issn      = "0360-1315, 1873-782X",
   doi       = "10.1016/j.compedu.2012.10.024"
 }
+
+@ARTICLE{Teizer2013-rm,
+  title     = "Location tracking and data visualization technology to advance
+               construction ironworkers' education and training in safety and
+               productivity",
+  author    = "Teizer, Jochen and Cheng, Tao and Fang, Yihai",
+  abstract  = "Most construction worker education and training environments
+               apply traditional teaching methods to educate workers about
+               hazards and productivity in the workplace. Many rely on using
+               conventional teacher--student classroom settings, but there are
+               few effective interactive methods applied which can objectively
+               engage trainer and trainees and assess their performance during
+               and after training sessions. Presented is a novel approach
+               towards integrating real-time location tracking and
+               three-dimensional immersive data visualization technologies in
+               existing construction worker education and training
+               environments. The scope is limited to steel-erection tasks
+               performed by union ironworkers in an indoor training center.
+               Results to analysis and visualization of the gathered data from
+               training session are shown. The potential for assessing and
+               improving the trainers' and apprentices' safety and productivity
+               performance is explained. Since such technologies have hardly
+               been used as part of existing construction education and
+               training techniques, the opportunities including return on
+               investment and user feedback were studied. The results show that
+               unsafe practices in worker training environments can be detected
+               and visualized and furthermore their training effectiveness can
+               be indirectly measured.",
+  journal   = "Autom. Constr.",
+  publisher = "Elsevier BV",
+  volume    =  35,
+  pages     = "53--68",
+  month     =  nov,
+  year      =  2013,
+  language  = "en",
+  issn      = "0926-5805, 1872-7891",
+  doi       = "10.1016/j.autcon.2013.03.004"
+}
