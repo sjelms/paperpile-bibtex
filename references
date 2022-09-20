@@ -140,6 +140,8 @@
   doi       = "10.1007/978-3-031-08518-5\_28"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Jensen2018-rf,
   title     = "A review of the use of virtual reality head-mounted displays in
                education and training",
@@ -151,6 +153,7 @@
   pages     = "1515--1529",
   month     =  jul,
   year      =  2018,
+  keywords  = "XR/MR;§New Literature",
   language  = "en",
   issn      = "1360-2357, 1573-7608",
   doi       = "10.1007/s10639-017-9676-0"
