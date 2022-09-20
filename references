@@ -153,25 +153,10 @@
   pages     = "1515--1529",
   month     =  jul,
   year      =  2018,
-  keywords  = "\_XR/MR;§New Literature;VR Ref via Ceja \& Price",
+  keywords  = "\_XR/MR;§New Literature;Training;VR Ref via Ceja \& Price",
   language  = "en",
   issn      = "1360-2357, 1573-7608",
   doi       = "10.1007/s10639-017-9676-0"
-}
-
-@MISC{Prime_Ministers_Office2020-yj,
-  title        = "Major expansion of post-18 education and training to level up
-                  and prepare workers for {post-COVID} economy",
-  booktitle    = "{GOV.UK}",
-  author       = "{Prime Minister's Office}",
-  abstract     = "Prime Minister Boris Johnson acts to boost productivity and
-                  help the country build back better from coronavirus.",
-  month        =  sep,
-  year         =  2020,
-  howpublished = "\url{https://www.gov.uk/government/news/major-expansion-of-post-18-education-and-training-to-level-up-and-prepare-workers-for-post-covid-economy}",
-  note         = "Accessed: 2022-9-17",
-  keywords     = "Notion Catalogued",
-  language     = "en"
 }
 
 @MISC{Wikipedia_contributors2022-fx,
@@ -6241,7 +6226,7 @@
   month     =  jun,
   year      =  2002,
   keywords  = "Knowledge - Skill Acquisition;Workplace Learning;@\_Mark
-               Up;Cited for Frontiers;+Readwise",
+               Up;Cited for Frontiers;+Readwise;Training",
   issn      = "1363-6820",
   doi       = "10.1080/13636820200200197"
 }
@@ -6757,7 +6742,7 @@
   year         =  2014,
   howpublished = "\url{https://www.kmltf.org/math-for-the-trades/}",
   note         = "Accessed: NA-NA-NA",
-  keywords     = "AEC;Cited for Frontiers;+Notion",
+  keywords     = "AEC;Cited for Frontiers;+Notion;Training",
   language     = "en"
 }
 
@@ -9516,18 +9501,9 @@
   pages     = "778--798",
   month     =  nov,
   year      =  2015,
-  keywords  = "\_XR/MR;§New Literature",
+  keywords  = "\_XR/MR;§New Literature;Training",
   issn      = "1049-4820, 1744-5191",
   doi       = "10.1080/10494820.2013.815221"
-}
-
-@MANUAL{Future_Visual2021-ea,
-  title        = "Future Visual {VR} Training Handbook",
-  author       = "{Future Visual}",
-  month        =  feb,
-  year         =  2021,
-  keywords     = "\_XR/MR",
-  organization = "Future Visual"
 }
 
 @BOOK{Saldana2015-ul,
@@ -9629,7 +9605,7 @@
   year     =  2020,
   keywords = "Construction management; Progress monitoring; Building
               information modelling; Image processing; Virtual reality; Machine
-              learning;AEC;Game Engine;§New Literature",
+              learning;AEC;Game Engine;§New Literature;Training",
   issn     = "0926-5805",
   doi      = "10.1016/j.autcon.2019.103012"
 }
@@ -9671,7 +9647,8 @@
   pages    = "399--406",
   month    =  jun,
   year     =  2017,
-  keywords = "@\_Mark Up;§New Literature;AEC;Game Engine;Game Engine \_ AR-VR",
+  keywords = "@\_Mark Up;§New Literature;AEC;Game Engine;Training;Game Engine
+              \_ AR-VR",
   issn     = "0887-3801",
   doi      = "10.1061/9780784480830.049"
 }
@@ -9923,7 +9900,7 @@
   pages     = "159--183",
   month     =  jan,
   year      =  2020,
-  keywords  = "Workplace Learning;AEC;Frontiers import [Aug 11]",
+  keywords  = "Workplace Learning;AEC;Training;Frontiers import [Aug 11]",
   issn      = "0040-0912",
   doi       = "10.1108/ET-02-2019-0041"
 }
@@ -9988,7 +9965,7 @@
   pages     = "54--67",
   month     =  oct,
   year      =  2003,
-  keywords  = "AEC;Workplace Learning;Frontiers import [Aug 11]",
+  keywords  = "AEC;Workplace Learning;Training;Frontiers import [Aug 11]",
   language  = "en",
   issn      = "0019-7939, 2162-271X",
   doi       = "10.1177/001979390305700103"
@@ -10024,7 +10001,7 @@
   pages     = "129--147",
   month     =  mar,
   year      =  2019,
-  keywords  = "Knowledge - Skill Acquisition;Frontiers import [Aug 11]",
+  keywords  = "Knowledge - Skill Acquisition;Training;Frontiers import [Aug 11]",
   issn      = "0004-8658",
   doi       = "10.1177/0004865818779418"
 }
@@ -12510,7 +12487,8 @@
   pages     = "1204",
   month     =  jun,
   year      =  2018,
-  keywords  = "\_XR/MR;§New Literature;XR Reviewed;VR Ref via Ceja \& Price",
+  keywords  = "\_XR/MR;§New Literature;Training;XR Reviewed;VR Ref via Ceja \&
+               Price",
   issn      = "1661-7827, 1660-4601",
   doi       = "10.3390/ijerph15061204"
 }
@@ -12603,7 +12581,7 @@
   pages     = "204--213",
   month     =  sep,
   year      =  2012,
-  keywords  = "AEC;§New Literature;Game Engine",
+  keywords  = "AEC;§New Literature;Game Engine;Training",
   language  = "en",
   issn      = "0001-4575, 1879-2057",
   pmid      = "22664683",
@@ -12713,4 +12691,28 @@
   language  = "en",
   issn      = "0926-5805, 1872-7891",
   doi       = "10.1016/j.autcon.2013.03.004"
+}
+
+@MANUAL{Future_Visual2021-ea,
+  title        = "Future Visual {VR} Training Handbook",
+  author       = "{Future Visual}",
+  month        =  feb,
+  year         =  2021,
+  keywords     = "\_XR/MR;Training",
+  organization = "Future Visual"
+}
+
+@MISC{Prime_Ministers_Office2020-yj,
+  title        = "Major expansion of post-18 education and training to level up
+                  and prepare workers for {post-COVID} economy",
+  booktitle    = "{GOV.UK}",
+  author       = "{Prime Minister's Office}",
+  abstract     = "Prime Minister Boris Johnson acts to boost productivity and
+                  help the country build back better from coronavirus.",
+  month        =  sep,
+  year         =  2020,
+  howpublished = "\url{https://www.gov.uk/government/news/major-expansion-of-post-18-education-and-training-to-level-up-and-prepare-workers-for-post-covid-economy}",
+  note         = "Accessed: 2022-9-17",
+  keywords     = "Training;Notion Catalogued",
+  language     = "en"
 }
