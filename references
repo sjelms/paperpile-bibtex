@@ -12935,6 +12935,8 @@
   doi       = "10.1016/j.advengsoft.2015.04.014"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Yilmaz2015-uh,
   title     = "An examination of interactions in a three-dimensional virtual
                world",
@@ -12967,6 +12969,7 @@
   pages     = "256--267",
   month     =  oct,
   year      =  2015,
+  keywords  = "§New Literature;\_XR/MR",
   language  = "en",
   issn      = "0360-1315, 1873-782X",
   doi       = "10.1016/j.compedu.2015.06.002"
