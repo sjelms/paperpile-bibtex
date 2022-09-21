@@ -1329,6 +1329,8 @@
   language  = "en"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Waly2003-dy,
   title     = "A Virtual Construction Environment for preconstruction planning",
   author    = "Waly, Ahmed F and Thabet, Walid Y",
@@ -1359,6 +1361,7 @@
   pages     = "139--154",
   month     =  mar,
   year      =  2003,
+  keywords  = "AEC;§New Literature;\_XR/MR",
   language  = "en",
   issn      = "0926-5805, 1872-7891",
   doi       = "10.1016/s0926-5805(02)00047-x"
