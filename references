@@ -12934,3 +12934,40 @@
   issn      = "0965-9978, 1873-5339",
   doi       = "10.1016/j.advengsoft.2015.04.014"
 }
+
+@ARTICLE{Yilmaz2015-uh,
+  title     = "An examination of interactions in a three-dimensional virtual
+               world",
+  author    = "Yilmaz, Rabia M and Baydas, Ozlem and Karakus, Turkan and
+               Goktas, Yuksel",
+  abstract  = "Three-dimensional (3D) virtual worlds hold the users' attention
+               by providing rich interaction in an environment similar to the
+               real world. User engagement duration is known to increase in
+               environments with intense interaction. However, information in
+               the literature about whether gender, experience, or spatial
+               ability affects interaction in these environments is limited. In
+               this study, these three factors are compared to users' depth of
+               interaction in a 3D virtual world. In addition, the
+               relationships between engagement duration, spatial ability, and
+               depth of interaction are examined to investigate whether the
+               first two factors can predict the third. Findings showed that
+               users' depth of interaction was not influenced by gender, but
+               experience and spatial ability did affect interaction. A strong
+               relationship was determined between depth of interaction and
+               engagement duration, and a moderate relationship was found
+               between depth of interaction and spatial ability. Findings
+               indicated that when designing 3D environments, it is important
+               to consider which kinds of tasks provide more interaction and to
+               what extent spatial abilities affect interaction, as well as to
+               prepare activities that will increase engagement duration and to
+               devise strategies to enhance depth of interaction.",
+  journal   = "Comput. Educ.",
+  publisher = "Elsevier BV",
+  volume    =  88,
+  pages     = "256--267",
+  month     =  oct,
+  year      =  2015,
+  language  = "en",
+  issn      = "0360-1315, 1873-782X",
+  doi       = "10.1016/j.compedu.2015.06.002"
+}
