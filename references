@@ -576,6 +576,8 @@
   keywords     = "AEC;\_XR/MR;§New Literature;VR Ref via Ceja \& Price"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Glick2012-yo,
   title     = "Student visualization: Using {3-D} models in undergraduate
                construction management education",
@@ -603,6 +605,7 @@
   pages     = "26--46",
   month     =  jan,
   year      =  2012,
+  keywords  = "\_XR/MR;AEC;§New Literature",
   language  = "en",
   issn      = "1557-8771, 1550-3984",
   doi       = "10.1080/15578771.2011.619247"
