@@ -11671,6 +11671,8 @@
   isbn      = "9789460915741"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @MISC{Sawhney_undated-em,
   title        = "Internet-based Interactive Construction Management Learning
                   System",
@@ -11703,7 +11705,8 @@
                   industry; and 3) enhanced practitioner involvement and
                   construction industry input.",
   howpublished = "\url{https://peer.asee.org/internet-based-interactive-construction-management-learning-system.pdf}",
-  note         = "Accessed: 2022-9-21"
+  note         = "Accessed: 2022-9-21",
+  keywords     = "AEC;\_XR/MR;§New Literature;VR Ref via Ceja \& Price"
 }
 
 @ARTICLE{Rosenthal1990-it,
