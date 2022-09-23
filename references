@@ -12976,6 +12976,8 @@
   doi       = "10.1016/j.compedu.2015.06.002"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Sabo2014-sg,
   title     = "Where concepts come from: Learning concepts by description and
                by demonstration",
@@ -12987,7 +12989,7 @@
   pages     = "531--549",
   month     =  jun,
   year      =  2014,
-  keywords  = "Knowledge - Skill Acquisition",
+  keywords  = "Knowledge - Skill Acquisition;§New Literature",
   language  = "en",
   issn      = "0165-0106, 1572-8420",
   doi       = "10.1007/s10670-013-9522-8"
@@ -13026,6 +13028,8 @@
   doi      = "10.1037/0033-295X.88.1.16"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Pylyshyn1999-ri,
   title    = "Is vision continuous with cognition? The case for cognitive
               impenetrability of visual perception",
@@ -13076,7 +13080,7 @@
   pages    = "341--65; discussion 366--423",
   month    =  jun,
   year     =  1999,
-  keywords = "Sensory Processing",
+  keywords = "Sensory Processing;§New Literature",
   language = "en",
   issn     = "0140-525X",
   pmid     = "11301517",
