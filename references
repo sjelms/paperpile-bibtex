@@ -5650,64 +5650,9 @@
   number   =  1,
   pages    = "16--45",
   month    =  jan,
+  keywords = "Sensory Processing",
   issn     = "0033-295X, 1939-1471",
   doi      = "10.1037/0033-295X.88.1.16"
-}
-
-@ARTICLE{Pylyshyn1999-ri,
-  title    = "Is vision continuous with cognition? The case for cognitive
-              impenetrability of visual perception",
-  author   = "Pylyshyn, Z",
-  abstract = "Although the study of visual perception has made more progress in
-              the past 40 years than any other area of cognitive science, there
-              remain major disagreements as to how closely vision is tied to
-              cognition. This target article sets out some of the arguments for
-              both sides (arguments from computer vision, neuroscience,
-              psychophysics, perceptual learning, and other areas of vision
-              science) and defends the position that an important part of
-              visual perception, corresponding to what some people have called
-              early vision, is prohibited from accessing relevant expectations,
-              knowledge, and utilities in determining the function it
-              computes--in other words, it is cognitively impenetrable. That
-              part of vision is complex and involves top-down interactions that
-              are internal to the early vision system. Its function is to
-              provide a structured representation of the 3-D surfaces of
-              objects sufficient to serve as an index into memory, with
-              somewhat different outputs being made available to other systems
-              such as those dealing with motor control. The paper also
-              addresses certain conceptual and methodological issues raised by
-              this claim, such as whether signal detection theory and
-              event-related potentials can be used to assess cognitive
-              penetration of vision. A distinction is made among several stages
-              in visual processing, including, in addition to the inflexible
-              early-vision stage, a pre-perceptual attention-allocation stage
-              and a post-perceptual evaluation, selection, and inference stage,
-              which accesses long-term memory. These two stages provide the
-              primary ways in which cognition can affect the outcome of visual
-              perception. The paper discusses arguments from computer vision
-              and psychology showing that vision is ``intelligent'' and
-              involves elements of ``problem solving.'' The cases of apparently
-              intelligent interpretation sometimes cited in support of this
-              claim do not show cognitive penetration; rather, they show that
-              certain natural constraints on interpretation, concerned
-              primarily with optical and geometrical properties of the world,
-              have been compiled into the visual system. The paper also
-              examines a number of examples where instructions and ``hints''
-              are alleged to affect what is seen. In each case it is concluded
-              that the evidence is more readily assimilated to the view that
-              when cognitive effects are found, they have a locus outside early
-              vision, in such processes as the allocation of focal attention
-              and the identification of the stimulus.",
-  journal  = "Behav. Brain Sci.",
-  volume   =  22,
-  number   =  3,
-  pages    = "341--65; discussion 366--423",
-  month    =  jun,
-  year     =  1999,
-  language = "en",
-  issn     = "0140-525X",
-  pmid     = "11301517",
-  doi      = "10.1017/s0140525x99002022"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -13077,4 +13022,61 @@
   language  = "en",
   issn      = "0165-0106, 1572-8420",
   doi       = "10.1007/s10670-013-9522-8"
+}
+
+@ARTICLE{Pylyshyn1999-ri,
+  title    = "Is vision continuous with cognition? The case for cognitive
+              impenetrability of visual perception",
+  author   = "Pylyshyn, Z",
+  abstract = "Although the study of visual perception has made more progress in
+              the past 40 years than any other area of cognitive science, there
+              remain major disagreements as to how closely vision is tied to
+              cognition. This target article sets out some of the arguments for
+              both sides (arguments from computer vision, neuroscience,
+              psychophysics, perceptual learning, and other areas of vision
+              science) and defends the position that an important part of
+              visual perception, corresponding to what some people have called
+              early vision, is prohibited from accessing relevant expectations,
+              knowledge, and utilities in determining the function it
+              computes--in other words, it is cognitively impenetrable. That
+              part of vision is complex and involves top-down interactions that
+              are internal to the early vision system. Its function is to
+              provide a structured representation of the 3-D surfaces of
+              objects sufficient to serve as an index into memory, with
+              somewhat different outputs being made available to other systems
+              such as those dealing with motor control. The paper also
+              addresses certain conceptual and methodological issues raised by
+              this claim, such as whether signal detection theory and
+              event-related potentials can be used to assess cognitive
+              penetration of vision. A distinction is made among several stages
+              in visual processing, including, in addition to the inflexible
+              early-vision stage, a pre-perceptual attention-allocation stage
+              and a post-perceptual evaluation, selection, and inference stage,
+              which accesses long-term memory. These two stages provide the
+              primary ways in which cognition can affect the outcome of visual
+              perception. The paper discusses arguments from computer vision
+              and psychology showing that vision is ``intelligent'' and
+              involves elements of ``problem solving.'' The cases of apparently
+              intelligent interpretation sometimes cited in support of this
+              claim do not show cognitive penetration; rather, they show that
+              certain natural constraints on interpretation, concerned
+              primarily with optical and geometrical properties of the world,
+              have been compiled into the visual system. The paper also
+              examines a number of examples where instructions and ``hints''
+              are alleged to affect what is seen. In each case it is concluded
+              that the evidence is more readily assimilated to the view that
+              when cognitive effects are found, they have a locus outside early
+              vision, in such processes as the allocation of focal attention
+              and the identification of the stimulus.",
+  journal  = "Behav. Brain Sci.",
+  volume   =  22,
+  number   =  3,
+  pages    = "341--65; discussion 366--423",
+  month    =  jun,
+  year     =  1999,
+  keywords = "Sensory Processing",
+  language = "en",
+  issn     = "0140-525X",
+  pmid     = "11301517",
+  doi      = "10.1017/s0140525x99002022"
 }
