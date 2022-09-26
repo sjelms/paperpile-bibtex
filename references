@@ -11058,6 +11058,38 @@
   language = "en"
 }
 
+@ARTICLE{Bryman2007-za,
+  title     = "The Research Question in Social Research: What is its Role?",
+  author    = "Bryman, Alan",
+  abstract  = "This paper addresses the role of the research question in social
+               research. It outlines what is taken to be the conventional view
+               in many methodological discussions, namely, that research
+               questions guide decisions about research design and research
+               methods. This position is taken to imply that social researchers
+               typically take the view that research methods need to be
+               tailored to the research questions that guide an investigation.
+               The paper questions how far this position pertains to actual
+               research practice. Drawing on interviews with researchers about
+               their practices in relation to mixed?method research, two
+               discourses were found in the transcripts. A particularistic
+               discourse that reflects the traditional view, whereby
+               mixed?method research is viewed as only appropriate when
+               research questions warrant it, was uncovered. In addition, a
+               universalistic discourse, which sees mixed?method research as
+               more generally superior, was also uncovered. The implications of
+               these viewpoints for understanding the role of research
+               questions are then discussed.",
+  journal   = "Int. J. Soc. Res. Methodol.",
+  publisher = "Routledge",
+  volume    =  10,
+  number    =  1,
+  pages     = "5--20",
+  month     =  feb,
+  year      =  2007,
+  issn      = "1364-5579",
+  doi       = "10.1080/13645570600655282"
+}
+
 @TECHREPORT{United_Nations_Department_of_Economic_and_Social_Affairs2015-tc,
   title       = "Population 2030: Demographic challenges and opportunities for
                  sustainable development planning",
