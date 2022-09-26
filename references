@@ -11058,6 +11058,8 @@
   language = "en"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Bryman2007-za,
   title     = "The Research Question in Social Research: What is its Role?",
   author    = "Bryman, Alan",
@@ -11086,6 +11088,7 @@
   pages     = "5--20",
   month     =  feb,
   year      =  2007,
+  keywords  = "Research Methods;§New Literature",
   issn      = "1364-5579",
   doi       = "10.1080/13645570600655282"
 }
