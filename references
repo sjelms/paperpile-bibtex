@@ -2384,6 +2384,8 @@
   keywords    = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Jelonek2022-og,
   title     = "Evaluating Virtual Reality Simulations for Construction Safety
                Training",
@@ -2419,7 +2421,8 @@
   month     =  aug,
   year      =  2022,
   keywords  = "Virtual Reality; Training Simulations; Construction Site Safety
-               and Health; Usability; User Experience;XR Reviewed",
+               and Health; Usability; User Experience;\_XR/MR;AEC;Workplace
+               Learning;§New Literature;XR Reviewed",
   language  = "en",
   issn      = "2196-6826",
   doi       = "10.1515/icom-2022-0006"
