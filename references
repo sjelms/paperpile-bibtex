@@ -11597,6 +11597,8 @@
   doi       = "10.1145/129888.129892"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Lucas2008-nk,
   title    = "Implementation and evaluation of a {VR} task-based training tool
               for conveyor belt safety training",
@@ -11624,7 +11626,7 @@
   journal  = "J. Inf. Technol. Constr.",
   year     =  2008,
   keywords = "virtual reality; safety; training; conveyor belt; Article -
-              Refereed",
+              Refereed;\_XR/MR;§New Literature;AEC",
   language = "en",
   issn     = "1874-4753"
 }
