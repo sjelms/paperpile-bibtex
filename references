@@ -12720,6 +12720,44 @@
   doi       = "10.3390/ijerph15061204"
 }
 
+@ARTICLE{Sacks2013-py,
+  title     = "Construction safety training using immersive virtual reality",
+  author    = "Sacks, Rafael and Perlman, Amotz and Barak, Ronen",
+  abstract  = "Construction workers' ability to identify and assess risks is
+               acquired through training and experience and is among the key
+               factors that determine their behaviour and thus their safety.
+               Yet researchers have questioned the effectiveness of
+               conventional safety training. This research tested the
+               hypotheses that safety training in a virtual reality (VR)
+               construction site would be feasible and more effective, in terms
+               of workers' learning and recall in identifying and assessing
+               construction safety risks, than would equivalent training using
+               conventional methods. Sixty-six subjects were provided training
+               in construction safety and their safety knowledge was tested
+               prior to the training, immediately afterward, and one month
+               later. Half of the subjects received traditional classroom
+               training with visual aids; the other half were trained using a
+               3D immersive VR power-wall. Significant advantage was found for
+               VR training for stone cladding work and for cast-in-situ
+               concrete work, but not for general site safety. VR training was
+               more effective in terms of maintaining trainees' attention and
+               concentration. Training with VR was more effective over time,
+               especially in the context of cast-in-situ concrete works. Given
+               the need for improved training and the advantages of training
+               using VR, incorporation of VR in construction safety training is
+               strongly recommended.",
+  journal   = "Constr. Manage. Econ.",
+  publisher = "Informa UK Limited",
+  volume    =  31,
+  number    =  9,
+  pages     = "1005--1017",
+  month     =  sep,
+  year      =  2013,
+  language  = "en",
+  issn      = "0144-6193, 1466-433X",
+  doi       = "10.1080/01446193.2013.828844"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Chen2011-su,
