@@ -11597,6 +11597,38 @@
   doi       = "10.1145/129888.129892"
 }
 
+@ARTICLE{Lucas2008-nk,
+  title    = "Implementation and evaluation of a {VR} task-based training tool
+              for conveyor belt safety training",
+  author   = "Lucas, Jason D and Thabet, Walid",
+  abstract = "Conveyor belts are dangerous to the working environment and the
+              source of many injuries and fatalities that end up costing the
+              industry a lot of money. In order to reduce the injuries that
+              occur on an annual basis, better training techniques are
+              examined. Virtual reality is examined as a way to enhance current
+              training practices that consist mainly of slide show
+              presentations and videos. Virtual reality is examined for
+              task-based training where the user can interact with a working
+              environment safely. The user is given tasks to complete within
+              the virtual environment similar to tasks a worker would have to
+              complete on a day to day basis. The purpose of the program is to
+              be a method of rapidly training younger miners while
+              supplementing on-the-job training practices and ultimately reduce
+              accidents. The model was developed using CAD software and then
+              imported into Deep Creator's Right Hemisphere where animations
+              were added and functions were programmed to objects. The user's
+              performance is tracked through the use of LISP programming and
+              scores are tallied to judge user performance. The application was
+              tested for quality of information, usability, and learning
+              potential over other training methods.",
+  journal  = "J. Inf. Technol. Constr.",
+  year     =  2008,
+  keywords = "virtual reality; safety; training; conveyor belt; Article -
+              Refereed",
+  language = "en",
+  issn     = "1874-4753"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Vandenberg1978-xa,
