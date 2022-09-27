@@ -3436,6 +3436,8 @@
   doi             = "10.1145/3359997.3365747"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Lerner2020-pg,
   title     = "An immersive multi-user virtual reality for emergency simulation
                training: Usability study",
@@ -3485,7 +3487,8 @@
   keywords  = "anaphylaxis; educational virtual realities; emergency medicine;
                head-mounted display; immersive media; presence experience;
                simulation training; training effectiveness; virtual emergency
-               scenario; virtual patient simulation; virtual reality",
+               scenario; virtual patient simulation; virtual
+               reality;\_XR/MR;§New Literature;Workplace Learning",
   language  = "en",
   issn      = "2291-9279",
   pmid      = "32735548",
