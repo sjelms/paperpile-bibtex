@@ -4934,6 +4934,22 @@
   doi       = "10.4324/9781003212751-12"
 }
 
+@ARTICLE{Schrepp2017-ts,
+  title     = "Construction of a benchmark for the user experience
+               questionnaire ({UEQ})",
+  author    = "Schrepp, Martin and Hinderks, Andreas and Thomaschewski,
+               J{\"o}rg",
+  journal   = "Int. j. interact. multimed. artif. intell.",
+  publisher = "IMAI Software - International Journal of Interactive Multimedia
+               and Artificial Intelligence",
+  volume    =  4,
+  number    =  4,
+  pages     = "40",
+  year      =  2017,
+  issn      = "1989-1660",
+  doi       = "10.9781/ijimai.2017.445"
+}
+
 @ARTICLE{Balasubramanian2021-ju,
   title    = "The Covid-19 Pandemic Has Fueled A Crisis In The Housing Market",
   author   = "Balasubramanian, Sai",
