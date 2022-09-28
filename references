@@ -10981,6 +10981,12 @@
   doi       = "10.1007/s10055-021-00499-1"
 }
 
+@MISC{noauthor_undated-ct,
+  howpublished = "\url{https://www.researchgate.net/publication/228593520_SUS_A_quick_and_dirty_usability_scale}",
+  note         = "Accessed: 2022-9-28",
+  keywords     = "HCI;Research Methods"
+}
+
 @BOOK{Zuboff1988-mo,
   title     = "In the Age of the Smart Machine: The Future of Work and Power",
   author    = "Zuboff, Shoshana",
