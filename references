@@ -5649,6 +5649,8 @@
   doi       = "10.1016/j.compedu.2015.06.002"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Wolf2022-kz,
   title     = "Investigating hazard recognition in augmented virtuality for
                personalized feedback in construction safety education and
@@ -5690,7 +5692,8 @@
   year      =  2022,
   keywords  = "Augmented virtuality; Active learning; User experience; System
                usability; Professional construction safety, health, and
-               well-being education and training; Serious games",
+               well-being education and training; Serious games;§New
+               Literature;AEC;\_XR/MR;Training",
   language  = "en",
   issn      = "1474-0346, 1873-5320",
   doi       = "10.1016/j.aei.2021.101469"
