@@ -5699,6 +5699,42 @@
   doi       = "10.1016/j.aei.2021.101469"
 }
 
+@INPROCEEDINGS{Golovina2019-lu,
+  title           = "Using serious games in virtual reality for automated close
+                     call and contact collision analysis in construction safety",
+  booktitle       = "Proceedings of the 36th International Symposium on
+                     Automation and Robotics in Construction ({ISARC})",
+  author          = "Golovina, Olga and Kazanci, Caner and Teizer, Jochen and
+                     K{\"o}nig, Markus",
+  abstract        = "Injuries and fatalities resulting from workplace accidents
+                     remain a global concern within the construction industry.
+                     While education and training of personnel offer well known
+                     approaches for establishing a safe work environment,
+                     Serious Games in Virtual Reality (VR) is being
+                     increasingly investigated as a complementary approach for
+                     learning. They yet have to take full advantage of the
+                     inherent data that can be collected about players. This
+                     research presents a novel approach for the automated
+                     assessment of players' data. The proposed method gathers
+                     and processes the data within a serious game for instant
+                     personalized feedback. The application focuses on close
+                     calls and contact collisions between construction workers
+                     and hazards like equipment, harmful substances, or
+                     restricted work zones. The results demonstrate the
+                     benefits and limitations of safety information previously
+                     unavailable, or very hard or impossible to collect. An
+                     outlook presents work ahead for practical implementation
+                     in existing risk management processes.",
+  publisher       = "International Association for Automation and Robotics in
+                     Construction (IAARC)",
+  month           =  may,
+  year            =  2019,
+  conference      = "36th International Symposium on Automation and Robotics in
+                     Construction",
+  location        = "Banff, AB, Canada",
+  doi             = "10.22260/isarc2019/0129"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
