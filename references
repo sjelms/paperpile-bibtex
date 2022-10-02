@@ -5699,6 +5699,8 @@
   doi       = "10.1016/j.aei.2021.101469"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INPROCEEDINGS{Golovina2019-lu,
   title           = "Using serious games in virtual reality for automated close
                      call and contact collision analysis in construction safety",
@@ -5729,6 +5731,7 @@
                      Construction (IAARC)",
   month           =  may,
   year            =  2019,
+  keywords        = "§New Literature;AEC;\_XR/MR;Training",
   conference      = "36th International Symposium on Automation and Robotics in
                      Construction",
   location        = "Banff, AB, Canada",
