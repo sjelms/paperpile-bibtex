@@ -8520,53 +8520,42 @@
   doi      = "10.3402/rlt.v23.28019"
 }
 
-@INPROCEEDINGS{Humble2019-ws,
-  title     = "Artificial Intelligence in Education -a Promise, a Threat or a
-               Hype?",
-  booktitle = "European Conference on the Impact of Artificial Intelligence and
-               Robotics",
-  author    = "Humble, Niklas and Mozelius, Peter",
-  abstract  = "The idea of creating intelligent machines and artificial
-               intelligence (AI) have been around for centuries, and can be
-               traced back to at least to the 14 th century. Artificial
-               Intelligence in Education (AIED) is a much younger discipline,
-               but during the last 25 years there have been achievements in a
-               number of fields which have made impact on education. Critical
-               voices have been raised against the over-optimism in
-               contemporary AI research. Less have been written about the high
-               expectation of AIED and its potential impact on education. The
-               aim of this study was to analyse and discuss AIED from the
-               teacher perspective. This study was carried out as a
-               SWOT-analysis, with data gathered from a literature study. Main
-               keywords in the literature search were: artificial intelligence,
-               artificial intelligence in education, AIED, teacher perspective,
-               education and teacher. Themes and patterns in the four main
-               categories where further processed as a deductive-inductive
-               thematic analysis. Findings indicates that there are both
-               promises and threats for the teacher in the contemporary AIED.
-               In several aspects the field seems to be in a state of hype but
-               as other hype areas there is a potential for maturing and with
-               concrete applications in daily teaching and learning activities.
-               Recommendations is to learn from traditional AI and to open up
-               for an informative and nuanced discussion concerning the role of
-               AI in education. Otherwise there is a risk for artificial
-               education instead of artificial intelligence in education.",
-  publisher = "unknown",
-  month     =  oct,
-  year      =  2019,
-  keywords  = "AIEd;Frontiers import [Aug 11]",
-  doi       = "10.34190/ECIAIR.19.005"
-}
-
 @INPROCEEDINGS{Humble2019-rg,
   title      = "Artificial Intelligence in Education -- A Promise, a Threat or
                 a Hype?",
   booktitle  = "European Conference on the Impact of Artificial Intelligence
                 and Robotics",
   author     = "Humble, Niklas and Mozelius, Peter",
+  abstract   = "The idea of creating intelligent machines and artificial
+                intelligence (AI) have been around for centuries, and can be
+                traced back to at least to the 14 th century. Artificial
+                Intelligence in Education (AIED) is a much younger discipline,
+                but during the last 25 years there have been achievements in a
+                number of fields which have made impact on education. Critical
+                voices have been raised against the over-optimism in
+                contemporary AI research. Less have been written about the high
+                expectation of AIED and its potential impact on education. The
+                aim of this study was to analyse and discuss AIED from the
+                teacher perspective. This study was carried out as a
+                SWOT-analysis, with data gathered from a literature study. Main
+                keywords in the literature search were: artificial
+                intelligence, artificial intelligence in education, AIED,
+                teacher perspective, education and teacher. Themes and patterns
+                in the four main categories where further processed as a
+                deductive-inductive thematic analysis. Findings indicates that
+                there are both promises and threats for the teacher in the
+                contemporary AIED. In several aspects the field seems to be in
+                a state of hype but as other hype areas there is a potential
+                for maturing and with concrete applications in daily teaching
+                and learning activities. Recommendations is to learn from
+                traditional AI and to open up for an informative and nuanced
+                discussion concerning the role of AI in education. Otherwise
+                there is a risk for artificial education instead of artificial
+                intelligence in education.",
+  publisher  = "unknown",
   month      =  oct,
   year       =  2019,
-  keywords   = "Notion Catalogued",
+  keywords   = "AIEd;@\_Mark Up;Notion Catalogued;Frontiers import [Aug 11]",
   conference = "European Conference on the Impact of Artificial Intelligence
                 and Robotics",
   location   = "Oxford, United Kingdom",
@@ -11008,6 +10997,42 @@
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
+@BOOK{Johnson2011-da,
+  title     = "Where Good Ideas Come from: The Seven Patterns of Innovation",
+  author    = "Johnson, Steven",
+  abstract  = "From the author of ``Emergence'' and ``The Ghost Map'', Steven
+               Johnson's ``Where Good Ideas Come From: The Seven Patterns of
+               Innovation'' identifies key principles that are the driving
+               force of creativity. Learn how: a slow hunch can be much more
+               valuable than a Eureka moment; the connected 'hive mind' is
+               smarter than the lone thinker; where you think matters just as
+               much as what you're thinking; and, the best ideas come from
+               building on the ideas and inventions of others. From the
+               Renaissance to satellites, medical breakthroughs to social
+               media, Charles Darwin to Marconi, Steven Johnson shows how, by
+               recognising where and how patterns of creativity occur, we can
+               all discover the secrets of inspiration. ``Inspirational''.
+               (``Independent''). ``Exhilarating...An entirely new way of
+               looking at almost everything''. (``Guardian''). ``A huge
+               diversity of bright ideas''. (``Financial Times''). ``Johnson
+               finds new and original things to say about the nature of
+               innovation, and the different forms it can take''.
+               (``Economist'', Books of the Year). ``An enthralling work full
+               of counter-intuitive insights''. (``Daily Mail''). Steven
+               Johnson is the author of the acclaimed books ``Everything Bad is
+               Good for You'', ``Mind Wide Open'', ``Emergence'' and
+               ``Interface Culture''. His writing appeared in the ``Guardian'',
+               the ``New Yorker'', ``Nation'' and ``Harper's'', as well as the
+               op-ed pages of ``The New York Times'' and the ``Wall Street
+               Journal''. He is a Distinguished Writer In Residence at NYU's
+               School Of Journalism, and a Contributing Editor to ``Wired''.",
+  publisher = "Penguin UK",
+  year      =  2011,
+  keywords  = "+Notion;+Readwise;ePub | Kindle",
+  language  = "en",
+  isbn      = "9780141033402"
+}
+
 @BOOK{Yu2020-ot,
   title     = "Green, Pervasive, and Cloud Computing: 15th International
                Conference, {GPC} 2020, Xi'an, China, November 13--15, 2020,
@@ -12186,6 +12211,49 @@
   pages    = "17--28",
   year     =  1995,
   keywords = "RDL [CCME0041]"
+}
+
+@BOOK{Hillmann2021-wr,
+  title     = "{UX} for {XR}: User Experience Design and Strategies for
+               Immersive Technologies",
+  author    = "Hillmann, Cornel",
+  abstract  = "Extending traditional digital platforms to the new frontier of
+               extended reality (XR) requires taking into account what best
+               practices, new concepts, and conventions have been established
+               and what learnings can be brought forward from case studies
+               involving industry leaders. By looking at practical examples
+               from the field of handheld AR breakthroughs, virtual reality
+               (VR) success stories and experimental interaction concept of
+               pioneering XR platforms, you'll see how it's possible to map out
+               a framework of user experience (UX) guidelines to close in on
+               opportunities and challenges that lay ahead.This book defines,
+               identifies, and analyzes UX practices for XR environments and
+               reviews the techniques and tools for prototyping and designing
+               XR user interactions. You'll approach the design for
+               experiential state and spatial cognition, using established UX
+               key performance indicators, while taking into account the social
+               dynamics, emotional framework and wider industry context.UX
+               design and strategy for the XR space is a new frontier, so UX
+               for XR focuses on case studies and industry research to
+               illustrate the relationship between UX design and the growth of
+               immersive technologies. Practical examples will demonstrate how
+               you should apply UX design principles using designing
+               interactions in XR by identifying the importance of spaces,
+               senses and storyboarding.What You'll LearnExplore the challenges
+               and opportunities of designing for XRSee how spatial interaction
+               is revolutionizing human computer interactionExamine sensory
+               input and interaction beyond the screenWork with 3D Interaction
+               Design and build a strong 3D UXUnderstand VR and augmented
+               reality essentials for emotion-rich user experiencesApply UX
+               research techniques for the XR spaceWho This Book Is ForThis
+               book is primarily for UX designers, consultants, and
+               strategists; XR developers; and media professionals",
+  publisher = "Apress",
+  month     =  jun,
+  year      =  2021,
+  keywords  = "+Notion;+Readwise;\_XR/MR;ePub | Kindle",
+  language  = "en",
+  isbn      = "9781484270196"
 }
 
 @MISC{Benson2015-xz,
