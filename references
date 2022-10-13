@@ -5728,62 +5728,6 @@
   isbn      = "9781484270196"
 }
 
-@ARTICLE{Berg2020-jw,
-  title     = "Is individual practice in an immersive and interactive virtual
-               reality application non-inferior to practicing with traditional
-               equipment in learning systematic clinical observation? A
-               randomized controlled trial",
-  author    = "Berg, Helen and Steinsbekk, Aslak",
-  abstract  = "BACKGROUND: The aim was to investigate if individual
-               self-practice of the ABCDE approach (Airways, Breathing,
-               Circulation, Disability, Exposure) in an immersive and
-               interactive virtual reality (VR) application gave non-inferior
-               learning outcome compared to using traditional equipment (TP) in
-               first year medical and nursing students. METHODS: A non-inferior
-               parallel group randomized controlled trial. The study was linked
-               to a regular teaching program conducted in August and September
-               2019. All students participated in a 15-min ABCDE introduction
-               session, before they self-practiced the ABCDE approach for 20
-               min in either a fully immersive and interactive VR application
-               using hand controllers with some haptic feedback (Individual VR)
-               or with blood pressure gauge, ear-thermometer and oximeter
-               (Individual TP). The primary outcome was the number of students
-               who documented all the eight predefined observations in the
-               ABCDE approach in the correct order in a practical test on an
-               advanced simulator manikin with a time limit of 5 min, done
-               immediately after the self-practice. The predefined one-sided
-               non-inferiority limit was 13\% points. RESULTS: Of all eligible
-               students, 84\% participated in the study and randomly allocated
-               to VR (n = 149) or TP (n = 140). The primary outcome showed
-               non-inferiority of the VR application with 24.8\% in individual
-               VR doing all observations in correct order compared to 27.1\% TP
-               (absolute difference 2.3\% points, one sided 95\% CI 2.3 to
-               10.8). The secondary outcomes were similar between the groups,
-               but more students in VR reported liking the way they practiced
-               (absolute difference 46\% points, 95\% CI 36.5 to 56.6) and that
-               it was a good way to learn (36.9\% points, 95\% CI 26.8 to 47).
-               VR also scored high on the System Usability Scale (mean
-               difference 6.4\% points, 95\% CI 2.8-10.1). CONCLUSIONS:
-               Individual self-practicing the ABCDE approach in VR was
-               non-inferior to individual self-practicing with traditional
-               equipment.",
-  journal   = "BMC Med. Educ.",
-  publisher = "Springer Science and Business Media LLC",
-  volume    =  20,
-  number    =  1,
-  pages     = "123",
-  month     =  apr,
-  year      =  2020,
-  keywords  = "ABCDE approach; Clinical skills; Immersive; Individual
-               self-practice; Interactive; Interactive virtual reality;
-               Simulation; Virtual reality",
-  language  = "en",
-  issn      = "1472-6920",
-  pmid      = "32326948",
-  doi       = "10.1186/s12909-020-02030-7",
-  pmc       = "PMC7181571"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
@@ -13583,6 +13527,64 @@
                 and Robotics",
   location   = "Oxford, United Kingdom",
   doi        = "10.34190/ECIAIR.19.005"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Berg2020-jw,
+  title     = "Is individual practice in an immersive and interactive virtual
+               reality application non-inferior to practicing with traditional
+               equipment in learning systematic clinical observation? A
+               randomized controlled trial",
+  author    = "Berg, Helen and Steinsbekk, Aslak",
+  abstract  = "BACKGROUND: The aim was to investigate if individual
+               self-practice of the ABCDE approach (Airways, Breathing,
+               Circulation, Disability, Exposure) in an immersive and
+               interactive virtual reality (VR) application gave non-inferior
+               learning outcome compared to using traditional equipment (TP) in
+               first year medical and nursing students. METHODS: A non-inferior
+               parallel group randomized controlled trial. The study was linked
+               to a regular teaching program conducted in August and September
+               2019. All students participated in a 15-min ABCDE introduction
+               session, before they self-practiced the ABCDE approach for 20
+               min in either a fully immersive and interactive VR application
+               using hand controllers with some haptic feedback (Individual VR)
+               or with blood pressure gauge, ear-thermometer and oximeter
+               (Individual TP). The primary outcome was the number of students
+               who documented all the eight predefined observations in the
+               ABCDE approach in the correct order in a practical test on an
+               advanced simulator manikin with a time limit of 5 min, done
+               immediately after the self-practice. The predefined one-sided
+               non-inferiority limit was 13\% points. RESULTS: Of all eligible
+               students, 84\% participated in the study and randomly allocated
+               to VR (n = 149) or TP (n = 140). The primary outcome showed
+               non-inferiority of the VR application with 24.8\% in individual
+               VR doing all observations in correct order compared to 27.1\% TP
+               (absolute difference 2.3\% points, one sided 95\% CI 2.3 to
+               10.8). The secondary outcomes were similar between the groups,
+               but more students in VR reported liking the way they practiced
+               (absolute difference 46\% points, 95\% CI 36.5 to 56.6) and that
+               it was a good way to learn (36.9\% points, 95\% CI 26.8 to 47).
+               VR also scored high on the System Usability Scale (mean
+               difference 6.4\% points, 95\% CI 2.8-10.1). CONCLUSIONS:
+               Individual self-practicing the ABCDE approach in VR was
+               non-inferior to individual self-practicing with traditional
+               equipment.",
+  journal   = "BMC Med. Educ.",
+  publisher = "Springer Science and Business Media LLC",
+  volume    =  20,
+  number    =  1,
+  pages     = "123",
+  month     =  apr,
+  year      =  2020,
+  keywords  = "ABCDE approach; Clinical skills; Immersive; Individual
+               self-practice; Interactive; Interactive virtual reality;
+               Simulation; Virtual reality;\_XR/MR;§New Literature",
+  language  = "en",
+  issn      = "1472-6920",
+  pmid      = "32326948",
+  doi       = "10.1186/s12909-020-02030-7",
+  pmc       = "PMC7181571"
 }
 
 @INCOLLECTION{Brooke1996-ct,
