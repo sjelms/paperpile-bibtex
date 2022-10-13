@@ -13612,6 +13612,8 @@
   isbn      = "9780748404605"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Bailenson2008-ye,
   title     = "The use of immersive virtual reality in the learning sciences:
                Digital transformations of teachers, students, and social
@@ -13625,6 +13627,7 @@
   pages     = "102--141",
   month     =  feb,
   year      =  2008,
+  keywords  = "§New Literature;\_XR/MR;Education",
   language  = "en",
   issn      = "1050-8406, 1532-7809",
   doi       = "10.1080/10508400701793141"
