@@ -13529,32 +13529,6 @@
   doi        = "10.34190/ECIAIR.19.005"
 }
 
-@BOOK{Jordan1996-ok,
-  title     = "Usability Evaluation In Industry",
-  author    = "Jordan, Patrick W and Thomas, B and McClelland, Ian Lyall and
-               Weerdmeester, Bernard",
-  abstract  = "This book provides a variety of answers in its description and
-               discussion of new, sometimes radical approaches to `usability
-               evaluation', now an increasingly common business tool. It
-               contains new thinking of the subject of usability evaluation in
-               industry. Contributions come from those involved in the practice
-               of industry-based usability evaluation as well as those involved
-               in related research activity. The chapters are derived from and
-               developed from presentations and discussions at the invited
-               international seminar `Usability Evaluation in Industry', and
-               give a leading edge overview of current usability practice in
-               industry - identifying those issues of concern and approaches to
-               tackling these.Key Features:* Provides a comprehensive overview
-               of current practice* International examples * Contains practical
-               examples of ergonomics at work and gives clear ideas of what
-               does and doesn't work under industrial constraints",
-  publisher = "CRC Press",
-  month     =  jun,
-  year      =  1996,
-  language  = "en",
-  isbn      = "9780748404605"
-}
-
 @INCOLLECTION{Brooke1996-ct,
   title     = "{SUS}: A 'Quick and Dirty' Usability Scale",
   booktitle = "Usability Evaluation In Industry",
