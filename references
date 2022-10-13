@@ -13471,8 +13471,6 @@
   doi       = "10.1016/j.aei.2021.101469"
 }
 
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
 @INCOLLECTION{Fauville2020-dy,
   title     = "Virtual Reality as a Promising Tool to Promote Climate Change
                Awareness",
@@ -13482,7 +13480,7 @@
   publisher = "Elsevier",
   pages     = "91--108",
   year      =  2020,
-  keywords  = "§New Literature;@\_Mark Up;+Notion;+Readwise",
+  keywords  = "+Notion;+Readwise;\_XR/MR",
   isbn      = "9780128169582",
   doi       = "10.1016/b978-0-12-816958-2.00005-8"
 }
