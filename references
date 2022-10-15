@@ -156,8 +156,7 @@
   journal  = "Harvard Business Review",
   month    =  nov,
   year     =  2017,
-  keywords = "\_XR/MR;+Notion;+Readwise;@\_Mark Up;Pocket;XR Reviewed;Notion
-              Catalogued",
+  keywords = "\_XR/MR;+Readwise;@\_Mark Up;Pocket;XR Reviewed;Notion Catalogued",
   issn     = "0017-8012"
 }
 
@@ -11427,7 +11426,7 @@
   pages     = "19--28",
   month     =  aug,
   year      =  1998,
-  keywords  = "Knowledge - Skill Acquisition;@\_Mark Up;+Notion;+Readwise;XR
+  keywords  = "Knowledge - Skill Acquisition;@\_Mark Up;+Readwise;XR
                Reviewed;Notion Catalogued",
   language  = "en",
   issn      = "0031-5125, 1558-688X",
