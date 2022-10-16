@@ -5798,6 +5798,8 @@
   doi       = "10.1109/TVCG.2015.2391853"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INPROCEEDINGS{Teizer2020-mh,
   title      = "A serious gaming approach to integrate {BIM}, {IoT}, and lean
                 construction in construction education",
@@ -5808,6 +5810,7 @@
   month      =  nov,
   year       =  2020,
   address    = "Reston, VA",
+  keywords   = "§New Literature;AEC;Game Engine",
   conference = "Construction Research Congress 2020",
   location   = "Tempe, Arizona",
   isbn       = "9780784482889",
