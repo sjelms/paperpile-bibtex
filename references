@@ -3805,8 +3805,6 @@
                Robotics in Construction (IAARC)"
 }
 
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
 @ARTICLE{Golovina2019-ij,
   title     = "Using serious games in virtual reality for automated close call
                and contact collision analysis in construction safety",
@@ -3817,8 +3815,8 @@
   pages     = "967--974",
   month     =  may,
   year      =  2019,
-  keywords  = "§New Literature;\_XR/MR;AEC;International Association for
-               Automation and Robotics in Construction (IAARC);XR Reviewed"
+  keywords  = "\_XR/MR;AEC;@\_Mark Up;International Association for Automation
+               and Robotics in Construction (IAARC);XR Reviewed"
 }
 
 @ARTICLE{Barkokebas2019-eh,
