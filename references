@@ -13664,3 +13664,51 @@
   issn      = "1750-8487",
   doi       = "10.1080/17508487.2020.1866050"
 }
+
+@ARTICLE{Chittaro2015-uq,
+  title     = "Assessing knowledge retention of an immersive serious game vs. A
+               traditional education method in aviation safety",
+  author    = "Chittaro, Luca and Buttussi, Fabio",
+  abstract  = "Thanks to the increasing availability of consumer head-mounted
+               displays, educational applications of immersive VR could now
+               reach to the general public, especially if they include gaming
+               elements (immersive serious games). Safety education of citizens
+               could be a particularly promising domain for immersive serious
+               games, because people tend not to pay attention to and benefit
+               from current safety materials. In this paper, we propose an
+               HMD-based immersive game for educating passengers about aviation
+               safety that allows players to experience a serious aircraft
+               emergency with the goal of surviving it. We compare the proposed
+               approach to a traditional aviation safety education method (the
+               safety card) used by airlines. Unlike most studies of VR for
+               safety knowledge acquisition, we do not focus only on assessing
+               learning immediately after the experience but we extend our
+               attention to knowledge retention over a longer time span. This
+               is a fundamental requirement, because people need to retain
+               safety procedures in order to apply them when faced with danger.
+               A knowledge test administered before, immediately after and one
+               week after the experimental condition showed that the immersive
+               serious game was superior to the safety card. Moreover,
+               subjective as well as physiological measurements employed in the
+               study showed that the immersive serious game was more engaging
+               and fear-arousing than the safety card, a factor that can
+               contribute to explain the obtained superior retention, as we
+               discuss in the paper.",
+  journal   = "IEEE Trans. Vis. Comput. Graph.",
+  publisher = "Institute of Electrical and Electronics Engineers (IEEE)",
+  volume    =  21,
+  number    =  4,
+  pages     = "529--538",
+  month     =  apr,
+  year      =  2015,
+  keywords  = "
+               Games;Safety;Aircraft;Education;Materials;Avatars;Engines;Immersive
+               VR;serious games;user evaluation;knowledge
+               retention;physiological measurements;aviation safety;Immersive
+               VR;serious games;user evaluation;knowledge
+               retention;physiological measurements;aviation safety",
+  language  = "en",
+  issn      = "1077-2626, 1941-0506",
+  pmid      = "26357103",
+  doi       = "10.1109/TVCG.2015.2391853"
+}
