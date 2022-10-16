@@ -13665,6 +13665,8 @@
   doi       = "10.1080/17508487.2020.1866050"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Chittaro2015-uq,
   title     = "Assessing knowledge retention of an immersive serious game vs. A
                traditional education method in aviation safety",
@@ -13706,7 +13708,8 @@
                VR;serious games;user evaluation;knowledge
                retention;physiological measurements;aviation safety;Immersive
                VR;serious games;user evaluation;knowledge
-               retention;physiological measurements;aviation safety",
+               retention;physiological measurements;aviation
+               safety;\_XR/MR;§New Literature",
   language  = "en",
   issn      = "1077-2626, 1941-0506",
   pmid      = "26357103",
