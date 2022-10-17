@@ -9477,8 +9477,6 @@
   doi       = "10.1504/ijtmkt.2019.104586"
 }
 
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
 @ARTICLE{Georgiou2021-hp,
   title    = "Learning experience design with immersive virtual reality in
               physics education",
@@ -9508,7 +9506,7 @@
   pages    = "3051--3080",
   month    =  dec,
   year     =  2021,
-  keywords = "\_XR/MR;§New Literature;Read;AACE UNC Call for Papers",
+  keywords = "\_XR/MR;Read;@\_Mark Up;AACE UNC Call for Papers",
   issn     = "1042-1629, 1556-6501",
   doi      = "10.1007/s11423-021-10055-y"
 }
