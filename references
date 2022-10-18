@@ -1099,6 +1099,8 @@
   keywords     = "Wikipedia;Wikipedia;Notion Catalogued"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Merchant2014-aj,
   title     = "Effectiveness of virtual reality-based instruction on students'
                learning outcomes in {K-12} and higher education: A
@@ -1142,7 +1144,7 @@
   pages     = "29--40",
   month     =  jan,
   year      =  2014,
-  keywords  = "\_XR/MR;Education",
+  keywords  = "\_XR/MR;Education;§New Literature",
   language  = "en",
   issn      = "0360-1315, 1873-782X",
   doi       = "10.1016/j.compedu.2013.07.033"
