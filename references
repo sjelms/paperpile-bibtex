@@ -301,57 +301,6 @@
   doi       = "10.1111/jcal.12018"
 }
 
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@ARTICLE{Merchant2014-aj,
-  title     = "Effectiveness of virtual reality-based instruction on students'
-               learning outcomes in {K-12} and higher education: A
-               meta-analysis",
-  author    = "Merchant, Zahira and Goetz, Ernest T and Cifuentes, Lauren and
-               Keeney-Kennicutt, Wendy and Davis, Trina J",
-  abstract  = "The purpose of this meta-analysis is to examine overall effect
-               as well as the impact of selected instructional design
-               principles in the context of virtual reality technology-based
-               instruction (i.e. games, simulation, virtual worlds) in K-12 or
-               higher education settings. A total of 13 studies (N = 3081) in
-               the category of games, 29 studies (N = 2553) in the category of
-               games, and 27 studies (N = 2798) in the category of virtual
-               worlds were meta-analyzed. The key inclusion criteria were that
-               the study came from K-12 or higher education settings, used
-               experimental or quasi-experimental research designs, and used a
-               learning outcome measure to evaluate the effects of the virtual
-               reality-based instruction.Results suggest games (FEM = 0.77; REM
-               = 0.51), simulations (FEM = 0.38; REM = 0.41), and virtual
-               worlds (FEM = 0.36; REM = 0.41) were effective in improving
-               learning outcome gains. The homogeneity analysis of the effect
-               sizes was statistically significant, indicating that the studies
-               were different from each other. Therefore, we conducted
-               moderator analysis using 13 variables used to code the studies.
-               Key findings included that: games show higher learning gains
-               than simulations and virtual worlds. For simulation studies,
-               elaborate explanation type feedback is more suitable for
-               declarative tasks whereas knowledge of correct response is more
-               appropriate for procedural tasks. Students performance is
-               enhanced when they conduct the game play individually than in a
-               group. In addition, we found an inverse relationship between
-               number of treatment sessions learning gains for games.With
-               regards to the virtual world, we found that if students were
-               repeatedly measured it deteriorates their learning outcome
-               gains. We discuss results to highlight the importance of
-               considering instructional design principles when designing
-               virtual reality-based instruction.",
-  journal   = "Comput. Educ.",
-  publisher = "Elsevier BV",
-  volume    =  70,
-  pages     = "29--40",
-  month     =  jan,
-  year      =  2014,
-  keywords  = "\_XR/MR;Education;§New Literature",
-  language  = "en",
-  issn      = "0360-1315, 1873-782X",
-  doi       = "10.1016/j.compedu.2013.07.033"
-}
-
 @ARTICLE{Rawsthorn2010-ut,
   title     = "Putting New Tools in Students' Hands",
   author    = "Rawsthorn, Alice",
@@ -10866,7 +10815,8 @@
                in 2012.",
   publisher = "The Brainwaves Video Anthology",
   month     =  sep,
-  year      =  2014
+  year      =  2014,
+  keywords  = "\_XR/MR"
 }
 
 @INPROCEEDINGS{Wild2017-er,
@@ -13887,4 +13837,55 @@
   publisher = "NSW Department of Education",
   year      =  2018,
   keywords  = "§New Literature;\_XR/MR;+Readwise;+Notion"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Merchant2014-aj,
+  title     = "Effectiveness of virtual reality-based instruction on students'
+               learning outcomes in {K-12} and higher education: A
+               meta-analysis",
+  author    = "Merchant, Zahira and Goetz, Ernest T and Cifuentes, Lauren and
+               Keeney-Kennicutt, Wendy and Davis, Trina J",
+  abstract  = "The purpose of this meta-analysis is to examine overall effect
+               as well as the impact of selected instructional design
+               principles in the context of virtual reality technology-based
+               instruction (i.e. games, simulation, virtual worlds) in K-12 or
+               higher education settings. A total of 13 studies (N = 3081) in
+               the category of games, 29 studies (N = 2553) in the category of
+               games, and 27 studies (N = 2798) in the category of virtual
+               worlds were meta-analyzed. The key inclusion criteria were that
+               the study came from K-12 or higher education settings, used
+               experimental or quasi-experimental research designs, and used a
+               learning outcome measure to evaluate the effects of the virtual
+               reality-based instruction.Results suggest games (FEM = 0.77; REM
+               = 0.51), simulations (FEM = 0.38; REM = 0.41), and virtual
+               worlds (FEM = 0.36; REM = 0.41) were effective in improving
+               learning outcome gains. The homogeneity analysis of the effect
+               sizes was statistically significant, indicating that the studies
+               were different from each other. Therefore, we conducted
+               moderator analysis using 13 variables used to code the studies.
+               Key findings included that: games show higher learning gains
+               than simulations and virtual worlds. For simulation studies,
+               elaborate explanation type feedback is more suitable for
+               declarative tasks whereas knowledge of correct response is more
+               appropriate for procedural tasks. Students performance is
+               enhanced when they conduct the game play individually than in a
+               group. In addition, we found an inverse relationship between
+               number of treatment sessions learning gains for games.With
+               regards to the virtual world, we found that if students were
+               repeatedly measured it deteriorates their learning outcome
+               gains. We discuss results to highlight the importance of
+               considering instructional design principles when designing
+               virtual reality-based instruction.",
+  journal   = "Comput. Educ.",
+  publisher = "Elsevier BV",
+  volume    =  70,
+  pages     = "29--40",
+  month     =  jan,
+  year      =  2014,
+  keywords  = "\_XR/MR;Education;§New Literature",
+  language  = "en",
+  issn      = "0360-1315, 1873-782X",
+  doi       = "10.1016/j.compedu.2013.07.033"
 }
