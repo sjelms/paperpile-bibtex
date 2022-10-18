@@ -195,6 +195,8 @@
   doi       = "10.1007/s10639-017-9676-0"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Zhou2019-ys,
   title     = "Personalized planning and training system for brachytherapy
                based on virtual reality",
@@ -206,6 +208,7 @@
   pages     = "347--361",
   month     =  dec,
   year      =  2019,
+  keywords  = "\_XR/MR;Education;§New Literature",
   language  = "en",
   issn      = "1359-4338, 1434-9957",
   doi       = "10.1007/s10055-018-0350-7"
