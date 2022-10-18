@@ -1084,6 +1084,36 @@
   doi       = "10.1007/978-3-031-08518-5\_28"
 }
 
+@ARTICLE{De_Jong2013-st,
+  title     = "Physical and virtual laboratories in science and engineering
+               education",
+  author    = "de Jong, Ton and Linn, Marcia C and Zacharia, Zacharias C",
+  abstract  = "The world needs young people who are skillful in and
+               enthusiastic about science and who view science as their future
+               career field. Ensuring that we will have such young people
+               requires initiatives that engage students in interesting and
+               motivating science experiences. Today, students can investigate
+               scientific phenomena using the tools, data collection
+               techniques, models, and theories of science in physical
+               laboratories that support interactions with the material world
+               or in virtual laboratories that take advantage of simulations.
+               Here, we review a selection of the literature to contrast the
+               value of physical and virtual investigations and to offer
+               recommendations for combining the two to strengthen science
+               learning.",
+  journal   = "Science",
+  publisher = "American Association for the Advancement of Science (AAAS)",
+  volume    =  340,
+  number    =  6130,
+  pages     = "305--308",
+  month     =  apr,
+  year      =  2013,
+  language  = "en",
+  issn      = "0036-8075, 1095-9203",
+  pmid      = "23599479",
+  doi       = "10.1126/science.1230579"
+}
+
 @MISC{Wikipedia_contributors2022-fx,
   title        = "{SECI} model of knowledge dimensions",
   booktitle    = "Wikipedia, The Free Encyclopedia",
