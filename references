@@ -1099,6 +1099,8 @@
   keywords     = "Wikipedia;Wikipedia;Notion Catalogued"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Merchant2013-kr,
   title     = "Exploring {3-D} virtual reality technology for spatial ability
                and chemistry achievement",
@@ -1129,6 +1131,7 @@
   pages     = "579--590",
   month     =  dec,
   year      =  2013,
+  keywords  = "\_XR/MR;§New Literature;Education",
   copyright = "http://onlinelibrary.wiley.com/termsAndConditions\#vor",
   language  = "en",
   issn      = "0266-4909, 1365-2729",
