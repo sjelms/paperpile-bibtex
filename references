@@ -1084,6 +1084,8 @@
   doi       = "10.1007/978-3-031-08518-5\_28"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{De_Jong2013-st,
   title     = "Physical and virtual laboratories in science and engineering
                education",
@@ -1108,6 +1110,7 @@
   pages     = "305--308",
   month     =  apr,
   year      =  2013,
+  keywords  = "\_XR/MR;§New Literature;Education",
   language  = "en",
   issn      = "0036-8075, 1095-9203",
   pmid      = "23599479",
