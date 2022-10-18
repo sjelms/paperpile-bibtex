@@ -1084,6 +1084,22 @@
   doi       = "10.1007/978-3-031-08518-5\_28"
 }
 
+@ARTICLE{Zhou2019-ys,
+  title     = "Personalized planning and training system for brachytherapy
+               based on virtual reality",
+  author    = "Zhou, Zeyang and Jiang, Shan and Yang, Zhiyong and Zhou, Lin",
+  journal   = "Virtual Real.",
+  publisher = "Springer Science and Business Media LLC",
+  volume    =  23,
+  number    =  4,
+  pages     = "347--361",
+  month     =  dec,
+  year      =  2019,
+  language  = "en",
+  issn      = "1359-4338, 1434-9957",
+  doi       = "10.1007/s10055-018-0350-7"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{De_Jong2013-st,
@@ -1130,45 +1146,6 @@
   howpublished = "\url{https://en.wikipedia.org/w/index.php?title=SECI_model_of_knowledge_dimensions&oldid=1094600557}",
   note         = "Accessed: NA-NA-NA",
   keywords     = "Wikipedia;Wikipedia;Notion Catalogued"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@ARTICLE{Merchant2013-kr,
-  title     = "Exploring {3-D} virtual reality technology for spatial ability
-               and chemistry achievement",
-  author    = "Merchant, Z and Goetz, E T and Keeney-Kennicutt, W and
-               Cifuentes, L and Kwok, O and Davis, T J",
-  abstract  = "We investigated the potential of Second Life\textregistered{}
-               (SL), a three-dimensional (3-D) virtual world, to enhance
-               undergraduate students' learning of a vital chemistry concept. A
-               quasi-experimental pre-posttest control group design was used to
-               conduct the study. A total of 387 participants completed three
-               assignment activities either in SL or using two-dimensional
-               (2-D) images. Students were administered an 11-question
-               chemistry achievement test and two measures of spatial ability
-               (Purdue Visualization of Rotations Test, Card Rotations Test).
-               Although analyses of covariance revealed no statistically
-               significant differences between the two groups as a whole for
-               any of the outcome measures, a subgroup analyses was conducted
-               to decompose the relative impact of 3-D virtual reality
-               instruction within SL. We found that students classified as
-               having poor spatial ability showed significantly greater
-               improvement in understanding the 3-D nature of molecules if they
-               did relevant activities in a 3-D virtual world than those
-               students who only worked with 2-D images.",
-  journal   = "J. Comput. Assist. Learn.",
-  publisher = "Wiley",
-  volume    =  29,
-  number    =  6,
-  pages     = "579--590",
-  month     =  dec,
-  year      =  2013,
-  keywords  = "\_XR/MR;§New Literature;Education",
-  copyright = "http://onlinelibrary.wiley.com/termsAndConditions\#vor",
-  language  = "en",
-  issn      = "0266-4909, 1365-2729",
-  doi       = "10.1111/jcal.12018"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -6028,6 +6005,45 @@
   language  = "en",
   issn      = "1360-2357, 1573-7608",
   doi       = "10.1007/s10639-017-9676-0"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Merchant2013-kr,
+  title     = "Exploring {3-D} virtual reality technology for spatial ability
+               and chemistry achievement",
+  author    = "Merchant, Z and Goetz, E T and Keeney-Kennicutt, W and
+               Cifuentes, L and Kwok, O and Davis, T J",
+  abstract  = "We investigated the potential of Second Life\textregistered{}
+               (SL), a three-dimensional (3-D) virtual world, to enhance
+               undergraduate students' learning of a vital chemistry concept. A
+               quasi-experimental pre-posttest control group design was used to
+               conduct the study. A total of 387 participants completed three
+               assignment activities either in SL or using two-dimensional
+               (2-D) images. Students were administered an 11-question
+               chemistry achievement test and two measures of spatial ability
+               (Purdue Visualization of Rotations Test, Card Rotations Test).
+               Although analyses of covariance revealed no statistically
+               significant differences between the two groups as a whole for
+               any of the outcome measures, a subgroup analyses was conducted
+               to decompose the relative impact of 3-D virtual reality
+               instruction within SL. We found that students classified as
+               having poor spatial ability showed significantly greater
+               improvement in understanding the 3-D nature of molecules if they
+               did relevant activities in a 3-D virtual world than those
+               students who only worked with 2-D images.",
+  journal   = "J. Comput. Assist. Learn.",
+  publisher = "Wiley",
+  volume    =  29,
+  number    =  6,
+  pages     = "579--590",
+  month     =  dec,
+  year      =  2013,
+  keywords  = "\_XR/MR;§New Literature;Education",
+  copyright = "http://onlinelibrary.wiley.com/termsAndConditions\#vor",
+  language  = "en",
+  issn      = "0266-4909, 1365-2729",
+  doi       = "10.1111/jcal.12018"
 }
 
 @TECHREPORT{Gross2017-aw,
