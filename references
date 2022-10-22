@@ -5865,6 +5865,8 @@
   keywords  = "§New Literature;\_XR/MR;+Readwise;+Notion"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Littlejohn2022-db,
   title     = "Technologies for Professional Learning",
   booktitle = "Research Approaches on Workplace Learning: Insights from a
@@ -5902,7 +5904,7 @@
   pages     = "321--346",
   year      =  2022,
   address   = "Cham",
-  keywords  = "Education;UCL",
+  keywords  = "Education;UCL;§New Literature",
   isbn      = "9783030895822",
   doi       = "10.1007/978-3-030-89582-2\_15"
 }
