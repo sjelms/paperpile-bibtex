@@ -13961,3 +13961,31 @@
   issn     = "1430-4171",
   doi      = "10.1007/s00897970138a"
 }
+
+@ARTICLE{Branoff2000-od,
+  title    = "Spatial visualization measurement: A modification of the Purdue
+              Spatial Visualization Test --- visualization of Rotations",
+  author   = "Branoff, Theodore J",
+  abstract = "During the 1999 Fall semester at North Carolina State University,
+              a study was conducted to determine the effectiveness of using
+              trimetric pictorials instead of isometric pictorials on the
+              Purdue Spatial Visualization Test --- Visualization of Rotations
+              (Guay, 1977). Undergraduate students enrolled in Graphic
+              Communications courses completed computer versions of the PSVT
+              and the Mental Rotations Test (Vandenberg \& Kuse, 1978) during
+              the first six weeks of classes. The instruments were used to
+              record student responses and response times as well as
+              information on gender, current major, and number of previous
+              graphics courses completed. The control group completed the
+              original version of the PSVT (isometric pictorials) and the MRT.
+              The experimental group completed a revised version of the PSVT
+              (trimetric pictorials) and the MRT. The researcher hypothesized
+              that trimetric pictorials would be a more sensitive predictor of
+              spatial visualization ability.",
+  journal  = "Eng. Des. Graph. J.",
+  volume   =  64,
+  number   =  2,
+  year     =  2000,
+  language = "en",
+  issn     = "0046-2012, 1949-9167"
+}
