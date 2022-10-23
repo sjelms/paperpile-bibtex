@@ -14131,6 +14131,8 @@
   doi      = "10.1007/s10055-021-00509-2"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{noauthor_2019-ii,
   title     = "Does effective use of {MaxWhere} {VR} relate to the individual
                spatial memory and mental rotation skills?",
@@ -14140,6 +14142,7 @@
   number    =  5,
   month     =  aug,
   year      =  2019,
+  keywords  = "\_XR/MR;§New Literature;+Readwise;+Notion",
   issn      = "1785-8860, 2064-2687",
   doi       = "10.12700/aph.16.6.2019.6.4"
 }
