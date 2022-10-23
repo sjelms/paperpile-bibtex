@@ -14091,7 +14091,7 @@
                skills;development;measurement preparation;mental cutting
                test;mental rotation test;purdue spatial visualization
                test;spatial ability;virtual reality;+Notion;+Readwise;Research
-               Methods;Sensory Processing;§New Literature",
+               Methods;Sensory Processing;§New Literature;\_XR/MR",
   issn      = "2380-7350",
   doi       = "10.1109/CogInfoCom47531.2019.9089919"
 }
@@ -14129,7 +14129,7 @@
   month    =  jun,
   year     =  2022,
   keywords = "+Notion;+Readwise;Research Methods;Sensory Processing;§New
-              Literature",
+              Literature;\_XR/MR",
   issn     = "1359-4338, 1434-9957",
   doi      = "10.1007/s10055-021-00509-2"
 }
