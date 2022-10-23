@@ -13962,6 +13962,8 @@
   doi      = "10.1007/s00897970138a"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Branoff2000-od,
   title    = "Spatial visualization measurement: A modification of the Purdue
               Spatial Visualization Test --- visualization of Rotations",
@@ -13986,6 +13988,7 @@
   volume   =  64,
   number   =  2,
   year     =  2000,
+  keywords = "+Readwise;Research Methods;Sensory Processing;§New Literature",
   language = "en",
   issn     = "0046-2012, 1949-9167"
 }
