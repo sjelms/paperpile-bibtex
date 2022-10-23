@@ -14010,3 +14010,19 @@
   issn      = "1045-1064, 2331-4702",
   doi       = "10.21061/jte.v26i1.a.6"
 }
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@INPROCEEDINGS{Delson2020-gz,
+  title           = "Development of a spatial visualization assessment tool for
+                     younger students using a lego™ assembly task",
+  booktitle       = "2020 {ASEE} Virtual Annual Conference Content Access
+                     Proceedings",
+  author          = "Delson, Nathan and Van Den Einde, Lelli and Tuazon,
+                     Jessica and Yang, Daniel",
+  publisher       = "ASEE Conferences",
+  year            =  2020,
+  conference      = "2020 ASEE Virtual Annual Conference Content Access",
+  location        = "Virtual On line",
+  doi             = "10.18260/1-2--34452"
+}
