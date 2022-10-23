@@ -13934,3 +13934,27 @@
   isbn      = "9783030895822",
   doi       = "10.1007/978-3-030-89582-2\_15"
 }
+
+@ARTICLE{Bodner1997-zj,
+  title    = "The Purdue Visualization of Rotations Test",
+  author   = "Bodner, George M and Guay, Roland B",
+  abstract = "This paper probes the relationship between the psychometric
+              construct known as `spatial ability' and students' performance in
+              introductory chemistry courses. It examines some of the early
+              literature on the evolution of the concept of spatial ability,
+              reviews the results of research on the relationship between
+              success (or failure) in introductory chemistry courses and
+              students' spatial ability, and describes a spatial ability test
+              known as The Purdue Visualization of Rotations (ROT) test that
+              has been shown to be among the spatial ability tests whose
+              results are least likely to be complicated by analytical
+              processing.",
+  journal  = "Chem. Educ.",
+  volume   =  2,
+  number   =  4,
+  pages    = "1--17",
+  month    =  oct,
+  year     =  1997,
+  issn     = "1430-4171",
+  doi      = "10.1007/s00897970138a"
+}
