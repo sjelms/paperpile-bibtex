@@ -14062,8 +14062,6 @@
   doi       = "10.1002/j.2168-9830.2000.tb00529.x"
 }
 
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
 @INPROCEEDINGS{Guzsvinecz2019-sy,
   title     = "Preparing spatial ability tests in a virtual reality application",
   booktitle = "2019 10th {IEEE} International Conference on Cognitive
@@ -14088,7 +14086,7 @@
                skills;development;measurement preparation;mental cutting
                test;mental rotation test;purdue spatial visualization
                test;spatial ability;virtual reality;+Notion;+Readwise;Research
-               Methods;Sensory Processing;§New Literature;\_XR/MR",
+               Methods;Sensory Processing;\_XR/MR;@\_Mark Up",
   issn      = "2380-7350",
   doi       = "10.1109/CogInfoCom47531.2019.9089919"
 }
