@@ -13935,6 +13935,8 @@
   doi       = "10.1007/978-3-030-89582-2\_15"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Bodner1997-zj,
   title    = "The Purdue Visualization of Rotations Test",
   author   = "Bodner, George M and Guay, Roland B",
@@ -13955,7 +13957,7 @@
   pages    = "1--17",
   month    =  oct,
   year     =  1997,
-  keywords = "Research Methods;Sensory Processing",
+  keywords = "Research Methods;Sensory Processing;+Readwise;§New Literature",
   issn     = "1430-4171",
   doi      = "10.1007/s00897970138a"
 }
