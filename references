@@ -13993,6 +13993,8 @@
   issn     = "0046-2012, 1949-9167"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Katsioloudis2014-by,
   title     = "A comparative analysis of spatial visualization ability and
                drafting models for industrial and technology education students",
@@ -14003,6 +14005,8 @@
   number    =  1,
   month     =  sep,
   year      =  2014,
+  keywords  = "+Notion;+Readwise;Research Methods;Sensory Processing;§New
+               Literature",
   issn      = "1045-1064, 2331-4702",
   doi       = "10.21061/jte.v26i1.a.6"
 }
