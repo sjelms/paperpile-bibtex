@@ -14029,8 +14029,6 @@
   doi             = "10.18260/1-2--34452"
 }
 
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
 @ARTICLE{Sorby2000-fd,
   title     = "The development and assessment of a course for enhancing the
                {3-D} spatial visualization skills of first year engineering
@@ -14058,8 +14056,7 @@
   pages     = "301--307",
   month     =  jul,
   year      =  2000,
-  keywords  = "+Notion;+Readwise;Research Methods;Sensory Processing;§New
-               Literature",
+  keywords  = "+Notion;+Readwise;Research Methods;Sensory Processing;@\_Mark Up",
   language  = "en",
   issn      = "1069-4730, 2168-9830",
   doi       = "10.1002/j.2168-9830.2000.tb00529.x"
