@@ -14130,3 +14130,16 @@
   issn     = "1359-4338, 1434-9957",
   doi      = "10.1007/s10055-021-00509-2"
 }
+
+@ARTICLE{noauthor_2019-ii,
+  title     = "Does effective use of {MaxWhere} {VR} relate to the individual
+               spatial memory and mental rotation skills?",
+  journal   = "Acta polytech. Hung.",
+  publisher = "Obuda University",
+  volume    =  16,
+  number    =  5,
+  month     =  aug,
+  year      =  2019,
+  issn      = "1785-8860, 2064-2687",
+  doi       = "10.12700/aph.16.6.2019.6.4"
+}
