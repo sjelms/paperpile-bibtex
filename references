@@ -14065,6 +14065,8 @@
   doi       = "10.1002/j.2168-9830.2000.tb00529.x"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INPROCEEDINGS{Guzsvinecz2019-sy,
   title     = "Preparing spatial ability tests in a virtual reality application",
   booktitle = "2019 10th {IEEE} International Conference on Cognitive
@@ -14088,11 +14090,14 @@
                reality;Visualization;Androids;Humanoid robots;Cameras;cognitive
                skills;development;measurement preparation;mental cutting
                test;mental rotation test;purdue spatial visualization
-               test;spatial ability;virtual reality",
+               test;spatial ability;virtual reality;+Notion;+Readwise;Research
+               Methods;Sensory Processing;§New Literature",
   issn      = "2380-7350",
   doi       = "10.1109/CogInfoCom47531.2019.9089919"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Guzsvinecz2022-jl,
   title    = "Investigation of spatial ability test completion times in virtual
               reality using a desktop display and the Gear {VR}",
@@ -14123,6 +14128,8 @@
   pages    = "601--614",
   month    =  jun,
   year     =  2022,
+  keywords = "+Notion;+Readwise;Research Methods;Sensory Processing;§New
+              Literature",
   issn     = "1359-4338, 1434-9957",
   doi      = "10.1007/s10055-021-00509-2"
 }
