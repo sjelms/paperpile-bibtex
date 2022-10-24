@@ -13972,6 +13972,8 @@
   doi       = "10.1016/j.compedu.2013.07.033"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INPROCEEDINGS{Dunser2006-wj,
   title           = "Virtual and augmented reality as spatial ability training
                      tools",
@@ -13999,6 +14001,7 @@
   publisher       = "ACM Press",
   year            =  2006,
   address         = "New York, New York, USA",
+  keywords        = "\_XR/MR;§New Literature;Sensory Processing",
   conference      = "the 6th ACM SIGCHI New Zealand chapter's international
                      conference",
   location        = "Christchurch, New Zealand",
