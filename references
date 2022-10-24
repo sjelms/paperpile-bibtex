@@ -6541,6 +6541,8 @@
   doi       = "10.1145/3064663.3064690"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INPROCEEDINGS{Chang2017-qn,
   title           = "Evaluating the effect of tangible virtual reality on
                      spatial perspective taking ability",
@@ -6572,6 +6574,7 @@
   month           =  oct,
   year            =  2017,
   address         = "New York, NY, USA",
+  keywords        = "\_XR/MR;§New Literature;Sensory Processing",
   copyright       = "http://www.acm.org/publications/policies/copyright\_policy\#Background",
   conference      = "SUI '17: Symposium on Spatial User Interaction",
   location        = "Brighton United Kingdom",
