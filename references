@@ -3938,6 +3938,14 @@
                construction manufacturing industry",
   author    = "Barkokebas, Regina and Ritter, Chelsea and Sirbu, Val and Li,
                Xinming and Al-Hussein, Mohamed",
+  abstract  = "Automation in construction manufacturing is becoming
+               increasingly common due to the drive for higher productivity and
+               increased quality. One important consideration in the
+               implementation of automation is the training and maintenance of
+               the equipment. This study proposes an approach to assess the
+               training for assembly/disassembly and maintenance of machines
+               developed for the construction manufacturing industry by using
+               immersive virtual reality (VR).",
   journal   = "ISARC Proceedings",
   publisher = "IAARC",
   pages     = "796--803",
