@@ -13496,6 +13496,23 @@
   doi       = "10.1016/b978-0-12-816958-2.00005-8"
 }
 
+@INPROCEEDINGS{Torner_Ribe2016-nv,
+  title     = "Virtual Reality application to improve spatial ability of
+               engineering students",
+  booktitle = "{WSCG'2016} - 24th International Conference in Central Europe on
+               Computer Graphics, Visualization and Computer Vision'2016
+               proceedings are published in Computer Science Research Notes
+               [{CSRN}] {ISSN} 2464-4617",
+  author    = "Torner Rib{\'e}, Jordi and Alpiste Penalba, Francesc and Brigos
+               Hermida, Miguel {\'A}ngel",
+  abstract  = "Postprint (published version)",
+  pages     = "69--77",
+  year      =  2016,
+  keywords  = "Conference report",
+  language  = "en",
+  isbn      = "9788086943589"
+}
+
 @BOOK{Johnson2011-da,
   title     = "Where Good Ideas Come from: The Seven Patterns of Innovation",
   author    = "Johnson, Steven",
