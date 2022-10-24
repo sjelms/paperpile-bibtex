@@ -13568,7 +13568,8 @@
   month           =  oct,
   year            =  2017,
   address         = "New York, NY, USA",
-  keywords        = "\_XR/MR;Sensory Processing;@\_Mark Up;Read",
+  keywords        = "\_XR/MR;Sensory Processing;@\_Mark Up;Read;Notion
+                     Catalogued",
   copyright       = "http://www.acm.org/publications/policies/copyright\_policy\#Background",
   conference      = "SUI '17: Symposium on Spatial User Interaction",
   location        = "Brighton United Kingdom",
