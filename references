@@ -14253,23 +14253,6 @@
   doi      = "10.1007/s10055-021-00509-2"
 }
 
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@ARTICLE{Berki2019-ii,
-  title     = "Does effective use of {MaxWhere} {VR} relate to the individual
-               spatial memory and mental rotation skills?",
-  author    = "Berki, Borb{\'a}la",
-  journal   = "Acta polytech. Hung.",
-  publisher = "Obuda University",
-  volume    =  16,
-  number    =  5,
-  month     =  aug,
-  year      =  2019,
-  keywords  = "\_XR/MR;§New Literature;+Readwise;+Notion",
-  issn      = "1785-8860, 2064-2687",
-  doi       = "10.12700/aph.16.6.2019.6.4"
-}
-
 @BOOK{Gardner2008-lx,
   title     = "Multiple Intelligences: New Horizons in Theory and Practice",
   author    = "Gardner, Howard E",
@@ -14295,4 +14278,37 @@
   keywords  = "ePub | Kindle;+Notion;+Readwise;EPubs Books",
   language  = "en",
   isbn      = "9780786721870"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Berki2019-ii,
+  title     = "Does effective use of {MaxWhere} {VR} relate to the individual
+               spatial memory and mental rotation skills?",
+  author    = "Berki, Borb{\'a}la",
+  abstract  = "Desktop virtual realities are becoming increasingly widespread.
+               Thus, it is important to measure if it can be really a next step
+               in the evolution of computer science. This researched aimed to
+               examine whether there is a relationship between the
+               effectiveness of completing a task in MaxWhere VR and the users'
+               cognitive characteristics: namely the spatial memory (measured
+               by the Corsi-task) and the mental rotation ability. Thirty-one
+               participants took part in this research and their results showed
+               no relationship between the examined spatial abilities and work
+               effectiveness. For navigating in the virtual space, the built-in
+               CogiNav technology of MaxWhere was used. The participants rated
+               their navigational experience in the virtual environment. There
+               was no statistically significant relationship with the other
+               measured variables. These results suggest that this VR can be
+               used by anyone, independently from their spatial memory or
+               mental rotation skill.",
+  journal   = "Acta polytech. Hung.",
+  publisher = "Obuda University",
+  volume    =  16,
+  number    =  5,
+  month     =  aug,
+  year      =  2019,
+  keywords  = "\_XR/MR;§New Literature;+Readwise;+Notion",
+  issn      = "1785-8860, 2064-2687",
+  doi       = "10.12700/aph.16.6.2019.6.4"
 }
