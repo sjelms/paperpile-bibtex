@@ -13496,6 +13496,8 @@
   doi       = "10.1016/b978-0-12-816958-2.00005-8"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INPROCEEDINGS{Torner_Ribe2016-nv,
   title     = "Virtual Reality application to improve spatial ability of
                engineering students",
@@ -13508,7 +13510,7 @@
   abstract  = "Postprint (published version)",
   pages     = "69--77",
   year      =  2016,
-  keywords  = "Conference report",
+  keywords  = "Conference report;\_XR/MR;§New Literature",
   language  = "en",
   isbn      = "9788086943589"
 }
