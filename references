@@ -14255,9 +14255,10 @@
 
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
-@ARTICLE{noauthor_2019-ii,
+@ARTICLE{Berki2019-ii,
   title     = "Does effective use of {MaxWhere} {VR} relate to the individual
                spatial memory and mental rotation skills?",
+  author    = "Berki, Borb{\'a}la",
   journal   = "Acta polytech. Hung.",
   publisher = "Obuda University",
   volume    =  16,
