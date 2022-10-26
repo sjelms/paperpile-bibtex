@@ -5958,37 +5958,6 @@
   isbn     = "9780815393566"
 }
 
-@ARTICLE{Kirsh2013-uo,
-  title     = "Embodied cognition and the magical future of interaction design",
-  author    = "Kirsh, David",
-  abstract  = "The theory of embodied cognition can provide HCI practitioners
-               and theorists with new ideas about interaction and new
-               principles for better designs. I support this claim with four
-               ideas about cognition: (1) interacting with tools changes the
-               way we think and perceive -- tools, when manipulated, are soon
-               absorbed into the body schema, and this absorption leads to
-               fundamental changes in the way we perceive and conceive of our
-               environments; (2) we think with our bodies not just with our
-               brains; (3) we know more by doing than by seeing -- there are
-               times when physically performing an activity is better than
-               watching someone else perform the activity, even though our
-               motor resonance system fires strongly during other person
-               observation; (4) there are times when we literallythinkwith
-               things. These four ideas have major implications for interaction
-               design, especially the design of tangible, physical, context
-               aware, and telepresence systems.",
-  journal   = "ACM Trans. Comput. Hum. Interact.",
-  publisher = "Association for Computing Machinery (ACM)",
-  volume    =  20,
-  number    =  1,
-  pages     = "1--30",
-  month     =  mar,
-  year      =  2013,
-  language  = "en",
-  issn      = "1073-0516, 1557-7325",
-  doi       = "10.1145/2442106.2442109"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
@@ -14383,4 +14352,38 @@
   keywords  = "\_XR/MR;§New Literature;+Readwise;+Notion",
   issn      = "1785-8860, 2064-2687",
   doi       = "10.12700/aph.16.6.2019.6.4"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Kirsh2013-uo,
+  title     = "Embodied cognition and the magical future of interaction design",
+  author    = "Kirsh, David",
+  abstract  = "The theory of embodied cognition can provide HCI practitioners
+               and theorists with new ideas about interaction and new
+               principles for better designs. I support this claim with four
+               ideas about cognition: (1) interacting with tools changes the
+               way we think and perceive -- tools, when manipulated, are soon
+               absorbed into the body schema, and this absorption leads to
+               fundamental changes in the way we perceive and conceive of our
+               environments; (2) we think with our bodies not just with our
+               brains; (3) we know more by doing than by seeing -- there are
+               times when physically performing an activity is better than
+               watching someone else perform the activity, even though our
+               motor resonance system fires strongly during other person
+               observation; (4) there are times when we literallythinkwith
+               things. These four ideas have major implications for interaction
+               design, especially the design of tangible, physical, context
+               aware, and telepresence systems.",
+  journal   = "ACM Trans. Comput. Hum. Interact.",
+  publisher = "Association for Computing Machinery (ACM)",
+  volume    =  20,
+  number    =  1,
+  pages     = "1--30",
+  month     =  mar,
+  year      =  2013,
+  keywords  = "Research Methods;§New Literature;+Readwise;+Notion",
+  language  = "en",
+  issn      = "1073-0516, 1557-7325",
+  doi       = "10.1145/2442106.2442109"
 }
