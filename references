@@ -8981,6 +8981,8 @@
   keywords  = "RDL [CCME0041]"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INBOOK{OLeary2017-kr,
   title     = "The essential guide to doing your research project",
   author    = "O'Leary, Zina",
@@ -8991,7 +8993,7 @@
   edition   = "3rd edition",
   year      =  2017,
   address   = "Los Angeles",
-  keywords  = "RDL [CCME0041]"
+  keywords  = "§New Literature;RDL [CCME0041]"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
