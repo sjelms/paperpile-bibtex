@@ -8730,17 +8730,6 @@
   isbn      = "9781849204095"
 }
 
-@BOOK{Robson2022-tm,
-  title     = "Real World Research",
-  author    = "Robson, Colin and McCartan, Kieran",
-  publisher = "John Wiley \& Sons Inc",
-  month     =  sep,
-  year      =  2022,
-  address   = "New York",
-  keywords  = "RDL [CCME0041]",
-  isbn      = "9781119523604"
-}
-
 @PROCEEDINGS{Ramey_undated-ho,
   title    = "Qualitative Analysis of Video Data: Standards and Heuristics",
   author   = "Ramey, K E R and Hilpp{\"o}, J and Dyer, E and Villanosa, K",
@@ -11681,6 +11670,19 @@
   year      =  2022,
   address   = "United Kingdom",
   keywords  = "tom scott; tomscott;YouTube;\_XR/MR;Notion Catalogued"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@BOOK{Robson2022-tm,
+  title     = "Real World Research",
+  author    = "Robson, Colin and McCartan, Kieran",
+  publisher = "John Wiley \& Sons Inc",
+  month     =  sep,
+  year      =  2022,
+  address   = "New York",
+  keywords  = "§New Literature;RDL [CCME0041]",
+  isbn      = "9781119523604"
 }
 
 @INPROCEEDINGS{Zimmons2003-kh,
