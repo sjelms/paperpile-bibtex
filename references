@@ -8857,13 +8857,15 @@
   doi      = "10.1111/j.1469-5812.2008.00479.x"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Barab2006-jc,
   title     = "Design-based research: A methodological toolkit",
   booktitle = "The Cambridge Handbook of the Learning Sciences. Cambridge",
   author    = "Barab, Sasha",
   publisher = "Cambridge University Press.",
   year      =  2006,
-  keywords  = "RDL [CCME0041]"
+  keywords  = "§New Literature;RDL [CCME0041]"
 }
 
 @INCOLLECTION{Rivas2012-qo,
