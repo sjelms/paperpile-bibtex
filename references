@@ -9798,15 +9798,6 @@
   doi       = "10.1145/258734.258849"
 }
 
-@BOOK{Groh2014-rk,
-  title     = "Making Space: How the Brain Knows Where Things Are",
-  author    = "Groh, J M",
-  publisher = "Harvard University Press",
-  year      =  2014,
-  keywords  = "ePub | Kindle;Brain and Space [Coursera];EPubs Books",
-  isbn      = "9780674744875"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Gavish2015-mv,
@@ -14420,4 +14411,14 @@
   keywords  = "Research Methods;ePub | Kindle;+Notion;+Readwise;EPubs Books",
   language  = "en",
   isbn      = "9781000228540"
+}
+
+@BOOK{Groh2014-rk,
+  title     = "Making Space: How the Brain Knows Where Things Are",
+  author    = "Groh, J M",
+  publisher = "Harvard University Press",
+  year      =  2014,
+  keywords  = "ePub | Kindle;Sensory Processing;Brain and Space
+               [Coursera];EPubs Books",
+  isbn      = "9780674744875"
 }
