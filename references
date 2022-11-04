@@ -8296,6 +8296,8 @@
   doi        = "10.1145/3531146.3533213"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Holmes2022-se,
   title     = "State of the art and practice in {AI} in education",
   author    = "Holmes, Wayne and Tuomi, Ilkka",
@@ -8303,7 +8305,7 @@
   publisher = "Wiley",
   month     =  oct,
   year      =  2022,
-  keywords  = "AIEd;Artificial Intelligence (AI);UCL",
+  keywords  = "AIEd;Artificial Intelligence (AI);UCL;§New Literature",
   copyright = "http://creativecommons.org/licenses/by/4.0/",
   language  = "en",
   issn      = "0141-8211, 1465-3435",
