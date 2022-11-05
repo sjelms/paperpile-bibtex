@@ -13598,6 +13598,8 @@
   doi             = "10.1145/3131277.3132171"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Mayer2014-hi,
   title     = "Cognitive Theory of Multimedia Learning",
   booktitle = "The Cambridge Handbook of Multimedia Learning",
@@ -13607,6 +13609,7 @@
   pages     = "43--71",
   month     =  jul,
   year      =  2014,
+  keywords  = "Research Methods;§New Literature",
   doi       = "10.1017/CBO9781139547369.005"
 }
 
