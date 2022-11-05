@@ -13598,6 +13598,18 @@
   doi             = "10.1145/3131277.3132171"
 }
 
+@INCOLLECTION{Mayer2014-hi,
+  title     = "Cognitive Theory of Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Mayer, Richard E",
+  abstract  = "The Cambridge Handbook of Multimedia Learning - July 2014",
+  publisher = "Cambridge University Press",
+  pages     = "43--71",
+  month     =  jul,
+  year      =  2014,
+  doi       = "10.1017/CBO9781139547369.005"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Radford2015-iy,
