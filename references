@@ -14504,34 +14504,6 @@
   doi       = "10.1017/9781108894333.007"
 }
 
-@MISC{noauthor_undated-pk,
-  title    = "07.0\_pp\_xv\_xvi\_Contributors.pdf",
-  keywords = "3rd Edition \_ Cambridge Handbook of Multimedia Learning [Full
-              Book\}"
-}
-
-@MISC{noauthor_undated-ru,
-  title    = "09.0\_pp\_xx\_xx\_Acknowledgments.pdf",
-  keywords = "3rd Edition \_ Cambridge Handbook of Multimedia Learning [Full
-              Book\}"
-}
-
-@ARTICLE{noauthor_2019-kl,
-  title    = "Poster Abstracts: Subject Index",
-  journal  = "J. Dent. Educ.",
-  volume   =  83,
-  number   =  2,
-  pages    = "247--252",
-  month    =  feb,
-  year     =  2019,
-  keywords = "3rd Edition \_ Cambridge Handbook of Multimedia Learning [Full
-              Book\}",
-  language = "en",
-  issn     = "0022-0337, 1930-7837",
-  pmid     = "30709996",
-  doi      = "10.1017/9781108894333.057"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INCOLLECTION{Littlejohn2022-db,
