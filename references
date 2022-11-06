@@ -14353,6 +14353,12 @@
               Book\}"
 }
 
+@MISC{noauthor_undated-oh,
+  title    = "06.0\_pp\_xiii\_xiv\_Tables.pdf",
+  keywords = "3rd Edition \_ Cambridge Handbook of Multimedia Learning [Full
+              Book\}"
+}
+
 @INCOLLECTION{Fiorella2021-xn,
   title     = "Preface",
   booktitle = "The Cambridge Handbook of Multimedia Learning",
@@ -14494,6 +14500,12 @@
   title    = "List of Figures page ix List of Tables xiii List of Contributors
               xv Preface xvii Acknowledgments xx",
   author   = "Background, Part I",
+  keywords = "3rd Edition \_ Cambridge Handbook of Multimedia Learning [Full
+              Book\}"
+}
+
+@MISC{noauthor_undated-pk,
+  title    = "07.0\_pp\_xv\_xvi\_Contributors.pdf",
   keywords = "3rd Edition \_ Cambridge Handbook of Multimedia Learning [Full
               Book\}"
 }
