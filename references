@@ -14196,6 +14196,202 @@
   doi       = "undefined"
 }
 
+@INCOLLECTION{Fiorella2021-be,
+  title     = "Contents",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  publisher = "Cambridge University Press",
+  pages     = "v--viii",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "3rd Edition \_ Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "undefined"
+}
+
+@INCOLLECTION{Fiorella2021-jw,
+  title     = "Copyright page",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  publisher = "Cambridge University Press",
+  pages     = "iv--iv",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "3rd Edition \_ Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "undefined"
+}
+
+@INCOLLECTION{Fiorella2021-gc,
+  title     = "The Cambridge Handbook of Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  publisher = "Cambridge University Press",
+  pages     = "i--ii",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "3rd Edition \_ Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "undefined"
+}
+
+@INCOLLECTION{Fiorella2021-vj,
+  title     = "Contributors",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  publisher = "Cambridge University Press",
+  pages     = "xv--xvi",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "3rd Edition \_ Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "undefined"
+}
+
+@INCOLLECTION{Fiorella2021-vv,
+  title     = "Basic Principles of Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  publisher = "Cambridge University Press",
+  pages     = "143--182",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "3rd Edition \_ Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.014"
+}
+
+@INCOLLECTION{Fiorella2021-pq,
+  title     = "Acknowledgments",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  publisher = "Cambridge University Press",
+  pages     = "xx--xx",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "3rd Edition \_ Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "undefined"
+}
+
+@INCOLLECTION{Fiorella2021-xn,
+  title     = "Preface",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  publisher = "Cambridge University Press",
+  pages     = "xvii--xix",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "3rd Edition \_ Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.001"
+}
+
+@INCOLLECTION{Fiorella2021-vp,
+  title     = "The Cambridge Handbook of Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  publisher = "Cambridge University Press",
+  pages     = "iii--iii",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "3rd Edition \_ Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "undefined"
+}
+
+@INCOLLECTION{Fiorella2021-tc,
+  title     = "Tables",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  publisher = "Cambridge University Press",
+  pages     = "xiii--xiv",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "3rd Edition \_ Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "undefined"
+}
+
+@INCOLLECTION{Fiorella2021-mv,
+  title     = "Principles for Reducing Extraneous Processing in Multimedia
+               Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  publisher = "Cambridge University Press",
+  pages     = "183--240",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "3rd Edition \_ Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.018"
+}
+
+@INCOLLECTION{Fiorella2021-dm,
+  title     = "Background",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  publisher = "Cambridge University Press",
+  pages     = "1--54",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "3rd Edition \_ Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.002"
+}
+
+@INCOLLECTION{Fiorella2021-rf,
+  title     = "Figures",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  publisher = "Cambridge University Press",
+  pages     = "ix--xii",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "3rd Edition \_ Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "undefined"
+}
+
+@INCOLLECTION{Fiorella2021-ry,
+  title     = "Theoretical Foundations",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  publisher = "Cambridge University Press",
+  pages     = "55--142",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "3rd Edition \_ Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.007"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INCOLLECTION{Littlejohn2022-db,
@@ -16212,4 +16408,564 @@
                Multimedia Learning, The [full book]",
   isbn      = "9781139547369",
   doi       = "10.1017/CBO9781139547369.033"
+}
+
+@INCOLLECTION{Schrader2021-en,
+  title     = "Motivation and Affect in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Schrader, Claudia and Kalyuga, Slava and Plass, Jan L",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "This chapter summarizes research and theory concerned with the
+               effect of learner motivation and emotional states on multimedia
+               learning. It describes trends and issues in the current
+               approaches, identifies relevant theoretical models, and assesses
+               the importance of motivation (including interest,
+               intrinsic-extrinsic motivation, goal orientation, and
+               self-efficacy) and affect (including positive and negative
+               affective states) as mediators and moderators of the effects of
+               multimedia learning on cognitive outcomes. The reviewed
+               empirical findings indicate the strong influence of multimedia
+               learning environments on learner motivation and affect.",
+  publisher = "Cambridge University Press",
+  pages     = "121--131",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "motivational stats; emotional states; affect; motivation;
+               interest; self-efficacy;3rd Edition \_ Cambridge Handbook of
+               Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.012"
+}
+
+@INCOLLECTION{Kalyuga2021-yr,
+  title     = "The Expertise Reversal Principle in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Kalyuga, Slava",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "This chapter summarizes research and theory concerned with the
+               effects of learner expertise (prior knowledge) on multimedia
+               learning. According to the expertise reversal principle, in many
+               situations, design principles that are effective for novice
+               learners may not be effective or even hinder learning for more
+               knowledgeable learners. The main theoretical issue associated
+               with this principle concerns the integration in working memory
+               of instructional information with knowledge structures held in
+               long-term memory. The major instructional implication is the
+               need to tailor instructional formats and procedures to changing
+               levels of expertise. The chapter also suggests future research
+               directions.",
+  publisher = "Cambridge University Press",
+  pages     = "171--182",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "expertise reversal principle; prior knowledge; learner
+               expertise; adaptive multimedia systems;3rd Edition \_ Cambridge
+               Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.017"
+}
+
+@INCOLLECTION{Fiorella2021-gk,
+  title     = "Principles for Reducing Extraneous Processing in Multimedia
+               Learning: Coherence, Signaling, Redundancy, Spatial Contiguity,
+               and Temporal Contiguity Principles",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Fiorella, Logan and Mayer, Richard E",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "Extraneous processing occurs when suboptimal instructional
+               design causes learners to engage in cognitive processing
+               irrelevant to the instructional goal. This chapter explores five
+               principles for reducing extraneous processing in multimedia
+               learning: coherence, signaling, redundancy, spatial contiguity,
+               and temporal contiguity. The coherence principle is that people
+               learn better when extraneous information is excluded from
+               multimedia lessons. The signaling principle is that people learn
+               better when cues are added to highlight the organization of the
+               essential information. The redundancy principle is that people
+               learn better when multimedia lessons include graphics and spoken
+               text rather than graphics, spoken text, and printed text. The
+               spatial contiguity principle is that people learn better when
+               words and corresponding graphics are physically integrated
+               rather than separated. The temporal contiguity principle is that
+               people learn better when words and corresponding graphics are
+               presented simultaneously rather than sequentially.",
+  publisher = "Cambridge University Press",
+  pages     = "185--198",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "extraneous processing; coherence principle; signaling principle;
+               redundancy principle; spatial contiguity principle; temporal
+               contiguity principle;3rd Edition \_ Cambridge Handbook of
+               Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.019"
+}
+
+@INCOLLECTION{Mayer2021-gm,
+  title     = "The Multimedia Principle",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Mayer, Richard E",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "The multimedia principle is that people learn better from words
+               and pictures than from words alone. For example, a multimedia
+               lesson consists of an animation depicting the steps in lightning
+               formation along with concurrent narration describing the steps
+               in the lightning formation, whereas a single-medium lesson
+               consists of narration alone. Based on research carried out by
+               myself and my colleagues, in 13 out of 13 tests, learners who
+               received text and illustrations or narration and animation (dual
+               representation group) performed better on transfer tests than
+               did learners who received text alone or narration alone (single
+               representation group), with a median effect size of d = 1.35.",
+  publisher = "Cambridge University Press",
+  pages     = "145--157",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "multimedia principle; verbal mental model; visual mental model;
+               lightning formation; transfer test; cognitive theory of
+               multimedia learning;3rd Edition \_ Cambridge Handbook of
+               Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.015"
+}
+
+@INCOLLECTION{Jarodzka2021-xu,
+  title     = "Research Methods in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Jarodzka, Halszka",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "This chapter describes diverse research methods to study
+               multimedia learning. In light of the wide range of methods to
+               study learning with multimedia and to stay in line with the
+               focus of this Handbook, I target experimental research where a
+               variation of multimedia design is tested against (at least) a
+               control design. Thus, I omit case studies, technical
+               developments, design-based research, etc. Moreover, I only take
+               into consideration research in which the main dependent measure
+               was some sort of learning outcome, such as performance,
+               retention, or transfer. In addition, I look into variables
+               mediating the way to this learning outcome. In this way I come
+               to the following structuring of measures: tests that a priori
+               capture characteristics of learners, measures that online trace
+               the process of learning, self-reports of how learners
+               experienced this learning, and learning outcome measures. For
+               each type of measure, I provide a description and concrete
+               examples of their use in multimedia research. Lastly, I explore
+               thus far, less-frequently used methods in multimedia research,
+               that have, however, the potential to shed new light on
+               multimedia learning.",
+  publisher = "Cambridge University Press",
+  pages     = "41--54",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "research methods; eye-tracking; learning outcome measures;
+               self-report measures; online trace measures; verbal reports;3rd
+               Edition \_ Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.006"
+}
+
+@INCOLLECTION{Azevedo2021-od,
+  title     = "Metacognition in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Azevedo, Roger and Dever, Daryn",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "Cognitive and metacognitive strategies are key to successful
+               learning with multimedia; however, research shows that learners
+               rarely use these strategies effectively and consequently fail to
+               develop a deep understanding of complex topics and domains.
+               Dynamically and accurately monitoring and regulating one's own
+               cognitive and metacognitive strategies is necessary to be a
+               successful learner but demands an enormous amount of effort. In
+               this chapter, we (1) define metacognitive strategies during
+               multimedia learning; (2) review recent empirical literature on
+               metacognitive strategies during multimedia learning; (3) present
+               a new model of multimedia learning ; (4) provide recommendations
+               for augmenting contemporary cognitive theories of multimedia
+               learning to account for metacognition; (5) propose
+               empirically-based principles for designing multimedia
+               environments aimed at fostering metacognitive strategies; and
+               finally (6) highlight directions for future research.",
+  publisher = "Cambridge University Press",
+  pages     = "132--142",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "cognitive strategies; metacognitive strategies; self-regulated
+               learning; metacognitive model of multimedia learning;
+               monitoring; regulating;3rd Edition \_ Cambridge Handbook of
+               Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.013"
+}
+
+@INCOLLECTION{Schnotz2021-aq,
+  title     = "Integrated Model of Text and Picture Comprehension",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Schnotz, Wolfgang",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "An integrated model of text and picture comprehension is
+               presented in this chapter which takes into account that learners
+               can use multiple sensory modalities combined with different
+               forms of representation. The model encompasses listening
+               comprehension, reading comprehension, visual picture
+               comprehension, and auditory picture comprehension (i.e., sound
+               comprehension). The model's cognitive architecture consists of
+               modality-specific sensory registers, working memory, and
+               long-term memory. Within this architecture, a distinction is
+               made between perception-bound processing of text surface or
+               picture surface structures, on the one hand, and cognitive
+               processing of semantic deep structures, on the other hand.",
+  publisher = "Cambridge University Press",
+  pages     = "82--99",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "integrated model of text and picture comprehension; sensory
+               modalities; forms of representation; descriptive cognitive
+               processing; depictive cognitive processing;3rd Edition \_
+               Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.010"
+}
+
+@INCOLLECTION{Ainsworth2021-ss,
+  title     = "The Multiple Representations Principle in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Ainsworth, Shaaron",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "In this chapter, I propose three distinct purposes of multiple
+               representations and suggest that these lead to different design
+               principles and learning activities. Multiple representations can
+               play a complementary role when learners exploit differences in
+               their form and content by switching between and selecting the
+               appropriate representation for the task at hand. Constraining
+               benefits are achieved when learners can profit from the support
+               of a familiar representation to understand a new and complex
+               representation. Finally, if learners abstract across multiple
+               representations, they can construct a deeper understanding of
+               the nature of the representations and the domain they represent.
+               This chapter updates a review of studies that have used multiple
+               representations for these purposes and identifies some of the
+               circumstances that influence the effectiveness of using multiple
+               representations in these ways.",
+  publisher = "Cambridge University Press",
+  pages     = "158--170",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "multiple representations; DeFT framework; complementary
+               functions; constraining functions; constructing functions;3rd
+               Edition \_ Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.016"
+}
+
+@INCOLLECTION{Kester2021-pq,
+  title     = "Implications of the Four Component Instructional Design Model
+               for Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Kester, Liesbeth and van Merri{\"e}nboer, Jeroen J G",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "The ongoing scientific and technological developments that
+               impact professional performance require professionals to keep
+               their competencies up-to-date which calls for complex learning.
+               Complex learning involves integrating knowledge, skills, and
+               attitudes; coordinating different constituent skills; and often
+               transferring what is learned in school or training settings to
+               daily life and work settings. It requires memory processes and
+               cognitive learning processes aimed at schema construction and
+               schema automation. In line with the 4C/ID model, we claim that
+               four components are necessary to realize complex learning: (1)
+               learning tasks, (2) supportive information, (3) procedural
+               information, and (4) part-task practice.",
+  publisher = "Cambridge University Press",
+  pages     = "100--120",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "4C/ID model; complex learning; learning tasks; supportive
+               information; procedural knowledge; part-task practice;3rd
+               Edition \_ Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.011"
+}
+
+@INCOLLECTION{Mayer2021-fs,
+  title     = "Cognitive Theory of Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Mayer, Richard E",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "A fundamental hypothesis underlying research on multimedia
+               learning is that multimedia instructional messages that are
+               designed in light of how the human mind works are more likely to
+               lead to meaningful learning than those that are not. The
+               cognitive theory of multimedia learning is based on three
+               cognitive science principles of learning: the human information
+               processing system includes dual channels for visual/pictorial
+               and auditory/verbal processing (i.e., dual channels assumption),
+               each channel has limited capacity for processing (i.e., limited
+               capacity assumption), and active learning entails carrying out a
+               coordinated set of cognitive processes during learning (i.e.,
+               active processing assumption).",
+  publisher = "Cambridge University Press",
+  pages     = "57--72",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "human information processing system; dual channels assumption;
+               limited capacity assumption; active processing assumption;
+               cognitive theory of multimedia learning;3rd Edition \_ Cambridge
+               Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.008"
+}
+
+@INCOLLECTION{Van_Gog2021-hs,
+  title     = "The Signaling (or Cueing) Principle in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "van Gog, Tamara",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "The signaling principle, also known as cueing principle, refers
+               to the finding that people learn more deeply from a multimedia
+               message when cues are added that guide attention to the relevant
+               elements of the material or highlight the organization of the
+               essential material. In this chapter, the main findings from
+               research on signaling or cueing in multimedia learning are
+               reviewed, addressing the effects of incorporating cues in the
+               text, the picture, or both. In addition, the design of cues
+               based on successful students' eye movements and the effects of
+               using experts' or students' eye movements as cues are discussed.
+               This chapter shows that various types of cueing can have
+               beneficial effects on learning and discusses potential boundary
+               conditions.",
+  publisher = "Cambridge University Press",
+  pages     = "221--230",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "signaling principle; cueing principle; eye movement modeling
+               examples; text-based cues; picture-based cues;3rd Edition \_
+               Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.022"
+}
+
+@INCOLLECTION{Mayer2021-ag,
+  title     = "Introduction to Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Mayer, Richard E and Fiorella, Logan",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "Multimedia learning is learning from words and pictures. The
+               rationale for studying multimedia learning is that people can
+               learn more deeply from words and pictures than from words alone.
+               A goal of research on multimedia learning is to understand how
+               to design multimedia learning environments that promote
+               meaningful learning. The research base concerning multimedia
+               learning is reflected in the 46 chapters of this Handbook, and
+               includes 30 design principles that we have organized into three
+               categories: principles based on reducing extraneous processing,
+               principles based on managing essential processing, and
+               principles based on fostering generative processing.",
+  publisher = "Cambridge University Press",
+  pages     = "3--16",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "multimedia design principles; meaningful learning;
+               learner-centered approach; generative processing; extraneous
+               processing; essential processing;3rd Edition \_ Cambridge
+               Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.003"
+}
+
+@INCOLLECTION{Camp2021-zn,
+  title     = "Foundations of Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Camp, Gino and Surma, Tim and Kirschner, Paul A",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "Mayer's Cognitive Theory of Multimedia Learning (CTML) specifies
+               on a cognitive level how learning from multimedia instructional
+               messages takes place and has produced many instructional
+               principles that can be used to strengthen learning from
+               multimedia. In this chapter, we explore the historical
+               foundations of the CTML in cognitive psychology and in the field
+               of instructional design. More specifically, we discuss three
+               foundational theories to which the CTML is related that provide
+               a strong theoretical and empirical basis for its cognitive and
+               instructional principles and processes. These theories are Alan
+               Baddeley and Graham Hitch's multistore model of memory, Allan
+               Paivio's dual coding theory, and John Sweller's theory of
+               cognitive load. We introduce these theories as they existed at
+               the time the development of the CTML started, and discuss how
+               they are connected to Mayer's CTML. In addition to discussing
+               the theoretical connections, we also discuss differences between
+               the foundational theories and the CTML and recent developments
+               in these theories.",
+  publisher = "Cambridge University Press",
+  pages     = "17--24",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "cognitive theory of multimedia learming; historical foundations;
+               multistore model of memory; dual coding theory; cognitive load
+               theory;3rd Edition \_ Cambridge Handbook of Multimedia Learning
+               [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.004"
+}
+
+@INCOLLECTION{Kalyuga2021-jq,
+  title     = "The Redundancy Principle in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Kalyuga, Slava and Sweller, John",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "The redundancy principle (or redundancy effect) suggests that
+               redundant material interferes with rather than facilitates
+               learning. Redundancy is broadly defined as any unnecessary
+               information including irrelevant information, the same
+               information presented concurrently in multiple forms or in
+               unnecessarily elaborated form. According to cognitive load
+               theory, processing redundant information with essential
+               information increases working memory load which may interfere
+               with learning. Eliminating such redundant information removes
+               the requirement to process unnecessary sources of information.
+               Accordingly, instructional designs that eliminate redundant
+               material can be superior to those that include redundancy. This
+               chapter summarizes research and theory concerned with the effect
+               of processing redundant information in multimedia learning, a
+               history of research in instructional redundancy, the conditions
+               of applicability of this principle, and its instructional
+               implications.",
+  publisher = "Cambridge University Press",
+  pages     = "212--220",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "redundancy principle; redundancy effect; cognitive load theory;
+               working memory load; extraneous cognitive load;3rd Edition \_
+               Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.021"
+}
+
+@INCOLLECTION{Paas2021-xn,
+  title     = "Implications of Cognitive Load Theory for Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Paas, Fred and Sweller, John",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "Human cognitive architecture indicates the manner in which
+               cognitive structures and processes are organized. In turn, that
+               architecture can be used to hypothesize the relative
+               effectiveness of alternative instructional designs. Over several
+               decades, cognitive load theory has simultaneously identified
+               those aspects of human cognition relevant to instructional
+               issues and tested the resultant hypotheses using randomized,
+               controlled experiments. The cognitive architecture used by
+               cognitive load theory has continually been developed and refined
+               over this period. Currently, that architecture is based on
+               evolutionary principles. This chapter outlines the cognitive
+               architecture used by cognitive load theory and provides a
+               general indicator of its relevance to instructional design
+               issues associated with multimedia instruction.",
+  publisher = "Cambridge University Press",
+  pages     = "73--81",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "evolutionary principles; cognitive load theory; human cognitive
+               architecture; biologically secondary knowledge; natural
+               selection;3rd Edition \_ Cambridge Handbook of Multimedia
+               Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.009"
+}
+
+@INCOLLECTION{Ayres2021-pu,
+  title     = "The {Split-Attention} Principle in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Ayres, Paul and Sweller, John",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "The split-attention principle states that when designing
+               instruction, including multimedia instruction, it is important
+               to avoid materials that require learners to split their
+               attention between multiple sources of information. Instead,
+               materials should be formatted so that disparate sources of
+               information are physically and temporally integrated, thus
+               obviating the need for learners to engage in mental integration.
+               By eliminating the need to mentally integrate multiple sources
+               of information, extraneous cognitive load is reduced, freeing
+               resources for learning (germane cognitive load). This chapter
+               provides the theoretical rationale, based on cognitive load
+               theory, for the split-attention principle, and describes the
+               major experiments that establish the validity of the principle,
+               identifies the conditions under which it is most likely to
+               occur, and indicates the instructional design implications when
+               dealing with multimedia materials.",
+  publisher = "Cambridge University Press",
+  pages     = "199--211",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "split-attention principle; extraneous cognitive load; germane
+               cognitive load; cognitive load theory; multiple sources;3rd
+               Edition \_ Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.020"
+}
+
+@INCOLLECTION{Feldon2021-hy,
+  title     = "Fifteen Common but Questionable Principles of Multimedia
+               Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Feldon, David F and Jeong, Soojeong and Clark, Richard E",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "The chapter begins with a quick summary and research update on
+               earlier lists of 10 questionable multimedia principles. We then
+               add five additional principles that have gained traction in
+               recent years. The updated 10 former questionable beliefs include
+               the unfulfilled expectations that multimedia instruction: (1)
+               yields more learning than live instruction or older media, (2)
+               is more motivating than other instructional media, (3) provides
+               animated pedagogical agents that aid learning, (4) accommodates
+               different learning styles and so maximizes learning for more
+               students; and also benefits learning by allowing and encouraging
+               (5) student managed constructivist and discovery approaches, (6)
+               autonomy and control over the sequencing of instruction, (7)
+               higher order thinking skills, (8) incidental learning of
+               enriching information, (9) interactivity, and (10) authentic
+               learning environments and activities.",
+  publisher = "Cambridge University Press",
+  pages     = "25--40",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "myths; questionnable principles; animated pedagogical agents;
+               learning styles; discovery approaches; virtual reality;3rd
+               Edition \_ Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.005"
 }
