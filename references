@@ -13614,6 +13614,97 @@
   doi       = "10.1017/CBO9781139547369.005"
 }
 
+@INCOLLECTION{Mayer2014-hs,
+  title     = "Preface",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  editor    = "Mayer, Richard E",
+  publisher = "Cambridge University Press",
+  pages     = "xi--xvi",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  2,
+  year      =  2014,
+  address   = "Cambridge",
+  keywords  = "CambridgeCore\_CitationExport\_6Nov2022.ris",
+  isbn      = "9781139547369",
+  doi       = "undefined"
+}
+
+@INCOLLECTION{Mayer2014-ve,
+  title     = "Copyright page",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  editor    = "Mayer, Richard E",
+  publisher = "Cambridge University Press",
+  pages     = "iv--iv",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  2,
+  year      =  2014,
+  address   = "Cambridge",
+  keywords  = "CambridgeCore\_CitationExport\_6Nov2022.ris",
+  isbn      = "9781139547369",
+  doi       = "undefined"
+}
+
+@INCOLLECTION{Mayer2014-ve,
+  title     = "The Cambridge Handbook of Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Mayer, Richard E",
+  editor    = "Mayer, Richard E",
+  publisher = "Cambridge University Press",
+  pages     = "iii--iii",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  2,
+  year      =  2014,
+  address   = "Cambridge",
+  keywords  = "CambridgeCore\_CitationExport\_6Nov2022.ris",
+  isbn      = "9781139547369",
+  doi       = "undefined"
+}
+
+@INCOLLECTION{Mayer2014-cg,
+  title     = "Contents",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  editor    = "Mayer, Richard E",
+  publisher = "Cambridge University Press",
+  pages     = "v--viii",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  2,
+  year      =  2014,
+  address   = "Cambridge",
+  keywords  = "CambridgeCore\_CitationExport\_6Nov2022.ris",
+  isbn      = "9781139547369",
+  doi       = "undefined"
+}
+
+@INCOLLECTION{Mayer2014-tj,
+  title     = "The Cambridge Handbook of Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  editor    = "Mayer, Richard E",
+  publisher = "Cambridge University Press",
+  pages     = "i--ii",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  2,
+  year      =  2014,
+  address   = "Cambridge",
+  keywords  = "CambridgeCore\_CitationExport\_6Nov2022.ris",
+  isbn      = "9781139547369",
+  doi       = "undefined"
+}
+
+@INCOLLECTION{Mayer2014-wu,
+  title     = "Acknowledgments",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  editor    = "Mayer, Richard E",
+  publisher = "Cambridge University Press",
+  pages     = "xvii--xviii",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  2,
+  year      =  2014,
+  address   = "Cambridge",
+  keywords  = "CambridgeCore\_CitationExport\_6Nov2022.ris",
+  isbn      = "9781139547369",
+  doi       = "undefined"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Radford2015-iy,
@@ -14598,4 +14689,861 @@
   keywords = "Digital Literacies;Information and Digital Literacies",
   issn     = "1531-7714",
   doi      = "10.7275/b0az-8t74"
+}
+
+@INCOLLECTION{Clark2014-gj,
+  title     = "Ten Common but Questionable Principles of Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Clark, Richard E and Feldon, David F",
+  editor    = "Mayer, Richard E",
+  abstract  = "This chapter outlines the cognitive architecture used by
+               cognitive load theory, and provides a general indicator of its
+               relevance to instructional design issues associated with
+               multimedia instruction. Cognitive load theory has been one of
+               the theories used to integrate our knowledge of human cognitive
+               structures and instructional design principles. It is concerned
+               with the elements of that theory and its general implications
+               for multimedia learning, specifically words presented in spoken
+               or written form along with pictures or diagrams. The chapter
+               considers categories of knowledge from an evolutionary
+               perspective, followed by an outline of those aspects of human
+               cognitive architecture relevant to instructional concerns, also
+               considered from an evolutionary perspective. The chapter
+               discusses three categories of cognitive load: intrinsic
+               cognitive load, extraneous cognitive load and germane cognitive
+               load. All categories of cognitive load are concerned with the
+               acquisition, storage and use of biologically secondary
+               information.",
+  publisher = "Cambridge University Press",
+  pages     = "151--173",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  2,
+  year      =  2014,
+  address   = "Cambridge",
+  keywords  = "multimedia learning; human cognitive structures; instructional
+               design principles; intrinsic cognitive load; germane cognitive
+               load; cognitive load theory; extraneous cognitive
+               load;CambridgeCore\_CitationExport\_6Nov2022.ris",
+  isbn      = "9781139547369",
+  doi       = "10.1017/CBO9781139547369.009"
+}
+
+@INCOLLECTION{Johnson2014-vy,
+  title     = "The Feedback Principle in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Johnson, Cheryl I and Priest, Heather A",
+  editor    = "Mayer, Richard E",
+  abstract  = "AbstractMultimedia learning environments require learners to
+               integrate information across different sources and modalities,
+               which can pose a challenge for some learners. Providing feedback
+               on student responses can be an effective method of guiding
+               learners to achieve a deep understanding of the material. The
+               feedback principle states that novice students learn better with
+               explanatory feedback than with corrective feedback alone.
+               Explanatory feedback provides the learner with a principle-based
+               explanation of why his or her answer was correct or incorrect,
+               whereas corrective feedback merely informs the learner that his
+               or her response was correct or incorrect. The theoretical
+               rationale is that explanatory feedback guides the learner in
+               selecting the appropriate information and consequently reduces
+               the amount of extraneous processing relative to providing only
+               corrective feedback. This chapter reviews evidence for the
+               feedback principle and explores some of the boundary conditions.",
+  publisher = "Cambridge University Press",
+  pages     = "449--463",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  2,
+  year      =  2014,
+  address   = "Cambridge",
+  keywords  = "CambridgeCore\_CitationExport\_6Nov2022.ris",
+  isbn      = "9781139547369",
+  doi       = "10.1017/CBO9781139547369.023"
+}
+
+@INCOLLECTION{Mayer2014-ye,
+  title     = "Theoretical Foundations",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  editor    = "Mayer, Richard E",
+  abstract  = "AbstractHuman cognitive architecture indicates the manner in
+               which cognitive structures and processes are organized. In turn,
+               that architecture can be used to hypothesize the relative
+               effectiveness of alternative instructional designs. Over several
+               decades, cognitive load theory has simultaneously identified
+               those aspects of human cognition relevant to instructional
+               issues and tested the resultant hypotheses using randomized,
+               controlled experiments. The cognitive architecture used by
+               cognitive load theory has continually been developed and refined
+               over this period. Currently, that architecture is based on
+               evolutionary principles. This chapter outlines the cognitive
+               architecture used by cognitive load theory and provides a
+               general indicator of its relevance to instructional design
+               issues associated with multimedia instruction.",
+  publisher = "Cambridge University Press",
+  pages     = "25--148",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  2,
+  year      =  2014,
+  address   = "Cambridge",
+  keywords  = "CambridgeCore\_CitationExport\_6Nov2022.ris",
+  isbn      = "9781139547369",
+  doi       = "undefined"
+}
+
+@INCOLLECTION{Ainsworth2014-qh,
+  title     = "The Multiple Representation Principle in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Ainsworth, Shaaron",
+  editor    = "Mayer, Richard E",
+  abstract  = "This chapter reviews the guided discovery principle, according
+               to which guidance should be given to students to ensure
+               effective learning during scientific discovery in multimedia
+               environments. At the heart of these environments often lies a
+               computer simulation that students can use to discover scientific
+               principles through experimentation. The chapter demonstrates the
+               need for and effectiveness of particular types of guidance:
+               process constraints, performance dashboard, prompts, heuristics,
+               scaffolds, and direct presentation of information. Recent
+               research findings that serve to exemplify this typology are
+               discussed. This typology serves as an important first step
+               toward the development of a cognitive theory of adaptive
+               guidance that can determine the appropriate differentiation of
+               instructional support based on the knowledge and skills of
+               individual students. The design of future studies should build
+               on the strengths of current research and avoid some of its
+               weaknesses.",
+  publisher = "Cambridge University Press",
+  pages     = "464--486",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  2,
+  year      =  2014,
+  address   = "Cambridge",
+  keywords  = "process constraints; performance dashboard; prompts; scaffolds;
+               scientific discovery learning; multimedia learning; cognitive
+               theory; guided discovery principle;
+               heuristics;CambridgeCore\_CitationExport\_6Nov2022.ris",
+  isbn      = "9781139547369",
+  doi       = "10.1017/CBO9781139547369.024"
+}
+
+@INCOLLECTION{Van_Gog2014-ra,
+  title     = "The Signaling (or Cueing) Principle in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "van Gog, Tamara",
+  editor    = "Mayer, Richard E",
+  abstract  = "This chapter is a cautionary description of 10 of the
+               questionable principles that have developed and seem to be
+               widely shared about multimedia learning. The updated
+               questionable beliefs include the expectations that multimedia
+               instruction: yields more learning than live instruction or older
+               media; is more motivating than other instructional media;
+               provides animated pedagogical agents that aid learning;
+               accommodates different learning styles and so maximizes learning
+               for more students; and facilitates student-managed
+               constructivist and discovery approaches that are beneficial to
+               learning. The more recent additions and the focus of this
+               discussion are expectations that multimedia instruction benefits
+               learning by providing autonomy and control over the sequencing
+               of instruction; higher-order thinking skills; incidental
+               learning of enriching information; interactivity; and an
+               authentic learning environment and activities. Finally,
+               multimedia is confounded with the content of instruction, such
+               as critical and higher-order thinking skills.",
+  publisher = "Cambridge University Press",
+  pages     = "263--278",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  2,
+  year      =  2014,
+  address   = "Cambridge",
+  keywords  = "pedagogical agents; multimedia learning; authentic learning
+               environment; autonomy; higher-order thinking
+               skills;CambridgeCore\_CitationExport\_6Nov2022.ris",
+  isbn      = "9781139547369",
+  doi       = "10.1017/CBO9781139547369.014"
+}
+
+@INCOLLECTION{Paas2014-kk,
+  title     = "Implications of Cognitive Load Theory for Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Paas, Fred and Sweller, John",
+  editor    = "Mayer, Richard E",
+  abstract  = "AbstractHuman cognitive architecture indicates the manner in
+               which cognitive structures and processes are organized. In turn,
+               that architecture can be used to hypothesize the relative
+               effectiveness of alternative instructional designs. Over several
+               decades, cognitive load theory has simultaneously identified
+               those aspects of human cognition relevant to instructional
+               issues and tested the resultant hypotheses using randomized,
+               controlled experiments. The cognitive architecture used by
+               cognitive load theory has continually been developed and refined
+               over this period. Currently, that architecture is based on
+               evolutionary principles. This chapter outlines the cognitive
+               architecture used by cognitive load theory and provides a
+               general indicator of its relevance to instructional design
+               issues associated with multimedia instruction.",
+  publisher = "Cambridge University Press",
+  pages     = "27--42",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  2,
+  year      =  2014,
+  address   = "Cambridge",
+  keywords  = "CambridgeCore\_CitationExport\_6Nov2022.ris",
+  isbn      = "9781139547369",
+  doi       = "10.1017/CBO9781139547369.004"
+}
+
+@INCOLLECTION{Mayer2014-ij,
+  title     = "Principles for Managing Essential Processing in Multimedia
+               Learning: Segmenting, Pre-training, and Modality Principles",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Mayer, Richard E and Pilegard, Celeste",
+  editor    = "Mayer, Richard E",
+  abstract  = "The split-attention principle states that in the design of
+               instruction, including multimedia instruction, it is important
+               to avoid materials that require learners to split their
+               attention between, and mentally integrate, multiple sources of
+               information. The sources of information should be both
+               physically and temporally integrated in order to reduce
+               unnecessary search for referents and so reduce extraneous
+               cognitive load. Whether sources of information are intelligible
+               in isolation, and whether the information is high in element
+               interactivity, depends not only on the instructional material,
+               but also on learner characteristics. Cognitive load theory,
+               which gave rise to the split-attention principle, which is based
+               on an understanding of human cognitive architecture, especially
+               the relations between working and long term memory, provides
+               theory-based and experimentally tested instructional guidelines.
+               Those guidelines that are associated with the split-attention
+               effect and that have been discussed in this chapter have the
+               potential to substantially improve multimedia instruction.",
+  publisher = "Cambridge University Press",
+  pages     = "316--344",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  2,
+  year      =  2014,
+  address   = "Cambridge",
+  keywords  = "working memory; split-attention principle; multimedia learning;
+               cognitive load theory; human cognitive architecture; long term
+               memory;CambridgeCore\_CitationExport\_6Nov2022.ris",
+  isbn      = "9781139547369",
+  doi       = "10.1017/CBO9781139547369.016"
+}
+
+@INCOLLECTION{Mayer2014-ky,
+  title     = "Introduction to Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Mayer, Richard E",
+  editor    = "Mayer, Richard E",
+  abstract  = "AbstractMultimedia learning is learning from words and pictures.
+               The rationale for studying multimedia learning is that people
+               can learn more deeply from words and pictures than from words
+               alone. A goal of research on multimedia learning is to
+               understand how to design multimedia learning environments that
+               promote meaningful learning. The research base concerning
+               multimedia learning is reflected in the 34 chapters of this
+               handbook. What is new in this second edition is a sharp increase
+               in the research base, the addition of seven new principles of
+               multimedia learning, a broadening of contexts for studying
+               multimedia learning, a better delineation of boundary conditions
+               for principles, and refinements of theories of multimedia
+               learning. The approach taken in this handbook is
+               learner-centered rather than technology-centered, views learning
+               as a constructive process rather than solely as a process of
+               adding new information to memory or strengthening associations,
+               seeks to foster meaningful learning rather than rote learning,
+               and favors appropriate cognitive activity during learning rather
+               than behavioral activity per se.",
+  publisher = "Cambridge University Press",
+  pages     = "1--24",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  2,
+  year      =  2014,
+  address   = "Cambridge",
+  keywords  = "CambridgeCore\_CitationExport\_6Nov2022.ris",
+  isbn      = "9781139547369",
+  doi       = "10.1017/CBO9781139547369.002"
+}
+
+@INCOLLECTION{Mayer2014-fg,
+  title     = "Principles for Reducing Extraneous Processing in Multimedia
+               Learning: Coherence, Signaling, Redundancy, Spatial Contiguity,
+               and Temporal Contiguity Principles",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Mayer, Richard E and Fiorella, Logan",
+  editor    = "Mayer, Richard E",
+  abstract  = "The term multimedia principle refers to the robust research
+               finding that learning with words and pictures is more effective
+               than learning with words alone. It should be noted that the
+               multimedia principle refers generally to the (positive) impact
+               of visual and verbal information on learning outcomes. However,
+               basic principles and advanced principles of multimedia learning
+               have been synthesized that provide a more nuanced approach to
+               understanding how multimedia materials can be formatted for
+               optimal impact and how learner strategies and processes can
+               combine with multimedia materials to determine learning
+               outcomes. That is, the multimedia principle provides a context
+               for work that examines when, how, why, and under what conditions
+               the multimedia principle applies. Research findings
+               demonstrating the multimedia principle are consistent with the
+               predictions of cognitive models of multimedia learning.
+               Implications for instructional design and directions for future
+               research are also discussed.",
+  publisher = "Cambridge University Press",
+  pages     = "279--315",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  2,
+  year      =  2014,
+  address   = "Cambridge",
+  keywords  = "visual information; multimedia materials; multimedia principle;
+               verbal information; multimedia learning; cognitive model;
+               instructional design;CambridgeCore\_CitationExport\_6Nov2022.ris",
+  isbn      = "9781139547369",
+  doi       = "10.1017/CBO9781139547369.015"
+}
+
+@INCOLLECTION{Mayer2014-xg,
+  title     = "Advanced Principles of Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  editor    = "Mayer, Richard E",
+  abstract  = "AbstractScientific discovery learning is a learning process in
+               which students acquire duce domain knowledge from self-conducted
+               investigations or examples. Even though finding things out on
+               your own can certainly be more motivating than reading a
+               textbook or attending a lecture, the discovery process calls
+               upon an integrated set of skills few students are found to
+               master. The effectiveness of scientific discovery learning
+               therefore depends to a large extent on the availability of
+               appropriate guidance. This chapter presents an overview of the
+               types of guidance typically found in contemporary scientific
+               discovery learning environments and considers their potential to
+               enhance learning processes and learning outcomes in light of
+               recent research findings. On the basis of this discussion,
+               possible directions for advancing the educational benefits of
+               scientific discovery learning are proposed.",
+  publisher = "Cambridge University Press",
+  pages     = "369--620",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  2,
+  year      =  2014,
+  address   = "Cambridge",
+  keywords  = "CambridgeCore\_CitationExport\_6Nov2022.ris",
+  isbn      = "9781139547369",
+  doi       = "undefined"
+}
+
+@INCOLLECTION{Butcher2014-cj,
+  title     = "The Multimedia Principle",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Butcher, Kirsten R",
+  editor    = "Mayer, Richard E",
+  abstract  = "Multimedia messages should be designed to facilitate multimedia
+               learning processes. This chapter first explores three
+               assumptions underlying a cognitive theory of multimedia
+               learning: dual-channel assumption, limited-capacity assumption
+               and active processing assumption. Three memory stores in the
+               cognitive theory of multimedia learning are: sensory memory,
+               working memory, long-term memory. For meaningful learning to
+               occur in a multimedia environment, the learner must engage in
+               five cognitive processes: selecting relevant words for
+               processing in verbal working memory, selecting relevant images
+               for processing in visual working memory, organizing selected
+               words into a verbal model, organizing selected images into a
+               pictorial model, and integrating the verbal and pictorial
+               representations with each other and with relevant prior
+               knowledge activated from long-term memory. The chapter also
+               explores three demands on cognitive capacity during multimedia
+               learning: extraneous processing, essential processing and
+               generative processing.",
+  publisher = "Cambridge University Press",
+  pages     = "174--205",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  2,
+  year      =  2014,
+  address   = "Cambridge",
+  keywords  = "long-term memory; multimedia message; sensory memory; multimedia
+               learning; working memory; generative processing; cognitive
+               theory; essential processing; extraneous
+               processing;CambridgeCore\_CitationExport\_6Nov2022.ris",
+  isbn      = "9781139547369",
+  doi       = "10.1017/CBO9781139547369.010"
+}
+
+@INCOLLECTION{Ayres2014-bl,
+  title     = "The {Split-Attention} Principle in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Ayres, Paul and Sweller, John",
+  editor    = "Mayer, Richard E",
+  abstract  = "This chapter presents an integrated model of text and picture
+               comprehension (ITPC model) that takes into account that learners
+               can use multiple sensory modalities combined with different
+               forms of representation. Multimedia learning can occur in
+               different forms. When learners understand texts and pictures,
+               they construct multiple mental representations in their
+               cognitive system. Research in cognitive psychology suggests that
+               the architecture of the human cognitive system includes multiple
+               memory systems. A common view proposed by Atkinson and Shiffrin
+               distinguishes three memory subsystems - sensory registers,
+               working memory, and long-term memory with different functions
+               and different constraints on processing texts and pictures. The
+               ITPC model of text and picture comprehension provides a
+               framework for the analysis of learning from multiple
+               representations including spoken or written text, visual
+               pictures, and sound pictures. Future research will clarify
+               whether the ITPC model is a useful tool for the analysis of
+               text-picture integration.",
+  publisher = "Cambridge University Press",
+  pages     = "206--226",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  2,
+  year      =  2014,
+  address   = "Cambridge",
+  keywords  = "multiple sensory modalities; working memory; sensory registers;
+               multimedia learning; cognitive system; integrated model of text
+               and picture comprehension; long-term
+               memory;CambridgeCore\_CitationExport\_6Nov2022.ris",
+  isbn      = "9781139547369",
+  doi       = "10.1017/CBO9781139547369.011"
+}
+
+@INCOLLECTION{Renkl2014-yd,
+  title     = "The Worked Examples Principle in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Renkl, Alexander",
+  editor    = "Mayer, Richard E",
+  abstract  = "Extraneous overload occurs when essential cognitive processing
+               (required to understand the essential material in a multimedia
+               message) and extraneous cognitive processing (required to
+               process extraneous material or to overcome confusing layout in a
+               multimedia message) exceed the learner's cognitive capacity.
+               According to the cognitive theory of multimedia learning, the
+               five ways to handle an extraneous overload situation are to:
+               eliminate extraneous material (coherence principle), insert
+               signals emphasizing the essential material (signaling
+               principle), eliminate redundant printed text (redundancy
+               principle), place printed text next to corresponding parts of
+               graphics (spatial contiguity principle), and eliminate the need
+               to hold essential material in working memory for long periods of
+               time (temporal contiguity principle). The research reviewed in
+               this chapter shows that instructional designers should be
+               sensitive to the limitations of working memory by being careful
+               about the amount and layout of information that is presented to
+               learners.",
+  publisher = "Cambridge University Press",
+  pages     = "391--412",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  2,
+  year      =  2014,
+  address   = "Cambridge",
+  keywords  = "signaling principle; instructional designers; multimedia
+               message; redundancy principle; spatial contiguity principle;
+               temporal contiguity principle; extraneous overload; cognitive
+               theory; coherence
+               principle;CambridgeCore\_CitationExport\_6Nov2022.ris",
+  isbn      = "9781139547369",
+  doi       = "10.1017/CBO9781139547369.020"
+}
+
+@INCOLLECTION{Wylie2014-ic,
+  title     = "The {Self-Explanation} Principle in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Wylie, Ruth and Chi, Michelene T H",
+  editor    = "Mayer, Richard E",
+  abstract  = "Essential overload occurs when the amount of essential cognitive
+               processing required by the multimedia instructional message
+               exceeds the learner's cognitive capacity. This chapter examines
+               the research evidence concerning three principles of multimedia
+               design aimed at minimizing the effects of essential overload:
+               the segmenting principle, the pre-training principle, and the
+               modality principle. According to the cognitive theory of
+               multimedia learning, the three ways to handle an essential
+               overload situation are to allow the learner to slow down the
+               pace of presentation (segmenting principle), provide the learner
+               with knowledge that reduces the need for cognitive processing of
+               the presentation (pre-training principle), or off-load some of
+               the visual information onto the auditory channel (modality
+               principle). The research reviewed in the chapter shows that
+               instructional designers should be sensitive to working memory
+               constraints when presenting a complex multimedia lesson.",
+  publisher = "Cambridge University Press",
+  pages     = "413--432",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  2,
+  year      =  2014,
+  address   = "Cambridge",
+  keywords  = "segmenting principle; modality principles; multimedia learning;
+               pre-training principle; instructional design; cognitive theory;
+               essential overload;CambridgeCore\_CitationExport\_6Nov2022.ris",
+  isbn      = "9781139547369",
+  doi       = "10.1017/CBO9781139547369.021"
+}
+
+@INCOLLECTION{Leutner2014-at,
+  title     = "The Generative Drawing Principle in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Leutner, Detlev and Schmeck, Annett",
+  editor    = "Mayer, Richard E",
+  abstract  = "This chapter examines the research evidence concerning four
+               principles of multimedia design that are based on social cues:
+               the personalization, voice, image, and embodiment principles.
+               The personalization principle is that people learn more deeply
+               when the words in a multimedia presentation are in
+               conversational style rather than formal style. The voice
+               principle is that people learn more deeply when the words in a
+               multimedia message are spoken in a human voice rather than in a
+               machine voice. The image principle is that people do not
+               necessarily learn more deeply from a multimedia presentation
+               when the speaker's image is on the screen rather than not on the
+               screen. The embodiment principle is that people learn more
+               deeply when on-screen agents display human like gesturing,
+               movement, eye contact, and facial expressions. The research
+               reviewed in the chapter shows that instructional designers
+               should be sensitive to social considerations as well as
+               cognitive considerations.",
+  publisher = "Cambridge University Press",
+  pages     = "433--448",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  2,
+  year      =  2014,
+  address   = "Cambridge",
+  keywords  = "personalization cues; multimedia presentation; social cues;
+               voice cues; instructional designers; embodiment cues; embodiment
+               principles; image
+               cues;CambridgeCore\_CitationExport\_6Nov2022.ris",
+  isbn      = "9781139547369",
+  doi       = "10.1017/CBO9781139547369.022"
+}
+
+@INCOLLECTION{De_Jong2014-ns,
+  title     = "The Guided Discovery Learning Principle in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "de Jong, Ton and Lazonder, Ard W",
+  editor    = "Mayer, Richard E",
+  abstract  = "The signaling principle, also known as the cueing principle,
+               refers to the finding that people learn more deeply from a
+               multimedia message when cues are added that guide attention to
+               the relevant elements of the material or highlight the
+               organization of the essential material. This chapter reviews the
+               main findings from research on signaling in multimedia learning
+               addressing the effects of incorporating cues into the text, the
+               picture, or both. Text-based cues can consist of sentences that
+               precede the learning materials and highlight their organization.
+               Picture-based cues can consist, for instance, of arrows in which
+               case they are extrinsic in the sense that an element is added to
+               the picture. The chapter considers the design of cues based on
+               eye movements and the effects of using eye movements as cues.
+               The signaling principle may have some relation to other
+               principles identified by the cognitive theory of multimedia
+               learning as well.",
+  publisher = "Cambridge University Press",
+  pages     = "371--390",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  2,
+  year      =  2014,
+  address   = "Cambridge",
+  keywords  = "visual cues; text-based cues; signaling principle; cognitive
+               theory; multimedia learning; picture-based
+               cues;CambridgeCore\_CitationExport\_6Nov2022.ris",
+  isbn      = "9781139547369",
+  doi       = "10.1017/CBO9781139547369.019"
+}
+
+@INCOLLECTION{Kalyuga2014-ag,
+  title     = "The Redundancy Principle in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Kalyuga, Slava and Sweller, John",
+  editor    = "Mayer, Richard E",
+  abstract  = "AbstractThe redundancy principle (or redundancy effect) suggests
+               that redundant material interferes with rather than facilitates
+               learning. Redundancy occurs when the same information is
+               presented concurrently in multiple forms or is unnecessarily
+               elaborated. According to cognitive load theory, coordinating
+               redundant information with essential information increases
+               working memory load, which may interfere with learning.
+               Eliminating such redundant information removes the requirement
+               to coordinate multiple sources of information. Accordingly,
+               instructional designs that eliminate redundant material can be
+               superior to those that include redundancy. This chapter
+               summarizes research and theory concerned with the effect of
+               processing redundant information in multimedia learning, a
+               history of research in instructional redundancy, the conditions
+               of applicability of this principle, and its instructional
+               implications.",
+  publisher = "Cambridge University Press",
+  pages     = "247--262",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  2,
+  year      =  2014,
+  address   = "Cambridge",
+  keywords  = "CambridgeCore\_CitationExport\_6Nov2022.ris",
+  isbn      = "9781139547369",
+  doi       = "10.1017/CBO9781139547369.013"
+}
+
+@INCOLLECTION{Mayer2014-pi,
+  title     = "Basic Principles of Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  editor    = "Mayer, Richard E",
+  abstract  = "AbstractThe chapter begins with a brief summary and extension of
+               our earlier list of 5 questionable multimedia principles (Clark
+               \& Feldon, ). We then add 5 more principles that have gained
+               traction in recent years. The goal of the chapter is to provide
+               evidence-based explanations of why each of the 10 principles is
+               problematic and to suggest alternative generalizations that are
+               more firmly based on evidence. The updated questionable beliefs
+               include the expectations that multimedia instruction: (1) yields
+               more learning than live instruction or older media; (2) is more
+               motivating than other instructional media; (3) provides animated
+               pedagogical agents that aid learning; (4) accommodates different
+               learning styles and so maximizes learning for more students; and
+               (5) facilitates student-managed constructivist and discovery
+               approaches that are beneficial to learning. The more recent
+               additions and the focus of this discussion are expectations that
+               multimedia instruction benefits learning by providing: (6)
+               autonomy and control over the sequencing of instruction; (7)
+               higher-order thinking skills; (8) incidental learning of
+               enriching information; (9) interactivity; and (10) an authentic
+               learning environment and activities.",
+  publisher = "Cambridge University Press",
+  pages     = "149--368",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  2,
+  year      =  2014,
+  address   = "Cambridge",
+  keywords  = "CambridgeCore\_CitationExport\_6Nov2022.ris",
+  isbn      = "9781139547369",
+  doi       = "undefined"
+}
+
+@INCOLLECTION{Van_Merrienboer2014-ba,
+  title     = "The {Four-Component} Instructional Design Model: Multimedia
+               Principles in Environments for Complex Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "van Merri{\"e}nboer, Jeroen J G and Kester, Liesbeth",
+  editor    = "Mayer, Richard E",
+  abstract  = "This introductory chapter provides a definition of multimedia
+               learning, offers a rationale for multimedia learning, outlines
+               the research base for multimedia learning, summarizes changes
+               since the first edition, and draws distinctions between the two
+               approaches to multimedia design, three metaphors of multimedia
+               learning, three kinds of multimedia learning outcomes, and two
+               kinds of active learning. Multimedia represents a potentially
+               powerful learning technology that is, a system for enhancing
+               human learning. A practical goal of research on multimedia is to
+               devise design principles for multimedia presentations. In
+               addressing this goal, it is useful to distinguish between two
+               approaches to multimedia design a technology-centered approach
+               and a learner-centered approach. Response, strengthening,
+               information acquisition, and knowledge construction are three
+               metaphors of multimedia learning. Research on learning shows
+               that meaningful learning depends on the learner's cognitive
+               activity during learning rather than on the learner's behavioral
+               activity during learning.",
+  publisher = "Cambridge University Press",
+  pages     = "104--148",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  2,
+  year      =  2014,
+  address   = "Cambridge",
+  keywords  = "technology-centered approaches; learner-centered approaches;
+               multimedia instruction; multimedia learning; knowledge
+               construction; active learning; information
+               acquisition;CambridgeCore\_CitationExport\_6Nov2022.ris",
+  isbn      = "9781139547369",
+  doi       = "10.1017/CBO9781139547369.007"
+}
+
+@INCOLLECTION{Mayer2014-vc,
+  title     = "Principles Based on Social Cues in Multimedia Learning:
+               Personalization, Voice, Image, and Embodiment Principles",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Mayer, Richard E",
+  editor    = "Mayer, Richard E",
+  abstract  = "The modality effect refers to a cognitive load learning effect
+               that occurs when a mixed-mode (partly visual and partly
+               auditory) presentation of information is more effective than a
+               single-mode (either visual or auditory alone) presentation of
+               the same information. For learning to occur, novel material must
+               be organised and incorporated into long-term memory via a
+               limited working memory. For instruction to be effective, it has
+               to be designed in ways in which the limitations of working
+               memory are overcome. As distraction and interference impose an
+               additional memory load, their impact on the limited working
+               memory system has to be taken into consideration in a multimedia
+               context where the different formats of words and pictures allow
+               for many possible ways of presenting information. The
+               instructional predictions that flow from the experimental work
+               on the modality effect are straightforward. From a practical
+               perspective, the modality effect provides guidelines for
+               effective instruction.",
+  publisher = "Cambridge University Press",
+  pages     = "345--368",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  2,
+  year      =  2014,
+  address   = "Cambridge",
+  keywords  = "working memory; multimedia learning; modality principle;
+               cognitive load; long-term memory; mixed-mode
+               presentation;CambridgeCore\_CitationExport\_6Nov2022.ris",
+  isbn      = "9781139547369",
+  doi       = "10.1017/CBO9781139547369.017"
+}
+
+@INCOLLECTION{Low2014-bi,
+  title     = "The Modality Principle in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Low, Renae and Sweller, John",
+  editor    = "Mayer, Richard E",
+  abstract  = "This chapter presents a theory that is positioned at the third
+               level, namely, the four-component instructional design model
+               (4C/ ID) model, and discusses how this theory can be used to
+               design multimedia learning environments for complex learning. It
+               presents a general description of how people learn complex
+               skills in environments that are built from the four components,
+               how instructional control can be organized in these
+               environments, and how different media can be used to implement
+               each component and instructional control. The relationship
+               between the four components and the assumed cognitive
+               architecture is explained. Educational media and 22 multimedia
+               principles are related to each of the four components and
+               instructional control. The chapter reviews the contributions of
+               the 4C/ID model to cognitive theory and instructional design,
+               indicating the limitations of the model, and sketching
+               directions for future research.",
+  publisher = "Cambridge University Press",
+  pages     = "227--246",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  2,
+  year      =  2014,
+  address   = "Cambridge",
+  keywords  = "instructional design; multimedia principles; multimedia
+               learning; four-component instructional design model; cognitive
+               architecture; cognitive theory; complex
+               learning;CambridgeCore\_CitationExport\_6Nov2022.ris",
+  isbn      = "9781139547369",
+  doi       = "10.1017/CBO9781139547369.012"
+}
+
+@INCOLLECTION{Mayer2014-uo,
+  title     = "Cognitive Theory of Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Mayer, Richard E",
+  editor    = "Mayer, Richard E",
+  abstract  = "AbstractA fundamental hypothesis underlying research on
+               multimedia learning is that multimedia instructional messages
+               that are designed in light of how the human mind works are more
+               likely to lead to meaningful learning than those that are not so
+               designed. The cognitive theory of multimedia learning is based
+               on three cognitive science principles of learning: the human
+               information processing system includes dual channels for
+               visual/pictorial and auditory/verbal processing (i.e.,
+               dual-channel assumption), each channel has a limited capacity
+               for processing (i.e., limited-capacity assumption), and active
+               learning entails carrying out a coordinated set of cognitive
+               processes during learning (i.e., active processing assumption).
+               The cognitive theory of multimedia learning specifies five
+               cognitive processes in multimedia learning: selecting relevant
+               words from the presented text or narration, selecting relevant
+               images from the presented graphics, organizing the selected
+               words into a coherent verbal representation, organizing selected
+               images into a coherent pictorial representation, and integrating
+               the pictorial and verbal representations and prior knowledge.
+               Three demands on the learner's cognitive capacity during
+               learning are extraneous processing (which is not related to the
+               instructional objective), essential processing (which is needed
+               to mentally represent the essential material as presented), and
+               generative processing (which is aimed at making sense of the
+               material). Three instructional goals are to reduce extraneous
+               processing (for extraneous overload situations), manage
+               essential processing (for essential overload situations), and
+               foster generative processing (for generative underuse
+               situations). Multimedia instructional messages should be
+               designed to guide appropriate cognitive processing during
+               learning without overloading the learner's cognitive system.",
+  publisher = "Cambridge University Press",
+  pages     = "43--71",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  2,
+  year      =  2014,
+  address   = "Cambridge",
+  keywords  = "CambridgeCore\_CitationExport\_6Nov2022.ris",
+  isbn      = "9781139547369",
+  doi       = "10.1017/CBO9781139547369.005"
+}
+
+@INCOLLECTION{Shaaron2014-xs,
+  title     = "Contributors",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Shaaron, Ainsworth and Paul, Ayres and Roger, Azevedo and
+               Benoit, Bediou and Anne, Britt and Butcher, Kirsten R and Fei,
+               Chen and Chi, Michelene T H and Clark, Richard E and Clark, Ruth
+               Colvin and Derry, Sharon J and Feldon, David F and Logan,
+               Fiorella and Fletcher, J D and Graesser, Arthur C and Mary,
+               Hegarty and Xiangen, H U and Jaeger, Allison J and Jeroen,
+               Janssen and Johnson, Cheryl I and De Jong, Ton and Slava,
+               Kalyuga and Liesbeth, Kester and Femke, Kirschner and Kirschner,
+               Paul A and Lajoie, Susanne P and Lazonder, Ard W and Detlev,
+               Leutner and Renae, Low and Lowe, Richard K and Mayer, Richard E
+               and Nye, Benjamin D and Fred, Paas and Celeste, Pilegard and
+               Plass, Jan L and Priest, Heather A and Alexander, Renkl and
+               Jean-Fran{\c C}ois, Rouet and Sanchez, Christopher A and
+               Katharina, Scheiter and Annett, Schmeck and Wolfgang, Schnotz
+               and Schwartz, Ruth N and Sherin, Bruce L and Sherin, Miriam
+               Gamoran and John, Sweller and Sigmund, Tobias and Van Gog,
+               Tamara and Van Merri{\"E}Nboer, Jeroen J G and Wiley, Jennifer
+               and Wind, Alexander P and Wylie, Ruth",
+  editor    = "Mayer, Richard E",
+  publisher = "Cambridge University Press",
+  pages     = "ix--x",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  2,
+  year      =  2014,
+  address   = "Cambridge",
+  keywords  = "CambridgeCore\_CitationExport\_6Nov2022.ris",
+  isbn      = "9781139547369",
+  doi       = "undefined"
+}
+
+@INCOLLECTION{Schnotz2014-jj,
+  title     = "Integrated Model of Text and Picture Comprehension",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Schnotz, Wolfgang",
+  editor    = "Mayer, Richard E",
+  abstract  = "AbstractThis chapter presents an integrated model of text and
+               picture comprehension that takes into account that learners can
+               use multiple sensory modalities combined with different forms of
+               representation. The model encompasses listening comprehension,
+               reading comprehension, visual picture comprehension, and
+               auditory picture comprehension (i.e., sound comprehension). The
+               model's cognitive architecture consists of modality-specific
+               sensory registers, working memory, and long-term memory. Within
+               this architecture, a distinction is made between
+               perception-bound processing of text surface or picture surface
+               structures, on the one hand, and cognitive processing of
+               semantic deep structures, on the other hand. The
+               perception-bound processing of text surface structures includes
+               phonological and graphemic input analyses with
+               graphemic--phonemic conversion, leading to lexical patterns. The
+               perception-based processing of picture surface structures
+               includes visual or acoustic nonverbal feature analyses, leading
+               to visuospatial patterns or sound patterns. The cognitive
+               processing includes descriptive processing of lexical patterns
+               (via parsing), which leads to propositional representations, and
+               depictive processing of spatial or sound patterns (via structure
+               mapping), which leads to mental models. Propositional
+               representations and mental models interact via model
+               construction and model inspection processes. After presenting
+               the integrated model of text and picture comprehension, the
+               chapter derives predictions, which can be empirically tested. It
+               reports research findings that can be explained by the model,
+               and it derives practical suggestions for instructional design.
+               Finally, the chapter discusses limitations of the model and
+               points out directions for further research.",
+  publisher = "Cambridge University Press",
+  pages     = "72--103",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  2,
+  year      =  2014,
+  address   = "Cambridge",
+  keywords  = "CambridgeCore\_CitationExport\_6Nov2022.ris",
+  isbn      = "9781139547369",
+  doi       = "10.1017/CBO9781139547369.006"
 }
