@@ -15869,6 +15869,15 @@
   keywords    = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
+@MISC{Alberto2022-nv,
+  title    = "Applying the Cognitive Theory of Multimedia Learning to
+              Educational Animations and Explainer Videos in {CME-CPD}",
+  author   = "Alberto, Jayzona",
+  month    =  oct,
+  year     =  2022,
+  location = "Stanford School of Medicine"
+}
+
 @INCOLLECTION{Field2009-kq,
   title     = "Chapter 9: ``Comparing two means''",
   booktitle = "Discovering Statistics Using {SPSS}",
