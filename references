@@ -13598,22 +13598,6 @@
   doi             = "10.1145/3131277.3132171"
 }
 
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@INCOLLECTION{Mayer2014-hi,
-  title     = "Cognitive Theory of Multimedia Learning",
-  booktitle = "The Cambridge Handbook of Multimedia Learning",
-  author    = "Mayer, Richard E",
-  abstract  = "The Cambridge Handbook of Multimedia Learning - July 2014",
-  publisher = "Cambridge University Press",
-  pages     = "43--71",
-  month     =  jul,
-  year      =  2014,
-  keywords  = "Research Methods;§New Literature;Cambridge Handbook of
-               Multimedia Learning, The",
-  doi       = "10.1017/CBO9781139547369.005"
-}
-
 @INCOLLECTION{Mayer2014-hs,
   title     = "Preface",
   booktitle = "The Cambridge Handbook of Multimedia Learning",
@@ -13624,7 +13608,7 @@
   edition   =  2,
   year      =  2014,
   address   = "Cambridge",
-  keywords  = "CambridgeCore\_CitationExport\_6Nov2022.ris",
+  keywords  = "Cambridge Handbook Citation Import [full book]",
   isbn      = "9781139547369",
   doi       = "undefined"
 }
@@ -13639,7 +13623,7 @@
   edition   =  2,
   year      =  2014,
   address   = "Cambridge",
-  keywords  = "CambridgeCore\_CitationExport\_6Nov2022.ris",
+  keywords  = "Cambridge Handbook Citation Import [full book]",
   isbn      = "9781139547369",
   doi       = "undefined"
 }
@@ -13655,7 +13639,7 @@
   edition   =  2,
   year      =  2014,
   address   = "Cambridge",
-  keywords  = "CambridgeCore\_CitationExport\_6Nov2022.ris",
+  keywords  = "Cambridge Handbook Citation Import [full book]",
   isbn      = "9781139547369",
   doi       = "undefined"
 }
@@ -13670,7 +13654,7 @@
   edition   =  2,
   year      =  2014,
   address   = "Cambridge",
-  keywords  = "CambridgeCore\_CitationExport\_6Nov2022.ris",
+  keywords  = "Cambridge Handbook Citation Import [full book]",
   isbn      = "9781139547369",
   doi       = "undefined"
 }
@@ -13685,7 +13669,7 @@
   edition   =  2,
   year      =  2014,
   address   = "Cambridge",
-  keywords  = "CambridgeCore\_CitationExport\_6Nov2022.ris",
+  keywords  = "Cambridge Handbook Citation Import [full book]",
   isbn      = "9781139547369",
   doi       = "undefined"
 }
@@ -13700,7 +13684,7 @@
   edition   =  2,
   year      =  2014,
   address   = "Cambridge",
-  keywords  = "CambridgeCore\_CitationExport\_6Nov2022.ris",
+  keywords  = "Cambridge Handbook Citation Import [full book]",
   isbn      = "9781139547369",
   doi       = "undefined"
 }
@@ -14722,8 +14706,8 @@
   address   = "Cambridge",
   keywords  = "multimedia learning; human cognitive structures; instructional
                design principles; intrinsic cognitive load; germane cognitive
-               load; cognitive load theory; extraneous cognitive
-               load;CambridgeCore\_CitationExport\_6Nov2022.ris",
+               load; cognitive load theory; extraneous cognitive load;Cambridge
+               Handbook Citation Import [full book]",
   isbn      = "9781139547369",
   doi       = "10.1017/CBO9781139547369.009"
 }
@@ -14755,7 +14739,7 @@
   edition   =  2,
   year      =  2014,
   address   = "Cambridge",
-  keywords  = "CambridgeCore\_CitationExport\_6Nov2022.ris",
+  keywords  = "Cambridge Handbook Citation Import [full book]",
   isbn      = "9781139547369",
   doi       = "10.1017/CBO9781139547369.023"
 }
@@ -14784,7 +14768,7 @@
   edition   =  2,
   year      =  2014,
   address   = "Cambridge",
-  keywords  = "CambridgeCore\_CitationExport\_6Nov2022.ris",
+  keywords  = "Cambridge Handbook Citation Import [full book]",
   isbn      = "9781139547369",
   doi       = "undefined"
 }
@@ -14819,8 +14803,8 @@
   address   = "Cambridge",
   keywords  = "process constraints; performance dashboard; prompts; scaffolds;
                scientific discovery learning; multimedia learning; cognitive
-               theory; guided discovery principle;
-               heuristics;CambridgeCore\_CitationExport\_6Nov2022.ris",
+               theory; guided discovery principle; heuristics;Cambridge
+               Handbook Citation Import [full book]",
   isbn      = "9781139547369",
   doi       = "10.1017/CBO9781139547369.024"
 }
@@ -14855,8 +14839,8 @@
   year      =  2014,
   address   = "Cambridge",
   keywords  = "pedagogical agents; multimedia learning; authentic learning
-               environment; autonomy; higher-order thinking
-               skills;CambridgeCore\_CitationExport\_6Nov2022.ris",
+               environment; autonomy; higher-order thinking skills;Cambridge
+               Handbook Citation Import [full book]",
   isbn      = "9781139547369",
   doi       = "10.1017/CBO9781139547369.014"
 }
@@ -14886,7 +14870,7 @@
   edition   =  2,
   year      =  2014,
   address   = "Cambridge",
-  keywords  = "CambridgeCore\_CitationExport\_6Nov2022.ris",
+  keywords  = "Cambridge Handbook Citation Import [full book]",
   isbn      = "9781139547369",
   doi       = "10.1017/CBO9781139547369.004"
 }
@@ -14923,7 +14907,7 @@
   address   = "Cambridge",
   keywords  = "working memory; split-attention principle; multimedia learning;
                cognitive load theory; human cognitive architecture; long term
-               memory;CambridgeCore\_CitationExport\_6Nov2022.ris",
+               memory;Cambridge Handbook Citation Import [full book]",
   isbn      = "9781139547369",
   doi       = "10.1017/CBO9781139547369.016"
 }
@@ -14958,7 +14942,7 @@
   edition   =  2,
   year      =  2014,
   address   = "Cambridge",
-  keywords  = "CambridgeCore\_CitationExport\_6Nov2022.ris",
+  keywords  = "Cambridge Handbook Citation Import [full book]",
   isbn      = "9781139547369",
   doi       = "10.1017/CBO9781139547369.002"
 }
@@ -14995,7 +14979,8 @@
   address   = "Cambridge",
   keywords  = "visual information; multimedia materials; multimedia principle;
                verbal information; multimedia learning; cognitive model;
-               instructional design;CambridgeCore\_CitationExport\_6Nov2022.ris",
+               instructional design;Cambridge Handbook Citation Import [full
+               book]",
   isbn      = "9781139547369",
   doi       = "10.1017/CBO9781139547369.015"
 }
@@ -15025,7 +15010,7 @@
   edition   =  2,
   year      =  2014,
   address   = "Cambridge",
-  keywords  = "CambridgeCore\_CitationExport\_6Nov2022.ris",
+  keywords  = "Cambridge Handbook Citation Import [full book]",
   isbn      = "9781139547369",
   doi       = "undefined"
 }
@@ -15061,8 +15046,8 @@
   address   = "Cambridge",
   keywords  = "long-term memory; multimedia message; sensory memory; multimedia
                learning; working memory; generative processing; cognitive
-               theory; essential processing; extraneous
-               processing;CambridgeCore\_CitationExport\_6Nov2022.ris",
+               theory; essential processing; extraneous processing;Cambridge
+               Handbook Citation Import [full book]",
   isbn      = "9781139547369",
   doi       = "10.1017/CBO9781139547369.010"
 }
@@ -15098,8 +15083,8 @@
   address   = "Cambridge",
   keywords  = "multiple sensory modalities; working memory; sensory registers;
                multimedia learning; cognitive system; integrated model of text
-               and picture comprehension; long-term
-               memory;CambridgeCore\_CitationExport\_6Nov2022.ris",
+               and picture comprehension; long-term memory;Cambridge Handbook
+               Citation Import [full book]",
   isbn      = "9781139547369",
   doi       = "10.1017/CBO9781139547369.011"
 }
@@ -15136,8 +15121,8 @@
   keywords  = "signaling principle; instructional designers; multimedia
                message; redundancy principle; spatial contiguity principle;
                temporal contiguity principle; extraneous overload; cognitive
-               theory; coherence
-               principle;CambridgeCore\_CitationExport\_6Nov2022.ris",
+               theory; coherence principle;Cambridge Handbook Citation Import
+               [full book]",
   isbn      = "9781139547369",
   doi       = "10.1017/CBO9781139547369.020"
 }
@@ -15171,7 +15156,8 @@
   address   = "Cambridge",
   keywords  = "segmenting principle; modality principles; multimedia learning;
                pre-training principle; instructional design; cognitive theory;
-               essential overload;CambridgeCore\_CitationExport\_6Nov2022.ris",
+               essential overload;Cambridge Handbook Citation Import [full
+               book]",
   isbn      = "9781139547369",
   doi       = "10.1017/CBO9781139547369.021"
 }
@@ -15206,8 +15192,8 @@
   address   = "Cambridge",
   keywords  = "personalization cues; multimedia presentation; social cues;
                voice cues; instructional designers; embodiment cues; embodiment
-               principles; image
-               cues;CambridgeCore\_CitationExport\_6Nov2022.ris",
+               principles; image cues;Cambridge Handbook Citation Import [full
+               book]",
   isbn      = "9781139547369",
   doi       = "10.1017/CBO9781139547369.022"
 }
@@ -15240,8 +15226,8 @@
   year      =  2014,
   address   = "Cambridge",
   keywords  = "visual cues; text-based cues; signaling principle; cognitive
-               theory; multimedia learning; picture-based
-               cues;CambridgeCore\_CitationExport\_6Nov2022.ris",
+               theory; multimedia learning; picture-based cues;Cambridge
+               Handbook Citation Import [full book]",
   isbn      = "9781139547369",
   doi       = "10.1017/CBO9781139547369.019"
 }
@@ -15273,7 +15259,7 @@
   edition   =  2,
   year      =  2014,
   address   = "Cambridge",
-  keywords  = "CambridgeCore\_CitationExport\_6Nov2022.ris",
+  keywords  = "Cambridge Handbook Citation Import [full book]",
   isbn      = "9781139547369",
   doi       = "10.1017/CBO9781139547369.013"
 }
@@ -15308,7 +15294,7 @@
   edition   =  2,
   year      =  2014,
   address   = "Cambridge",
-  keywords  = "CambridgeCore\_CitationExport\_6Nov2022.ris",
+  keywords  = "Cambridge Handbook Citation Import [full book]",
   isbn      = "9781139547369",
   doi       = "undefined"
 }
@@ -15345,8 +15331,8 @@
   address   = "Cambridge",
   keywords  = "technology-centered approaches; learner-centered approaches;
                multimedia instruction; multimedia learning; knowledge
-               construction; active learning; information
-               acquisition;CambridgeCore\_CitationExport\_6Nov2022.ris",
+               construction; active learning; information acquisition;Cambridge
+               Handbook Citation Import [full book]",
   isbn      = "9781139547369",
   doi       = "10.1017/CBO9781139547369.007"
 }
@@ -15382,7 +15368,7 @@
   address   = "Cambridge",
   keywords  = "working memory; multimedia learning; modality principle;
                cognitive load; long-term memory; mixed-mode
-               presentation;CambridgeCore\_CitationExport\_6Nov2022.ris",
+               presentation;Cambridge Handbook Citation Import [full book]",
   isbn      = "9781139547369",
   doi       = "10.1017/CBO9781139547369.017"
 }
@@ -15416,8 +15402,8 @@
   address   = "Cambridge",
   keywords  = "instructional design; multimedia principles; multimedia
                learning; four-component instructional design model; cognitive
-               architecture; cognitive theory; complex
-               learning;CambridgeCore\_CitationExport\_6Nov2022.ris",
+               architecture; cognitive theory; complex learning;Cambridge
+               Handbook Citation Import [full book]",
   isbn      = "9781139547369",
   doi       = "10.1017/CBO9781139547369.012"
 }
@@ -15464,7 +15450,7 @@
   edition   =  2,
   year      =  2014,
   address   = "Cambridge",
-  keywords  = "CambridgeCore\_CitationExport\_6Nov2022.ris",
+  keywords  = "Cambridge Handbook Citation Import [full book]",
   isbn      = "9781139547369",
   doi       = "10.1017/CBO9781139547369.005"
 }
@@ -15497,7 +15483,7 @@
   edition   =  2,
   year      =  2014,
   address   = "Cambridge",
-  keywords  = "CambridgeCore\_CitationExport\_6Nov2022.ris",
+  keywords  = "Cambridge Handbook Citation Import [full book]",
   isbn      = "9781139547369",
   doi       = "undefined"
 }
@@ -15543,7 +15529,7 @@
   edition   =  2,
   year      =  2014,
   address   = "Cambridge",
-  keywords  = "CambridgeCore\_CitationExport\_6Nov2022.ris",
+  keywords  = "Cambridge Handbook Citation Import [full book]",
   isbn      = "9781139547369",
   doi       = "10.1017/CBO9781139547369.006"
 }
