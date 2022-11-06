@@ -3394,7 +3394,7 @@
   year      =  2021,
   address   = "Cambridge",
   keywords  = "Multimedia;3rd Edition [2021] \_ Cambridge Handbook of
-               Multimedia Learning, The;Part I - Background",
+               Multimedia Learning, The;Part I - Background;Multimedia [read]",
   isbn      = "9781108841580",
   doi       = "10.1017/9781108894333.002"
 }
@@ -3425,7 +3425,7 @@
                learner-centered approach; generative processing; extraneous
                processing; essential processing;Multimedia;3rd Edition [2021]
                \_ Cambridge Handbook of Multimedia Learning, The;Part I -
-               Background",
+               Background;Multimedia [read]",
   isbn      = "9781108841580",
   doi       = "10.1017/9781108894333.003"
 }
@@ -3497,7 +3497,7 @@
   keywords  = "myths; questionnable principles; animated pedagogical agents;
                learning styles; discovery approaches; virtual
                reality;Multimedia;3rd Edition [2021] \_ Cambridge Handbook of
-               Multimedia Learning, The;Part I - Background",
+               Multimedia Learning, The;Part I - Background;Multimedia [read]",
   isbn      = "9781108841580",
   doi       = "10.1017/9781108894333.005"
 }
@@ -3536,7 +3536,7 @@
   keywords  = "research methods; eye-tracking; learning outcome measures;
                self-report measures; online trace measures; verbal
                reports;Multimedia;3rd Edition [2021] \_ Cambridge Handbook of
-               Multimedia Learning, The;Part I - Background",
+               Multimedia Learning, The;Part I - Background;Multimedia [read]",
   isbn      = "9781108841580",
   doi       = "10.1017/9781108894333.006"
 }
@@ -3552,7 +3552,8 @@
   year      =  2021,
   address   = "Cambridge",
   keywords  = "Multimedia;3rd Edition [2021] \_ Cambridge Handbook of
-               Multimedia Learning, The;Part II - Theoretical Foundations",
+               Multimedia Learning, The;Part II - Theoretical
+               Foundations;Multimedia [read]",
   isbn      = "9781108841580",
   doi       = "10.1017/9781108894333.007"
 }
@@ -3584,7 +3585,7 @@
                limited capacity assumption; active processing assumption;
                cognitive theory of multimedia learning;Multimedia;3rd Edition
                [2021] \_ Cambridge Handbook of Multimedia Learning, The;Part II
-               - Theoretical Foundations",
+               - Theoretical Foundations;Multimedia [read]",
   isbn      = "9781108841580",
   doi       = "10.1017/9781108894333.008"
 }
@@ -3617,7 +3618,8 @@
   keywords  = "evolutionary principles; cognitive load theory; human cognitive
                architecture; biologically secondary knowledge; natural
                selection;Multimedia;3rd Edition [2021] \_ Cambridge Handbook of
-               Multimedia Learning, The;Part II - Theoretical Foundations",
+               Multimedia Learning, The;Part II - Theoretical
+               Foundations;Multimedia [read]",
   isbn      = "9781108841580",
   doi       = "10.1017/9781108894333.009"
 }
@@ -3746,7 +3748,7 @@
                learning; metacognitive model of multimedia learning;
                monitoring; regulating;Multimedia;3rd Edition [2021] \_
                Cambridge Handbook of Multimedia Learning, The;Part II -
-               Theoretical Foundations",
+               Theoretical Foundations;Multimedia [read]",
   isbn      = "9781108841580",
   doi       = "10.1017/9781108894333.013"
 }
@@ -3793,7 +3795,7 @@
                lightning formation; transfer test; cognitive theory of
                multimedia learning;Multimedia;3rd Edition [2021] \_ Cambridge
                Handbook of Multimedia Learning, The;Part III - Basic Principles
-               of Multimedia Learning",
+               of Multimedia Learning;Multimedia [read]",
   isbn      = "9781108841580",
   doi       = "10.1017/9781108894333.015"
 }
@@ -4058,7 +4060,7 @@
                incorrect worked examples; extraneous processing; generative
                processing;Multimedia;3rd Edition [2021] \_ Cambridge Handbook
                of Multimedia Learning, The;Part IV - Principles for Reducing
-               Extraneous Processing in Multimedia Learning",
+               Extraneous Processing in Multimedia Learning;Multimedia [read]",
   isbn      = "9781108841580",
   doi       = "10.1017/9781108894333.023"
 }
@@ -4145,7 +4147,7 @@
                split-attention effect; cognitive load theory;Multimedia;3rd
                Edition [2021] \_ Cambridge Handbook of Multimedia Learning,
                The;Part V - Principles for Managing Essential Processing in
-               Multimedia Learning",
+               Multimedia Learning;Multimedia [read]",
   isbn      = "9781108841580",
   doi       = "10.1017/9781108894333.026"
 }
@@ -4180,7 +4182,7 @@
                information; video; written information; static
                graphics;Multimedia;3rd Edition [2021] \_ Cambridge Handbook of
                Multimedia Learning, The;Part V - Principles for Managing
-               Essential Processing in Multimedia Learning",
+               Essential Processing in Multimedia Learning;Multimedia [read]",
   isbn      = "9781108841580",
   doi       = "10.1017/9781108894333.027"
 }
@@ -4267,7 +4269,7 @@
                manipulatives; embodied visualizations;Multimedia;3rd Edition
                [2021] \_ Cambridge Handbook of Multimedia Learning, The;Part VI
                - Principles Based on Social and Affective Features of
-               Multimedia Learning",
+               Multimedia Learning;Multimedia [read]",
   isbn      = "9781108841580",
   doi       = "10.1017/9781108894333.030"
 }
@@ -4305,7 +4307,7 @@
                reality; presence; immersion;Multimedia;3rd Edition [2021] \_
                Cambridge Handbook of Multimedia Learning, The;Part VI -
                Principles Based on Social and Affective Features of Multimedia
-               Learning",
+               Learning;Multimedia [read]",
   isbn      = "9781108841580",
   doi       = "10.1017/9781108894333.031"
 }
@@ -4796,7 +4798,7 @@
   keywords  = "cognitive tutors; artificial intelligence; learning-by-doing;
                deliberate practice;Multimedia;3rd Edition [2021] \_ Cambridge
                Handbook of Multimedia Learning, The;Part VIII - Multimedia
-               Learning with Media",
+               Learning with Media;Multimedia [read]",
   isbn      = "9781108841580",
   doi       = "10.1017/9781108894333.046"
 }
@@ -4968,7 +4970,7 @@
                comparison research; augmented virtuality;\_XR/MR;§New
                Literature;Multimedia;3rd Edition [2021] \_ Cambridge Handbook
                of Multimedia Learning, The;Part VIII - Multimedia Learning with
-               Media",
+               Media;Multimedia [read]",
   isbn      = "9781108841580",
   doi       = "10.1017/9781108894333.051"
 }
@@ -5005,7 +5007,7 @@
   keywords  = "visual display; graphic organizers; inferences; extraneous
                processing; generative processing;Multimedia;3rd Edition [2021]
                \_ Cambridge Handbook of Multimedia Learning, The;Part VIII -
-               Multimedia Learning with Media",
+               Multimedia Learning with Media;Multimedia [read]",
   isbn      = "9781108841580",
   doi       = "10.1017/9781108894333.052"
 }
@@ -5109,7 +5111,7 @@
   keywords  = "multimedia principle in testing; assessment; testing;
                computer-based assessments; multimedia testing;Multimedia;3rd
                Edition [2021] \_ Cambridge Handbook of Multimedia Learning,
-               The;Part VIII - Multimedia Learning with Media",
+               The;Part VIII - Multimedia Learning with Media;Multimedia [read]",
   isbn      = "9781108841580",
   doi       = "10.1017/9781108894333.055"
 }
@@ -5299,7 +5301,8 @@
   pages     = "785--797",
   month     =  aug,
   year      =  2018,
-  keywords  = "§New Literature;\_XR/MR;+Readwise;+Notion;Multimedia",
+  keywords  = "§New Literature;\_XR/MR;+Readwise;+Notion;Multimedia;Multimedia
+               [read]",
   language  = "en",
   issn      = "0022-0663, 1939-2176",
   doi       = "10.1037/edu0000241"
