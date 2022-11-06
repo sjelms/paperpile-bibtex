@@ -14543,3 +14543,33 @@
   keywords = "Research Methods;§New Literature",
   language = "en"
 }
+
+@ARTICLE{Boote2005-kh,
+  title     = "Scholars Before Researchers: On the Centrality of the
+               Dissertation Literature Review in Research Preparation",
+  author    = "Boote, David N and Beile, Penny",
+  abstract  = "A thorough, sophisticated literature review is the foundation
+               and inspiration for substantial, useful research. The complex
+               nature of education research demands such thorough,
+               sophisticated reviews. Although doctoral education is a key
+               means for improving education research, the literature has given
+               short shrift to the dissertation literature review. This article
+               suggests criteria to evaluate the quality of dissertation
+               literature reviews and reports a study that examined
+               dissertations at three universities. Acquiring the skills and
+               knowledge required to be education scholars, able to analyze and
+               synthesize the research in a field of specialization, should be
+               the focal, integrative activity of predissertation doctoral
+               education. Such scholarship is a prerequisite for increased
+               methodological sophistication and for improving the usefulness
+               of education research.",
+  journal   = "Educ. Res.",
+  publisher = "American Educational Research Association",
+  volume    =  34,
+  number    =  6,
+  pages     = "3--15",
+  month     =  aug,
+  year      =  2005,
+  issn      = "0013-189X",
+  doi       = "10.3102/0013189X034006003"
+}
