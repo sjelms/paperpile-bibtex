@@ -17622,6 +17622,8 @@
   doi       = "10.1017/9781108894333.033"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Lajoie2021-yr,
   title     = "Multimedia Learning with Simulations",
   booktitle = "The Cambridge Handbook of Multimedia Learning",
@@ -17645,9 +17647,9 @@
   year      =  2021,
   address   = "Cambridge",
   keywords  = "simulations; deliberate practice; fidelity; immersive
-               multimedia; animation; role-play simulations;3rd Edition [2021]
-               \_ Cambridge Handbook of Multimedia Learning, The;Part VIII -
-               Multimedia Learning with Media",
+               multimedia; animation; role-play simulations;§New Literature;3rd
+               Edition [2021] \_ Cambridge Handbook of Multimedia Learning,
+               The;Part VIII - Multimedia Learning with Media",
   isbn      = "9781108841580",
   doi       = "10.1017/9781108894333.048"
 }
