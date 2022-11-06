@@ -14211,6 +14211,37 @@
   doi       = "undefined"
 }
 
+@INCOLLECTION{Fiorella2021-sa,
+  title     = "Multimedia Learning with Media",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  publisher = "Cambridge University Press",
+  pages     = "437--565",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "3rd Edition \_ Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.045"
+}
+
+@INCOLLECTION{Fiorella2021-bk,
+  title     = "Principles for Managing Essential Processing in Multimedia
+               Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  publisher = "Cambridge University Press",
+  pages     = "241--274",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "3rd Edition \_ Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.024"
+}
+
 @INCOLLECTION{Fiorella2021-jw,
   title     = "Copyright page",
   booktitle = "The Cambridge Handbook of Multimedia Learning",
@@ -14254,6 +14285,36 @@
   keywords  = "3rd Edition \_ Cambridge Handbook of Multimedia Learning [2021]",
   isbn      = "9781108841580",
   doi       = "undefined"
+}
+
+@INCOLLECTION{Fiorella2021-fo,
+  title     = "Subject Index",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  publisher = "Cambridge University Press",
+  pages     = "583--608",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "3rd Edition \_ Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.057"
+}
+
+@INCOLLECTION{Fiorella2021-hh,
+  title     = "Author Index",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  publisher = "Cambridge University Press",
+  pages     = "566--582",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "3rd Edition \_ Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.056"
 }
 
 @INCOLLECTION{Fiorella2021-vv,
@@ -14316,6 +14377,21 @@
   doi       = "undefined"
 }
 
+@INCOLLECTION{Fiorella2021-sf,
+  title     = "Principles Based on Generative Activity in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  publisher = "Cambridge University Press",
+  pages     = "337--436",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "3rd Edition \_ Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.035"
+}
+
 @INCOLLECTION{Fiorella2021-tc,
   title     = "Tables",
   booktitle = "The Cambridge Handbook of Multimedia Learning",
@@ -14360,6 +14436,22 @@
   keywords  = "3rd Edition \_ Cambridge Handbook of Multimedia Learning [2021]",
   isbn      = "9781108841580",
   doi       = "10.1017/9781108894333.002"
+}
+
+@INCOLLECTION{Fiorella2021-zi,
+  title     = "Principles Based on Social and Affective Features of Multimedia
+               Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  publisher = "Cambridge University Press",
+  pages     = "275--336",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "3rd Edition \_ Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.028"
 }
 
 @INCOLLECTION{Fiorella2021-rf,
@@ -16968,4 +17060,981 @@
                Edition \_ Cambridge Handbook of Multimedia Learning [2021]",
   isbn      = "9781108841580",
   doi       = "10.1017/9781108894333.005"
+}
+
+@INCOLLECTION{Fiorella2021-jr,
+  title     = "Multimedia Learning with Instructional Video",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Fiorella, Logan",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "Video is one of the most popular ways to deliver instruction,
+               yet researchers are only beginning to understand how to design
+               effective video lessons. This chapter explores: (a) how to
+               present the learning material (multimedia design), (b) how to
+               present the instructor (instructor presence), and (c) how to
+               foster student engagement (generative activity). The empirical
+               evidence suggests videos are most effective when they adhere to
+               basic multimedia design principles (e.g., coherence, redundancy,
+               or segmenting), when they are sensitive to the benefits and
+               boundaries of specific instructor presence features (e.g., the
+               instructor's face, eyes, and hands), and when they explicitly
+               prompt learners to retrieve and make sense of the learning
+               material (e.g., practice testing or self-explaining). Future
+               research is needed to specify boundary conditions and apply
+               video design principles to more authentic educational contexts.",
+  publisher = "Cambridge University Press",
+  pages     = "487--497",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "instructional video; video lessons; multimedia design;
+               instructor presence; generative activities; drawing;3rd Edition
+               \_ Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.050"
+}
+
+@INCOLLECTION{Plass2021-fz,
+  title     = "The Emotional Design Principle in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Plass, Jan L and Hovey, Chris",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "Emotional Design is the deliberate use of design elements of
+               learning materials to induce an emotional state in the learner
+               that leads to increased learning outcomes. This emotion
+               induction should not add significantly to the cognitive demands
+               placed on the learner, which is best achieved by using existing
+               design elements rather than adding new elements. In this
+               chapter, we summarize research on the effect of emotion-inducing
+               features of a multimedia lesson on memory, cognition, and
+               learning, provide empirical evidence for the emotional design
+               principle, and discuss design features that have been shown to
+               induce emotion. We will also differentiate emotional design from
+               other emotion induction methods that increase processing demands
+               on the learner by adding seductive details or that take place
+               outside of the learning materials in the form of priming.",
+  publisher = "Cambridge University Press",
+  pages     = "324--336",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "emotional design principle; emotional design; emotion; seductive
+               details; integrated cognitive-affective model of learning with
+               multimedia;3rd Edition \_ Cambridge Handbook of Multimedia
+               Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.034"
+}
+
+@INCOLLECTION{Koedinger2021-gx,
+  title     = "Multimedia Learning with Cognitive Tutors",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Koedinger, Kenneth and Aleven, Vincent",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "Cognitive Tutors are effective AI-based learning environments.
+               The following statement summarizes three core instructional
+               features from past summaries of deliberate practice (shown in
+               italics) along with three elaborations (shown in bold): Good
+               learning-by-doing instruction requires repeated practice on
+               well-tailored tasks in varied contexts with explanatoryfeedback
+               and as-needed instruction. This chapter describes these six
+               learning-by-doing principles and how they are achieved in
+               Cognitive Tutors. We correct some key misconceptions about
+               cognitive tutors, including that knowledge component (KC)
+               decomposition does not exclude, but includes conceptual
+               connections, teachers are not replaced but valued, and
+               up-front-telling is not the instructional focus whereas
+               learning-by-doing guidance is. We also point to a need for more
+               experimentation on the benefits of as-needed versus up-front
+               instruction, better integration of supports for enhancing
+               student motivation, and better pathways for teachers to
+               participate in co-design (during the inevitable need for
+               Learning Engineering beyond Learning Science) and customization.",
+  publisher = "Cambridge University Press",
+  pages     = "439--449",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "cognitive tutors; artificial intelligence; learning-by-doing;
+               deliberate practice;3rd Edition \_ Cambridge Handbook of
+               Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.046"
+}
+
+@INCOLLECTION{Leutner2021-no,
+  title     = "The Drawing Principle in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Leutner, Detlev and Schmeck, Annett",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "This chapter discusses the drawing principle in multimedia
+               learning. It proposes that asking students to create drawings
+               while reading text causes generative processing that leads to
+               better learning outcomes. In drawing, students have to translate
+               the verbal text information into a picture that represents
+               spatial relationships among functional elements referred to in
+               the text. Asking students to draw a picture of the text content
+               as they read encourages them to actively engage in deep
+               cognitive and metacognitive processing and thus fosters deep
+               understanding of the material to be learned. The drawing
+               principle has been supported by many studies, especially when
+               students engage in drawing using paper and pencil. An important
+               logistical issue is to create a form of drawing activity that
+               minimizes extraneous cognitive processing by providing
+               appropriate support for drawing.",
+  publisher = "Cambridge University Press",
+  pages     = "360--369",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "drawing principle; generative processing; extraneous cognitive
+               processing; generative theory of drawing construction; drawing
+               support;3rd Edition \_ Cambridge Handbook of Multimedia Learning
+               [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.038"
+}
+
+@INCOLLECTION{Renkl2021-dj,
+  title     = "The Worked Example Principle in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Renkl, Alexander",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "This chapter outlines the tight connections between multimedia
+               learning and worked examples in that worked examples can make
+               multimedia learning more effective, and applying instructional
+               multimedia guidelines makes learning from worked examples more
+               effective. The to-be-expected effect sizes when using worked
+               examples are discussed, and the theoretical rationale of the
+               worked-example effect is explained (e.g., example study replaces
+               unproductive learning by problem-solving). In addition, a set of
+               instructional guidelines for optimizing learning from worked
+               examples is derived from findings on factors that moderate the
+               worked-example effect, such as fading worked steps or including
+               incorrectly worked examples. Furthermore, the theoretical
+               implications of the general pattern of findings on worked
+               examples are discussed (e.g., with respect to the role of
+               generative learning or extraneous processing). Finally,
+               important questions to be addressed in further research are
+               proposed.",
+  publisher = "Cambridge University Press",
+  pages     = "231--240",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "worked-example principle; worked-example effect; fading;
+               incorrect worked examples; extraneous processing; generative
+               processing;3rd Edition \_ Cambridge Handbook of Multimedia
+               Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.023"
+}
+
+@INCOLLECTION{Castro-Alonso2021-xw,
+  title     = "The Modality Principle in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Castro-Alonso, Juan Cristobal and Sweller, John",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "When dealing with instructional information, working memory can
+               be divided into auditory and visual processors. The capacity
+               limits of each processor are a major impediment when students
+               are required to learn new material. Nevertheless, there is one
+               strategy that can effectively expand working memory capacity by
+               using the partially independent status of the auditory and
+               visual processors. Under specific and well-defined conditions,
+               presenting some information in visual mode and other information
+               in auditory mode can increase effective working memory capacity
+               and so reduce the effects of cognitive overload. This effect is
+               called the instructional modality effect or modality principle.
+               It is an instructional principle that can substantially increase
+               learning. This chapter discusses the theory and data that
+               underpin the principle and the instructional implications that
+               flow from the principle.",
+  publisher = "Cambridge University Press",
+  pages     = "261--267",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "modality principle; auditiory processor; visual processor;
+               split-attention effect; cognitive load theory;3rd Edition \_
+               Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.026"
+}
+
+@INCOLLECTION{Fiorella2021-sn,
+  title     = "The Embodiment Principle in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Fiorella, Logan",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "According to the embodiment principle, students learn better
+               when they engage in task-relevant sensorimotor experiences
+               during learning, such as gesturing or manipulating objects.
+               Students may benefit from enacting movements themselves and/or
+               observing them performed by others. Embodied instruction
+               supports learning by offloading thinking to the physical world
+               (i.e., reduced cognitive load) and by drawing analogies between
+               abstract concepts and meaningful actions (i.e., increased
+               generative processing). Prior research has identified a wide
+               range of promising embodiment methods -- using gestures to
+               represent math concepts or to trace important elements of
+               diagrams; manipulating concrete (or virtual) objects to
+               understand stories, math concepts, molecular structures, or
+               physics principles; and designing visualizations that present
+               lessons from the learner's perspective.",
+  publisher = "Cambridge University Press",
+  pages     = "286--295",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "embodiment principle; gesturing; enacting; finger tracing;
+               manipulatives; embodied visualizations;3rd Edition \_ Cambridge
+               Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.030"
+}
+
+@INCOLLECTION{Wang2021-np,
+  title     = "Multimedia Learning with Animated Pedagogical Agents",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Wang, Fuxing and Li, Wenjing and Zhao, Tingting",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "A pedagogical agent (PA) is a computerized humanlike onscreen
+               image whose purpose is to guide the learner's attention and
+               facilitate learning. In this chapter, the main findings from
+               research on pedagogical agents are reviewed and a meta-analysis
+               is used to reveal the specific role of PAs on learning outcomes,
+               yielding an effect size of g = .45 on transfer performance and g
+               = .23 on retention performance. We also examine explanations for
+               why PAs could have a positive effect on learning performance
+               based on social agency theory, the embodiment principle, and the
+               signaling principle. In addition, this chapter summarizes the
+               main moderating variables for the effect of PAs, including
+               characteristics of the learner such as the learner's prior
+               knowledge, characteristics of the learning environment such as
+               the subject matter, and characteristics of the PA such as voice
+               and gesture.",
+  publisher = "Cambridge University Press",
+  pages     = "450--460",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "pedagogical agent; onscreen agent; social agency theory;
+               embodiment principle; signaling principle; gesture;3rd Edition
+               \_ Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.047"
+}
+
+@INCOLLECTION{Leopold2021-bl,
+  title     = "The Imagination Principle in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Leopold, Claudia",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "Mental imagery is a generative learning strategy that encourages
+               students to construct a mental representation -- a mental image
+               -- of the content of a text. Mental images are valuable tools
+               for thinking and learning because they provide a framework for
+               remembering, organizing, and elaborating text information. The
+               research base indicates that mental imagery strategies
+               facilitate not only recall, but also comprehension and transfer
+               performance. An important boundary condition is that students
+               need to receive appropriate instructional support for imagining.
+               Instructional support has been found to consistently improve
+               learning performance across outcome measures for children and
+               adults. Types of support range from training students on how to
+               imagine text content to providing specific instructions on what
+               to imagine, or offering additional material like external
+               pictures.",
+  publisher = "Cambridge University Press",
+  pages     = "370--380",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "imagination principle; generative learning strategy; mental
+               imagery; instructional support for imagining;3rd Edition \_
+               Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.039"
+}
+
+@INCOLLECTION{Mayer2021-jv,
+  title     = "Principles for Managing Essential Processing in Multimedia
+               Learning: Segmenting, Pre-training, and Modality Principles*",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Mayer, Richard E and Fiorella, Logan",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "When a multimedia lesson containing complicated material is
+               presented at a fast pace, the result can be a form of cognitive
+               overload called essential overload. Three multimedia design
+               methods intended to minimize essential overload are the
+               segmenting, pre-training, and modality principles. The
+               segmenting principle is that people learn more deeply when a
+               multimedia message is presented in learner-paced segments rather
+               than as a continuous unit. The pre-training principle is that
+               people learn more deeply from a multimedia message when they
+               know the names and characteristics of the main concepts. The
+               modality principle is that people learn more deeply from a
+               multimedia message when the words are spoken rather than
+               printed.",
+  publisher = "Cambridge University Press",
+  pages     = "243--260",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "essential processing; essential overload; segmentng principle;
+               pre-training principle; modality principle;3rd Edition \_
+               Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.025"
+}
+
+@INCOLLECTION{Chi2021-fz,
+  title     = "The {Self-Explanation} Principle in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Chi, Michelene T H",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "This chapter briefly describes what the self-explanation
+               principle is, in terms of self-explaining as a generative
+               activity to enhance learning, the utterances of
+               self-explanations, and the cognitive processes of
+               self-explaining. It expands on inferring, the key underlying
+               process of self-explaining, and contrasts inferring in the
+               context of self-explaining while learning from inferring in the
+               context of reading comprehension. Self-explaining is shown to
+               play a central role in multimedia learning, analogous to
+               learning from multiple sources in a single medium, such as
+               multiple texts. This chapter introduces the ICAP theory of
+               active learning and uses it to provide a coherent framework to
+               interpret the multitude of studies of self-explanation.",
+  publisher = "Cambridge University Press",
+  pages     = "381--393",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "self-explanation principle; generative learning activity; ICAP
+               theory; active learning;3rd Edition \_ Cambridge Handbook of
+               Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.040"
+}
+
+@INCOLLECTION{Fiorella2021-bw,
+  title     = "The Generative Activity Principle in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Fiorella, Logan and Mayer, Richard E",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "Generative learning involves actively making sense of the
+               learning material by engaging in activities for organizing the
+               material and integrating it with one's existing knowledge. This
+               chapter explores activities that support generative learning
+               from multimedia lessons: verbalizing, visualizing, and enacting.
+               Verbalizing activities involve generating words to distill key
+               ideas (learning by summarizing) or make inferences to clarify
+               the meaning of the material for oneself (learning by
+               self-explaining) or for others (learning by teaching).
+               Visualizing activities involve generating external visuospatial
+               representations that depict physical structures (learning by
+               drawing) or abstract relationships (learning by mapping), or
+               internal mental images that depict the content of the lesson
+               (learning by imagining). Enacting activities involve generating
+               movements such as hand gestures (learning by gesturing) or
+               object manipulations (learning by manipulating) to map abstract
+               concepts onto meaningful actions.",
+  publisher = "Cambridge University Press",
+  pages     = "339--350",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "generative learning activities; verbalizing activities;
+               visualizing activities; enacting activities; generative activity
+               principle;3rd Edition \_ Cambridge Handbook of Multimedia
+               Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.036"
+}
+
+@INCOLLECTION{Jiang2021-ps,
+  title     = "The Transient Information Principle in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Jiang, Dayu and Sweller, John",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "Instructional information can be categorised as being either
+               transient or permanent. Spoken information or videos provide
+               examples of transient information, while written information or
+               static graphics provide examples of permanent information. The
+               major characteristic of transient information is that current
+               information, once presented, disappears to be replaced by new
+               information, with the old information difficult to access.
+               Permanent information, once presented, remains available and
+               accessible for the duration of the instructional episode. The
+               transient information effect or principle can be demonstrated
+               when the same information is presented in either transient form
+               such as speech or permanent form such as identical, written
+               text. The effect occurs when learning is facilitated by the
+               permanent version of the information. Cognitive load theory can
+               be used to explain such results.",
+  publisher = "Cambridge University Press",
+  pages     = "268--274",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "transient information principle; cognitive load theory; spoken
+               information; video; written information; static graphics;3rd
+               Edition \_ Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.027"
+}
+
+@INCOLLECTION{Parong2021-uo,
+  title     = "Multimedia Learning in Virtual and Mixed Reality",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Parong, Jocelyn",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "This chapter reviews media comparison research on the effects of
+               various immersive technologies, including virtual reality and
+               two types of mixed reality, augmented reality and augmented
+               virtuality, on learning outcomes, as well as some boundary
+               conditions for these effects. In sum, previous meta-analyses
+               report that low immersion virtual reality (d = .22--.41) and low
+               immersion augmented reality (d = .46--.68) improve learning
+               outcomes compared to other instructional media, with
+               small-to-medium-sized effects. However, high immersion virtual
+               reality (median d = .10) and high immersion augmented reality
+               (median d = .16) are less promising. Research on augmented
+               virtuality is sparse, but shows positive effects on learning
+               (median d = .45) based on a few studies. Theoretical
+               implications of these immersive technologies regarding cognitive
+               frameworks, as well as their practical implications on the
+               future of technology in the classroom, are discussed.",
+  publisher = "Cambridge University Press",
+  pages     = "498--509",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "virtual reality; augmented reality; mixed reality; media
+               comparison research; augmented virtuality;3rd Edition \_
+               Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.051"
+}
+
+@INCOLLECTION{Lowe2021-wb,
+  title     = "The Animation Composition Principle in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Lowe, Richard K and Schnotz, Wolfgang and Boucheix, Jean-Michel",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "Research has shown that animated graphics are not the
+               educational magic bullet that many expected them to be. They are
+               neither necessarily superior to static graphics nor
+               intrinsically effective in their own right. The Animation
+               Composition Principle characterizes learning from animation as a
+               hierarchical relation-building process by which mental models of
+               the depicted subject matter are progressively and cumulatively
+               constructed from discrete information primitives. It helps
+               explain the limited success of previous attempts to improve
+               animation's effectiveness that took no account of their
+               fundamental design. By giving due consideration to both
+               perceptual and cognitive aspects of animation processing, the
+               Animation Processing Model that embodies this Principle opens
+               the door to novel, more effective compositional design options.
+               These compositional animations significantly improve learning
+               outcomes.",
+  publisher = "Cambridge University Press",
+  pages     = "313--323",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "animation; animation composition principle; animation processing
+               model; compositional animations;3rd Edition \_ Cambridge
+               Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.033"
+}
+
+@INCOLLECTION{Lajoie2021-yr,
+  title     = "Multimedia Learning with Simulations",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Lajoie, Susanne P",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "There has been an explosion in the uses of multimedia and their
+               various platforms. The proliferation of different types of
+               technology inclusion in education has become even greater due to
+               the increased need for remote platforms for education globally.
+               My focus in this paper is on providing a definition of
+               multimedia learning with simulations. There are many types of
+               simulations and this chapter presents a framework for
+               understanding this diversity. In particular, I discuss the
+               multimedia principles that inform the design of simulations
+               along with research evidence of how simulations support
+               learning. Future directions for this research are discussed.",
+  publisher = "Cambridge University Press",
+  pages     = "461--471",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "simulations; deliberate practice; fidelity; immersive
+               multimedia; animation; role-play simulations;3rd Edition \_
+               Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.048"
+}
+
+@INCOLLECTION{Johnson2021-pi,
+  title     = "The Feedback Principle in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Johnson, Cheryl I and Marraffino, Matthew D",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "Feedback is widely considered an effective instructional
+               technique that improves learning outcomes across a variety of
+               multimedia learning environments, including interactive lessons,
+               educational games, and simulations. The effectiveness of
+               feedback depends on a number of factors, and in this chapter we
+               focus on the content of the feedback message and compare
+               corrective and explanatory feedback. Corrective feedback informs
+               learners whether they were right or wrong, and explanatory
+               feedback provides learners with an explanation for why their
+               response was correct or incorrect. The feedback principle states
+               that novices learn better with explanatory feedback than
+               corrective feedback alone. In this chapter, we present evidence
+               concerning the feedback principle, discuss boundary conditions
+               that can limit its effectiveness, and explore adaptive training
+               as an approach to mitigate some of these boundary conditions.",
+  publisher = "Cambridge University Press",
+  pages     = "403--417",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "feedback principle; corrective feedback; explanatory feedback;
+               cognitive theory of multimedia learning;3rd Edition \_ Cambridge
+               Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.042"
+}
+
+@INCOLLECTION{De_Jong2021-jw,
+  title     = "The Guided Inquiry Principle in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "de Jong, Ton",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "Inquiry learning puts students in an active and engaged learning
+               mode. In inquiry learning, students try to find answers to
+               research questions by performing investigations (in the case of
+               science learning the investigations most often involve
+               experiments). To be successful in inquiry learning, students
+               need adequate initial knowledge of the domain involved and they
+               need to be supported in their inquiry processes. Experimental
+               work and data from PISA have indicated that guided inquiry can
+               be an effective teaching strategy. This chapter presents an
+               overview of the types of guidance typically found in online
+               inquiry learning environments. Specifically, this chapter
+               suggests the need for effective combinations of online and
+               offline activities, such as combinations of hands-on and virtual
+               laboratory experiences, and the use of teacher dashboards that
+               inform teachers about the status of their students' inquiry
+               process, so that appropriate guidance can be provided.",
+  publisher = "Cambridge University Press",
+  pages     = "394--402",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "inquiry learning; guided inquiry principle; active learning;
+               engaged learning; online laboratories;3rd Edition \_ Cambridge
+               Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.041"
+}
+
+@INCOLLECTION{Scheiter2021-gk,
+  title     = "The Learner Control Principle in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Scheiter, Katharina",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "The learner control principle is that giving learners control
+               over their instruction by allowing them to pace, sequence, and
+               select information aids learning if learners possess high levels
+               of prior knowledge and if they receive additional instructional
+               support to orient themselves in the learning environment and to
+               self-regulate their learning. Learner control has been suggested
+               to afford an active, constructive processing of instruction, to
+               increase and sustain the motivation to learn, to enhance the
+               acquisition of self-regulatory skills, and to enable learners to
+               adapt instruction to their preferences and needs. Despite these
+               envisioned benefits, there is little empirical evidence
+               supporting these claims, which is largely because these benefits
+               are overwritten by the additional cognitive and metacognitive
+               demands learner control imposes.",
+  publisher = "Cambridge University Press",
+  pages     = "418--429",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "learner control principle; cognitive flexibility theory;
+               hypermedia; expertise reversal effect; prior knowledge;3rd
+               Edition \_ Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.043"
+}
+
+@INCOLLECTION{Mayer2021-ge,
+  title     = "Multimedia Learning with Computer Games",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Mayer, Richard E",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "Computer games for learning use multimedia elements such as
+               animation and spoken or printed text to foster learning of
+               academic skills or knowledge. Research on game-based learning
+               can be categorized into three research genres: value added
+               research, cognitive consequences research, and media comparison
+               research. Value added research seeks to determine which game
+               features promote learning. Cognitive consequences research seeks
+               to determine whether students learn anything useful playing an
+               off-the-shelf game. Media comparison research seeks to determine
+               whether students learn better from computer games than from
+               conventional media. Future research is needed that adds
+               replication studies to the research base, determines moderating
+               and mediating factors, examines how to implement games in
+               learning contexts and how to balance motivational and cognitive
+               features in games, and provides practical recommendations.",
+  publisher = "Cambridge University Press",
+  pages     = "472--486",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "computer games; video games; educational games; value-added
+               research; cognitive consequences research; media comparison
+               research;3rd Edition \_ Cambridge Handbook of Multimedia
+               Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.049"
+}
+
+@INCOLLECTION{Adesope2021-kh,
+  title     = "The Mapping Principle in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Adesope, Olusola O and Nesbit, John C and Sundararajan,
+               Narayankripa",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "This chapter discusses the mapping and collaborative mapping
+               principles in multimedia learning. The mapping principle states
+               that people learn more deeply from verbal information when they
+               translate and integrate the information into a combined verbal
+               and visuospatial format. The collaborative mapping principle is
+               an extension of the mapping principle and states that people
+               learn more deeply from cognitively demanding verbal information
+               when they interact with others to jointly translate and
+               integrate the information into a combined verbal and
+               visuospatial format. In addition to describing the process of
+               concept mapping, when it can be used, and the theoretical
+               rationale for the two principles, the chapter systematically
+               reviews the landscape of research findings for individual and
+               collaborative concept mapping. Individual and collaborative
+               concept mapping are both effective compared with other learning
+               methods, yielding moderate and large statistically detectable
+               weighted mean effect sizes, respectively.",
+  publisher = "Cambridge University Press",
+  pages     = "351--359",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "mapping principle; collaborative mapping principle; concept
+               mapping; generative learning; collaborative learning;3rd Edition
+               \_ Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.037"
+}
+
+@INCOLLECTION{Janssen2021-yq,
+  title     = "The Collaboration Principle in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Janssen, Jeroen and Kirschner, Femke and Kirschner, Paul A",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "The collaboration principle in multimedia learning states that
+               collaborative learning is most effective when the distribution
+               advantage learners experience during collaborative learning
+               (i.e., the cognitive benefit learners experience from being able
+               to share the burden of information processing with team members)
+               is larger than the transaction costs learners also experience
+               (i.e., the cognitive demands placed on individual learners due
+               to the need to communicate, coordinate, and regulate their
+               actions). The design of multimedia environments may affect the
+               outcomes of collaborative learning in a positive way, for
+               example, by increasing the distribution advantage of learners by
+               offering tools that facilitate sharing of information, or by
+               lowering the transaction costs of collaboration by offering
+               tools for effective communication.",
+  publisher = "Cambridge University Press",
+  pages     = "304--312",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "collaboration principle; distribution advantage; transaction
+               costs; collaborative cognitive load theory; collective working
+               memory; mutual cognitive interdependence;3rd Edition \_
+               Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.032"
+}
+
+@INCOLLECTION{McCrudden2021-vd,
+  title     = "Multimedia Learning with Visual Displays",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "McCrudden, Matthew T and Van Meter, Peggy N",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "A visual display is a graphic representation of information
+               communicated to learners. In this chapter, we review
+               research-based principles for the design of visual displays. We
+               begin by providing an overview of visual displays and presenting
+               the case for visual displays in education. This chapter also
+               describes a theoretical framework for understanding how people
+               learn with visual displays and reviews research-based principles
+               for designing visual displays to improve learning. Specifically,
+               we identify three common forms of extraneous processing (induced
+               via spatial distance, unimportant information, and referential
+               confusion) and how to reduce them using research-based
+               principles (spatial contiguity principle, coherence principle,
+               and signaling principle). In addition, we discuss ways to
+               promote generative processing and how different types of graphic
+               organizers (sequence, hierarchy, matrix) can support different
+               types of inferences (temporal, hierarchical, relational). We
+               conclude with a discussion of future directions for research on
+               visual displays.",
+  publisher = "Cambridge University Press",
+  pages     = "510--520",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "visual display; graphic organizers; inferences; extraneous
+               processing; generative processing;3rd Edition \_ Cambridge
+               Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.052"
+}
+
+@INCOLLECTION{Fiorella2021-gx,
+  title     = "Principles Based on Social Cues in Multimedia Learning:
+               Personalization, Voice, Image, and Embodiment Principles",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Fiorella, Logan and Mayer, Richard E",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "Social cues can create a sense of partnership between learners
+               and the instructor, which then motivates learners to engage in
+               generative processing. The personalization principle is that
+               people learn better when multimedia lessons are presented in a
+               conversational or polite style, rather than a formal or direct
+               style. The voice principle is that people learn better when
+               multimedia lessons are presented in a human voice rather than
+               computer-generated voice. The image principle is that people do
+               not necessarily learn better when the image of the instructor or
+               a virtual agent is visible on the screen. Finally, the
+               embodiment principle is that people learn better when onscreen
+               pedagogical agents engage in human-like behaviors, such as
+               gesture, eye-contact, or facial expressions.",
+  publisher = "Cambridge University Press",
+  pages     = "277--285",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "social cues; personalization principle; voice principle; image
+               principle; embodiment principle; social agency theory;3rd
+               Edition \_ Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.029"
+}
+
+@INCOLLECTION{Makransky2021-mo,
+  title     = "The Immersion Principle in Multimedia Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Makransky, Guido",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "The immersion principle in multimedia learning is that immersive
+               virtual environments promote better learning when they
+               incorporate multimedia design principles. In short, immersive
+               media do not necessarily improve learning but effective
+               instructional methods within immersive virtual environments do
+               improve learning. The goal of effective instructional design in
+               immersive virtual environments is to promote processes of
+               selecting, organizing, and integrating information.
+               Psychological presence -- the subjective experience of ``being
+               there'' -- is an affective affordance of learning in immersive
+               learning environments that can motivate learners to engage in
+               deeper learning. The chapter also describes boundary conditions
+               of immersive virtual environments, including the potential for
+               instructional design to cause extraneous cognitive load and
+               impose high metacognitive demands on learners. Multimedia
+               learning principles developed based on research with less
+               immersive media may generalize to learning in immersive
+               environments.",
+  publisher = "Cambridge University Press",
+  pages     = "296--303",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "immersion principle; immersive virtual environments; virtual
+               reality; presence; immersion;3rd Edition \_ Cambridge Handbook
+               of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.031"
+}
+
+@INCOLLECTION{Zhang2021-bb,
+  title     = "The Cognitive Load {Self-Management} Principle in Multimedia
+               Learning",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Zhang, Shirong and de Koning, Bjorn and Agostinho, Shirley and
+               Tindall-Ford, Sharon and Chandler, Paul and Paas, Fred",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "Cognitive load theory (CLT) and the cognitive theory of
+               multimedia learning (CTML) offer empirically supported
+               instructional solutions to the frequent problem of cognitive
+               overload during learning from multimedia materials. Until
+               recently, these solutions have relied completely on instructors
+               creating high quality learning materials and learners having
+               access to those materials. However, in practice learners
+               frequently have to deal with digital and printed multimedia
+               learning materials that have not been designed with any
+               consideration of cognitive load. The self-management principle
+               has emerged from research using the vantage point of the
+               learner, and is based on empowering learners to apply CLT or
+               CTML principles themselves to manage their own cognitive load.
+               In this chapter we present the rationale for the principle,
+               empirical evidence, and theoretical and practical implications.",
+  publisher = "Cambridge University Press",
+  pages     = "430--436",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "cognitive load theory; cognitive theory of multimedia learning;
+               cognitive load self-management principle; imagination;
+               signaling;3rd Edition \_ Cambridge Handbook of Multimedia
+               Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.044"
+}
+
+@INCOLLECTION{Rouet2021-ms,
+  title     = "Multimedia Learning from Multiple Documents",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Rouet, Jean-Fran{\c c}ois and Britt, Anne",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "Multimedia learning from multiple documents involves the
+               construction of new knowledge, beliefs, or opinions from more
+               than a single source of information. First, we introduce the
+               specific discourse processes that come into play when
+               considering multiple-source documents as opposed to
+               single-source texts or multimedia documents. We focus on the
+               definition and role of sources, and on the semantic and
+               rhetorical relationships at an intertextual level. Then we
+               examine learning from multiple documents from a cognitive
+               standpoint. We define two core principles: the sourcing
+               principle and the multiple document integration principle.
+               Finally, we examine some implications of these principles for a
+               general theory of text-based learning and for instructional
+               practice throughout the K12 and higher education curricula.",
+  publisher = "Cambridge University Press",
+  pages     = "521--536",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "multiple documents; sourcing principle; multiple document
+               integration principle; knowledge construction; intertextual
+               comprehension;3rd Edition \_ Cambridge Handbook of Multimedia
+               Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.053"
+}
+
+@INCOLLECTION{Lindner2021-gz,
+  title     = "Principles for Educational Assessment with Multimedia",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Lindner, Marlit Annalena",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "This chapter gives an overview of the main findings regarding
+               the multimedia principle in testing, which states that testing
+               material that combines text and adequate pictures is more
+               comprehensible and more efficient to process for test takers
+               than text alone. Even though learning and testing with
+               multimedia have much in common, substantial differences exist
+               that are discussed in this chapter. Overall, the findings
+               indicate that adding pictures to verbal test material is mainly
+               associated with facilitative effects. However, the findings
+               differ with respect to different outcome measures and depending
+               on the investigated picture type (i.e., decorative,
+               representational, organizational, and informational).
+               Furthermore, effects also appear to be moderated by item and
+               test-taker characteristics that need to be subjected to future
+               research.",
+  publisher = "Cambridge University Press",
+  pages     = "552--565",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "multimedia principle in testing; assessment; testing;
+               computer-based assessments; multimedia testing;3rd Edition \_
+               Cambridge Handbook of Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.055"
+}
+
+@INCOLLECTION{Clark2021-nh,
+  title     = "Multimedia Learning in e-Courses",
+  booktitle = "The Cambridge Handbook of Multimedia Learning",
+  author    = "Clark, Ruth Colvin",
+  editor    = "Fiorella, Logan and Mayer, Richard E",
+  abstract  = "The sudden emergence of a lethal virus necessitating social
+               distancing required billions of students worldwide to engage in
+               various forms of e-learning, the effects of which are currently
+               unknown. In some instructional contexts, the overall proportion
+               of e-learning relative to in-person classes may continue on an
+               upward trajectory. A long-history of media comparison research
+               shows that learning is less a function of the delivery medium
+               and more reflective of instructional methods that support human
+               cognitive processes. In this chapter I emphasize evidence-based
+               e-learning methods that (1) manage mental load, (2) promote
+               productive engagement, and (3) offer feedback that guides
+               learners to improved responses. I discuss the use of these
+               methods to guide the design of digital explanations, engagement
+               opportunities, and feedback in synchronous and asynchronous
+               e-learning. I also discuss emerging digital learning
+               opportunities in the form of interactive virtual reality and
+               learning games.",
+  publisher = "Cambridge University Press",
+  pages     = "537--551",
+  series    = "Cambridge Handbooks in Psychology",
+  edition   =  3,
+  year      =  2021,
+  address   = "Cambridge",
+  keywords  = "e-learning; media comparison research; virtual reality; learning
+               games; online learning;3rd Edition \_ Cambridge Handbook of
+               Multimedia Learning [2021]",
+  isbn      = "9781108841580",
+  doi       = "10.1017/9781108894333.054"
 }
