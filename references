@@ -14418,9 +14418,7 @@
   edition   =  3,
   year      =  2021,
   address   = "Cambridge",
-  keywords  = "3rd Edition \_ Cambridge Handbook of Multimedia Learning
-               [2021];3rd Edition \_ Cambridge Handbook of Multimedia Learning
-               [Full Book\}",
+  keywords  = "3rd Edition \_ Cambridge Handbook of Multimedia Learning [2021]",
   isbn      = "9781108841580",
   doi       = "10.1017/9781108894333.018"
 }
@@ -14435,9 +14433,7 @@
   edition   =  3,
   year      =  2021,
   address   = "Cambridge",
-  keywords  = "3rd Edition \_ Cambridge Handbook of Multimedia Learning
-               [2021];3rd Edition \_ Cambridge Handbook of Multimedia Learning
-               [Full Book\}",
+  keywords  = "3rd Edition \_ Cambridge Handbook of Multimedia Learning [2021]",
   isbn      = "9781108841580",
   doi       = "10.1017/9781108894333.002"
 }
@@ -16530,8 +16526,7 @@
   address   = "Cambridge",
   keywords  = "motivational stats; emotional states; affect; motivation;
                interest; self-efficacy;3rd Edition \_ Cambridge Handbook of
-               Multimedia Learning [2021];3rd Edition \_ Cambridge Handbook of
-               Multimedia Learning [Full Book\}",
+               Multimedia Learning [2021]",
   isbn      = "9781108841580",
   doi       = "10.1017/9781108894333.012"
 }
@@ -16561,8 +16556,7 @@
   address   = "Cambridge",
   keywords  = "expertise reversal principle; prior knowledge; learner
                expertise; adaptive multimedia systems;3rd Edition \_ Cambridge
-               Handbook of Multimedia Learning [2021];3rd Edition \_ Cambridge
-               Handbook of Multimedia Learning [Full Book\}",
+               Handbook of Multimedia Learning [2021]",
   isbn      = "9781108841580",
   doi       = "10.1017/9781108894333.017"
 }
@@ -16600,8 +16594,7 @@
   keywords  = "extraneous processing; coherence principle; signaling principle;
                redundancy principle; spatial contiguity principle; temporal
                contiguity principle;3rd Edition \_ Cambridge Handbook of
-               Multimedia Learning [2021];3rd Edition \_ Cambridge Handbook of
-               Multimedia Learning [Full Book\}",
+               Multimedia Learning [2021]",
   isbn      = "9781108841580",
   doi       = "10.1017/9781108894333.019"
 }
@@ -16631,8 +16624,7 @@
   keywords  = "multimedia principle; verbal mental model; visual mental model;
                lightning formation; transfer test; cognitive theory of
                multimedia learning;3rd Edition \_ Cambridge Handbook of
-               Multimedia Learning [2021];3rd Edition \_ Cambridge Handbook of
-               Multimedia Learning [Full Book\}",
+               Multimedia Learning [2021]",
   isbn      = "9781108841580",
   doi       = "10.1017/9781108894333.015"
 }
@@ -16670,9 +16662,7 @@
   address   = "Cambridge",
   keywords  = "research methods; eye-tracking; learning outcome measures;
                self-report measures; online trace measures; verbal reports;3rd
-               Edition \_ Cambridge Handbook of Multimedia Learning [2021];3rd
-               Edition \_ Cambridge Handbook of Multimedia Learning [Full
-               Book\}",
+               Edition \_ Cambridge Handbook of Multimedia Learning [2021]",
   isbn      = "9781108841580",
   doi       = "10.1017/9781108894333.006"
 }
