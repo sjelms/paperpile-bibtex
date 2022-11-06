@@ -14570,7 +14570,7 @@
   pages     = "3--15",
   month     =  aug,
   year      =  2005,
-  keywords  = "Information and Digital Literacies",
+  keywords  = "Digital Literacies;Information and Digital Literacies",
   issn      = "0013-189X",
   doi       = "10.3102/0013189X034006003"
 }
@@ -14594,7 +14594,7 @@
   number   =  1,
   pages    = "13",
   year     =  2009,
-  keywords = "Information and Digital Literacies",
+  keywords = "Digital Literacies;Information and Digital Literacies",
   issn     = "1531-7714",
   doi      = "10.7275/b0az-8t74"
 }
