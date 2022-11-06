@@ -3551,8 +3551,8 @@
   edition   =  3,
   year      =  2021,
   address   = "Cambridge",
-  keywords  = "3rd Edition [2021] \_ Cambridge Handbook of Multimedia Learning,
-               The;Part II - Theoretical Foundations",
+  keywords  = "Multimedia;3rd Edition [2021] \_ Cambridge Handbook of
+               Multimedia Learning, The;Part II - Theoretical Foundations",
   isbn      = "9781108841580",
   doi       = "10.1017/9781108894333.007"
 }
@@ -3582,9 +3582,9 @@
   address   = "Cambridge",
   keywords  = "human information processing system; dual channels assumption;
                limited capacity assumption; active processing assumption;
-               cognitive theory of multimedia learning;3rd Edition [2021] \_
-               Cambridge Handbook of Multimedia Learning, The;Part II -
-               Theoretical Foundations",
+               cognitive theory of multimedia learning;Multimedia;3rd Edition
+               [2021] \_ Cambridge Handbook of Multimedia Learning, The;Part II
+               - Theoretical Foundations",
   isbn      = "9781108841580",
   doi       = "10.1017/9781108894333.008"
 }
@@ -3616,8 +3616,8 @@
   address   = "Cambridge",
   keywords  = "evolutionary principles; cognitive load theory; human cognitive
                architecture; biologically secondary knowledge; natural
-               selection;3rd Edition [2021] \_ Cambridge Handbook of Multimedia
-               Learning, The;Part II - Theoretical Foundations",
+               selection;Multimedia;3rd Edition [2021] \_ Cambridge Handbook of
+               Multimedia Learning, The;Part II - Theoretical Foundations",
   isbn      = "9781108841580",
   doi       = "10.1017/9781108894333.009"
 }
@@ -3744,8 +3744,9 @@
   address   = "Cambridge",
   keywords  = "cognitive strategies; metacognitive strategies; self-regulated
                learning; metacognitive model of multimedia learning;
-               monitoring; regulating;3rd Edition [2021] \_ Cambridge Handbook
-               of Multimedia Learning, The;Part II - Theoretical Foundations",
+               monitoring; regulating;Multimedia;3rd Edition [2021] \_
+               Cambridge Handbook of Multimedia Learning, The;Part II -
+               Theoretical Foundations",
   isbn      = "9781108841580",
   doi       = "10.1017/9781108894333.013"
 }
