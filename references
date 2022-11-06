@@ -14573,3 +14573,26 @@
   issn      = "0013-189X",
   doi       = "10.3102/0013189X034006003"
 }
+
+@ARTICLE{Randolph2009-kj,
+  title    = "A Guide to Writing the Dissertation Literature Review",
+  author   = "Randolph, Justus",
+  abstract = "Writing a faulty literature review is one of many ways to derail
+              a dissertation. This article summarizes some pivotal information
+              on how to write a high-quality dissertation literature review. It
+              begins with a discussion of the purposes of a review, presents
+              taxonomy of literature reviews, and then discusses the steps in
+              conducting a quantitative or qualitative literature review. The
+              article concludes with a discussion of common mistakes and a
+              framework for the self-evaluation of a literature review.
+              Accessed 202,565 times on https://pareonline.net from June 04,
+              2009 to December 31, 2019. For downloads from January 1, 2020
+              forward, please click on the PlumX Metrics link to the right.",
+  journal  = "Practical Assessment, Research, and Evaluation",
+  volume   =  14,
+  number   =  1,
+  pages    = "13",
+  year     =  2009,
+  issn     = "1531-7714",
+  doi      = "10.7275/b0az-8t74"
+}
