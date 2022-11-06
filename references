@@ -14484,6 +14484,14 @@
   doi       = "10.1017/9781108894333.007"
 }
 
+@ARTICLE{Background_undated-nd,
+  title    = "List of Figures page ix List of Tables xiii List of Contributors
+              xv Preface xvii Acknowledgments xx",
+  author   = "Background, Part I",
+  keywords = "3rd Edition \_ Cambridge Handbook of Multimedia Learning [Full
+              Book\}"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INCOLLECTION{Littlejohn2022-db,
