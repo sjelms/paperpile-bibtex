@@ -16590,6 +16590,8 @@
   doi       = "10.1177/0018720820904229"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Tang2020-gl,
   title     = "Evaluating the effectiveness of learning design with mixed
                reality ({MR}) in higher education",
@@ -16601,6 +16603,7 @@
   pages     = "797--807",
   month     =  dec,
   year      =  2020,
+  keywords  = "\_XR/MR;§New Literature;Multimedia;Research Methods",
   language  = "en",
   issn      = "1359-4338, 1434-9957",
   doi       = "10.1007/s10055-020-00427-9"
