@@ -3384,7 +3384,7 @@
   month     =  oct,
   year      =  2020,
   keywords  = "Virtual reality; Multimodality; Training; Teaching and learning;
-               Semiotic resources;Multimedia [read]",
+               Semiotic resources;\_XR/MR;Research Methods;Multimedia [read]",
   copyright = "http://creativecommons.org/licenses/by-nc-nd/4.0/",
   language  = "en",
   issn      = "2096-5796",
@@ -9298,7 +9298,7 @@
   pages     = "335--369",
   month     =  jul,
   year      =  2022,
-  keywords  = "Multimedia [read]",
+  keywords  = "\_XR/MR;Research Methods;Multimedia [read]",
   language  = "en",
   issn      = "0741-0883, 1552-8472",
   doi       = "10.1177/07410883221083517"
