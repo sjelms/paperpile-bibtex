@@ -16611,6 +16611,8 @@
   doi       = "10.1007/s10055-020-00427-9"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Zahabi2020-yh,
   title     = "Adaptive virtual reality-based training: a systematic literature
                review and framework",
@@ -16622,6 +16624,8 @@
   pages     = "725--752",
   month     =  dec,
   year      =  2020,
+  keywords  = "\_XR/MR;§New Literature;Research Methods;Multimedia;Multimedia
+               [read]",
   language  = "en",
   issn      = "1359-4338, 1434-9957",
   doi       = "10.1007/s10055-020-00434-w"
