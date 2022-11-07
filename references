@@ -16610,3 +16610,19 @@
   issn      = "1359-4338, 1434-9957",
   doi       = "10.1007/s10055-020-00427-9"
 }
+
+@ARTICLE{Zahabi2020-yh,
+  title     = "Adaptive virtual reality-based training: a systematic literature
+               review and framework",
+  author    = "Zahabi, Maryam and Abdul Razak, Ashiq Mohammed",
+  journal   = "Virtual Real.",
+  publisher = "Springer Science and Business Media LLC",
+  volume    =  24,
+  number    =  4,
+  pages     = "725--752",
+  month     =  dec,
+  year      =  2020,
+  language  = "en",
+  issn      = "1359-4338, 1434-9957",
+  doi       = "10.1007/s10055-020-00434-w"
+}
