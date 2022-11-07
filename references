@@ -16542,6 +16542,8 @@
   doi       = "10.1017/9781108894333"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Kaplan2021-tp,
   title     = "The effects of virtual reality, augmented reality, and mixed
                reality as training enhancement methods: A meta-analysis",
@@ -16581,7 +16583,7 @@
   month     =  jun,
   year      =  2021,
   keywords  = "immersive environments; meta-analysis; transfer of training;
-               virtual environments",
+               virtual environments;\_XR/MR;§New Literature;Research Methods",
   language  = "en",
   issn      = "0018-7208, 1547-8181",
   pmid      = "32091937",
