@@ -1290,6 +1290,8 @@
   doi       = "10.1007/s10639-017-9676-0"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Moreno2007-yk,
   title     = "Interactive multimodal learning environments",
   author    = "Moreno, Roxana and Mayer, Richard",
@@ -1300,6 +1302,7 @@
   pages     = "309--326",
   month     =  sep,
   year      =  2007,
+  keywords  = "Multimedia;§New Literature;Multimedia [read]",
   language  = "en",
   issn      = "1040-726X, 1573-336X",
   doi       = "10.1007/s10648-007-9047-2"
