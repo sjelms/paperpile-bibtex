@@ -9265,6 +9265,44 @@
   doi      = "10.1177/0270467604264992"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Mills2022-zk,
+  title     = "Virtual reality and embodiment in multimodal meaning making",
+  author    = "Mills, Kathy A and Scholes, Laura and Brown, Alinta",
+  abstract  = "Immersive virtual reality (VR) technology is becoming widespread
+               in education, yet research of VR technologies for students'
+               multimodal communication is an emerging area of research in
+               writing and literacies scholarship. Likewise, the significance
+               of new ways of embodied meaning making in VR environments is
+               undertheorized---a gap that requires attention given the
+               potential for broadened use of the sensorium in multimodal
+               language and literacy learning. This classroom research
+               investigated multimodal composition using the virtual paint
+               program Google Tilt Brush™ with 47 elementary school students
+               (ages 10--11 years) using a head-mounted display and motion
+               sensors. Multimodal analysis of video, screen capture, and
+               think-aloud data attended to sensory-motor affordances and
+               constraints for embodiment. Modal constraints were the
+               immateriality of the virtual text, virtual disembodiment, and
+               somatosensory mismatch between the virtual and physical worlds.
+               Potentials for new forms of embodied multimodal representation
+               in VR involved extensive bodily, haptic, and locomotive
+               movement. The findings are significant given that research of
+               embodied cognition points to sensorimotor action as the basis
+               for language and communication.",
+  journal   = "Writ. Commun.",
+  publisher = "SAGE Publications",
+  volume    =  39,
+  number    =  3,
+  pages     = "335--369",
+  month     =  jul,
+  year      =  2022,
+  language  = "en",
+  issn      = "0741-0883, 1552-8472",
+  doi       = "10.1177/07410883221083517"
+}
+
 @ARTICLE{Ferry1998-xo,
   title     = "An Inquiry into Sch{\"o}n's Epistemology of Practice: Exploring
                Links between Experience and Reflective Practice",
