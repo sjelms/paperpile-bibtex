@@ -3351,6 +3351,46 @@
   doi       = "10.1016/j.tics.2003.12.008"
 }
 
+@ARTICLE{Philippe2020-ou,
+  title     = "Multimodal teaching, learning and training in virtual reality: a
+               review and case study",
+  author    = "Philippe, St{\'e}phanie and Souchet, Alexis D and Lameras,
+               Petros and Petridis, Panagiotis and Caporal, Julien and
+               Coldeboeuf, Gildas and Duzan, Hadrien",
+  abstract  = "It is becoming increasingly prevalent in digital learning
+               research to encompass an array of different meanings, spaces,
+               processes, and teaching strategies for discerning a global
+               perspective on constructing the student learning experience.
+               Multimodality is an emergent phenomenon that may influence how
+               digital learning is designed, especially when employed in highly
+               interactive and immersive learning environments such as Virtual
+               Reality (VR). VR environments may aid students' efforts to be
+               active learners through consciously attending to, and reflecting
+               on, critique leveraging reflexivity and novel meaning-making
+               most likely to lead to a conceptual change. This paper employs
+               eleven industrial case-studies to highlight the application of
+               multimodal VR-based teaching and training as a pedagogically
+               rich strategy that may be designed, mapped and visualized
+               through distinct VR-design elements and features. The outcomes
+               of the use cases contribute to discern in-VR multimodal teaching
+               as an emerging discourse that couples system design-based
+               paradigms with embodied, situated and reflective praxis in
+               spatial, emotional and temporal VR learning environments.",
+  journal   = "Virtual Reality \& Intelligent Hardware",
+  publisher = "Elsevier BV",
+  volume    =  2,
+  number    =  5,
+  pages     = "421--442",
+  month     =  oct,
+  year      =  2020,
+  keywords  = "Virtual reality; Multimodality; Training; Teaching and learning;
+               Semiotic resources",
+  copyright = "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+  language  = "en",
+  issn      = "2096-5796",
+  doi       = "10.1016/j.vrih.2020.07.008"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Waly2003-dy,
