@@ -321,6 +321,19 @@
   doi       = "10.1007/978-1-4419-9625-1\_12"
 }
 
+@INCOLLECTION{Dawley2014-mv,
+  title     = "Situated learning in virtual worlds and immersive simulations",
+  booktitle = "Handbook of Research on Educational Communications and
+               Technology",
+  author    = "Dawley, Lisa and Dede, Chris",
+  publisher = "Springer New York",
+  pages     = "723--734",
+  year      =  2014,
+  address   = "New York, NY",
+  isbn      = "9781461431848, 9781461431855",
+  doi       = "10.1007/978-1-4614-3185-5\_58"
+}
+
 @INCOLLECTION{Hibbi2020-aw,
   title     = "Integrating an intelligent tutoring system into an adaptive
                E-learning process",
