@@ -7490,6 +7490,42 @@
   doi       = "10.1111/ejed.12533"
 }
 
+@ARTICLE{Yuan2010-va,
+  title     = "A comparison study of polyominoes explorations in a physical and
+               virtual manipulative environment",
+  author    = "Yuan, Y and Lee, C-Y and Wang, C-H",
+  abstract  = "This study develops virtual manipulative, polyominoes kits for
+               junior high school students to explore polyominoes. The current
+               work conducts a non-equivalent group pretest--post-test
+               quasi-experimental design to compare the performance difference
+               between using physical manipulatives and virtual manipulatives
+               in finding the number of polyominoes. Sixty eighth-grade
+               students from two different classes in a junior high school in
+               Taipei County of Taiwan participated in this study. The current
+               research randomly selected one class as the experiment group and
+               the other as the control group. Students in the experiment group
+               used virtual manipulatives to explore polyominoes and those in
+               the control group used physical manipulatives. The results
+               revealed that learning in the experiment group is as effective
+               as that in the control group. This study identifies two obvious
+               strategies (add one and reduce) among students in both groups.
+               New ideas, including using new symbols to record the results and
+               considering the influence of symmetry and rotation on the
+               figures, occurred in the virtual manipulative group. Students in
+               the virtual environment paid much more attention to exploring
+               the polyomino problem.",
+  journal   = "J. Comput. Assist. Learn.",
+  publisher = "Wiley",
+  volume    =  26,
+  number    =  4,
+  pages     = "307--316",
+  month     =  mar,
+  year      =  2010,
+  language  = "en",
+  issn      = "0266-4909, 1365-2729",
+  doi       = "10.1111/j.1365-2729.2010.00352.x"
+}
+
 @ARTICLE{Bialystok1979-mn,
   title     = "Explicit and implicit judgements of l2 grammaticality",
   author    = "Bialystok, Ellen",
