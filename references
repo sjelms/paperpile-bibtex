@@ -321,6 +321,8 @@
   doi       = "10.1007/978-1-4419-9625-1\_12"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Dawley2014-mv,
   title     = "Situated learning in virtual worlds and immersive simulations",
   booktitle = "Handbook of Research on Educational Communications and
@@ -330,7 +332,7 @@
   pages     = "723--734",
   year      =  2014,
   address   = "New York, NY",
-  keywords  = "Multimedia [read]",
+  keywords  = "\_XR/MR;Research Methods;§New Literature;Multimedia [read]",
   isbn      = "9781461431848, 9781461431855",
   doi       = "10.1007/978-1-4614-3185-5\_58"
 }
@@ -7504,6 +7506,8 @@
   doi       = "10.1111/ejed.12533"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Yuan2010-va,
   title     = "A comparison study of polyominoes explorations in a physical and
                virtual manipulative environment",
@@ -7535,7 +7539,7 @@
   pages     = "307--316",
   month     =  mar,
   year      =  2010,
-  keywords  = "Multimedia [read]",
+  keywords  = "\_XR/MR;Research Methods;§New Literature;Multimedia [read]",
   language  = "en",
   issn      = "0266-4909, 1365-2729",
   doi       = "10.1111/j.1365-2729.2010.00352.x"
