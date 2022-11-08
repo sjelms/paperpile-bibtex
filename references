@@ -16651,6 +16651,8 @@
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Taber2011-nj,
   title     = "Constructivism as Educational Theory: Contingency in Learning,
                and Optimally Guided Instruction",
@@ -16669,6 +16671,7 @@
   publisher = "Nova Science Publishers",
   pages     = "39--61",
   year      =  2011,
+  keywords  = "Research Methods;§New Literature",
   language  = "en",
   isbn      = "9781613245804"
 }
