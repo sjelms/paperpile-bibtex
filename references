@@ -1152,6 +1152,49 @@
   doi       = "10.1007/s10055-020-00427-9"
 }
 
+@ARTICLE{Milleville-Pennel2020-wq,
+  title    = "Sharing spatial information in a virtual environment: How do
+              visual cues and configuration influence spatial coding and mental
+              workload?",
+  author   = "Milleville-Pennel, Isabelle and Mars, Franck and Pouliquen-Lardy,
+              Lauriane",
+  abstract = "When sharing virtual collaborative environments, operators
+              exchange spatial statements that refer to the objects' positions
+              in the virtual space. If operators are to understand each other,
+              they need to develop a common spatial frame of reference and then
+              choose a space coding to describe the objects' positions. In this
+              paper, we consider how the content of a virtual environment can
+              influence communication between users. We designed two studies in
+              which one participant (the speaker) had to indicate the position
+              of one object to another participant (the addressee). The virtual
+              environment was sometimes enriched by additional (proximal and
+              distal) visual cues. In study 1, we considered statements
+              production. We observed that the speakers most often used the
+              avatar of their partner as a spatial reference to indicate a
+              localization in the virtual space (i.e., Addressee-Centered
+              coding) despite it increases their mental workload. Nevertheless,
+              in complex situations, they also used distal cues to speak to the
+              addressees (i.e., Exocentric coding of the space). In study 2, we
+              considered statements comprehension. Addressee-Centered coding
+              and Exocentric coding were used by the speakers in various
+              spatial configurations to indicate the object position. We
+              observed that Exocentric coding is the most difficult to manage
+              for the addressee. These results indicate that speakers
+              implemented the principle of less collaborative effort by
+              adopting a way of exchanging information based on an asymmetrical
+              cognitive cost, taking into consideration each other's
+              difficulties. This allows a balanced mental workload to be
+              maintained between the two operators throughout the task.",
+  journal  = "Virtual Real.",
+  volume   =  24,
+  number   =  4,
+  pages    = "695--712",
+  month    =  dec,
+  year     =  2020,
+  issn     = "1359-4338, 1434-9957",
+  doi      = "10.1007/s10055-020-00430-0"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Zahabi2020-yh,
