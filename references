@@ -1152,6 +1152,8 @@
   doi       = "10.1007/s10055-020-00427-9"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Milleville-Pennel2020-wq,
   title    = "Sharing spatial information in a virtual environment: How do
               visual cues and configuration influence spatial coding and mental
@@ -1191,6 +1193,7 @@
   pages    = "695--712",
   month    =  dec,
   year     =  2020,
+  keywords = "\_XR/MR;Sensory Processing;§New Literature",
   issn     = "1359-4338, 1434-9957",
   doi      = "10.1007/s10055-020-00430-0"
 }
