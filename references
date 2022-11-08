@@ -1309,8 +1309,16 @@
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Moreno2007-yk,
-  title     = "Interactive multimodal learning environments",
+  title     = "Interactive Multimodal Learning Environments",
   author    = "Moreno, Roxana and Mayer, Richard",
+  abstract  = "What are interactive multimodal learning environments and how
+               should they be designed to promote students' learning? In this
+               paper, we offer a cognitive--affective theory of learning with
+               media from which instructional design principles are derived.
+               Then, we review a set of experimental studies in which we found
+               empirical support for five design principles: guided activity,
+               reflection, feedback, control, and pretraining. Finally, we
+               offer directions for future instructional technology research.",
   journal   = "Educ. Psychol. Rev.",
   publisher = "Springer Science and Business Media LLC",
   volume    =  19,
@@ -1320,7 +1328,7 @@
   year      =  2007,
   keywords  = "Multimedia;§New Literature;Multimedia [read]",
   language  = "en",
-  issn      = "1040-726X, 1573-336X",
+  issn      = "1040-726X",
   doi       = "10.1007/s10648-007-9047-2"
 }
 
