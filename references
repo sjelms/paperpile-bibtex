@@ -4603,18 +4603,6 @@
   keywords    = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
-@MISC{noauthor_undated-pe,
-  title        = "(16) ({PDF}) Construction Industry Training Assessment
-                  Framework",
-  booktitle    = "{ResearchGate}",
-  abstract     = "ResearchGate is a network dedicated to science and research.
-                  Connect, collaborate and discover scientific publications,
-                  jobs and conferences. All for free.",
-  howpublished = "\url{https://www.researchgate.net/publication/353885474_Construction_Industry_Training_Assessment_Framework/fulltext/611671181ca20f6f861e3284/Construction-Industry-Training-Assessment-Framework.pdf}",
-  note         = "Accessed: 2022-11-10",
-  language     = "en"
-}
-
 @BOOK{Gallace2014-lu,
   title     = "In Touch with the Future: The sense of touch from cognitive
                neuroscience to virtual reality",
