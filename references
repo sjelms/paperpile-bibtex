@@ -6130,6 +6130,45 @@
   doi       = "10.1111/j.1365-2729.2010.00352.x"
 }
 
+@ARTICLE{Jadallah2021-is,
+  title     = "Construction industry training assessment framework",
+  author    = "Jadallah, Hazem and Friedland, Carol J and Nahmens, Isabelina
+               and Pecquet, Charles and Berryman, Charles and Zhu, Yimin",
+  abstract  = "The construction industry suffers from a lack of structured
+               assessment methods to consistently gauge the efficacy of
+               workforce training programs. To address this issue, this study
+               presents a framework for construction industry training
+               assessment that identifies established practices rooted in
+               evaluation science and developed from a review of archival
+               construction industry training literature. Inclusion criteria
+               for the evaluated studies are: archival training studies focused
+               on the construction industry workforce and integration of
+               educational theory in training creation or implementation.
+               Literature meeting these criteria are summarized and a case
+               review is presented detailing assessment practices and results.
+               The assessment practices are then synthesized with the
+               Kirkpatrick Model to analyze how closely industry assessment
+               corresponds with established training evaluation standards. The
+               study culminates in a training assessment framework created by
+               integrating practices described in the identified studies,
+               established survey writing practices, and the Kirkpatrick Model.
+               This study found that two-thirds of reviewed literature used
+               surveys, questionnaires, or interviews to assess training
+               efficacy, two studies that used questionnaires to assess
+               training efficacy provided question text, three studies measured
+               learning by administering tests to training participants, one
+               study measured changed behavior as a result of training, and one
+               study measured organizational impact as a result of training.",
+  journal   = "Front. Built Environ.",
+  publisher = "Frontiers Media SA",
+  volume    =  7,
+  month     =  aug,
+  year      =  2021,
+  copyright = "https://creativecommons.org/licenses/by/4.0/",
+  issn      = "2297-3362",
+  doi       = "10.3389/fbuil.2021.678366"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
