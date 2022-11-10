@@ -14036,7 +14036,7 @@
   volume    =  7,
   month     =  jun,
   year      =  2021,
-  keywords  = "AEC;Workplace Learning",
+  keywords  = "AEC;Workplace Learning;LSU - Louisiana State University",
   copyright = "https://creativecommons.org/licenses/by/4.0/",
   issn      = "2297-3362",
   doi       = "10.3389/fbuil.2021.635978"
@@ -16955,7 +16955,8 @@
               training modules.",
   year     =  2021,
   school   = "Louisiana State University",
-  keywords = "AEC;Workplace Learning;Thesis;Information and Digital Literacies",
+  keywords = "AEC;Workplace Learning;Thesis;Information and Digital
+              Literacies;LSU - Louisiana State University",
   doi      = "10.31390/gradschool\_dissertations.5487"
 }
 
@@ -16993,7 +16994,7 @@
   volume    =  7,
   month     =  aug,
   year      =  2021,
-  keywords  = "AEC;Workplace Learning",
+  keywords  = "AEC;Workplace Learning;LSU - Louisiana State University",
   copyright = "https://creativecommons.org/licenses/by/4.0/",
   issn      = "2297-3362",
   doi       = "10.3389/fbuil.2021.678366"
