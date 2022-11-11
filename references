@@ -4342,7 +4342,8 @@
   publisher = "W. W. Norton \& Company",
   month     =  jan,
   year      =  2018,
-  keywords  = "\_XR/MR;Audiobook;ePub | Kindle",
+  keywords  = "\_XR/MR;Audiobook;ePub | Kindle;Experience on Demand (Related
+               Work)",
   language  = "en",
   isbn      = "9780393253702"
 }
@@ -4864,7 +4865,8 @@
   month        =  jan,
   year         =  2018,
   howpublished = "Talks at Google",
-  keywords     = "\_XR/MR;YouTube;Notion Catalogued"
+  keywords     = "\_XR/MR;YouTube;Notion Catalogued;Experience on Demand
+                  (Related Work)"
 }
 
 @ARTICLE{Halaburda2014-dw,
@@ -13993,7 +13995,8 @@
   publisher = "Elsevier",
   pages     = "91--108",
   year      =  2020,
-  keywords  = "+Notion;\_XR/MR;@\_Mark Up;Notion Catalogued",
+  keywords  = "+Notion;\_XR/MR;@\_Mark Up;Notion Catalogued;Experience on
+               Demand (Related Work)",
   isbn      = "9780128169582",
   doi       = "10.1016/b978-0-12-816958-2.00005-8"
 }
@@ -14203,7 +14206,8 @@
   pages     = "102--141",
   month     =  feb,
   year      =  2008,
-  keywords  = "§New Literature;\_XR/MR;Education",
+  keywords  = "§New Literature;\_XR/MR;Education;Experience on Demand (Related
+               Work)",
   language  = "en",
   issn      = "1050-8406, 1532-7809",
   doi       = "10.1080/10508400701793141"
@@ -17035,7 +17039,7 @@
   pages     = "7--38",
   month     =  jan,
   year      =  2013,
-  keywords  = "Accessibility;\_XR/MR",
+  keywords  = "Accessibility;\_XR/MR;Experience on Demand (Related Work)",
   issn      = "1521-3269",
   doi       = "10.1080/15213269.2012.755877"
 }
