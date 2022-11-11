@@ -6130,45 +6130,6 @@
   doi       = "10.1111/j.1365-2729.2010.00352.x"
 }
 
-@ARTICLE{Ahn2013-of,
-  title     = "The Effect of Embodied Experiences on {Self-Other} Merging,
-               Attitude, and Helping Behavior",
-  author    = "Ahn, Sun Joo (grace) and Le, Amanda Minh Tran and Bailenson,
-               Jeremy",
-  abstract  = "Immersive virtual environment technology (IVET) provides users
-               with vivid sensory information that allow them to embody another
-               person's perceptual experiences. Three experiments explored
-               whether embodied experiences via IVET would elicit greater
-               self-other merging, favorable attitudes, and helping toward
-               persons with disabilities compared to traditional perspective
-               taking, which relies on imagination to put the self in another
-               person's shoes. Trait dispositions to feel concern for others
-               was tested as a moderating variable. Participants in the
-               embodied experiences (EE) condition were exposed to a red-green
-               colorblind simulation using IVET while participants in the
-               perspective taking (PT) condition were exposed to a normal
-               colored IVET world and instructed to imagine being colorblind.
-               Experiment 1 compared EE against PT and found that EE was
-               effective for participants with lower tendencies to feel concern
-               for others 24 hours after treatment. Experiment 2 delved further
-               into the underlying process of EE and confirmed that a
-               heightened sense of realism during the EE led to greater
-               self-other merging compared to PT. Finally, Experiment 3
-               demonstrated that the effect of EE transferred into the physical
-               world, leading participants to voluntarily spend twice as much
-               effort to help persons with colorblindness compared to
-               participants who had only imagined being colorblind.",
-  journal   = "Media Psychol.",
-  publisher = "Routledge",
-  volume    =  16,
-  number    =  1,
-  pages     = "7--38",
-  month     =  jan,
-  year      =  2013,
-  issn      = "1521-3269",
-  doi       = "10.1080/15213269.2012.755877"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
@@ -17037,4 +16998,44 @@
   copyright = "https://creativecommons.org/licenses/by/4.0/",
   issn      = "2297-3362",
   doi       = "10.3389/fbuil.2021.678366"
+}
+
+@ARTICLE{Ahn2013-of,
+  title     = "The Effect of Embodied Experiences on {Self-Other} Merging,
+               Attitude, and Helping Behavior",
+  author    = "Ahn, Sun Joo (grace) and Le, Amanda Minh Tran and Bailenson,
+               Jeremy",
+  abstract  = "Immersive virtual environment technology (IVET) provides users
+               with vivid sensory information that allow them to embody another
+               person's perceptual experiences. Three experiments explored
+               whether embodied experiences via IVET would elicit greater
+               self-other merging, favorable attitudes, and helping toward
+               persons with disabilities compared to traditional perspective
+               taking, which relies on imagination to put the self in another
+               person's shoes. Trait dispositions to feel concern for others
+               was tested as a moderating variable. Participants in the
+               embodied experiences (EE) condition were exposed to a red-green
+               colorblind simulation using IVET while participants in the
+               perspective taking (PT) condition were exposed to a normal
+               colored IVET world and instructed to imagine being colorblind.
+               Experiment 1 compared EE against PT and found that EE was
+               effective for participants with lower tendencies to feel concern
+               for others 24 hours after treatment. Experiment 2 delved further
+               into the underlying process of EE and confirmed that a
+               heightened sense of realism during the EE led to greater
+               self-other merging compared to PT. Finally, Experiment 3
+               demonstrated that the effect of EE transferred into the physical
+               world, leading participants to voluntarily spend twice as much
+               effort to help persons with colorblindness compared to
+               participants who had only imagined being colorblind.",
+  journal   = "Media Psychol.",
+  publisher = "Routledge",
+  volume    =  16,
+  number    =  1,
+  pages     = "7--38",
+  month     =  jan,
+  year      =  2013,
+  keywords  = "Accessibility",
+  issn      = "1521-3269",
+  doi       = "10.1080/15213269.2012.755877"
 }
