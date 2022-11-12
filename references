@@ -11856,12 +11856,15 @@
   doi      = "10.4324/9781315044408-14"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @BOOK{Ahmed2016-gk,
   title     = "Research methodology in the built environment",
   editor    = "Ahmed, Vian and Opoku, Alex and Aziz, Zeeshan",
   publisher = "Routledge",
   month     =  mar,
   year      =  2016,
+  keywords  = "§New Literature;AEC;Research Methods",
   isbn      = "9781317534259",
   doi       = "10.4324/9781315725529"
 }
