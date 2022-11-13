@@ -10821,6 +10821,8 @@
   doi       = "10.1108/AA-10-2018-0147"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @BOOK{Clark2021-ef,
   title     = "Bryman's Social Research Methods",
   author    = "Clark, Tom and Bryman, Alan and Foster, Liam and Sloan, Luke",
@@ -10829,8 +10831,8 @@
   edition   = "Sixth edition",
   year      =  2021,
   address   = "Oxford",
-  keywords  = "Social sciences -- Research -- Methodology;Course Assignment;RDL
-               [CCME0041]",
+  keywords  = "Social sciences -- Research -- Methodology;Course
+               Assignment;§New Literature;Research Methods;RDL [CCME0041]",
   language  = "eng",
   isbn      = "9780192636614"
 }
