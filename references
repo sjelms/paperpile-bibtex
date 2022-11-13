@@ -11259,6 +11259,50 @@
   doi      = "10.3102/0091732X015001097"
 }
 
+@ARTICLE{Kuper2013-ll,
+  title     = "Looking back to move forward: using history, discourse and text
+               in medical education research: {AMEE} guide no. 73",
+  author    = "Kuper, Ayelet and Whitehead, Cynthia and Hodges, Brian David",
+  abstract  = "As medical education research continues to diversify
+               methodologically and theoretically, medical education
+               researchers have been increasingly willing to challenge
+               taken-for-granted assumptions about the form, content and
+               function of medical education. In this AMEE guide we describe
+               historical, discourse and text analysis approaches that can help
+               researchers and educators question the inevitability of things
+               that are currently seen as 'natural'. Why is such questioning
+               important? By articulating our assumptions and interrogating the
+               'naturalness' of the status quo, one can then begin to ask why
+               things are the way they are. Researchers can, for example, ask
+               whether the models of medical education organization and
+               delivery that currently seem 'natural' to them have been
+               developed in order to provide the most benefit to students or
+               patients--or whether they have, rather, been developed in ways
+               that provide power to faculty members, medical schools or the
+               medical profession as a whole. An understanding of the interplay
+               of practices and power is a valuable tool for opening up the
+               field to new possibilities for better medical education. The
+               recognition that our current models, rather than being
+               'natural', were created in particular historical contexts for
+               any number of contingent reasons leads inexorably to the
+               possibility of change. For if our current ways of doing things
+               are not, in fact, inevitable, not only can they be questioned,
+               they can be made better; they can changed in ways that are
+               attentive to whom they benefit, are congruent with our current
+               beliefs about best practice and may lead to the production of
+               better doctors.",
+  journal   = "Med. Teach.",
+  publisher = "Informa UK Limited",
+  volume    =  35,
+  number    =  1,
+  pages     = "e849--60",
+  year      =  2013,
+  language  = "en",
+  issn      = "0142-159X, 1466-187X",
+  pmid      = "23259609",
+  doi       = "10.3109/0142159X.2012.748887"
+}
+
 @PHDTHESIS{Jadallah2021-bu,
   title    = "Educational {Theory-Embedded} Training for Construction Industry
               Professionals",
