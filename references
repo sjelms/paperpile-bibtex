@@ -17250,6 +17250,8 @@
   doi       = "10.1108/jmd-05-2015-0073"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Goulding2012-op,
   title     = "Construction industry offsite production: A virtual reality
                interactive training environment prototype",
@@ -17308,6 +17310,8 @@
   pages     = "103--116",
   month     =  jan,
   year      =  2012,
+  keywords  = "\_XR/MR;§New Literature;AEC;Knowledge - Skill
+               Acquisition;Workplace Learning",
   language  = "en",
   issn      = "1474-0346, 1873-5320",
   doi       = "10.1016/j.aei.2011.09.004"
