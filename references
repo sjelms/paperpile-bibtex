@@ -6187,37 +6187,6 @@
   doi       = "10.1080/01416200.2010.498612"
 }
 
-@ARTICLE{Kivunja2017-zr,
-  title     = "Understanding and applying research paradigms in educational
-               contexts",
-  author    = "Kivunja, Charles and Kuyini, Ahmed Bawa",
-  abstract  = "The concept of research paradigm is one that many higher degree
-               research students, and even early career researchers, find
-               elusive to articulate, and challenging to apply in their
-               research proposals. Adopting an ethnographic and hermeneutic
-               methodology, the present paper draws upon our experiences as
-               lecturers in Research Methods over many years, and upon
-               pertinent literature to explain the meaning of research
-               paradigm. The paper elucidates the key aspects of research
-               paradigms that researchers should understand well to be able to
-               address this concept adequately in their research proposals. It
-               offers suggestions on how researchers can locate their research
-               into a paradigm and the justification needed for paradigm
-               choice. With the explicit purpose of helping higher degree
-               research (HDR) students design effective research proposals, the
-               paper also discusses the different research methodologies best
-               suited to conduct research in each of the paradigms discussed.",
-  journal   = "Int. J. High. Educ.",
-  publisher = "Sciedu Press",
-  volume    =  6,
-  number    =  5,
-  pages     = "26",
-  month     =  sep,
-  year      =  2017,
-  issn      = "1927-6044, 1927-6052",
-  doi       = "10.5430/ijhe.v6n5p26"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
@@ -17191,4 +17160,36 @@
   issn      = "0142-159X, 1466-187X",
   pmid      = "23259609",
   doi       = "10.3109/0142159X.2012.748887"
+}
+
+@ARTICLE{Kivunja2017-zr,
+  title     = "Understanding and applying research paradigms in educational
+               contexts",
+  author    = "Kivunja, Charles and Kuyini, Ahmed Bawa",
+  abstract  = "The concept of research paradigm is one that many higher degree
+               research students, and even early career researchers, find
+               elusive to articulate, and challenging to apply in their
+               research proposals. Adopting an ethnographic and hermeneutic
+               methodology, the present paper draws upon our experiences as
+               lecturers in Research Methods over many years, and upon
+               pertinent literature to explain the meaning of research
+               paradigm. The paper elucidates the key aspects of research
+               paradigms that researchers should understand well to be able to
+               address this concept adequately in their research proposals. It
+               offers suggestions on how researchers can locate their research
+               into a paradigm and the justification needed for paradigm
+               choice. With the explicit purpose of helping higher degree
+               research (HDR) students design effective research proposals, the
+               paper also discusses the different research methodologies best
+               suited to conduct research in each of the paradigms discussed.",
+  journal   = "Int. J. High. Educ.",
+  publisher = "Sciedu Press",
+  volume    =  6,
+  number    =  5,
+  pages     = "26",
+  month     =  sep,
+  year      =  2017,
+  keywords  = "Research Methods",
+  issn      = "1927-6044, 1927-6052",
+  doi       = "10.5430/ijhe.v6n5p26"
 }
