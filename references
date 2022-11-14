@@ -17316,3 +17316,26 @@
   issn      = "1474-0346, 1873-5320",
   doi       = "10.1016/j.aei.2011.09.004"
 }
+
+@ARTICLE{Prensky2003-lr,
+  title     = "Digital game-based learning",
+  author    = "Prensky, Marc",
+  abstract  = "Research published by University of Rochester neuroscientists C.
+               Shawn Green and Daphne Bavelier has grabbed national attention
+               for suggesting that playing ``action'' video and computer games
+               has the positive effect of enhancing student's visual selective
+               attention. But that finding is just one small part of a more
+               important message that all parents and educators need to hear:
+               Video games are not the enemy, but the best opportunity we have
+               to engage our kids in real learning.",
+  journal   = "Comput. Entertain.",
+  publisher = "Association for Computing Machinery (ACM)",
+  volume    =  1,
+  number    =  1,
+  pages     = "21--21",
+  month     =  oct,
+  year      =  2003,
+  language  = "en",
+  issn      = "1544-3574, 1544-3981",
+  doi       = "10.1145/950566.950596"
+}
