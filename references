@@ -12194,6 +12194,22 @@
   doi       = "10.4324/9781315725529"
 }
 
+@INCOLLECTION{Ahmed2016-sy,
+  title     = "Getting Ready for Your Research",
+  booktitle = "Research Methodology in the Built Environment",
+  author    = "Ahmed, Vian and Opoku, Alex",
+  editor    = "Ahmed, Vian and Opoku, Alex and Aziz, Zeeshan",
+  publisher = "Routledge",
+  edition   = "1st Edition",
+  month     =  mar,
+  year      =  2016,
+  keywords  = "AEC;Research Methods;UCL;ePub | Kindle;@\_Mark Up;Research
+               Methodology in the Built Environment: A Selection of Case
+               Studies",
+  isbn      = "9781317534259",
+  doi       = "10.4324/9781315725529-2"
+}
+
 @INCOLLECTION{Ahmed2016-gk,
   title     = "Getting Ready for Your Research",
   booktitle = "Research Methodology in the Built Environment",
