@@ -17451,7 +17451,8 @@
   publisher = "ManuBuild",
   pages     = "153--172",
   year      =  2009,
-  keywords  = "\_XR/MR;AEC;Workplace Learning",
+  keywords  = "\_XR/MR;AEC;Workplace Learning;Open Building Manufacturing
+               [Book]",
   isbn      = "9789513871468"
 }
 
@@ -17481,7 +17482,8 @@
   publisher = "ManuBuild",
   pages     = "153--172",
   year      =  2009,
-  keywords  = "\_XR/MR;AEC;Workplace Learning",
+  keywords  = "\_XR/MR;AEC;Workplace Learning;Open Building Manufacturing
+               [Book]",
   copyright = "ManuBuild",
   isbn      = "9789513871468"
 }
