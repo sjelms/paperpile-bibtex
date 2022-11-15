@@ -11919,6 +11919,13 @@
   doi        = "10.34190/ECIAIR.19.005"
 }
 
+@ARTICLE{Nadim_undated-px,
+  title  = "Offsite Production in the {UK}: The Construction Industry and
+            Academia",
+  author = "Nadim, Wafaa and Goulding, Jack",
+  doi    = "10.3763/aedm.2008.0094"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Marin-Vega2017-dy,
@@ -16342,13 +16349,6 @@
   address   = "London",
   keywords  = "RDL [CCME0041]",
   isbn      = "9781849204095"
-}
-
-@INBOOK{Nadim2007-px,
-  title  = "Training and Education for Open Building Manufacturing: Closing the
-            Skills Gap Paradigm",
-  author = "Nadim, Wafaa and Goulding, Jack and Alshawi, Mustafa",
-  year   =  2007
 }
 
 @ARTICLE{Kadlub1997-es,
