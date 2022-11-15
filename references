@@ -17034,17 +17034,11 @@
 
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
-@BOOK{Ahmed2016-gk,
-  title     = "Research Methodology in the Built Environment",
+@INCOLLECTION{Ahmed2016-gk,
+  title     = "Getting ready for your research",
+  booktitle = "Research Methodology in the Built Environment",
+  author    = "Ahmed, Vian and Opoku, Alex",
   editor    = "Ahmed, Vian and Opoku, Alex and Aziz, Zeeshan",
-  abstract  = "Built environment students are not always familiar with the
-               range of different research approaches they could be using for
-               their projects. Whether you are undertaking a postgraduate
-               doctoral programme or facing an undergraduate or masters
-               dissertation, this book provides general advice, as well as 13
-               detailed case studies from 16 universities in 7 countries, to
-               help you get to grips with quantitative and qualitative methods,
-               mixed methods of data collection, action research, and more.",
   publisher = "Routledge",
   edition   = "1st Edition",
   month     =  mar,
@@ -17053,7 +17047,7 @@
                Methodology in the Built Environment: A Selection of Case
                Studies",
   isbn      = "9781317534259",
-  doi       = "10.4324/9781315725529"
+  doi       = "10.4324/9781315725529-2"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
