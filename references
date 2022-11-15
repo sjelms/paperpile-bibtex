@@ -6066,13 +6066,6 @@
   doi       = "10.1080/01416200.2010.498612"
 }
 
-@ARTICLE{Alshawi_undated-mt,
-  title   = "Training and Education for Open Building Manufacturing: Closing
-             the Skills Gap",
-  author  = "Alshawi, M and Goulding, J and Nadim, W",
-  journal = "Open Building Manufacturing"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
