@@ -12210,23 +12210,6 @@
   doi       = "10.4324/9781315725529-2"
 }
 
-@INCOLLECTION{Menacere2016-fn,
-  title     = "When More Does Not Mean Better: Selecting a Research Methodology
-               and Methods",
-  booktitle = "Research Methodology in the Built Environment",
-  author    = "M{\'e}nac{\`e}re, Karim",
-  editor    = "Ahmed, Vian and Opoku, Alex and Aziz, Zeeshan",
-  publisher = "Routledge",
-  edition   = "1st Edition",
-  month     =  mar,
-  year      =  2016,
-  keywords  = "AEC;Research Methods;UCL;ePub | Kindle;@\_Mark Up;Research
-               Methodology in the Built Environment: A Selection of Case
-               Studies",
-  isbn      = "9781317534259",
-  doi       = "10.4324/9781315725529-3"
-}
-
 @MISC{Cuendet2013-tu,
   title     = "Tangible interfaces for learning:Training spatial skills in
                vocational classrooms",
