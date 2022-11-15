@@ -12195,11 +12195,12 @@
 }
 
 @INCOLLECTION{Ahmed2016-sy,
-  title     = "Getting Ready for Your Research",
+  title     = "Getting Ready for Your Research: Setting the Scene",
   booktitle = "Research Methodology in the Built Environment",
   author    = "Ahmed, Vian and Opoku, Alex",
   editor    = "Ahmed, Vian and Opoku, Alex and Aziz, Zeeshan",
   publisher = "Routledge",
+  pages     = "23--33",
   edition   = "1st Edition",
   month     =  mar,
   year      =  2016,
