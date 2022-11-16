@@ -5758,6 +5758,29 @@
   doi      = "10.1061/(ASCE)CO.1943-7862.0001006"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Wang2008-rq,
+  title     = "Craft training issues in American industrial and commercial
+               construction",
+  author    = "Wang, Yinggang and Goodrum, Paul M and Haas, Carl T and Glover,
+               Robert W",
+  abstract  = "… Based on a nationwide survey of industry experts regarding
+               craft training … of construction craft training via 93
+               respondents from a wide range of US industrial and commercial
+               construction …",
+  journal   = "J. Constr. Eng. Manage.",
+  publisher = "American Society of Civil Engineers (ASCE)",
+  volume    =  134,
+  number    =  10,
+  pages     = "795--803",
+  month     =  oct,
+  year      =  2008,
+  language  = "en",
+  issn      = "0733-9364, 1943-7862",
+  doi       = "10.1061/(asce)0733-9364(2008)134:10(795)"
+}
+
 @ARTICLE{Jarkas2012-fy,
   title    = "Factors Affecting Construction Labor Productivity in Kuwait",
   author   = "Jarkas, Abdulaziz M and Bitar, Camille G",
