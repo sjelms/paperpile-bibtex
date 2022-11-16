@@ -247,6 +247,12 @@
   doi       = "10.1108/10748120210431349"
 }
 
+@BOOK{Bushnell1990-aa,
+  title  = "Input, Process, Output: A Model for Evaluating Training",
+  author = "Bushnell, D S",
+  year   =  1990
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Zhou2019-ys,
@@ -6133,10 +6139,16 @@
   doi       = "10.4324/9781315725529-3"
 }
 
-@BOOK{Bushnell1990-aa,
-  title  = "Input, Process, Output: A Model for Evaluating Training",
-  author = "Bushnell, D S",
-  year   =  1990
+@ARTICLE{Bushnell1990-im,
+  title    = "Input, process, output: a model for evaluating training",
+  author   = "Bushnell, David S",
+  volume   =  44,
+  pages    = "41+",
+  month    =  mar,
+  year     =  1990,
+  keywords = "International Business Machines Corp.; Employee training;
+              Strategic planning (Business)",
+  issn     = "0041-0861"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
