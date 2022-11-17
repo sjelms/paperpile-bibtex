@@ -17915,3 +17915,16 @@
   isbn      = "9781595936240",
   doi       = "10.1145/1274871.1274875"
 }
+
+@BOOK{Ruddock2017-mz,
+  title     = "[No title]",
+  author    = "Ruddock, L and Van-Dijk, H and Houghton, C A M",
+  editor    = "Ruddock, L and Van-Dijk, H and Houghton, C A M",
+  publisher = "University of Salford",
+  pages     = "1048",
+  month     =  oct,
+  year      =  2017,
+  address   = "Salford, UK",
+  language  = "en",
+  isbn      = "9781912337040"
+}
