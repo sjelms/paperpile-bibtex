@@ -6199,32 +6199,6 @@
   language  = "en"
 }
 
-@INPROCEEDINGS{Rode2011-iu,
-  title     = "Reflexivity in digital anthropology",
-  booktitle = "Proceedings of the {SIGCHI} Conference on Human Factors in
-               Computing Systems",
-  author    = "Rode, Jennifer A",
-  abstract  = "There are a variety of forms of ethnography inside and outside
-               HCI each with valid complementary contributions. This paper
-               looks at the practices of digital anthropology and how it
-               contributes to reflexive design in HCI. The paper overviews key
-               aspects its use in HCI, as well as in the anthropological
-               approach. In doing so it relates these practices to
-               participatory design and the socio-technical gap, and the ways
-               ethnography can address them.",
-  publisher = "Association for Computing Machinery",
-  pages     = "123--132",
-  series    = "CHI '11",
-  month     =  may,
-  year      =  2011,
-  address   = "New York, NY, USA",
-  keywords  = "participant-observation, iterative, rapport,
-               ethnography;HCI;Research Methods;UCL",
-  location  = "Vancouver, BC, Canada",
-  isbn      = "9781450302289",
-  doi       = "10.1145/1978942.1978961"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
@@ -17659,4 +17633,30 @@
                      Construction",
   location        = "Banff, AB, Canada",
   doi             = "10.22260/isarc2019/0129"
+}
+
+@INPROCEEDINGS{Rode2011-iu,
+  title     = "Reflexivity in Digital Anthropology",
+  booktitle = "Proceedings of the {SIGCHI} Conference on Human Factors in
+               Computing Systems",
+  author    = "Rode, Jennifer A",
+  abstract  = "There are a variety of forms of ethnography inside and outside
+               HCI each with valid complementary contributions. This paper
+               looks at the practices of digital anthropology and how it
+               contributes to reflexive design in HCI. The paper overviews key
+               aspects its use in HCI, as well as in the anthropological
+               approach. In doing so it relates these practices to
+               participatory design and the socio-technical gap, and the ways
+               ethnography can address them.",
+  publisher = "Association for Computing Machinery",
+  pages     = "123--132",
+  series    = "CHI '11",
+  month     =  may,
+  year      =  2011,
+  address   = "New York, NY, USA",
+  keywords  = "participant-observation, iterative, rapport,
+               ethnography;HCI;Research Methods;UCL",
+  location  = "Vancouver, BC, Canada",
+  isbn      = "9781450302289",
+  doi       = "10.1145/1978942.1978961"
 }
