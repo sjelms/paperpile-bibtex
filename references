@@ -8970,7 +8970,8 @@
   month     =  apr,
   year      =  2015,
   address   = "New York, NY, USA",
-  keywords  = "computational education, scaffolding, authoring tools;ACM;AIEd",
+  keywords  = "computational education, scaffolding, authoring
+               tools;ACM;AIEd;Intelligent Tutoring Systems (ITS)",
   location  = "Seoul, Republic of Korea",
   isbn      = "9781450331456",
   doi       = "10.1145/2702123.2702580"
@@ -9349,7 +9350,8 @@
   year      =  2020,
   address   = "New York, NY, USA",
   keywords  = "online videos, scaffolding, interactivity, online education,
-               voice interaction, conversational agent, experiment;ACM;AIEd",
+               voice interaction, conversational agent,
+               experiment;ACM;AIEd;Intelligent Tutoring Systems (ITS)",
   location  = "Honolulu, HI, USA",
   isbn      = "9781450367080",
   doi       = "10.1145/3313831.3376781"
@@ -9390,7 +9392,8 @@
   year      =  2019,
   address   = "New York, NY, USA",
   keywords  = "scaffolding functions, Scaffolding, information technology,
-               scaffolding learning experience, case study;ACM;AIEd;Education",
+               scaffolding learning experience, case
+               study;ACM;AIEd;Education;Intelligent Tutoring Systems (ITS)",
   location  = "Shanghai, China",
   isbn      = "9781450362658",
   doi       = "10.1145/3338147.3338164"
@@ -9646,7 +9649,7 @@
   year      =  2000,
   address   = "New York, NY, USA",
   keywords  = "software evaluation, learner-centered design,
-               scaffolding;ACM;AIEd",
+               scaffolding;ACM;AIEd;Intelligent Tutoring Systems (ITS)",
   location  = "The Hague, The Netherlands",
   isbn      = "9781581132489",
   doi       = "10.1145/633292.633396"
