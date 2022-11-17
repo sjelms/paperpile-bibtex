@@ -17600,6 +17600,8 @@
   doi       = "10.1061/(asce)0733-9364(2008)134:10(795)"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{McGuinness2006-wg,
   title     = "Examining the link between skill shortages, training composition
                and productivity levels in the construction industry: evidence
@@ -17627,6 +17629,7 @@
   pages     = "265--279",
   month     =  feb,
   year      =  2006,
+  keywords  = "AEC;§New Literature;Workplace Learning",
   issn      = "0958-5192, 1466-4399",
   doi       = "10.1080/09585190500405538"
 }
