@@ -6218,7 +6218,8 @@
   month     =  may,
   year      =  2011,
   address   = "New York, NY, USA",
-  keywords  = "participant-observation, iterative, rapport, ethnography",
+  keywords  = "participant-observation, iterative, rapport,
+               ethnography;HCI;Research Methods;UCL",
   location  = "Vancouver, BC, Canada",
   isbn      = "9781450302289",
   doi       = "10.1145/1978942.1978961"
