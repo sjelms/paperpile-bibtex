@@ -6199,34 +6199,6 @@
   language  = "en"
 }
 
-@INPROCEEDINGS{Quintana2000-gr,
-  title     = "Evaluation criteria for scaffolding in learner-centered tools",
-  booktitle = "{CHI} '00 Extended Abstracts on Human Factors in Computing
-               Systems",
-  author    = "Quintana, Chris and Fretz, Eric and Krajcik, Joseph and Soloway,
-               Elliot",
-  abstract  = "Learner-centered design (LCD) is a design approach for
-               developing software that supports learners (i.e., work novices)
-               to do and learn new work tasks. For our LCD process, we are
-               focusing on evaluating scaffolding, i.e., features that support
-               the doing (and in turn, the learning) of a task in a ``learning
-               by doing'' fashion. To evaluate the role of scaffolding features
-               on a learner's developing understanding, we present a set of
-               evaluation criteria for distilling richer evaluation data about
-               scaffolding. We will use these criteria to evaluate Symphony, a
-               LCD tool for students learning the science inquiry process.",
-  publisher = "Association for Computing Machinery",
-  pages     = "189--190",
-  series    = "CHI EA '00",
-  month     =  apr,
-  year      =  2000,
-  address   = "New York, NY, USA",
-  keywords  = "software evaluation, learner-centered design, scaffolding",
-  location  = "The Hague, The Netherlands",
-  isbn      = "9781581132489",
-  doi       = "10.1145/633292.633396"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
@@ -17860,4 +17832,32 @@
   location  = "Seoul, Republic of Korea",
   isbn      = "9781450331456",
   doi       = "10.1145/2702123.2702580"
+}
+
+@INPROCEEDINGS{Quintana2000-gr,
+  title     = "Evaluation criteria for scaffolding in learner-centered tools",
+  booktitle = "{CHI} '00 Extended Abstracts on Human Factors in Computing
+               Systems",
+  author    = "Quintana, Chris and Fretz, Eric and Krajcik, Joseph and Soloway,
+               Elliot",
+  abstract  = "Learner-centered design (LCD) is a design approach for
+               developing software that supports learners (i.e., work novices)
+               to do and learn new work tasks. For our LCD process, we are
+               focusing on evaluating scaffolding, i.e., features that support
+               the doing (and in turn, the learning) of a task in a ``learning
+               by doing'' fashion. To evaluate the role of scaffolding features
+               on a learner's developing understanding, we present a set of
+               evaluation criteria for distilling richer evaluation data about
+               scaffolding. We will use these criteria to evaluate Symphony, a
+               LCD tool for students learning the science inquiry process.",
+  publisher = "Association for Computing Machinery",
+  pages     = "189--190",
+  series    = "CHI EA '00",
+  month     =  apr,
+  year      =  2000,
+  address   = "New York, NY, USA",
+  keywords  = "software evaluation, learner-centered design, scaffolding;ACM",
+  location  = "The Hague, The Netherlands",
+  isbn      = "9781581132489",
+  doi       = "10.1145/633292.633396"
 }
