@@ -6199,42 +6199,6 @@
   language  = "en"
 }
 
-@INPROCEEDINGS{ORourke2015-vs,
-  title     = "A Framework for Automatically Generating Interactive
-               Instructional Scaffolding",
-  booktitle = "Proceedings of the 33rd Annual {ACM} Conference on Human Factors
-               in Computing Systems",
-  author    = "O'Rourke, Eleanor and Andersen, Erik and Gulwani, Sumit and
-               Popovi{\'c}, Zoran",
-  abstract  = "Interactive learning environments such as intelligent tutoring
-               systems and software tutorials often teach procedures with
-               step-by-step demonstrations. This instructional scaffolding is
-               typically authored by hand, and little can be reused across
-               problem domains. In this work, we present a framework for
-               generating interactive tutorials from an algorithmic
-               representation of the problem-solving thought process. Given a
-               set of mappings between programming language constructs and user
-               interface elements, we step through this algorithm line-by-line
-               to trigger visual explanations of each step. This approach
-               allows us to automatically generate tutorials for any example
-               problem that can be solved with this algorithm. We describe two
-               prototype implementations in the domains of K-12 mathematics and
-               educational games, and present results from two user studies
-               showing that educational technologists can author
-               thought-process procedures and that generated tutorials can
-               effectively teach a new procedure to students.",
-  publisher = "Association for Computing Machinery",
-  pages     = "1545--1554",
-  series    = "CHI '15",
-  month     =  apr,
-  year      =  2015,
-  address   = "New York, NY, USA",
-  keywords  = "computational education, scaffolding, authoring tools",
-  location  = "Seoul, Republic of Korea",
-  isbn      = "9781450331456",
-  doi       = "10.1145/2702123.2702580"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
@@ -17832,4 +17796,40 @@
   location  = "Shanghai, China",
   isbn      = "9781450362658",
   doi       = "10.1145/3338147.3338164"
+}
+
+@INPROCEEDINGS{ORourke2015-vs,
+  title     = "A Framework for Automatically Generating Interactive
+               Instructional Scaffolding",
+  booktitle = "Proceedings of the 33rd Annual {ACM} Conference on Human Factors
+               in Computing Systems",
+  author    = "O'Rourke, Eleanor and Andersen, Erik and Gulwani, Sumit and
+               Popovi{\'c}, Zoran",
+  abstract  = "Interactive learning environments such as intelligent tutoring
+               systems and software tutorials often teach procedures with
+               step-by-step demonstrations. This instructional scaffolding is
+               typically authored by hand, and little can be reused across
+               problem domains. In this work, we present a framework for
+               generating interactive tutorials from an algorithmic
+               representation of the problem-solving thought process. Given a
+               set of mappings between programming language constructs and user
+               interface elements, we step through this algorithm line-by-line
+               to trigger visual explanations of each step. This approach
+               allows us to automatically generate tutorials for any example
+               problem that can be solved with this algorithm. We describe two
+               prototype implementations in the domains of K-12 mathematics and
+               educational games, and present results from two user studies
+               showing that educational technologists can author
+               thought-process procedures and that generated tutorials can
+               effectively teach a new procedure to students.",
+  publisher = "Association for Computing Machinery",
+  pages     = "1545--1554",
+  series    = "CHI '15",
+  month     =  apr,
+  year      =  2015,
+  address   = "New York, NY, USA",
+  keywords  = "computational education, scaffolding, authoring tools;ACM;AIEd",
+  location  = "Seoul, Republic of Korea",
+  isbn      = "9781450331456",
+  doi       = "10.1145/2702123.2702580"
 }
