@@ -17593,8 +17593,8 @@
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Golovina2019-ij,
-  title           = "Using serious games in virtual reality for automated close
-                     call and contact collision analysis in construction safety",
+  title           = "Using Serious Games in Virtual Reality for Automated Close
+                     Call and Contact Collision Analysis in Construction Safety",
   booktitle       = "Proceedings of the 36th International Symposium on
                      Automation and Robotics in Construction ({ISARC})",
   author          = "Golovina, Olga and Kazanci, Caner and Teizer, Jochen and
