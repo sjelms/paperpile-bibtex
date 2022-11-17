@@ -17856,7 +17856,8 @@
   month     =  apr,
   year      =  2000,
   address   = "New York, NY, USA",
-  keywords  = "software evaluation, learner-centered design, scaffolding;ACM",
+  keywords  = "software evaluation, learner-centered design,
+               scaffolding;ACM;AIEd",
   location  = "The Hague, The Netherlands",
   isbn      = "9781581132489",
   doi       = "10.1145/633292.633396"
