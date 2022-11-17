@@ -9286,6 +9286,47 @@
   doi       = "10.1145/3313831.3376781"
 }
 
+@INPROCEEDINGS{Yang2019-bw,
+  title     = "A Case Study of Pupils' Scaffolding Learning Experience
+               Supported by Information Technology",
+  booktitle = "Proceedings of the 2019 4th International Conference on Distance
+               Education and Learning",
+  author    = "Yang, Yang and Zuo, Mingzhang and Wang, Wenqian",
+  abstract  = "Scaffolding teaching method is a learner-centered teaching
+               method based on constructivism, aiming at cultivating students'
+               problem-solving ability and autonomous learning ability. Lots of
+               researches have studied scaffolding concerning subjects of
+               biology and engineering, what lacks from such researches is the
+               scaffolding designed in English teaching, especially in the
+               support of information technology. In particular, information
+               technology-based scaffolding is also scarce in the foreign
+               language teaching. In order to bridge the gap, this paper
+               introduced the results of a case study in which the students of
+               primary school participate in the making of animation learning
+               resources in English subject by using an animation production
+               tool. Findings suggest that the student participants' perform
+               better after participating in the process of making the situated
+               animation resources. And most importantly, the resources they
+               designed are intended to be reused and restored by facilitating
+               the management and sharing. The article concludes with a
+               discussion of the implications of the findings for improving the
+               performance of students. It gives a new thought for the
+               scaffolding from the perspective of students and provides them
+               scaffolding learning experience thus improving learning
+               motivation and cognition.",
+  publisher = "Association for Computing Machinery",
+  pages     = "112--117",
+  series    = "ICDEL 2019",
+  month     =  may,
+  year      =  2019,
+  address   = "New York, NY, USA",
+  keywords  = "scaffolding functions, Scaffolding, information technology,
+               scaffolding learning experience, case study",
+  location  = "Shanghai, China",
+  isbn      = "9781450362658",
+  doi       = "10.1145/3338147.3338164"
+}
+
 @INPROCEEDINGS{Vasilevski2019-cl,
   title           = "Optimizing augmented reality outcomes in a gamified place
                      experience application through design science research",
