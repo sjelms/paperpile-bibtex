@@ -3922,21 +3922,6 @@
                Robotics in Construction (IAARC)"
 }
 
-@ARTICLE{Golovina2019-ij,
-  title     = "Using serious games in virtual reality for automated close call
-               and contact collision analysis in construction safety",
-  author    = "Golovina, Olga and Kazanci, Caner and Teizer, Jochen and
-               K{\"o}nig, Markus",
-  journal   = "ISARC Proceedings",
-  publisher = "IAARC",
-  pages     = "967--974",
-  month     =  may,
-  year      =  2019,
-  keywords  = "\_XR/MR;AEC;@\_Mark Up;International Association for Automation
-               and Robotics in Construction (IAARC);XR Reviewed",
-  doi       = "10.22260/isarc2019/0129"
-}
-
 @ARTICLE{Barkokebas2019-eh,
   title     = "Application of virtual reality in task training in the
                construction manufacturing industry",
@@ -13387,45 +13372,6 @@
 
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
-@INPROCEEDINGS{Golovina2019-lu,
-  title           = "Using serious games in virtual reality for automated close
-                     call and contact collision analysis in construction safety",
-  booktitle       = "Proceedings of the 36th International Symposium on
-                     Automation and Robotics in Construction ({ISARC})",
-  author          = "Golovina, Olga and Kazanci, Caner and Teizer, Jochen and
-                     K{\"o}nig, Markus",
-  abstract        = "Injuries and fatalities resulting from workplace accidents
-                     remain a global concern within the construction industry.
-                     While education and training of personnel offer well known
-                     approaches for establishing a safe work environment,
-                     Serious Games in Virtual Reality (VR) is being
-                     increasingly investigated as a complementary approach for
-                     learning. They yet have to take full advantage of the
-                     inherent data that can be collected about players. This
-                     research presents a novel approach for the automated
-                     assessment of players' data. The proposed method gathers
-                     and processes the data within a serious game for instant
-                     personalized feedback. The application focuses on close
-                     calls and contact collisions between construction workers
-                     and hazards like equipment, harmful substances, or
-                     restricted work zones. The results demonstrate the
-                     benefits and limitations of safety information previously
-                     unavailable, or very hard or impossible to collect. An
-                     outlook presents work ahead for practical implementation
-                     in existing risk management processes.",
-  publisher       = "International Association for Automation and Robotics in
-                     Construction (IAARC)",
-  month           =  may,
-  year            =  2019,
-  keywords        = "§New Literature;AEC;\_XR/MR;Training",
-  conference      = "36th International Symposium on Automation and Robotics in
-                     Construction",
-  location        = "Banff, AB, Canada",
-  doi             = "10.22260/isarc2019/0129"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
 @ARTICLE{Wolf2022-kz,
   title     = "Investigating hazard recognition in augmented virtuality for
                personalized feedback in construction safety education and
@@ -17642,4 +17588,47 @@
   year      =  2001,
   keywords  = "CATALOGED;Notion Catalogued;Healthcare + CME",
   language  = "en"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@INPROCEEDINGS{Golovina2019-ij,
+  title           = "Using serious games in virtual reality for automated close
+                     call and contact collision analysis in construction safety",
+  booktitle       = "Proceedings of the 36th International Symposium on
+                     Automation and Robotics in Construction ({ISARC})",
+  author          = "Golovina, Olga and Kazanci, Caner and Teizer, Jochen and
+                     K{\"o}nig, Markus",
+  abstract        = "Injuries and fatalities resulting from workplace accidents
+                     remain a global concern within the construction industry.
+                     While education and training of personnel offer well known
+                     approaches for establishing a safe work environment,
+                     Serious Games in Virtual Reality (VR) is being
+                     increasingly investigated as a complementary approach for
+                     learning. They yet have to take full advantage of the
+                     inherent data that can be collected about players. This
+                     research presents a novel approach for the automated
+                     assessment of players' data. The proposed method gathers
+                     and processes the data within a serious game for instant
+                     personalized feedback. The application focuses on close
+                     calls and contact collisions between construction workers
+                     and hazards like equipment, harmful substances, or
+                     restricted work zones. The results demonstrate the
+                     benefits and limitations of safety information previously
+                     unavailable, or very hard or impossible to collect. An
+                     outlook presents work ahead for practical implementation
+                     in existing risk management processes.",
+  publisher       = "International Association for Automation and Robotics in
+                     Construction (IAARC)",
+  pages           = "967--974",
+  month           =  may,
+  year            =  2019,
+  keywords        = "\_XR/MR;AEC;@\_Mark Up;§New
+                     Literature;Training;International Association for
+                     Automation and Robotics in Construction (IAARC);XR
+                     Reviewed",
+  conference      = "36th International Symposium on Automation and Robotics in
+                     Construction",
+  location        = "Banff, AB, Canada",
+  doi             = "10.22260/isarc2019/0129"
 }
