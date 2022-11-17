@@ -9955,6 +9955,36 @@
   doi      = "10.1177/0270467604264992"
 }
 
+@ARTICLE{Rekdal2014-zf,
+  title    = "Academic urban legends",
+  author   = "Rekdal, Ole Bj{\o}rn",
+  abstract = "Many of the messages presented in respectable scientific
+              publications are, in fact, based on various forms of rumors. Some
+              of these rumors appear so frequently, and in such complex,
+              colorful, and entertaining ways that we can think of them as
+              academic urban legends. The explanation for this phenomenon is
+              usually that authors have lazily, sloppily, or fraudulently
+              employed sources, and peer reviewers and editors have not
+              discovered these weaknesses in the manuscripts during evaluation.
+              To illustrate this phenomenon, I draw upon a remarkable case in
+              which a decimal point error appears to have misled millions into
+              believing that spinach is a good nutritional source of iron.
+              Through this example, I demonstrate how an academic urban legend
+              can be conceived and born, and can continue to grow and reproduce
+              within academia and beyond.",
+  journal  = "Soc. Stud. Sci.",
+  volume   =  44,
+  number   =  4,
+  pages    = "638--654",
+  month    =  aug,
+  year     =  2014,
+  language = "en",
+  issn     = "0306-3127",
+  pmid     = "25272616",
+  doi      = "10.1177/0306312714535679",
+  pmc      = "PMC4232290"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Mills2022-zk,
