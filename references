@@ -2919,6 +2919,40 @@
   doi      = "10.1016/j.compedu.2010.07.010"
 }
 
+@ARTICLE{Yeh2011-wj,
+  title    = "Knowledge management in blended learning: Effects on professional
+              development in creativity instruction",
+  author   = "Yeh, Yu-Chu and Huang, Ling-Yi and Yeh, Yi-Ling",
+  abstract = "The purposes of this study were (1) to develop a teacher training
+              program that integrates knowledge management (KM) and blended
+              learning and examine its effects on pre-service teachers'
+              professional development in creativity instruction; and (2) to
+              explore the mechanisms underlying the success of such KM-based
+              training. The employed KM model was the SECI, which consists of
+              four modes of knowledge conversion: socialization,
+              externalization, combination, and internalization. Forty-four
+              pre-service teachers participated in this 17-week experimental
+              instructional program. Repeated Measure Analysis of Variance and
+              content analysis revealed that the training program designed in
+              this study effectively improved pre-service teachers'
+              professional knowledge and personal teaching efficacy in their
+              teaching of creativity. Moreover, this study showed that blended
+              learning, guided practice, observational learning, group
+              discussion, peer evaluation, and feedback are important
+              mechanisms underlying this success.",
+  journal  = "Comput. Educ.",
+  volume   =  56,
+  number   =  1,
+  pages    = "146--156",
+  month    =  jan,
+  year     =  2011,
+  keywords = "Adult learning; Applications in subject areas; Improving
+              classroom teaching; Post-secondary education; Teaching/learning
+              strategies",
+  issn     = "0360-1315",
+  doi      = "10.1016/j.compedu.2010.08.011"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Wu2013-sq,
