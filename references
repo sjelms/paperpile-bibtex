@@ -18017,10 +18017,13 @@
   keywords    = "AEC;Report;Autodesk"
 }
 
-@ARTICLE{Construction_undated-kd,
-  title    = "{FUTURE} {OF} {WORK}",
-  author   = "Construction, I N",
-  keywords = "AEC;Report;Autodesk"
+@TECHREPORT{Debra_Pothier2020-kd,
+  title       = "Future of Work in Construction",
+  author      = "Debra Pothier, Anil Sawhney",
+  institution = "Autodesk",
+  month       =  jun,
+  year        =  2020,
+  keywords    = "AEC;Report;Autodesk"
 }
 
 @ARTICLE{Nonaka1994-ec,
