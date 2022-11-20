@@ -6198,6 +6198,12 @@
   language  = "en"
 }
 
+@ARTICLE{Construction_undated-kd,
+  title    = "{FUTURE} {OF} {WORK}",
+  author   = "Construction, I N",
+  keywords = "Autodesk"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
