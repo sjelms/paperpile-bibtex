@@ -10731,19 +10731,13 @@
                environment",
   author    = "Hussien, Aseel and Waraich, Atif and Paes, Daniel",
   editor    = "Sawhney, Anil and Riley, Michael and Irizarry, Javier",
-  abstract  = "Modelled on the concept of Industry 4.0, the idea of
-               Construction 4.0 is based on a confluence of trends and
-               technologies that promise to reshape the way built environment
-               assets are designed, constructed, and operated. With the
-               pervasive use of Building Information Modelling (BIM), lean
-               principles, digital technologies, and offsite construction, the
-               industry is at the cusp of this transformation. The critical
-               challenge is the fragmented state of teaching, research, and
-               professional practice in the built environment sector. This
-               handbook aims to overcome this fragmentation by describing
-               Construction 4.0 in the context of its current state, emerging
-               trends and technologies, and the people and process issues that
-               surround the coming transformation.",
+  abstract  = "To provide an overview of state-of-the-art mixed-reality
+               technologies in the construction industry. To describe virtual
+               reality and augmented reality technologies including their
+               principles, differences, operation, latest devices, main
+               applications and major impacts in the construction industry. To
+               characterize current adoption levels and future expectations
+               concerning mixed-reality applications in Construction 4.0.",
   publisher = "Routledge",
   pages     = "131--141",
   month     =  feb,
