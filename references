@@ -6198,19 +6198,6 @@
   language  = "en"
 }
 
-@BOOK{Sawhney2020-tm,
-  title     = "Construction 4.0: An innovation platform for the built
-               environment",
-  author    = "Sawhney, Anil and Riley, Mike and Irizarry, Javier",
-  editor    = "Sawhney, Anil and Riley, Michael and Irizarry, Javier",
-  publisher = "Routledge",
-  month     =  feb,
-  year      =  2020,
-  keywords  = "AEC;Autodesk",
-  isbn      = "9780429398100",
-  doi       = "10.1201/9780429398100"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
@@ -18100,4 +18087,30 @@
   language  = "en",
   issn      = "1560-4292, 1560-4306",
   doi       = "10.1007/s40593-015-0055-y"
+}
+
+@BOOK{Sawhney2020-tm,
+  title     = "Construction 4.0: An innovation platform for the built
+               environment",
+  author    = "Sawhney, Anil and Riley, Mike and Irizarry, Javier",
+  editor    = "Sawhney, Anil and Riley, Michael and Irizarry, Javier",
+  abstract  = "Modelled on the concept of Industry 4.0, the idea of
+               Construction 4.0 is based on a confluence of trends and
+               technologies that promise to reshape the way built environment
+               assets are designed, constructed, and operated. With the
+               pervasive use of Building Information Modelling (BIM), lean
+               principles, digital technologies, and offsite construction, the
+               industry is at the cusp of this transformation. The critical
+               challenge is the fragmented state of teaching, research, and
+               professional practice in the built environment sector. This
+               handbook aims to overcome this fragmentation by describing
+               Construction 4.0 in the context of its current state, emerging
+               trends and technologies, and the people and process issues that
+               surround the coming transformation.",
+  publisher = "Routledge",
+  month     =  feb,
+  year      =  2020,
+  keywords  = "AEC;Autodesk",
+  isbn      = "9780429398100",
+  doi       = "10.1201/9780429398100"
 }
