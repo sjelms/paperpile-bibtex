@@ -13306,15 +13306,6 @@
   isbn      = "9781849204095"
 }
 
-@TECHREPORT{Autodesk2019-fn,
-  title       = "Industrialized Construction in Academia",
-  author      = "{Autodesk}",
-  institution = "Autodesk",
-  month       =  jun,
-  year        =  2019,
-  keywords    = "AEC;Report;Autodesk"
-}
-
 @TECHREPORT{Leopold2018-cc,
   title       = "The Future of Jobs 2018",
   author      = "Leopold, T A and Ratcheva, V and Zahidi, S and {World Economic
@@ -14703,6 +14694,15 @@
   keywords  = "Book (physical);Cited for Frontiers;Frontiers [2022]",
   language  = "en",
   isbn      = "9780393239355"
+}
+
+@TECHREPORT{Pothier2019-fn,
+  title       = "Industrialized Construction in Academia",
+  author      = "Pothier, Debra and Sawhney, Anil",
+  institution = "Autodesk",
+  month       =  jun,
+  year        =  2019,
+  keywords    = "AEC;Report;Autodesk"
 }
 
 @TECHREPORT{Barua2020-br,
