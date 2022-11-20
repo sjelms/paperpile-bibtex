@@ -14860,6 +14860,15 @@
   isbn      = "9781119523604"
 }
 
+@TECHREPORT{Pothier2020-kd,
+  title       = "Future of Work in Construction",
+  author      = "Pothier, Debra and Sawhney, Anil",
+  institution = "Autodesk",
+  month       =  jun,
+  year        =  2020,
+  keywords    = "AEC;Report;Autodesk"
+}
+
 @MISC{Bertollini2019-sn,
   title    = "This Is What Trillions in {Global-Infrastructure} Investment Look
               Like",
@@ -14887,15 +14896,6 @@
   howpublished = "Talks at Google",
   keywords     = "\_XR/MR;YouTube;**CATALOGED;Notion Catalogued;Experience on
                   Demand (Related Work)"
-}
-
-@TECHREPORT{Debra_Pothier2020-kd,
-  title       = "Future of Work in Construction",
-  author      = "Debra Pothier, Anil Sawhney",
-  institution = "Autodesk",
-  month       =  jun,
-  year        =  2020,
-  keywords    = "AEC;Report;Autodesk"
 }
 
 @MISC{Redshift2019-vy,
