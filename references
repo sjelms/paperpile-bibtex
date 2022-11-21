@@ -18129,7 +18129,8 @@
                  environmentally.",
   institution = "World Economic Forum",
   month       =  jun,
-  year        =  2018
+  year        =  2018,
+  keywords    = "AEC"
 }
 
 @ARTICLE{Oesterreich2016-yo,
