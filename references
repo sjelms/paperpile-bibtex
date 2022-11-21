@@ -18224,7 +18224,7 @@
   pages    = "337--343",
   month    =  aug,
   year     =  2012,
-  keywords = "AEC",
+  keywords = "AEC;LSU Supporting Works",
   language = "en",
   issn     = "0149-7189, 1873-7870",
   pmid     = "22410166",
@@ -18247,7 +18247,8 @@
   pages    = "220--224",
   month    =  nov,
   year     =  1984,
-  keywords = "education; construction; training; Australia;AEC",
+  keywords = "education; construction; training; Australia;AEC;LSU Supporting
+              Works",
   issn     = "0263-7863",
   doi      = "10.1016/0263-7863(84)90039-5"
 }
