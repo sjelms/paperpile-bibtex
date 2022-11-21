@@ -6255,45 +6255,6 @@
   doi       = "10.1201/9780429398100"
 }
 
-@ARTICLE{Beilock2008-jm,
-  title    = "Sports experience changes the neural processing of action
-              language",
-  author   = "Beilock, Sian L and Lyons, Ian M and Mattarella-Micke, Andrew and
-              Nusbaum, Howard C and Small, Steven L",
-  abstract = "Experience alters behavior by producing enduring changes in the
-              neural processes that support performance. For example,
-              performing a specific action improves the execution of that
-              action via changes in associated sensory and motor neural
-              circuitry, and experience using language improves language
-              comprehension by altering the anatomy and physiology of
-              perisylvian neocortical brain regions. Here we provide evidence
-              that specialized (sports) motor experience enhances
-              action-related language understanding by recruitment of left
-              dorsal lateral premotor cortex, a region normally devoted to
-              higher-level action selection and implementation-even when there
-              is no intention to perform a real action. Experience playing and
-              watching sports has enduring effects on language understanding by
-              changing the neural networks that subserve comprehension to
-              incorporate areas active in performing sports skills. Without
-              such experience, sport novices recruit lower-level sensory-motor
-              regions, thought to support the instantiation of movement, during
-              language processing, and activity in primary motor areas does not
-              help comprehension. Thus, the language system is sufficiently
-              plastic and dynamic to encompass expertise-related neural
-              recruitment outside core language networks.",
-  journal  = "Proc. Natl. Acad. Sci. U. S. A.",
-  volume   =  105,
-  number   =  36,
-  pages    = "13269--13273",
-  month    =  sep,
-  year     =  2008,
-  language = "en",
-  issn     = "0027-8424, 1091-6490",
-  pmid     = "18765806",
-  doi      = "10.1073/pnas.0803424105",
-  pmc      = "PMC2527992"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
@@ -18290,4 +18251,44 @@
               Works",
   issn     = "0263-7863",
   doi      = "10.1016/0263-7863(84)90039-5"
+}
+
+@ARTICLE{Beilock2008-jm,
+  title    = "Sports experience changes the neural processing of action
+              language",
+  author   = "Beilock, Sian L and Lyons, Ian M and Mattarella-Micke, Andrew and
+              Nusbaum, Howard C and Small, Steven L",
+  abstract = "Experience alters behavior by producing enduring changes in the
+              neural processes that support performance. For example,
+              performing a specific action improves the execution of that
+              action via changes in associated sensory and motor neural
+              circuitry, and experience using language improves language
+              comprehension by altering the anatomy and physiology of
+              perisylvian neocortical brain regions. Here we provide evidence
+              that specialized (sports) motor experience enhances
+              action-related language understanding by recruitment of left
+              dorsal lateral premotor cortex, a region normally devoted to
+              higher-level action selection and implementation-even when there
+              is no intention to perform a real action. Experience playing and
+              watching sports has enduring effects on language understanding by
+              changing the neural networks that subserve comprehension to
+              incorporate areas active in performing sports skills. Without
+              such experience, sport novices recruit lower-level sensory-motor
+              regions, thought to support the instantiation of movement, during
+              language processing, and activity in primary motor areas does not
+              help comprehension. Thus, the language system is sufficiently
+              plastic and dynamic to encompass expertise-related neural
+              recruitment outside core language networks.",
+  journal  = "Proc. Natl. Acad. Sci. U. S. A.",
+  volume   =  105,
+  number   =  36,
+  pages    = "13269--13273",
+  month    =  sep,
+  year     =  2008,
+  keywords = "Experience on Demand (Related Work)",
+  language = "en",
+  issn     = "0027-8424, 1091-6490",
+  pmid     = "18765806",
+  doi      = "10.1073/pnas.0803424105",
+  pmc      = "PMC2527992"
 }
