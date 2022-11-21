@@ -1835,6 +1835,27 @@
   doi       = "10.1016/0004-3702(87)90080-4"
 }
 
+@ARTICLE{Hutcheson1984-gq,
+  title    = "Educating project managers for the construction industry in
+              Australia",
+  author   = "Hutcheson, John",
+  abstract = "The results of research in Australia and overseas into the
+              education of project managers for the construction industry are
+              presented. An analysis is made of the results of this research.
+              This analysis is compounded with other source data and
+              conclusions drawn on the formal and informal education of project
+              managers for the construction industry.",
+  journal  = "Int. J. Project Manage.",
+  volume   =  2,
+  number   =  4,
+  pages    = "220--224",
+  month    =  nov,
+  year     =  1984,
+  keywords = "education; construction; training; Australia",
+  issn     = "0263-7863",
+  doi      = "10.1016/0263-7863(84)90039-5"
+}
+
 @INCOLLECTION{Opwis2001-vw,
   title     = "Instructional Technology: Cognitive Science Perspectives",
   booktitle = "International Encyclopedia of the Social \& Behavioral Sciences",
