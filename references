@@ -10851,6 +10851,8 @@
   doi       = "10.1186/s40461-017-0060-5"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Hajirasouli2022-ou,
   title     = "Augmented reality in architecture and construction education:
                state of the field and opportunities",
@@ -10889,7 +10891,7 @@
   number    =  1,
   month     =  jul,
   year      =  2022,
-  keywords  = "\_XR/MR;AEC;Education;Essential",
+  keywords  = "\_XR/MR;AEC;Education;Essential;§New Literature",
   copyright = "https://creativecommons.org/licenses/by/4.0",
   language  = "en",
   issn      = "2365-9440",
