@@ -14343,6 +14343,37 @@
   keywords  = "YouTube;HCI;**CATALOGED;Notion Catalogued"
 }
 
+@BOOK{Wilkinson2005-cq,
+  title     = "The Essential Guide to Postgraduate Study",
+  author    = "Wilkinson, David",
+  abstract  = "``To do justice to the postgraduate journey as experienced by
+               the students, quotations and anecdotes from the author's own
+               research ... are drawn upon. These anecdotes provide vivid
+               insights into the postgraduate experience, thereby livening up
+               the text and providing some solace to those facing similar
+               issues in their postgraduate existence' - Education and Training
+               JournalFor anyone embarking on postgraduate study, this is an
+               indispensable guide. Packed with hands-on advice and examples
+               from students themselves, David Wilkinson provides:- Up-to-date
+               information on developments in postgraduate study;- Guidance on
+               where and how to apply;- Advice on constructing effective
+               research proposals, with examples of successful submissions;-
+               Help with developing an academic writing style and advice on how
+               to get published.While each consecutive chapter develops and
+               builds upon its predecessor, the book has been designed to be
+               easy to 'dip into' to help resolve a problem or examine an issue
+               of relevance to a particular stage of the process.Detailed yet
+               highly accessible, The Essential Guide to Postgraduate Study is
+               a 'must-have' resource for prospective postgraduates, current
+               postgraduates and anyone interested in better understanding
+               postgraduate study in UK universities and colleges.",
+  publisher = "SAGE",
+  month     =  oct,
+  year      =  2005,
+  language  = "en",
+  isbn      = "9781412900638"
+}
+
 @ARTICLE{Andy_Clark_and_David_Chalmers1998-ee,
   title     = "The Extended Mind",
   author    = "{Andy Clark and David Chalmers}",
