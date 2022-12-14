@@ -18407,7 +18407,7 @@
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Collins1991-es,
-  title    = "{COGNITIVE} {APPRENTICESHIP}: {MAKING} {THINKING} {VISIBLE}",
+  title    = "Cognitive Apprenticeship: Making Thinking Visible",
   author   = "Collins, A and Brown, J and Holum, A",
   abstract = "IN ANCIENT times, teaching and learning were accomplished through
               apprenticeship: We taught our children how to speak, grow crops,
