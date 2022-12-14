@@ -15055,59 +15055,6 @@
   doi       = "10.1145/2442106.2442109"
 }
 
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@ARTICLE{Collins1991-es,
-  title    = "Cognitive Apprenticeship: Making Thinking Visible",
-  author   = "Collins, A and Brown, J and Holum, A",
-  abstract = "IN ANCIENT times, teaching and learning were accomplished through
-              apprenticeship: We taught our children how to speak, grow crops,
-              craft cabinets, or tailor clothes by showing them how and by
-              helping them do it. Apprenticeship was the vehicle for
-              transmitting the knowledge required for expert practice in fields
-              from painting and sculpting to medicine and law. It was the
-              natural way to learn. In modern times, apprenticeship has largely
-              been replaced by formal schooling, except in children's learning
-              of language, in some aspects of graduate education, and in
-              on-the-job training. We propose an alternative model of
-              instruction that is accessible within the framework of the
-              typical American classroom. It is a model of instruction that
-              goes back to apprenticeship but incorporates elements of
-              schooling. We call this model ``cognitive apprenticeship'' While
-              there are many differences between schooling and apprenticeship
-              methods, we will focus on one. In apprenticeship, learners can
-              see the processes of work: They watch a parent sow, plant, and
-              harvest crops and help as they are able; they assist a tradesman
-              as he crafts a cabinet; they piece together garments under the
-              supervision of a more experienced tailor. Apprenticeship involves
-              learning a physical, tangible activity. But in schooling, the
-              ``practice'' of problem solving, reading comprehension, and
-              writing is not at all obvious-it is not necessarily observable to
-              the student. In apprenticeship, the processes of the activity are
-              visible. In schooling, the processes of thinking are often
-              invisible to both the students and the teacher. Cognitive
-              apprenticeship is a model of instruction that works to make
-              thinking visible. In this article, we will present some of the
-              features of traditional apprenticeship and discuss the ways it
-              can be adapted to the teaching and learning of cognitive skills.
-              Then we will present three successful examples-cases in which
-              teachers and researchers have used apprenticeship methods to
-              teach reading, writing, and mathematics. In the final section, we
-              organize our ideas about the characteristics of successful
-              teaching into a general framework for the design of learning
-              environments, where ``environment'' includes the content taught,
-              the pedagogical methods employed, the sequencing of learning
-              activities, and the sociology of learning. Although schools have
-              been relatively successful in organizing and conveying large
-              bodies of conceptual and factual knowledge, standard pedagogical
-              practices render key aspects of expertise invisible to students.
-              Too little attention is paid to the reasoning and strategies that
-              experts employ when they acquire knowledge or …",
-  year     =  1991,
-  keywords = "Research Methods;§New Literature",
-  language = "en"
-}
-
 @MISC{Alberto2022-nv,
   title    = "Applying the Cognitive Theory of Multimedia Learning to
               Educational Animations and Explainer Videos in {CME-CPD}",
@@ -18455,6 +18402,61 @@
   pmid      = "35719321",
   doi       = "10.1016/j.gore.2022.101024",
   pmc       = "PMC9204657"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Collins1991-es,
+  title    = "{COGNITIVE} {APPRENTICESHIP}: {MAKING} {THINKING} {VISIBLE}",
+  author   = "Collins, A and Brown, J and Holum, A",
+  abstract = "IN ANCIENT times, teaching and learning were accomplished through
+              apprenticeship: We taught our children how to speak, grow crops,
+              craft cabinets, or tailor clothes by showing them how and by
+              helping them do it. Apprenticeship was the vehicle for
+              transmitting the knowledge required for expert practice in fields
+              from painting and sculpting to medicine and law. It was the
+              natural way to learn. In modern times, apprenticeship has largely
+              been replaced by formal schooling, except in children's learning
+              of language, in some aspects of graduate education, and in
+              on-the-job training. We propose an alternative model of
+              instruction that is accessible within the framework of the
+              typical American classroom. It is a model of instruction that
+              goes back to apprenticeship but incorporates elements of
+              schooling. We call this model ``cognitive apprenticeship'' While
+              there are many differences between schooling and apprenticeship
+              methods, we will focus on one. In apprenticeship, learners can
+              see the processes of work: They watch a parent sow, plant, and
+              harvest crops and help as they are able; they assist a tradesman
+              as he crafts a cabinet; they piece together garments under the
+              supervision of a more experienced tailor. Apprenticeship involves
+              learning a physical, tangible activity. But in schooling, the
+              ``practice'' of problem solving, reading comprehension, and
+              writing is not at all obvious-it is not necessarily observable to
+              the student. In apprenticeship, the processes of the activity are
+              visible. In schooling, the processes of thinking are often
+              invisible to both the students and the teacher. Cognitive
+              apprenticeship is a model of instruction that works to make
+              thinking visible. In this article, we will present some of the
+              features of traditional apprenticeship and discuss the ways it
+              can be adapted to the teaching and learning of cognitive skills.
+              Then we will present three successful examples-cases in which
+              teachers and researchers have used apprenticeship methods to
+              teach reading, writing, and mathematics. In the final section, we
+              organize our ideas about the characteristics of successful
+              teaching into a general framework for the design of learning
+              environments, where ``environment'' includes the content taught,
+              the pedagogical methods employed, the sequencing of learning
+              activities, and the sociology of learning. Although schools have
+              been relatively successful in organizing and conveying large
+              bodies of conceptual and factual knowledge, standard pedagogical
+              practices render key aspects of expertise invisible to students.
+              Too little attention is paid to the reasoning and strategies that
+              experts employ when they acquire knowledge or …",
+  journal  = "American Educator: The Professional Journal of the American
+              Federation of Teachers",
+  year     =  1991,
+  keywords = "Research Methods;§New Literature",
+  language = "en"
 }
 
 @ARTICLE{Bergman2012-fh,
