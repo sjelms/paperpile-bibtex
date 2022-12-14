@@ -18457,6 +18457,24 @@
   isbn      = "9781119158677"
 }
 
+@ARTICLE{Bergman2012-fh,
+  title    = "{AM} last page: A guide to research paradigms relevant to medical
+              education",
+  author   = "Bergman, Esther and de Feijter, Jeantine and Frambach, Janneke
+              and Godefrooij, Merijn and Slootweg, Irene and Stalmeijer,
+              Ren{\'e}e and van der Zwet, Jonne",
+  journal  = "Acad. Med.",
+  volume   =  87,
+  number   =  4,
+  pages    = "545",
+  month    =  apr,
+  year     =  2012,
+  language = "en",
+  issn     = "1040-2446, 1938-808X",
+  pmid     = "22452919",
+  doi      = "10.1097/ACM.0b013e31824fbc8a"
+}
+
 @ARTICLE{Brown2020-hg,
   title    = "A Medical Science Educator's Guide to Selecting a Research
               Paradigm: Building a Basis for Better Research",
