@@ -16687,6 +16687,8 @@
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @BOOK{Ahmed2022-tl,
   title     = "Validity and Reliability in Built Environment Research: A
                Selection of Case Studies",
@@ -16719,7 +16721,7 @@
   publisher = "Routledge",
   month     =  feb,
   year      =  2022,
-  keywords  = "ePub | Kindle;AEC;Research Methods",
+  keywords  = "ePub | Kindle;AEC;Research Methods;§New Literature",
   language  = "en",
   isbn      = "9780429516375"
 }
