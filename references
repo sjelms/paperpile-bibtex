@@ -12815,6 +12815,18 @@
   doi       = "10.4135/9781446200940.n2"
 }
 
+@INCOLLECTION{Costley2013-sd,
+  title     = "Workplace learning and higher education",
+  booktitle = "The {SAGE} Handbook of Workplace Learning",
+  author    = "Costley, Carol",
+  publisher = "SAGE Publications Ltd",
+  pages     = "395--406",
+  year      =  2013,
+  address   = "1 Oliver's Yard, 55 City Road, London EC1Y 1SP United Kingdom",
+  isbn      = "9781847875891, 9781446200940",
+  doi       = "10.4135/9781446200940.n29"
+}
+
 @INCOLLECTION{Diamond2001-mz,
   title     = "Chapter 8 - From Samples to Populations",
   booktitle = "Beginning Statistics: An Introduction for Social Scientists",
