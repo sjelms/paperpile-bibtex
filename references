@@ -12790,6 +12790,18 @@
   doi       = "10.4135/9781412963909"
 }
 
+@INCOLLECTION{Sawchuk2013-ux,
+  title     = "Researching workplace learning: An overview and critique",
+  booktitle = "The {SAGE} Handbook of Workplace Learning",
+  author    = "Sawchuk, Peter H",
+  publisher = "SAGE Publications Ltd",
+  pages     = "165--180",
+  year      =  2013,
+  address   = "1 Oliver's Yard, 55 City Road, London EC1Y 1SP United Kingdom",
+  isbn      = "9781847875891, 9781446200940",
+  doi       = "10.4135/9781446200940.n12"
+}
+
 @INCOLLECTION{Eraut2013-ty,
   title     = "How researching learning at work can lead to tools for enhancing
                learning",
