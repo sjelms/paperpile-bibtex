@@ -18588,6 +18588,8 @@
   isbn      = "9780429516375"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Jewitt2022-as,
   title    = "Supporting novice designers design of digital touch",
   author   = "Jewitt, Carey and Mitchell, Val and Wilson, Garrath and
@@ -18613,7 +18615,7 @@
   month    =  apr,
   year     =  2022,
   keywords = "Card-based resource; Design education; Design-based research;
-              Digitally mediate touch; Technology; Touch",
+              Digitally mediate touch; Technology; Touch;§New Literature",
   language = "en",
   issn     = "1573-1804, 0957-7572",
   pmid     = "35463804",
