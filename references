@@ -18588,6 +18588,39 @@
   isbn      = "9780429516375"
 }
 
+@ARTICLE{Jewitt2022-as,
+  title    = "Supporting novice designers design of digital touch",
+  author   = "Jewitt, Carey and Mitchell, Val and Wilson, Garrath and
+              Golmohammadi, Lili and Atkinson, Douglas and Mackley, Kerstin
+              Leder and Price, Sara",
+  abstract = "Digitally mediated touch is an emerging and significant area for
+              technology and therefore for design and design education.
+              However, the design of digital touch is a challenge, especially
+              for novice designers, compounded by low awareness and
+              understanding of the sociality of touch and the complexity of
+              communicating felt sensations. This paper presents a qualitative
+              study of a two-part educational intervention on the design of
+              digital touch using a design-based research methodology. Findings
+              are presented and discussed on the design challenges faced by
+              novice designers in relation to touch and digital touch (the
+              focus of part one of the intervention) and the development and
+              piloting of the Designing Digital Touch (DDT) toolkit (the
+              outcome of part two). The paper discusses how the toolkit can be
+              used to foster and support novice designers to respond to the
+              future facing complexity of digital touch design.",
+  journal  = "Int. J. Technol. Des. Educ.",
+  pages    = "1--26",
+  month    =  apr,
+  year     =  2022,
+  keywords = "Card-based resource; Design education; Design-based research;
+              Digitally mediate touch; Technology; Touch",
+  language = "en",
+  issn     = "1573-1804, 0957-7572",
+  pmid     = "35463804",
+  doi      = "10.1007/s10798-021-09722-1",
+  pmc      = "PMC9016211"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INCOLLECTION{Sawchuk2013-ux,
