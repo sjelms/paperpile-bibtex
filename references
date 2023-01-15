@@ -18704,6 +18704,40 @@
   doi       = "10.4135/9781446200940.n13"
 }
 
+@INPROCEEDINGS{Zimmerman2007-wl,
+  title     = "Research through design as a method for interaction design
+               research in {HCI}",
+  booktitle = "Proceedings of the {SIGCHI} Conference on Human Factors in
+               Computing Systems",
+  author    = "Zimmerman, John and Forlizzi, Jodi and Evenson, Shelley",
+  abstract  = "For years the HCI community has struggled to integrate design in
+               research and practice. While design has gained a strong foothold
+               in practice, it has had much less impact on the HCI research
+               community. In this paper we propose a new model for interaction
+               design research within HCI. Following a research through design
+               approach, designers produce novel integrations of HCI research
+               in an attempt to make the right thing: a product that transforms
+               the world from its current state to a preferred state. This
+               model allows interaction designers to make research
+               contributions based on their strength in addressing
+               under-constrained problems. To formalize this model, we provide
+               a set of four lenses for evaluating the research contribution
+               and a set of three examples to illustrate the benefits of this
+               type of research.",
+  publisher = "Association for Computing Machinery",
+  pages     = "493--502",
+  series    = "CHI '07",
+  month     =  apr,
+  year      =  2007,
+  address   = "New York, NY, USA",
+  keywords  = "interaction design research, interaction design, design theory,
+               design method, wicked problems, HCI research, research through
+               design, design",
+  location  = "San Jose, California, USA",
+  isbn      = "9781595935939",
+  doi       = "10.1145/1240624.1240704"
+}
+
 @ARTICLE{Dorst2006-na,
   title     = "Design problems and design paradoxes",
   author    = "Dorst, Kees",
