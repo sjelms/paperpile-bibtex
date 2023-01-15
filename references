@@ -18732,7 +18732,7 @@
   address   = "New York, NY, USA",
   keywords  = "interaction design research, interaction design, design theory,
                design method, wicked problems, HCI research, research through
-               design, design;Week 1\_ Design and technology",
+               design, design;Course Assignment;Week 1\_ Design and technology",
   location  = "San Jose, California, USA",
   isbn      = "9781595935939",
   doi       = "10.1145/1240624.1240704"
@@ -18748,7 +18748,7 @@
   pages     = "4--17",
   month     =  jul,
   year      =  2006,
-  keywords  = "Week 1\_ Design and technology",
+  keywords  = "Course Assignment;Week 1\_ Design and technology",
   language  = "en",
   issn      = "0747-9360, 1531-4790",
   doi       = "10.1162/desi.2006.22.3.4"
