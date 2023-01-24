@@ -6478,7 +6478,7 @@
   doi       = "10.4135/9781446200940.n13"
 }
 
-@BOOK{Salvadori2002-nu,
+@BOOK{Salvadori1980-nu,
   title     = "Why Buildings Stand Up: The Strength Of Architecture",
   author    = "Salvadori, Mario",
   abstract  = "``Readers will rejoice... in the physical discoveries, ancient
@@ -6494,8 +6494,7 @@
                revolutionary changes in both architectural and structural
                design made possible by the computer.",
   publisher = "WW Norton",
-  month     =  mar,
-  year      =  2002,
+  year      =  1980,
   language  = "en",
   isbn      = "9780393306767"
 }
