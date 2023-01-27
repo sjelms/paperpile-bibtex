@@ -6527,6 +6527,8 @@
   isbn      = "9783030859732"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @MISC{Auti_undated-nb,
   title        = "Abstract of prefabrication technology - A promising
                   alternativ",
@@ -6538,6 +6540,7 @@
                   of development of the nati",
   howpublished = "\url{https://www.ijsr.net/get_abstract.php?paper_id=ART2020213}",
   note         = "Accessed: 2023-1-27",
+  keywords     = "§New Literature;AEC;Construction 4.0",
   language     = "en"
 }
 
