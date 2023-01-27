@@ -18947,3 +18947,22 @@
   issn      = "2075-5309",
   doi       = "10.3390/buildings11010017"
 }
+
+@INPROCEEDINGS{Ras2017-fv,
+  title      = "Bridging the skills gap of workers in industry 4.0 by human
+                performance augmentation tools",
+  booktitle  = "Proceedings of the 10th International Conference on {PErvasive}
+                Technologies Related to Assistive Environments",
+  author     = "Ras, Eric and Wild, Fridolin and Stahl, Christoph and Baudet,
+                Alexandre",
+  publisher  = "ACM",
+  month      =  jun,
+  year       =  2017,
+  address    = "New York, NY, USA",
+  copyright  = "http://www.acm.org/publications/policies/copyright\_policy\#Background",
+  conference = "PETRA '17: 10th International Conference on PErvasive
+                Technologies Related to Assistive Environments",
+  location   = "Island of Rhodes Greece",
+  isbn       = "9781450352277",
+  doi        = "10.1145/3056540.3076192"
+}
