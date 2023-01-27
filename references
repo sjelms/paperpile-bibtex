@@ -18948,6 +18948,8 @@
   doi       = "10.3390/buildings11010017"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INPROCEEDINGS{Ras2017-fv,
   title      = "Bridging the skills gap of workers in industry 4.0 by human
                 performance augmentation tools",
@@ -18959,6 +18961,7 @@
   month      =  jun,
   year       =  2017,
   address    = "New York, NY, USA",
+  keywords   = "§New Literature;AEC",
   copyright  = "http://www.acm.org/publications/policies/copyright\_policy\#Background",
   conference = "PETRA '17: 10th International Conference on PErvasive
                 Technologies Related to Assistive Environments",
