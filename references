@@ -19069,6 +19069,8 @@
   doi      = "10.1016/j.compind.2016.09.006"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Ketelhut2010-as,
   title     = "A multi-user virtual environment for building and assessing
                higher order inquiry skills in science",
@@ -19081,6 +19083,7 @@
   pages     = "56--68",
   month     =  jan,
   year      =  2010,
+  keywords  = "\_XR/MR;§New Literature",
   copyright = "http://onlinelibrary.wiley.com/termsAndConditions\#vor",
   language  = "en",
   issn      = "0007-1013, 1467-8535",
