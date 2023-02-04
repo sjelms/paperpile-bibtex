@@ -19116,6 +19116,8 @@
   doi       = "10.1111/j.1467-8535.2009.01036.x"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Hairstans2018-zk,
   title     = "Offsite {HUB} (Scotland): establishing a collaborative regional
                framework for knowledge exchange in the {UK}",
@@ -19156,6 +19158,7 @@
   pages     = "60--77",
   month     =  mar,
   year      =  2018,
+  keywords  = "+Notion;+Readwise;AEC;Important;§New Literature",
   issn      = "1745-2007",
   doi       = "10.1080/17452007.2017.1314858"
 }
