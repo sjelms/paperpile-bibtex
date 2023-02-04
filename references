@@ -177,6 +177,31 @@
   doi       = "10.1007/978-3-031-08518-5\_28"
 }
 
+@TECHREPORT{US_Department_of_Housing_and_Urban_Development2023-fp,
+  title       = "Offsite Construction for Housing: Research Roadmap",
+  author      = "{U.S. Department of Housing and Urban Development} and {Office
+                 of Policy Development and Research} and Smith, Ryan E and
+                 Rupnik, Ivan and Schmetterer, Tyler and Barry, Kyle",
+  abstract    = "Offsite construction of housing, which includes manufactured
+                 housing, modular homes, and prefabricated structural
+                 components, offers potential for production efficiencies,
+                 improved quality, and lower costs. Key knowledge gaps and
+                 research needs to be addressed to overcome the barriers and
+                 challenges of offsite construction and fulfill its potential.
+                 A literature review and industry consultation informed
+                 development of this research roadmap and recommended research
+                 priorities for the Department of Housing and Urban Development
+                 and broader public-private collaborations to advance offsite
+                 construction for housing. Research priorities are identified
+                 for six topical areas: Regulatory Framework; Standards and
+                 System Performance; Capital, Finance, and Insurance; Project
+                 Delivery and Contracts; Labor and Workforce Training and
+                 Management; and Business Models and Economic Performance.",
+  institution = "U.S. Department of Housing and Urban Development",
+  month       =  jan,
+  year        =  2023
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Jensen2018-rf,
