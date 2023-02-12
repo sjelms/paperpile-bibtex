@@ -1332,14 +1332,6 @@
   doi       = "10.1007/978-3-031-08518-5\_28"
 }
 
-@ARTICLE{Building_companies_seeking_to_make_informed_materials-procurement_choices_may_confront_data_that_are_either_lacking_or_too_complex_A_precompetitive_consortium_has_responded_with_a_free_undated-wn,
-  title  = "Data to the rescue: Embodied carbon in buildings and the urgency of
-            now",
-  author = "{Building companies seeking to make informed materials-procurement
-            choices may confront data that are either lacking or too complex. A
-            precompetitive consortium has responded with a free}"
-}
-
 @MISC{Wikipedia_contributors2022-fx,
   title        = "{SECI} model of knowledge dimensions",
   booktitle    = "Wikipedia, The Free Encyclopedia",
@@ -7019,6 +7011,15 @@
                      Construction",
   location        = "Banff, AB, Canada",
   doi             = "10.22260/isarc2019/0165"
+}
+
+@ARTICLE{Cameron2020-wn,
+  title   = "Data to the rescue: Embodied carbon in buildings and the urgency
+             of now",
+  author  = "Cameron, Lynelle",
+  journal = "McKinsey \& Company",
+  pages   = "1996--2021",
+  year    =  2020
 }
 
 @MISC{noauthor_undated-lc,
