@@ -20399,7 +20399,8 @@
                   Timber and carbon sequestration",
   url          = "https://www.istructe.org/IStructE/media/Public/TSE-Archive/2021/Timber-and-carbon-sequestration.pdf",
   howpublished = "\url{https://www.istructe.org/IStructE/media/Public/TSE-Archive/2021/Timber-and-carbon-sequestration.pdf}",
-  note         = "Accessed: 2023-2-12"
+  note         = "Accessed: 2023-2-12",
+  keywords     = "AEC"
 }
 
 @MISC{noauthor_2009-ux,
