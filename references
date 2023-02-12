@@ -7014,12 +7014,13 @@
 }
 
 @ARTICLE{Cameron2020-wn,
-  title   = "Data to the rescue: Embodied carbon in buildings and the urgency
-             of now",
-  author  = "Cameron, Lynelle",
-  journal = "McKinsey \& Company",
-  pages   = "1996--2021",
-  year    =  2020
+  title    = "Data to the rescue: Embodied carbon in buildings and the urgency
+              of now",
+  author   = "Cameron, Lynelle",
+  journal  = "McKinsey \& Company",
+  pages    = "1996--2021",
+  year     =  2020,
+  keywords = "Construction 4.0"
 }
 
 @TECHREPORT{Smith2023-fp,
