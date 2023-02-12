@@ -7013,6 +7013,8 @@
   doi             = "10.22260/isarc2019/0165"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Cameron2020-wn,
   title    = "Data to the rescue: Embodied carbon in buildings and the urgency
               of now",
@@ -7020,7 +7022,7 @@
   journal  = "McKinsey \& Company",
   pages    = "1996--2021",
   year     =  2020,
-  keywords = "+Notion;+Readwise;AEC;Report;Construction 4.0"
+  keywords = "+Notion;+Readwise;AEC;Report;§New Literature;Construction 4.0"
 }
 
 @TECHREPORT{Smith2023-fp,
