@@ -20423,6 +20423,8 @@
   keywords     = "AEC"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Kozlovska2021-iz,
   title     = "Impact of Industry 4.0 Platform on the Formation of Construction
                4.0 Concept: A Literature Review",
@@ -20457,7 +20459,7 @@
   month     =  mar,
   year      =  2021,
   url       = "https://www.mdpi.com/2071-1050/13/5/2683",
-  keywords  = "Construction 4.0",
+  keywords  = "+Notion;+Readwise;AEC;§New Literature;Construction 4.0",
   language  = "en",
   issn      = "1548-7733",
   doi       = "10.3390/su13052683"
