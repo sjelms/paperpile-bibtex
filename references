@@ -20477,6 +20477,8 @@
   doi       = "10.3390/su13052683"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Svirakova2018-ef,
   title       = "Design thinking, system thinking, Grounded Theory, and system
                  dynamics modeling---an integrative methodology for social
@@ -20506,6 +20508,7 @@
   month       =  jul,
   year        =  2018,
   url         = "http://dx.doi.org/10.1515/humaff-2018-0025",
+  keywords    = "§New Literature;+Readwise;+Notion;Research Methods",
   language    = "en",
   issn        = "1210-3055, 1337-401X",
   doi         = "10.1515/humaff-2018-0025"
