@@ -919,6 +919,8 @@
   language  = "en"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Finch2002-dw,
   title     = "The role of grounded theory in developing economic theory",
   author    = "Finch, John H",
@@ -946,7 +948,7 @@
   month     =  jan,
   year      =  2002,
   url       = "http://dx.doi.org/10.1080/13501780210137119",
-  keywords  = "Methods",
+  keywords  = "+Notion;+Readwise;§New Literature;Research Methods;Methods",
   language  = "en",
   issn      = "1350-178X, 1469-9427",
   doi       = "10.1080/13501780210137119"
