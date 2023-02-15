@@ -20595,6 +20595,8 @@
   doi         = "10.1515/humaff-2018-0025"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Johnsson2013-kb,
   title     = "Production strategies for pre-engineering in house-building:
                exploring product development platforms",
@@ -20633,7 +20635,7 @@
   month     =  sep,
   year      =  2013,
   url       = "https://doi.org/10.1080/01446193.2013.828846",
-  keywords  = "Construction 4.0",
+  keywords  = "+Notion;+Readwise;AEC;§New Literature;Construction 4.0",
   issn      = "0144-6193",
   doi       = "10.1080/01446193.2013.828846"
 }
