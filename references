@@ -20813,6 +20813,8 @@
   doi         = "10.1111/j.1365-2929.2005.02371.x"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Bleakley2021-as,
   title       = "Embracing ambiguity: Curriculum design and activity theory",
   author      = "Bleakley, Alan",
@@ -20844,13 +20846,16 @@
   url         = "http://dx.doi.org/10.1080/0142159X.2020.1795099",
   keywords    = "Pedagogical innovation; cultural-historical Activity Theory;
                  curriculum design; patient-centredness; possibility
-                 knowledge;Methods",
+                 knowledge;+Notion;+Readwise;Research Methods;Workplace
+                 Learning;§New Literature;Methods",
   language    = "en",
   issn        = "0142-159X, 1466-187X",
   pmid        = "32715823",
   doi         = "10.1080/0142159X.2020.1795099"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @BOOK{Lave1991-xv,
   title     = "Situated Learning: Legitimate Peripheral Participation",
   author    = "Lave, Jean and Wenger, Etienne",
@@ -20873,7 +20878,8 @@
   month     =  sep,
   year      =  1991,
   url       = "https://www.cambridge.org/highereducation/books/situated-learning/6915ABD21C8E4619F750A4D4ACA616CD",
-  keywords  = "Methods",
+  keywords  = "+Notion;+Readwise;Research Methods;Workplace Learning;§New
+               Literature;Methods",
   isbn      = "9780511815355",
   doi       = "10.1017/CBO9780511815355"
 }
