@@ -20692,3 +20692,20 @@
   language  = "en",
   isbn      = "9781317044802"
 }
+
+@MISC{Lorenz2015-un,
+  title        = "Man and machine in industry 4.0",
+  booktitle    = "{BCG} Global",
+  author       = "Lorenz, Markus and R{\"u}{\ss}mann, Michael and Strack,
+                  Rainer and Lueth, Knud and Bolle, Moritz",
+  abstract     = "Industry 4.0, a digital industrial revolution, will require
+                  manufacturers and their employees to adapt to new ways of
+                  working. Read on to learn more about transforming the
+                  workplace.",
+  month        =  sep,
+  year         =  2015,
+  url          = "https://www.bcg.com/publications/2015/technology-business-transformation-engineered-products-infrastructure-man-machine-industry-4",
+  howpublished = "\url{https://www.bcg.com/publications/2015/technology-business-transformation-engineered-products-infrastructure-man-machine-industry-4}",
+  note         = "Accessed: 2023-2-18",
+  language     = "en"
+}
