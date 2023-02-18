@@ -20754,6 +20754,8 @@
   doi       = "10.1207/s15327884mca0303\_2"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Bleakley2006-zo,
   title       = "Broadening conceptions of learning in medical education: the
                  message from teamworking",
@@ -20794,7 +20796,8 @@
   month       =  feb,
   year        =  2006,
   url         = "http://dx.doi.org/10.1111/j.1365-2929.2005.02371.x",
-  keywords    = "Methods",
+  keywords    = "+Notion;+Readwise;Research Methods;Workplace Learning;§New
+                 Literature;Methods",
   language    = "en",
   issn        = "0308-0110",
   pmid        = "16451243",
