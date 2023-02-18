@@ -20890,6 +20890,8 @@
   keywords  = "YouTube"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Gagg2014-gf,
   title    = "Cement and concrete as an engineering material: An historic
               appraisal and case study analysis",
@@ -20917,11 +20919,13 @@
   url      = "https://www.sciencedirect.com/science/article/pii/S1350630714000387",
   keywords = "Cement and concrete; Historic development; Mechanical response;
               Structural failures; Failure case
-              studies;AEC;+Notion;+Readwise;Construction 4.0",
+              studies;AEC;+Notion;+Readwise;§New Literature;Construction 4.0",
   issn     = "1350-6307",
   doi      = "10.1016/j.engfailanal.2014.02.004"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Gu2022-hu,
   title     = "Carbon impacts of engineered wood products in construction",
   booktitle = "Engineered Wood Products for Construction",
@@ -20944,6 +20948,6 @@
   month     =  apr,
   year      =  2022,
   url       = "https://www.intechopen.com/chapters/78070",
-  keywords  = "+Notion;+Readwise;AEC;Construction 4.0",
+  keywords  = "+Notion;+Readwise;AEC;§New Literature;Construction 4.0",
   doi       = "10.5772/intechopen.99193"
 }
