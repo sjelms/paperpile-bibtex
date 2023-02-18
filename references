@@ -20713,6 +20713,8 @@
   language     = "en"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Lave1996-oh,
   title     = "Teaching, as Learning, in Practice",
   author    = "Lave, Jean",
@@ -20746,7 +20748,7 @@
   month     =  jul,
   year      =  1996,
   url       = "https://doi.org/10.1207/s15327884mca0303_2",
-  keywords  = "Methods",
+  keywords  = "Research Methods;§New Literature;Methods",
   issn      = "1074-9039",
   doi       = "10.1207/s15327884mca0303\_2"
 }
