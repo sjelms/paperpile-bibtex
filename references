@@ -20843,7 +20843,8 @@
   year        =  2021,
   url         = "http://dx.doi.org/10.1080/0142159X.2020.1795099",
   keywords    = "Pedagogical innovation; cultural-historical Activity Theory;
-                 curriculum design; patient-centredness; possibility knowledge",
+                 curriculum design; patient-centredness; possibility
+                 knowledge;Methods",
   language    = "en",
   issn        = "0142-159X, 1466-187X",
   pmid        = "32715823",
@@ -20872,6 +20873,7 @@
   month     =  sep,
   year      =  1991,
   url       = "https://www.cambridge.org/highereducation/books/situated-learning/6915ABD21C8E4619F750A4D4ACA616CD",
+  keywords  = "Methods",
   isbn      = "9780511815355",
   doi       = "10.1017/CBO9780511815355"
 }
