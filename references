@@ -20874,9 +20874,15 @@
   doi       = "10.1017/CBO9780511815355"
 }
 
-@MISC{B1m2019-rf,
-  title  = "{Construction's Digital Manufacturing Revolution}",
-  author = "B1m, The",
-  year   =  2019,
-  url    = "https://www.youtube.com/watch?v=6-mxc9KBgbo"
+@MISC{Mills2019-rf,
+  title     = "Construction's Digital Manufacturing Revolution",
+  author    = "Mills, Fred",
+  abstract  = "Construction is embracing rapid advances in digital technologies
+               and making a bold shift towards the world of manufacturing,
+               merging the two to usher in a new dawn.",
+  publisher = "The B1M",
+  month     =  nov,
+  year      =  2019,
+  url       = "https://www.youtube.com/watch?v=6-mxc9KBgbo",
+  address   = "United Kingdom"
 }
