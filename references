@@ -21092,5 +21092,6 @@
   affiliation = "National Institute of Building Sciences",
   institution = "American Institute of Architects",
   month       =  mar,
-  year        =  2019
+  year        =  2019,
+  keywords    = "Construction 4.0"
 }
