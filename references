@@ -1703,6 +1703,7 @@
   month    =  mar,
   year     =  2021,
   url      = "https://doi.org/10.1007/s11831-020-09455-9",
+  keywords = "Construction 4.0",
   issn     = "1134-3060, 1886-1784",
   doi      = "10.1007/s11831-020-09455-9"
 }
@@ -8246,6 +8247,7 @@
   month     =  dec,
   year      =  2019,
   url       = "https://iopscience.iop.org/article/10.1088/1742-6596/1378/2/022057/meta",
+  keywords  = "Construction 4.0",
   language  = "en",
   issn      = "1742-6588, 1742-6596",
   doi       = "10.1088/1742-6596/1378/2/022057"
@@ -19379,7 +19381,8 @@
   publisher = "books.google.com",
   pages     = "41--58",
   year      =  2018,
-  url       = "https://books.google.co.uk/books?hl=en&lr=&id=2WaQDwAAQBAJ&oi=fnd&pg=PA41&dq=human+capital+theory+%2B+industry+4.0&ots=2pu1EczfIt&sig=TG-X9P_qKpxg9NPGNrGDv87dnSQ"
+  url       = "https://books.google.co.uk/books?hl=en&lr=&id=2WaQDwAAQBAJ&oi=fnd&pg=PA41&dq=human+capital+theory+%2B+industry+4.0&ots=2pu1EczfIt&sig=TG-X9P_qKpxg9NPGNrGDv87dnSQ",
+  keywords  = "Construction 4.0"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
