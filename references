@@ -21089,7 +21089,8 @@
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @TECHREPORT{Wilson2019-ho,
-  title       = "{Materials\_Practice\_Guide\_Modular\_Construction.pdf}",
+  title       = "Design for Modular Construction: An Introduction for
+                 Architects",
   author      = "Wilson, James",
   affiliation = "National Institute of Building Sciences",
   institution = "American Institute of Architects",
