@@ -893,10 +893,6 @@
   doi       = "10.1080/15578771.2011.619247"
 }
 
-@MISC{noauthor_undated-ho,
-  title = "{Materials\_Practice\_Guide\_Modular\_Construction.pdf}"
-}
-
 @MISC{Authers2021-dw,
   title        = "If Your {CEO} Talks Like Kant, Think Twice Before Investing",
   booktitle    = "Bloomberg",
@@ -21088,4 +21084,13 @@
               Literature;Important;Construction 4.0",
   issn     = "1134-3060, 1886-1784",
   doi      = "10.1007/s11831-020-09455-9"
+}
+
+@TECHREPORT{Wilson2019-ho,
+  title       = "{Materials\_Practice\_Guide\_Modular\_Construction.pdf}",
+  author      = "Wilson, James",
+  affiliation = "National Institute of Building Sciences",
+  institution = "American Institute of Architects",
+  month       =  mar,
+  year        =  2019
 }
