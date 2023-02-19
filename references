@@ -21018,3 +21018,19 @@
   issn      = "1742-6588, 1742-6596",
   doi       = "10.1088/1742-6596/1378/2/022057"
 }
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Agolla2018-uw,
+  title     = "Human capital in the smart manufacturing and industry 4.0
+               revolution",
+  author    = "Agolla, Joseph Evans",
+  abstract  = "… The purpose of this chapter is to highlight the important role
+               of human capital management in the Smart Manufacturing and
+               Industry 4.0 revolution. Two hundred years ago, industrial …",
+  journal   = "Digital transformation in smart manufacturing",
+  publisher = "books.google.com",
+  pages     = "41--58",
+  year      =  2018,
+  url       = "https://books.google.co.uk/books?hl=en&lr=&id=2WaQDwAAQBAJ&oi=fnd&pg=PA41&dq=human+capital+theory+%2B+industry+4.0&ots=2pu1EczfIt&sig=TG-X9P_qKpxg9NPGNrGDv87dnSQ"
+}
