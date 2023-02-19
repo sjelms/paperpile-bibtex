@@ -21086,6 +21086,8 @@
   doi      = "10.1007/s11831-020-09455-9"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @TECHREPORT{Wilson2019-ho,
   title       = "{Materials\_Practice\_Guide\_Modular\_Construction.pdf}",
   author      = "Wilson, James",
@@ -21093,5 +21095,6 @@
   institution = "American Institute of Architects",
   month       =  mar,
   year        =  2019,
-  keywords    = "Construction 4.0"
+  keywords    = "+Notion;+Readwise;AEC;Important;§New Literature;Construction
+                 4.0"
 }
