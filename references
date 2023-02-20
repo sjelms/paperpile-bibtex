@@ -21100,6 +21100,8 @@
                  4.0"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @TECHREPORT{McCracken2017-ks,
   title       = "Human Capital Theory: Assessing the Evidence for the Value and
                  Importance of People to Organisational Success",
@@ -21109,5 +21111,5 @@
   month       =  may,
   year        =  2017,
   url         = "https://www.cipd.co.uk/Images/human-capital-theory-assessing-the-evidence_tcm18-22292.pdf",
-  keywords    = "Methods"
+  keywords    = "Research Methods;§New Literature;Methods"
 }
