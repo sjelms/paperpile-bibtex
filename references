@@ -20960,6 +20960,13 @@
   doi       = "10.5772/intechopen.99193"
 }
 
+@MISC{noauthor_2017-ks,
+  year         =  2017,
+  url          = "https://www.cipd.co.uk/Images/human-capital-theory-assessing-the-evidence_tcm18-22292.pdf",
+  howpublished = "\url{https://www.cipd.co.uk/Images/human-capital-theory-assessing-the-evidence_tcm18-22292.pdf}",
+  note         = "Accessed: 2023-2-20"
+}
+
 @TECHREPORT{Geissbauer2016-ww,
   title       = "Industry 4.0: Building the Digital Enterprise: 2016 Global
                  Industry 4.0 Survey",
