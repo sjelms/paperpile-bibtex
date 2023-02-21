@@ -14540,6 +14540,8 @@
   doi       = "10.3390/ijerph15061204"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Forcael2020-gi,
   title     = "Construction 4.0: A Literature Review",
   author    = "Forcael, Eric and Ferrari, Isabella and Opazo-Vega, Alexander
@@ -14567,6 +14569,7 @@
   month     =  nov,
   year      =  2020,
   url       = "https://www.mdpi.com/2071-1050/12/22/9755",
+  keywords  = "+Notion;+Readwise;AEC;Important;§New Literature",
   language  = "en",
   issn      = "1548-7733",
   doi       = "10.3390/su12229755"
