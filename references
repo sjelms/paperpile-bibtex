@@ -21317,3 +21317,22 @@
   issn      = "1548-7733",
   doi       = "10.3390/su12229755"
 }
+
+@ARTICLE{Boton2021-cz,
+  title     = "What is at the root of construction 4.0: A systematic review of
+               the recent research effort",
+  author    = "Boton, Conrad and Rivest, Louis and Ghnaya, Oussama and
+               Chouchen, Moataz",
+  journal   = "Archives of Computational Methods in Engineering. State of the
+               Art Reviews",
+  publisher = "Springer Science and Business Media LLC",
+  volume    =  28,
+  number    =  4,
+  pages     = "2331--2350",
+  month     =  jun,
+  year      =  2021,
+  url       = "https://www.academia.edu/48176864/What_is_at_the_Root_of_Construction_4_0_A_Systematic_Review_of_the_Recent_Research_Effort",
+  language  = "en",
+  issn      = "1134-3060, 1886-1784",
+  doi       = "10.1007/s11831-020-09457-7"
+}
