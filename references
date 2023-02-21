@@ -7111,6 +7111,8 @@
   doi      = "10.1016/j.engfailanal.2014.02.004"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Frese2001-eh,
   title     = "Entrepreneurship, Psychology of",
   booktitle = "International Encyclopedia of the Social \& Behavioral Sciences",
@@ -7140,11 +7142,13 @@
   year      =  2001,
   url       = "https://www.sciencedirect.com/science/article/pii/B0080430767014200",
   address   = "Oxford",
-  keywords  = "Human Capital",
+  keywords  = "+Notion;+Readwise;Research Methods;§New Literature;Human Capital",
   isbn      = "9780080430768",
   doi       = "10.1016/B0-08-043076-7/01420-0"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Smith2010-zc,
   title     = "Apprenticeships",
   booktitle = "International Encyclopedia of Education (Third Edition)",
@@ -7165,11 +7169,15 @@
   address   = "Oxford",
   keywords  = "Craft; Intermediary bodies; Licensing; Mentoring; Occupations;
                School to work transition; Skills; Stakeholders; Trades;
-               Training provider; Work-based learning;Human Capital",
+               Training provider; Work-based
+               learning;+Notion;+Readwise;Research Methods;§New
+               Literature;Human Capital",
   isbn      = "9780080448947",
   doi       = "10.1016/B978-0-08-044894-7.00774-0"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Eide2010-wl,
   title     = "Human Capital",
   booktitle = "International Encyclopedia of Education (Third Edition)",
@@ -7190,12 +7198,15 @@
   year      =  2010,
   url       = "https://www.sciencedirect.com/science/article/pii/B9780080448947012136",
   address   = "Oxford",
-  keywords  = "Human capital; Investment in skills; Returns to education;Human
-               Capital",
+  keywords  = "Human capital; Investment in skills; Returns to
+               education;+Notion;+Readwise;Research Methods;§New
+               Literature;Human Capital",
   isbn      = "9780080448947",
   doi       = "10.1016/B978-0-08-044894-7.01213-6"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Xu2017-pp,
   title     = "Chapter 14 - Understanding the Relative Value of Alternative
                Pathways in Postsecondary Education: Evidence From the State of
@@ -7228,11 +7239,14 @@
   year      =  2017,
   url       = "https://www.sciencedirect.com/science/article/pii/B9780081019214000142",
   keywords  = "Higher education; community college; economic returns to
-               education; Mincerian model;Human Capital",
+               education; Mincerian model;+Notion;+Readwise;Research
+               Methods;§New Literature;Human Capital",
   isbn      = "9780081019214",
   doi       = "10.1016/B978-0-08-101921-4.00014-2"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Terzi2010-pr,
   title     = "The Capabilities Approach",
   booktitle = "International Encyclopedia of Education (Third Edition)",
@@ -7259,7 +7273,8 @@
   keywords  = "Agency; Amartya Sen; Capabilities; Conversion factor;
                Curriculum; Education; Equality; Freedom; Functionings; Human
                development; Human diversity; Justice; Martha Nussbaum;
-               Pedagogy; Well-being;Human Capital",
+               Pedagogy; Well-being;+Notion;+Readwise;Research Methods;§New
+               Literature;Human Capital",
   isbn      = "9780080448947",
   doi       = "10.1016/B978-0-08-044894-7.00577-7"
 }
