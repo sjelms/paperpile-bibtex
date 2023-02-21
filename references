@@ -6820,6 +6820,18 @@
   url     = "https://www.bloomberg.com/graphics/2017-job-risk/"
 }
 
+@ARTICLE{BBC_News2015-wl,
+  title    = "Will a robot take your job?",
+  author   = "{BBC News}",
+  abstract = "Find out the likelihood that your job will become automated in
+              the next two decades",
+  journal  = "BBC",
+  month    =  sep,
+  year     =  2015,
+  url      = "https://www.bbc.co.uk/news/technology-34066941",
+  language = "en"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INCOLLECTION{Sawchuk2013-ux,
