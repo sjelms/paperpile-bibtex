@@ -18438,6 +18438,17 @@
   keywords     = "Workplace Learning;AEC"
 }
 
+@MISC{Savage2020-ll,
+  title        = "How To Build in 2030",
+  booktitle    = "The {B1M}",
+  author       = "Savage, Adam",
+  month        =  nov,
+  year         =  2020,
+  url          = "https://www.theb1m.com/video/how-to-build-in-2030",
+  howpublished = "\url{https://www.theb1m.com/video/how-to-build-in-2030}",
+  note         = "Accessed: 2023-2-21"
+}
+
 @ARTICLE{Pailliez2017-av,
   title     = "You're hired! France's Macron targets apprentices in labor
                market shake-up",
@@ -21350,11 +21361,4 @@
   note         = "Accessed: 2022-9-2",
   keywords     = "Designing Across Senses [Book Resources]",
   language     = "en"
-}
-
-@MISC{noauthor_undated-ll,
-  title        = "How To Build in 2030",
-  url          = "https://www.theb1m.com/video/how-to-build-in-2030",
-  howpublished = "\url{https://www.theb1m.com/video/how-to-build-in-2030}",
-  note         = "Accessed: 2023-2-21"
 }
