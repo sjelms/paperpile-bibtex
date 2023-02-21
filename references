@@ -7231,6 +7231,37 @@
   doi       = "10.1016/B978-0-08-101921-4.00014-2"
 }
 
+@INCOLLECTION{Terzi2010-pr,
+  title     = "The Capabilities Approach",
+  booktitle = "International Encyclopedia of Education (Third Edition)",
+  author    = "Terzi, L",
+  editor    = "Peterson, Penelope and Baker, Eva and McGaw, Barry",
+  abstract  = "Developed by Amartya Sen and Martha Nussbaum, the capabilities
+               approach is a normative framework for the evaluation of human
+               well-being and the justice of institutional arrangements.
+               Central to this framework are people's capabilities to function,
+               that is, their real freedoms (their capabilities) to be and to
+               do what they value being and doing (their functionings). The
+               approach provides fruitful insights for educational theory,
+               policy, and practice. This article analyzes three fundamental
+               dimensions suggested by the approach: the functions of
+               education, the conception of justice and educational equality,
+               and finally, the importance of pedagogy and curriculum for the
+               development of people's overall freedom.",
+  publisher = "Elsevier",
+  pages     = "194--199",
+  month     =  jan,
+  year      =  2010,
+  url       = "https://www.sciencedirect.com/science/article/pii/B9780080448947005777",
+  address   = "Oxford",
+  keywords  = "Agency; Amartya Sen; Capabilities; Conversion factor;
+               Curriculum; Education; Equality; Freedom; Functionings; Human
+               development; Human diversity; Justice; Martha Nussbaum;
+               Pedagogy; Well-being",
+  isbn      = "9780080448947",
+  doi       = "10.1016/B978-0-08-044894-7.00577-7"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
