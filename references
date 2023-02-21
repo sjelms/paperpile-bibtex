@@ -21337,6 +21337,8 @@
   doi       = "10.1007/s11831-020-09457-7"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @TECHREPORT{Schober2016-eo,
   title       = "Digitization in the Construction Industry: Building Europe's
                  Road to ``Construction 4.0''",
@@ -21346,5 +21348,6 @@
                  Competence Center",
   institution = "Roland Berger GmbH",
   year        =  2016,
-  keywords    = "Construction 4.0"
+  keywords    = "+Notion;+Readwise;AEC;Essential;§New Literature;Construction
+                 4.0"
 }
