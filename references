@@ -1240,29 +1240,29 @@
   issn      = "1560-4292, 1560-4306"
 }
 
-@ARTICLE{Frey2017-nj,
-  title    = "The future of employment: How susceptible are jobs to
-              computerisation?",
-  author   = "Frey, Carl Benedikt and Osborne, Michael A",
-  abstract = "We examine how susceptible jobs are to computerisation. To assess
-              this, we begin by implementing a novel methodology to estimate
-              the probability of computerisation for 702 detailed occupations,
-              using a Gaussian process classifier. Based on these estimates, we
-              examine expected impacts of future computerisation on US labour
-              market outcomes, with the primary objective of analysing the
-              number of jobs at risk and the relationship between an
-              occupations probability of computerisation, wages and educational
-              attainment.",
-  journal  = "Technological forecasting and social change",
-  volume   =  114,
-  pages    = "254--280",
-  year     =  2017,
-  url      = "https://www.sciencedirect.com/science/article/pii/S0040162516302244",
-  keywords = "Employment;Occupational choice;Skill demand;Technological
-              change;Wage inequality;ePub | Kindle;Zotero Import (Feb 22);My
-              Library;EPubs Books",
-  issn     = "0040-1625",
-  doi      = "10.1016/j.techfore.2016.08.019"
+@UNPUBLISHED{Frey2013-nj,
+  title       = "The future of employment: How susceptible are jobs to
+                 computerisation?",
+  author      = "Frey, Carl Benedikt and Osborne, Michael A",
+  abstract    = "We examine how susceptible jobs are to computerisation. To
+                 assess this, we begin by implementing a novel methodology to
+                 estimate the probability of computerisation for 702 detailed
+                 occupations, using a Gaussian process classifier. Based on
+                 these estimates, we examine expected impacts of future
+                 computerisation on US labour market outcomes, with the primary
+                 objective of analysing the number of jobs at risk and the
+                 relationship between an occupations probability of
+                 computerisation, wages and educational attainment.",
+  journal     = "Technological forecasting and social change",
+  pages       = "254--280",
+  institution = "Oxford Martin School, University of Oxford,",
+  month       =  sep,
+  year        =  2013,
+  url         = "https://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf",
+  keywords    = "Employment;Occupational choice;Skill demand;Technological
+                 change;Wage inequality;ePub | Kindle;Zotero Import (Feb 22);My
+                 Library;EPubs Books",
+  doi         = "10.1016/j.techfore.2016.08.019"
 }
 
 @MISC{Allen2019-us,
