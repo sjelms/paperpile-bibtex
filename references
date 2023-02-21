@@ -7140,6 +7140,7 @@
   year      =  2001,
   url       = "https://www.sciencedirect.com/science/article/pii/B0080430767014200",
   address   = "Oxford",
+  keywords  = "Human Capital",
   isbn      = "9780080430768",
   doi       = "10.1016/B0-08-043076-7/01420-0"
 }
@@ -7164,7 +7165,7 @@
   address   = "Oxford",
   keywords  = "Craft; Intermediary bodies; Licensing; Mentoring; Occupations;
                School to work transition; Skills; Stakeholders; Trades;
-               Training provider; Work-based learning",
+               Training provider; Work-based learning;Human Capital",
   isbn      = "9780080448947",
   doi       = "10.1016/B978-0-08-044894-7.00774-0"
 }
@@ -7189,7 +7190,8 @@
   year      =  2010,
   url       = "https://www.sciencedirect.com/science/article/pii/B9780080448947012136",
   address   = "Oxford",
-  keywords  = "Human capital; Investment in skills; Returns to education",
+  keywords  = "Human capital; Investment in skills; Returns to education;Human
+               Capital",
   isbn      = "9780080448947",
   doi       = "10.1016/B978-0-08-044894-7.01213-6"
 }
@@ -7226,7 +7228,7 @@
   year      =  2017,
   url       = "https://www.sciencedirect.com/science/article/pii/B9780081019214000142",
   keywords  = "Higher education; community college; economic returns to
-               education; Mincerian model",
+               education; Mincerian model;Human Capital",
   isbn      = "9780081019214",
   doi       = "10.1016/B978-0-08-101921-4.00014-2"
 }
@@ -7257,7 +7259,7 @@
   keywords  = "Agency; Amartya Sen; Capabilities; Conversion factor;
                Curriculum; Education; Equality; Freedom; Functionings; Human
                development; Human diversity; Justice; Martha Nussbaum;
-               Pedagogy; Well-being",
+               Pedagogy; Well-being;Human Capital",
   isbn      = "9780080448947",
   doi       = "10.1016/B978-0-08-044894-7.00577-7"
 }
@@ -21168,7 +21170,7 @@
   year      =  2019,
   url       = "https://iopscience.iop.org/article/10.1088/1742-6596/1378/2/022057/meta",
   keywords  = "+Notion;+Readwise;AEC;Research Methods;§New
-               Literature;Construction 4.0",
+               Literature;Construction 4.0;Human Capital",
   language  = "en",
   issn      = "1742-6588, 1742-6596",
   doi       = "10.1088/1742-6596/1378/2/022057"
@@ -21189,7 +21191,7 @@
   year      =  2018,
   url       = "https://books.google.co.uk/books?hl=en&lr=&id=2WaQDwAAQBAJ&oi=fnd&pg=PA41&dq=human+capital+theory+%2B+industry+4.0&ots=2pu1EczfIt&sig=TG-X9P_qKpxg9NPGNrGDv87dnSQ",
   keywords  = "+Notion;+Readwise;AEC;Research Methods;§New
-               Literature;Construction 4.0"
+               Literature;Construction 4.0;Human Capital"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -21262,5 +21264,6 @@
   month       =  may,
   year        =  2017,
   url         = "https://www.cipd.co.uk/Images/human-capital-theory-assessing-the-evidence_tcm18-22292.pdf",
-  keywords    = "Research Methods;§New Literature;+Notion;+Readwise;Methods"
+  keywords    = "Research Methods;§New
+                 Literature;+Notion;+Readwise;Methods;Human Capital"
 }
