@@ -7111,6 +7111,39 @@
   doi      = "10.1016/j.engfailanal.2014.02.004"
 }
 
+@INCOLLECTION{Frese2001-eh,
+  title     = "Entrepreneurship, Psychology of",
+  booktitle = "International Encyclopedia of the Social \& Behavioral Sciences",
+  author    = "Frese, M and Rauch, A",
+  editor    = "Smelser, Neil J and Baltes, Paul B",
+  abstract  = "The individual owner and manager of a firm has an important
+               function for the development of the firm and, therefore,
+               psychological concepts have become more and more important to
+               enable us to understand entrepreneurship. A general model is
+               presented which argues that personality and human capital
+               (education, experience) factors have a function via goals and
+               action strategies on success. The same is also true of the
+               environment. In earlier times, personality factors were
+               emphasized by psychological researchers on entrepreneurship.
+               There are good reasons to do this; however, modern research goes
+               beyond this and differentiates more sharply between emergence of
+               firms and firm success, and looks in more detail at
+               contingencies between person and environmental factors. The
+               actions of the entrepreneur are crucial for the firm's chances
+               to survive and thrive in the market. All those psychological
+               constructs that are near to actions---for example, goals and
+               strategies---have an important effect on the functioning of the
+               start-up firm.",
+  publisher = "Pergamon",
+  pages     = "4552--4556",
+  month     =  jan,
+  year      =  2001,
+  url       = "https://www.sciencedirect.com/science/article/pii/B0080430767014200",
+  address   = "Oxford",
+  isbn      = "9780080430768",
+  doi       = "10.1016/B0-08-043076-7/01420-0"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
