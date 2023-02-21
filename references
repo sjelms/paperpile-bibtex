@@ -1215,6 +1215,7 @@
   month     =  apr,
   year      =  2018,
   url       = "https://www.economist.com/graphic-detail/2018/04/24/a-study-finds-nearly-half-of-jobs-are-vulnerable-to-automation",
+  keywords  = "Automation;Website",
   language  = "en",
   issn      = "0013-0613, 1476-8860"
 }
@@ -6813,11 +6814,12 @@
 }
 
 @ARTICLE{Whitehouse2017-pq,
-  title   = "Find out if your job will Be automated",
-  author  = "Whitehouse, Mark and Rojanasakul, Mira",
-  journal = "Bloomberg",
-  year    =  2017,
-  url     = "https://www.bloomberg.com/graphics/2017-job-risk/"
+  title    = "Find out if your job will Be automated",
+  author   = "Whitehouse, Mark and Rojanasakul, Mira",
+  journal  = "Bloomberg",
+  year     =  2017,
+  url      = "https://www.bloomberg.com/graphics/2017-job-risk/",
+  keywords = "Automation;Website"
 }
 
 @ARTICLE{BBC_News2015-wl,
@@ -6829,6 +6831,7 @@
   month    =  sep,
   year     =  2015,
   url      = "https://www.bbc.co.uk/news/technology-34066941",
+  keywords = "Automation;Website",
   language = "en"
 }
 
@@ -6952,6 +6955,7 @@
   url          = "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/whichoccupationsareathighestriskofbeingautomated/2019-03-25",
   howpublished = "\url{https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/whichoccupationsareathighestriskofbeingautomated/2019-03-25}",
   note         = "Accessed: 2021-5-18",
+  keywords     = "Automation;Website",
   language     = "en"
 }
 
