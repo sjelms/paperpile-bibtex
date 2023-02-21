@@ -7144,6 +7144,31 @@
   doi       = "10.1016/B0-08-043076-7/01420-0"
 }
 
+@INCOLLECTION{Smith2010-zc,
+  title     = "Apprenticeships",
+  booktitle = "International Encyclopedia of Education (Third Edition)",
+  author    = "Smith, E",
+  editor    = "Peterson, Penelope and Baker, Eva and McGaw, Barry",
+  abstract  = "Apprenticeship is a tradition of training for work that usually
+               includes work-based training, off-the-job training, and an
+               employment relationship. This article discusses different ways
+               of looking at apprenticeship and ways in which countries' models
+               may vary. The article includes a case study of the Australian
+               system and concludes by discussing some current challenges to
+               apprenticeship systems.",
+  publisher = "Elsevier",
+  pages     = "312--319",
+  month     =  jan,
+  year      =  2010,
+  url       = "https://www.sciencedirect.com/science/article/pii/B9780080448947007740",
+  address   = "Oxford",
+  keywords  = "Craft; Intermediary bodies; Licensing; Mentoring; Occupations;
+               School to work transition; Skills; Stakeholders; Trades;
+               Training provider; Work-based learning",
+  isbn      = "9780080448947",
+  doi       = "10.1016/B978-0-08-044894-7.00774-0"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
