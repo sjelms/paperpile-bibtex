@@ -7194,6 +7194,43 @@
   doi       = "10.1016/B978-0-08-044894-7.01213-6"
 }
 
+@INCOLLECTION{Xu2017-pp,
+  title     = "Chapter 14 - Understanding the Relative Value of Alternative
+               Pathways in Postsecondary Education: Evidence From the State of
+               Virginia",
+  booktitle = "Bridges, Pathways and Transitions",
+  author    = "Xu, Di and Fletcher, Jeffrey",
+  editor    = "Shah, Mahsood and Whiteford, Gail",
+  abstract  = "In this chapter, we replicate and extend analyses completed in
+               other state-wide studies by estimating returns to credentials
+               and credit accumulation for first-time college students who
+               enrolled in the Virginia Community College System in Fall 2004
+               using a classic Mincerian approach. Consistent with previous
+               studies, we find positive returns to college-level credits, even
+               among students who did not earn a credential. When accounting
+               for the total number of college-level credits accumulated, we
+               find significant ``sheepskin effects,'' the value of an
+               educational award as a signal apart from the skills actually
+               associated with earning that degree---associated with associate
+               and bachelor's degree receipt but no consistently positive
+               sheepskin effects for short-term and long-term certificates.
+               However, analysis by field of study reveals highly
+               differentiated results, both in terms of returns to credits and
+               the sheepskin effects. Lastly, we find that returns to credits
+               and to award receipt differ among younger and older students,
+               which suggests different educational needs and benefits for
+               students at different points in their careers.",
+  publisher = "Chandos Publishing",
+  pages     = "227--257",
+  month     =  jan,
+  year      =  2017,
+  url       = "https://www.sciencedirect.com/science/article/pii/B9780081019214000142",
+  keywords  = "Higher education; community college; economic returns to
+               education; Mincerian model",
+  isbn      = "9780081019214",
+  doi       = "10.1016/B978-0-08-101921-4.00014-2"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
