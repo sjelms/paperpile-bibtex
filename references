@@ -7169,6 +7169,31 @@
   doi       = "10.1016/B978-0-08-044894-7.00774-0"
 }
 
+@INCOLLECTION{Eide2010-wl,
+  title     = "Human Capital",
+  booktitle = "International Encyclopedia of Education (Third Edition)",
+  author    = "Eide, E R and Showalter, M H",
+  editor    = "Peterson, Penelope and Baker, Eva and McGaw, Barry",
+  abstract  = "Human capital theory forms the basis for most work in the
+               economics of education. The study of human capital has proven to
+               be an exceptionally fruitful vein of research that offers
+               insights on topics as diverse as discrimination, inequality,
+               unemployment, fertility, marriage markets, immigration, and
+               productivity. This article briefly discusses several aspects of
+               human capital theory, including theoretical and empirical
+               considerations, as well as some prominent empirical results
+               directly related to education.",
+  publisher = "Elsevier",
+  pages     = "282--287",
+  month     =  jan,
+  year      =  2010,
+  url       = "https://www.sciencedirect.com/science/article/pii/B9780080448947012136",
+  address   = "Oxford",
+  keywords  = "Human capital; Investment in skills; Returns to education",
+  isbn      = "9780080448947",
+  doi       = "10.1016/B978-0-08-044894-7.01213-6"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
