@@ -6812,6 +6812,14 @@
   keywords     = "YouTube;AEC"
 }
 
+@ARTICLE{Whitehouse2017-pq,
+  title   = "Find out if your job will Be automated",
+  author  = "Whitehouse, Mark and Rojanasakul, Mira",
+  journal = "Bloomberg",
+  year    =  2017,
+  url     = "https://www.bloomberg.com/graphics/2017-job-risk/"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INCOLLECTION{Sawchuk2013-ux,
