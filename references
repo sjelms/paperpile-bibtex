@@ -100,10 +100,6 @@
   conference  = " Building Better: The Bartlett Podcast"
 }
 
-@MISC{noauthor_undated-eo,
-  title = "Berger\_2016\_digitization\_construction\_industry\_e\_final.pdf"
-}
-
 @ARTICLE{Legg2007-tc,
   title         = "A Collection of Definitions of Intelligence",
   author        = "Legg, Shane and Hutter, Marcus",
@@ -15863,6 +15859,17 @@
   address   = "London",
   keywords  = "RDL [CCME0041]",
   isbn      = "9781849204095"
+}
+
+@TECHREPORT{Schober2016-eo,
+  title       = "Digitization in the Construction Industry: Building Europe's
+                 Road to ``Construction 4.0''",
+  author      = "Schober, Kai-Stefan and Hoff, Philipp",
+  editor      = "N{\"o}lling, Katherine",
+  publisher   = "Roland Berger GmbH Civil Economics, Energy \& Infrastructure
+                 Competence Center",
+  institution = "Roland Berger GmbH",
+  year        =  2016
 }
 
 @TECHREPORT{Leopold2018-cc,
