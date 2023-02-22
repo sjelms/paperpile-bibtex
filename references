@@ -21590,5 +21590,6 @@
   url          = "https://unity.com/solutions/digital-twin-definition",
   howpublished = "\url{https://unity.com/solutions/digital-twin-definition}",
   note         = "Accessed: 2023-2-22",
+  keywords     = "Game Engine",
   language     = "en"
 }
