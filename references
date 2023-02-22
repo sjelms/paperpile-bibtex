@@ -21490,9 +21490,10 @@
   url         = "https://www.bcg.com/publications/2015/digital-imperative"
 }
 
-@ARTICLE{noauthor_2023-cx,
+@ARTICLE{Hu2023-cx,
   title     = "{ChatGPT} sets record for fastest-growing user base - analyst
                note",
+  author    = "Hu, Krystal",
   abstract  = "ChatGPT, the popular chatbot from OpenAI, is estimated to have
                reached 100 million monthly active users in January, just two
                months after launch, making it the fastest-growing consumer
