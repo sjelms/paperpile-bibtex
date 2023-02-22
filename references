@@ -21610,16 +21610,18 @@
   isbn      = "9780262110013"
 }
 
-@BOOK{Awsim2013-lt,
-  title     = "Operation breakthrough: Striving through struggles for success
-               by teaming",
-  author    = "Awsim, Nathaniel Couser",
-  publisher = "Authorhouse",
-  month     =  jun,
-  year      =  2013,
-  url       = "https://www.huduser.gov/portal/Operation-Breakthrough.html",
-  language  = "en",
-  isbn      = "9781481764384"
+@MISC{HUD_User2022-lt,
+  title        = "Operation breakthrough: Striving through struggles for
+                  success by teaming",
+  booktitle    = "{U.S}. Department of Housing and Urban Development's
+                  ({HUD's}) Office of Policy Development and Research ({PD\&R})",
+  author       = "{HUD User}",
+  month        =  jun,
+  year         =  2022,
+  url          = "https://www.huduser.gov/portal/Operation-Breakthrough.html",
+  howpublished = "\url{https://www.huduser.gov/portal/Operation-Breakthrough.html}",
+  note         = "Accessed: 2023-2-22",
+  language     = "en"
 }
 
 @MISC{HUD_User2019-ej,
