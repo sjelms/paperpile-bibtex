@@ -21508,6 +21508,22 @@
   language  = "en"
 }
 
+@MISC{Science_Museum2018-ms,
+  title        = "Goodbye to the hello girls: automating the telephone exchange",
+  booktitle    = "Science Museum",
+  author       = "{Science Museum}",
+  abstract     = "The introduction of automatic telephone exchanges allowed
+                  callers to make their own connections, leading to the
+                  disappearance of one of Britain's first female workforces.",
+  month        =  oct,
+  year         =  2018,
+  url          = "https://www.sciencemuseum.org.uk/objects-and-stories/goodbye-hello-girls-automating-telephone-exchange",
+  howpublished = "\url{https://www.sciencemuseum.org.uk/objects-and-stories/goodbye-hello-girls-automating-telephone-exchange}",
+  note         = "Accessed: 2023-2-22",
+  keywords     = "Website",
+  language     = "en"
+}
+
 @ARTICLE{Hillinger1991-nr,
   title     = "Pulling the Plug : Phone Company to Replace Last Manual
                Switchboard",
@@ -21521,21 +21537,6 @@
   month     =  apr,
   year      =  1991,
   url       = "https://www.latimes.com/archives/la-xpm-1991-04-08-mn-130-story.html",
-  keywords  = "Pocket/Reader (RW)",
+  keywords  = "Pocket/Reader (RW);Website",
   issn      = "0458-3035, 2165-1736"
-}
-
-@MISC{Science_Museum2018-ms,
-  title        = "Goodbye to the hello girls: automating the telephone exchange",
-  booktitle    = "Science Museum",
-  author       = "{Science Museum}",
-  abstract     = "The introduction of automatic telephone exchanges allowed
-                  callers to make their own connections, leading to the
-                  disappearance of one of Britain's first female workforces.",
-  month        =  oct,
-  year         =  2018,
-  url          = "https://www.sciencemuseum.org.uk/objects-and-stories/goodbye-hello-girls-automating-telephone-exchange",
-  howpublished = "\url{https://www.sciencemuseum.org.uk/objects-and-stories/goodbye-hello-girls-automating-telephone-exchange}",
-  note         = "Accessed: 2023-2-22",
-  language     = "en"
 }
