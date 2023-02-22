@@ -18006,12 +18006,13 @@
 }
 
 @MISC{Ritchie2017-jm,
-  title  = "Technology Adoption",
-  author = "Ritchie, Hannah and Roser, Max",
-  year   =  2017,
-  url    = "https://ourworldindata.org/technology-adoption",
-  note   = "Title of the publication associated with this dataset: Global
-            Change Data Lab"
+  title    = "Technology Adoption",
+  author   = "Ritchie, Hannah and Roser, Max",
+  year     =  2017,
+  url      = "https://ourworldindata.org/technology-adoption",
+  note     = "Title of the publication associated with this dataset: Global
+              Change Data Lab",
+  keywords = "Data Sets and Figures"
 }
 
 @MISC{NBCUniversal_News_Group_CNBC2021-kx,
