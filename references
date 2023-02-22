@@ -17859,13 +17859,18 @@
   issn      = "0013-0613, 1476-8860"
 }
 
-@BOOK{Kelly2018-kc,
-  title    = "The Prefabrication of Houses: A Study by the Albert Farwell Bemis
-              Foundation of the Prefabrication Industry in the United States",
-  author   = "Kelly, Burnham",
-  year     =  2018,
-  url      = "https://play.google.com/store/books/details?id=4lb-vQEACAAJ",
-  language = "en"
+@BOOK{Kelly1951-kc,
+  title     = "The Prefabrication of Houses: A Study by the Albert Farwell
+               Bemis Foundation of the Prefabrication Industry in the United
+               States",
+  author    = "Kelly, Burnham",
+  publisher = "The MIT Press",
+  month     =  jun,
+  year      =  1951,
+  url       = "https://play.google.com/store/books/details?id=4lb-vQEACAAJ",
+  address   = "Cambridge, MA",
+  language  = "en",
+  isbn      = "9780262110013"
 }
 
 @TECHREPORT{Qin2020-ng,
