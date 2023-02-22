@@ -21487,7 +21487,8 @@
   institution = "Boston Consulting Group",
   month       =  mar,
   year        =  2015,
-  url         = "https://www.bcg.com/publications/2015/digital-imperative"
+  url         = "https://www.bcg.com/publications/2015/digital-imperative",
+  keywords    = "Data Sets and Figures"
 }
 
 @ARTICLE{Hu2023-cx,
@@ -21503,6 +21504,6 @@
   month     =  feb,
   year      =  2023,
   url       = "https://www.reuters.com/technology/chatgpt-sets-record-fastest-growing-user-base-analyst-note-2023-02-01/",
-  keywords  = "Website",
+  keywords  = "Website;Data Sets and Figures",
   language  = "en"
 }
