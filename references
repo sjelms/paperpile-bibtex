@@ -21525,12 +21525,15 @@
   issn      = "0458-3035, 2165-1736"
 }
 
-@MISC{noauthor_undated-ms,
+@MISC{Science_Museum2018-ms,
   title        = "Goodbye to the hello girls: automating the telephone exchange",
   booktitle    = "Science Museum",
+  author       = "{Science Museum}",
   abstract     = "The introduction of automatic telephone exchanges allowed
                   callers to make their own connections, leading to the
                   disappearance of one of Britain's first female workforces.",
+  month        =  oct,
+  year         =  2018,
   url          = "https://www.sciencemuseum.org.uk/objects-and-stories/goodbye-hello-girls-automating-telephone-exchange",
   howpublished = "\url{https://www.sciencemuseum.org.uk/objects-and-stories/goodbye-hello-girls-automating-telephone-exchange}",
   note         = "Accessed: 2023-2-22",
