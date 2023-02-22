@@ -2687,7 +2687,7 @@
   month       =  dec,
   year        =  2019,
   keywords    = "AEC;Zotero Import (Feb 22);My Library;2021-12-03
-                 Frontiers;Data Sets and Figures"
+                 Frontiers;Data Stats Figures"
 }
 
 @TECHREPORT{Council_of_the_European_Union2016-zv,
@@ -19990,7 +19990,7 @@
   url          = "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/whichoccupationsareathighestriskofbeingautomated/2019-03-25",
   howpublished = "\url{https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/whichoccupationsareathighestriskofbeingautomated/2019-03-25}",
   note         = "Accessed: 2021-5-18",
-  keywords     = "Automation;Website;Data Sets and Figures",
+  keywords     = "Automation;Website;Data Stats Figures",
   language     = "en"
 }
 
@@ -21472,7 +21472,7 @@
   url      = "https://ourworldindata.org/technology-adoption",
   note     = "Title of the publication associated with this dataset: Global
               Change Data Lab",
-  keywords = "Website;Data Sets and Figures"
+  keywords = "Website;Data Stats Figures"
 }
 
 @TECHREPORT{Dreischmeier2015-di,
@@ -21488,7 +21488,7 @@
   month       =  mar,
   year        =  2015,
   url         = "https://www.bcg.com/publications/2015/digital-imperative",
-  keywords    = "Data Sets and Figures"
+  keywords    = "Data Stats Figures"
 }
 
 @ARTICLE{Hu2023-cx,
@@ -21504,6 +21504,6 @@
   month     =  feb,
   year      =  2023,
   url       = "https://www.reuters.com/technology/chatgpt-sets-record-fastest-growing-user-base-analyst-note-2023-02-01/",
-  keywords  = "Website;Data Sets and Figures",
+  keywords  = "Website;Pocket/Reader (RW);Data Stats Figures",
   language  = "en"
 }
