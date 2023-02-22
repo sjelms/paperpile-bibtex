@@ -21580,16 +21580,18 @@
   isbn      = "9780521859783"
 }
 
-@MISC{Unity_Technologies_undated-ey,
+@MISC{Unity_Technologies2022-ey,
   title        = "What is a digital twin?",
   booktitle    = "Unity",
   author       = "{Unity Technologies}",
   abstract     = "Digital twins connect and visualize real-world assets and
                   data, creating virtual representations of nearly anything.
                   Read more to find out how it all works.",
+  month        =  jun,
+  year         =  2022,
   url          = "https://unity.com/solutions/digital-twin-definition",
   howpublished = "\url{https://unity.com/solutions/digital-twin-definition}",
-  note         = "Accessed: 2023-2-22",
+  note         = "Accessed: 2022-6-23",
   keywords     = "Game Engine;Website",
   language     = "en"
 }
