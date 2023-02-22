@@ -1599,6 +1599,45 @@
   doi      = "10.1007/s11023-007-9079-x"
 }
 
+@ARTICLE{Song2019-it,
+  title    = "The Digital Entrepreneurial Ecosystem---a critique and
+              reconfiguration",
+  author   = "Song, Abraham K",
+  abstract = "Sussan and Acs (Small Business Economics, 49(1), 55--73, 2017)
+              proposed the ``Digital Entrepreneurial Ecosystem'' (DEE), a novel
+              framework to guide our understanding of entrepreneurship in the
+              digital age. By integrating literatures on digital ecosystem and
+              entrepreneurial ecosystem, they brought to attention the
+              importance of examining entrepreneurship as an outcome of
+              interactions between biotic and abiotic entities represented by
+              four concepts: Digital User Citizenship, Digital
+              Entrepreneurship, Digital Infrastructure Governance, and Digital
+              Marketplace. This paper revisits, critiques, and refines the
+              framework through the following reconfigurations: (1) Digital
+              User Citizenship is reintroduced as a heterogeneous group of
+              users differentiated by their primary activity, as either
+              consumers or producers. (2) Digital Technology Entrepreneurship
+              encompasses all agents that build complementary products and
+              services connecting to platforms. (3) Digital Multi-sided
+              Platform is the intermediary for transaction of goods and
+              services, and also a medium of knowledge exchanges that enables
+              and facilitates experimentation, entrepreneurial innovation, and
+              value creation. The main contribution of the paper is in the
+              reconfigurations that clearly lay the ground for a more
+              sustainable DEE---one in which user privacy is protected,
+              platform efficiency enhanced, market competition encouraged, and
+              digital infrastructure secured.",
+  journal  = "Small Business Economics",
+  volume   =  53,
+  number   =  3,
+  pages    = "569--590",
+  month    =  oct,
+  year     =  2019,
+  url      = "https://doi.org/10.1007/s11187-019-00232-y",
+  issn     = "0921-898X, 1573-0913",
+  doi      = "10.1007/s11187-019-00232-y"
+}
+
 @ARTICLE{Lajoie2005-xt,
   title    = "Extending the Scaffolding Metaphor",
   author   = "Lajoie, Susanne P",
