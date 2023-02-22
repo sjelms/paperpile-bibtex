@@ -21486,5 +21486,6 @@
                  health care, industrial goods, and manufacturing.",
   institution = "Boston Consulting Group",
   month       =  mar,
-  year        =  2015
+  year        =  2015,
+  url         = "https://www.bcg.com/publications/2015/digital-imperative"
 }
