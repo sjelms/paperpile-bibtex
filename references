@@ -1281,6 +1281,7 @@
   url          = "https://blogs.lse.ac.uk/businessreview/2019/09/23/hidden-in-plain-sight-the-ghost-in-the-automation-and-future-of-work-debate-1/",
   howpublished = "\url{https://blogs.lse.ac.uk/businessreview/2019/09/23/hidden-in-plain-sight-the-ghost-in-the-automation-and-future-of-work-debate-1/}",
   note         = "Accessed: 2021-5-18",
+  keywords     = "Website",
   language     = "en"
 }
 
@@ -21471,7 +21472,7 @@
   url      = "https://ourworldindata.org/technology-adoption",
   note     = "Title of the publication associated with this dataset: Global
               Change Data Lab",
-  keywords = "Data Sets and Figures"
+  keywords = "Website;Data Sets and Figures"
 }
 
 @TECHREPORT{Dreischmeier2015-di,
