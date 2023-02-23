@@ -7696,7 +7696,8 @@
   month     =  aug,
   year      =  2013,
   url       = "https://doi.org/10.1177/1045159513489111",
-  keywords  = "LSU Supporting Works",
+  keywords  = "Knowledge - Skill Acquisition;Workplace Learning;LSU Supporting
+               Works",
   issn      = "1045-1595",
   doi       = "10.1177/1045159513489111"
 }
@@ -7714,7 +7715,8 @@
   month     =  sep,
   year      =  2007,
   url       = "https://doi.org/10.1061/(ASCE)0733-9364(2007)133:9(661)",
-  keywords  = "LSU Supporting Works",
+  keywords  = "Knowledge - Skill Acquisition;Workplace Learning;LSU Supporting
+               Works",
   issn      = "0733-9364",
   doi       = "10.1061/(ASCE)0733-9364(2007)133:9(661)"
 }
