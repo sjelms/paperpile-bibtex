@@ -21785,3 +21785,25 @@
   keywords     = "Website;Construction 4.0",
   language     = "en"
 }
+
+@MISC{Siniavskaia2021-sg,
+  title        = "Most Homebuilders are Small Businesses",
+  booktitle    = "Eye On Housing | National Association of Home Builders
+                  Discusses Economics and Housing Policy",
+  author       = "Siniavskaia, Natalia",
+  abstract     = "New NAHB research shows that despite declining
+                  self-employment rates and the rising top builder market
+                  share, residential construction remains the industry of
+                  independent entrepreneurs with close to 80\% of homebuilders
+                  and specialty trade contractor firms being self-employed
+                  independent contractors. Even among firms with paid
+                  employees, the industry continues to be dominated by small
+                  businesses, with",
+  publisher    = "Eye On Housing",
+  month        =  jul,
+  year         =  2021,
+  url          = "https://eyeonhousing.org/2021/07/most-homebuilders-are-small-businesses-2/",
+  howpublished = "\url{https://eyeonhousing.org/2021/07/most-homebuilders-are-small-businesses-2/}",
+  note         = "Accessed: 2023-2-23",
+  language     = "en"
+}
