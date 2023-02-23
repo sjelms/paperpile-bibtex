@@ -21676,3 +21676,12 @@
   url      = "https://www.forbes.com/advisor/mortgages/real-estate/housing-market-predictions/",
   language = "en"
 }
+
+@MISC{Francis-Devine_undated-er,
+  title        = "Rising cost of living in the {UK}",
+  author       = "Francis-Devine, Brigid and Barton, Cassie and Harari, Daniel
+                  and Keep, Matthew and Bolton, Paul and Wilson, Wendy",
+  url          = "https://commonslibrary.parliament.uk/research-briefings/cbp-9428/",
+  howpublished = "\url{https://commonslibrary.parliament.uk/research-briefings/cbp-9428/}",
+  note         = "Accessed: 2023-2-23"
+}
