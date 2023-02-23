@@ -21739,3 +21739,17 @@
   keywords     = "Website;Data Stats Figures",
   language     = "en"
 }
+
+@MISC{Leaker2023-do,
+  title        = "Labour market overview, {UK} - Office for National Statistics",
+  author       = "Leaker, Debra",
+  abstract     = "Estimates of employment, unemployment, economic inactivity
+                  and other employment-related statistics for the UK.",
+  publisher    = "Office for National Statistics",
+  month        =  feb,
+  year         =  2023,
+  url          = "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/february2023",
+  howpublished = "\url{https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/february2023}",
+  note         = "Accessed: 2023-2-23",
+  language     = "en"
+}
