@@ -21657,3 +21657,22 @@
   keywords     = "Website",
   language     = "en"
 }
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Rothstein2023-um,
+  title    = "Housing Market Predictions For 2023: When Will Home Prices Become
+              Affordable?",
+  author   = "Rothstein, Robin",
+  abstract = "Skyrocketing interest rates put some much-needed pressure on the
+              housing market after home prices hit record highs across the
+              nation last year. While rates did level off through January,
+              causing some homebuyers to re-enter the market, a recent uptick
+              in rates suggests the market is going back to a standstill. Many
+              economists remain mixed about […]",
+  journal  = "Forbes Magazine",
+  month    =  feb,
+  year     =  2023,
+  url      = "https://www.forbes.com/advisor/mortgages/real-estate/housing-market-predictions/",
+  language = "en"
+}
