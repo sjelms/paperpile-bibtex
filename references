@@ -21641,10 +21641,6 @@
   language     = "en"
 }
 
-@MISC{noauthor_undated-mq,
-  title = "the-next-normal-in-construction.pdf"
-}
-
 @MISC{Morby2022-bu,
   title        = "Construction Forecast to Fall by Nearly 4\% Next Year",
   booktitle    = "Construction Enquirer",
@@ -21711,4 +21707,16 @@
               Economics Daily, Consumer prices up 9.1 percent over the year
               ended June 2022, largest increase in 40 years",
   language = "en"
+}
+
+@TECHREPORT{Ribeirinho2020-mq,
+  title       = "The Next Normal in Construction: How Disruption is Reshaping
+                 the World's Largest Ecosystem",
+  author      = "Ribeirinho, Maria Jo{\~a}o and Mischke, Jan and Strube, Gernot
+                 and Sj{\"o}din, Erik and Bi{\"o}rck, Jonas and Anderson, Timmy
+                 and Blanco, Jose Luis and Palter, Rob",
+  publisher   = "McKinsey Insights",
+  institution = "McKinsey \& Company",
+  month       =  jun,
+  year        =  2020
 }
