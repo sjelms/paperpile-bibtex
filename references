@@ -15713,6 +15713,21 @@
   issn      = "0362-4331, 1553-8095"
 }
 
+@MISC{Hawkins2021-th,
+  title        = "Timber and carbon sequestration",
+  booktitle    = "Institution of Structural Engineers.",
+  author       = "Hawkins, Will",
+  abstract     = "Will Hawkins discusses carbon sequestration and end-of-life
+                  processes in timber structures, and the implications for
+                  sustainable decision-making in structural design.",
+  month        =  jan,
+  year         =  2021,
+  url          = "https://www.istructe.org/journal/volumes/volume-99-(2021)/issue-1/timber-and-carbon-sequestration/",
+  howpublished = "\url{https://www.istructe.org/journal/volumes/volume-99-(2021)/issue-1/timber-and-carbon-sequestration/}",
+  note         = "Accessed: 2023-2-23",
+  language     = "en"
+}
+
 @ARTICLE{Ngo2021-qp,
   title     = "Skilled Workers Are Scarce, Posing a Challenge for Biden's
                Infrastructure Plan",
@@ -21857,19 +21872,6 @@
   url          = "https://dl-acm-org.libproxy.ucl.ac.uk/doi/10.1145/3306618.3314238",
   howpublished = "\url{https://dl-acm-org.libproxy.ucl.ac.uk/doi/10.1145/3306618.3314238}",
   keywords     = "Course Assignment;AIEd [CCME0123]"
-}
-
-@MISC{noauthor_2021-th,
-  title        = "Timber and carbon sequestration",
-  abstract     = "Will Hawkins discusses carbon sequestration and end-of-life
-                  processes in timber structures, and the implications for
-                  sustainable decision-making in structural design.",
-  month        =  jan,
-  year         =  2021,
-  url          = "https://www.istructe.org/journal/volumes/volume-99-(2021)/issue-1/timber-and-carbon-sequestration/",
-  howpublished = "\url{https://www.istructe.org/journal/volumes/volume-99-(2021)/issue-1/timber-and-carbon-sequestration/}",
-  note         = "Accessed: 2023-2-23",
-  language     = "en"
 }
 
 @MISC{noauthor_undated-lw,
