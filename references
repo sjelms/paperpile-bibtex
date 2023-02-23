@@ -21640,3 +21640,11 @@
   keywords     = "AEC;Website;Construction 4.0",
   language     = "en"
 }
+
+@MISC{noauthor_undated-dz,
+  title        = "Construction output forecast to fall by 3.9\% in 2023, says
+                  {CPA}",
+  url          = "https://www.acenet.co.uk/news/industry/construction-output-forecast-to-fall-by-3-9-in-2023-says-cpa/",
+  howpublished = "\url{https://www.acenet.co.uk/news/industry/construction-output-forecast-to-fall-by-3-9-in-2023-says-cpa/}",
+  note         = "Accessed: 2023-2-23"
+}
