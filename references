@@ -21886,8 +21886,9 @@
   doi       = "10.1061/(ASCE)0733-9364(2007)133:9(661)"
 }
 
-@ARTICLE{noauthor_2021-nd,
+@ARTICLE{Editorial2021-nd,
   title    = "Concrete needs to lose its colossal carbon footprint",
+  author   = "{Editorial}",
   journal  = "Nature",
   volume   =  597,
   number   =  7878,
