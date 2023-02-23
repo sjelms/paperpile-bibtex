@@ -21770,9 +21770,10 @@
   language = "en"
 }
 
-@MISC{noauthor_2019-lv,
+@MISC{Turner2019-lv,
   title        = "The role of {SMEs} in the {UK} construction industry",
   booktitle    = "Royal Institution of Chartered Surveyors ({RICS})",
+  author       = "Turner, Luke",
   abstract     = "The role of small to medium-sized enterprises in UK
                   construction is more important than ever in supporting local
                   communities and ensuring skills are retained",
