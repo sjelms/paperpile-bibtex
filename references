@@ -21718,5 +21718,6 @@
   publisher   = "McKinsey Insights",
   institution = "McKinsey \& Company",
   month       =  jun,
-  year        =  2020
+  year        =  2020,
+  keywords    = "Construction 4.0"
 }
