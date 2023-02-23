@@ -21687,3 +21687,20 @@
   note         = "Accessed: 2023-2-23",
   keywords     = "Website"
 }
+
+@MISC{noauthor_2022-rh,
+  title        = "Consumer prices up 9.1 percent over the year ended June 2022,
+                  largest increase in 40 years : The Economics Daily: {U.S}.
+                  Bureau of Labor Statistics",
+  abstract     = "Over the 12 months ended June 2022, the Consumer Price Index
+                  for All Urban Consumers increased 9.1 percent. The
+                  9.1-percent increase in the all items index was the largest
+                  12-month increase since the 12-month period ending November
+                  1981.",
+  month        =  jul,
+  year         =  2022,
+  url          = "https://www.bls.gov/opub/ted/2022/consumer-prices-up-9-1-percent-over-the-year-ended-june-2022-largest-increase-in-40-years.htm",
+  howpublished = "\url{https://www.bls.gov/opub/ted/2022/consumer-prices-up-9-1-percent-over-the-year-ended-june-2022-largest-increase-in-40-years.htm}",
+  note         = "Accessed: 2023-2-23",
+  language     = "en"
+}
