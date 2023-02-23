@@ -21640,3 +21640,14 @@
   keywords     = "AEC;Website;Construction 4.0",
   language     = "en"
 }
+
+@MISC{noauthor_undated-bu,
+  title        = "Construction forecast to fall by nearly 4\% next year",
+  booktitle    = "Construction Enquirer",
+  abstract     = "Crystal ball gazers sharply downgrade construction output
+                  forecast",
+  url          = "https://www.constructionenquirer.com/2022/11/07/construction-forecast-to-fall-by-nearly-4-next-year/",
+  howpublished = "\url{https://www.constructionenquirer.com/2022/11/07/construction-forecast-to-fall-by-nearly-4-next-year/}",
+  note         = "Accessed: 2023-2-23",
+  language     = "en"
+}
