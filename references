@@ -21753,3 +21753,17 @@
   note         = "Accessed: 2023-2-23",
   language     = "en"
 }
+
+@ARTICLE{noauthor_2021-mu,
+  title    = "America desperately needs 1 million more construction workers",
+  abstract = "Matthew Messer hauls solar panels on the roof of a home in Long
+              Island, New York, hoisting them one by one in the 100-degree June
+              heat. Messer is the owner of New York Solar Maintenance, but
+              these days he's working right alongside his lead technician seven
+              days a week as business booms.",
+  journal  = "CNN",
+  month    =  jul,
+  year     =  2021,
+  url      = "https://www.cnn.com/2021/07/08/economy/construction-worker-shortage/index.html",
+  language = "en"
+}
