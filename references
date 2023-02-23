@@ -21709,6 +21709,8 @@
   language = "en"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @TECHREPORT{Ribeirinho2020-mq,
   title       = "The Next Normal in Construction: How Disruption is Reshaping
                  the World's Largest Ecosystem",
@@ -21719,5 +21721,5 @@
   institution = "McKinsey \& Company",
   month       =  jun,
   year        =  2020,
-  keywords    = "Construction 4.0"
+  keywords    = "+Notion;+Readwise;AEC;§New Literature;Construction 4.0"
 }
