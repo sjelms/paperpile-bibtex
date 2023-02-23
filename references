@@ -7672,23 +7672,6 @@
   issn      = "0017-8055, 1943-5045"
 }
 
-@ARTICLE{noauthor_2021-nd,
-  title    = "Concrete needs to lose its colossal carbon footprint",
-  journal  = "Nature",
-  volume   =  597,
-  number   =  7878,
-  pages    = "593--594",
-  month    =  sep,
-  year     =  2021,
-  url      = "http://dx.doi.org/10.1038/d41586-021-02612-5",
-  keywords = "Climate change; Materials science; Policy; Society; Technology",
-  language = "en",
-  issn     = "0028-0836, 1476-4687",
-  pmid     = "34584258",
-  doi      = "10.1038/d41586-021-02612-5",
-  pmc      = "4284584"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
@@ -21901,4 +21884,21 @@
                Learning;+Notion;+Readwise;§New Literature;LSU Supporting Works",
   issn      = "0733-9364",
   doi       = "10.1061/(ASCE)0733-9364(2007)133:9(661)"
+}
+
+@ARTICLE{noauthor_2021-nd,
+  title    = "Concrete needs to lose its colossal carbon footprint",
+  journal  = "Nature",
+  volume   =  597,
+  number   =  7878,
+  pages    = "593--594",
+  month    =  sep,
+  year     =  2021,
+  url      = "http://dx.doi.org/10.1038/d41586-021-02612-5",
+  keywords = "Climate change; Materials science; Policy; Society; Technology",
+  language = "en",
+  issn     = "0028-0836, 1476-4687",
+  pmid     = "34584258",
+  doi      = "10.1038/d41586-021-02612-5",
+  pmc      = "4284584"
 }
