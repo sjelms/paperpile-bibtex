@@ -21904,16 +21904,23 @@
   pmc      = "4284584"
 }
 
-@MISC{noauthor_2021-hz,
+@MISC{Ncasi2021-hz,
   title        = "Forest Carbon from Young vs. Old Forests",
-  booktitle    = "{NCASI}",
+  booktitle    = "National Council for Air and Stream Improvement",
+  author       = "{NCASI}",
   abstract     = "This infographic illustrates how forests of different ages
                   play different roles in removing carbon from the atmosphere
-                  and storing it in wood.",
+                  and storing it in wood. Managing forests to avoid large
+                  emissions from the loss of old trees while rapidly removing
+                  CO2 from the atmosphere through young forest growth can
+                  provide both storage and sequestration benefits. The
+                  infographic also speaks to the role that harvested wood
+                  products play. The data contained in the infographic are
+                  sourced from an array of peer-reviewed publications.",
   month        =  jan,
   year         =  2021,
   url          = "https://www.ncasi.org/resource/forest-carbon-from-young-vs-old-forests/",
   howpublished = "\url{https://www.ncasi.org/resource/forest-carbon-from-young-vs-old-forests/}",
   note         = "Accessed: 2023-2-23",
-  language     = "en"
+  language     = "en, fr"
 }
