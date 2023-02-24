@@ -21942,3 +21942,20 @@
   doi      = "10.1038/d41586-021-02612-5",
   pmc      = "4284584"
 }
+
+@ARTICLE{Green2022-hf,
+  title     = "Modern methods of construction: reflections on the current
+               research agenda",
+  author    = "Green, Stuart D",
+  journal   = "Buildings \& cities",
+  publisher = "Ubiquity Press, Ltd.",
+  volume    =  3,
+  number    =  1,
+  pages     = "653--662",
+  month     =  sep,
+  year      =  2022,
+  url       = "https://journal-buildingscities.org/articles/10.5334/bc.265/",
+  language  = "en",
+  issn      = "2632-6655, 2632-6655",
+  doi       = "10.5334/bc.265"
+}
