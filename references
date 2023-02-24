@@ -21886,25 +21886,6 @@
   doi       = "10.1061/(ASCE)0733-9364(2007)133:9(661)"
 }
 
-@ARTICLE{Editorial2021-nd,
-  title    = "Concrete needs to lose its colossal carbon footprint",
-  author   = "{Editorial}",
-  journal  = "Nature",
-  volume   =  597,
-  number   =  7878,
-  pages    = "593--594",
-  month    =  sep,
-  year     =  2021,
-  url      = "http://dx.doi.org/10.1038/d41586-021-02612-5",
-  keywords = "Climate change; Materials science; Policy; Society;
-              Technology;Construction 4.0",
-  language = "en",
-  issn     = "0028-0836, 1476-4687",
-  pmid     = "34584258",
-  doi      = "10.1038/d41586-021-02612-5",
-  pmc      = "4284584"
-}
-
 @MISC{Ncasi2021-hz,
   title        = "Forest Carbon from Young vs. Old Forests",
   booktitle    = "National Council for Air and Stream Improvement",
@@ -21923,7 +21904,7 @@
   url          = "https://www.ncasi.org/resource/forest-carbon-from-young-vs-old-forests/",
   howpublished = "\url{https://www.ncasi.org/resource/forest-carbon-from-young-vs-old-forests/}",
   note         = "Accessed: 2023-2-23",
-  keywords     = "Construction 4.0",
+  keywords     = "+Readwise;AEC;Construction 4.0",
   language     = "en, fr"
 }
 
@@ -21939,6 +21920,25 @@
   url          = "https://www.istructe.org/journal/volumes/volume-99-(2021)/issue-1/timber-and-carbon-sequestration/",
   howpublished = "\url{https://www.istructe.org/journal/volumes/volume-99-(2021)/issue-1/timber-and-carbon-sequestration/}",
   note         = "Accessed: 2023-2-23",
-  keywords     = "Construction 4.0",
+  keywords     = "+Readwise;AEC;Construction 4.0",
   language     = "en"
+}
+
+@ARTICLE{Editorial2021-nd,
+  title    = "Concrete needs to lose its colossal carbon footprint",
+  author   = "{Editorial}",
+  journal  = "Nature",
+  volume   =  597,
+  number   =  7878,
+  pages    = "593--594",
+  month    =  sep,
+  year     =  2021,
+  url      = "http://dx.doi.org/10.1038/d41586-021-02612-5",
+  keywords = "Climate change; Materials science; Policy; Society;
+              Technology;+Readwise;AEC;Construction 4.0",
+  language = "en",
+  issn     = "0028-0836, 1476-4687",
+  pmid     = "34584258",
+  doi      = "10.1038/d41586-021-02612-5",
+  pmc      = "4284584"
 }
