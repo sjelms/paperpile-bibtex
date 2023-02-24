@@ -21943,6 +21943,8 @@
   pmc      = "4284584"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Green2022-hf,
   title     = "Modern methods of construction: reflections on the current
                research agenda",
@@ -21955,7 +21957,7 @@
   month     =  sep,
   year      =  2022,
   url       = "https://journal-buildingscities.org/articles/10.5334/bc.265/",
-  keywords  = "Construction 4.0",
+  keywords  = "+Notion;+Readwise;AEC;§New Literature;Construction 4.0",
   language  = "en",
   issn      = "2632-6655, 2632-6655",
   doi       = "10.5334/bc.265"
