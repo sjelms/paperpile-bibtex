@@ -22117,7 +22117,7 @@
   month     =  aug,
   year      =  2013,
   url       = "https://onlinelibrary.wiley.com/doi/abs/10.1002/symb.66?casa_token=QqzThQAf-m0AAAAA:7lnn_JmwGhibdNumwIFaqb2NPKYEgkAF_bZ-vXLAbWj9nhi1hTP_ynNXLHIJRh_fYf4_nSR__f2J",
-  keywords  = "Methods",
+  keywords  = "Research Methods;Methods",
   language  = "en",
   issn      = "0195-6086, 1533-8665",
   doi       = "10.1002/symb.66"
@@ -22149,7 +22149,8 @@
   month     =  sep,
   year      =  2005,
   url       = "http://www.qualitative-research.net/index.php/fqs/article/view/20",
-  keywords  = "qualitative research; research methods; ethnography;Methods",
+  keywords  = "qualitative research; research methods; ethnography;Research
+               Methods;Methods",
   language  = "en",
   issn      = "1438-5627, 1438-5627",
   doi       = "10.17169/fqs-6.3.20"
@@ -22186,7 +22187,7 @@
   url       = "https://doi.org/10.1145/347642.347763",
   address   = "New York, NY, USA",
   keywords  = "user studies, field research methods, qualitative methods,
-               ethnography;Methods",
+               ethnography;Research Methods;Methods",
   location  = "New York City, New York, USA",
   isbn      = "9781581132199",
   doi       = "10.1145/347642.347763"
