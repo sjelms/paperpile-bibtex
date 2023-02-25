@@ -22033,7 +22033,7 @@
 
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
-@ARTICLE{Charmaz1210-yn,
+@ARTICLE{Charmaz2005-yn,
   title    = "Grounded Theory in the 21st Century: Applications for Advancing
               Social Justice Studies",
   author   = "Charmaz, Kathy",
@@ -22052,7 +22052,7 @@
   volume   =  3,
   number   =  2005,
   pages    = "507--535",
-  year     =  1210,
+  year     =  2005,
   url      = "https://psycnet.apa.org/fulltext/2005-07735-020.pdf",
   keywords = "Research Methods;+Notion;+Readwise;§New Literature;Methods"
 }
