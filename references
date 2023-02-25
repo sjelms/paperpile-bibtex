@@ -22328,3 +22328,10 @@
   issn      = "0144-6193",
   doi       = "10.1080/01446190903273943"
 }
+
+@ARTICLE{Ryan2000-ql,
+  title   = "Data management and analysis methods",
+  author  = "Ryan, G W and Bernard, H R",
+  journal = "Handbook of qualitative research",
+  year    =  2000
+}
