@@ -7717,28 +7717,36 @@
   issn      = "0017-8055, 1943-5045"
 }
 
-@ARTICLE{Pink2013-ju,
-  title     = "Short-term ethnography: Intense routes to knowing",
-  author    = "Pink, Sarah and Morgan, Jennie",
-  abstract  = "In this article, we explore how short-term theoretically
-               informed ethnography is emerging as an approach to doing
-               research that is contemporary in both its subject matter and in
-               its use for applied research projects designed to lead to
-               informed interventions in the world. We argue that far from
-               being a quick and dirty' route to doing qualitative research,
-               short-term ethnography is characterized by forms of intensity
-               that lead to deep and valid ways of knowing.",
-  journal   = "Symbolic Interaction",
-  publisher = "Wiley",
-  volume    =  36,
+@ARTICLE{Knoblauch2005-ek,
+  title     = "Focused Ethnography",
+  author    = "Knoblauch, Hubert",
+  abstract  = "Der Beitrag behandelt eine besondere Art der soziologischen
+               Ethnographie, die vor allem, aber nicht ausschlie{\ss}lich in
+               der angewandten Forschung eingesetzt wird. Es wird
+               vorgeschlagen, diese Art der Ethnographie als ``fokussierte
+               Ethnographie'' zu bezeichnen. Die fokussierte Ethnographie wird
+               vor dem Hintergrund der herk{\"o}mmlichen Formen der
+               Ethnographie beschrieben. Sie bildet weniger einen Gegensatz als
+               eine Erg{\"a}nzung zu diesen herk{\"o}mmlicheren Formen, da sie
+               sich besonders f{\"u}r die moderne differenzierte Gesellschaft
+               eignet. Der Beitrag skizziert die Hintergr{\"u}nde wie auch die
+               wesentlichen methodologischen Merkmale der fokussierten
+               Ethnographie, wie etwa kurzfristige Feldaufenthalte,
+               Datenintensit{\"a}t und Zeitintensit{\"a}t, um damit die
+               M{\"o}glichkeiten f{\"u}r weitere Forschungen zu ebnen. URN:
+               urn:nbn:de:0114-fqs0503440",
+  journal   = "Forum Qualitative Sozialforschung / Forum: Qualitative Social
+               Research",
+  publisher = "qualitative-research.net",
+  volume    =  6,
   number    =  3,
-  pages     = "351--361",
-  month     =  aug,
-  year      =  2013,
-  url       = "https://onlinelibrary.wiley.com/doi/abs/10.1002/symb.66?casa_token=QqzThQAf-m0AAAAA:7lnn_JmwGhibdNumwIFaqb2NPKYEgkAF_bZ-vXLAbWj9nhi1hTP_ynNXLHIJRh_fYf4_nSR__f2J",
+  month     =  sep,
+  year      =  2005,
+  url       = "http://www.qualitative-research.net/index.php/fqs/article/view/20",
+  keywords  = "qualitative research; research methods; ethnography",
   language  = "en",
-  issn      = "0195-6086, 1533-8665",
-  doi       = "10.1002/symb.66"
+  issn      = "1438-5627, 1438-5627",
+  doi       = "10.17169/fqs-6.3.20"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -22120,4 +22128,28 @@
                Literature;Important;Methods",
   language  = "en",
   isbn      = "9781526449900"
+}
+
+@ARTICLE{Pink2013-ju,
+  title     = "Short-term ethnography: Intense routes to knowing",
+  author    = "Pink, Sarah and Morgan, Jennie",
+  abstract  = "In this article, we explore how short-term theoretically
+               informed ethnography is emerging as an approach to doing
+               research that is contemporary in both its subject matter and in
+               its use for applied research projects designed to lead to
+               informed interventions in the world. We argue that far from
+               being a quick and dirty' route to doing qualitative research,
+               short-term ethnography is characterized by forms of intensity
+               that lead to deep and valid ways of knowing.",
+  journal   = "Symbolic Interaction",
+  publisher = "Wiley",
+  volume    =  36,
+  number    =  3,
+  pages     = "351--361",
+  month     =  aug,
+  year      =  2013,
+  url       = "https://onlinelibrary.wiley.com/doi/abs/10.1002/symb.66?casa_token=QqzThQAf-m0AAAAA:7lnn_JmwGhibdNumwIFaqb2NPKYEgkAF_bZ-vXLAbWj9nhi1hTP_ynNXLHIJRh_fYf4_nSR__f2J",
+  language  = "en",
+  issn      = "0195-6086, 1533-8665",
+  doi       = "10.1002/symb.66"
 }
