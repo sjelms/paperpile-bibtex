@@ -7717,43 +7717,6 @@
   issn      = "0017-8055, 1943-5045"
 }
 
-@INPROCEEDINGS{Millen2000-tf,
-  title     = "Rapid ethnography: time deepening strategies for {HCI} field
-               research",
-  booktitle = "Proceedings of the 3rd conference on Designing interactive
-               systems: processes, practices, methods, and techniques",
-  author    = "Millen, David R",
-  abstract  = "Field research methods are useful in the many aspects of
-               Human-Computer Interaction research, including gathering user
-               requirements, understanding and developing user models, and new
-               product evaluation and iterative design. Due to increasingly
-               short product realization cycles, there has been growing
-               interestth in more time efficient methods, including rapid
-               prototyping methods and various usability inspection techniques.
-               This paper will introduce ``rapid ethnography,'' which is a
-               collection of field methods intended to provide a reasonable
-               understanding of users and their activities given significant
-               time pressures and limited time in the field.. The core elements
-               include limiting or constraining the research focus and scope,
-               using key informants, capturing rich field data by using
-               multiple observers and interactive observation techniques, and
-               collaborative qualitative data analysis. A short case study
-               illustrating the important characteristics of rapid ethnography
-               will also be presented.",
-  publisher = "Association for Computing Machinery",
-  pages     = "280--286",
-  series    = "DIS '00",
-  month     =  aug,
-  year      =  2000,
-  url       = "https://doi.org/10.1145/347642.347763",
-  address   = "New York, NY, USA",
-  keywords  = "user studies, field research methods, qualitative methods,
-               ethnography",
-  location  = "New York City, New York, USA",
-  isbn      = "9781581132199",
-  doi       = "10.1145/347642.347763"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
@@ -22154,6 +22117,7 @@
   month     =  aug,
   year      =  2013,
   url       = "https://onlinelibrary.wiley.com/doi/abs/10.1002/symb.66?casa_token=QqzThQAf-m0AAAAA:7lnn_JmwGhibdNumwIFaqb2NPKYEgkAF_bZ-vXLAbWj9nhi1hTP_ynNXLHIJRh_fYf4_nSR__f2J",
+  keywords  = "Methods",
   language  = "en",
   issn      = "0195-6086, 1533-8665",
   doi       = "10.1002/symb.66"
@@ -22185,8 +22149,45 @@
   month     =  sep,
   year      =  2005,
   url       = "http://www.qualitative-research.net/index.php/fqs/article/view/20",
-  keywords  = "qualitative research; research methods; ethnography",
+  keywords  = "qualitative research; research methods; ethnography;Methods",
   language  = "en",
   issn      = "1438-5627, 1438-5627",
   doi       = "10.17169/fqs-6.3.20"
+}
+
+@INPROCEEDINGS{Millen2000-tf,
+  title     = "Rapid ethnography: time deepening strategies for {HCI} field
+               research",
+  booktitle = "Proceedings of the 3rd conference on Designing interactive
+               systems: processes, practices, methods, and techniques",
+  author    = "Millen, David R",
+  abstract  = "Field research methods are useful in the many aspects of
+               Human-Computer Interaction research, including gathering user
+               requirements, understanding and developing user models, and new
+               product evaluation and iterative design. Due to increasingly
+               short product realization cycles, there has been growing
+               interestth in more time efficient methods, including rapid
+               prototyping methods and various usability inspection techniques.
+               This paper will introduce ``rapid ethnography,'' which is a
+               collection of field methods intended to provide a reasonable
+               understanding of users and their activities given significant
+               time pressures and limited time in the field.. The core elements
+               include limiting or constraining the research focus and scope,
+               using key informants, capturing rich field data by using
+               multiple observers and interactive observation techniques, and
+               collaborative qualitative data analysis. A short case study
+               illustrating the important characteristics of rapid ethnography
+               will also be presented.",
+  publisher = "Association for Computing Machinery",
+  pages     = "280--286",
+  series    = "DIS '00",
+  month     =  aug,
+  year      =  2000,
+  url       = "https://doi.org/10.1145/347642.347763",
+  address   = "New York, NY, USA",
+  keywords  = "user studies, field research methods, qualitative methods,
+               ethnography;Methods",
+  location  = "New York City, New York, USA",
+  isbn      = "9781581132199",
+  doi       = "10.1145/347642.347763"
 }
