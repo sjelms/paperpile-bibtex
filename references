@@ -22252,8 +22252,8 @@
   month     =  mar,
   year      =  2000,
   url       = "https://doi.org/10.1080/014461900370861",
-  keywords  = "Research Methodology in the Built Environment: A Selection of
-               Case Studies",
+  keywords  = "Research Methods;Research Methodology in the Built Environment:
+               A Selection of Case Studies",
   issn      = "0144-6193",
   doi       = "10.1080/014461900370861"
 }
@@ -22285,8 +22285,8 @@
   month     =  jan,
   year      =  1999,
   url       = "https://doi.org/10.1080/014461999371781",
-  keywords  = "Research Methodology in the Built Environment: A Selection of
-               Case Studies",
+  keywords  = "Research Methods;Research Methodology in the Built Environment:
+               A Selection of Case Studies",
   issn      = "0144-6193",
   doi       = "10.1080/014461999371781"
 }
@@ -22329,8 +22329,8 @@
   month     =  oct,
   year      =  2009,
   url       = "https://doi.org/10.1080/01446190903273943",
-  keywords  = "Research Methodology in the Built Environment: A Selection of
-               Case Studies",
+  keywords  = "Research Methods;Research Methodology in the Built Environment:
+               A Selection of Case Studies",
   issn      = "0144-6193",
   doi       = "10.1080/01446190903273943"
 }
@@ -22343,8 +22343,8 @@
   publisher = "Sage Publications",
   edition   = "Second Edition",
   year      =  2000,
-  keywords  = "Research Methodology in the Built Environment: A Selection of
-               Case Studies",
+  keywords  = "Research Methods;Research Methodology in the Built Environment:
+               A Selection of Case Studies",
   language  = "en",
   isbn      = "9780761915126"
 }
