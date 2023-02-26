@@ -7717,6 +7717,20 @@
   issn      = "0017-8055, 1943-5045"
 }
 
+@INCOLLECTION{Charmaz2001-wf,
+  title     = "Grounded theory in ethnography",
+  booktitle = "Handbook of Ethnography",
+  author    = "Charmaz, Kathy and Mitchell, Richard G",
+  publisher = "SAGE Publications Ltd",
+  pages     = "160--174",
+  year      =  2001,
+  url       = "http://dx.doi.org/10.4135/9781848608337.n11",
+  address   = "1 Oliver's Yard, 55 City Road, London England EC1Y 1SP United
+               Kingdom",
+  isbn      = "9780761958246, 9781848608337",
+  doi       = "10.4135/9781848608337.n11"
+}
+
 @INCOLLECTION{Sutrisna2016-vt,
   title     = "The Application of Grounded Theory Methodology in Built
                Environment Research",
