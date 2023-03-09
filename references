@@ -7800,55 +7800,6 @@
   doi       = "10.4135/9781848608337"
 }
 
-@ARTICLE{Boafo2016-gl,
-  title     = "Performance of modular prefabricated architecture: Case
-               study-based review and future pathways",
-  author    = "Boafo, Fred and Kim, Jin-Hee and Kim, Jun-Tae",
-  abstract  = "Even though tightened building energy efficiency standards are
-               implemented periodically in many countries, existing buildings
-               continually consume a momentous quota of the total primary
-               energy. Energy efficiency solutions range from material
-               components to bulk systems. A technique of building
-               construction, referred to as prefabricated architecture
-               (prefab), is increasing in reputation. Prefab encompasses the
-               offsite fabrication of building components to a greater degree
-               of finish as bulk building structures and systems, and their
-               assembly on-site. In this context, prefab improves the speed of
-               construction, quality of architecture, efficiency of materials,
-               and worker safety, while limiting environmental impacts of
-               construction, as compared to conventional site-built
-               construction practices. Quite recently, a 57 story skyscraper
-               was built in 19 days using prefabricated modules. From the
-               building physics point of view, the bulk systems and tighter
-               integration method of prefab minimizes thermal bridges. This
-               study seeks to clearly characterize the levels of prefab and to
-               investigate the performance of modular prefab; considering
-               acoustic constrain, seismic resistance, thermal behavior, energy
-               consumption, and life cycle analysis of existing prefab cases
-               and, thus, provides a dynamic case study-based review.
-               Generally, prefab can be categorized into components, panels
-               (2D), modules (3D), hybrids, and unitized whole buildings. On
-               average, greenhouse gas emissions from conventional construction
-               were higher than for modular construction, not discounting some
-               individual discrepancies. Few studies have focused on monitored
-               data on prefab and occupants' comfort but additional studies are
-               required to understand the public's perception of the
-               technology. The scope of the work examined will be of interest
-               to building engineers, manufacturers, and energy experts, as
-               well as serve as a foundational reference for future study.",
-  journal   = "Sustainability",
-  publisher = "MDPI AG",
-  volume    =  8,
-  number    =  6,
-  pages     = "558",
-  month     =  jun,
-  year      =  2016,
-  url       = "https://www.mdpi.com/2071-1050/8/6/558",
-  language  = "en",
-  issn      = "2071-1050",
-  doi       = "10.3390/su8060558"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
@@ -22515,4 +22466,56 @@
   pmid        = "35464375",
   doi         = "10.3389/fvets.2022.833034",
   pmc         = "PMC9021599"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Boafo2016-gl,
+  title     = "Performance of modular prefabricated architecture: Case
+               study-based review and future pathways",
+  author    = "Boafo, Fred and Kim, Jin-Hee and Kim, Jun-Tae",
+  abstract  = "Even though tightened building energy efficiency standards are
+               implemented periodically in many countries, existing buildings
+               continually consume a momentous quota of the total primary
+               energy. Energy efficiency solutions range from material
+               components to bulk systems. A technique of building
+               construction, referred to as prefabricated architecture
+               (prefab), is increasing in reputation. Prefab encompasses the
+               offsite fabrication of building components to a greater degree
+               of finish as bulk building structures and systems, and their
+               assembly on-site. In this context, prefab improves the speed of
+               construction, quality of architecture, efficiency of materials,
+               and worker safety, while limiting environmental impacts of
+               construction, as compared to conventional site-built
+               construction practices. Quite recently, a 57 story skyscraper
+               was built in 19 days using prefabricated modules. From the
+               building physics point of view, the bulk systems and tighter
+               integration method of prefab minimizes thermal bridges. This
+               study seeks to clearly characterize the levels of prefab and to
+               investigate the performance of modular prefab; considering
+               acoustic constrain, seismic resistance, thermal behavior, energy
+               consumption, and life cycle analysis of existing prefab cases
+               and, thus, provides a dynamic case study-based review.
+               Generally, prefab can be categorized into components, panels
+               (2D), modules (3D), hybrids, and unitized whole buildings. On
+               average, greenhouse gas emissions from conventional construction
+               were higher than for modular construction, not discounting some
+               individual discrepancies. Few studies have focused on monitored
+               data on prefab and occupants' comfort but additional studies are
+               required to understand the public's perception of the
+               technology. The scope of the work examined will be of interest
+               to building engineers, manufacturers, and energy experts, as
+               well as serve as a foundational reference for future study.",
+  journal   = "Sustainability",
+  publisher = "MDPI AG",
+  volume    =  8,
+  number    =  6,
+  pages     = "558",
+  month     =  jun,
+  year      =  2016,
+  url       = "https://www.mdpi.com/2071-1050/8/6/558",
+  keywords  = "§New Literature;+Notion;+Readwise;AEC",
+  language  = "en",
+  issn      = "2071-1050",
+  doi       = "10.3390/su8060558"
 }
