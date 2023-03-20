@@ -187,6 +187,17 @@
   doi       = "10.1561/1100000066"
 }
 
+@TECHREPORT{Richard2012-ki,
+  title       = "The Richard Review of Apprenticeships",
+  author      = "Richard, Doug",
+  abstract    = "Findings from Doug Richard's independent review on what
+                 apprenticeships should be and how they can meet the changing
+                 needs of the economy.",
+  institution = "Department for Business, Innovation \& Skills",
+  month       =  nov,
+  year        =  2012
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Pour_Rahimian2020-sq,
@@ -13360,14 +13371,6 @@
   language    = "en",
   issn        = "0141-8211, 1465-3435",
   doi         = "10.1111/ejed.12533"
-}
-
-@TECHREPORT{Richard2012-ki,
-  title       = "The Richard Review of Apprenticeships",
-  author      = "Richard, Doug",
-  institution = "Department for Business, Innovation \& Skills",
-  month       =  nov,
-  year        =  2012
 }
 
 % The entry below contains non-ASCII chars that could not be converted
