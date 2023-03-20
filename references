@@ -195,7 +195,8 @@
                  needs of the economy.",
   institution = "Department for Business, Innovation \& Skills",
   month       =  nov,
-  year        =  2012
+  year        =  2012,
+  keywords    = "Workplace Learning"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
