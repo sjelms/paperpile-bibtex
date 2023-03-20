@@ -10252,6 +10252,33 @@
   issn      = "1099-274X"
 }
 
+@ARTICLE{Arieff2023-fj,
+  title     = "If design is everything, is it anything?",
+  author    = "Arieff, Allison",
+  abstract  = "Solving the resulting environmental challenges won't begin to
+               achieve another change that would likely do far more to reduce
+               carbon emissions: figuring out how to get people to drive less.
+               On page 36, Will Douglas Heaven delves into the use of AI
+               automation for the design of new drugs, an approach that has the
+               potential to deliver cheaper pharmaceuticals on a faster
+               timeline. John-Clark Levin's fascinating commemoration of the
+               25th anniversary of the massively multiplayer online
+               role-playing game Ultima Online, a precursor to the metaverse,
+               shows how much the relative success or failure of design is
+               contingent on human behavior.",
+  journal   = "MIT Technology Review; Cambridge",
+  publisher = "Technology Review, Inc.",
+  volume    =  126,
+  number    =  2,
+  pages     = "2",
+  month     =  dec,
+  year      =  2023,
+  url       = "https://www.proquest.com/magazines/if-design-is-everything-anything/docview/2781305095/se-2",
+  address   = "Cambridge, United States, Cambridge",
+  language  = "en",
+  issn      = "1099-274X"
+}
+
 @BOOK{Jerald2015-dg,
   title     = "The {VR} Book: {Human-Centered} Design for Virtual Reality",
   author    = "Jerald, Jason",
