@@ -8909,6 +8909,12 @@
   keywords = "UCL;UCL Upgrade Research Proposals"
 }
 
+@INPROCEEDINGS{Richard2012-ki,
+  title  = "The Richard Review of Apprenticeships",
+  author = "Richard, Doug",
+  year   =  2012
+}
+
 @INPROCEEDINGS{Costanza-Chock2022-sz,
   title       = "Who Audits the Auditors? Recommendations from a field scan of
                  the algorithmic auditing ecosystem",
