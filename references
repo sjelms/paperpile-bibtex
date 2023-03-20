@@ -10220,6 +10220,38 @@
   keywords     = "Course Assignment;AIEd [CCME0123]"
 }
 
+@ARTICLE{Ackerman2023-cv,
+  title     = "A postmortem on design thinking",
+  author    = "Ackerman, Rebbeca",
+  abstract  = "When Kyle Cornforth first walked into IDEO's San Francisco
+               offices in 2011, she felt she had entered a whole new world. At
+               the time, Cornforth was a director at the Edible Schoolyard
+               Project, a nonprofit that uses gardening and cooking in schools
+               to teach and to provide nutritious food. She was there to meet
+               with IDEO.org, a new social-impact spinoff of the design
+               consulting firm, which was exploring how to reimagine school
+               lunch, a mission that the Edible Schoolyard Project has been
+               working toward since 2004. But Cornforth was new to IDEO's way
+               of working: a six-step methodology for innovation called design
+               thinking, which had emerged in the 1990s but had started
+               reaching the height of its popularity in the tech, business, and
+               social-impact sectors. Key to design thinking's spread was its
+               replicable aesthetic, represented by the Post-it note: a humble
+               square that anyone can use in infinite ways.",
+  journal   = "MIT Technology Review; Cambridge",
+  publisher = "Technology Review, Inc.",
+  volume    =  126,
+  number    =  2,
+  pages     = "28--35",
+  month     =  dec,
+  year      =  2023,
+  url       = "https://www.proquest.com/magazines/postmortem-on-design-thinking/docview/2781304820/se-2",
+  address   = "United States--US; San Francisco California, United States,
+               Cambridge",
+  language  = "en",
+  issn      = "1099-274X"
+}
+
 @BOOK{Jerald2015-dg,
   title     = "The {VR} Book: {Human-Centered} Design for Virtual Reality",
   author    = "Jerald, Jason",
