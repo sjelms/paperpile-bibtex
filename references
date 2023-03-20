@@ -10253,6 +10253,37 @@
   issn      = "1099-274X"
 }
 
+@ARTICLE{De_Monchaux2023-ev,
+  title     = "What is design?",
+  author    = "de Monchaux, Nicholas",
+  abstract  = "Though there was indeed a key shift in the meaning of ``design''
+               between 1300 and 1500, it had less to do with language and more
+               with a fundamental shift in the making of things themselves. The
+               relationship between drawing and design did not give rise to a
+               word--or even expand its meaning. Rather, it diminished the word
+               as it had previously been used, and in a way that may now be
+               important to reverse. The Latin root of ``design,'' designo,
+               conveyed to the likes of Cicero a far wider, more abstract set
+               of meanings than many generally give the word today. These
+               ranged from the literal and material (like tracing) through the
+               tactical (to contrive and achieve a goal) to the organizational
+               and institutional--as in the strategic ``designation'' of people
+               and objects (where the root ``design'' remains visibly
+               embedded). All these meanings share a broad sense of imposing
+               shape on the world, in its institutions and arrangements.",
+  journal   = "MIT Technology Review; Cambridge",
+  publisher = "Technology Review, Inc.",
+  volume    =  126,
+  number    =  2,
+  pages     = "25--27",
+  month     =  dec,
+  year      =  2023,
+  url       = "https://www.proquest.com/magazines/what-is-design/docview/2781305091/se-2",
+  address   = "Cambridge, United States, Cambridge",
+  language  = "en",
+  issn      = "1099-274X"
+}
+
 @ARTICLE{Ackerman2023-cv,
   title     = "A postmortem on design thinking",
   author    = "Ackerman, Rebbeca",
