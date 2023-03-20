@@ -10220,6 +10220,39 @@
   keywords     = "Course Assignment;AIEd [CCME0123]"
 }
 
+@ARTICLE{Crownhart2023-ly,
+  title     = "A few pieces of good news on climate change (and a reality
+               check)",
+  author    = "Crownhart, Casey",
+  abstract  = "When it comes to climate, the picture can look bleak. Emissions
+               of the greenhouse gases that cause climate change reached a new
+               peak in 2022, according to early estimates. And climate
+               disasters seem to be hitting at a breakneck pace. In 2022, the
+               world experienced record heat waves in China and Europe, and
+               devastating floods in Pakistan killed over 1,000 people and
+               displaced millions. But a close look at energy and emissions
+               data around the world shows that there are a few bright spots of
+               good news, and a lot of potential progress ahead. For example,
+               renewable sources make up a growing fraction of the energy
+               supply, and they're getting cheaper every year. Countries are
+               setting new targets for emissions reductions, and unprecedented
+               public investments could unlock more technological advances.
+               Here, few reasons to be hopeful are highlighted. It includes the
+               less dependent of economic growth of fossil fuels, and the need
+               for climate progress to happen faster.",
+  journal   = "MIT Technology Review; Cambridge",
+  publisher = "Technology Review, Inc.",
+  volume    =  126,
+  number    =  2,
+  pages     = "16--17",
+  month     =  dec,
+  year      =  2023,
+  url       = "https://www.proquest.com/magazines/few-pieces-good-news-on-climate-change-reality/docview/2781304718/se-2",
+  address   = "United States--US; India; China, United States, Cambridge",
+  language  = "en",
+  issn      = "1099-274X"
+}
+
 @ARTICLE{Ackerman2023-cv,
   title     = "A postmortem on design thinking",
   author    = "Ackerman, Rebbeca",
