@@ -10279,6 +10279,32 @@
   issn      = "1099-274X"
 }
 
+@ARTICLE{Regalado2023-vi,
+  title     = "Job titles of the future: Director of Species Restoration",
+  author    = "Regalado, Antonio",
+  abstract  = "A company called Colossal Biosciences aims to return lost
+               species to the planet. Sara Ord, 28, whose background is in
+               chemical and biomolecular engineering, is tasked with figuring
+               out how to bring back the carnivorous marsupial known as the
+               thylacine, or Tasmanian tiger, the last of which died in 1936.
+               If Colossal is successful in recreating a thylacine by 2025, as
+               it plans, the company might sell tickets to see it. How much
+               would Ord pay to catch a glimpse of one? ``Well, I am spending
+               hours and hours of my life on this,'' she says, ``so it would be
+               worth all the money in the world.''",
+  journal   = "MIT Technology Review; Cambridge",
+  publisher = "Technology Review, Inc.",
+  volume    =  126,
+  number    =  2,
+  pages     = "18",
+  month     =  dec,
+  year      =  2023,
+  url       = "https://www.proquest.com/magazines/job-titles-future-director-species-restoration/docview/2781304758/se-2",
+  address   = "Cambridge, United States, Cambridge",
+  language  = "en",
+  issn      = "1099-274X"
+}
+
 @BOOK{Jerald2015-dg,
   title     = "The {VR} Book: {Human-Centered} Design for Virtual Reality",
   author    = "Jerald, Jason",
