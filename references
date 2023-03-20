@@ -187,6 +187,8 @@
   doi       = "10.1561/1100000066"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @TECHREPORT{Richard2012-ki,
   title       = "The Richard Review of Apprenticeships",
   author      = "Richard, Doug",
@@ -196,7 +198,7 @@
   institution = "Department for Business, Innovation \& Skills",
   month       =  nov,
   year        =  2012,
-  keywords    = "Workplace Learning"
+  keywords    = "Workplace Learning;+Notion;+Readwise;§New Literature"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
