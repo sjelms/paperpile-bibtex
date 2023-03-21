@@ -22705,6 +22705,41 @@
   keywords     = "AEC;Labor;Data Stats Figures"
 }
 
+@ARTICLE{Von_Karolyi2001-ee,
+  title       = "Visual-spatial strength in dyslexia: rapid discrimination of
+                 impossible figures",
+  author      = "von K{\'a}rolyi, C",
+  affiliation = "Department of Psychology, Boston College, Chestnut Hill, MA
+                 02467-3807, USA. vonkarol@bc.edu",
+  abstract    = "It has often been conjectured that visual-spatial talents
+                 accompany dyslexia. But do individuals with dyslexia have
+                 unusual visual-spatial talents? Individuals with dyslexia were
+                 compared to controls on two computer-based visual-spatial
+                 tasks in two studies. In accordance with a diverging ability
+                 hypothesis, it was predicted that the dyslexia group would
+                 perform better on a global task, identifying impossible
+                 figures, and worse on a feature-oriented task, matching
+                 figures. These hypotheses were partially supported. On the
+                 global task, the dyslexia group was faster but no more
+                 accurate than the control group at identifying impossible
+                 objects. On the feature-oriented task, the control group
+                 outperformed the dyslexia group. The results indicate that the
+                 diverging ability hypothesis of dyslexia merits further
+                 investigation.",
+  journal     = "Journal of learning disabilities",
+  publisher   = "SAGE Publications",
+  volume      =  34,
+  number      =  4,
+  pages       = "380--391",
+  month       =  jul,
+  year        =  2001,
+  url         = "http://dx.doi.org/10.1177/002221940103400413",
+  language    = "en",
+  issn        = "0022-2194, 1538-4780",
+  pmid        = "15503582",
+  doi         = "10.1177/002221940103400413"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Eloundou2023-fz,
