@@ -7850,76 +7850,6 @@
   doi         = "10.1177/002221940103400413"
 }
 
-@ARTICLE{Coelho2021-oq,
-  title       = "Network analysis of narrative discourse and attention-deficit
-                 hyperactivity symptoms in adults",
-  author      = "Coelho, Rafael Martins and Drummond, Cl{\'a}udia and Mota,
-                 Nat{\'a}lia Bezerra and Erthal, Pilar and Bernardes, Gabriel
-                 and Lima, Gabriel and Molina, Raquel and Sudo, Felipe Kenji
-                 and Tannock, Rosemary and Mattos, Paulo",
-  affiliation = "Institute D'Or for Research and Education (IDOR), Rio de
-                 Janeiro, RJ, Brazil.; Institute D'Or for Research and
-                 Education (IDOR), Rio de Janeiro, RJ, Brazil.; Department of
-                 speech and hearing pathology, Federal University of Rio de
-                 Janeiro (UFRJ), Rio de Janeiro, RJ, Brazil.; Physics
-                 Department, Federal University of Pernambuco (UFPE), Recife,
-                 PE, Brazil.; Research Institute, The Hospital for Sick
-                 Children, Toronto, Canada.; Institute D'Or for Research and
-                 Education (IDOR), Rio de Janeiro, RJ, Brazil.; Institute of
-                 Psychiatry, Federal University of Rio de Janeiro (UFRJ), Rio
-                 de Janeiro, RJ, Brazil.",
-  abstract    = "Previous research investigating language in attention-deficit
-                 hyperactivity disorder (ADHD) has demonstrated several
-                 deficits in many aspects. However, no previous study employed
-                 quantitative methodology providing objective measures that
-                 could be compared among different studies with diverse
-                 samples. To fill this gap, we used network analysis to
-                 investigate how ADHD symptomatology impacts narrative
-                 discourse, a complex linguistic task considered to be an
-                 ecological measure of language. Fifty-eight adults (34 females
-                 and 24 males) with a mean age of 26 years old and a mean of 17
-                 years of educational level were administered the Adult
-                 Self-Rating Scale for ADHD symptomatology. They also completed
-                 the State-Trait Anxiety Inventory, the Beck Depression
-                 Inventory and the Urgency, Premeditation, Perseverance,
-                 Sensation Seeking Behavior Scale. Intelligence quotient was
-                 calculated. Individuals were asked to tell a story based on a
-                 wordless picture book. Speech was recorded and transcribed as
-                 an input to SpeechGraphs software. Parameters were total
-                 number of words (TNW), number of loops of one node (L1),
-                 repeated edges (RE), largest strongly connected component
-                 (LSC) and average shortest path (ASP). Verbosity was
-                 controlled. Statistical analysis was corrected for multiples
-                 comparisons and partial correlations were performed for
-                 confounding variables. After controlling for anxiety,
-                 depression, IQ, and impulsiveness ADHD symptomatology was
-                 positively correlated with L1 and negatively correlated with
-                 LSC. TNW was positively correlated with ADHD symptoms. In a
-                 subdomain analysis, both inattention and
-                 hyperactivity-impulsivity were negatively correlated with LSC.
-                 Only hyperactivity-impulsivity positively correlated with TNW
-                 and L1. Results indicated a correlation between ADHD symptoms
-                 and lower connectedness in narrative discourse (as indicated
-                 by higher L1 and lower LSC), as well as higher total number of
-                 words (TNW). Our results suggest that the higher the number of
-                 ADHD symptoms, the less connectivity among words, and a higher
-                 number of words in narrative discourse.",
-  journal     = "PloS one",
-  publisher   = "Public Library of Science (PLoS)",
-  volume      =  16,
-  number      =  4,
-  pages       = "e0245113",
-  month       =  apr,
-  year        =  2021,
-  url         = "http://dx.doi.org/10.1371/journal.pone.0245113",
-  copyright   = "http://creativecommons.org/licenses/by/4.0/",
-  language    = "en",
-  issn        = "1932-6203",
-  pmid        = "33826632",
-  doi         = "10.1371/journal.pone.0245113",
-  pmc         = "PMC8026017"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
@@ -22852,4 +22782,75 @@
   keywords  = "Artificial Intelligence (AI);Employment;Labor;§New
                Literature;+Readwise;+Notion",
   doi       = "10.48550/ARXIV.2303.10130"
+}
+
+@ARTICLE{Coelho2021-oq,
+  title       = "Network analysis of narrative discourse and attention-deficit
+                 hyperactivity symptoms in adults",
+  author      = "Coelho, Rafael Martins and Drummond, Cl{\'a}udia and Mota,
+                 Nat{\'a}lia Bezerra and Erthal, Pilar and Bernardes, Gabriel
+                 and Lima, Gabriel and Molina, Raquel and Sudo, Felipe Kenji
+                 and Tannock, Rosemary and Mattos, Paulo",
+  affiliation = "Institute D'Or for Research and Education (IDOR), Rio de
+                 Janeiro, RJ, Brazil.; Institute D'Or for Research and
+                 Education (IDOR), Rio de Janeiro, RJ, Brazil.; Department of
+                 speech and hearing pathology, Federal University of Rio de
+                 Janeiro (UFRJ), Rio de Janeiro, RJ, Brazil.; Physics
+                 Department, Federal University of Pernambuco (UFPE), Recife,
+                 PE, Brazil.; Research Institute, The Hospital for Sick
+                 Children, Toronto, Canada.; Institute D'Or for Research and
+                 Education (IDOR), Rio de Janeiro, RJ, Brazil.; Institute of
+                 Psychiatry, Federal University of Rio de Janeiro (UFRJ), Rio
+                 de Janeiro, RJ, Brazil.",
+  abstract    = "Previous research investigating language in attention-deficit
+                 hyperactivity disorder (ADHD) has demonstrated several
+                 deficits in many aspects. However, no previous study employed
+                 quantitative methodology providing objective measures that
+                 could be compared among different studies with diverse
+                 samples. To fill this gap, we used network analysis to
+                 investigate how ADHD symptomatology impacts narrative
+                 discourse, a complex linguistic task considered to be an
+                 ecological measure of language. Fifty-eight adults (34 females
+                 and 24 males) with a mean age of 26 years old and a mean of 17
+                 years of educational level were administered the Adult
+                 Self-Rating Scale for ADHD symptomatology. They also completed
+                 the State-Trait Anxiety Inventory, the Beck Depression
+                 Inventory and the Urgency, Premeditation, Perseverance,
+                 Sensation Seeking Behavior Scale. Intelligence quotient was
+                 calculated. Individuals were asked to tell a story based on a
+                 wordless picture book. Speech was recorded and transcribed as
+                 an input to SpeechGraphs software. Parameters were total
+                 number of words (TNW), number of loops of one node (L1),
+                 repeated edges (RE), largest strongly connected component
+                 (LSC) and average shortest path (ASP). Verbosity was
+                 controlled. Statistical analysis was corrected for multiples
+                 comparisons and partial correlations were performed for
+                 confounding variables. After controlling for anxiety,
+                 depression, IQ, and impulsiveness ADHD symptomatology was
+                 positively correlated with L1 and negatively correlated with
+                 LSC. TNW was positively correlated with ADHD symptoms. In a
+                 subdomain analysis, both inattention and
+                 hyperactivity-impulsivity were negatively correlated with LSC.
+                 Only hyperactivity-impulsivity positively correlated with TNW
+                 and L1. Results indicated a correlation between ADHD symptoms
+                 and lower connectedness in narrative discourse (as indicated
+                 by higher L1 and lower LSC), as well as higher total number of
+                 words (TNW). Our results suggest that the higher the number of
+                 ADHD symptoms, the less connectivity among words, and a higher
+                 number of words in narrative discourse.",
+  journal     = "PloS one",
+  publisher   = "Public Library of Science (PLoS)",
+  volume      =  16,
+  number      =  4,
+  pages       = "e0245113",
+  month       =  apr,
+  year        =  2021,
+  url         = "http://dx.doi.org/10.1371/journal.pone.0245113",
+  keywords    = "PhD Study and Support",
+  copyright   = "http://creativecommons.org/licenses/by/4.0/",
+  language    = "en",
+  issn        = "1932-6203",
+  pmid        = "33826632",
+  doi         = "10.1371/journal.pone.0245113",
+  pmc         = "PMC8026017"
 }
