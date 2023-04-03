@@ -1747,6 +1747,7 @@
   month         =  mar,
   year          =  2023,
   url           = "https://lukashoel.github.io/text-to-room/",
+  keywords      = "\_XR/MR;Game Engine;Multimedia",
   copyright     = "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
   archivePrefix = "arXiv",
   eprint        = "2303.11989",
