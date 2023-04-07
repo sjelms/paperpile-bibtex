@@ -7907,58 +7907,42 @@
   doi       = "10.1016/j.autcon.2023.104845"
 }
 
-@ARTICLE{Ishikawa2020-er,
-  title       = "Improving cognitive mapping by training for people with a poor
-                 sense of direction",
-  author      = "Ishikawa, Toru and Zhou, Yiren",
-  affiliation = "University of Tokyo, Tokyo, Japan. toru.ishikawa@iniad.org.
-                 INIAD Toyo University, 1-7-11 Akabanedai, Kita-ku, Tokyo,
-                 115-0053, Japan. toru.ishikawa@iniad.org. University of Tokyo,
-                 Tokyo, Japan.",
-  abstract    = "The skill of spatial learning and orientation is fundamental
-                 in humans and differs widely among individuals. Despite its
-                 importance, however, the malleability of this skill through
-                 practice has scarcely been studied empirically, in contrast to
-                 psychometric spatial ability. Thus, this article examines the
-                 possibility of improving the accuracy of configurational
-                 understanding of the environment by training. A total of 40
-                 adults with a poor sense of direction participated in the
-                 experiment; and were randomly assigned to either a condition
-                 in which they received feedback only or a condition in which
-                 they additionally practiced allocentric spatial updating.
-                 Participants walked one route in each session, once a week for
-                 6 weeks, and conducted spatial tasks designed to assess their
-                 knowledge of the route. A total of 20 people with an average
-                 sense of direction also participated as a comparison group.
-                 Results showed that training in allocentric spatial updating
-                 improved the accuracy of direction estimates, although the
-                 size of the effect was limited: the improvement was not large
-                 enough to equate the performance in the groups with a poor
-                 versus average sense of direction. The two groups, however,
-                 did not differ in spatial skill in mental rotation or path
-                 integration. Feedback was effective for improving accuracy in
-                 straight-line distance estimates and sketch maps: repeated
-                 trials with feedback led to improved accuracy by the sixth
-                 session to a level comparable to the group with an average
-                 sense of direction. The results show that flexible translation
-                 between viewer-centered and environment-centered
-                 representations is difficult and not readily trainable, and
-                 provide insights into the nature of individual differences in
-                 large-scale environmental cognition.",
-  journal     = "Cognitive research: principles and implications",
-  volume      =  5,
+@ARTICLE{Ishikawa2023-mp,
+  title       = "Individual differences and skill training in cognitive
+                 mapping: How and why people differ",
+  author      = "Ishikawa, Toru",
+  affiliation = "Department of Information Networking for Innovation and Design
+                 (INIAD), Toyo University.",
+  abstract    = "Spatial ability plays important roles in academic learning and
+                 everyday activities. A type of spatial thinking that is of
+                 particular significance to people's daily lives is cognitive
+                 mapping, that is, the process of acquiring, representing, and
+                 using knowledge about spatial environments. However, the skill
+                 of cognitive mapping shows large individual differences, and
+                 the task of spatial orientation and navigation poses great
+                 difficulty for some people. In this article, I look at the
+                 motivation and findings in the research into spatial knowledge
+                 acquisition from an individual differences perspective. I also
+                 discuss major implications of the existence of large
+                 individual differences, particularly the possibility of
+                 improving cognitive mapping by training and adjusting
+                 navigation assistance to the wide variations in spatial
+                 aptitudes and preferences among people.",
+  journal     = "Topics in cognitive science",
+  publisher   = "Wiley",
+  volume      =  15,
   number      =  1,
-  pages       = "39",
-  month       =  aug,
-  year        =  2020,
-  url         = "http://dx.doi.org/10.1186/s41235-020-00238-1",
-  keywords    = "Feedback; Individual differences; Spatial cognition; Spatial
-                 orientation; Training",
+  pages       = "163--186",
+  month       =  jan,
+  year        =  2023,
+  url         = "https://onlinelibrary.wiley.com/doi/10.1111/tops.12605",
+  keywords    = "Individual differences; Navigation; Sense of direction;
+                 Spatial orientation; Spatial thinking; Training",
+  copyright   = "http://creativecommons.org/licenses/by-nc-nd/4.0/",
   language    = "en",
-  issn        = "2365-7464",
-  pmid        = "32804308",
-  doi         = "10.1186/s41235-020-00238-1",
-  pmc         = "PMC7431476"
+  issn        = "1756-8757, 1756-8765",
+  pmid        = "35226795",
+  doi         = "10.1111/tops.12605"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -23001,4 +22985,58 @@
                and Support",
   issn      = "0307-5079",
   doi       = "10.1080/03075070600572173"
+}
+
+@ARTICLE{Ishikawa2020-er,
+  title       = "Improving cognitive mapping by training for people with a poor
+                 sense of direction",
+  author      = "Ishikawa, Toru and Zhou, Yiren",
+  affiliation = "University of Tokyo, Tokyo, Japan. toru.ishikawa@iniad.org.
+                 INIAD Toyo University, 1-7-11 Akabanedai, Kita-ku, Tokyo,
+                 115-0053, Japan. toru.ishikawa@iniad.org. University of Tokyo,
+                 Tokyo, Japan.",
+  abstract    = "The skill of spatial learning and orientation is fundamental
+                 in humans and differs widely among individuals. Despite its
+                 importance, however, the malleability of this skill through
+                 practice has scarcely been studied empirically, in contrast to
+                 psychometric spatial ability. Thus, this article examines the
+                 possibility of improving the accuracy of configurational
+                 understanding of the environment by training. A total of 40
+                 adults with a poor sense of direction participated in the
+                 experiment; and were randomly assigned to either a condition
+                 in which they received feedback only or a condition in which
+                 they additionally practiced allocentric spatial updating.
+                 Participants walked one route in each session, once a week for
+                 6 weeks, and conducted spatial tasks designed to assess their
+                 knowledge of the route. A total of 20 people with an average
+                 sense of direction also participated as a comparison group.
+                 Results showed that training in allocentric spatial updating
+                 improved the accuracy of direction estimates, although the
+                 size of the effect was limited: the improvement was not large
+                 enough to equate the performance in the groups with a poor
+                 versus average sense of direction. The two groups, however,
+                 did not differ in spatial skill in mental rotation or path
+                 integration. Feedback was effective for improving accuracy in
+                 straight-line distance estimates and sketch maps: repeated
+                 trials with feedback led to improved accuracy by the sixth
+                 session to a level comparable to the group with an average
+                 sense of direction. The results show that flexible translation
+                 between viewer-centered and environment-centered
+                 representations is difficult and not readily trainable, and
+                 provide insights into the nature of individual differences in
+                 large-scale environmental cognition.",
+  journal     = "Cognitive research: principles and implications",
+  volume      =  5,
+  number      =  1,
+  pages       = "39",
+  month       =  aug,
+  year        =  2020,
+  url         = "http://dx.doi.org/10.1186/s41235-020-00238-1",
+  keywords    = "Feedback; Individual differences; Spatial cognition; Spatial
+                 orientation; Training",
+  language    = "en",
+  issn        = "2365-7464",
+  pmid        = "32804308",
+  doi         = "10.1186/s41235-020-00238-1",
+  pmc         = "PMC7431476"
 }
