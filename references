@@ -7897,6 +7897,7 @@
   year            =  2019,
   url             = "https://www.atlantis-press.com/article/125912958",
   address         = "Paris, France",
+  keywords        = "Sensory Processing",
   conference      = "Proceedings of the 2nd International Conference on
                      Education Science and Social Development (ESSD 2019)",
   location        = "Changsha, China",
@@ -22998,7 +22999,8 @@
   year        =  2023,
   url         = "https://onlinelibrary.wiley.com/doi/10.1111/tops.12605",
   keywords    = "Individual differences; Navigation; Sense of direction;
-                 Spatial orientation; Spatial thinking; Training",
+                 Spatial orientation; Spatial thinking; Training;Sensory
+                 Processing",
   copyright   = "http://creativecommons.org/licenses/by-nc-nd/4.0/",
   language    = "en",
   issn        = "1756-8757, 1756-8765",
@@ -23052,7 +23054,7 @@
   year        =  2020,
   url         = "http://dx.doi.org/10.1186/s41235-020-00238-1",
   keywords    = "Feedback; Individual differences; Spatial cognition; Spatial
-                 orientation; Training",
+                 orientation; Training;Sensory Processing",
   language    = "en",
   issn        = "2365-7464",
   pmid        = "32804308",
