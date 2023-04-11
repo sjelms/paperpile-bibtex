@@ -7659,8 +7659,8 @@
   month     =  apr,
   year      =  2006,
   url       = "https://doi.org/10.1080/03075070600572173",
-  keywords  = "Accessibility;Important;Sensory Processing;@\_Mark Up;PhD Study
-               and Support",
+  keywords  = "Accessibility;Important;Sensory Processing;@\_Mark Up;PhD
+               Support and Training;PhD Study and Support",
   issn      = "0307-5079",
   doi       = "10.1080/03075070600572173"
 }
@@ -12117,7 +12117,8 @@
   month       =  jul,
   year        =  2001,
   url         = "http://dx.doi.org/10.1177/002221940103400413",
-  keywords    = "Sensory Processing;Accessibility;PhD Study and Support",
+  keywords    = "Sensory Processing;Accessibility;PhD Support and Training;PhD
+                 Study and Support",
   language    = "en",
   issn        = "0022-2194, 1538-4780",
   pmid        = "15503582",
@@ -13396,8 +13397,8 @@
   month       =  apr,
   year        =  2021,
   url         = "http://dx.doi.org/10.1371/journal.pone.0245113",
-  keywords    = "Accessibility;Important;Sensory Processing;PhD Study and
-                 Support",
+  keywords    = "Accessibility;Important;Sensory Processing;PhD Support and
+                 Training;PhD Study and Support",
   copyright   = "http://creativecommons.org/licenses/by/4.0/",
   language    = "en",
   issn        = "1932-6203",
@@ -17038,7 +17039,7 @@
   month     =  oct,
   year      =  2005,
   url       = "https://play.google.com/store/books/details?id=DxVbM7QugdsC",
-  keywords  = "PhD Study and Support",
+  keywords  = "PhD Support and Training;PhD Study and Support",
   language  = "en",
   isbn      = "9781412900638"
 }
