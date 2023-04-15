@@ -7919,6 +7919,40 @@
   isbn      = "9780429615139"
 }
 
+@BOOK{Loo2020-bi,
+  title     = "Informal Learning, Practitioner Inquiry and Occupational
+               Education: An Epistemological Perspective",
+  author    = "Loo, Sai and Sutton, Brian",
+  abstract  = "Informal Learning, Practitioner Inquiry and Occupational
+               Education explores how practitioners in a variety of occupations
+               perform their jobs and argues that working and learning are
+               intricately connected. Drawing on theories around working and
+               learning in informal, formal and lifelong settings, the book
+               gives insights into how workers negotiate their occupational
+               practices. The book investigates four related concepts --
+               informal learning, practitioner inquiry, occupational education
+               and epistemological perspectives. The combinations of theories
+               and empirical case studies are used to provide a conceptual
+               framework of inquiry where knowledge, abilities, experiences and
+               skill sets play a significant aspect. It presents 11 case
+               studies of professions ranging from conventional occupations of
+               acting, detective work, international road transportation to
+               emerging professions of boardroom consultancy, nutritional
+               therapy and opinion leadership. This book will be of great
+               interest for academics, scholars and postgraduate students who
+               are engaged in the study of informal education, vocational
+               education and occupation-related programmes. It will also offer
+               significant insights for related education practitioners wanting
+               to have greater understanding of their own journeys and
+               practices.",
+  publisher = "Routledge",
+  month     =  sep,
+  year      =  2020,
+  url       = "https://play.google.com/store/books/details?id=H1LzDwAAQBAJ",
+  language  = "en",
+  isbn      = "9781000174922"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
