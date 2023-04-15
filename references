@@ -7915,6 +7915,7 @@
   month     =  dec,
   year      =  2019,
   url       = "https://play.google.com/store/books/details?id=iULBDwAAQBAJ",
+  keywords  = "+Notion;+Readwise;ePub | Kindle;UCL;Workplace Learning",
   language  = "en",
   isbn      = "9780429615139"
 }
@@ -7949,6 +7950,7 @@
   month     =  sep,
   year      =  2020,
   url       = "https://play.google.com/store/books/details?id=H1LzDwAAQBAJ",
+  keywords  = "+Notion;+Readwise;ePub | Kindle;UCL;Workplace Learning",
   language  = "en",
   isbn      = "9781000174922"
 }
