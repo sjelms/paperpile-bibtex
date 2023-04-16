@@ -23182,3 +23182,49 @@
   language  = "en",
   isbn      = "9780691191263"
 }
+
+@ARTICLE{Skipper2012-tx,
+  title       = "Is no praise good praise? Effects of positive feedback on
+                 children's and university students' responses to subsequent
+                 failures",
+  author      = "Skipper, Yvonne and Douglas, Karen",
+  affiliation = "School of Psychology, University of Kent, Canterbury, UK.
+                 ys44@kent.ac.uk",
+  abstract    = "BACKGROUND: According to Dweck and colleagues, praise can be
+                 delivered using person ('you are clever') or process terms
+                 ('you worked hard'). Research suggests that giving people
+                 process praise after success can help them deal better with
+                 subsequent failures because it attributes outcomes to effort
+                 rather than fixed ability. However, research has thus far
+                 inadequately addressed how these types of praise compare to
+                 receiving no evaluative feedback. AIM: The aim of the present
+                 research was to examine the effects of person and process
+                 praise compared to a control group where only objective
+                 outcome feedback was given. SAMPLES: In Study 1, 145 British
+                 school children aged 9-11 years took part. In Study 2,
+                 participants were 114 British university students. METHOD: In
+                 both studies, participants read three scenarios and were asked
+                 to imagine themselves as the main character. In each scenario,
+                 they succeeded in an educational task and received either
+                 person, process, or no praise. Participants then read two
+                 scenarios, where they failed at a task. Following each
+                 scenario participants evaluated their performance, affect, and
+                 persistence. RESULTS: After one failure, participants who
+                 received person praise reacted most negatively on all
+                 dependent measures. However, those in the process condition
+                 did not differ significantly from those in the control group.
+                 CONCLUSIONS: These findings suggest that process feedback may
+                 not be inherently positive; instead person feedback seems
+                 particularly detrimental.",
+  journal     = "The British journal of educational psychology",
+  volume      =  82,
+  number      = "Pt 2",
+  pages       = "327--339",
+  month       =  jun,
+  year        =  2012,
+  url         = "http://dx.doi.org/10.1111/j.2044-8279.2011.02028.x",
+  language    = "en",
+  issn        = "0007-0998",
+  pmid        = "22583094",
+  doi         = "10.1111/j.2044-8279.2011.02028.x"
+}
