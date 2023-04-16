@@ -8925,7 +8925,7 @@
   year     =  2020,
   note     = "Upgrade Research Proposal",
   school   = "University College London",
-  keywords = "UCL;UCL Upgrade Research Proposals"
+  keywords = "UCL;UCL PhD Research Proposals and Thesis"
 }
 
 @PHDTHESIS{Ibrahim2016-sc,
@@ -8936,7 +8936,7 @@
   year     =  2016,
   note     = "Upgrade Research Proposal",
   school   = "University College London",
-  keywords = "UCL;UCL Upgrade Research Proposals"
+  keywords = "UCL;UCL PhD Research Proposals and Thesis"
 }
 
 @INPROCEEDINGS{Costanza-Chock2022-sz,
@@ -12327,7 +12327,7 @@
   publisher = "Taylor \& Francis Group",
   year      =  2018,
   url       = "https://openlibrary.org/books/OL37308376M.opds",
-  keywords  = "ePub | Kindle;EPubs Books",
+  keywords  = "ePub | Kindle;EPubs Books;PhD Study and Support",
   language  = "en",
   isbn      = "9781351966894"
 }
@@ -23238,5 +23238,5 @@
   editor   = "Jewitt, Carey and Price, Sara",
   year     =  2022,
   school   = "UCL (University College London).",
-  keywords = "UCL;UCL Upgrade Research Proposals"
+  keywords = "UCL;UCL PhD Research Proposals and Thesis"
 }
