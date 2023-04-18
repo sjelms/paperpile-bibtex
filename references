@@ -23080,10 +23080,12 @@
   doi      = "10.1038/d41586-018-01853-1"
 }
 
-@MISC{noauthor_undated-av,
-  title    = "
-              Upgrade\_multimodal\_text\_and\_assessment\_henrika\_floren\_2021-05-15\_page\_no
-              (1).pdf",
+@PHDTHESIS{Floren2021-av,
+  title    = "Upgrade Report: Multimodal Text and Assessment",
+  author   = "Floren, Henrika",
+  editor   = "Domingo, Myrrh and Bzemer, Jeff and Cowan, Kate",
+  month    =  may,
+  year     =  2021,
   keywords = "UCL PhD Research Proposals and Thesis"
 }
 
