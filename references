@@ -22823,13 +22823,6 @@
   doi       = "10.48550/ARXIV.2303.10130"
 }
 
-@ARTICLE{Salgado_undated-wc,
-  title  = "{INTERACTION}, {EMBODIMENT}, {AND} {PRESENCE} {AS} {LEARNING}
-            {ENHANCERS} {IN} {IMMERSIVE} {VIRTUAL-REALITY} {SCIENCE}
-            {EXPERIENCES}",
-  author = "Salgado, Omar Ceja"
-}
-
 @ARTICLE{Coelho2021-oq,
   title       = "Network analysis of narrative discourse and attention-deficit
                  hyperactivity symptoms in adults",
@@ -23096,6 +23089,15 @@
   month    =  may,
   year     =  2021,
   keywords = "UCL PhD Research Proposals and Thesis"
+}
+
+@PHDTHESIS{Salgado2018-wc,
+  title  = "Interaction, Embodiment, and Presence as Learning Enhancers in
+            Immersive {Virtual-Reality} Science Experiences",
+  author = "Salgado, Omar Ceja",
+  editor = "Price, Sara and Levinson, Ralph",
+  month  =  sep,
+  year   =  2018
 }
 
 @BOOK{Loo2019-vc,
