@@ -1771,10 +1771,6 @@
   doi       = "10.1016/j.compedu.2013.02.015"
 }
 
-@MISC{noauthor_undated-ts,
-  title = "{UpgradeDocument-AudreyJean} {FINAL+JR.pdf}"
-}
-
 @ARTICLE{Fuller2003-fy,
   title     = "Learning as Apprentices in the Contemporary {UK} Workplace:
                creating and managing expansive and restrictive participation",
@@ -22950,6 +22946,12 @@
   location        = "Changsha, China",
   isbn            = "9789462527584",
   doi             = "10.2991/essd-19.2019.8"
+}
+
+@PHDTHESIS{Jean_undated-ts,
+  title  = "Transforming Gender Through Fan Writing",
+  author = "Jean, Audrey",
+  editor = "Ringrose, Jessica and Pelletier, Caroline"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
