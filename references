@@ -18325,6 +18325,8 @@
   note         = "Accessed: 2023-3-3"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @PHDTHESIS{Crayne2021-jq,
   title    = "Analyzing the Causes of Labor Shortage in the Commercial
               Carpentry Trades in the San Francisco Bay Area",
@@ -18353,7 +18355,7 @@
   year     =  2021,
   url      = "https://digitalcommons.calpoly.edu/cmsp/456/",
   school   = "California Polytechnic State University, San Luis Obispo",
-  keywords = "AEC;Labor;*Upgrade Report 2023"
+  keywords = "AEC;Labor;+Notion;+Readwise;§New Literature;*Upgrade Report 2023"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
