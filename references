@@ -1271,27 +1271,6 @@
   doi       = "10.1207/s15516709cog2504\_1"
 }
 
-@ARTICLE{VanLehn2006-op,
-  title     = "The behavior of tutoring systems",
-  author    = "VanLehn, Kurt",
-  abstract  = "Tutoring systems are described as having two loops. The outer
-               loop executes once for each task, where a task usually consists
-               of solving a complex, multi-step problem. The inner loop
-               executes once for each step taken by the student in the solution
-               of",
-  journal   = "International journal of artificial intelligence in education",
-  publisher = "IOS Press",
-  volume    =  16,
-  number    =  3,
-  pages     = "227--265",
-  month     =  jan,
-  year      =  2006,
-  url       = "https://content.iospress.com/articles/international-journal-of-artificial-intelligence-in-education/jai16-3-02",
-  keywords  = "Intelligent Tutoring Systems (ITS);Cited for Frontiers;Frontiers
-               [2022]",
-  issn      = "1560-4292, 1560-4306"
-}
-
 @UNPUBLISHED{Frey2013-nj,
   title       = "The future of employment: How susceptible are jobs to
                  computerisation?",
@@ -23375,4 +23354,25 @@
   year        =  2020,
   keywords    = "+Notion;+Readwise;AEC;§New Literature;Construction
                  4.0;*Upgrade Report 2023"
+}
+
+@ARTICLE{VanLehn2006-op,
+  title     = "The behavior of tutoring systems",
+  author    = "VanLehn, Kurt",
+  abstract  = "Tutoring systems are described as having two loops. The outer
+               loop executes once for each task, where a task usually consists
+               of solving a complex, multi-step problem. The inner loop
+               executes once for each step taken by the student in the solution
+               of",
+  journal   = "International journal of artificial intelligence in education",
+  publisher = "IOS Press",
+  volume    =  16,
+  number    =  3,
+  pages     = "227--265",
+  month     =  jan,
+  year      =  2006,
+  url       = "https://content.iospress.com/articles/international-journal-of-artificial-intelligence-in-education/jai16-3-02",
+  keywords  = "Intelligent Tutoring Systems (ITS);Cited for Frontiers;Frontiers
+               [2022];*Upgrade Report 2023",
+  issn      = "1560-4292, 1560-4306"
 }
