@@ -23592,3 +23592,36 @@
   isbn      = "9780128217979",
   doi       = "10.1016/B978-0-12-821797-9.00013-1"
 }
+
+@INCOLLECTION{Casini2022-ym,
+  title     = "Chapter 4 - Building information modeling",
+  booktitle = "Construction 4.0",
+  author    = "Casini, Marco",
+  editor    = "Casini, Marco",
+  abstract  = "The chapter focuses on the role of building information modeling
+               (BIM) in the digital transformation of the architecture,
+               engineering, construction, and operation (AECO) sector
+               describing methods, tools, and processes for its full
+               integration in the industry. Technological basics of BIM and
+               computational methods for the geometric and semantic modeling of
+               buildings are discussed. Level of development of the building
+               information model and BIM multidimensional applications are
+               investigated. Main BIM software tools are described and the main
+               applications of BIM along the value chain are presented along
+               with the interaction with the other digital disruptive
+               technologies. BIM processes, workflow, skills, and collaborative
+               practices are summarized. Finally, the maturity levels of BIM up
+               to BIM level 3 are discussed focusing on the issues of
+               standardization and interoperability.",
+  publisher = "Woodhead Publishing",
+  pages     = "189--219",
+  month     =  jan,
+  year      =  2022,
+  url       = "https://www.sciencedirect.com/science/article/pii/B9780128217979000027",
+  keywords  = "Building information modeling; 4D BIM; 5D BIM; 6D BIM; 7D BIM;
+               BIM LOD; BIM level 2; BIM level 3; BIM interoperability;
+               openBIM; common data environment; BIM software; BIM professions;
+               IFC;Marco Casini Construction 4.0",
+  isbn      = "9780128217979",
+  doi       = "10.1016/B978-0-12-821797-9.00002-7"
+}
