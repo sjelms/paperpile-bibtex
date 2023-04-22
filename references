@@ -2753,15 +2753,6 @@
   keywords    = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
-@BOOK{Schwab2017-js,
-  title     = "The Fourth Industrial Revolution",
-  author    = "Schwab, Klaus",
-  publisher = "Adfo Books",
-  year      =  2017,
-  keywords  = "Cited for Frontiers;ePub | Kindle;Zotero Import (Feb 22);My
-               Library;2021-12-03 Frontiers;Frontiers [2022];EPubs Books"
-}
-
 @MISC{Factory_OS2020-jw,
   title    = "{Factory\_OS} Joins Forces With Technology and Finance Leaders to
               Solve the Housing Crisis",
@@ -15978,6 +15969,16 @@
   keywords  = "ePub | Kindle;Sensory Processing;**CATALOGED;Brain and Space
                [Coursera];EPubs Books;Notion Catalogued",
   isbn      = "9780674744875"
+}
+
+@BOOK{Schwab2017-js,
+  title     = "The Fourth Industrial Revolution",
+  author    = "Schwab, Klaus",
+  publisher = "Adfo Books",
+  year      =  2017,
+  keywords  = "Cited for Frontiers;ePub | Kindle;Zotero Import (Feb 22);My
+               Library;2021-12-03 Frontiers;Frontiers [2022];EPubs
+               Books;*Upgrade Report 2023"
 }
 
 @TECHREPORT{Pothier2019-fn,
