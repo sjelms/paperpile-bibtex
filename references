@@ -23875,6 +23875,47 @@
   doi       = "10.1016/B978-0-12-821797-9.00008-8"
 }
 
+@INCOLLECTION{Casini2022-in,
+  title     = "Chapter 12 - Smart buildings and smart cities",
+  booktitle = "Construction 4.0",
+  author    = "Casini, Marco",
+  editor    = "Casini, Marco",
+  abstract  = "The chapter investigates the AEC digital transformation at the
+               urban scale, focusing on smart cities and smart energy
+               buildings. The smart city (SC) concept is thoroughly illustrated
+               focusing on the pivotal role of AI and urban Big Data in
+               enhancing different SC services and in helping decision makers
+               plan for any improvement. Within the SC model, the innovative
+               use of digital twin is investigated showing its potential to
+               transform urban landscapes and to address climate change issues
+               improving the resilience of cities. In the path toward a net
+               zero carbon future, the transformation of the energy system
+               through smart energy infrastructure is illustrated, describing
+               technologies and strategies for a clean electrification of
+               transport and building services and a full integration of
+               e-mobility and renewable energies. At the urban scale, smart
+               grids, smart meters, and microgrid technologies are described,
+               also illustrating the role of green hydrogen in decarbonization.
+               Finally, at the building scale, integration of renewable
+               energies, electric storage, vehicle to building, and demand
+               response technologies is investigated.",
+  publisher = "Woodhead Publishing",
+  pages     = "607--660",
+  month     =  jan,
+  year      =  2022,
+  url       = "https://www.sciencedirect.com/science/article/pii/B978012821797900012X",
+  keywords  = "Smart City; AI and big data; smart city digital twin; smart
+               grid; smart meters; microgrids; building energy management;
+               building integrated renewable energy; building integrated
+               photovoltaics; building augmented wind turbines; energy
+               harvesting systems; building electricity storage; vehicle to
+               building; demand response; in-pipe hydro power; building to
+               grid; smart grid optimized building;Marco Casini Construction
+               4.0",
+  isbn      = "9780128217979",
+  doi       = "10.1016/B978-0-12-821797-9.00012-X"
+}
+
 @INCOLLECTION{Casini2022-vx,
   title     = "Chapter 11 - Advanced facility management",
   booktitle = "Construction 4.0",
