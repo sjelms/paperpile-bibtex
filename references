@@ -23465,6 +23465,48 @@
   issn      = "1560-4292, 1560-4306"
 }
 
+@INCOLLECTION{Casini2022-cs,
+  title     = "Chapter 2 - Holistic building design approach",
+  booktitle = "Construction 4.0",
+  author    = "Casini, Marco",
+  editor    = "Casini, Marco",
+  abstract  = "The chapter provides an overview on the new holistic design
+               approach necessary to face the new challenges of the 21st
+               century architecture, illustrating the methods, strategies, and
+               tools to consider the environmental, social, and economic
+               impacts of design choices along the entire AECO value chain.
+               Life cycle design principles in architecture are addressed,
+               describing building life cycle design and building life cycle
+               costing strategies and objectives. Climate and context adaptive
+               design goals, tools, and methods are investigated, focusing on
+               the context and climate analysis phases and on the new,
+               strategic targets for building operational performance that
+               concern functionality, well-being, efficiency, and quality,
+               including the emerging objectives of adaptability, smart
+               readiness, resilience to climate change, and safe human
+               interaction in response to global health issues. A thorough
+               review of the main design strategies for the maximum
+               environmental, social, and economic sustainability of the built
+               environment is also given, focusing on the optimization and on
+               the best harmonization with the context of building geometry,
+               envelope, systems, and renewable energy sources. Finally, design
+               for construction and deconstruction strategies for a lower
+               impact of the built environment are addressed.",
+  publisher = "Woodhead Publishing",
+  pages     = "61--149",
+  month     =  jan,
+  year      =  2022,
+  url       = "https://www.sciencedirect.com/science/article/pii/B9780128217979000015",
+  keywords  = "Climate adaptive design; life cycle design; climate analysis;
+               holistic design strategies; design for deconstruction; adaptive
+               reuse; green building rating systems; LEED; LCA software tools;
+               building life cycle costing; low-carbon architecture; urban
+               mining; building as material banks (BAMB); material
+               passport;Marco Casini Construction 4.0",
+  isbn      = "9780128217979",
+  doi       = "10.1016/B978-0-12-821797-9.00001-5"
+}
+
 @INCOLLECTION{Casini2022-zx,
   title     = "Chapter 1 - Toward a new building era",
   booktitle = "Construction 4.0",
