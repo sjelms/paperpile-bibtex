@@ -20439,32 +20439,6 @@
   doi       = "10.3390/buildings11010017"
 }
 
-@INPROCEEDINGS{Ras2017-fv,
-  title       = "Bridging the Skills Gap of Workers in Industry 4.0 by Human
-                 Performance Augmentation Tools",
-  booktitle   = "Proceedings of the 10th International Conference on
-                 {PErvasive} Technologies Related to Assistive Environments",
-  author      = "Ras, Eric and Wild, Fridolin and Stahl, Christoph and Baudet,
-                 Alexandre",
-  affiliation = "Luxembourg Institute of Science and Technology,
-                 Esch-sur-Alzette, Luxembourg; Department of Computing and
-                 Communications Technologies, Oxford Brookes University,
-                 Oxford, United Kingdom",
-  publisher   = "ACM",
-  month       =  jun,
-  year        =  2017,
-  url         = "http://dx.doi.org/10.1145/3056540.3076192",
-  address     = "New York, NY, USA",
-  keywords    = "AEC;+Notion;+Readwise;@\_Mark Up;Construction 4.0;UCL Poster
-                 Q1 2023",
-  copyright   = "http://www.acm.org/publications/policies/copyright\_policy\#Background",
-  conference  = "PETRA '17: 10th International Conference on PErvasive
-                 Technologies Related to Assistive Environments",
-  location    = "Island of Rhodes Greece",
-  isbn        = "9781450352277",
-  doi         = "10.1145/3056540.3076192"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Vinayan2020-md,
@@ -23363,4 +23337,30 @@
   keywords  = "Audiobook;Book (physical);ePub | Kindle;Statistics;EPubs Books",
   language  = "en",
   isbn      = "9781473637467"
+}
+
+@INPROCEEDINGS{Ras2017-fv,
+  title       = "Bridging the Skills Gap of Workers in Industry 4.0 by Human
+                 Performance Augmentation Tools",
+  booktitle   = "Proceedings of the 10th International Conference on
+                 {PErvasive} Technologies Related to Assistive Environments",
+  author      = "Ras, Eric and Wild, Fridolin and Stahl, Christoph and Baudet,
+                 Alexandre",
+  affiliation = "Luxembourg Institute of Science and Technology,
+                 Esch-sur-Alzette, Luxembourg; Department of Computing and
+                 Communications Technologies, Oxford Brookes University,
+                 Oxford, United Kingdom",
+  publisher   = "ACM",
+  month       =  jun,
+  year        =  2017,
+  url         = "http://dx.doi.org/10.1145/3056540.3076192",
+  address     = "New York, NY, USA",
+  keywords    = "AEC;+Notion;+Readwise;@\_Mark Up;Construction 4.0;UCL Poster
+                 Q1 2023;*Upgrade Report 2023",
+  copyright   = "http://www.acm.org/publications/policies/copyright\_policy\#Background",
+  conference  = "PETRA '17: 10th International Conference on PErvasive
+                 Technologies Related to Assistive Environments",
+  location    = "Island of Rhodes Greece",
+  isbn        = "9781450352277",
+  doi         = "10.1145/3056540.3076192"
 }
