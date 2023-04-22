@@ -5958,17 +5958,6 @@
   issn      = "1094-8198"
 }
 
-@MISC{Schankula2019-ju,
-  title     = "The Future Of Work: {VICE} Special Report",
-  booktitle = "{HBO} Documentary Films",
-  author    = "Schankula, David",
-  publisher = "Home Box Office",
-  month     =  apr,
-  year      =  2019,
-  address   = "New York, NY",
-  keywords  = "YouTube;Cited for Frontiers;Frontiers [2022]"
-}
-
 @INPROCEEDINGS{Olsen2012-gr,
   title     = "Bad for Business: Skilled Labor Shortages in Alabama's
                Construction Industry",
@@ -16006,6 +15995,18 @@
   month       =  jun,
   year        =  2020,
   keywords    = "AEC;Report;Autodesk;*Upgrade Report 2023"
+}
+
+@MISC{Schankula2019-ju,
+  title     = "The Future Of Work: {VICE} Special Report",
+  booktitle = "{HBO} Documentary Films",
+  author    = "Schankula, David",
+  publisher = "Home Box Office",
+  month     =  apr,
+  year      =  2019,
+  address   = "New York, NY",
+  keywords  = "YouTube;Cited for Frontiers;Frontiers [2022];*Upgrade Report
+               2023"
 }
 
 @MISC{Alberto2022-nv,
