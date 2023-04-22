@@ -23555,6 +23555,51 @@
   doi       = "10.1016/B978-0-12-821797-9.00011-8"
 }
 
+@INCOLLECTION{Casini2022-jd,
+  title     = "Chapter 8 - Advanced building construction methods",
+  booktitle = "Construction 4.0",
+  author    = "Casini, Marco",
+  editor    = "Casini, Marco",
+  abstract  = "The chapter focuses on the emerging advanced building
+               construction methods and techniques, oriented to improving
+               quality, safety, and productivity of the construction industry.
+               New advancements in prefabrication and modular construction,
+               off-site and on-site construction automation, robotics and
+               additive manufacturing (AM) in construction are illustrated
+               providing a review of the emerging trends, technologies and
+               strategies, and showing current barriers, challenges, and
+               opportunities for their wider adoption in the building industry.
+               Single task construction robots, biomorphic robots,
+               exoskeletons, autonomous vehicles, and robotic on-site factories
+               are investigated showing their main applications in
+               construction. A holistic overview of different AM processes,
+               technologies, and materials for the construction industry is
+               given, which includes some of the 3D-printed demonstration
+               projects at the building scale completed to date. Current status
+               of technology, limitations, and advantages with reference to
+               materials, systems, and construction processes are explained.",
+  publisher = "Woodhead Publishing",
+  pages     = "405--470",
+  month     =  jan,
+  year      =  2022,
+  url       = "https://www.sciencedirect.com/science/article/pii/B9780128217979000064",
+  keywords  = "On-site automation; automated construction; additive
+               manufacturing in construction; exoskeletons; autonomous
+               vehicles; off-site construction; 3D printing; construction
+               automation; digital fabrication; modular construction;
+               prefabrication; 4D printing; 3D concrete printing; large-scale
+               3D printing; robotic construction; single task construction
+               robots (STCRs); 3D-printed homes; modular integrated
+               construction (MiC); permanent modular construction (PMC);
+               prefabricated prefinished volumetric construction (PPVC);
+               robotics; modular buildings; robotic off-site prefabrication;
+               demolition robots; bricklaying robots; biomorphic robots; human
+               augmentation; teleoperated vehicles; robotic on-site factories;
+               metal 3D printing; soft robotics;Marco Casini Construction 4.0",
+  isbn      = "9780128217979",
+  doi       = "10.1016/B978-0-12-821797-9.00006-4"
+}
+
 @INCOLLECTION{Casini2022-hf,
   title     = "Chapter 3 - Building digital revolution",
   booktitle = "Construction 4.0",
