@@ -21807,7 +21807,7 @@
   url      = "https://ourworldindata.org/technology-adoption",
   note     = "Title of the publication associated with this dataset: Global
               Change Data Lab",
-  keywords = "Website;Data Stats Figures"
+  keywords = "Website;Data Stats Figures;*Upgrade Report 2023"
 }
 
 @TECHREPORT{Dreischmeier2015-di,
