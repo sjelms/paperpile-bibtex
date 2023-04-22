@@ -4894,7 +4894,8 @@
   month     =  jan,
   year      =  2020,
   url       = "http://dx.doi.org/10.25304/rlt.v28.2329",
-  keywords  = "AEC;ePub | Kindle;@\_Mark Up;Cited for Frontiers;EPubs Books",
+  keywords  = "AEC;ePub | Kindle;@\_Mark Up;Cited for Frontiers;EPubs
+               Books;*Upgrade Report 2023",
   issn      = "2156-7069, 2156-7077",
   doi       = "10.25304/rlt.v28.2329"
 }
