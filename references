@@ -16039,6 +16039,20 @@
                2023"
 }
 
+@INCOLLECTION{Casini2022-bm,
+  title     = "Index",
+  booktitle = "Construction 4.0",
+  editor    = "Casini, Marco",
+  publisher = "Woodhead Publishing",
+  pages     = "661--676",
+  month     =  jan,
+  year      =  2022,
+  url       = "https://www.sciencedirect.com/science/article/pii/B9780128217979000179",
+  keywords  = "Marco Casini Construction 4.0",
+  isbn      = "9780128217979",
+  doi       = "10.1016/B978-0-12-821797-9.00017-9"
+}
+
 @INCOLLECTION{Casini2022-mw,
   title     = "Copyright",
   booktitle = "Construction 4.0",
