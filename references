@@ -5404,8 +5404,8 @@
   month     =  jan,
   year      =  2014,
   address   = "New York, NY",
-  keywords  = "Book (physical);Cited for Frontiers;Frontiers [2022];*Upgrade
-               Report 2023",
+  keywords  = "Book (physical);Cited for Frontiers;Audiobook;ePub |
+               Kindle;Frontiers [2022];*Upgrade Report 2023",
   language  = "en",
   isbn      = "9780393239355"
 }
