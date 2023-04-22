@@ -23554,3 +23554,41 @@
   isbn      = "9780128217979",
   doi       = "10.1016/B978-0-12-821797-9.00011-8"
 }
+
+@INCOLLECTION{Casini2022-hf,
+  title     = "Chapter 3 - Building digital revolution",
+  booktitle = "Construction 4.0",
+  author    = "Casini, Marco",
+  editor    = "Casini, Marco",
+  abstract  = "The chapter provides and overview of the digital revolution that
+               is changing the Architecture, Engineering, Construction and
+               Operation (AECO) industry and leading to the Construction 4.0
+               model, based on augmented digital design, connected and
+               automated construction processes, and smart building operations
+               and maintenance. The key technology drivers---building
+               information modeling, cloud and edge computing, Internet of
+               things, 5G networks, artificial intelligence and machine
+               learning, Big Data and advanced analytics, and
+               nanotechnology---are described, highlighting their role in the
+               digital transformation of the construction sector and the new
+               opportunities brought in terms of higher productivity and
+               building quality. A thorough analysis of Construction 4.0 tools
+               and methods is given, describing the applications and advantages
+               in the whole value chain of the new ``digital twin building life
+               cycle'' achievable with the full integration of all these
+               digital technologies.",
+  publisher = "Woodhead Publishing",
+  pages     = "151--186",
+  month     =  jan,
+  year      =  2022,
+  url       = "https://www.sciencedirect.com/science/article/pii/B9780128217979000131",
+  keywords  = "Construction 4.0; building information modeling; cloud
+               computing; edge computing; Internet of things; 5G network;
+               artificial intelligence; machine learning; Big Data; advanced
+               analytics; nanotechnology; digital twin; digital building life
+               cycle; augmented digital design; data-driven design; connected
+               construction; building automation; automated construction
+               site;Marco Casini Construction 4.0",
+  isbn      = "9780128217979",
+  doi       = "10.1016/B978-0-12-821797-9.00013-1"
+}
