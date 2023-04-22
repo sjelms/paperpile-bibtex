@@ -15994,6 +15994,15 @@
   keywords    = "AEC;Report;Autodesk;*Upgrade Report 2023"
 }
 
+@TECHREPORT{Pothier2020-kd,
+  title       = "Future of Work in Construction",
+  author      = "Pothier, Debra and Sawhney, Anil",
+  institution = "Autodesk",
+  month       =  jun,
+  year        =  2020,
+  keywords    = "AEC;Report;Autodesk;*Upgrade Report 2023"
+}
+
 @MISC{Alberto2022-nv,
   title    = "Applying the Cognitive Theory of Multimedia Learning to
               Educational Animations and Explainer Videos in {CME-CPD}",
@@ -19338,15 +19347,6 @@
               strategies;Knowledge - Skill Acquisition;Education",
   issn     = "0360-1315",
   doi      = "10.1016/j.compedu.2010.08.011"
-}
-
-@TECHREPORT{Pothier2020-kd,
-  title       = "Future of Work in Construction",
-  author      = "Pothier, Debra and Sawhney, Anil",
-  institution = "Autodesk",
-  month       =  jun,
-  year        =  2020,
-  keywords    = "AEC;Report;Autodesk"
 }
 
 @ARTICLE{Nonaka1994-ec,
