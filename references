@@ -15985,6 +15985,20 @@
   doi       = "10.1016/B978-0-12-821797-9.00018-0"
 }
 
+@INCOLLECTION{Casini2022-jr,
+  title     = "Contents",
+  booktitle = "Construction 4.0",
+  editor    = "Casini, Marco",
+  publisher = "Woodhead Publishing",
+  pages     = "v--viii",
+  month     =  jan,
+  year      =  2022,
+  url       = "https://www.sciencedirect.com/science/article/pii/B9780128217979000167",
+  keywords  = "Marco Casini Construction 4.0",
+  isbn      = "9780128217979",
+  doi       = "10.1016/B978-0-12-821797-9.00016-7"
+}
+
 @BOOK{Schwab2017-js,
   title     = "The Fourth Industrial Revolution",
   author    = "Schwab, Klaus",
