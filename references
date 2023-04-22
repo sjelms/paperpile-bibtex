@@ -7645,7 +7645,8 @@
   month     =  apr,
   year      =  2011,
   url       = "https://play.google.com/store/books/details?id=ID0L0EI79-YC",
-  keywords  = "ePub | Kindle;HCI;Cited for Frontiers;+Notion;EPubs Books",
+  keywords  = "ePub | Kindle;HCI;Cited for Frontiers;+Notion;EPubs
+               Books;*Upgrade Report 2023",
   language  = "en",
   isbn      = "9780123822321"
 }
