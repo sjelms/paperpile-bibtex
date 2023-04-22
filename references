@@ -23552,6 +23552,47 @@
   doi      = "10.1109/TEM.2021.3110427"
 }
 
+@ARTICLE{Wang2022-yh,
+  title    = "From Industry 4.0 to Construction 4.0: barriers to the digital
+              transformation of engineering and construction sectors",
+  author   = "Wang, Kaiyang and Guo, Fangyu and Zhang, Cheng and Schaefer, Dirk",
+  abstract = "Purpose The purpose of this study is to systematically identify,
+              assess, and categorize the barriers to digital transformation
+              (DT) in the engineering and construction sectors, and thus to
+              better understand the impact and how these sectors might be
+              overcome.Design/methodology/approach This study adopted a
+              sequential mixed qualitative and quantitative data collection and
+              analysis approach. DT barriers were first identified from
+              relevant literature and verified by an expert panel. Then, a
+              questionnaire survey assessing the impacts of the identified DT
+              barriers was distributed to construction professionals in China,
+              and 192 valid responses were retrieved. Further, the data
+              obtained were analyzed using ranking analysis, exploratory factor
+              analysis (EFA), and partial least squares-structural equation
+              modeling (PLS-SEM).Findings Based on the ranking analysis, the
+              top three barriers are ``lack of industry-specific standards and
+              laws,'' ``lack of clear vision, strategy and direction for DT,''
+              and ``lack of support from top management for DT.'' EFA enabled
+              the grouping of the 26 barriers into 3 categories: (1) lack of
+              laws and regulations (LLR), (2) lack of support and leadership
+              (LSL), and (3) lack of resources and professionals (LRP). The
+              PLS-SEM analysis revealed that LLR, LSL, and LRP were found to
+              have significant negative impacts on DT.Originality/value These
+              findings contribute to the body of knowledge on DT in the
+              construction industry and help construction firms and government
+              bodies improve the understanding of these barriers to DT and put
+              forward relevant policies and incentives, thus seizing the DT
+              benefits as a way to enhance construction project management.",
+  journal  = "Engineering Construction and Architectural Management",
+  volume   = "ahead-of-print",
+  number   = "ahead-of-print",
+  month    =  jan,
+  year     =  2022,
+  url      = "https://doi.org/10.1108/ECAM-05-2022-0383",
+  issn     = "0969-9988",
+  doi      = "10.1108/ECAM-05-2022-0383"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @TECHREPORT{Ribeirinho2020-mq,
