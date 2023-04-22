@@ -23874,3 +23874,44 @@
   isbn      = "9780128217979",
   doi       = "10.1016/B978-0-12-821797-9.00008-8"
 }
+
+@INCOLLECTION{Casini2022-vx,
+  title     = "Chapter 11 - Advanced facility management",
+  booktitle = "Construction 4.0",
+  author    = "Casini, Marco",
+  editor    = "Casini, Marco",
+  abstract  = "The chapter illustrates the most advanced building facility
+               management tools and methods, focusing on facility operation and
+               maintenance activities. After an overview on main building
+               maintenance policies and strategies, the chapter describes
+               computer-aided facilities management software for planning,
+               managing, reporting, and tracking maintenance operations with
+               particular reference to their integration with BIM (FM-enabled
+               BIM), illustrating applications and advantages. The use of
+               Internet of Things and machine learning is investigated,
+               illustrating the new concept of building predictive maintenance
+               for early fault detection, fault identification, health
+               assessment of equipment, as well as to predict accurately the
+               future state of systems. Applications of extended reality
+               (virtual reality, augmented reality, and mixed reality)
+               technology in building and systems maintenance are described,
+               showing advantages in supporting technical maintenance tasks, as
+               well as improving the management of maintenance operations and
+               supporting strategic decision-making. Finally, the new Digital
+               twin technology, which promises to revolutionize the way
+               buildings are managed and maintained, is thoroughly
+               investigated.",
+  publisher = "Woodhead Publishing",
+  pages     = "583--605",
+  month     =  jan,
+  year      =  2022,
+  url       = "https://www.sciencedirect.com/science/article/pii/B9780128217979000039",
+  keywords  = "Digital Twin; predictive maintenance; building facility
+               management; computer-aided facility management (CAFM);
+               BIM-enhanced facility management (FM-enabled BIM); predictive
+               building maintenance; extended reality; VR in maintenance; AR in
+               maintenance; MR in maintenance; digital building twin;Marco
+               Casini Construction 4.0",
+  isbn      = "9780128217979",
+  doi       = "10.1016/B978-0-12-821797-9.00003-9"
+}
