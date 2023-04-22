@@ -23666,3 +23666,50 @@
   isbn      = "9780128217979",
   doi       = "10.1016/B978-0-12-821797-9.00002-7"
 }
+
+@INCOLLECTION{Casini2022-lu,
+  title     = "Chapter 6 - Advanced digital design tools and methods",
+  booktitle = "Construction 4.0",
+  author    = "Casini, Marco",
+  editor    = "Casini, Marco",
+  abstract  = "The chapter provides an overview of the most advanced digital
+               tools and methods to support the design activity, illustrating
+               their main applications and advantages for the design process
+               and their beneficial effects on the following construction and
+               operational phases. An in-depth description of advanced survey
+               systems and techniques is given, focusing on innovative data
+               acquisition technologies such as aerial mapping, geographic
+               information systems, three-dimesional (3D) photo reconstruction,
+               and LiDAR scanning for virtual migration of physical structures.
+               New possibilities for enhanced design exploration and
+               visualization through real-time 3D rendering and extended
+               reality (VR, AR, and MR) are investigated, illustrating main
+               applications, technologies, and software tools. A thorough
+               analysis of new possibilities offered by design automation,
+               parametric design, and generative design is given, illustrating
+               applications, methods, and software tools and their integration
+               with Building Information Modeling. Finally, an overview on
+               design for digital fabrication methods is provided, illustrating
+               their advantages in terms of higher geometrical complexity,
+               precise material processing, and improved control of quality,
+               time, and costs.",
+  publisher = "Woodhead Publishing",
+  pages     = "263--334",
+  month     =  jan,
+  year      =  2022,
+  url       = "https://www.sciencedirect.com/science/article/pii/B978012821797900009X",
+  keywords  = "Computer-aided design; design optimization; design space
+               exploration; surrogate-based optimization; advanced survey
+               systems; aerial mapping; satellite imagery; geographic
+               information system (GIS); robotic total station; GNSS survey;
+               LiDAR; 3D scanning; 3D photo reconstruction; real time 3D
+               visualization; extended reality in design; virtual reality;
+               augmented reality; mixed reality; computational design;
+               generative design; parametric design; design automation; genetic
+               algorithms; digital fabrication; design for digital
+               manufacturing; design optioneering; smart glasses; immersive
+               technologies; laser scanning; interactive environment;
+               multiobjective optimization;Marco Casini Construction 4.0",
+  isbn      = "9780128217979",
+  doi       = "10.1016/B978-0-12-821797-9.00009-X"
+}
