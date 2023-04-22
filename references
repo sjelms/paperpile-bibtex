@@ -23837,3 +23837,40 @@
   isbn      = "9780128217979",
   doi       = "10.1016/B978-0-12-821797-9.00007-6"
 }
+
+@INCOLLECTION{Casini2022-xf,
+  title     = "Chapter 10 - Building automation systems",
+  booktitle = "Construction 4.0",
+  author    = "Casini, Marco",
+  editor    = "Casini, Marco",
+  abstract  = "The chapter focuses on the deployment of advanced automation
+               systems to make buildings and homes smarter. After an overview
+               of the architecture, components, and services of Building
+               Automation Systems (BAS), their topology, connected services,
+               control strategies, and advanced human interfaces are described
+               in depth. The role of IoT for smart buildings is investigated
+               and main connectible services (energy, HVAC, lighting, water,
+               dynamic facades) are illustrated, showing applications and
+               advantages for operation, costs and energy saving, and indoor
+               comfort. Within BAS, particular attention is given to the new,
+               artificial intelligence-empowered advanced control strategies
+               based on Model Predictive Control and Reinforced Learning.
+               Finally, home automation is investigated, describing smart home
+               technologies and services up to the new concept of connected
+               home.",
+  publisher = "Woodhead Publishing",
+  pages     = "525--581",
+  month     =  jan,
+  year      =  2022,
+  url       = "https://www.sciencedirect.com/science/article/pii/B9780128217979000088",
+  keywords  = "Building automation system; building management system; BAS
+               topology; controllers; sensors; actuators; wireless sensor
+               network; Internet of Things; energy management system; HVAC
+               automation; smart lighting; adaptive facades; water management;
+               control strategies; model predictive control; white-box methods;
+               black-box methods; gray-box methods; reinforced learning;
+               advanced human interfaces; smart home; smart home services;
+               connected home;Marco Casini Construction 4.0",
+  isbn      = "9780128217979",
+  doi       = "10.1016/B978-0-12-821797-9.00008-8"
+}
