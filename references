@@ -16122,26 +16122,6 @@
   doi       = "10.1016/B978-0-12-821797-9.00015-5"
 }
 
-@MISC{Associated_Builders_and_Contractors2023-pe,
-  title        = "Construction Workforce Shortage Tops Half a Million in 2023,
-                  Says {ABC}",
-  booktitle    = "{ABC} Construction Economic Update - News Releases",
-  author       = "{Associated Builders and Contractors}",
-  abstract     = "WASHINGTON, Feb. 9---The construction industry will need to
-                  attract an estimated 546,000 additional workers on top of the
-                  normal pace of hiring in 2023 to meet the demand for labor,
-                  according to a proprietary model developed by Associated
-                  Builders and",
-  publisher    = "Associated Builders and Contractors, Inc.",
-  month        =  feb,
-  year         =  2023,
-  url          = "https://www.abc.org/News-Media/News-Releases/entryid/19777/construction-workforce-shortage-tops-half-a-million-in-2023-says-abc",
-  howpublished = "\url{https://www.abc.org/News-Media/News-Releases/entryid/19777/construction-workforce-shortage-tops-half-a-million-in-2023-says-abc}",
-  note         = "Accessed: 2023-4-23",
-  keywords     = "*Upgrade Report 2023",
-  language     = "en"
-}
-
 @MISC{Alberto2022-nv,
   title    = "Applying the Cognitive Theory of Multimedia Learning to
               Educational Animations and Explainer Videos in {CME-CPD}",
@@ -18793,6 +18773,26 @@
                Literature;*Upgrade Report 2023;Construction 4.0",
   isbn      = "9783658394073",
   doi       = "10.1007/978-3-658-39407-3\_13"
+}
+
+@MISC{Associated_Builders_and_Contractors2023-pe,
+  title        = "Construction Workforce Shortage Tops Half a Million in 2023,
+                  Says {ABC}",
+  booktitle    = "{ABC} Construction Economic Update - News Releases",
+  author       = "{Associated Builders and Contractors}",
+  abstract     = "WASHINGTON, Feb. 9---The construction industry will need to
+                  attract an estimated 546,000 additional workers on top of the
+                  normal pace of hiring in 2023 to meet the demand for labor,
+                  according to a proprietary model developed by Associated
+                  Builders and",
+  publisher    = "Associated Builders and Contractors, Inc.",
+  month        =  feb,
+  year         =  2023,
+  url          = "https://www.abc.org/News-Media/News-Releases/entryid/19777/construction-workforce-shortage-tops-half-a-million-in-2023-says-abc",
+  howpublished = "\url{https://www.abc.org/News-Media/News-Releases/entryid/19777/construction-workforce-shortage-tops-half-a-million-in-2023-says-abc}",
+  note         = "Accessed: 2023-4-23",
+  keywords     = "Website;*Upgrade Report 2023",
+  language     = "en"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
