@@ -15957,6 +15957,32 @@
   isbn      = "9780674744875"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@BOOK{Weber-Lewerenz2022-ow,
+  title     = "Accents of added value in construction 4.0: Ethical observations
+               in dealing with digitization and {AI}",
+  author    = "Weber-Lewerenz, Bianca Christina",
+  abstract  = "The book wants to do justice to the complexity surrounding the
+               Digital Transformation and AI in the Construction Industry. User
+               practice experiences show how digital change can be shaped
+               sensibly and constructively, what kind of methods and
+               technologies do exist or can be developed, which fields of
+               application can be explored, by keeping an eye on risks and
+               opportunities.The book works out key factors and core
+               competencies at all levels, which are decisive both for
+               sustainably using innovative technologies and for setting the
+               Seal of Quality of the Construction Industry at home and abroad.",
+  publisher = "Springer Nature",
+  month     =  dec,
+  year      =  2022,
+  url       = "https://play.google.com/store/books/details?id=-7KiEAAAQBAJ",
+  keywords  = "+Notion;+Readwise;AEC;ePub | Kindle;§New Literature;Construction
+               4.0;*Upgrade Report 2023",
+  language  = "en",
+  isbn      = "9783658394073"
+}
+
 @INCOLLECTION{Casini2022-fn,
   title     = "Introduction",
   booktitle = "Construction 4.0",
@@ -16094,29 +16120,6 @@
   keywords  = "Marco Casini Construction 4.0",
   isbn      = "9780128217979",
   doi       = "10.1016/B978-0-12-821797-9.00015-5"
-}
-
-@BOOK{Weber-Lewerenz2022-ow,
-  title     = "Accents of added value in construction 4.0: Ethical observations
-               in dealing with digitization and {AI}",
-  author    = "Weber-Lewerenz, Bianca Christina",
-  abstract  = "The book wants to do justice to the complexity surrounding the
-               Digital Transformation and AI in the Construction Industry. User
-               practice experiences show how digital change can be shaped
-               sensibly and constructively, what kind of methods and
-               technologies do exist or can be developed, which fields of
-               application can be explored, by keeping an eye on risks and
-               opportunities.The book works out key factors and core
-               competencies at all levels, which are decisive both for
-               sustainably using innovative technologies and for setting the
-               Seal of Quality of the Construction Industry at home and abroad.",
-  publisher = "Springer Nature",
-  month     =  dec,
-  year      =  2022,
-  url       = "https://play.google.com/store/books/details?id=-7KiEAAAQBAJ",
-  keywords  = "Construction 4.0;*Upgrade Report 2023",
-  language  = "en",
-  isbn      = "9783658394073"
 }
 
 @MISC{Alberto2022-nv,
