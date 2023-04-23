@@ -17808,6 +17808,8 @@
   doi       = "10.1016/B978-0-12-821797-9.00015-5"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @TECHREPORT{Renz2016-br,
   title       = "Shaping the Future of Construction: A Breakthrough in Mindset
                  and Technology",
@@ -17817,7 +17819,8 @@
   publisher   = "World Economic Forum",
   institution = "World Economic Forum",
   month       =  may,
-  year        =  2016
+  year        =  2016,
+  keywords    = "+Notion;+Readwise;AEC;§New Literature"
 }
 
 @MISC{Alberto2022-nv,
