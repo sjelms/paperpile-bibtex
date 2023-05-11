@@ -15282,6 +15282,19 @@
   doi       = "10.1016/j.compedu.2013.07.033"
 }
 
+@ARTICLE{Johns2015-yt,
+  title    = "Needs analysis, critical ethnography: Perspectives from the
+              client---and the consultant",
+  author   = "Johns, Ann",
+  abstract = "After discussing the general principles of critical ethnography,
+              the authors discuss their experiences with needs analysis and
+              curriculum design in a South African university.",
+  month    =  jan,
+  year     =  2015,
+  url      = "https://www.academia.edu/en/10005489/Needs_analysis_critical_ethnography_Perspectives_from_the_client_and_the_consultant",
+  language = "en"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Dunser2006-wj,
