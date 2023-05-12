@@ -463,7 +463,7 @@
   url       = "https://methods.sagepub.com/book/handbook-of-interview-research",
   keywords  = "interviews; surveys; telephone interviewing; telephone
                interviewing; knowledge; knowledge; surveying;Research
-               Methods;Methods;*Upgrade Report 2023",
+               Methods;Methods;*Upgrade Report 2023;Grounded Theory",
   language  = "en",
   isbn      = "9781412973588",
   doi       = "10.4135/9781412973588"
@@ -1141,7 +1141,8 @@
   month     =  jan,
   year      =  2002,
   url       = "http://dx.doi.org/10.1080/13501780210137119",
-  keywords  = "+Notion;+Readwise;§New Literature;Research Methods;Methods",
+  keywords  = "+Notion;+Readwise;§New Literature;Research
+               Methods;Methods;Grounded Theory",
   language  = "en",
   issn      = "1350-178X, 1469-9427",
   doi       = "10.1080/13501780210137119"
@@ -9158,7 +9159,7 @@
   url         = "http://dx.doi.org/10.1177/2050312118822927",
   keywords    = "Framework; grounded theory; grounded theory methods; novice
                  researcher; study design;+Notion;§New Literature;Research
-                 Methods",
+                 Methods;Grounded Theory",
   language    = "en",
   issn        = "2050-3121",
   pmid        = "30637106",
@@ -10574,7 +10575,8 @@
   month     =  mar,
   year      =  2014,
   url       = "https://play.google.com/store/books/details?id=y0ooAwAAQBAJ",
-  keywords  = "Research Methods;ePub | Kindle;Methods;*Upgrade Report 2023",
+  keywords  = "Research Methods;ePub | Kindle;Methods;*Upgrade Report
+               2023;Grounded Theory",
   language  = "en",
   isbn      = "9781446293492"
 }
@@ -12361,7 +12363,8 @@
   url         = "http://dx.doi.org/10.1111/j.1756-8765.2010.01115.x",
   keywords    = "Architectures; Embodiment; Grounding; Imagery; Knowledge;
                  Mental simulation; Situated cognition; Symbolic
-                 operations;Sensory Processing;Brain and Space [Coursera]",
+                 operations;Sensory Processing;Brain and Space
+                 [Coursera];Grounded Theory",
   language    = "en",
   issn        = "1756-8757, 1756-8765",
   pmid        = "25164052",
@@ -15078,6 +15081,7 @@
   publisher = "SAGE",
   year      =  2015,
   url       = "https://play.google.com/store/books/details?id=Dc45DQAAQBAJ",
+  keywords  = "Grounded Theory",
   language  = "en",
   isbn      = "9781412997461"
 }
@@ -18696,7 +18700,8 @@
   month     =  sep,
   year      =  2010,
   url       = "http://dx.doi.org/10.1080/01416200.2010.498612",
-  keywords  = "Course Assignment;Information and Digital Literacies",
+  keywords  = "Course Assignment;Information and Digital Literacies;Grounded
+               Theory",
   language  = "en",
   issn      = "0141-6200, 1740-7931",
   doi       = "10.1080/01416200.2010.498612"
@@ -18946,7 +18951,7 @@
   year      =  2012,
   url       = "http://dx.doi.org/10.4135/9781452218403.n25",
   address   = "2455 Teller Road, Thousand Oaks California 91320 United States",
-  keywords  = "Research Methods;Methods",
+  keywords  = "Research Methods;Methods;Grounded Theory",
   isbn      = "9781412981644, 9781452218403",
   doi       = "10.4135/9781452218403.n25"
 }
@@ -19872,7 +19877,7 @@
   url      = "https://www.sciencedirect.com/science/article/pii/S0360131506001242",
   keywords = "Professional virtual community; Grounded theory; Knowledge
               sharing and creation; Knowledge flows;Knowledge - Skill
-              Acquisition;Research Methods;Education",
+              Acquisition;Research Methods;Education;Grounded Theory",
   issn     = "0360-1315",
   doi      = "10.1016/j.compedu.2006.07.009"
 }
@@ -20541,7 +20546,8 @@
   month     =  feb,
   year      =  2022,
   url       = "https://www.routledge.com/Validity-and-Reliability-in-Built-Environment-Research-A-Selection-of-Case/Ahmed-Opoku-Olanipekun-Sutrisna/p/book/9780367197803",
-  keywords  = "ePub | Kindle;AEC;Research Methods;§New Literature",
+  keywords  = "ePub | Kindle;AEC;Research Methods;§New Literature;Grounded
+               Theory",
   language  = "en",
   isbn      = "9780429516375"
 }
@@ -21095,7 +21101,8 @@
   month     =  aug,
   year      =  2020,
   url       = "http://dx.doi.org/10.31580/jei.v7i2.1438",
-  keywords  = "§New Literature;AEC;Construction 4.0;*Upgrade Report 2023",
+  keywords  = "§New Literature;AEC;Construction 4.0;*Upgrade Report
+               2023;Grounded Theory",
   issn      = "2313-335X, 2708-8448",
   doi       = "10.31580/jei.v7i2.1438"
 }
@@ -21316,7 +21323,8 @@
   month     =  may,
   year      =  2009,
   url       = "http://dx.doi.org/10.1111/j.1365-2575.2009.00328.x",
-  keywords  = "+Notion;+Readwise;§New Literature;Research Methods;Methods",
+  keywords  = "+Notion;+Readwise;§New Literature;Research
+               Methods;Methods;Grounded Theory",
   language  = "en",
   issn      = "1350-1917, 1365-2575",
   doi       = "10.1111/j.1365-2575.2009.00328.x"
@@ -21591,7 +21599,8 @@
   month       =  jul,
   year        =  2018,
   url         = "http://dx.doi.org/10.1515/humaff-2018-0025",
-  keywords    = "§New Literature;+Readwise;+Notion;Research Methods;Methods",
+  keywords    = "§New Literature;+Readwise;+Notion;Research
+                 Methods;Methods;Grounded Theory",
   language    = "en",
   issn        = "1210-3055, 1337-401X",
   doi         = "10.1515/humaff-2018-0025"
@@ -21760,7 +21769,7 @@
   month     =  mar,
   year      =  1998,
   url       = "https://play.google.com/store/books/details?id=vxu2AAAAIAAJ",
-  keywords  = "Research Methods;*Upgrade Report 2023",
+  keywords  = "Research Methods;*Upgrade Report 2023;Grounded Theory",
   language  = "en",
   isbn      = "9780761914358"
 }
@@ -21909,7 +21918,7 @@
   keywords    = "Pedagogical innovation; cultural-historical Activity Theory;
                  curriculum design; patient-centredness; possibility
                  knowledge;+Notion;+Readwise;Research Methods;Workplace
-                 Learning;§New Literature;Methods",
+                 Learning;§New Literature;Methods;Grounded Theory",
   language    = "en",
   issn        = "0142-159X, 1466-187X",
   pmid        = "32715823",
@@ -22911,7 +22920,7 @@
   year     =  2005,
   url      = "https://psycnet.apa.org/fulltext/2005-07735-020.pdf",
   keywords = "Research Methods;+Notion;+Readwise;§New
-              Literature;Methods;*Upgrade Report 2023"
+              Literature;Methods;*Upgrade Report 2023;Grounded Theory"
 }
 
 @INCOLLECTION{Charmaz2001-wf,
@@ -22924,7 +22933,7 @@
   url       = "https://methods.sagepub.com/book/handbook-of-ethnography/n11.xml",
   address   = "1 Oliver's Yard, 55 City Road, London England EC1Y 1SP United
                Kingdom",
-  keywords  = "Research Methods;Methods;*Upgrade Report 2023",
+  keywords  = "Research Methods;Methods;*Upgrade Report 2023;Grounded Theory",
   isbn      = "9780761958246, 9781848608337",
   doi       = "10.4135/9781848608337.n11"
 }
@@ -23078,7 +23087,8 @@
   year      =  2016,
   url       = "https://www.semanticscholar.org/paper/4fed843e98fb89c49566cad5bea3aefe9a801fae",
   keywords  = "@\_Mark Up;AEC;ePub | Kindle;Research Methodology in the Built
-               Environment: A Selection of Case Studies;*Upgrade Report 2023",
+               Environment: A Selection of Case Studies;*Upgrade Report
+               2023;Grounded Theory",
   language  = "en",
   doi       = "10.4324/9781315725529-27"
 }
@@ -23125,7 +23135,7 @@
   year      =  2000,
   url       = "https://doi.org/10.1080/014461900370861",
   keywords  = "Research Methods;Research Methodology in the Built Environment:
-               A Selection of Case Studies;*Upgrade Report 2023",
+               A Selection of Case Studies;*Upgrade Report 2023;Grounded Theory",
   issn      = "0144-6193",
   doi       = "10.1080/014461900370861"
 }
@@ -23158,7 +23168,7 @@
   year      =  1999,
   url       = "https://doi.org/10.1080/014461999371781",
   keywords  = "Research Methods;Research Methodology in the Built Environment:
-               A Selection of Case Studies;*Upgrade Report 2023",
+               A Selection of Case Studies;*Upgrade Report 2023;Grounded Theory",
   issn      = "0144-6193",
   doi       = "10.1080/014461999371781"
 }
@@ -23202,7 +23212,7 @@
   year      =  2009,
   url       = "https://doi.org/10.1080/01446190903273943",
   keywords  = "Research Methods;Research Methodology in the Built Environment:
-               A Selection of Case Studies;*Upgrade Report 2023",
+               A Selection of Case Studies;*Upgrade Report 2023;Grounded Theory",
   issn      = "0144-6193",
   doi       = "10.1080/01446190903273943"
 }
@@ -24722,7 +24732,7 @@
   pages     = "143",
   year      =  2014,
   url       = "https://nbn-resolving.org/urn:nbn:de:0168-ssoar-395173",
-  keywords  = "Research Methods;§New Literature;Methods",
+  keywords  = "Research Methods;§New Literature;Methods;Grounded Theory",
   language  = "en"
 }
 
@@ -24970,7 +24980,8 @@
   year        =  2015,
   url         = "http://dx.doi.org/10.1111/1475-6773.12275",
   keywords    = "Grounded theory; health care experiences; qualitative
-                 interviews; qualitative research;Research Methods;Methods",
+                 interviews; qualitative research;Research
+                 Methods;Methods;Grounded Theory",
   language    = "en",
   issn        = "0017-9124, 1475-6773",
   pmid        = "25523315",
