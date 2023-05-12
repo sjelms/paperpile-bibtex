@@ -15282,15 +15282,16 @@
   doi       = "10.1016/j.compedu.2013.07.033"
 }
 
-@ARTICLE{Johns2015-yt,
+@ARTICLE{Johns2011-yt,
   title    = "Needs Analysis, Critical Ethnography: Perspectives From The
               Client---and The Consultant",
   author   = "Johns, Ann and Makalela, Leketi",
   abstract = "After discussing the general principles of critical ethnography,
               the authors discuss their experiences with needs analysis and
               curriculum design in a South African university.",
-  month    =  jan,
-  year     =  2015,
+  journal  = "New Directions in English for Specific Purposes Research",
+  pages    = "197--221",
+  year     =  2011,
   url      = "https://www.academia.edu/en/10005489/Needs_analysis_critical_ethnography_Perspectives_from_the_client_and_the_consultant",
   keywords = "Research Methods;Methods",
   language = "en"
