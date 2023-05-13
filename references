@@ -397,12 +397,6 @@
   pmc         = "PMC9427734"
 }
 
-@TECHREPORT{Meisels_undated-rj,
-  title       = "2023 Engineering and Construction Industry Outlook",
-  author      = "Meisels, Michelle and Wellener, Paul and Hardin, Kate",
-  institution = "Deloitte"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{De_Jong2013-st,
@@ -16182,6 +16176,14 @@
   year        =  2013,
   keywords    = "*Upgrade Report 2023",
   isbn        = "9781409839224"
+}
+
+@TECHREPORT{Meisels2022-rj,
+  title       = "2023 Engineering and Construction Industry Outlook",
+  author      = "Meisels, Michelle and Wellener, Paul and Hardin, Kate",
+  institution = "Deloitte",
+  month       =  nov,
+  year        =  2022
 }
 
 @ARTICLE{The_Economist2023-vd,
