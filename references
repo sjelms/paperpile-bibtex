@@ -398,8 +398,9 @@
 }
 
 @TECHREPORT{Meisels_undated-rj,
-  title  = "2023 Engineering and Construction Industry Outlook",
-  author = "Meisels, Michelle and Wellener, Paul and Hardin, Kate"
+  title       = "2023 Engineering and Construction Industry Outlook",
+  author      = "Meisels, Michelle and Wellener, Paul and Hardin, Kate",
+  institution = "Deloitte"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
