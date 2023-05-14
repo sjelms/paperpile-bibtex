@@ -5571,6 +5571,17 @@
   keywords     = "Cited for Frontiers;Frontiers [2022];*Upgrade Report 2023"
 }
 
+@TECHREPORT{Thompson2021-sk,
+  title       = "{DfMA} Overlay to the {RIBA} Plan of Work",
+  author      = "Thompson, Matthew",
+  publisher   = "Royal Institute of British Architects",
+  edition     = "2nd",
+  institution = "RIBA",
+  year        =  2021,
+  url         = "https://www.architecture.com/knowledge-and-resources/resources-landing-page/dfma-overlay-to-the-riba-plan-of-work",
+  keywords    = "*Upgrade Report 2023;Construction 4.0"
+}
+
 @BOOK{Hyde2021-ai,
   title     = "Design Studio Vol. 2: Intelligent Control 2021: Disruptive
                Technologies",
@@ -7774,17 +7785,6 @@
   month       =  mar,
   year        =  2022,
   keywords    = "AEC;Report"
-}
-
-@TECHREPORT{Thompson2021-sk,
-  title       = "{DfMA} Overlay to the {RIBA} Plan of Work",
-  author      = "Thompson, Matthew",
-  publisher   = "Royal Institute of British Architects",
-  edition     = "2nd",
-  institution = "RIBA",
-  year        =  2021,
-  url         = "https://www.architecture.com/knowledge-and-resources/resources-landing-page/dfma-overlay-to-the-riba-plan-of-work",
-  keywords    = "*Upgrade Report 2023"
 }
 
 @MISC{Cuendet2013-tu,
