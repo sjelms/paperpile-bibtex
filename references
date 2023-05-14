@@ -5571,6 +5571,8 @@
   keywords     = "Cited for Frontiers;Frontiers [2022];*Upgrade Report 2023"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @TECHREPORT{Thompson2021-sk,
   title       = "{DfMA} Overlay to the {RIBA} Plan of Work",
   author      = "Thompson, Matthew",
@@ -5579,7 +5581,8 @@
   institution = "RIBA",
   year        =  2021,
   url         = "https://www.architecture.com/knowledge-and-resources/resources-landing-page/dfma-overlay-to-the-riba-plan-of-work",
-  keywords    = "*Upgrade Report 2023;Construction 4.0"
+  keywords    = "+Notion;+Readwise;AEC;§New Literature;*Upgrade Report
+                 2023;Construction 4.0"
 }
 
 @BOOK{Hyde2021-ai,
