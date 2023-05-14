@@ -5585,6 +5585,44 @@
                  2023;Construction 4.0"
 }
 
+@ARTICLE{Ma2022-ld,
+  title     = "Adaptable modular construction systems and multi-objective
+               optimisation strategies for mass-customised housing: A new
+               user-driven paradigm for high-rise living in Hong Kong",
+  author    = "Ma, Chun Yu and van Ameijde, Jeroen",
+  abstract  = "There has been a recent increase in the exploration of ?the
+               discrete? in architecture, speculating on how an integrated
+               approach to design, fabrication, assembly and inhabitation can
+               disrupt the traditional investment- and decision-making models
+               in the housing industry. Strategically designed part-to-whole
+               systems allow for differentiation and reconfiguration, and the
+               incorporation of different end-user? requirements. This
+               potential of ?democratising? housing production requires further
+               research into how the negotiation between multiple stakeholders?
+               preferences can be guided through digital methods. This paper
+               presents a research-by-design project that applies a digital and
+               discrete material system to high-rise housing in Hong Kong, a
+               typology which often features high degrees of standardisation.
+               Through the development of an adaptable modular construction
+               system and a multi-objective optimisation workflow, a system is
+               explored that addresses the challenges of high-rise
+               construction, and of customising high-density housing. The case
+               study project demonstrates the ability of the workflow?s
+               evolutionary algorithm to balance complex requirements including
+               maximising views, daylight access and internal connectivity
+               according to diverse user requirements.",
+  journal   = "International Journal of Architectural Computing",
+  publisher = "SAGE Publications",
+  volume    =  20,
+  number    =  1,
+  pages     = "96--113",
+  month     =  mar,
+  year      =  2022,
+  url       = "https://doi.org/10.1177/14780771221082255",
+  issn      = "1478-0771",
+  doi       = "10.1177/14780771221082255"
+}
+
 @BOOK{Hyde2021-ai,
   title     = "Design Studio Vol. 2: Intelligent Control 2021: Disruptive
                Technologies",
