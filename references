@@ -25066,11 +25066,14 @@
   pmc         = "PMC4545354"
 }
 
-@MISC{Dowling_undated-qs,
-  title    = "What is Education?",
-  author   = "Dowling, Paul",
-  keywords = "Research Methods;UCL;Theory and Methodology in Social and
-              Educational Research"
+@INCOLLECTION{Dowling_undated-qs,
+  title     = "What is Education?",
+  booktitle = "Sociology as Method: Departures from the Forensics of Culture,
+               Text and Knowledge",
+  author    = "Dowling, Paul",
+  url       = "https://books.google.co.uk/books?id=5KVuPgAACAA",
+  keywords  = "Research Methods;UCL;Theory and Methodology in Social and
+               Educational Research"
 }
 
 @MISC{Dowling_undated-df,
