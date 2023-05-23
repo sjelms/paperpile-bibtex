@@ -25066,6 +25066,25 @@
   pmc         = "PMC4545354"
 }
 
+@ARTICLE{Esfandiar2021-df,
+  title     = "What a load of rubbish! The efficacy of theory of planned
+               behaviour and norm activation model in predicting visitors'
+               binning behaviour in national parks",
+  author    = "Esfandiar, Kourosh and Dowling, Ross and Pearce, Joanna and Goh,
+               Edmund",
+  journal   = "Journal of International Hospitality, Leisure \& Tourism
+               Management",
+  publisher = "Elsevier BV",
+  volume    =  46,
+  pages     = "304--315",
+  month     =  mar,
+  year      =  2021,
+  url       = "https://linkinghub.elsevier.com/retrieve/pii/S1447677021000024",
+  language  = "en",
+  issn      = "1092-3128",
+  doi       = "10.1016/j.jhtm.2021.01.001"
+}
+
 @ARTICLE{Dowling_undated-qs,
   title  = "What is Education?",
   author = "Dowling, Paul"
