@@ -16182,6 +16182,16 @@
   isbn      = "9780674744875"
 }
 
+@INCOLLECTION{Dowling_undated-qs,
+  title     = "What is Education?",
+  booktitle = "Sociology as Method: Departures from the Forensics of Culture,
+               Text and Knowledge",
+  author    = "Dowling, Paul",
+  url       = "https://books.google.co.uk/books?id=5KVuPgAACAA",
+  keywords  = "Research Methods;UCL;Theory and Methodology in Social and
+               Educational Research"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @BOOK{Weber-Lewerenz2022-ow,
@@ -25066,19 +25076,10 @@
   pmc         = "PMC4545354"
 }
 
-@INCOLLECTION{Dowling_undated-qs,
-  title     = "What is Education?",
-  booktitle = "Sociology as Method: Departures from the Forensics of Culture,
-               Text and Knowledge",
-  author    = "Dowling, Paul",
-  url       = "https://books.google.co.uk/books?id=5KVuPgAACAA",
-  keywords  = "Research Methods;UCL;Theory and Methodology in Social and
-               Educational Research"
-}
-
-@MISC{Dowling_undated-df,
+@INBOOK{Dowling_undated-df,
   title    = "What is Theory",
   author   = "Dowling, Paul",
+  url      = "https://books.google.co.uk/books?id=5KVuPgAACAA",
   keywords = "Research Methods;UCL;Theory and Methodology in Social and
               Educational Research"
 }
