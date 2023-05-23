@@ -25080,12 +25080,14 @@
   month     =  mar,
   year      =  2021,
   url       = "https://linkinghub.elsevier.com/retrieve/pii/S1447677021000024",
+  keywords  = "Theory and Methodology in Social and Educational Research",
   language  = "en",
   issn      = "1092-3128",
   doi       = "10.1016/j.jhtm.2021.01.001"
 }
 
 @ARTICLE{Dowling_undated-qs,
-  title  = "What is Education?",
-  author = "Dowling, Paul"
+  title    = "What is Education?",
+  author   = "Dowling, Paul",
+  keywords = "Theory and Methodology in Social and Educational Research"
 }
