@@ -16182,14 +16182,18 @@
   isbn      = "9780674744875"
 }
 
-@INCOLLECTION{Dowling_undated-qs,
+@INCOLLECTION{Dowling2009-qs,
   title     = "What is Education?",
   booktitle = "Sociology as Method: Departures from the Forensics of Culture,
                Text and Knowledge",
   author    = "Dowling, Paul",
+  publisher = "Brill",
+  series    = "Critical essays across education",
+  year      =  2009,
   url       = "https://books.google.co.uk/books?id=5KVuPgAACAA",
   keywords  = "Research Methods;UCL;Theory and Methodology in Social and
-               Educational Research"
+               Educational Research",
+  isbn      = "9789087908119"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
