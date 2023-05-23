@@ -25080,10 +25080,16 @@
   pmc         = "PMC4545354"
 }
 
-@INBOOK{Dowling_undated-df,
-  title    = "What is Theory",
-  author   = "Dowling, Paul",
-  url      = "https://books.google.co.uk/books?id=5KVuPgAACAA",
-  keywords = "Research Methods;UCL;Theory and Methodology in Social and
-              Educational Research"
+@INCOLLECTION{Dowling2009-df,
+  title     = "What is Theory",
+  booktitle = "Sociology as Method: Departures from the Forensics of Culture,
+               Text and Knowledge",
+  author    = "Dowling, Paul",
+  publisher = "Brill",
+  series    = "Critical essays across education",
+  year      =  2009,
+  url       = "https://books.google.co.uk/books?id=5KVuPgAACAA",
+  keywords  = "Research Methods;UCL;Theory and Methodology in Social and
+               Educational Research",
+  isbn      = "9789087908119"
 }
