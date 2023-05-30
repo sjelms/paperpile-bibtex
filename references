@@ -20690,6 +20690,32 @@
   isbn      = "9789811054907"
 }
 
+@ARTICLE{Gyuris2018-fq,
+  title    = "Evaluating the effectiveness of postgraduate research skills
+              training and its alignment with the Research Skill Development
+              framework",
+  author   = "Gyuris, Emma",
+  abstract = "This exploratory research focuses on a one-semester subject
+              designed to facilitate deliberate practice while explicitly
+              aiming to develop postgraduate students' basic research skills:
+              academic writing and its co-requisite skill, critical thinking.
+              The research considers the alignment of the curriculum and
+              assessment design of the subject `Research and Communication
+              Skills for the Natural Sciences' (SC5055) with the RSD framework.
+              The research then identifies students who benefit most from a
+              focus on the development of research and communication skills.
+              The impact of SC5055 on students' achievement and their ability
+              to self-evaluate the development of their skills and
+              understanding is also explored.",
+  journal  = "Journal of University Teaching \& Learning Practice",
+  volume   =  15,
+  number   =  4,
+  pages    = "5",
+  year     =  2018,
+  url      = "https://ro.uow.edu.au/jutlp/vol15/iss4/5/",
+  doi      = "10.53761/1.15.4.5"
+}
+
 @ARTICLE{Bosch2018-be,
   title    = "Train {PhD} students to be thinkers not just specialists",
   author   = "Bosch, Gundula",
@@ -25274,12 +25300,6 @@
 
 @MISC{noauthor_undated-mz,
   title = "briefing-paper-ssa12-manufacturing.pdf"
-}
-
-@MISC{noauthor_undated-fq,
-  title = "{EJ1195983.pdf}",
-  url   = "https://doi.org/10.53761/1.15.4.5",
-  doi   = "10.53761/1.15.4.5"
 }
 
 @MISC{noauthor_undated-bp,
