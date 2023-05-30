@@ -25233,3 +25233,53 @@
   issn     = "1478-0887, 1478-0895",
   doi      = "10.1191/1478088706qp063oa"
 }
+
+@ARTICLE{Dowling2013-sl,
+  title    = "Social activity method ({SAM)}: A fractal language for
+              mathematics",
+  author   = "Dowling, Paul",
+  abstract = "In this paper I shall present and develop my organisational
+              language, social activity method (SAM), and illustrate some of
+              its applications. I shall introduce a new scheme for modes of
+              recontextualisation that enables the analysis of the ways in
+              which one activity -- which might be school mathematics or social
+              research or any empirically observed regularity of practice --
+              recontextualises the practice of another and I shall also
+              present, deploy, and develop an existing scheme -- domains of
+              action -- in an analysis of school mathematics examination papers
+              and in the structuring of what I refer to as the esoteric domain.
+              This domain is here conceived as a hybrid domain of, first,
+              linguistic and extralinguistic resources that are unambiguously
+              mathematical in terms of both expression and content and, second,
+              pedagogic theory -- often tacit -- that enables the mathematical
+              gaze onto other practices and so recontextualises them. A second
+              and more general theme that runs through the paper is the claim
+              that there is nothing that is beyond semiosis, that there is
+              nothing to which we have direct access, unmediated by
+              interpretation. This state of affairs has implications for
+              mathematics education. Specifically, insofar as an individual's
+              mathematical semiotic system is under continuous development --
+              the curriculum never being graspable all at once -- understanding
+              -- as a stable semiotic moment -- of any aspect or object of
+              mathematics is always localised to the individual and is at best
+              transient, and the sequencing of such moments may well also be
+              more individualised than consistent in some correspondence with
+              the sequencing of the curriculum. This being the case, a
+              concentration on understanding as a goal may well serve to
+              inhibit the pragmatic acquisition and deployment of mathematical
+              technologies, which should be the principal aim of mathematics
+              teaching and learning. The paper is primarily concerned with
+              mathematics education. SAM, however, is a language that is
+              available for recruiting and deploying in potentially any context
+              as I have attempted to illustrate with some of the secondary
+              illustrations in the text.",
+  journal  = "Mathematics Education Research Journal",
+  volume   =  25,
+  number   =  3,
+  pages    = "317--340",
+  month    =  sep,
+  year     =  2013,
+  url      = "https://doi.org/10.1007/s13394-013-0073-8",
+  issn     = "2211-050X",
+  doi      = "10.1007/s13394-013-0073-8"
+}
