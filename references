@@ -8592,6 +8592,56 @@
 
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
+@ARTICLE{Dacko2006-di,
+  title     = "Narrowing the skills gap for marketers of the future",
+  author    = "Dacko, Scott G",
+  abstract  = "PurposeThe purpose of the research is first, to understand,
+               explain, and evaluate the nature and extent of marketing skill
+               development in MBA programmes relative to the needs and desires
+               of practitioners and students, and second, to present findings
+               and recommendations for increasing the effectiveness of skill
+               development in MBA programmes for the benefit of both marketing
+               practitioners and academics.Design/methodology/approachThe
+               research design/methodology is based primarily on survey
+               research on skill development in MBA programmes from the
+               perspectives of both graduates and marketing
+               practitioners.FindingsThis research suggests that six important
+               skill weaknesses -- decision making, leadership, problem
+               formulation, persuasion, creativity, and negotiation -- need to
+               be developed among future marketers and that a marketing
+               education framework should be based on the pillars of a project
+               and dissertation, classroom debate and discussion, and oral
+               presentations.Research limitations/implicationsFuture research
+               should focus on understanding and explaining to an even greater
+               extent how marketing education can make more effective use of
+               interactive, hands‐on learning approaches typified by a project
+               and dissertation, classroom debates and discussions, and oral
+               presentations.Practical implicationsImplications for practice
+               include the suggestion that practitioners must also assume
+               responsibility for developing initiatives that facilitate
+               marketing skill development as well.Originality/valueThe new and
+               original value and contribution of the research is that it
+               extensively characterises and quantifies the extent of a
+               marketing skill development gap -- the gap between what
+               marketing skills are being developed in MBA programmes and what
+               practitioners want and need in marketers of the future in
+               addition to providing recommendations to close the marketing
+               skills gap.",
+  journal   = "Marketing intelligence \& planning",
+  publisher = "Emerald",
+  volume    =  24,
+  number    =  3,
+  pages     = "283--295",
+  month     =  apr,
+  year      =  2006,
+  url       = "http://dx.doi.org/10.1108/02634500610665736",
+  language  = "en",
+  issn      = "0263-4503, 1758-8049",
+  doi       = "10.1108/02634500610665736"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
   title           = "A self-experimentation report about long-term use of
                      fully-immersive technology",
