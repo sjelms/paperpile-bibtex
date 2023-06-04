@@ -25214,7 +25214,8 @@
   month    =  mar,
   year     =  2008,
   url      = "https://groundedtheoryreview.com/2008/03/30/1068/",
-  keywords = "Theory and Methodology in Social and Educational Research",
+  keywords = "Research Methods;Theory and Methodology in Social and Educational
+              Research",
   language = "en"
 }
 
@@ -25242,7 +25243,8 @@
   pages    = "77--101",
   year     =  2006,
   url      = "https://psycnet.apa.org/fulltext/2006-06991-002.pdf",
-  keywords = "Theory and Methodology in Social and Educational Research",
+  keywords = "Research Methods;Theory and Methodology in Social and Educational
+              Research",
   issn     = "1478-0887, 1478-0895",
   doi      = "10.1191/1478088706qp063oa"
 }
@@ -25373,7 +25375,8 @@
   month     =  jun,
   year      =  1999,
   url       = "https://doi.org/10.1080/01425699995380",
-  keywords  = "Theory and Methodology in Social and Educational Research",
+  keywords  = "Research Methods;Theory and Methodology in Social and
+               Educational Research",
   issn      = "0142-5692",
   doi       = "10.1080/01425699995380"
 }
@@ -25407,6 +25410,7 @@
   pages     = "353--371",
   year      =  1995,
   url       = "http://www.jstor.org/stable/1393264",
-  keywords  = "Theory and Methodology in Social and Educational Research",
+  keywords  = "Research Methods;Theory and Methodology in Social and
+               Educational Research",
   issn      = "0142-5692, 1465-3346"
 }
