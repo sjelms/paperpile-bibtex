@@ -25414,3 +25414,14 @@
                Educational Research",
   issn      = "0142-5692, 1465-3346"
 }
+
+@BOOK{Sangaramoorthy2020-hi,
+  title     = "Rapid ethnographic assessments: A practical approach and toolkit
+               for collaborative community research",
+  author    = "Sangaramoorthy, Thurka and Kroeger, Karen A",
+  publisher = "Routledge",
+  month     =  mar,
+  year      =  2020,
+  address   = "London, England",
+  isbn      = "9780367252298"
+}
