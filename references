@@ -1838,6 +1838,13 @@
   doi       = "10.1016/s0926-5805(02)00047-x"
 }
 
+@MISC{noauthor_undated-wu,
+  url          = "http://httphttphttphttps://digitalcommons.odu.edu/cgi/viewcontent.cgi?article=1168&context=emse_etds``",
+  howpublished = "\url{http://httphttphttphttps://digitalcommons.odu.edu/cgi/viewcontent.cgi?article=1168&context=emse_etds``}",
+  note         = "Accessed: 2023-6-4",
+  keywords     = "Skills Assessment Methodology"
+}
+
 @MISC{Froebel_Trust2020-yl,
   title        = "Froebel's Gifts",
   booktitle    = "Froebel Trust",
@@ -8568,27 +8575,6 @@
   address   = "London, England",
   keywords  = "ePub | Kindle;Research Methods;EPubs Books",
   isbn      = "9780367252298"
-}
-
-@ARTICLE{Adepoju2021-oo,
-  title       = "Assessing knowledge and skills gap for construction 4.0 in a
-                 developing economy",
-  author      = "Adepoju, Omoseni Oyindamola and Aigbavboa, Clinton Ohis",
-  affiliation = "Department of Construction Management and Quantity Surveying,
-                 Faculty of Engineering and the Built Environment University of
-                 Johannesburg Johannesburg South Africa",
-  journal     = "Journal of public affairs",
-  publisher   = "Wiley",
-  volume      =  21,
-  number      =  3,
-  month       =  aug,
-  year        =  2021,
-  url         = "http://dx.doi.org/10.1002/pa.2264",
-  keywords    = "Skills Assessment Methodology",
-  copyright   = "http://onlinelibrary.wiley.com/termsAndConditions\#vor",
-  language    = "en",
-  issn        = "1472-3891, 1479-1854",
-  doi         = "10.1002/pa.2264"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -25553,4 +25539,25 @@
   copyright = "https://creativecommons.org/licenses/by/4.0/",
   issn      = "2504-284X",
   doi       = "10.3389/feduc.2020.583157"
+}
+
+@ARTICLE{Adepoju2021-oo,
+  title       = "Assessing knowledge and skills gap for construction 4.0 in a
+                 developing economy",
+  author      = "Adepoju, Omoseni Oyindamola and Aigbavboa, Clinton Ohis",
+  affiliation = "Department of Construction Management and Quantity Surveying,
+                 Faculty of Engineering and the Built Environment University of
+                 Johannesburg Johannesburg South Africa",
+  journal     = "Journal of public affairs",
+  publisher   = "Wiley",
+  volume      =  21,
+  number      =  3,
+  month       =  aug,
+  year        =  2021,
+  url         = "http://dx.doi.org/10.1002/pa.2264",
+  keywords    = "Skills Assessment Methodology",
+  copyright   = "http://onlinelibrary.wiley.com/termsAndConditions\#vor",
+  language    = "en",
+  issn        = "1472-3891, 1479-1854",
+  doi         = "10.1002/pa.2264"
 }
