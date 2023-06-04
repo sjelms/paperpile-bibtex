@@ -8570,45 +8570,6 @@
   isbn      = "9780367252298"
 }
 
-@ARTICLE{Newton2020-bi,
-  title     = "The case for pragmatic evidence-Based Higher Education: A useful
-               way forward?",
-  author    = "Newton, Philip M and Da Silva, Ana and Berry, Sam",
-  abstract  = "Arguments for and against the idea of evidence-based education
-               have occupied the academic literature for decades. Those arguing
-               in favor plead for greater rigor and clarity to determine ``what
-               works.'' Those arguing against protest that education is a
-               complex, social endeavor and that for epistemological,
-               theoretical and political reasons it is not possible to state,
-               with any useful degree of generalizable certainty, ``what
-               works.'' While academics argue, policy and practice in Higher
-               Education are beset with problems. Ineffective methods such as
-               ``Learning Styles'' persist. Teaching quality and teacher
-               performance are measured using subjective and potentially biased
-               feedback. University educators have limited access to
-               professional development, particularly for practical teaching
-               skills. There is a huge volume of higher education research, but
-               it is disconnected from educational practice. Change is needed.
-               We propose a pragmatic model of Evidence-Based Higher Education,
-               empowering educators and others to make judgements about the
-               application of the most useful evidence, in a particular
-               context, including pragmatic considerations of cost and other
-               resources. Implications of the model include a need to emphasize
-               pragmatic approaches to research in higher education, delivering
-               results that are more obviously useful, and a pragmatic focus on
-               practical teaching skills for the development of educators in
-               Higher Education.",
-  journal   = "Frontiers in education",
-  publisher = "Frontiers Media SA",
-  volume    =  5,
-  month     =  dec,
-  year      =  2020,
-  url       = "http://dx.doi.org/10.3389/feduc.2020.583157",
-  copyright = "https://creativecommons.org/licenses/by/4.0/",
-  issn      = "2504-284X",
-  doi       = "10.3389/feduc.2020.583157"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
@@ -25464,4 +25425,44 @@
   keywords  = "Research Methods;Theory and Methodology in Social and
                Educational Research",
   issn      = "0142-5692, 1465-3346"
+}
+
+@ARTICLE{Newton2020-bi,
+  title     = "The case for pragmatic evidence-Based Higher Education: A useful
+               way forward?",
+  author    = "Newton, Philip M and Da Silva, Ana and Berry, Sam",
+  abstract  = "Arguments for and against the idea of evidence-based education
+               have occupied the academic literature for decades. Those arguing
+               in favor plead for greater rigor and clarity to determine ``what
+               works.'' Those arguing against protest that education is a
+               complex, social endeavor and that for epistemological,
+               theoretical and political reasons it is not possible to state,
+               with any useful degree of generalizable certainty, ``what
+               works.'' While academics argue, policy and practice in Higher
+               Education are beset with problems. Ineffective methods such as
+               ``Learning Styles'' persist. Teaching quality and teacher
+               performance are measured using subjective and potentially biased
+               feedback. University educators have limited access to
+               professional development, particularly for practical teaching
+               skills. There is a huge volume of higher education research, but
+               it is disconnected from educational practice. Change is needed.
+               We propose a pragmatic model of Evidence-Based Higher Education,
+               empowering educators and others to make judgements about the
+               application of the most useful evidence, in a particular
+               context, including pragmatic considerations of cost and other
+               resources. Implications of the model include a need to emphasize
+               pragmatic approaches to research in higher education, delivering
+               results that are more obviously useful, and a pragmatic focus on
+               practical teaching skills for the development of educators in
+               Higher Education.",
+  journal   = "Frontiers in education",
+  publisher = "Frontiers Media SA",
+  volume    =  5,
+  month     =  dec,
+  year      =  2020,
+  url       = "http://dx.doi.org/10.3389/feduc.2020.583157",
+  keywords  = "Research Methods",
+  copyright = "https://creativecommons.org/licenses/by/4.0/",
+  issn      = "2504-284X",
+  doi       = "10.3389/feduc.2020.583157"
 }
