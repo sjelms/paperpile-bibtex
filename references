@@ -25723,6 +25723,8 @@
   doi       = "10.1017/s1744137418000334"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{McKenney2020-yq,
   title     = "Using the {DSRM} to develop a skills gaps analysis model",
   author    = "McKenney, Martin J and Handley, Holly A",
@@ -25765,7 +25767,8 @@
   url       = "https://ieeexplore.ieee.org/document/9149577/",
   keywords  = "Organizations;Personnel;Task analysis;Qualifications;Analytical
                models;Design science research method (DSRM);gap analysis;job
-               fit;skills gaps",
+               fit;skills gaps;+Notion;+Readwise;§New
+               Literature;Important;Labor",
   copyright = "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html",
   issn      = "0360-8581, 1937-4178",
   doi       = "10.1109/emr.2020.3011704"
