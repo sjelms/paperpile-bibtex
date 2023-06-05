@@ -25722,3 +25722,51 @@
   issn      = "1744-1374, 1744-1382",
   doi       = "10.1017/s1744137418000334"
 }
+
+@ARTICLE{McKenney2020-yq,
+  title     = "Using the {DSRM} to develop a skills gaps analysis model",
+  author    = "McKenney, Martin J and Handley, Holly A",
+  abstract  = "One of the issues organizations face is identifying the required
+               skills needed for a position and then evaluating whether their
+               personnel have these skills or if there is a ``skills gap.'' For
+               this research, the authors are defining the ``skills gap'' as
+               the distance between the position requirements and the skills
+               currently possessed by the worker in that position. While
+               multiple models have been created over the years to address
+               facets of the problem, none of them provide a comprehensive
+               framework to clearly identify the required skills and worker
+               qualifications and then evaluate the degree of similarity. A
+               composite skills gap model has been developed using the design
+               science research method (DSRM) to combine elements of previous
+               models and to ensure that the resulting model met a set of
+               established criteria. The skills gap analysis model (SGAM) was
+               evaluated using demonstration data to ensure that it provided a
+               single taxonomy, for both position requirements and the worker
+               qualifications, the resulting descriptions were quantifiable and
+               comparable, the data was accurate and actionable, the model
+               framework is adaptable to any domain, and it is easy to use and
+               not time consuming. The framework provided by the SGAM model
+               establishes a theoretical foundation for skills gap analyses
+               that allows for more analytical research in this area. By
+               utilizing the SGAM to identify position requirements and worker
+               qualifications, organizations can move personnel to
+               better-suited positions or utilize needed training in the
+               specific areas identified. As technology moves toward increasing
+               automation, robotics and artificial intelligence, this type of
+               model can identify what skills are necessary for ``retooling''
+               the workforce to meet the needs to support these systems.",
+  journal   = "IEEE engineering management review",
+  publisher = "Institute of Electrical and Electronics Engineers (IEEE)",
+  volume    =  48,
+  number    =  4,
+  pages     = "102--119",
+  month     =  dec,
+  year      =  2020,
+  url       = "https://ieeexplore.ieee.org/document/9149577/",
+  keywords  = "Organizations;Personnel;Task analysis;Qualifications;Analytical
+               models;Design science research method (DSRM);gap analysis;job
+               fit;skills gaps",
+  copyright = "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html",
+  issn      = "0360-8581, 1937-4178",
+  doi       = "10.1109/emr.2020.3011704"
+}
