@@ -4973,6 +4973,34 @@
   pmc         = "PMC9204657"
 }
 
+@ARTICLE{Reiter-Palmon2006-cy,
+  title     = "Development of an {O*NET} web-based job analysis and its
+               implementation in the U. S. Navy: Lessons learned",
+  author    = "Reiter-Palmon, Roni and Brown, Michael and Sandall, Darrel L and
+               Buboltz, Carabeth and Nimps, Thomas",
+  abstract  = "Job analysis is described as the building block of most Human
+               Resource (HR) functions. In recent years, many HR functions have
+               been automated or adapted to computer applications; however, the
+               use of computers for job analysis is lagging. The purpose of
+               this paper is to describe a web-based job analysis process that
+               is based on O*NET. The web-based job analysis process is more
+               flexible and less resource intensive than traditional job
+               analysis methods. The paper also will describe the application
+               of the web-based job analysis process in the U.S. Navy and
+               discuss strengths and limitations of this system.",
+  journal   = "Human resource management review",
+  publisher = "Elsevier BV",
+  volume    =  16,
+  number    =  3,
+  pages     = "294--309",
+  month     =  sep,
+  year      =  2006,
+  url       = "http://dx.doi.org/10.1016/j.hrmr.2006.05.003",
+  language  = "en",
+  issn      = "1053-4822, 1873-7889",
+  doi       = "10.1016/j.hrmr.2006.05.003"
+}
+
 @ARTICLE{Vasalou2021-tv,
   title    = "On power and participation: Reflections from design with
               developmentally diverse children",
