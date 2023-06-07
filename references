@@ -24976,6 +24976,8 @@
   doi      = "10.1016/0743-0167(94)90008-6"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Hevner2004-zn,
   title     = "Design Science in Information Systems Research",
   author    = "{Hevner} and {March} and {Park} and {Ram}",
@@ -25006,7 +25008,8 @@
   pages     = "75",
   year      =  2004,
   url       = "http://dx.doi.org/10.2307/25148625",
-  keywords  = "Research Methods;Skills Assessment Methodology",
+  keywords  = "Research Methods;+Notion;+Readwise;§New Literature;Skills
+               Assessment Methodology",
   issn      = "0276-7783, 2162-9730",
   doi       = "10.2307/25148625"
 }
