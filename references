@@ -13760,6 +13760,43 @@
   pmc      = "PMC4232290"
 }
 
+@ARTICLE{Mol1994-jq,
+  title       = "Regions, networks and fluids: Anaemia and social topology",
+  author      = "Mol, A and Law, J",
+  affiliation = "Department of Philosophy, University of Limburg, The
+                 Netherlands.",
+  abstract    = "This is a paper about the topological presuppositions that
+                 frame the performance of social similarity and difference. It
+                 argues that 'the social' does not exist as a single spatial
+                 type, but rather performs itself in a recursive and
+                 topologically heterogeneous manner. Using material drawn from
+                 a study of the way in which tropical doctors handle anaemia,
+                 it explores three different social topologies. First, there
+                 are 'regions' in which objects are clustered together, and
+                 boundaries are drawn round each cluster. Second, there are
+                 'networks' in which distance is a function of relations
+                 between elements, and difference a matter of relational
+                 variety. These two forms of spatiality are often mobilized in
+                 social theory. However, we argue that there are other kinds of
+                 social space, and here consider the possible character of a
+                 third, that of 'fluid spatiality'. In this, places are neither
+                 delineated by boundaries, nor linked through stable relations:
+                 instead, entities may be similar and dissimilar at different
+                 locations within fuid space. In addition, they may transform
+                 themselves without creating difference.",
+  journal     = "Social studies of science",
+  volume      =  24,
+  number      =  4,
+  pages       = "641--671",
+  month       =  nov,
+  year        =  1994,
+  url         = "http://dx.doi.org/10.1177/030631279402400402",
+  language    = "en",
+  issn        = "0306-3127",
+  pmid        = "11639423",
+  doi         = "10.1177/030631279402400402"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Mills2022-zk,
