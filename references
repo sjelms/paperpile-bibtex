@@ -8790,6 +8790,29 @@
   isbn      = "9781526497376"
 }
 
+@ARTICLE{Habgood-Coote2023-kc,
+  title       = "Commentary on ``Can a good philosophical contribution be made
+                 just by asking a question?''",
+  author      = "Habgood-Coote, Joshua and Watson, Lani and Whitcomb, Dennis",
+  affiliation = "School of Philosophy, Religion and History of Science
+                 University of Leeds United Kingdom; Faculty of Theology and
+                 Religion and Faculty of Philosophy University of Oxford United
+                 Kingdom; Department of Philosophy Western Washington
+                 University Washington USA",
+  journal     = "Metaphilosophy",
+  publisher   = "Wiley",
+  volume      =  54,
+  number      =  1,
+  pages       = "55--60",
+  month       =  jan,
+  year        =  2023,
+  url         = "http://dx.doi.org/10.1111/meta.12600",
+  copyright   = "http://creativecommons.org/licenses/by-nc/4.0/",
+  language    = "en",
+  issn        = "0026-1068, 1467-9973",
+  doi         = "10.1111/meta.12600"
+}
+
 @BOOK{Callon2021-sa,
   title     = "Markets in the Making: Rethinking Competition, Goods, and
                Innovation",
