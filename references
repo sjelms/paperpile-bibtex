@@ -1882,6 +1882,15 @@
   doi       = "10.1016/s0926-5805(02)00047-x"
 }
 
+@BOOK{noauthor_2016-it,
+  title     = "{ARCOM} {Thirty-Second} Annual Conference: Volume 1",
+  publisher = "Association of Researchers in Construction Management",
+  year      =  2016,
+  url       = "https://play.google.com/store/books/details?id=pp_ZvQEACAAJ",
+  language  = "en",
+  isbn      = "9780995546301"
+}
+
 @MISC{Froebel_Trust2020-yl,
   title        = "Froebel's Gifts",
   booktitle    = "Froebel Trust",
@@ -8788,29 +8797,6 @@
   keywords  = "ePub | Kindle;Research Methods;Methods",
   language  = "en",
   isbn      = "9781526497376"
-}
-
-@ARTICLE{Habgood-Coote2023-kc,
-  title       = "Commentary on ``Can a good philosophical contribution be made
-                 just by asking a question?''",
-  author      = "Habgood-Coote, Joshua and Watson, Lani and Whitcomb, Dennis",
-  affiliation = "School of Philosophy, Religion and History of Science
-                 University of Leeds United Kingdom; Faculty of Theology and
-                 Religion and Faculty of Philosophy University of Oxford United
-                 Kingdom; Department of Philosophy Western Washington
-                 University Washington USA",
-  journal     = "Metaphilosophy",
-  publisher   = "Wiley",
-  volume      =  54,
-  number      =  1,
-  pages       = "55--60",
-  month       =  jan,
-  year        =  2023,
-  url         = "http://dx.doi.org/10.1111/meta.12600",
-  copyright   = "http://creativecommons.org/licenses/by-nc/4.0/",
-  language    = "en",
-  issn        = "0026-1068, 1467-9973",
-  doi         = "10.1111/meta.12600"
 }
 
 @BOOK{Callon2021-sa,
@@ -26124,4 +26110,27 @@
   keywords = "HR Review; Human Resources; Labor Market; Globalization;
               Training; Workforce; Staffing; article;SGAM Ref Materials",
   language = "en"
+}
+
+@ARTICLE{Habgood-Coote2023-kc,
+  title       = "Commentary on ``Can a good philosophical contribution be made
+                 just by asking a question?''",
+  author      = "Habgood-Coote, Joshua and Watson, Lani and Whitcomb, Dennis",
+  affiliation = "School of Philosophy, Religion and History of Science
+                 University of Leeds United Kingdom; Faculty of Theology and
+                 Religion and Faculty of Philosophy University of Oxford United
+                 Kingdom; Department of Philosophy Western Washington
+                 University Washington USA",
+  journal     = "Metaphilosophy",
+  publisher   = "Wiley",
+  volume      =  54,
+  number      =  1,
+  pages       = "55--60",
+  month       =  jan,
+  year        =  2023,
+  url         = "http://dx.doi.org/10.1111/meta.12600",
+  copyright   = "http://creativecommons.org/licenses/by-nc/4.0/",
+  language    = "en",
+  issn        = "0026-1068, 1467-9973",
+  doi         = "10.1111/meta.12600"
 }
