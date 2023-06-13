@@ -26266,3 +26266,39 @@
   issn        = "2158-2440",
   doi         = "10.1177/2158244013517243"
 }
+
+@ARTICLE{Timonen2018-hr,
+  title       = "Challenges when using grounded theory",
+  author      = "Timonen, Virpi and Foley, Geraldine and Conlon, Catherine",
+  affiliation = "School of Social Work and Social Policy, Trinity College
+                 Dublin, Dublin, Ireland; School of Medicine, Trinity College
+                 Dublin, Dublin, Ireland",
+  abstract    = "The grounded theory (GT) method is widely applied, yet
+                 frequently misunderstood. We outline the main variants of GT
+                 and dispel the most common myths associated with GT. We argue
+                 that the different variants of GT incorporate a core set of
+                 shared procedures that can be put to work by any researcher or
+                 team from their chosen ontological and epistemological
+                 perspective. This ``shared core'' of the GT method is
+                 articulated as the principles of (1) taking the word
+                 ``grounded'' seriously, (2) capturing and explaining
+                 context-related social processes, (3) pursuing theory through
+                 engagement with data, and (4) pursuing theory through
+                 theoretical sampling. In this article, we have put forward, in
+                 a nutshell, a distillation of core principles underpinning
+                 existing GT approaches that can aid further engagement with
+                 the different variants of GT. We are motivated by the wish to
+                 make GT more comprehensible and accessible, especially for
+                 researchers who are new to the method.",
+  journal     = "International journal of qualitative methods",
+  publisher   = "SAGE Publications",
+  volume      =  17,
+  number      =  1,
+  pages       = "160940691875808",
+  month       =  dec,
+  year        =  2018,
+  url         = "http://dx.doi.org/10.1177/1609406918758086",
+  language    = "en",
+  issn        = "1609-4069",
+  doi         = "10.1177/1609406918758086"
+}
