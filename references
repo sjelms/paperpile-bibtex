@@ -8936,6 +8936,44 @@
   doi       = "10.2307/j.ctvjf9vz4"
 }
 
+@ARTICLE{Singh2018-ur,
+  title       = "Selecting a grounded theory approach for nursing research",
+  author      = "Singh, Shaminder and Estefan, Andrew",
+  affiliation = "University of Calgary, Calgary, Alberta, Canada.",
+  abstract    = "Grounded theory is a commonly used research methodology. There
+                 are three primary approaches to grounded theory in nursing
+                 research: those espoused by Glaser, Strauss and Corbin, and
+                 Charmaz. All three approaches use similar procedures, yet
+                 there are important differences among them, which implies that
+                 researchers need to make careful choices when using grounded
+                 theory. Researchers new to grounded theory need to find the
+                 most appropriate approach that fits their research field,
+                 topic, and researcher position. In this article, we compare
+                 the three grounded theory approaches. Choices of a grounded
+                 theory approach will depend on the researcher's understanding
+                 of the philosophical underpinnings of all three approaches.
+                 Practical aspects of grounded theory approaches should match
+                 the information processing styles and analytical abilities of
+                 the researcher and the intended use of the theory. We
+                 illustrate key aspects of decision making about which method
+                 to select by drawing upon the first author's experiences in
+                 his doctoral research.",
+  journal     = "Global qualitative nursing research",
+  publisher   = "SAGE Publications",
+  volume      =  5,
+  pages       = "2333393618799571",
+  month       =  jan,
+  year        =  2018,
+  url         = "http://dx.doi.org/10.1177/2333393618799571",
+  keywords    = "decision making; epistemology; grounded theory; method;
+                 methodology; ontology; philosophy",
+  language    = "en",
+  issn        = "2333-3936",
+  pmid        = "30306099",
+  doi         = "10.1177/2333393618799571",
+  pmc         = "PMC6174650"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
