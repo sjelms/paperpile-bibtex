@@ -26343,9 +26343,32 @@
   pmc         = "PMC6174650"
 }
 
-@ARTICLE{noauthor_undated-ju,
-  title    = "{SebastianJuly2019.pdf}",
+@ARTICLE{Sebastian2019-ju,
+  title    = "Distinguishing Between the Strains Grounded Theory: Classical,
+              Interpretive and Constructivist",
+  author   = "Sebastian, Kailah",
+  abstract = "Since its inception in 1967, the grounded theory methodology has
+              developed into many perspectives, each underpinned by different
+              ontological and epistemological assumptions. This is shown
+              primarily through the work of Glaser and Strauss; Glaser; Strauss
+              and Corbin; and Charmaz. Positivism versus interpretivism; prior
+              knowledge and experiences versus a clean slate; pre-established
+              data coding categories versus building from the ground up -- each
+              of these opposing assertions can be applied as a characteristic
+              towards the three types or perspectives of grounded theory. But
+              which assertions go where? This paper will argue that, by
+              clarifying these perspectives and giving each its own separate
+              label, grounded theory researchers will be able to more easily
+              identify and distinguish a chosen approach and its implications
+              within research.",
+  journal  = "Journal for Social Thought",
+  volume   =  3,
+  number   =  1,
+  month    =  jul,
+  year     =  2019,
   url      = "https://ojs.lib.uwo.ca/index.php/jst/article/view/4116",
-  keywords = "Grounded Theory",
-  issn     = "2561-3839"
+  keywords = "Grounded theory, Grounded theory types, Ontology, Epistemology,
+              Methodology;Grounded Theory",
+  language = "en",
+  issn     = "2561-3839, 2561-3839"
 }
