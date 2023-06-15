@@ -13645,6 +13645,8 @@
   doi       = "10.1177/001979390305700103"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Cappelli2015-pi,
   title       = "Skill gaps, skill shortages, and skill mismatches",
   author      = "Cappelli, Peter H",
@@ -13677,7 +13679,7 @@
   month       =  mar,
   year        =  2015,
   url         = "http://dx.doi.org/10.1177/0019793914564961",
-  keywords    = "SGAM Ref Materials",
+  keywords    = "§New Literature;Skill demand;SGAM Ref Materials",
   language    = "en",
   issn        = "0019-7939, 2162-271X",
   doi         = "10.1177/0019793914564961"
