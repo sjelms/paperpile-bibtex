@@ -13685,6 +13685,35 @@
   doi         = "10.1177/0019793914564961"
 }
 
+@ARTICLE{Abraham2015-ja,
+  title       = "Is skill mismatch impeding U.s. economic recovery?",
+  author      = "Abraham, Katharine G",
+  affiliation = "Katharine G. Abraham is a Professor at the University of
+                 Maryland, and a Research Associate at the National Bureau of
+                 Economic Research (NBER).",
+  abstract    = "As the labor market continues its slow return to health
+                 following the Great Recession, economic policymakers have been
+                 concerned that unemployed workers do not have the skills
+                 required for the jobs that employers would like to fill. In
+                 this article, the author reviews available evidence and finds
+                 little empirical basis for the view that skill mismatch has
+                 impeded U.S. economic recovery. She then considers why the
+                 widespread perception of serious skill mismatch is so much at
+                 odds with what the data suggest. The article concludes with a
+                 brief discussion of implications for policy.",
+  journal     = "Industrial \& labor relations review",
+  publisher   = "SAGE Publications",
+  volume      =  68,
+  number      =  2,
+  pages       = "291--313",
+  month       =  mar,
+  year        =  2015,
+  url         = "http://www.jstor.org/stable/24810347",
+  language    = "en",
+  issn        = "0019-7939, 2162-271X",
+  doi         = "10.1177/0019793914564962"
+}
+
 @ARTICLE{Towers1989-ll,
   title     = "Running the Gauntlet: British Trade Unions under Thatcher,
                1979--1988",
