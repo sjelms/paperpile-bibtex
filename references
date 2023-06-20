@@ -2964,36 +2964,6 @@
   doi      = "10.1016/j.autcon.2017.10.028"
 }
 
-@ARTICLE{Wertsch1995-cz,
-  title    = "Vygotsky on Learning and Development",
-  author   = "Wertsch, James V and Sohmer, Richard",
-  abstract = "The theoretical framework of Vygotsky entails specific
-              understandings of learning, development, and the goal(s) of
-              development. In Vygotsky's usage, the term obuchenie, frequently
-              translated as 'learning', more accurately indicates the
-              interaction of teacher and student. Although the various domains
-              (phylogenesis, sociocultural history, ontogenesis, and
-              microgenesis) to which Vygotsky extended the concept of
-              development have differing dynamics, the course of development
-              within each domain is characterized by the transformative effects
-              of cultural tools (mediational means) upon their users. Vygotsky
-              posited a form of abstract rationality associated with
-              decontextualization, a semiotic potential inherent in all human
-              languages, as an ideal endpoint (telos) of development. Evidence
-              that Vygotsky at times assumed the existence of another telos,
-              corresponding to the semiotic potential of contextualization, has
-              implications for a potential developmental account of
-              heterogeneity in human mental functioning.",
-  journal  = "Human development",
-  volume   =  38,
-  number   =  6,
-  pages    = "332--337",
-  year     =  1995,
-  url      = "http://www.jstor.org/stable/26767648",
-  keywords = "Knowledge - Skill Acquisition;Zotero Import (Feb 22);My Library",
-  issn     = "0018-716X, 1423-0054"
-}
-
 @ARTICLE{Frey2017-ix,
   title    = "The future of employment: How susceptible are jobs to
               computerisation?",
@@ -10356,6 +10326,37 @@
               [2022];*Upgrade Report 2023",
   issn     = "1040-726X, 1573-336X",
   doi      = "10.1007/s10648-021-09636-3"
+}
+
+@ARTICLE{Wertsch1995-cz,
+  title    = "Vygotsky on Learning and Development",
+  author   = "Wertsch, James V and Sohmer, Richard",
+  abstract = "The theoretical framework of Vygotsky entails specific
+              understandings of learning, development, and the goal(s) of
+              development. In Vygotsky's usage, the term obuchenie, frequently
+              translated as 'learning', more accurately indicates the
+              interaction of teacher and student. Although the various domains
+              (phylogenesis, sociocultural history, ontogenesis, and
+              microgenesis) to which Vygotsky extended the concept of
+              development have differing dynamics, the course of development
+              within each domain is characterized by the transformative effects
+              of cultural tools (mediational means) upon their users. Vygotsky
+              posited a form of abstract rationality associated with
+              decontextualization, a semiotic potential inherent in all human
+              languages, as an ideal endpoint (telos) of development. Evidence
+              that Vygotsky at times assumed the existence of another telos,
+              corresponding to the semiotic potential of contextualization, has
+              implications for a potential developmental account of
+              heterogeneity in human mental functioning.",
+  journal  = "Human development",
+  volume   =  38,
+  number   =  6,
+  pages    = "332--337",
+  year     =  1995,
+  url      = "http://www.jstor.org/stable/26767648",
+  keywords = "Knowledge - Skill Acquisition;Zotero Import (Feb 22);My
+              Library;Theory and Methodology in Social and Educational Research",
+  issn     = "0018-716X, 1423-0054"
 }
 
 @INCOLLECTION{Bruner2006-bj,
