@@ -8572,6 +8572,8 @@
   doi       = "10.2307/j.ctvjf9vz4"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Assaad2023-ib,
   title     = "Opportunities and Challenges of Offsite Construction",
   booktitle = "Lecture Notes in Civil Engineering",
@@ -8581,7 +8583,7 @@
   year      =  2023,
   url       = "http://dx.doi.org/10.1007/978-981-19-1029-6_42",
   address   = "Singapore",
-  keywords  = "Construction 4.0",
+  keywords  = "+Notion;+Readwise;§New Literature;AEC;Important;Construction 4.0",
   issn      = "2366-2557, 2366-2565",
   isbn      = "9789811910289, 9789811910296",
   doi       = "10.1007/978-981-19-1029-6\_42"
