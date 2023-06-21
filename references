@@ -8572,6 +8572,20 @@
   doi       = "10.2307/j.ctvjf9vz4"
 }
 
+@INCOLLECTION{Assaad2023-ib,
+  title     = "Opportunities and Challenges of Offsite Construction",
+  booktitle = "Lecture Notes in Civil Engineering",
+  author    = "Assaad, R and El-adaway, I H and Hastak, M and LaScola Needy, K",
+  publisher = "Springer Nature Singapore",
+  pages     = "555--568",
+  year      =  2023,
+  url       = "http://dx.doi.org/10.1007/978-981-19-1029-6_42",
+  address   = "Singapore",
+  issn      = "2366-2557, 2366-2565",
+  isbn      = "9789811910289, 9789811910296",
+  doi       = "10.1007/978-981-19-1029-6\_42"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
