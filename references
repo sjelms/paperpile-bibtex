@@ -8589,6 +8589,40 @@
   doi       = "10.1007/978-981-19-1029-6\_42"
 }
 
+@ARTICLE{Assaad2022-zl,
+  title       = "The impact of offsite construction on the workforce: Required
+                 skillset and prioritization of training needs",
+  author      = "Assaad, Rayan H and El-adaway, Islam H and Hastak, Makarand
+                 and LaScola Needy, Kim",
+  affiliation = "Assistant Professor of Construction and Civil Infrastructure,
+                 John A. Reif, Jr. Dept. of Civil and Environmental
+                 Engineering, New Jersey Institute of Technology, Newark, NJ
+                 07102.; Hurst-McCarthy Professor of Construction Engineering
+                 and Management, Professor of Civil Engineering, and Founding
+                 Director of Missouri Consortium for Construction Innovation,
+                 Dept. of Civil, Architectural, and Environmental
+                 Engineering/Dept. of Engineering Management and Systems
+                 Engineering, Missouri Univ. of Science and Technology, Rolla,
+                 MO 65409 (corresponding author). ORCID: .; Derblan Family Head
+                 and Professor, Division of Construction Engineering and
+                 Management, Purdue Univ., West Lafayette, IN 47907; Professor,
+                 Lyles School of Civil Engineering, Purdue Univ., West
+                 Lafayette, IN 47907.; Dean of the College of Engineering,
+                 Professor of Industrial Engineering, and Irma F. and Raymond
+                 F. Giffels Endowed Chair in Engineering, Univ. of Arkansas,
+                 4183 Bell Engineering Center, Fayetteville, AR 72701.",
+  journal     = "Journal of construction engineering and management",
+  publisher   = "American Society of Civil Engineers (ASCE)",
+  volume      =  148,
+  number      =  7,
+  month       =  jul,
+  year        =  2022,
+  url         = "http://dx.doi.org/10.1061/(asce)co.1943-7862.0002314",
+  language    = "en",
+  issn        = "0733-9364, 1943-7862",
+  doi         = "10.1061/(asce)co.1943-7862.0002314"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
