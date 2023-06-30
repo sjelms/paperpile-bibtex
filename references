@@ -50,7 +50,7 @@
   month       =  jan,
   year        =  2014,
   url         = "http://dx.doi.org/10.1371/journal.pcbi.1003453",
-  keywords    = "Important;Research Methods;Theory and Methods;^TO READ",
+  keywords    = "Important;Research Methods;Theory and Methods;00\_TO READ",
   language    = "en",
   issn        = "1553-734X, 1553-7358",
   pmid        = "24499936",
@@ -353,7 +353,7 @@
   year      =  2013,
   url       = "https://onlinelibrary.wiley.com/doi/abs/10.1002/symb.66?casa_token=QqzThQAf-m0AAAAA:7lnn_JmwGhibdNumwIFaqb2NPKYEgkAF_bZ-vXLAbWj9nhi1hTP_ynNXLHIJRh_fYf4_nSR__f2J",
   keywords  = "Research Methods;Important;Theory and Methods;*Upgrade Report
-               2023;^TO READ",
+               2023;00\_TO READ",
   language  = "en",
   issn      = "0195-6086, 1533-8665",
   doi       = "10.1002/symb.66"
@@ -1232,7 +1232,7 @@
   url       = "http://dx.doi.org/10.1007/978-981-19-1029-6_42",
   address   = "Singapore",
   keywords  = "+Notion;+Readwise;§New Literature;AEC;Important;Construction
-               4.0;^TO READ",
+               4.0;00\_TO READ",
   issn      = "2366-2557, 2366-2565",
   isbn      = "9789811910289, 9789811910296",
   doi       = "10.1007/978-981-19-1029-6\_42"
@@ -1937,7 +1937,7 @@
   year     =  2021,
   url      = "https://doi.org/10.1007/s11831-020-09455-9",
   keywords = "+Notion;+Readwise;AEC;Research Methods;§New
-              Literature;Important;Construction 4.0;^TO READ",
+              Literature;Important;Construction 4.0;00\_TO READ",
   issn     = "1134-3060, 1886-1784",
   doi      = "10.1007/s11831-020-09455-9"
 }
@@ -1959,7 +1959,7 @@
   year      =  2021,
   url       = "https://www.academia.edu/48176864/What_is_at_the_Root_of_Construction_4_0_A_Systematic_Review_of_the_Recent_Research_Effort",
   keywords  = "+Notion;+Readwise;AEC;Important;§New Literature;Construction
-               4.0;*Upgrade Report 2023;^TO READ",
+               4.0;*Upgrade Report 2023;00\_TO READ",
   language  = "en",
   issn      = "1134-3060, 1886-1784",
   doi       = "10.1007/s11831-020-09457-7"
@@ -3235,7 +3235,7 @@
   year      =  2022,
   url       = "https://www.sciencedirect.com/science/article/pii/B9780128217979000106",
   keywords  = "+Notion;+Readwise;AEC;Essential;Labor;Marco Casini Construction
-               4.0;*Upgrade Report 2023",
+               4.0;*Upgrade Report 2023;00\_TO READ",
   isbn      = "9780128217979",
   doi       = "10.1016/B978-0-12-821797-9.00010-6"
 }
@@ -3285,7 +3285,7 @@
                efficient buildings; level's; construction industry; building
                renovation passport; digital building
                logbooks;AEC;Labor;+Notion;+Readwise;Essential;Marco Casini
-               Construction 4.0;*Upgrade Report 2023",
+               Construction 4.0;*Upgrade Report 2023;00\_TO READ",
   isbn      = "9780128217979",
   doi       = "10.1016/B978-0-12-821797-9.00011-8"
 }
@@ -3695,7 +3695,8 @@
   year      =  2022,
   url       = "https://play.google.com/store/books/details?id=VkZPEAAAQBAJ",
   keywords  = "+Readwise;AEC;Essential;**CATALOGED;Construction 4.0;Marco
-               Casini Construction 4.0;Notion Catalogued;*Upgrade Report 2023",
+               Casini Construction 4.0;Notion Catalogued;*Upgrade Report
+               2023;00\_TO READ",
   language  = "en",
   isbn      = "9780128217979",
   doi       = "10.1016/c2019-0-04325-7"
@@ -4351,7 +4352,7 @@
   month     =  nov,
   year      =  2020,
   url       = "http://dx.doi.org/10.1016/j.autcon.2020.103312",
-  keywords  = "Automation;AEC;Important;@\_Mark Up;Game Engine \_ AR-VR;^TO
+  keywords  = "Automation;AEC;Important;@\_Mark Up;Game Engine \_ AR-VR;00\_TO
                READ",
   language  = "en",
   issn      = "0926-5805, 1872-7891",
@@ -4374,7 +4375,8 @@
   month     =  jun,
   year      =  2023,
   url       = "http://dx.doi.org/10.1016/j.autcon.2023.104845",
-  keywords  = "§New Literature;+Readwise;+Notion;AEC;Essential;Construction 4.0",
+  keywords  = "§New Literature;+Readwise;+Notion;AEC;Essential;Construction
+               4.0;00\_TO READ",
   language  = "en",
   issn      = "0926-5805, 1872-7891",
   doi       = "10.1016/j.autcon.2023.104845"
@@ -4805,7 +4807,7 @@
               Content analysis; PESTEL framework; Research agenda; Construction
               industry;AEC;Automation;Important;@\_Mark
               Up;Essential;**CATALOGED;Construction 4.0;Notion
-              Catalogued;*Upgrade Report 2023;^TO READ",
+              Catalogued;*Upgrade Report 2023;00\_TO READ",
   issn     = "0166-3615",
   doi      = "10.1016/j.compind.2016.09.006"
 }
@@ -5037,7 +5039,7 @@
   month       =  aug,
   year        =  2022,
   url         = "https://www.sciencedirect.com/science/article/pii/S2352578922001047",
-  keywords    = "§New Literature;Essential;Read",
+  keywords    = "§New Literature;Essential;Read;00\_TO READ",
   copyright   = "http://creativecommons.org/licenses/by-nc-nd/4.0/",
   language    = "en",
   issn        = "2352-5789",
@@ -8135,7 +8137,7 @@
   year        =  2022,
   url         = "http://dx.doi.org/10.1061/(asce)co.1943-7862.0002314",
   keywords    = "+Notion;+Readwise;§New Literature;AEC;Essential;Construction
-                 4.0",
+                 4.0;00\_TO READ",
   language    = "en",
   issn        = "0733-9364, 1943-7862",
   doi         = "10.1061/(asce)co.1943-7862.0002314"
@@ -8915,7 +8917,7 @@
   year      =  2006,
   url       = "https://doi.org/10.1080/03075070600572173",
   keywords  = "Accessibility;Important;Sensory Processing;@\_Mark Up;PhD
-               Support and Training;PhD Study and Support;^TO READ",
+               Support and Training;PhD Study and Support;00\_TO READ",
   issn      = "0307-5079",
   doi       = "10.1080/03075070600572173"
 }
@@ -9955,7 +9957,7 @@
   year      =  2018,
   url       = "https://doi.org/10.1080/17452007.2017.1314858",
   keywords  = "+Notion;+Readwise;AEC;Important;§New Literature;Construction
-               4.0;*Upgrade Report 2023;^TO READ",
+               4.0;*Upgrade Report 2023;00\_TO READ",
   issn      = "1745-2007",
   doi       = "10.1080/17452007.2017.1314858"
 }
@@ -11102,7 +11104,7 @@
   keywords  = "Organizations;Personnel;Task analysis;Qualifications;Analytical
                models;Design science research method (DSRM);gap analysis;job
                fit;skills gaps;+Notion;+Readwise;§New
-               Literature;Important;Labor;SGAM Ref Materials ;^TO READ",
+               Literature;Important;Labor;SGAM Ref Materials ;00\_TO READ",
   copyright = "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html",
   issn      = "0360-8581, 1937-4178",
   doi       = "10.1109/emr.2020.3011704"
@@ -12226,7 +12228,7 @@
   url             = "http://portal.acm.org/citation.cfm?doid=1357054.1357156",
   address         = "New York, New York, USA",
   keywords        = "Essential;Course Assignment;Week 6\_ Ideation and creative
-                     design",
+                     design;00\_TO READ",
   conference      = "Proceeding of the twenty-sixth annual CHI conference",
   location        = "Florence, Italy",
   isbn            = "9781605580111",
@@ -13485,7 +13487,7 @@
   month       =  may,
   year        =  2022,
   url         = "http://dx.doi.org/10.1145/3529163",
-  keywords    = "AEC;+Notion;+Readwise;Book (physical);Important;^TO READ",
+  keywords    = "AEC;+Notion;+Readwise;Book (physical);Important;00\_TO READ",
   language    = "en",
   issn        = "1072-5520, 1558-3449",
   doi         = "10.1145/3529163"
@@ -15058,7 +15060,7 @@
   month     =  jul,
   year      =  2022,
   url       = "https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-022-00343-9",
-  keywords  = "\_XR/MR;AEC;Education;Essential;§New Literature",
+  keywords  = "\_XR/MR;AEC;Education;Essential;§New Literature;00\_TO READ",
   copyright = "https://creativecommons.org/licenses/by/4.0",
   language  = "en",
   issn      = "2365-9440",
@@ -15534,7 +15536,7 @@
   year        =  2021,
   url         = "http://dx.doi.org/10.1371/journal.pone.0245113",
   keywords    = "Accessibility;Important;Sensory Processing;PhD Support and
-                 Training;PhD Study and Support;^TO READ",
+                 Training;PhD Study and Support;00\_TO READ",
   copyright   = "http://creativecommons.org/licenses/by/4.0/",
   language    = "en",
   issn        = "1932-6203",
@@ -15632,7 +15634,7 @@
   year      =  2007,
   url       = "https://www.inderscienceonline.com/doi/abs/10.1504/JDR.2007.015564",
   keywords  = "Essential;Course Assignment;Week 6\_ Ideation and creative
-               design",
+               design;00\_TO READ",
   issn      = "1054-2523, 1748-3050",
   doi       = "10.1504/JDR.2007.015564"
 }
@@ -16844,7 +16846,7 @@
   year      =  2019,
   url       = "http://dx.doi.org/10.25777/39P3-8W95",
   keywords  = "Thesis;+Notion;+Readwise;Essential;Research Methods;Skills
-               Assessment Methodology;SGAM Ref Materials",
+               Assessment Methodology;SGAM Ref Materials ;00\_TO READ",
   doi       = "10.25777/39P3-8W95"
 }
 
@@ -17782,7 +17784,7 @@
   year      =  2020,
   url       = "https://www.mdpi.com/2071-1050/12/22/9755",
   keywords  = "+Notion;+Readwise;AEC;Important;§New Literature;Construction
-               4.0;^TO READ",
+               4.0;00\_TO READ",
   language  = "en",
   issn      = "1548-7733",
   doi       = "10.3390/su12229755"
@@ -18126,7 +18128,7 @@
   url       = "http://dx.doi.org/10.4135/9781446200940.n2",
   address   = "1 Oliver's Yard, 55 City Road, London EC1Y 1SP United Kingdom",
   keywords  = "§New Literature;Workplace Learning;ePub | Kindle;Important;SAGE
-               Handbook of Workplace Learning, The;^TO READ",
+               Handbook of Workplace Learning, The;00\_TO READ",
   isbn      = "9781847875891, 9781446200940",
   doi       = "10.4135/9781446200940.n2"
 }
@@ -19476,7 +19478,7 @@
   institution = "Roland Berger GmbH",
   year        =  2016,
   keywords    = "+Notion;+Readwise;AEC;Essential;§New Literature;Construction
-                 4.0;*Upgrade Report 2023"
+                 4.0;*Upgrade Report 2023;00\_TO READ"
 }
 
 @TECHREPORT{Leopold2018-cc,
@@ -20953,7 +20955,7 @@
   publisher = "McGraw-Hill Education",
   year      =  2018,
   url       = "https://play.google.com/store/books/details?id=BBnJtAEACAAJ",
-  keywords  = "Important;Research Methods;Theory and Methods;^TO READ",
+  keywords  = "Important;Research Methods;Theory and Methods;00\_TO READ",
   language  = "en",
   isbn      = "9780335243389"
 }
@@ -21391,7 +21393,7 @@
   keywords    = "Construction 4.0. Industrial construction. offsite,
                  modular;AEC;Important;@\_Mark
                  Up;Essential;**CATALOGED;Construction 4.0;Notion
-                 Catalogued;UCL Poster Q1 2023;*Upgrade Report 2023;^TO READ"
+                 Catalogued;UCL Poster Q1 2023;*Upgrade Report 2023;00\_TO READ"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -23439,7 +23441,7 @@
   url       = "https://www.routledge.com/Offsite-Architecture-Constructing-the-future/Smith-Quale/p/book/9781138821392",
   keywords  = "AEC;ePub | Kindle;Essential;Important;@\_Mark
                Up;**CATALOGED;Construction 4.0;Notion Catalogued;*Upgrade
-               Report 2023;^TO READ",
+               Report 2023;00\_TO READ",
   language  = "en",
   isbn      = "9781317588818"
 }
@@ -23885,7 +23887,7 @@
   url       = "https://us.sagepub.com/en-us/nam/research-methodology/book257990",
   keywords  = "ePub | Kindle;Research Methods;+Notion;+Readwise;§New
                Literature;Important;Read;Theory and Methods;*Upgrade Report
-               2023;^TO READ",
+               2023;00\_TO READ",
   language  = "en",
   isbn      = "9781526449900"
 }
@@ -26478,7 +26480,7 @@
   month       =  mar,
   year        =  2019,
   keywords    = "+Notion;+Readwise;AEC;Important;§New Literature;Construction
-                 4.0;*Upgrade Report 2023;^TO READ"
+                 4.0;*Upgrade Report 2023;00\_TO READ"
 }
 
 @BOOK{Norman2013-mt,
