@@ -8576,46 +8576,6 @@
   doi       = "10.2307/j.ctvjf9vz4"
 }
 
-@ARTICLE{Lafhaj2023-am,
-  title       = "``Imagine and make'': teaching construction robotics for
-                 higher education students",
-  author      = "Lafhaj, Zoubeir and AlBalkhy, Wassim and Linner, Thomas",
-  affiliation = "59000 Lille, France Laboratoire de M{\'e}canique Multiphysique
-                 Multi{\'e}chelle, LaMcube, UMR 9013, Centrale Lille, CNRS,
-                 Universit{\'e} de Lille.; Regensburg, Germany Faculty of Civil
-                 Engineering, Ostbayerische Technische Hochschule (OTH)
-                 Regensburg.",
-  abstract    = "The use of robotics in construction projects is still in its
-                 infancy despite the opportunities that robots can present for
-                 the improvement of construction practices. One of the
-                 strategies to effectively increase the reliance on robots in
-                 construction is increasing the knowledge and improving the
-                 educational programs about robotics for university students.
-                 This paper contributes to the ongoing efforts worldwide to
-                 improve the teaching methods about construction robotics
-                 through the presentation of a novel method called ``Imagine
-                 and Make'', in which students learn how to integrate robotics
-                 in different aspects and practices in construction projects.
-                 The method has been applied at Centrale Lille in France since
-                 2018. The results of the application of ``Imagine and Make''
-                 in the first semester of 2021-2022, evaluation by students,
-                 and teaching outcomes are reported in this paper.",
-  journal     = "Construction robotics",
-  volume      =  7,
-  number      =  1,
-  pages       = "65--75",
-  month       =  apr,
-  year        =  2023,
-  url         = "http://dx.doi.org/10.1007/s41693-023-00092-9",
-  keywords    = "Construction 4.0; Construction management techniques; France;
-                 Robotics; Robotics teaching",
-  language    = "en",
-  issn        = "2509-811X, 2509-8780",
-  pmid        = "37251108",
-  doi         = "10.1007/s41693-023-00092-9",
-  pmc         = "PMC10105152"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
@@ -26769,4 +26729,44 @@
   year        =  2019,
   keywords    = "+Notion;+Readwise;AEC;Important;§New Literature;Construction
                  4.0;*Upgrade Report 2023;00\_TO READ"
+}
+
+@ARTICLE{Lafhaj2023-am,
+  title       = "``Imagine and make'': teaching construction robotics for
+                 higher education students",
+  author      = "Lafhaj, Zoubeir and AlBalkhy, Wassim and Linner, Thomas",
+  affiliation = "59000 Lille, France Laboratoire de M{\'e}canique Multiphysique
+                 Multi{\'e}chelle, LaMcube, UMR 9013, Centrale Lille, CNRS,
+                 Universit{\'e} de Lille.; Regensburg, Germany Faculty of Civil
+                 Engineering, Ostbayerische Technische Hochschule (OTH)
+                 Regensburg.",
+  abstract    = "The use of robotics in construction projects is still in its
+                 infancy despite the opportunities that robots can present for
+                 the improvement of construction practices. One of the
+                 strategies to effectively increase the reliance on robots in
+                 construction is increasing the knowledge and improving the
+                 educational programs about robotics for university students.
+                 This paper contributes to the ongoing efforts worldwide to
+                 improve the teaching methods about construction robotics
+                 through the presentation of a novel method called ``Imagine
+                 and Make'', in which students learn how to integrate robotics
+                 in different aspects and practices in construction projects.
+                 The method has been applied at Centrale Lille in France since
+                 2018. The results of the application of ``Imagine and Make''
+                 in the first semester of 2021-2022, evaluation by students,
+                 and teaching outcomes are reported in this paper.",
+  journal     = "Construction robotics",
+  volume      =  7,
+  number      =  1,
+  pages       = "65--75",
+  month       =  apr,
+  year        =  2023,
+  url         = "http://dx.doi.org/10.1007/s41693-023-00092-9",
+  keywords    = "Construction 4.0; Construction management techniques; France;
+                 Robotics; Robotics teaching;Construction 4.0",
+  language    = "en",
+  issn        = "2509-811X, 2509-8780",
+  pmid        = "37251108",
+  doi         = "10.1007/s41693-023-00092-9",
+  pmc         = "PMC10105152"
 }
