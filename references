@@ -26936,3 +26936,30 @@
   language  = "en",
   isbn      = "9781529765205"
 }
+
+@BOOK{Creswell2017-uf,
+  title     = "Qualitative Inquiry and Research Design (International Student
+               Edition): Choosing Among Five Approaches",
+  author    = "Creswell, John W and Poth, Cheryl N",
+  abstract  = "In the Fourth Edition of this bestselling book, John W Creswell
+               and new co-author Cheryl N Poth explore the philosophical
+               underpinnings, history and key elements of each of five
+               qualitative inquiry traditions: narrative research,
+               phenomenology, grounded theory, ethnography and case study -
+               putting them side by side, so that we can see the differences.
+               The authors relate research designs to each of the traditions of
+               enquiry. They compare theoretical frameworks and ways to employ
+               standards of quality, as well as strategies for writing
+               introductions to studies, collecting data, analyzing data,
+               writing a narrative and verifying results. New in this edition:
+               Updated materials on each tradition More on interpretive
+               frameworks and ethics More visual depictions of the five
+               approaches Two new topical articles in Chapter 5, reproduced in
+               full in the appendices.",
+  publisher = "SAGE Publications",
+  month     =  apr,
+  year      =  2017,
+  url       = "https://play.google.com/store/books/details?id=UgFIMQAACAAJ",
+  language  = "en",
+  isbn      = "9781506361178"
+}
