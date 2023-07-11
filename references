@@ -26904,3 +26904,34 @@
   keywords  = "Research Methods;Book (physical)",
   language  = "en"
 }
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@BOOK{Aurini2021-vc,
+  title     = "The How To of Qualitative Research",
+  author    = "Aurini, Janice D and Heath, Melanie and Howells, Stephanie",
+  abstract  = "This book will support you through each milestone of your
+               research project with step-by-step instructions to doing
+               qualitative research. Whatever type of data or data collection
+               method you use, it will help you to navigate the nuts and bolts
+               of qualitative research, from forming your research question to
+               effectively writing up. Your roadmap and toolbox all in one, it
+               helps you choose the best research tools for your project while
+               managing any challenges you might encounter along the way. It
+               includes: · Guidance on putting different research designs into
+               practice, including using technology for interviews, data
+               management, and unobtrusive research · Practical mapping tools,
+               including checklists and quick tips · Online case studies and
+               further reading to deepen your knowledge and expand your
+               bibliography · Advice from experts on how to design and
+               implement excellent qualitative research, including
+               considerations of ethical issues. This book is the perfect
+               companion for social sciences students carrying out their first
+               qualitative research project.",
+  publisher = "SAGE",
+  month     =  dec,
+  year      =  2021,
+  url       = "https://play.google.com/store/books/details?id=gto6EAAAQBAJ",
+  language  = "en",
+  isbn      = "9781529765205"
+}
