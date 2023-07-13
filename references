@@ -8675,20 +8675,6 @@
   isbn      = "9781529765205"
 }
 
-@INCOLLECTION{Ataizi2012-ve,
-  title     = "Situated Cognition",
-  booktitle = "Encyclopedia of the Sciences of Learning",
-  author    = "Ataizi, Murat",
-  editor    = "Seel, Norbert M",
-  publisher = "Springer US",
-  pages     = "3082--3084",
-  year      =  2012,
-  url       = "https://doi.org/10.1007/978-1-4419-1428-6_16",
-  address   = "Boston, MA",
-  isbn      = "9781441914286",
-  doi       = "10.1007/978-1-4419-1428-6\_16"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
@@ -22017,24 +22003,6 @@
   doi       = "10.1201/9780429398100"
 }
 
-@TECHREPORT{Zupanci2018-sb,
-  title       = "Future Scenarios and Implications for the Industry",
-  author      = "Zupanci, Till and Buehler, Michael and Kosta, Isidora and
-                 Dakhil, Hani",
-  abstract    = "Incremental change is not an option any more in the
-                 construction industry. By redefining the ultimate frontier,
-                 leapfrogging innovations in construction will finally help
-                 address major societal challenges, from mass urbanization to
-                 climate change. The widespread adoption of game-changing
-                 innovations that consider a variety of possible futures is
-                 going to make a serious impact, socially, economically and
-                 environmentally.",
-  institution = "World Economic Forum",
-  month       =  jun,
-  year        =  2018,
-  keywords    = "AEC;Construction 4.0;*Upgrade Report 2023"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INCOLLECTION{Davis2017-hf,
@@ -27011,4 +26979,39 @@
   url       = "http://dx.doi.org/10.13140/RG.2.2.32536.70406/1",
   keywords  = "Research Methods;PhD Support and Training",
   doi       = "10.13140/RG.2.2.32536.70406/1"
+}
+
+@INCOLLECTION{Ataizi2012-ve,
+  title     = "Situated Cognition",
+  booktitle = "Encyclopedia of the Sciences of Learning",
+  author    = "Ataizi, Murat",
+  editor    = "Seel, Norbert M",
+  publisher = "Springer US",
+  pages     = "3082--3084",
+  year      =  2012,
+  url       = "https://doi.org/10.1007/978-1-4419-1428-6_16",
+  address   = "Boston, MA",
+  isbn      = "9781441914286",
+  doi       = "10.1007/978-1-4419-1428-6\_16"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@TECHREPORT{Zupanci2018-sb,
+  title       = "Future Scenarios and Implications for the Industry",
+  author      = "Zupanci, Till and Buehler, Michael and Kosta, Isidora and
+                 Dakhil, Hani",
+  abstract    = "Incremental change is not an option any more in the
+                 construction industry. By redefining the ultimate frontier,
+                 leapfrogging innovations in construction will finally help
+                 address major societal challenges, from mass urbanization to
+                 climate change. The widespread adoption of game-changing
+                 innovations that consider a variety of possible futures is
+                 going to make a serious impact, socially, economically and
+                 environmentally.",
+  institution = "World Economic Forum",
+  month       =  jun,
+  year        =  2018,
+  keywords    = "AEC;+Notion;+Readwise;§New Literature;Construction
+                 4.0;*Upgrade Report 2023"
 }
