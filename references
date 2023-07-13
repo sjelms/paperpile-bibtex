@@ -8675,14 +8675,18 @@
   isbn      = "9781529765205"
 }
 
-@MISC{Marek2017-fn,
-  title     = "Scholarly writing outline for thesis or dissertation",
-  author    = "Marek, Michael W",
-  publisher = "Unpublished",
-  year      =  2017,
-  url       = "http://dx.doi.org/10.13140/RG.2.2.32536.70406/1",
-  keywords  = "Research Methods;PhD Support and Training",
-  doi       = "10.13140/RG.2.2.32536.70406/1"
+@INCOLLECTION{Ataizi2012-ve,
+  title     = "Situated Cognition",
+  booktitle = "Encyclopedia of the Sciences of Learning",
+  author    = "Ataizi, Murat",
+  editor    = "Seel, Norbert M",
+  publisher = "Springer US",
+  pages     = "3082--3084",
+  year      =  2012,
+  url       = "https://doi.org/10.1007/978-1-4419-1428-6_16",
+  address   = "Boston, MA",
+  isbn      = "9781441914286",
+  doi       = "10.1007/978-1-4419-1428-6\_16"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -26997,4 +27001,14 @@
   keywords = "RDL [CCME0041]",
   issn     = "1438-5627",
   doi      = "10.17169/fqs-13.1.1801"
+}
+
+@MISC{Marek2017-fn,
+  title     = "Scholarly writing outline for thesis or dissertation",
+  author    = "Marek, Michael W",
+  publisher = "Unpublished",
+  year      =  2017,
+  url       = "http://dx.doi.org/10.13140/RG.2.2.32536.70406/1",
+  keywords  = "Research Methods;PhD Support and Training",
+  doi       = "10.13140/RG.2.2.32536.70406/1"
 }
