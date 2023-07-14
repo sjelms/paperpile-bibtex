@@ -22190,6 +22190,16 @@
   keywords    = "+Notion;+Readwise;AEC;Labor;Construction 4.0"
 }
 
+@TECHREPORT{Cole2023-yc,
+  title       = "Modular Labour Report 2023",
+  author      = "Cole, Steve and Broun, James",
+  institution = "Make UK",
+  month       =  apr,
+  year        =  2023,
+  url         = "https://www.makeuk.org/insights/reports/who-will-be-the-builders-modulars-role-in-solving-the-housing-labour-crisis",
+  keywords    = "+Notion;+Readwise;AEC;Labor;Construction 4.0"
+}
+
 @BOOK{Billups2020-od,
   title     = "Qualitative data collection tools: Design, development, and
                applications",
