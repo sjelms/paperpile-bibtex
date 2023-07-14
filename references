@@ -21133,16 +21133,6 @@
   keywords  = "Andragogy;§New Literature"
 }
 
-@TECHREPORT{Make_UK2023-zp,
-  title       = "Modular Labour Report 2023",
-  author      = "{Make UK}",
-  institution = "Make UK",
-  month       =  apr,
-  year        =  2023,
-  url         = "https://www.makeuk.org/insights/reports/who-will-be-the-builders-modulars-role-in-solving-the-housing-labour-crisis",
-  keywords    = "+Notion;+Readwise;AEC;Labor;Construction 4.0"
-}
-
 @BOOK{Frey2019-yf,
   title     = "The Technology Trap: Capital, Labor, and Power in the Age of
                Automation",
@@ -22188,6 +22178,16 @@
   howpublished = "\url{https://www.istructe.org/IStructE/media/Public/TSE-Archive/2021/Timber-and-carbon-sequestration.pdf}",
   note         = "Accessed: 2023-2-12",
   keywords     = "AEC"
+}
+
+@TECHREPORT{Cole2023-zp,
+  title       = "Modular Labour Report 2023",
+  author      = "Cole, Steve and Broun, James",
+  institution = "Make UK",
+  month       =  apr,
+  year        =  2023,
+  url         = "https://www.makeuk.org/insights/reports/who-will-be-the-builders-modulars-role-in-solving-the-housing-labour-crisis",
+  keywords    = "+Notion;+Readwise;AEC;Labor;Construction 4.0"
 }
 
 @BOOK{Billups2020-od,
