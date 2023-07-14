@@ -27046,6 +27046,14 @@
   keywords     = "Course Assignment;AIEd [CCME0123]"
 }
 
+@MISC{noauthor_undated-wl,
+  title        = "House of Lords - Off-site manufacture for construction:
+                  Building for change - Science and Tecnology Select Committee",
+  url          = "https://publications.parliament.uk/pa/ld201719/ldselect/ldsctech/169/16902.htm",
+  howpublished = "\url{https://publications.parliament.uk/pa/ld201719/ldselect/ldsctech/169/16902.htm}",
+  note         = "Accessed: 2023-7-14"
+}
+
 @MISC{noauthor_undated-ie,
   title        = "Arts based educational research",
   abstract     = "Arts Based Education Research aims to understand education
