@@ -20711,6 +20711,18 @@
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
+@TECHREPORT{Parliament_House_of_Lords2018-wl,
+  title       = "Off-site Manufacture for Construction: Building for Change",
+  author      = "{Parliament. House of Lords}",
+  affiliation = "Parliament of the United Kingdom",
+  number      =  2,
+  edition     = "Session 2017-2019",
+  institution = "Parliament of the United Kingdom",
+  month       =  jul,
+  year        =  2018,
+  url         = "https://publications.parliament.uk/pa/ld201719/ldselect/ldsctech/169/16902.htm"
+}
+
 @MISC{IxDA2019-mo,
   title     = "Ruby Steel --- Interaction Design Day @ {IxDA} London",
   author    = "IxDA, London",
@@ -27044,14 +27056,6 @@
   url          = "https://publications.parliament.uk/pa/ld201719/ldselect/ldai/100/10002.htm",
   howpublished = "\url{https://publications.parliament.uk/pa/ld201719/ldselect/ldai/100/10002.htm}",
   keywords     = "Course Assignment;AIEd [CCME0123]"
-}
-
-@MISC{noauthor_undated-wl,
-  title        = "House of Lords - Off-site manufacture for construction:
-                  Building for change - Science and Tecnology Select Committee",
-  url          = "https://publications.parliament.uk/pa/ld201719/ldselect/ldsctech/169/16902.htm",
-  howpublished = "\url{https://publications.parliament.uk/pa/ld201719/ldselect/ldsctech/169/16902.htm}",
-  note         = "Accessed: 2023-7-14"
 }
 
 @MISC{noauthor_undated-ie,
