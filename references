@@ -23,7 +23,7 @@
   month     =  aug,
   year      =  1980,
   url       = "http://www.pdcnet.org/oom/service?url_ver=Z39.88-2004&rft_val_fmt=&rft.imuse_id=jphil_1980_0077_0008_0453_0486&svc_id=info:www.pdcnet.org/collection",
-  keywords  = "Brain and Space [Coursera]",
+  keywords  = "Brain and Space [Coursera];Journal Articles",
   issn      = "0022-362X, 1939-8549",
   doi       = "10.2307/2025464"
 }
@@ -102,7 +102,7 @@
   month     =  nov,
   year      =  2013,
   url       = "http://dx.doi.org/10.1016/j.autcon.2013.05.029",
-  keywords  = "AEC;§New Literature;\_XR/MR",
+  keywords  = "AEC;§New Literature;\_XR/MR;Journal Articles",
   language  = "en",
   issn      = "0926-5805, 1872-7891",
   doi       = "10.1016/j.autcon.2013.05.029"
@@ -311,7 +311,8 @@
   month     =  jul,
   year      =  2018,
   url       = "http://dx.doi.org/10.1007/s10639-017-9676-0",
-  keywords  = "\_XR/MR;§New Literature;Training;VR Ref via Ceja \& Price",
+  keywords  = "\_XR/MR;§New Literature;Training;VR Ref via Ceja \&
+               Price;Journal Articles",
   language  = "en",
   issn      = "1360-2357, 1573-7608",
   doi       = "10.1007/s10639-017-9676-0"
@@ -331,7 +332,7 @@
   month     =  dec,
   year      =  2019,
   url       = "http://dx.doi.org/10.1007/s10055-018-0350-7",
-  keywords  = "\_XR/MR;Education;§New Literature",
+  keywords  = "\_XR/MR;Education;§New Literature;Journal Articles",
   language  = "en",
   issn      = "1359-4338, 1434-9957",
   doi       = "10.1007/s10055-018-0350-7"
@@ -388,7 +389,7 @@
   year        =  2022,
   url         = "http://dx.doi.org/10.1038/s41467-022-32244-w",
   keywords    = "AEC;+Notion;+Readwise;§New Literature;Construction
-                 4.0;*Upgrade Report 2023",
+                 4.0;*Upgrade Report 2023;Journal Articles",
   copyright   = "https://creativecommons.org/licenses/by/4.0",
   language    = "en",
   issn        = "2041-1723",
@@ -427,7 +428,7 @@
   month       =  apr,
   year        =  2013,
   url         = "http://dx.doi.org/10.1126/science.1230579",
-  keywords    = "\_XR/MR;§New Literature;Education",
+  keywords    = "\_XR/MR;§New Literature;Education;Journal Articles",
   language    = "en",
   issn        = "0036-8075, 1095-9203",
   pmid        = "23599479",
@@ -525,7 +526,7 @@
   month       =  dec,
   year        =  2013,
   url         = "http://dx.doi.org/10.1111/jcal.12018",
-  keywords    = "\_XR/MR;§New Literature;Education",
+  keywords    = "\_XR/MR;§New Literature;Education;Journal Articles",
   copyright   = "http://onlinelibrary.wiley.com/termsAndConditions\#vor",
   language    = "en",
   issn        = "0266-4909, 1365-2729",
@@ -622,7 +623,8 @@
   journal  = "Discourses on Learning in Education",
   year     =  2022,
   url      = "https://learningdiscourses.com/discourse/expert-novice/",
-  keywords = "**CATALOGED;Notion Catalogued;*Upgrade Report 2023",
+  keywords = "**CATALOGED;Notion Catalogued;*Upgrade Report 2023;Journal
+              Articles",
   language = "en"
 }
 
@@ -1002,7 +1004,7 @@
   month     =  jan,
   year      =  2012,
   url       = "http://dx.doi.org/10.1080/15578771.2011.619247",
-  keywords  = "\_XR/MR;AEC;§New Literature",
+  keywords  = "\_XR/MR;AEC;§New Literature;Journal Articles",
   language  = "en",
   issn      = "1557-8771, 1550-3984",
   doi       = "10.1080/15578771.2011.619247"
@@ -1142,7 +1144,8 @@
   year      =  2002,
   url       = "http://dx.doi.org/10.1080/13501780210137119",
   keywords  = "+Notion;+Readwise;§New Literature;Research
-               Methods;++ClickUp;Theory and Methods;Grounded Theory;00\_TO READ",
+               Methods;++ClickUp;Theory and Methods;Grounded Theory;00\_TO
+               READ;Journal Articles",
   language  = "en",
   issn      = "1350-178X, 1469-9427",
   doi       = "10.1080/13501780210137119"
@@ -1181,7 +1184,7 @@
   month     =  mar,
   year      =  2003,
   url       = "http://dx.doi.org/10.1016/s0926-5805(02)00047-x",
-  keywords  = "AEC;§New Literature;\_XR/MR",
+  keywords  = "AEC;§New Literature;\_XR/MR;Journal Articles",
   language  = "en",
   issn      = "0926-5805, 1872-7891",
   doi       = "10.1016/s0926-5805(02)00047-x"
@@ -1520,7 +1523,7 @@
   pages       = "1--17",
   year        =  2022,
   url         = "http://dx.doi.org/10.1109/tlt.2022.3190055",
-  keywords    = "UCL;§New Literature",
+  keywords    = "UCL;§New Literature;Journal Articles",
   copyright   = "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html",
   issn        = "1939-1382, 2372-0050",
   doi         = "10.1109/tlt.2022.3190055"
@@ -1832,7 +1835,7 @@
   month     =  aug,
   year      =  2022,
   url       = "https://www.learntechlib.org/primary/p/221170/",
-  keywords  = "Education",
+  keywords  = "Education;Journal Articles",
   issn      = "1059-7069, 1943-5924"
 }
 
@@ -2015,7 +2018,7 @@
   month       =  apr,
   year        =  2002,
   url         = "http://dx.doi.org/10.2466/pms.2002.94.2.479",
-  keywords    = "§New Literature;Sensory Processing",
+  keywords    = "§New Literature;Sensory Processing;Journal Articles",
   language    = "en",
   issn        = "0031-5125, 1558-688X",
   pmid        = "12027342",
@@ -3052,7 +3055,7 @@
   keywords  = "Virtual Reality; Training Simulations; Construction Site Safety
                and Health; Usability; User Experience;\_XR/MR;AEC;Workplace
                Learning;+Readwise;@\_Mark Up;**CATALOGED;XR Reviewed;Notion
-               Catalogued",
+               Catalogued;Journal Articles",
   language  = "en",
   issn      = "2196-6826",
   doi       = "10.1515/icom-2022-0006"
@@ -5757,7 +5760,7 @@
   pages     = "40",
   year      =  2017,
   url       = "http://dx.doi.org/10.9781/ijimai.2017.445",
-  keywords  = "HCI;Research Methods;§New Literature",
+  keywords  = "HCI;Research Methods;§New Literature;Journal Articles",
   issn      = "1989-1660",
   doi       = "10.9781/ijimai.2017.445"
 }
@@ -9159,7 +9162,8 @@
   month       =  oct,
   year        =  2022,
   url         = "http://dx.doi.org/10.1111/ejed.12533",
-  keywords    = "AIEd;Artificial Intelligence (AI);UCL;§New Literature",
+  keywords    = "AIEd;Artificial Intelligence (AI);UCL;§New Literature;Journal
+                 Articles",
   copyright   = "http://creativecommons.org/licenses/by/4.0/",
   language    = "en",
   issn        = "0141-8211, 1465-3435",
@@ -9374,7 +9378,7 @@
   number   =  1,
   pages    = "17--28",
   year     =  1995,
-  keywords = "RDL [CCME0041]"
+  keywords = "RDL [CCME0041];Journal Articles"
 }
 
 @INBOOK{Liamputtong_undated-rf,
@@ -9539,16 +9543,6 @@
   doi      = "10.3102/0013189X11428813"
 }
 
-@ARTICLE{Shenton2004-zi,
-  title    = "Strategies for ensuring trustworthiness in qualitative research
-              projects. Education for Information",
-  author   = "Shenton, A",
-  journal  = "Education for Information",
-  year     =  2004,
-  url      = "https://pdfs.semanticscholar.org/cbe6/70d35e449ceed731466c316cd273032b28ca.pdf",
-  keywords = "RDL [CCME0041]"
-}
-
 @BOOK{Patton1990-iz,
   title     = "Qualitative evaluation and research methods",
   author    = "Patton, Michael Quinn",
@@ -9586,7 +9580,7 @@
   pages    = "429--432",
   year     =  2008,
   url      = "http://dx.doi.org/10.1038/sj.bdj.2008.292",
-  keywords = "RDL [CCME0041]",
+  keywords = "RDL [CCME0041];Journal Articles",
   issn     = "0007-0610, 1476-5373",
   doi      = "10.1038/sj.bdj.2008.292"
 }
@@ -9665,7 +9659,7 @@
   month    =  apr,
   year     =  2006,
   url      = "http://dx.doi.org/10.1177/1077800405284363",
-  keywords = "RDL [CCME0041]",
+  keywords = "RDL [CCME0041];Journal Articles",
   issn     = "1077-8004, 1552-7565",
   doi      = "10.1177/1077800405284363"
 }
@@ -9681,7 +9675,7 @@
   month    =  jul,
   year     =  2012,
   url      = "http://dx.doi.org/10.5539/elt.v5n9p9",
-  keywords = "Research Methods;RDL [CCME0041]",
+  keywords = "Research Methods;RDL [CCME0041];Journal Articles",
   issn     = "1916-4750",
   doi      = "10.5539/elt.v5n9p9"
 }
@@ -9706,7 +9700,7 @@
   number   =  2,
   year     =  2017,
   url      = "https://ojs.lib.uwo.ca/index.php/iipj/article/view/7515",
-  keywords = "RDL [CCME0041]",
+  keywords = "RDL [CCME0041];Journal Articles",
   issn     = "1916-5781",
   doi      = "10.18584/iipj.2017.8.2.5"
 }
@@ -9719,7 +9713,7 @@
   journal  = "International Journal of Qualitative Methods.",
   year     =  2002,
   url      = "https://sites.ualberta.ca/~iiqm/backissues/1_2Final/pdf/morseetal.pdf",
-  keywords = "RDL [CCME0041]"
+  keywords = "RDL [CCME0041];Journal Articles"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -9735,7 +9729,7 @@
   month    =  mar,
   year     =  2009,
   url      = "http://dx.doi.org/10.1080/09650790802667469",
-  keywords = "§New Literature;RDL [CCME0041]",
+  keywords = "§New Literature;RDL [CCME0041];Journal Articles",
   issn     = "1747-5074",
   doi      = "10.1080/09650790802667469"
 }
@@ -9758,7 +9752,7 @@
   month    =  jan,
   year     =  2009,
   url      = "http://dx.doi.org/10.1111/j.1469-5812.2008.00479.x",
-  keywords = "RDL [CCME0041]",
+  keywords = "RDL [CCME0041];Journal Articles",
   issn     = "1469-5812",
   doi      = "10.1111/j.1469-5812.2008.00479.x"
 }
@@ -9797,7 +9791,7 @@
   month    =  sep,
   year     =  2008,
   url      = "http://dx.doi.org/10.1177/1357034X08093574",
-  keywords = "RDL [CCME0041]",
+  keywords = "RDL [CCME0041];Journal Articles",
   issn     = "1460-3632",
   doi      = "10.1177/1357034X08093574"
 }
@@ -9853,7 +9847,7 @@
   month    =  jan,
   year     =  2018,
   url      = "http://dx.doi.org/10.1111/bjet.12546",
-  keywords = "RDL [CCME0041]",
+  keywords = "RDL [CCME0041];Journal Articles",
   issn     = "0007-1013",
   doi      = "10.1111/bjet.12546"
 }
@@ -9959,7 +9953,7 @@
   month       =  feb,
   year        =  2018,
   url         = "https://bera-journals.onlinelibrary.wiley.com/doi/abs/10.1002/berj.3321",
-  keywords    = "RDL [CCME0041]",
+  keywords    = "RDL [CCME0041];Journal Articles",
   copyright   = "http://onlinelibrary.wiley.com/termsAndConditions\#vor",
   language    = "en",
   issn        = "0141-1926, 1469-3518",
@@ -9981,7 +9975,7 @@
   month    =  dec,
   year     =  1982,
   url      = "https://doi.org/10.1007/BF02765185",
-  keywords = "RDL [CCME0041]",
+  keywords = "RDL [CCME0041];Journal Articles",
   issn     = "1556-6501",
   doi      = "10.1007/BF02765185"
 }
@@ -10060,7 +10054,7 @@
   month       =  feb,
   year        =  2006,
   url         = "https://assets.ctfassets.net/hk7rjv5qs0cy/2aIyf1gDPKAUGke04uCICm/13a40dd3da1a956906aa879abd1a407d/Ivankova_etal_2006_mixed_methods_sequential_design.pdf",
-  keywords    = "RDL [CCME0041]",
+  keywords    = "RDL [CCME0041];Journal Articles",
   language    = "en",
   issn        = "1525-822X, 1552-3969",
   doi         = "10.1177/1525822x05282260"
@@ -10117,7 +10111,7 @@
   month       =  jan,
   year        =  2018,
   url         = "http://dx.doi.org/10.1037/amp0000151",
-  keywords    = "RDL [CCME0041]",
+  keywords    = "RDL [CCME0041];Journal Articles",
   language    = "en",
   issn        = "0003-066X, 1935-990X",
   pmid        = "29345485",
@@ -10683,7 +10677,7 @@
   url      = "https://www.sciencedirect.com/science/article/pii/S1747938X16300616",
   keywords = "Augmented reality; Systematic review; Educational
               technology;\_XR/MR;@\_Mark Up;**CATALOGED;AACE UNC Call for
-              Papers;Notion Catalogued",
+              Papers;Notion Catalogued;Journal Articles",
   issn     = "1747-938X",
   doi      = "10.1016/j.edurev.2016.11.002"
 }
@@ -10727,7 +10721,8 @@
   pages     = "205",
   year      =  2019,
   url       = "http://www.inderscience.com/link.php?id=104586",
-  keywords  = "\_XR/MR;§New Literature;AACE UNC Call for Papers",
+  keywords  = "\_XR/MR;§New Literature;AACE UNC Call for Papers;Journal
+               Articles",
   language  = "en",
   issn      = "1741-878X, 1741-8798",
   doi       = "10.1504/ijtmkt.2019.104586"
@@ -10763,7 +10758,7 @@
   month    =  dec,
   year     =  2021,
   url      = "https://doi.org/10.1007/s11423-021-10055-y",
-  keywords = "\_XR/MR;Read;@\_Mark Up;AACE UNC Call for Papers",
+  keywords = "\_XR/MR;Read;@\_Mark Up;AACE UNC Call for Papers;Journal Articles",
   issn     = "1042-1629, 1556-6501",
   doi      = "10.1007/s11423-021-10055-y"
 }
@@ -10821,7 +10816,8 @@
   pages       = "211--219",
   year        =  2019,
   url         = "https://www.informingscience.org/Publications/4318",
-  keywords    = "\_XR/MR;§New Literature;AACE UNC Call for Papers",
+  keywords    = "\_XR/MR;§New Literature;AACE UNC Call for Papers;Journal
+                 Articles",
   language    = "en",
   issn        = "1547-5840, 1547-5867",
   doi         = "10.28945/4318"
@@ -10893,7 +10889,8 @@
   year     =  2017,
   url      = "https://www.sciencedirect.com/science/article/pii/S0747563217304521",
   keywords = "Mobile gaming; Augmented reality; Pok{\'e}mon Go; Gratification;
-              Risk; Flow;\_XR/MR;§New Literature;AACE UNC Call for Papers",
+              Risk; Flow;\_XR/MR;§New Literature;AACE UNC Call for
+              Papers;Journal Articles",
   issn     = "0747-5632",
   doi      = "10.1016/j.chb.2017.07.030"
 }
@@ -10948,25 +10945,14 @@
   doi       = "10.1145/258734.258849"
 }
 
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@ARTICLE{Gavish2015-mv,
-  title     = "Evaluating virtual reality and augmented reality training for
-               industrial maintenance and assembly tasks",
-  author    = "Gavish, Nirit and Guti{\'e}rrez, Teresa and Webel, Sabine and
-               Rodr{\'\i}guez, Jorge and Peveri, Matteo and Bockholt, Uli and
-               Tecchia, Franco",
-  journal   = "Interactive learning environments",
-  publisher = "Informa UK Limited",
-  volume    =  23,
-  number    =  6,
-  pages     = "778--798",
-  month     =  nov,
-  year      =  2015,
-  url       = "http://dx.doi.org/10.1080/10494820.2013.815221",
-  keywords  = "\_XR/MR;§New Literature;Training",
-  issn      = "1049-4820, 1744-5191",
-  doi       = "10.1080/10494820.2013.815221"
+@ARTICLE{Shenton2004-zi,
+  title    = "Strategies for ensuring trustworthiness in qualitative research
+              projects. Education for Information",
+  author   = "Shenton, A",
+  journal  = "Education for Information",
+  year     =  2004,
+  url      = "https://pdfs.semanticscholar.org/cbe6/70d35e449ceed731466c316cd273032b28ca.pdf",
+  keywords = "RDL [CCME0041];Journal Articles"
 }
 
 @BOOK{Saldana2015-ul,
@@ -11007,7 +10993,8 @@
   pages     = "95--116",
   year      =  1993,
   url       = "http://www.jstor.org/stable/40970729",
-  keywords  = "Knowledge - Skill Acquisition;§New Literature;Recommended",
+  keywords  = "Knowledge - Skill Acquisition;§New
+               Literature;Recommended;Journal Articles",
   issn      = "0037-783X"
 }
 
@@ -11054,7 +11041,8 @@
   url      = "https://www.sciencedirect.com/science/article/pii/S0926580519310222",
   keywords = "Construction management; Progress monitoring; Building
               information modelling; Image processing; Virtual reality; Machine
-              learning;AEC;Game Engine;§New Literature;Training",
+              learning;AEC;Game Engine;§New Literature;Training;Journal
+              Articles",
   issn     = "0926-5805",
   doi      = "10.1016/j.autcon.2019.103012"
 }
@@ -11097,7 +11085,8 @@
   month    =  jun,
   year     =  2017,
   url      = "https://doi.org/10.1061/9780784480830.049",
-  keywords = "§New Literature;AEC;Game Engine;Training;Game Engine \_ AR-VR",
+  keywords = "§New Literature;AEC;Game Engine;Training;Game Engine \_
+              AR-VR;Journal Articles",
   issn     = "0887-3801",
   doi      = "10.1061/9780784480830.049"
 }
@@ -11112,7 +11101,7 @@
   month    =  jan,
   year     =  2011,
   url      = "http://www.itcon.org/2011/6",
-  keywords = "§New Literature;Game Engine;AEC;Healthcare + CME",
+  keywords = "§New Literature;Game Engine;AEC;Healthcare + CME;Journal Articles",
   issn     = "1874-4753"
 }
 
@@ -11138,7 +11127,7 @@
   month    =  feb,
   year     =  2015,
   url      = "https://doi.org/10.1186/s40327-015-0018-2",
-  keywords = "AEC;Game Engine;§New Literature",
+  keywords = "AEC;Game Engine;§New Literature;Journal Articles",
   issn     = "2213-7459",
   doi      = "10.1186/s40327-015-0018-2"
 }
@@ -11166,7 +11155,7 @@
   pages     = "01003",
   year      =  2019,
   url       = "https://www.e3s-conferences.org/articles/e3sconf/abs/2019/05/e3sconf_arfee2018_01003/e3sconf_arfee2018_01003.html",
-  keywords  = "§New Literature;Technological change;Education",
+  keywords  = "§New Literature;Technological change;Education;Journal Articles",
   language  = "en",
   issn      = "2267-1242, 2267-1242",
   doi       = "10.1051/e3sconf/20197901003"
@@ -11270,7 +11259,8 @@
   month     =  sep,
   year      =  2005,
   url       = "https://doi.org/10.1080/08993400500224286",
-  keywords  = "Knowledge - Skill Acquisition;Intelligent Tutoring Systems (ITS)",
+  keywords  = "Knowledge - Skill Acquisition;Intelligent Tutoring Systems
+               (ITS);Journal Articles",
   issn      = "0899-3408",
   doi       = "10.1080/08993400500224286"
 }
@@ -11358,7 +11348,8 @@
   month     =  jan,
   year      =  2020,
   url       = "https://doi.org/10.1108/ET-02-2019-0041",
-  keywords  = "Workplace Learning;AEC;Training;Frontiers import [Aug 11]",
+  keywords  = "Workplace Learning;AEC;Training;Frontiers import [Aug
+               11];Journal Articles",
   issn      = "0040-0912",
   doi       = "10.1108/ET-02-2019-0041"
 }
@@ -11386,7 +11377,8 @@
   month     =  oct,
   year      =  2003,
   url       = "http://journals.sagepub.com/doi/10.1177/001979390305700103",
-  keywords  = "AEC;Workplace Learning;Training;Frontiers import [Aug 11]",
+  keywords  = "AEC;Workplace Learning;Training;Frontiers import [Aug
+               11];Journal Articles",
   language  = "en",
   issn      = "0019-7939, 2162-271X",
   doi       = "10.1177/001979390305700103"
@@ -11423,7 +11415,8 @@
   month     =  mar,
   year      =  2019,
   url       = "https://doi.org/10.1177/0004865818779418",
-  keywords  = "Knowledge - Skill Acquisition;Training;Frontiers import [Aug 11]",
+  keywords  = "Knowledge - Skill Acquisition;Training;Frontiers import [Aug
+               11];Journal Articles",
   issn      = "0004-8658",
   doi       = "10.1177/0004865818779418"
 }
@@ -11454,7 +11447,7 @@
   year     =  2018,
   url      = "https://doi.org/10.1007/s40593-017-0163-y",
   keywords = "Knowledge - Skill Acquisition;Workplace Learning;AEC;Frontiers
-              import [Aug 11]",
+              import [Aug 11];Journal Articles",
   issn     = "1560-4306",
   doi      = "10.1007/s40593-017-0163-y"
 }
@@ -11554,7 +11547,7 @@
   url       = "https://doi.org/10.1177/074171369804800205",
   keywords  = "Research Methods;Knowledge - Skill Acquisition;Frontiers import
                [Aug 11];Zotero Import (Feb 22);My Library;2021-12-03
-               Frontiers;*Upgrade Report 2023",
+               Frontiers;*Upgrade Report 2023;Journal Articles",
   issn      = "0741-7136",
   doi       = "10.1177/074171369804800205"
 }
@@ -11580,7 +11573,7 @@
   year     =  2008,
   url      = "http://dx.doi.org/10.1007/s11257-007-9041-x",
   keywords = "Intelligent Tutoring Systems (ITS);Course Assignment;AIEd
-              [CCME0123]",
+              [CCME0123];Journal Articles",
   issn     = "0924-1868, 1573-1391",
   doi      = "10.1007/s11257-007-9041-x"
 }
@@ -11595,7 +11588,7 @@
   pages     = "7",
   year      =  1998,
   url       = "https://www-jstor-org.libproxy.ucl.ac.uk/stable/3328150?seq=1#metadata_info_tab_contents",
-  keywords  = "Course Assignment;AIEd [CCME0123]",
+  keywords  = "Course Assignment;AIEd [CCME0123];Journal Articles",
   issn      = "0003-2638"
 }
 
@@ -11852,7 +11845,7 @@
   url      = "https://www.sciencedirect.com/science/article/pii/S0925753516301825",
   keywords = "Complex systems; Construction; High reliability organising; Human
               factors; Resilience engineering;Workplace Learning;AEC;Frontiers
-              import [Aug 11]",
+              import [Aug 11];Journal Articles",
   issn     = "0925-7535",
   doi      = "10.1016/j.ssci.2016.08.019"
 }
@@ -11901,7 +11894,7 @@
   month       =  jan,
   year        =  2014,
   url         = "http://dx.doi.org/10.1371/journal.pone.0085017",
-  keywords    = "Sensory Processing;Brain and Space [Coursera]",
+  keywords    = "Sensory Processing;Brain and Space [Coursera];Journal Articles",
   language    = "en",
   issn        = "1932-6203",
   pmid        = "24454779",
@@ -11944,7 +11937,7 @@
   month       =  dec,
   year        =  2008,
   url         = "https://direct.mit.edu/pvar/article/17/6/527-549/18723",
-  keywords    = "Sensory Processing;Brain and Space [Coursera]",
+  keywords    = "Sensory Processing;Brain and Space [Coursera];Journal Articles",
   language    = "en",
   issn        = "1054-7460, 1531-3263",
   doi         = "10.1162/pres.17.6.527"
@@ -12181,7 +12174,8 @@
   month       =  jun,
   year        =  2011,
   url         = "http://dx.doi.org/10.1371/journal.pone.0020910",
-  keywords    = "Sensory Processing;Designing Across Senses [Book Resources]",
+  keywords    = "Sensory Processing;Designing Across Senses [Book
+                 Resources];Journal Articles",
   language    = "en",
   issn        = "1932-6203",
   pmid        = "21677786",
@@ -12200,60 +12194,6 @@
   keywords  = "\_XR/MR;ePub | Kindle",
   isbn      = "9780199644469",
   doi       = "10.1093/acprof:oso/9780199644469.001.0001"
-}
-
-@ARTICLE{Pietra2021-jq,
-  title     = "Promoting eco-driving behavior through multisensory stimulation:
-               a preliminary study on the use of visual and haptic feedback in
-               a virtual reality driving simulator",
-  author    = "Pietra, Andrea and Vazquez Rull, Marina and Etzi, Roberta and
-               Gallace, Alberto and Scurati, Giulia Wally and Ferrise,
-               Francesco and Bordegoni, Monica",
-  abstract  = "AbstractThis paper describes the design and preliminary test of
-               a virtual reality driving simulator capable of conveying haptic
-               and visual messages to promote eco-sustainable driving behavior.
-               The driving simulator was implemented through the Unity game
-               engine; a large street environment, including high-speed and
-               urban sections, was created to examine different driving
-               behaviors. The hardware setup included a gaming driving seat,
-               equipped with a steering wheel and pedals; the virtual scenarios
-               were displayed through an Oculus Rift headset to guarantee an
-               immersive experience. Haptic stimulation (i.e., vibrations) was
-               delivered to the driver through the accelerator pedal, while
-               visual stimuli (i.e., icons and colors) were shown on a virtual
-               head-up display. The sensory feedbacks were presented both alone
-               and in combination, providing information about excessive
-               acceleration and speed. Four different virtual scenarios, each
-               one including a distracting element (i.e., navigator, rain,
-               call, and traffic), were also created. Ten participants tested
-               the simulator. Fuel consumption was evaluated by calculating a
-               mean power index (MPI) in reference to the sensory feedback
-               presentation; physiological reactions and responses to a
-               usability survey were also collected. The results revealed that
-               the haptic and visuo-haptic feedback were responsible for an MPI
-               reduction, respectively, for 14\% and 11\% compared with a
-               condition of no feedback presentation; while visual feedback
-               alone resulted in an MPI increase of 11\%. The efficacy of
-               haptic feedback was also accompanied by a more relaxing
-               physiological state of the users, compared with the visual
-               stimulation. The system's usability was adequate, although
-               haptic stimuli were rated slightly more intrusive than the
-               visual ones. Overall, these preliminary results highlight how
-               promising the use of the haptic channel can be in communicating
-               and guiding the driver toward a more eco-sustainable behavior.",
-  journal   = "Virtual reality",
-  publisher = "Springer Science and Business Media LLC",
-  volume    =  25,
-  number    =  4,
-  pages     = "945--959",
-  month     =  dec,
-  year      =  2021,
-  url       = "http://dx.doi.org/10.1007/s10055-021-00499-1",
-  keywords  = "\_XR/MR",
-  copyright = "https://creativecommons.org/licenses/by/4.0",
-  language  = "en",
-  issn      = "1359-4338, 1434-9957",
-  doi       = "10.1007/s10055-021-00499-1"
 }
 
 @BOOK{Zuboff1988-mo,
@@ -12331,7 +12271,8 @@
   month    =  sep,
   year     =  1993,
   url      = "https://doi.org/10.1007/BF01323044",
-  keywords = "Knowledge - Skill Acquisition;**CATALOGED;Notion Catalogued",
+  keywords = "Knowledge - Skill Acquisition;**CATALOGED;Notion
+              Catalogued;Journal Articles",
   issn     = "1040-726X, 1573-336X",
   doi      = "10.1007/BF01323044"
 }
@@ -12379,7 +12320,7 @@
   month     =  feb,
   year      =  2007,
   url       = "https://doi.org/10.1080/13645570600655282",
-  keywords  = "Research Methods;§New Literature",
+  keywords  = "Research Methods;§New Literature;Journal Articles",
   issn      = "1364-5579",
   doi       = "10.1080/13645570600655282"
 }
@@ -12440,7 +12381,7 @@
   keywords    = "Architectures; Embodiment; Grounding; Imagery; Knowledge;
                  Mental simulation; Situated cognition; Symbolic
                  operations;Sensory Processing;Brain and Space
-                 [Coursera];Grounded Theory",
+                 [Coursera];Grounded Theory;Journal Articles",
   language    = "en",
   issn        = "1756-8757, 1756-8765",
   pmid        = "25164052",
@@ -12467,7 +12408,8 @@
   month    =  feb,
   year     =  1971,
   url      = "http://dx.doi.org/10.1126/science.171.3972.701",
-  keywords = "Sensory Processing;§New Literature;Brain and Space [Coursera]",
+  keywords = "Sensory Processing;§New Literature;Brain and Space
+              [Coursera];Journal Articles",
   language = "en",
   issn     = "0036-8075",
   pmid     = "5540314",
@@ -12564,7 +12506,7 @@
   month       =  feb,
   year        =  2004,
   url         = "http://dx.doi.org/10.1016/j.tics.2003.12.008",
-  keywords    = "Designing Across Senses [Book Resources]",
+  keywords    = "Designing Across Senses [Book Resources];Journal Articles",
   language    = "en",
   issn        = "1364-6613, 1879-307X",
   pmid        = "15588812",
@@ -12636,7 +12578,7 @@
   year        =  2022,
   url         = "http://dx.doi.org/10.7554/eLife.81075",
   keywords    = "doctorate; early-career researchers; ecology; graduate school;
-                 none; research culture; well-being;Education",
+                 none; research culture; well-being;Education;Journal Articles",
   copyright   = "http://creativecommons.org/licenses/by/4.0/",
   language    = "en",
   issn        = "2050-084X",
@@ -12672,7 +12614,7 @@
   month     =  jan,
   year      =  2022,
   url       = "http://dx.doi.org/10.3389/frvir.2022.820237",
-  keywords  = "+Notion;+Readwise;§New Literature;\_XR/MR",
+  keywords  = "+Notion;+Readwise;§New Literature;\_XR/MR;Journal Articles",
   copyright = "https://creativecommons.org/licenses/by/4.0/",
   issn      = "2673-4192",
   doi       = "10.3389/frvir.2022.820237"
@@ -12702,7 +12644,7 @@
   year        =  1998,
   url         = "http://dx.doi.org/10.2466/pms.1998.87.1.19",
   keywords    = "Knowledge - Skill Acquisition;@\_Mark Up;**CATALOGED;XR
-                 Reviewed;Notion Catalogued",
+                 Reviewed;Notion Catalogued;Journal Articles",
   language    = "en",
   issn        = "0031-5125, 1558-688X",
   pmid        = "9760621",
@@ -12748,7 +12690,7 @@
   url         = "http://dx.doi.org/10.16910/jemr.13.6.5",
   keywords    = "eye tracking; gender stereotype; mental rotation; scan path;
                  strategies;§New Literature;Sensory Processing;Pocket/Reader
-                 (RW)",
+                 (RW);Journal Articles",
   language    = "en",
   issn        = "1995-8692",
   pmid        = "33828815",
@@ -12822,7 +12764,7 @@
   url       = "https://www.degruyter.com/document/doi/10.1515/JSSI-2015-0264/html",
   keywords  = "tacit knowledge; knowledge sharing; trust; self-efficacy; IT
                support;Knowledge - Skill Acquisition;**CATALOGED;Notion
-               Catalogued;*Upgrade Report 2023",
+               Catalogued;*Upgrade Report 2023;Journal Articles",
   language  = "en",
   issn      = "1708-296X, 2512-6660",
   doi       = "10.1515/JSSI-2015-0264"
@@ -12887,7 +12829,7 @@
   year      =  2016,
   url       = "http://dx.doi.org/10.1080/15578771.2015.1121936",
   keywords  = "\_XR/MR;AEC;§New Literature;VR Ref via Ceja \& Price;Game Engine
-               \_ AR-VR",
+               \_ AR-VR;Journal Articles",
   language  = "en",
   issn      = "1557-8771, 1550-3984",
   doi       = "10.1080/15578771.2015.1121936"
@@ -12917,7 +12859,8 @@
   month       =  jun,
   year        =  1992,
   url         = "http://dx.doi.org/10.1145/129888.129892",
-  keywords    = "\_XR/MR;§New Literature;The VR Book | Jason Jerald",
+  keywords    = "\_XR/MR;§New Literature;The VR Book | Jason Jerald;Journal
+                 Articles",
   language    = "en",
   issn        = "0001-0782, 1557-7317",
   doi         = "10.1145/129888.129892"
@@ -12953,7 +12896,7 @@
   year     =  2008,
   url      = "https://vtechworks.lib.vt.edu/handle/10919/92616",
   keywords = "virtual reality; safety; training; conveyor belt; Article -
-              Refereed;\_XR/MR;§New Literature;AEC;XR Reviewed",
+              Refereed;\_XR/MR;§New Literature;AEC;XR Reviewed;Journal Articles",
   language = "en",
   issn     = "1874-4753"
 }
@@ -12980,7 +12923,7 @@
   month    =  oct,
   year     =  1978,
   url      = "http://dx.doi.org/10.2466/pms.1978.47.2.599",
-  keywords = "Sensory Processing;§New Literature",
+  keywords = "Sensory Processing;§New Literature;Journal Articles",
   language = "en",
   issn     = "0031-5125",
   pmid     = "724398",
@@ -13005,7 +12948,7 @@
   month    =  feb,
   year     =  2018,
   url      = "http://www.360kid.com/blog/2018/03/",
-  keywords = "Sensory Processing"
+  keywords = "Sensory Processing;Journal Articles"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -13047,7 +12990,7 @@
   month     =  mar,
   year      =  2021,
   url       = "https://doi.org/10.1080/07370024.2018.1531001",
-  keywords  = "Sensory Processing;\_XR/MR;§New Literature",
+  keywords  = "Sensory Processing;\_XR/MR;§New Literature;Journal Articles",
   issn      = "0737-0024",
   doi       = "10.1080/07370024.2018.1531001"
 }
@@ -13378,7 +13321,7 @@
   keywords    = "antibacterial resistance; antibiotic stewardship;
                  communication skills; medical education; virtual
                  reality;\_XR/MR;UCL;@\_Mark Up;Training;**CATALOGED;Notion
-                 Catalogued;Healthcare + CME",
+                 Catalogued;Healthcare + CME;Journal Articles",
   language    = "en",
   issn        = "2296-2565",
   pmid        = "29535997",
@@ -13590,7 +13533,7 @@
   year      =  2004,
   url       = "https://doi.org/10.1080/158037042000225245",
   keywords  = "Workplace Learning;Knowledge - Skill
-               Acquisition;**CATALOGED;Notion Catalogued",
+               Acquisition;**CATALOGED;Notion Catalogued;Journal Articles",
   issn      = "0158-037X",
   doi       = "10.1080/158037042000225245"
 }
@@ -13644,7 +13587,7 @@
                  motivation regulation; self-regulated learning;
                  self-regulation; shared regulation of learning; socially
                  shared regulated learning;ePub | Kindle;**CATALOGED;Notion
-                 Catalogued",
+                 Catalogued;Journal Articles",
   language    = "en",
   issn        = "1664-1078",
   pmid        = "28503157",
@@ -13705,7 +13648,8 @@
   month       =  apr,
   year        =  2020,
   url         = "https://onlinelibrary.wiley.com/doi/10.1002/jee.20308",
-  keywords    = "Knowledge - Skill Acquisition;**CATALOGED;Notion Catalogued",
+  keywords    = "Knowledge - Skill Acquisition;**CATALOGED;Notion
+                 Catalogued;Journal Articles",
   copyright   = "http://creativecommons.org/licenses/by/4.0/",
   language    = "en",
   issn        = "1069-4730, 2168-9830",
@@ -13727,42 +13671,25 @@
   location = " Massachusetts Institute of Technology, Cambridge, MA"
 }
 
-@ARTICLE{Wood1978-ls,
-  title     = "An Experimental Evaluation of Four {Face-to-Face} Teaching
-               Strategies",
-  author    = "Wood, David and Wood, Heather and Middleton, David",
-  abstract  = "This study tests a number of predictions about the effectiveness
-               of four different strategies for teaching three to four year old
-               children how to master a difficult construction task. These
-               strategies were derived from previous studies of mother-child
-               and experimenter-child interactions in an assisted learning
-               situation. One strategy the 'contingent approach' was based
-               primarily on theoretical considerations and when used in earlier
-               work as a basis for describing and evaluating maternal teaching
-               it enabled us to predict how well children taught by their
-               mothers would do with a task after instruction. The three other
-               strategies are idealised versions of the teaching methods used
-               by less successful mothers-as-teachers. On the basis of our
-               analysis of effective instruction it is possible to predict how
-               well children taught by these four different techniques by a
-               trained instructor should perform after instruction.The present
-               study largely confirms these predictions. In so doing, it
-               strengthens the supposition that it was maternal behaviour in
-               the earlier work which influenced the children's task abilities
-               and it also corroborates various hypotheses about the essential
-               nature of effective face-to-face instruction.",
-  journal   = "International journal of behavioral development",
-  publisher = "SAGE Publications Ltd",
-  volume    =  1,
-  number    =  2,
-  pages     = "131--147",
-  month     =  apr,
-  year      =  1978,
-  url       = "https://doi.org/10.1177/016502547800100203",
-  keywords  = "Scaffolding;Knowledge - Skill Acquisition;**CATALOGED;Notion
-               Catalogued",
-  issn      = "0165-0254",
-  doi       = "10.1177/016502547800100203"
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Gavish2015-mv,
+  title     = "Evaluating virtual reality and augmented reality training for
+               industrial maintenance and assembly tasks",
+  author    = "Gavish, Nirit and Guti{\'e}rrez, Teresa and Webel, Sabine and
+               Rodr{\'\i}guez, Jorge and Peveri, Matteo and Bockholt, Uli and
+               Tecchia, Franco",
+  journal   = "Interactive learning environments",
+  publisher = "Informa UK Limited",
+  volume    =  23,
+  number    =  6,
+  pages     = "778--798",
+  month     =  nov,
+  year      =  2015,
+  url       = "http://dx.doi.org/10.1080/10494820.2013.815221",
+  keywords  = "\_XR/MR;§New Literature;Training;Journal Articles",
+  issn      = "1049-4820, 1744-5191",
+  doi       = "10.1080/10494820.2013.815221"
 }
 
 @ARTICLE{Murphy2009-fx,
@@ -13797,7 +13724,7 @@
   year        =  2009,
   url         = "http://dx.doi.org/10.1016/j.nepr.2008.05.002",
   keywords    = "Knowledge - Skill Acquisition;**CATALOGED;Notion
-                 Catalogued;Healthcare + CME",
+                 Catalogued;Healthcare + CME;Journal Articles",
   language    = "en",
   issn        = "1471-5953, 1873-5223",
   pmid        = "18603477",
@@ -13834,7 +13761,8 @@
   month     =  jun,
   year      =  1979,
   url       = "https://onlinelibrary.wiley.com/doi/10.1111/j.1467-1770.1979.tb01053.x",
-  keywords  = "Knowledge - Skill Acquisition;**CATALOGED;Notion Catalogued",
+  keywords  = "Knowledge - Skill Acquisition;**CATALOGED;Notion
+               Catalogued;Journal Articles",
   language  = "en",
   issn      = "0023-8333, 1467-9922",
   doi       = "10.1111/j.1467-1770.1979.tb01053.x"
@@ -14005,7 +13933,8 @@
   month     =  mar,
   year      =  2002,
   url       = "https://www.emerald.com/insight/content/doi/10.1108/10748120210431349/full/html",
-  keywords  = "Game Engine;§New Literature;**CATALOGED;Notion Catalogued",
+  keywords  = "Game Engine;§New Literature;**CATALOGED;Notion
+               Catalogued;Journal Articles",
   language  = "en",
   issn      = "1074-8121, 2054-1708",
   doi       = "10.1108/10748120210431349"
@@ -14043,7 +13972,7 @@
   pages     = "134--138",
   year      =  1993,
   url       = "http://www.jstor.org/stable/41970968",
-  keywords  = "**CATALOGED;Notion Catalogued",
+  keywords  = "**CATALOGED;Notion Catalogued;Journal Articles",
   issn      = "0740-2708"
 }
 
@@ -14102,7 +14031,8 @@
   month     =  aug,
   year      =  2016,
   url       = "http://dx.doi.org/10.1080/10494820.2014.994533",
-  keywords  = "§New Literature;\_XR/MR;VR Ref via Ceja \& Price",
+  keywords  = "§New Literature;\_XR/MR;VR Ref via Ceja \& Price;Journal
+               Articles",
   issn      = "1049-4820, 1744-5191",
   doi       = "10.1080/10494820.2014.994533"
 }
@@ -14143,7 +14073,8 @@
   month     =  sep,
   year      =  2013,
   url       = "http://dx.doi.org/10.1080/01446193.2013.828844",
-  keywords  = "§New Literature;\_XR/MR;AEC;Workplace Learning;XR Reviewed",
+  keywords  = "§New Literature;\_XR/MR;AEC;Workplace Learning;XR
+               Reviewed;Journal Articles",
   language  = "en",
   issn      = "0144-6193, 1466-433X",
   doi       = "10.1080/01446193.2013.828844"
@@ -14172,7 +14103,7 @@
   month       =  oct,
   year        =  2011,
   url         = "http://dx.doi.org/10.1061/(asce)ei.1943-5541.0000078",
-  keywords    = "§New Literature;\_XR/MR;AEC",
+  keywords    = "§New Literature;\_XR/MR;AEC;Journal Articles",
   language    = "en",
   issn        = "1052-3928, 1943-5541",
   doi         = "10.1061/(asce)ei.1943-5541.0000078"
@@ -14199,7 +14130,7 @@
   month       =  feb,
   year        =  2014,
   url         = "http://dx.doi.org/10.1061/(asce)sc.1943-5576.0000191",
-  keywords    = "§New Literature;AEC",
+  keywords    = "§New Literature;AEC;Journal Articles",
   language    = "en",
   issn        = "1084-0680, 1943-5576",
   doi         = "10.1061/(asce)sc.1943-5576.0000191"
@@ -14227,7 +14158,7 @@
   month       =  jul,
   year        =  2016,
   url         = "http://dx.doi.org/10.1061/(asce)ei.1943-5541.0000268",
-  keywords    = "AEC;\_XR/MR;§New Literature",
+  keywords    = "AEC;\_XR/MR;§New Literature;Journal Articles",
   language    = "en",
   issn        = "1052-3928, 1943-5541",
   doi         = "10.1061/(asce)ei.1943-5541.0000268"
@@ -14267,7 +14198,7 @@
   month       =  sep,
   year        =  2012,
   url         = "http://dx.doi.org/10.1016/j.aap.2011.06.002",
-  keywords    = "AEC;§New Literature;Game Engine;Training",
+  keywords    = "AEC;§New Literature;Game Engine;Training;Journal Articles",
   language    = "en",
   issn        = "0001-4575, 1879-2057",
   pmid        = "22664683",
@@ -14293,7 +14224,7 @@
   month       =  apr,
   year        =  2016,
   url         = "http://dx.doi.org/10.1061/(asce)ei.1943-5541.0000261",
-  keywords    = "AEC;\_XR/MR;§New Literature",
+  keywords    = "AEC;\_XR/MR;§New Literature;Journal Articles",
   language    = "en",
   issn        = "1052-3928, 1943-5541",
   doi         = "10.1061/(asce)ei.1943-5541.0000261"
@@ -14339,7 +14270,7 @@
   month     =  mar,
   year      =  2013,
   url       = "http://dx.doi.org/10.1016/j.compedu.2012.10.024",
-  keywords  = "§New Literature;\_XR/MR;Education",
+  keywords  = "§New Literature;\_XR/MR;Education;Journal Articles",
   language  = "en",
   issn      = "0360-1315, 1873-782X",
   doi       = "10.1016/j.compedu.2012.10.024"
@@ -14381,7 +14312,7 @@
   month     =  nov,
   year      =  2013,
   url       = "http://dx.doi.org/10.1016/j.autcon.2013.03.004",
-  keywords  = "AEC;\_XR/MR;§New Literature;Training",
+  keywords  = "AEC;\_XR/MR;§New Literature;Training;Journal Articles",
   language  = "en",
   issn      = "0926-5805, 1872-7891",
   doi       = "10.1016/j.autcon.2013.03.004"
@@ -14444,7 +14375,7 @@
   month     =  aug,
   year      =  2013,
   url       = "http://dx.doi.org/10.1016/j.autcon.2012.09.012",
-  keywords  = "AEC;\_XR/MR;§New Literature",
+  keywords  = "AEC;\_XR/MR;§New Literature;Journal Articles",
   language  = "en",
   issn      = "0926-5805, 1872-7891",
   doi       = "10.1016/j.autcon.2012.09.012"
@@ -14482,7 +14413,7 @@
   month     =  sep,
   year      =  2015,
   url       = "http://dx.doi.org/10.1016/j.advengsoft.2015.04.014",
-  keywords  = "AEC;§New Literature;\_XR/MR",
+  keywords  = "AEC;§New Literature;\_XR/MR;Journal Articles",
   issn      = "0965-9978, 1873-5339",
   doi       = "10.1016/j.advengsoft.2015.04.014"
 }
@@ -14522,7 +14453,7 @@
   month     =  oct,
   year      =  2015,
   url       = "http://dx.doi.org/10.1016/j.compedu.2015.06.002",
-  keywords  = "§New Literature;\_XR/MR",
+  keywords  = "§New Literature;\_XR/MR;Journal Articles",
   language  = "en",
   issn      = "0360-1315, 1873-782X",
   doi       = "10.1016/j.compedu.2015.06.002"
@@ -14542,7 +14473,7 @@
   month     =  jun,
   year      =  2014,
   url       = "http://dx.doi.org/10.1007/s10670-013-9522-8",
-  keywords  = "Knowledge - Skill Acquisition;§New Literature",
+  keywords  = "Knowledge - Skill Acquisition;§New Literature;Journal Articles",
   language  = "en",
   issn      = "0165-0106, 1572-8420",
   doi       = "10.1007/s10670-013-9522-8"
@@ -14577,7 +14508,8 @@
   pages    = "16--45",
   month    =  jan,
   url      = "https://psycnet.apa.org/fulltext/1981-06714-001.pdf",
-  keywords = "Sensory Processing;Knowledge - Skill Acquisition;§New Literature",
+  keywords = "Sensory Processing;Knowledge - Skill Acquisition;§New
+              Literature;Journal Articles",
   issn     = "0033-295X, 1939-1471",
   doi      = "10.1037/0033-295X.88.1.16"
 }
@@ -14639,7 +14571,7 @@
   month       =  jun,
   year        =  1999,
   url         = "http://dx.doi.org/10.1017/s0140525x99002022",
-  keywords    = "Sensory Processing;§New Literature",
+  keywords    = "Sensory Processing;§New Literature;Journal Articles",
   language    = "en",
   issn        = "0140-525X",
   pmid        = "11301517",
@@ -14704,7 +14636,8 @@
                  medicine; head-mounted display; immersive media; presence
                  experience; simulation training; training effectiveness;
                  virtual emergency scenario; virtual patient simulation;
-                 virtual reality;\_XR/MR;§New Literature;Workplace Learning",
+                 virtual reality;\_XR/MR;§New Literature;Workplace
+                 Learning;Journal Articles",
   language    = "en",
   issn        = "2291-9279",
   pmid        = "32735548",
@@ -14757,7 +14690,7 @@
   keywords  = "Augmented virtuality; Active learning; User experience; System
                usability; Professional construction safety, health, and
                well-being education and training; Serious games;§New
-               Literature;AEC;\_XR/MR;Training",
+               Literature;AEC;\_XR/MR;Training;Journal Articles",
   language  = "en",
   issn      = "1474-0346, 1873-5320",
   doi       = "10.1016/j.aei.2021.101469"
@@ -14819,7 +14752,8 @@
   year      =  2021,
   url       = "https://www.frontiersin.org/articles/10.3389/fbuil.2021.635978/full",
   keywords  = "AEC;Workplace Learning;@\_Mark Up;**CATALOGED;LSU - Louisiana
-               State University;Notion Catalogued;*Upgrade Report 2023",
+               State University;Notion Catalogued;*Upgrade Report 2023;Journal
+               Articles",
   copyright = "https://creativecommons.org/licenses/by/4.0/",
   issn      = "2297-3362",
   doi       = "10.3389/fbuil.2021.635978"
@@ -14923,7 +14857,8 @@
   month     =  jul,
   year      =  2015,
   url       = "http://dx.doi.org/10.1108/jd-01-2014-0006",
-  keywords  = "§New Literature;Information and Digital Literacies",
+  keywords  = "§New Literature;Information and Digital Literacies;Journal
+               Articles",
   language  = "en",
   issn      = "0022-0418, 1758-7379",
   doi       = "10.1108/jd-01-2014-0006"
@@ -15127,7 +15062,8 @@
   url         = "http://dx.doi.org/10.1186/s12909-020-02030-7",
   keywords    = "ABCDE approach; Clinical skills; Immersive; Individual
                  self-practice; Interactive; Interactive virtual reality;
-                 Simulation; Virtual reality;\_XR/MR;§New Literature",
+                 Simulation; Virtual reality;\_XR/MR;§New Literature;Journal
+                 Articles",
   language    = "en",
   issn        = "1472-6920",
   pmid        = "32326948",
@@ -15207,7 +15143,7 @@
   year      =  2008,
   url       = "http://dx.doi.org/10.1080/10508400701793141",
   keywords  = "§New Literature;\_XR/MR;Education;Experience on Demand (Related
-               Work)",
+               Work);Journal Articles",
   language  = "en",
   issn      = "1050-8406, 1532-7809",
   doi       = "10.1080/10508400701793141"
@@ -15227,7 +15163,7 @@
   year      =  2018,
   url       = "http://dx.doi.org/10.1037/edu0000241",
   keywords  = "§New Literature;\_XR/MR;+Readwise;+Notion;Multimedia;Multimedia
-               [read]",
+               [read];Journal Articles",
   language  = "en",
   issn      = "0022-0663, 1939-2176",
   doi       = "10.1037/edu0000241"
@@ -15244,7 +15180,7 @@
   month     =  jan,
   year      =  2021,
   url       = "https://doi.org/10.1080/17508487.2020.1866050",
-  keywords  = "KID [CCME0036]",
+  keywords  = "KID [CCME0036];Journal Articles",
   issn      = "1750-8487",
   doi       = "10.1080/17508487.2020.1866050"
 }
@@ -15294,7 +15230,8 @@
                retention;physiological measurements;aviation safety;Immersive
                VR;serious games;user evaluation;knowledge
                retention;physiological measurements;aviation
-               safety;\_XR/MR;§New Literature;Knowledge - Skill Acquisition",
+               safety;\_XR/MR;§New Literature;Knowledge - Skill
+               Acquisition;Journal Articles",
   language  = "en",
   issn      = "1077-2626, 1941-0506",
   pmid      = "26357103",
@@ -15333,7 +15270,7 @@
   publisher = "NSW Department of Education",
   year      =  2018,
   url       = "https://nova.newcastle.edu.au/vital/access/manager/Repository/uon:32249",
-  keywords  = "§New Literature;\_XR/MR;+Readwise;+Notion"
+  keywords  = "§New Literature;\_XR/MR;+Readwise;+Notion;Journal Articles"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -15382,7 +15319,7 @@
   month     =  jan,
   year      =  2014,
   url       = "http://dx.doi.org/10.1016/j.compedu.2013.07.033",
-  keywords  = "\_XR/MR;Education;§New Literature",
+  keywords  = "\_XR/MR;Education;§New Literature;Journal Articles",
   language  = "en",
   issn      = "0360-1315, 1873-782X",
   doi       = "10.1016/j.compedu.2013.07.033"
@@ -15842,7 +15779,8 @@
   month    =  oct,
   year     =  1997,
   url      = "https://doi.org/10.1007/s00897970138a",
-  keywords = "Research Methods;Sensory Processing;+Readwise;§New Literature",
+  keywords = "Research Methods;Sensory Processing;+Readwise;§New
+              Literature;Journal Articles",
   issn     = "1430-4171",
   doi      = "10.1007/s00897970138a"
 }
@@ -15874,7 +15812,8 @@
   number   =  2,
   year     =  2000,
   url      = "http://www.edgj.org/index.php/EDGJ/article/view/145",
-  keywords = "+Readwise;Research Methods;Sensory Processing;§New Literature",
+  keywords = "+Readwise;Research Methods;Sensory Processing;§New
+              Literature;Journal Articles",
   language = "en",
   issn     = "0046-2012, 1949-9167"
 }
@@ -15893,7 +15832,7 @@
   year      =  2014,
   url       = "http://scholar.lib.vt.edu/ejournals/JTE/v26n1/katsioloudis.html",
   keywords  = "+Notion;+Readwise;Research Methods;Sensory Processing;§New
-               Literature",
+               Literature;Journal Articles",
   issn      = "1045-1064, 2331-4702",
   doi       = "10.21061/jte.v26i1.a.6"
 }
@@ -15965,7 +15904,8 @@
   year      =  2000,
   url       = "https://onlinelibrary.wiley.com/doi/10.1002/j.2168-9830.2000.tb00529.x",
   keywords  = "Research Methods;Sensory Processing;@\_Mark
-               Up;**CATALOGED;Notion Catalogued;Reviewed on Theory",
+               Up;**CATALOGED;Notion Catalogued;Reviewed on Theory;Journal
+               Articles",
   language  = "en",
   issn      = "1069-4730, 2168-9830",
   doi       = "10.1002/j.2168-9830.2000.tb00529.x"
@@ -16034,7 +15974,8 @@
   year     =  2022,
   url      = "https://doi.org/10.1007/s10055-021-00509-2",
   keywords = "Research Methods;Sensory Processing;\_XR/MR;@\_Mark
-              Up;**CATALOGED;Notion Catalogued;Reviewed on Theory",
+              Up;**CATALOGED;Notion Catalogued;Reviewed on Theory;Journal
+              Articles",
   issn     = "1359-4338, 1434-9957",
   doi      = "10.1007/s10055-021-00509-2"
 }
@@ -16096,7 +16037,7 @@
   month     =  aug,
   year      =  2019,
   url       = "http://dx.doi.org/10.12700/aph.16.6.2019.6.4",
-  keywords  = "\_XR/MR;§New Literature;+Readwise;+Notion",
+  keywords  = "\_XR/MR;§New Literature;+Readwise;+Notion;Journal Articles",
   issn      = "1785-8860, 2064-2687",
   doi       = "10.12700/aph.16.6.2019.6.4"
 }
@@ -16156,7 +16097,8 @@
   month       =  mar,
   year        =  2013,
   url         = "http://dx.doi.org/10.1145/2442106.2442109",
-  keywords    = "Research Methods;§New Literature;+Readwise;+Notion;\_XR/MR",
+  keywords    = "Research Methods;§New
+                 Literature;+Readwise;+Notion;\_XR/MR;Journal Articles",
   language    = "en",
   issn        = "1073-0516, 1557-7325",
   doi         = "10.1145/2442106.2442109"
@@ -16540,7 +16482,8 @@
   month     =  aug,
   year      =  2005,
   url       = "https://doi.org/10.3102/0013189X034006003",
-  keywords  = "Digital Literacies;@\_Mark Up;Information and Digital Literacies",
+  keywords  = "Digital Literacies;@\_Mark Up;Information and Digital
+               Literacies;Journal Articles",
   issn      = "0013-189X",
   doi       = "10.3102/0013189X034006003"
 }
@@ -16565,7 +16508,8 @@
   pages    = "13",
   year     =  2009,
   url      = "https://scholarworks.umass.edu/pare/vol14/iss1/13/",
-  keywords = "Digital Literacies;Information and Digital Literacies",
+  keywords = "Digital Literacies;Information and Digital Literacies;Journal
+              Articles",
   issn     = "1531-7714",
   doi      = "10.7275/b0az-8t74"
 }
@@ -18257,7 +18201,8 @@
   month    =  aug,
   year     =  2014,
   url      = "http://dx.doi.org/10.1177/0306312714535679",
-  keywords = "Course Assignment;Information and Digital Literacies",
+  keywords = "Course Assignment;Information and Digital Literacies;Journal
+              Articles",
   language = "en",
   issn     = "0306-3127",
   pmid     = "25272616",
@@ -18312,33 +18257,11 @@
   url         = "http://dx.doi.org/10.1177/0018720820904229",
   keywords    = "immersive environments; meta-analysis; transfer of training;
                  virtual environments;\_XR/MR;§New Literature;Research
-                 Methods;Multimedia [read]",
+                 Methods;Multimedia [read];Journal Articles",
   language    = "en",
   issn        = "0018-7208, 1547-8181",
   pmid        = "32091937",
   doi         = "10.1177/0018720820904229"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@ARTICLE{Tang2020-gl,
-  title     = "Evaluating the effectiveness of learning design with mixed
-               reality ({MR}) in higher education",
-  author    = "Tang, Y M and Au, K M and Lau, H C W and Ho, G T S and Wu, C H",
-  journal   = "Virtual reality",
-  publisher = "Springer Science and Business Media LLC",
-  volume    =  24,
-  number    =  4,
-  pages     = "797--807",
-  month     =  dec,
-  year      =  2020,
-  url       = "http://dx.doi.org/10.1007/s10055-020-00427-9",
-  keywords  = "\_XR/MR;§New Literature;Multimedia;Research
-               Methods;ACM;Multimedia [read];ACM\_Association for Computing
-               Machinery",
-  language  = "en",
-  issn      = "1359-4338, 1434-9957",
-  doi       = "10.1007/s10055-020-00427-9"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -18357,7 +18280,7 @@
   url       = "http://dx.doi.org/10.1007/s10055-020-00434-w",
   keywords  = "\_XR/MR;§New Literature;Research
                Methods;Multimedia;ACM;Multimedia [read];ACM\_Association for
-               Computing Machinery",
+               Computing Machinery;Journal Articles",
   language  = "en",
   issn      = "1359-4338, 1434-9957",
   doi       = "10.1007/s10055-020-00434-w"
@@ -18397,7 +18320,8 @@
   year      =  2020,
   url       = "https://www.sciencedirect.com/science/article/pii/S2096579620300711",
   keywords  = "Virtual reality; Multimodality; Training; Teaching and learning;
-               Semiotic resources;\_XR/MR;Research Methods;Multimedia [read]",
+               Semiotic resources;\_XR/MR;Research Methods;Multimedia
+               [read];Journal Articles",
   copyright = "http://creativecommons.org/licenses/by-nc-nd/4.0/",
   language  = "en",
   issn      = "2096-5796",
@@ -18441,7 +18365,7 @@
   month       =  jul,
   year        =  2022,
   url         = "http://dx.doi.org/10.1177/07410883221083517",
-  keywords    = "\_XR/MR;Research Methods;Multimedia [read]",
+  keywords    = "\_XR/MR;Research Methods;Multimedia [read];Journal Articles",
   language    = "en",
   issn        = "0741-0883, 1552-8472",
   doi         = "10.1177/07410883221083517"
@@ -18481,7 +18405,8 @@
   month     =  mar,
   year      =  2010,
   url       = "http://dx.doi.org/10.1111/j.1365-2729.2010.00352.x",
-  keywords  = "\_XR/MR;Research Methods;§New Literature;Multimedia [read]",
+  keywords  = "\_XR/MR;Research Methods;§New Literature;Multimedia
+               [read];Journal Articles",
   language  = "en",
   issn      = "0266-4909, 1365-2729",
   doi       = "10.1111/j.1365-2729.2010.00352.x"
@@ -18508,7 +18433,7 @@
   month     =  sep,
   year      =  2007,
   url       = "https://doi.org/10.1007/s10648-007-9047-2",
-  keywords  = "Multimedia;§New Literature;Multimedia [read]",
+  keywords  = "Multimedia;§New Literature;Multimedia [read];Journal Articles",
   language  = "en",
   issn      = "1040-726X",
   doi       = "10.1007/s10648-007-9047-2"
@@ -18557,7 +18482,7 @@
   year     =  2020,
   url      = "https://doi.org/10.1007/s10055-020-00430-0",
   keywords = "\_XR/MR;Sensory Processing;§New Literature;ACM;ACM\_Association
-              for Computing Machinery",
+              for Computing Machinery;Journal Articles",
   issn     = "1359-4338, 1434-9957",
   doi      = "10.1007/s10055-020-00430-0"
 }
@@ -18680,7 +18605,8 @@
   year      =  2021,
   url       = "https://www.frontiersin.org/articles/10.3389/fbuil.2021.678366/full",
   keywords  = "AEC;Workplace Learning;@\_Mark Up;**CATALOGED;LSU - Louisiana
-               State University;Notion Catalogued;*Upgrade Report 2023",
+               State University;Notion Catalogued;*Upgrade Report 2023;Journal
+               Articles",
   copyright = "https://creativecommons.org/licenses/by/4.0/",
   issn      = "2297-3362",
   doi       = "10.3389/fbuil.2021.678366"
@@ -18722,7 +18648,8 @@
   month     =  jan,
   year      =  2013,
   url       = "https://doi.org/10.1080/15213269.2012.755877",
-  keywords  = "Accessibility;\_XR/MR;Experience on Demand (Related Work)",
+  keywords  = "Accessibility;\_XR/MR;Experience on Demand (Related
+               Work);Journal Articles",
   issn      = "1521-3269",
   doi       = "10.1080/15213269.2012.755877"
 }
@@ -18801,7 +18728,7 @@
   year      =  2010,
   url       = "http://dx.doi.org/10.1080/01416200.2010.498612",
   keywords  = "Course Assignment;Information and Digital Literacies;Grounded
-               Theory",
+               Theory;Journal Articles",
   language  = "en",
   issn      = "0141-6200, 1740-7931",
   doi       = "10.1080/01416200.2010.498612"
@@ -18849,7 +18776,7 @@
   year        =  2013,
   url         = "http://dx.doi.org/10.3109/0142159X.2012.748887",
   keywords    = "Course Assignment;+Notion;+Readwise;Information and Digital
-                 Literacies",
+                 Literacies;Journal Articles",
   language    = "en",
   issn        = "0142-159X, 1466-187X",
   pmid        = "23259609",
@@ -18886,66 +18813,28 @@
   month     =  sep,
   year      =  2017,
   url       = "http://dx.doi.org/10.5430/ijhe.v6n5p26",
-  keywords  = "Research Methods;§New Literature",
+  keywords  = "Research Methods;§New Literature;Journal Articles",
   issn      = "1927-6044, 1927-6052",
   doi       = "10.5430/ijhe.v6n5p26"
 }
 
-@ARTICLE{Detsimas2016-jx,
-  title     = "Workplace training and generic and technical skill development
-               in the Australian construction industry",
-  author    = "Detsimas, Nicole and Coffey, Vaughan and Sadiqi, Zabihullah and
-               Li, Mei",
-  abstract  = "Purpose -- The purpose of this paper is to investigate the
-               current skills gap in both generic and skill areas within the
-               construction industry in Queensland, Australia.
-               Design/methodology/approach -- An internet-based survey was
-               administered to collect the opinions of construction employees
-               about the workplace-training environment and their perceptions
-               towards training. The survey intended to address the following
-               research questions, specifically in relation to the construction
-               industry. Findings -- The survey results reveal that whilst
-               overall participation in workplace training is high, the current
-               workplace training environments do not foster balanced skill
-               development. The study reveals that in the current absence of a
-               formal and well-balanced training mechanism, construction
-               workers generally resort to their own informal self-development
-               initiatives to develop the needed role-specific theoretical
-               knowledge. Research limitations/implications -- The findings of
-               the research are based on the data primarily collected in the
-               construction industry in Queensland, Australia. The data are
-               limited to a single Tier 2 construction company. Practical
-               implications -- The findings of this study can be utilised to
-               suggest improvements in the current (or develop new) workplace
-               training initiatives. Social implications -- The research
-               suggests that workplace training has positive relationship with
-               career growth. The results suggest that in the construction
-               industry, employees are generally well aware of the importance
-               of workplace training in their career development and they
-               largely appreciate training as being a critical factor for
-               developing their capacity to perform their roles successfully,
-               and to maintain their employability. Originality/value -- This
-               paper is unique as it investigates the current skills gap in
-               both generic and skill areas within the construction industry in
-               Queensland, Australia. So far no work has been undertaken to
-               identify and discusses the main method of workplace learning
-               within the Tier 2 industry in the context of Queensland
-               Australia.",
-  journal   = "Journal of management development",
-  publisher = "Emerald",
-  volume    =  35,
-  number    =  4,
-  pages     = "486--504",
-  month     =  may,
-  year      =  2016,
-  url       = "http://dx.doi.org/10.1108/jmd-05-2015-0073",
-  keywords  = "AEC;Research Methods;Workplace Learning;@\_Mark Up;Knowledge -
-               Skill Acquisition;Training;Skill demand;Labor;**CATALOGED;LSU
-               Supporting Works;Notion Catalogued;Reviewed on Theory;*Upgrade
-               Report 2023",
-  language  = "en",
-  issn      = "0262-1711, 1758-7492",
-  doi       = "10.1108/jmd-05-2015-0073"
+@ARTICLE{Friedland2011-jo,
+  title     = "Reflexive design thinking: putting more human in human-centered
+               practices",
+  author    = "Friedland, Barton and Yamauchi, Yutaka",
+  journal   = "Interactions",
+  publisher = "Association for Computing Machinery",
+  volume    =  18,
+  number    =  2,
+  pages     = "66--71",
+  month     =  mar,
+  year      =  2011,
+  url       = "https://doi.org/10.1145/1925820.1925835",
+  address   = "New York, NY, USA",
+  keywords  = "ACM;HCI;Research Methods;ACM\_Association for Computing
+               Machinery;Journal Articles",
+  issn      = "1072-5520",
+  doi       = "10.1145/1925820.1925835"
 }
 
 @ARTICLE{Goulding2012-op,
@@ -19009,7 +18898,7 @@
   url       = "http://dx.doi.org/10.1016/j.aei.2011.09.004",
   keywords  = "\_XR/MR;AEC;Knowledge - Skill Acquisition;Workplace
                Learning;@\_Mark Up;**CATALOGED;LSU Supporting Works;Notion
-               Catalogued;*Upgrade Report 2023",
+               Catalogued;*Upgrade Report 2023;Journal Articles",
   language  = "en",
   issn      = "1474-0346, 1873-5320",
   doi       = "10.1016/j.aei.2011.09.004"
@@ -19035,7 +18924,8 @@
   month       =  oct,
   year        =  2003,
   url         = "http://dx.doi.org/10.1145/950566.950596",
-  keywords    = "\_XR/MR;Game Engine;Education;LSU Supporting Works",
+  keywords    = "\_XR/MR;Game Engine;Education;LSU Supporting Works;Journal
+                 Articles",
   language    = "en",
   issn        = "1544-3574, 1544-3981",
   doi         = "10.1145/950566.950596"
@@ -19139,7 +19029,7 @@
   year      =  2020,
   url       = "http://dx.doi.org/10.1016/j.autcon.2020.103272",
   keywords  = "\_XR/MR;AEC;§New Literature;Workplace Learning;LSU Supporting
-               Works",
+               Works;Journal Articles",
   language  = "en",
   issn      = "0926-5805, 1872-7891",
   doi       = "10.1016/j.autcon.2020.103272"
@@ -19288,7 +19178,7 @@
   month     =  jan,
   year      =  2009,
   url       = "https://doi.org/10.3763/aedm.2008.0094",
-  keywords  = "AEC;Workplace Learning;§New Literature",
+  keywords  = "AEC;Workplace Learning;§New Literature;Journal Articles",
   issn      = "1745-2007",
   doi       = "10.3763/aedm.2008.0094"
 }
@@ -19472,7 +19362,7 @@
   year        =  2008,
   url         = "https://ascelibrary.org/doi/abs/10.1061/(ASCE)0733-9364(2008)134:10(795)",
   keywords    = "AEC;Workplace Learning;@\_Mark Up;**CATALOGED;Notion
-                 Catalogued;*Upgrade Report 2023",
+                 Catalogued;*Upgrade Report 2023;Journal Articles",
   language    = "en",
   issn        = "0733-9364, 1943-7862",
   doi         = "10.1061/(asce)0733-9364(2008)134:10(795)"
@@ -19508,7 +19398,7 @@
   month     =  feb,
   year      =  2006,
   url       = "http://dx.doi.org/10.1080/09585190500405538",
-  keywords  = "AEC;§New Literature;Workplace Learning",
+  keywords  = "AEC;§New Literature;Workplace Learning;Journal Articles",
   issn      = "0958-5192, 1466-4399",
   doi       = "10.1080/09585190500405538"
 }
@@ -19654,25 +19544,6 @@
                      Construction",
   location        = "Banff, AB, Canada",
   doi             = "10.22260/isarc2019/0129"
-}
-
-@ARTICLE{Friedland2011-jo,
-  title     = "Reflexive design thinking: putting more human in human-centered
-               practices",
-  author    = "Friedland, Barton and Yamauchi, Yutaka",
-  journal   = "Interactions",
-  publisher = "Association for Computing Machinery",
-  volume    =  18,
-  number    =  2,
-  pages     = "66--71",
-  month     =  mar,
-  year      =  2011,
-  url       = "https://doi.org/10.1145/1925820.1925835",
-  address   = "New York, NY, USA",
-  keywords  = "ACM;HCI;Research Methods;ACM\_Association for Computing
-               Machinery",
-  issn      = "1072-5520",
-  doi       = "10.1145/1925820.1925835"
 }
 
 @INPROCEEDINGS{Rode2011-iu,
@@ -19978,7 +19849,8 @@
   url      = "https://www.sciencedirect.com/science/article/pii/S0360131506001242",
   keywords = "Professional virtual community; Grounded theory; Knowledge
               sharing and creation; Knowledge flows;Knowledge - Skill
-              Acquisition;Research Methods;Education;Grounded Theory",
+              Acquisition;Research Methods;Education;Grounded Theory;Journal
+              Articles",
   issn     = "0360-1315",
   doi      = "10.1016/j.compedu.2006.07.009"
 }
@@ -20013,7 +19885,8 @@
   url      = "https://www.sciencedirect.com/science/article/pii/S0360131510002320",
   keywords = "Adult learning; Applications in subject areas; Improving
               classroom teaching; Post-secondary education; Teaching/learning
-              strategies;Knowledge - Skill Acquisition;Education",
+              strategies;Knowledge - Skill Acquisition;Education;Journal
+              Articles",
   issn     = "0360-1315",
   doi      = "10.1016/j.compedu.2010.08.011"
 }
@@ -20042,7 +19915,7 @@
   pages     = "14--37",
   year      =  1994,
   url       = "http://www.jstor.org/stable/2635068",
-  keywords  = "Knowledge - Skill Acquisition",
+  keywords  = "Knowledge - Skill Acquisition;Journal Articles",
   issn      = "1526-5455"
 }
 
@@ -20216,7 +20089,7 @@
   month       =  aug,
   year        =  2012,
   url         = "http://dx.doi.org/10.1016/j.evalprogplan.2011.11.006",
-  keywords    = "AEC;LSU Supporting Works",
+  keywords    = "AEC;LSU Supporting Works;Journal Articles",
   language    = "en",
   issn        = "0149-7189, 1873-7870",
   pmid        = "22410166",
@@ -20241,7 +20114,7 @@
   year     =  1984,
   url      = "https://www.sciencedirect.com/science/article/pii/0263786384900395",
   keywords = "education; construction; training; Australia;AEC;LSU Supporting
-              Works",
+              Works;Journal Articles",
   issn     = "0263-7863",
   doi      = "10.1016/0263-7863(84)90039-5"
 }
@@ -20284,7 +20157,7 @@
   year        =  2008,
   url         = "http://dx.doi.org/10.1073/pnas.0803424105",
   keywords    = "Knowledge - Skill Acquisition;Sensory Processing;Experience on
-                 Demand (Related Work)",
+                 Demand (Related Work);Journal Articles",
   language    = "en",
   issn        = "0027-8424, 1091-6490",
   pmid        = "18765806",
@@ -20334,7 +20207,8 @@
   month     =  jul,
   year      =  2022,
   url       = "https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-022-00343-9",
-  keywords  = "\_XR/MR;AEC;Education;Essential;§New Literature;00\_TO READ",
+  keywords  = "\_XR/MR;AEC;Education;Essential;§New Literature;00\_TO
+               READ;Journal Articles",
   copyright = "https://creativecommons.org/licenses/by/4.0",
   language  = "en",
   issn      = "2365-9440",
@@ -20375,7 +20249,7 @@
   month       =  aug,
   year        =  2022,
   url         = "https://www.sciencedirect.com/science/article/pii/S2352578922001047",
-  keywords    = "§New Literature;Essential;Read;00\_TO READ",
+  keywords    = "§New Literature;Essential;Read;00\_TO READ;Journal Articles",
   copyright   = "http://creativecommons.org/licenses/by-nc-nd/4.0/",
   language    = "en",
   issn        = "2352-5789",
@@ -20491,7 +20365,7 @@
               Federation of Teachers",
   year     =  1991,
   url      = "https://www.semanticscholar.org/paper/1b99ff8dbb7b100b36cdab2e13507691d0c6f4dd",
-  keywords = "Research Methods;§New Literature",
+  keywords = "Research Methods;§New Literature;Journal Articles",
   language = "en"
 }
 
@@ -20510,7 +20384,7 @@
   month       =  apr,
   year        =  2012,
   url         = "http://dx.doi.org/10.1097/ACM.0b013e31824fbc8a",
-  keywords    = "Research Methods",
+  keywords    = "Research Methods;Journal Articles",
   language    = "en",
   issn        = "1040-2446, 1938-808X",
   pmid        = "22452919",
@@ -20550,7 +20424,7 @@
   year        =  2020,
   url         = "http://dx.doi.org/10.1007/s40670-019-00898-9",
   keywords    = "Medical education; Methodology; Paradigm; Research
-                 approach;Research Methods",
+                 approach;Research Methods;Journal Articles",
   language    = "en",
   issn        = "2156-8650",
   pmid        = "34457699",
@@ -20653,7 +20527,7 @@
   journal  = "Bloomberg",
   year     =  2017,
   url      = "https://www.bloomberg.com/graphics/2017-job-risk/",
-  keywords = "Automation;Website;*Upgrade Report 2023"
+  keywords = "Automation;Website;*Upgrade Report 2023;Journal Articles"
 }
 
 @ARTICLE{BBC_News2015-wl,
@@ -20729,7 +20603,8 @@
   year        =  2022,
   url         = "http://dx.doi.org/10.1007/s10798-021-09722-1",
   keywords    = "Card-based resource; Design education; Design-based research;
-                 Digitally mediate touch; Technology; Touch;§New Literature;UCL",
+                 Digitally mediate touch; Technology; Touch;§New
+                 Literature;UCL;Journal Articles",
   language    = "en",
   issn        = "1573-1804, 0957-7572",
   pmid        = "35463804",
@@ -20870,7 +20745,8 @@
   month     =  jul,
   year      =  2006,
   url       = "https://doi.org/10.1162/desi.2006.22.3.4",
-  keywords  = "Course Assignment;Week 1\_ Design and technology",
+  keywords  = "Course Assignment;Week 1\_ Design and technology;Journal
+               Articles",
   language  = "en",
   issn      = "0747-9360, 1531-4790",
   doi       = "10.1162/desi.2006.22.3.4"
@@ -20908,7 +20784,7 @@
   year     =  2021,
   url      = "https://www.sciencedirect.com/science/article/pii/S2405872621000010",
   keywords = "Interaction design; Ideals;Course Assignment;Week 1\_ Design and
-              technology",
+              technology;Journal Articles",
   issn     = "2405-8726",
   doi      = "10.1016/j.sheji.2020.12.001"
 }
@@ -21048,7 +20924,8 @@
   year      =  2019,
   url       = "http://dx.doi.org/10.14455/isec.res.2019.184",
   keywords  = "AEC;@\_Mark Up;+Readwise;**CATALOGED;Construction 4.0;Notion
-               Catalogued;UCL Poster Q1 2023;*Upgrade Report 2023",
+               Catalogued;UCL Poster Q1 2023;*Upgrade Report 2023;Journal
+               Articles",
   language  = "en",
   issn      = "2644-108X",
   doi       = "10.14455/isec.res.2019.184"
@@ -21070,7 +20947,8 @@
   month    =  aug,
   year     =  2019,
   url      = "https://www.ijsr.net/get_abstract.php?paper_id=ART2020213",
-  keywords = "§New Literature;AEC;Construction 4.0;*Upgrade Report 2023",
+  keywords = "§New Literature;AEC;Construction 4.0;*Upgrade Report 2023;Journal
+              Articles",
   language = "en",
   issn     = "2319-7064"
 }
@@ -21119,7 +20997,8 @@
   month     =  jan,
   year      =  2021,
   url       = "http://dx.doi.org/10.3390/buildings11010017",
-  keywords  = "§New Literature;AEC;Construction 4.0;*Upgrade Report 2023",
+  keywords  = "§New Literature;AEC;Construction 4.0;*Upgrade Report
+               2023;Journal Articles",
   copyright = "https://creativecommons.org/licenses/by/4.0/",
   language  = "en",
   issn      = "2075-5309",
@@ -21163,7 +21042,7 @@
   year      =  2020,
   url       = "http://dx.doi.org/10.31580/jei.v7i2.1438",
   keywords  = "§New Literature;AEC;Construction 4.0;*Upgrade Report
-               2023;Grounded Theory",
+               2023;Grounded Theory;Journal Articles",
   issn      = "2313-335X, 2708-8448",
   doi       = "10.31580/jei.v7i2.1438"
 }
@@ -21240,7 +21119,7 @@
               Content analysis; PESTEL framework; Research agenda; Construction
               industry;AEC;Automation;Important;@\_Mark
               Up;Essential;**CATALOGED;++ClickUp;Construction 4.0;Notion
-              Catalogued;*Upgrade Report 2023;00\_TO READ",
+              Catalogued;*Upgrade Report 2023;00\_TO READ;Journal Articles",
   issn     = "0166-3615",
   doi      = "10.1016/j.compind.2016.09.006"
 }
@@ -21261,7 +21140,7 @@
   month     =  jan,
   year      =  2010,
   url       = "http://dx.doi.org/10.1111/j.1467-8535.2009.01036.x",
-  keywords  = "\_XR/MR;§New Literature",
+  keywords  = "\_XR/MR;§New Literature;Journal Articles",
   copyright = "http://onlinelibrary.wiley.com/termsAndConditions\#vor",
   language  = "en",
   issn      = "0007-1013, 1467-8535",
@@ -21312,7 +21191,7 @@
   year      =  2018,
   url       = "https://doi.org/10.1080/17452007.2017.1314858",
   keywords  = "+Notion;+Readwise;AEC;Important;§New Literature;Construction
-               4.0;*Upgrade Report 2023;00\_TO READ",
+               4.0;*Upgrade Report 2023;00\_TO READ;Journal Articles",
   issn      = "1745-2007",
   doi       = "10.1080/17452007.2017.1314858"
 }
@@ -21364,7 +21243,7 @@
   year      =  2012,
   url       = "http://dx.doi.org/10.1108/14714171211197481",
   keywords  = "+Notion;+Readwise;§New Literature;AEC;Construction 4.0;XR
-               Reviewed;*Upgrade Report 2023",
+               Reviewed;*Upgrade Report 2023;Journal Articles",
   language  = "en",
   issn      = "1471-4175, 1477-0857",
   doi       = "10.1108/14714171211197481"
@@ -21385,7 +21264,7 @@
   year      =  2009,
   url       = "http://dx.doi.org/10.1111/j.1365-2575.2009.00328.x",
   keywords  = "+Notion;+Readwise;§New Literature;Research Methods;Theory and
-               Methods;Grounded Theory",
+               Methods;Grounded Theory;Journal Articles",
   language  = "en",
   issn      = "1350-1917, 1365-2575",
   doi       = "10.1111/j.1365-2575.2009.00328.x"
@@ -21430,7 +21309,8 @@
   year      =  2019,
   url       = "https://www.ivvd.nl/wp-content/uploads/2019/12/Modular-construction-from-projects-to-products-full-report-NEW.pdf",
   keywords  = "AEC;@\_Mark Up;**CATALOGED;++ClickUp;Construction 4.0;Notion
-               Catalogued;UCL Poster Q1 2023;*Upgrade Report 2023;00\_TO READ"
+               Catalogued;UCL Poster Q1 2023;*Upgrade Report 2023;00\_TO
+               READ;Journal Articles"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -21474,7 +21354,7 @@
   url      = "https://www.sciencedirect.com/science/article/pii/S2212567115001719",
   keywords = "refurbishment; tacit knowledge; social motivations; knowledge
               management system; platforms;+Notion;+Readwise;AEC;§New
-              Literature;Construction 4.0;*Upgrade Report 2023",
+              Literature;Construction 4.0;*Upgrade Report 2023;Journal Articles",
   issn     = "2212-5671",
   doi      = "10.1016/S2212-5671(15)00171-9"
 }
@@ -21549,7 +21429,7 @@
   url       = "http://dx.doi.org/10.3390/ijerph15061204",
   keywords  = "\_XR/MR;Training;Read;@\_Mark
                Up;+Notion;+Readwise;AEC;**CATALOGED;XR Reviewed;VR Ref via Ceja
-               \& Price;Notion Catalogued",
+               \& Price;Notion Catalogued;Journal Articles",
   issn      = "1661-7827, 1660-4601",
   doi       = "10.3390/ijerph15061204"
 }
@@ -21623,7 +21503,7 @@
   year      =  2021,
   url       = "https://www.mdpi.com/2071-1050/13/5/2683",
   keywords  = "+Notion;+Readwise;AEC;§New Literature;Construction 4.0;*Upgrade
-               Report 2023",
+               Report 2023;Journal Articles",
   language  = "en",
   issn      = "1548-7733",
   doi       = "10.3390/su13052683"
@@ -21661,7 +21541,7 @@
   year        =  2018,
   url         = "http://dx.doi.org/10.1515/humaff-2018-0025",
   keywords    = "§New Literature;+Readwise;+Notion;Research Methods;Theory and
-                 Methods;Grounded Theory",
+                 Methods;Grounded Theory;Journal Articles",
   language    = "en",
   issn        = "1210-3055, 1337-401X",
   doi         = "10.1515/humaff-2018-0025"
@@ -21708,7 +21588,7 @@
   year      =  2013,
   url       = "https://doi.org/10.1080/01446193.2013.828846",
   keywords  = "+Notion;+Readwise;AEC;§New Literature;++ClickUp;Construction
-               4.0;*Upgrade Report 2023;00\_TO READ",
+               4.0;*Upgrade Report 2023;00\_TO READ;Journal Articles",
   issn      = "0144-6193",
   doi       = "10.1080/01446193.2013.828846"
 }
@@ -21727,7 +21607,7 @@
   year      =  2016,
   url       = "http://dx.doi.org/10.2200/s00706ed1v01y201602hci034",
   keywords  = "+Notion;+Readwise;§New Literature;Research Methods;Theory and
-               Methods",
+               Methods;Journal Articles",
   language  = "en",
   issn      = "1946-7680, 1946-7699",
   doi       = "10.2200/s00706ed1v01y201602hci034"
@@ -21892,7 +21772,7 @@
   year      =  1996,
   url       = "https://doi.org/10.1207/s15327884mca0303_2",
   keywords  = "Research Methods;§New Literature;+Notion;+Readwise;Workplace
-               Learning;Theory and Methods",
+               Learning;Theory and Methods;Journal Articles",
   issn      = "1074-9039",
   doi       = "10.1207/s15327884mca0303\_2"
 }
@@ -21940,7 +21820,7 @@
   year        =  2006,
   url         = "http://dx.doi.org/10.1111/j.1365-2929.2005.02371.x",
   keywords    = "+Notion;+Readwise;Research Methods;Workplace Learning;§New
-                 Literature;Theory and Methods",
+                 Literature;Theory and Methods;Journal Articles",
   language    = "en",
   issn        = "0308-0110",
   pmid        = "16451243",
@@ -21981,7 +21861,8 @@
   keywords    = "Pedagogical innovation; cultural-historical Activity Theory;
                  curriculum design; patient-centredness; possibility
                  knowledge;+Notion;+Readwise;Research Methods;Workplace
-                 Learning;§New Literature;Theory and Methods;Grounded Theory",
+                 Learning;§New Literature;Theory and Methods;Grounded
+                 Theory;Journal Articles",
   language    = "en",
   issn        = "0142-159X, 1466-187X",
   pmid        = "32715823",
@@ -22062,7 +21943,7 @@
   keywords = "Cement and concrete; Historic development; Mechanical response;
               Structural failures; Failure case
               studies;AEC;+Notion;+Readwise;§New Literature;Construction
-              4.0;*Upgrade Report 2023",
+              4.0;*Upgrade Report 2023;Journal Articles",
   issn     = "1350-6307",
   doi      = "10.1016/j.engfailanal.2014.02.004"
 }
@@ -22153,7 +22034,8 @@
   year      =  2019,
   url       = "https://iopscience.iop.org/article/10.1088/1742-6596/1378/2/022057/meta",
   keywords  = "+Notion;+Readwise;AEC;Research Methods;§New
-               Literature;Construction 4.0;Human Capital;*Upgrade Report 2023",
+               Literature;Construction 4.0;Human Capital;*Upgrade Report
+               2023;Journal Articles",
   language  = "en",
   issn      = "1742-6588, 1742-6596",
   doi       = "10.1088/1742-6596/1378/2/022057"
@@ -22174,7 +22056,7 @@
   year      =  2018,
   url       = "https://books.google.co.uk/books?hl=en&lr=&id=2WaQDwAAQBAJ&oi=fnd&pg=PA41&dq=human+capital+theory+%2B+industry+4.0&ots=2pu1EczfIt&sig=TG-X9P_qKpxg9NPGNrGDv87dnSQ",
   keywords  = "+Notion;+Readwise;AEC;Research Methods;§New
-               Literature;Construction 4.0;Human Capital"
+               Literature;Construction 4.0;Human Capital;Journal Articles"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -22217,7 +22099,8 @@
   year     =  2021,
   url      = "https://doi.org/10.1007/s11831-020-09455-9",
   keywords = "+Notion;+Readwise;AEC;Research Methods;§New
-              Literature;Important;Construction 4.0;00\_TO READ",
+              Literature;Important;Construction 4.0;00\_TO READ;Journal
+              Articles",
   issn     = "1134-3060, 1886-1784",
   doi      = "10.1007/s11831-020-09455-9"
 }
@@ -25322,6 +25205,28 @@
   doi      = "10.1191/1478088706qp063oa"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Tang2020-gl,
+  title     = "Evaluating the effectiveness of learning design with mixed
+               reality ({MR}) in higher education",
+  author    = "Tang, Y M and Au, K M and Lau, H C W and Ho, G T S and Wu, C H",
+  journal   = "Virtual reality",
+  publisher = "Springer Science and Business Media LLC",
+  volume    =  24,
+  number    =  4,
+  pages     = "797--807",
+  month     =  dec,
+  year      =  2020,
+  url       = "http://dx.doi.org/10.1007/s10055-020-00427-9",
+  keywords  = "\_XR/MR;§New Literature;Multimedia;Research
+               Methods;ACM;Multimedia [read];ACM\_Association for Computing
+               Machinery;Journal Articles",
+  language  = "en",
+  issn      = "1359-4338, 1434-9957",
+  doi       = "10.1007/s10055-020-00427-9"
+}
+
 @ARTICLE{Gyuris2018-fq,
   title    = "Evaluating the effectiveness of postgraduate research skills
               training and its alignment with the Research Skill Development
@@ -27179,4 +27084,153 @@
   issn        = "0007-0998",
   pmid        = "22583094",
   doi         = "10.1111/j.2044-8279.2011.02028.x"
+}
+
+@ARTICLE{Detsimas2016-jx,
+  title     = "Workplace training and generic and technical skill development
+               in the Australian construction industry",
+  author    = "Detsimas, Nicole and Coffey, Vaughan and Sadiqi, Zabihullah and
+               Li, Mei",
+  abstract  = "Purpose -- The purpose of this paper is to investigate the
+               current skills gap in both generic and skill areas within the
+               construction industry in Queensland, Australia.
+               Design/methodology/approach -- An internet-based survey was
+               administered to collect the opinions of construction employees
+               about the workplace-training environment and their perceptions
+               towards training. The survey intended to address the following
+               research questions, specifically in relation to the construction
+               industry. Findings -- The survey results reveal that whilst
+               overall participation in workplace training is high, the current
+               workplace training environments do not foster balanced skill
+               development. The study reveals that in the current absence of a
+               formal and well-balanced training mechanism, construction
+               workers generally resort to their own informal self-development
+               initiatives to develop the needed role-specific theoretical
+               knowledge. Research limitations/implications -- The findings of
+               the research are based on the data primarily collected in the
+               construction industry in Queensland, Australia. The data are
+               limited to a single Tier 2 construction company. Practical
+               implications -- The findings of this study can be utilised to
+               suggest improvements in the current (or develop new) workplace
+               training initiatives. Social implications -- The research
+               suggests that workplace training has positive relationship with
+               career growth. The results suggest that in the construction
+               industry, employees are generally well aware of the importance
+               of workplace training in their career development and they
+               largely appreciate training as being a critical factor for
+               developing their capacity to perform their roles successfully,
+               and to maintain their employability. Originality/value -- This
+               paper is unique as it investigates the current skills gap in
+               both generic and skill areas within the construction industry in
+               Queensland, Australia. So far no work has been undertaken to
+               identify and discusses the main method of workplace learning
+               within the Tier 2 industry in the context of Queensland
+               Australia.",
+  journal   = "Journal of management development",
+  publisher = "Emerald",
+  volume    =  35,
+  number    =  4,
+  pages     = "486--504",
+  month     =  may,
+  year      =  2016,
+  url       = "http://dx.doi.org/10.1108/jmd-05-2015-0073",
+  keywords  = "AEC;Research Methods;Workplace Learning;@\_Mark Up;Knowledge -
+               Skill Acquisition;Training;Skill demand;Labor;**CATALOGED;LSU
+               Supporting Works;Notion Catalogued;Reviewed on Theory;*Upgrade
+               Report 2023;Journal Articles",
+  language  = "en",
+  issn      = "0262-1711, 1758-7492",
+  doi       = "10.1108/jmd-05-2015-0073"
+}
+
+@ARTICLE{Wood1978-ls,
+  title     = "An Experimental Evaluation of Four {Face-to-Face} Teaching
+               Strategies",
+  author    = "Wood, David and Wood, Heather and Middleton, David",
+  abstract  = "This study tests a number of predictions about the effectiveness
+               of four different strategies for teaching three to four year old
+               children how to master a difficult construction task. These
+               strategies were derived from previous studies of mother-child
+               and experimenter-child interactions in an assisted learning
+               situation. One strategy the 'contingent approach' was based
+               primarily on theoretical considerations and when used in earlier
+               work as a basis for describing and evaluating maternal teaching
+               it enabled us to predict how well children taught by their
+               mothers would do with a task after instruction. The three other
+               strategies are idealised versions of the teaching methods used
+               by less successful mothers-as-teachers. On the basis of our
+               analysis of effective instruction it is possible to predict how
+               well children taught by these four different techniques by a
+               trained instructor should perform after instruction.The present
+               study largely confirms these predictions. In so doing, it
+               strengthens the supposition that it was maternal behaviour in
+               the earlier work which influenced the children's task abilities
+               and it also corroborates various hypotheses about the essential
+               nature of effective face-to-face instruction.",
+  journal   = "International journal of behavioral development",
+  publisher = "SAGE Publications Ltd",
+  volume    =  1,
+  number    =  2,
+  pages     = "131--147",
+  month     =  apr,
+  year      =  1978,
+  url       = "https://doi.org/10.1177/016502547800100203",
+  keywords  = "Scaffolding;Knowledge - Skill Acquisition;**CATALOGED;Notion
+               Catalogued;Journal Articles",
+  issn      = "0165-0254",
+  doi       = "10.1177/016502547800100203"
+}
+
+@ARTICLE{Pietra2021-jq,
+  title     = "Promoting eco-driving behavior through multisensory stimulation:
+               a preliminary study on the use of visual and haptic feedback in
+               a virtual reality driving simulator",
+  author    = "Pietra, Andrea and Vazquez Rull, Marina and Etzi, Roberta and
+               Gallace, Alberto and Scurati, Giulia Wally and Ferrise,
+               Francesco and Bordegoni, Monica",
+  abstract  = "AbstractThis paper describes the design and preliminary test of
+               a virtual reality driving simulator capable of conveying haptic
+               and visual messages to promote eco-sustainable driving behavior.
+               The driving simulator was implemented through the Unity game
+               engine; a large street environment, including high-speed and
+               urban sections, was created to examine different driving
+               behaviors. The hardware setup included a gaming driving seat,
+               equipped with a steering wheel and pedals; the virtual scenarios
+               were displayed through an Oculus Rift headset to guarantee an
+               immersive experience. Haptic stimulation (i.e., vibrations) was
+               delivered to the driver through the accelerator pedal, while
+               visual stimuli (i.e., icons and colors) were shown on a virtual
+               head-up display. The sensory feedbacks were presented both alone
+               and in combination, providing information about excessive
+               acceleration and speed. Four different virtual scenarios, each
+               one including a distracting element (i.e., navigator, rain,
+               call, and traffic), were also created. Ten participants tested
+               the simulator. Fuel consumption was evaluated by calculating a
+               mean power index (MPI) in reference to the sensory feedback
+               presentation; physiological reactions and responses to a
+               usability survey were also collected. The results revealed that
+               the haptic and visuo-haptic feedback were responsible for an MPI
+               reduction, respectively, for 14\% and 11\% compared with a
+               condition of no feedback presentation; while visual feedback
+               alone resulted in an MPI increase of 11\%. The efficacy of
+               haptic feedback was also accompanied by a more relaxing
+               physiological state of the users, compared with the visual
+               stimulation. The system's usability was adequate, although
+               haptic stimuli were rated slightly more intrusive than the
+               visual ones. Overall, these preliminary results highlight how
+               promising the use of the haptic channel can be in communicating
+               and guiding the driver toward a more eco-sustainable behavior.",
+  journal   = "Virtual reality",
+  publisher = "Springer Science and Business Media LLC",
+  volume    =  25,
+  number    =  4,
+  pages     = "945--959",
+  month     =  dec,
+  year      =  2021,
+  url       = "http://dx.doi.org/10.1007/s10055-021-00499-1",
+  keywords  = "\_XR/MR;Journal Articles",
+  copyright = "https://creativecommons.org/licenses/by/4.0",
+  language  = "en",
+  issn      = "1359-4338, 1434-9957",
+  doi       = "10.1007/s10055-021-00499-1"
 }
