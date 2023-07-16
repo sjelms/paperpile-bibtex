@@ -3848,31 +3848,38 @@
   doi      = "10.1177/1548512910365698"
 }
 
-@ARTICLE{Alkhatlan2018-pv,
-  title    = "Intelligent Tutoring Systems: A Comprehensive Historical Survey
-              with Recent Developments",
-  author   = "Alkhatlan, Ali and Kalita, Jugal",
-  abstract = "This paper provides interested beginners with an updated and
-              detailed introduction to the field of Intelligent Tutoring
-              Systems (ITS). ITSs are computer programs that use artificial
-              intelligence techniques to enhance and personalize automation in
-              teaching. This paper is a literature review that provides the
-              following: First, a review of the history of ITS along with a
-              discussion on the interface between human learning and computer
-              tutors and how effective ITSs are in contemporary education.
-              Second, the traditional architectural components of an ITS and
-              their functions are discussed along with approaches taken by
-              various ITSs. Finally, recent innovative ideas in ITS systems are
-              presented. This paper concludes with some of the author's views
-              regarding future work in the field of intelligent tutoring
-              systems.",
-  month    =  dec,
-  year     =  2018,
-  url      = "http://www.ijcaonline.org/archives/volume181/number43/30402-2019918451",
-  keywords = "Intelligent Tutoring Systems (ITS);@\_Mark Up;Course
-              Assignment;Zotero Import (Feb 22);My Library;Intelligent Tutoring
-              Systems (ITS);Frontiers [2022];AIEd [CCME0123];Journal Articles",
-  doi      = "10.5120/ijca2019918451"
+@ARTICLE{Alkhatlan2019-pv,
+  title     = "Intelligent tutoring systems: A comprehensive historical survey
+               with recent developments",
+  author    = "Alkhatlan, Ali and Kalita, Jugal",
+  abstract  = "This paper provides interested beginners with an updated and
+               detailed introduction to the field of Intelligent Tutoring
+               Systems (ITS). ITSs are computer programs that use artificial
+               intelligence techniques to enhance and personalize automation in
+               teaching. This paper is a literature review that provides the
+               following: First, a review of the history of ITS along with a
+               discussion on the interface between human learning and computer
+               tutors and how effective ITSs are in contemporary education.
+               Second, the traditional architectural components of an ITS and
+               their functions are discussed along with approaches taken by
+               various ITSs. Finally, recent innovative ideas in ITS systems
+               are presented. This paper concludes with some of the author's
+               views regarding future work in the field of intelligent tutoring
+               systems.",
+  journal   = "International Journal of Computers \& Applications",
+  publisher = "Foundation of Computer Science",
+  volume    =  181,
+  number    =  43,
+  pages     = "1--20",
+  month     =  mar,
+  year      =  2019,
+  url       = "http://www.ijcaonline.org/archives/volume181/number43/30402-2019918451",
+  keywords  = "Intelligent Tutoring Systems (ITS);@\_Mark Up;Course
+               Assignment;Zotero Import (Feb 22);My Library;Intelligent
+               Tutoring Systems (ITS);Frontiers [2022];AIEd [CCME0123];Journal
+               Articles",
+  issn      = "1206-212X, 0975-8887",
+  doi       = "10.5120/ijca2019918451"
 }
 
 @ARTICLE{Dorst2011-tx,
