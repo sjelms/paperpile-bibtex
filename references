@@ -9244,11 +9244,14 @@
 
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
-@ARTICLE{Lesgold1988-at,
+@INCOLLECTION{Lesgold1988-at,
   title       = "Sherlock: A Coached Practice Environment for an Electronics
                  Troubleshooting Job",
+  booktitle   = "Computer Assisted Instruction and Intelligent Tutoring
+                 Systems: Establishing Communication and Collaboration",
   author      = "Lesgold, Alan and Lajoie, Susanne and Bunzo, Marilyn and
                  Eggan, Gary",
+  editor      = "Larkin, J and Chabay, R and Scheftic, C",
   affiliation = "University of Pittsburgh",
   abstract    = "``Sherlock'' is a computer-based, supported practice
                  environment for a complex troubleshooting job in Air Force
@@ -9260,8 +9263,6 @@
                  program, with drawings of some of the various screens
                  displayed during use of the program. A glossary and list of
                  references are included.",
-  journal     = "Computer Assisted Instruction and Intelligent Tutoring
-                 Systems: Establishing Communication and Collaboration",
   publisher   = "Lawrence Erlbaum Associates",
   pages       = "201",
   year        =  1988,
