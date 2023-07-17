@@ -27525,6 +27525,7 @@
   month     =  mar,
   year      =  2021,
   url       = "https://doi.org/10.1080/17452007.2020.1768505",
+  keywords  = "DfMA",
   issn      = "1745-2007",
   doi       = "10.1080/17452007.2020.1768505"
 }
@@ -27563,6 +27564,7 @@
   month     =  jan,
   year      =  2023,
   url       = "https://doi.org/10.1680/jmapl.22.00042",
+  keywords  = "DfMA",
   issn      = "1751-4304",
   doi       = "10.1680/jmapl.22.00042"
 }
@@ -27601,7 +27603,7 @@
   year     =  2020,
   url      = "https://www.sciencedirect.com/science/article/pii/S0278612520301175",
   keywords = "Virtual reality; Maintenance; Lifecycle; Industrial products;
-              Industry 4.0",
+              Industry 4.0;DfMA",
   issn     = "0278-6125",
   doi      = "10.1016/j.jmsy.2020.07.007"
 }
@@ -27643,7 +27645,7 @@
   year     =  2022,
   url      = "https://www.sciencedirect.com/science/article/pii/S0926580522003697",
   keywords = "VR; BIM; Gamification; Integration; Design automation; Unreal
-              engine; Parametric design; Collaboration",
+              engine; Parametric design; Collaboration;DfMA",
   issn     = "0926-5805",
   doi      = "10.1016/j.autcon.2022.104496"
 }
