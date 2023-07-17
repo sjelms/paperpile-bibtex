@@ -27484,6 +27484,8 @@
   doi       = "10.1145/2659766.2659774"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Lu2021-mb,
   title     = "Design for manufacture and assembly ({DfMA}) in construction:
                the old and the new",
@@ -27525,11 +27527,13 @@
   month     =  mar,
   year      =  2021,
   url       = "https://doi.org/10.1080/17452007.2020.1768505",
-  keywords  = "DfMA",
+  keywords  = "+Notion;+Readwise;AEC;§New Literature;DfMA",
   issn      = "1745-2007",
   doi       = "10.1080/17452007.2020.1768505"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Weththasinghe2023-bk,
   title     = "Towards developing partnership models for leveraging design for
                manufacture and assembly for school buildings",
@@ -27564,11 +27568,13 @@
   month     =  jan,
   year      =  2023,
   url       = "https://doi.org/10.1680/jmapl.22.00042",
-  keywords  = "DfMA",
+  keywords  = "+Notion;+Readwise;AEC;§New Literature;DfMA",
   issn      = "1751-4304",
   doi       = "10.1680/jmapl.22.00042"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Guo2020-bo,
   title    = "Applications of virtual reality in maintenance during the
               industrial product lifecycle: A systematic review",
@@ -27603,11 +27609,13 @@
   year     =  2020,
   url      = "https://www.sciencedirect.com/science/article/pii/S0278612520301175",
   keywords = "Virtual reality; Maintenance; Lifecycle; Industrial products;
-              Industry 4.0;DfMA",
+              Industry 4.0;+Notion;+Readwise;AEC;§New Literature;DfMA",
   issn     = "0278-6125",
   doi      = "10.1016/j.jmsy.2020.07.007"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Potseluyko2022-xb,
   title    = "Game-like interactive environment using {BIM-based} virtual
               reality for the timber frame self-build housing sector",
@@ -27645,7 +27653,8 @@
   year     =  2022,
   url      = "https://www.sciencedirect.com/science/article/pii/S0926580522003697",
   keywords = "VR; BIM; Gamification; Integration; Design automation; Unreal
-              engine; Parametric design; Collaboration;DfMA",
+              engine; Parametric design;
+              Collaboration;+Notion;+Readwise;AEC;§New Literature;DfMA",
   issn     = "0926-5805",
   doi      = "10.1016/j.autcon.2022.104496"
 }
