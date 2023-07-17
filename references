@@ -27566,3 +27566,42 @@
   issn      = "1751-4304",
   doi       = "10.1680/jmapl.22.00042"
 }
+
+@ARTICLE{Guo2020-bo,
+  title    = "Applications of virtual reality in maintenance during the
+              industrial product lifecycle: A systematic review",
+  author   = "Guo, Ziyue and Zhou, Dong and Zhou, Qidi and Zhang, Xin and Geng,
+              Jie and Zeng, Shengkui and Lv, Chuan and Hao, Aimin",
+  abstract = "As a state-of-the-art computer technology, virtual reality (VR)
+              is considered to play an important role in helping manufacturing
+              companies stay competitive in the international market. However,
+              despite the achievements made in the field of VR, it is still an
+              emerging technology that lacks deeper exploration and development
+              in industrial application scenarios, especially in the coming
+              fourth industrial revolution (Industry 4.0). This paper aims to
+              systematically investigate the applications of VR in industrial
+              maintenance to discover evidence of its values, limitations, and
+              future directions so that VR can be guided to better serve
+              manufacturing enterprises in remaining competitive in the coming
+              Industry 4.0. A systematic literature review (SLR) methodology is
+              adopted to review primary studies on this topic, by which 86
+              studies are ultimately included. The results show that VR has
+              proved its value in benefiting maintenance issues through the
+              product lifecycle. However, VR is still not an indispensable
+              element for the lifecycle management of products regarding
+              maintenance-related issues. Several key findings are concluded
+              based on the analysis of the 86 studies. This review is valuable
+              for researchers who are interested in the application of VR
+              technology in maintainability design, maintenance training or
+              maintenance task assistance.",
+  journal  = "Journal of Manufacturing Systems",
+  volume   =  56,
+  pages    = "525--538",
+  month    =  jul,
+  year     =  2020,
+  url      = "https://www.sciencedirect.com/science/article/pii/S0278612520301175",
+  keywords = "Virtual reality; Maintenance; Lifecycle; Industrial products;
+              Industry 4.0",
+  issn     = "0278-6125",
+  doi      = "10.1016/j.jmsy.2020.07.007"
+}
