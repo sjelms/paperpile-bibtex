@@ -27402,6 +27402,8 @@
   keywords    = "AEC;Construction 4.0"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INPROCEEDINGS{Ahmed2020-jf,
   title     = "Augmented Reality in Remote Learning: A Proposed Transformative
                Approach for Building Construction Education",
@@ -27438,6 +27440,7 @@
   keywords  = "Industries;COVID-19;Solid modeling;Distance
                learning;Pandemics;Buildings;Augmented reality;Augmented
                Reality;Building Information Modeling;remote learning;building
-               construction;Architectural Engineering;UAEU;Construction 4.0",
+               construction;Architectural Engineering;UAEU;\_XR/MR;AEC;§New
+               Literature;Construction 4.0",
   doi       = "10.1109/econf51404.2020.9385491"
 }
