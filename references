@@ -27605,3 +27605,45 @@
   issn     = "0278-6125",
   doi      = "10.1016/j.jmsy.2020.07.007"
 }
+
+@ARTICLE{Potseluyko2022-xb,
+  title    = "Game-like interactive environment using {BIM-based} virtual
+              reality for the timber frame self-build housing sector",
+  author   = "Potseluyko, Lilia and Pour Rahimian, Farzad and Dawood, Nashwan
+              and Elghaish, Faris and Hajirasouli, Aso",
+  abstract = "BIM, gamification, and Virtual Reality applications are more
+              often used to serve the interests of Design for Manufacture and
+              Assembly (DfMA). This paper presents a comprehensive study to
+              exploit these technologies' innovative approaches and
+              capabilities. The study is specifically adopted to implement
+              small and medium-size architectural and construction practices
+              with a limited budget and time dedicated to visualisation
+              creation. The collected evidence proved that a game-like platform
+              combined with BIM could provide simplified data delivery to a
+              client, leading to customer satisfaction, confidence and
+              increased sales. The designed workflow and templates were tested
+              in the case study of a small self-build construction company. The
+              staff was trained to provide BIM data correctly and use supplied
+              game templates. The case study demonstrated that automation of
+              the VR House Configurator creation is achievable. The study's
+              outcome is an integrated solution to regenerate BIM models in the
+              game environment and utilise the house configurator's organised
+              furniture library and costing interface. Furthermore, the
+              usability tests confirmed the applicability, practicability, and
+              validity of the developed framework and tools to deal with the
+              revealed challenges in the self-build sector. Finally, the
+              research provided a fresh approach for the companies in the
+              sector, a step-by-step guide for implementing the innovative
+              changes, and detailed descriptions of the methodologies and
+              workflows.",
+  journal  = "Automation in Construction",
+  volume   =  142,
+  pages    = "104496",
+  month    =  oct,
+  year     =  2022,
+  url      = "https://www.sciencedirect.com/science/article/pii/S0926580522003697",
+  keywords = "VR; BIM; Gamification; Integration; Design automation; Unreal
+              engine; Parametric design; Collaboration",
+  issn     = "0926-5805",
+  doi      = "10.1016/j.autcon.2022.104496"
+}
