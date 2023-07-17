@@ -27528,3 +27528,41 @@
   issn      = "1745-2007",
   doi       = "10.1080/17452007.2020.1768505"
 }
+
+@ARTICLE{Weththasinghe2023-bk,
+  title     = "Towards developing partnership models for leveraging design for
+               manufacture and assembly for school buildings",
+  author    = "Weththasinghe, Kumudu Kaushalya and Wong, Peter S P",
+  abstract  = "The substantial efforts made in implementing design for
+               manufacture and assembly (DfMA) in construction developments
+               thus far have been scattered. Past research has focused on the
+               operational practice of volumetric and non-volumetric assembly,
+               component manufacture and sub-assembly and modular building.
+               This paper seeks to cover a comprehensive review with case
+               studies to explore how DfMA can be leveraged in the design and
+               delivery of school buildings. Three case studies were conducted
+               to demonstrate how DfMA methods were applied in actual projects,
+               identifying the challenges and issues confronted. The adopted
+               techniques and involved challenges in school building projects
+               were identified along with the capability and risk profiles that
+               come with the opportunities to lead DfMA projects.
+               Re-engineering as an aspect to engage in DfMA-led construction
+               developments and how this may impact the current services of a
+               construction firm were evaluated. The results reveal effective
+               partnership models for establishing a sustainable business model
+               for DfMA school buildings followed by a project feedback
+               collection model. The partnership models developed provide
+               guidance on establishing relationships to achieve the maximum
+               potential of DfMA in school projects. The project feedback
+               collection model promotes better circulation of lessons learned
+               for advancement in future projects.",
+  journal   = "Proceedings of the Institution of Civil Engineers - Management,
+               Procurement and Law",
+  publisher = "ICE Publishing",
+  pages     = "1--16",
+  month     =  jan,
+  year      =  2023,
+  url       = "https://doi.org/10.1680/jmapl.22.00042",
+  issn      = "1751-4304",
+  doi       = "10.1680/jmapl.22.00042"
+}
