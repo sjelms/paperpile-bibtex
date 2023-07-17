@@ -26662,6 +26662,12 @@
   isbn      = "9781491954195"
 }
 
+@ARTICLE{Its_undated-wh,
+  title  = "{WHAT} {IS} {BUILDING} 4.0 {CRC}? {WHAT} {WILL} {BUILDING} 4.0
+            {CRC} {DELIVER}?",
+  author = "Its, Through"
+}
+
 @MISC{Davis1998-ti,
   title        = "What Are Intelligence? And Why?",
   author       = "Davis, Randall",
