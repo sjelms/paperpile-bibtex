@@ -9769,7 +9769,8 @@
   month     =  sep,
   year      =  2011,
   url       = "https://doi.org/10.1080/13636820.2011.560392",
-  keywords  = "Workplace Learning;Contemporary Apprenticeship (Fuller \& Unwin)",
+  keywords  = "Workplace Learning;Contemporary Apprenticeship (Fuller \&
+               Unwin);VET",
   issn      = "1363-6820",
   doi       = "10.1080/13636820.2011.560392"
 }
@@ -9860,7 +9861,7 @@
   year      =  2019,
   url       = "https://doi.org/10.1080/13636820.2018.1480520",
   keywords  = "Workplace Learning;@\_Mark Up;Labor;Cited for Frontiers;*Upgrade
-               Report 2023;Journal Articles",
+               Report 2023;Journal Articles;VET",
   issn      = "1363-6820",
   doi       = "10.1080/13636820.2018.1480520"
 }
@@ -19619,7 +19620,7 @@
   keywords  = "Electronic Learning; Vocational Education; Literature Reviews;
                Definitions; Conventional Instruction; Educational
                Benefits;Workplace Learning;Knowledge - Skill
-               Acquisition;Journal Articles",
+               Acquisition;Journal Articles;VET",
   language  = "en",
   issn      = "1927-5250, 1927-5269",
   doi       = "10.5539/jel.v7n5p92"
@@ -26168,7 +26169,7 @@
   year      =  2011,
   url       = "https://boris.unibe.ch/9563/",
   address   = "Rotterdam",
-  keywords  = "Knowledge - Skill Acquisition;Workplace Learning",
+  keywords  = "Knowledge - Skill Acquisition;Workplace Learning;VET",
   language  = "en",
   isbn      = "9789460915741"
 }
