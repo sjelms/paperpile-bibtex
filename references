@@ -19906,6 +19906,53 @@
   pmc         = "PMC9322996"
 }
 
+@ARTICLE{Mnaymneh2021-fe,
+  title       = "Effective Collaboration Through Activity Theory and
+                 Knotworking in Clinical Settings",
+  author      = "Mnaymneh, Marvin and van Oostveen, Roland and Kapralos, Bill
+                 and Dubrowski, Adam",
+  affiliation = "Education, Ontario Tech University, Oshawa, CAN. Simulation,
+                 Software Informatics Research Centre, Ontario Tech University,
+                 Oshawa, CAN. Research and Development, Ontario Tech
+                 University, Oshawa, CAN.",
+  abstract    = "Healthcare professionals must be able to work in
+                 multidisciplinary teams (MDTs). The purpose of this editorial
+                 is to explain how healthcare professionals (can) contribute to
+                 the effectiveness of MDT, through the use of activity theory
+                 (collective work activity shared by others who are motivated
+                 by a purpose mediated by tools in order to achieve a specific
+                 goal) and the associated idea of knotworking (method of tying,
+                 untying, and retying together seemingly separate threads of
+                 activity). The leading thesis here is that MDTs benefit from
+                 health professionals with well-established leadership skills,
+                 and also strong collaborative skills that enable them to
+                 transition fluidly between leadership roles as needed to
+                 advance patient care. Within activity theory, knotworking is
+                 the process of tying and untying various threads of activity
+                 and knowledge from across the MDT in order to accomplish
+                 specific objectives over time. Knotworking exemplifies the
+                 dynamic nature of MDT collaboration, which requires
+                 professionals to be productive in their environment. The
+                 viewpoints offered in this editorial contribute to a new
+                 perspective on MDTs, one that acknowledges distributed
+                 leadership and the importance of co-producing a successful
+                 partnership in a clinical setting.",
+  journal     = "Cureus",
+  volume      =  13,
+  number      =  11,
+  pages       = "e19860",
+  month       =  nov,
+  year        =  2021,
+  url         = "http://dx.doi.org/10.7759/cureus.19860",
+  keywords    = "activity systems; activity theory; collaboration; knotworking;
+                 leadership",
+  language    = "en",
+  issn        = "2168-8184",
+  pmid        = "34976487",
+  doi         = "10.7759/cureus.19860",
+  pmc         = "PMC8712195"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Schrepp2017-ts,
