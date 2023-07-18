@@ -7015,6 +7015,25 @@
   language  = "en"
 }
 
+@ARTICLE{Wing2006-tj,
+  title     = "Computational thinking",
+  author    = "Wing, Jeannette M",
+  abstract  = "It represents a universally applicable attitude and skill set
+               everyone, not just computer scientists, would be eager to learn
+               and use.",
+  journal   = "Communications of the ACM",
+  publisher = "Association for Computing Machinery",
+  volume    =  49,
+  number    =  3,
+  pages     = "33--35",
+  month     =  mar,
+  year      =  2006,
+  url       = "https://doi.org/10.1145/1118178.1118215",
+  address   = "New York, NY, USA",
+  issn      = "0001-0782",
+  doi       = "10.1145/1118178.1118215"
+}
+
 @INCOLLECTION{Hussien2020-bt,
   title     = "A Review of {Mixed-Reality} Applications in Construction 4.0",
   booktitle = "Construction 4.0: An innovation platform for the built
