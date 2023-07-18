@@ -27982,6 +27982,8 @@
   location        = "Hersonissos, Greece"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Poortman2011-zl,
   title     = "Apprenticeship: from learning theory to practice",
   author    = "Poortman, Cindy Louise and Illeris, Knud and Nieuwenhuis, Loek",
@@ -28011,8 +28013,8 @@
   month     =  sep,
   year      =  2011,
   url       = "https://doi.org/10.1080/13636820.2011.560392",
-  keywords  = "Workplace Learning;VET;Contemporary Apprenticeship (Fuller \&
-               Unwin);VET",
+  keywords  = "Workplace Learning;VET;+Notion;+Readwise;§New
+               Literature;Contemporary Apprenticeship (Fuller \& Unwin);VET",
   issn      = "1363-6820",
   doi       = "10.1080/13636820.2011.560392"
 }
