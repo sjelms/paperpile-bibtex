@@ -27953,6 +27953,7 @@
                      informed decision making for continuous improvements.",
   institution     = "European Semantic Web Symposium (ESWS)",
   year            =  2021,
+  keywords        = "Construction 4.0",
   conference      = "18th Extended Semantic Web Conference (ESWC 2021)",
   location        = "Hersonissos, Greece"
 }
