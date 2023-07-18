@@ -28006,6 +28006,23 @@
   doi         = "10.4324/9781315411811"
 }
 
+@ARTICLE{Munnik2021-qd,
+  title     = "Exploring learning for work in the context of digital work
+               technologies: the sociomaterial case of engineering
+               professionals in the construction industry",
+  author    = "Munnik, Marloes de",
+  journal   = "Journal of Vocational Education \& Training",
+  publisher = "Routledge",
+  volume    =  73,
+  number    =  4,
+  pages     = "618--618",
+  month     =  oct,
+  year      =  2021,
+  url       = "https://doi.org/10.1080/13636820.2021.1995669",
+  issn      = "1363-6820",
+  doi       = "10.1080/13636820.2021.1995669"
+}
+
 @ARTICLE{Bishop2017-pa,
   title     = "Affordance, agency and apprenticeship learning: a comparative
                study of small and large engineering firms",
