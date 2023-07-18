@@ -27800,42 +27800,6 @@
   doi       = "10.22260/ISARC2019/0040"
 }
 
-@ARTICLE{Virolainen2011-nn,
-  title     = "The views of employers on internships as a means of learning
-               from work experience in higher education",
-  author    = "Virolainen, Maarit Hannele and Stenstr{\"o}m, Marja-Leena and
-               Kantola, Mauri",
-  abstract  = "This article examines internships as part of the apprenticeship
-               model of learning adopted in higher education. We focus on
-               employers? views on internships, which have hitherto received
-               only limited attention. Our study explores employers?
-               experiences in organizing internships, and their collaboration
-               with one University of Applied Sciences, through data from
-               social and health care employers (n=165), collected via a
-               questionnaire. We conclude that if internships are to be
-               improved as a means of learning from work experience, issues
-               that employers want to raise within the collaborative framework
-               require attention. These themes include relations with students,
-               curriculum issues and the organization of the collaboration. A
-               problem related to underestimating employer views on developing
-               internships?is that the resource-intensive nature of
-               collaborative relations is silenced. As a result, targets for
-               developing partnerships are left unrecognized, with adverse
-               effects on the quality management and strategic planning of
-               higher education institutions.",
-  journal   = "Journal of Vocational Education \& Training",
-  publisher = "Routledge",
-  volume    =  63,
-  number    =  3,
-  pages     = "465--484",
-  month     =  sep,
-  year      =  2011,
-  url       = "https://doi.org/10.1080/13636820.2011.580360",
-  keywords  = "VET;Contemporary Apprenticeship (Fuller \& Unwin);VET",
-  issn      = "1363-6820",
-  doi       = "10.1080/13636820.2011.580360"
-}
-
 @ARTICLE{Billett1996-pa,
   title     = "Constructing Vocational Knowledge: history, communities and
                ontogeny",
@@ -28085,4 +28049,43 @@
                Apprenticeship (Fuller \& Unwin)",
   issn      = "1363-9080",
   doi       = "10.1080/13639080903290355"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Virolainen2011-nn,
+  title     = "The views of employers on internships as a means of learning
+               from work experience in higher education",
+  author    = "Virolainen, Maarit Hannele and Stenstr{\"o}m, Marja-Leena and
+               Kantola, Mauri",
+  abstract  = "This article examines internships as part of the apprenticeship
+               model of learning adopted in higher education. We focus on
+               employers? views on internships, which have hitherto received
+               only limited attention. Our study explores employers?
+               experiences in organizing internships, and their collaboration
+               with one University of Applied Sciences, through data from
+               social and health care employers (n=165), collected via a
+               questionnaire. We conclude that if internships are to be
+               improved as a means of learning from work experience, issues
+               that employers want to raise within the collaborative framework
+               require attention. These themes include relations with students,
+               curriculum issues and the organization of the collaboration. A
+               problem related to underestimating employer views on developing
+               internships?is that the resource-intensive nature of
+               collaborative relations is silenced. As a result, targets for
+               developing partnerships are left unrecognized, with adverse
+               effects on the quality management and strategic planning of
+               higher education institutions.",
+  journal   = "Journal of Vocational Education \& Training",
+  publisher = "Routledge",
+  volume    =  63,
+  number    =  3,
+  pages     = "465--484",
+  month     =  sep,
+  year      =  2011,
+  url       = "https://doi.org/10.1080/13636820.2011.580360",
+  keywords  = "VET;+Notion;+Readwise;Workplace Learning;§New
+               Literature;Contemporary Apprenticeship (Fuller \& Unwin);VET",
+  issn      = "1363-6820",
+  doi       = "10.1080/13636820.2011.580360"
 }
