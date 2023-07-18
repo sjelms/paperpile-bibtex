@@ -27833,40 +27833,6 @@
   doi       = "10.1080/13636820.2011.580360"
 }
 
-@ARTICLE{Bishop2009-co,
-  title     = "Constructing learning: adversarial and collaborative working in
-               the British construction industry",
-  author    = "Bishop, Dan and Felstead, Alan and Fuller, Alison and Jewson,
-               Nick and Unwin, Lorna and Kakavelakis, Konstantinos",
-  abstract  = "This paper examines two competing systems of work organisation
-               in the British construction industry and their consequences for
-               learning. Under the traditional ?adversarial? system, conflict,
-               hostility and litigation between contractors are commonplace.
-               Such a climate actively militates against collective learning
-               and knowledge sharing between parties. Conversely, under
-               ?collaborative working?, contractors share risks, pool knowledge
-               and work together to solve problems at all stages and levels in
-               the productive system ? a process conceptualised as
-               ?knotworking? by some theorists. The paper argues that such
-               learning theories fail to take adequately into account the heavy
-               hand of history and the importance of understanding the nature
-               of the productive systems in which ?knotworking? is expected to
-               take root. Both place limits on making ?knotworking? a habitual
-               and commonplace activity in construction.",
-  journal   = "Journal of Education and Work",
-  publisher = "Routledge",
-  volume    =  22,
-  number    =  4,
-  pages     = "243--260",
-  month     =  sep,
-  year      =  2009,
-  url       = "https://doi.org/10.1080/13639080903290355",
-  keywords  = "UCL;Workplace Learning;Contemporary Apprenticeship (Fuller \&
-               Unwin)",
-  issn      = "1363-9080",
-  doi       = "10.1080/13639080903290355"
-}
-
 @ARTICLE{Billett1996-pa,
   title     = "Constructing Vocational Knowledge: history, communities and
                ontogeny",
@@ -28082,4 +28048,38 @@
                Unwin);VET",
   issn      = "1363-6820",
   doi       = "10.1080/13636820.2011.560392"
+}
+
+@ARTICLE{Bishop2009-co,
+  title     = "Constructing learning: adversarial and collaborative working in
+               the British construction industry",
+  author    = "Bishop, Dan and Felstead, Alan and Fuller, Alison and Jewson,
+               Nick and Unwin, Lorna and Kakavelakis, Konstantinos",
+  abstract  = "This paper examines two competing systems of work organisation
+               in the British construction industry and their consequences for
+               learning. Under the traditional ?adversarial? system, conflict,
+               hostility and litigation between contractors are commonplace.
+               Such a climate actively militates against collective learning
+               and knowledge sharing between parties. Conversely, under
+               ?collaborative working?, contractors share risks, pool knowledge
+               and work together to solve problems at all stages and levels in
+               the productive system ? a process conceptualised as
+               ?knotworking? by some theorists. The paper argues that such
+               learning theories fail to take adequately into account the heavy
+               hand of history and the importance of understanding the nature
+               of the productive systems in which ?knotworking? is expected to
+               take root. Both place limits on making ?knotworking? a habitual
+               and commonplace activity in construction.",
+  journal   = "Journal of Education and Work",
+  publisher = "Routledge",
+  volume    =  22,
+  number    =  4,
+  pages     = "243--260",
+  month     =  sep,
+  year      =  2009,
+  url       = "https://doi.org/10.1080/13639080903290355",
+  keywords  = "UCL;Workplace Learning;+Notion;+Readwise;AEC;Contemporary
+               Apprenticeship (Fuller \& Unwin)",
+  issn      = "1363-9080",
+  doi       = "10.1080/13639080903290355"
 }
