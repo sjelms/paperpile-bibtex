@@ -9934,6 +9934,21 @@
   doi       = "10.1080/13636820.2021.1995669"
 }
 
+@ARTICLE{Hordern2022-ai,
+  title     = "Editorial for {JVET} special issue on knowledge and expertise",
+  author    = "Hordern, Jim and Shalem, Yael and Esmond, Bill and Bishop, Dan",
+  journal   = "Journal of Vocational Education \& Training",
+  publisher = "Routledge",
+  volume    =  74,
+  number    =  1,
+  pages     = "1--11",
+  month     =  jan,
+  year      =  2022,
+  url       = "https://doi.org/10.1080/13636820.2022.2028365",
+  issn      = "1363-6820",
+  doi       = "10.1080/13636820.2022.2028365"
+}
+
 @ARTICLE{Hohns2022-lx,
   title     = "The social construction of vocational education - possibilities
                for change towards status improvement",
