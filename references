@@ -21704,6 +21704,15 @@
   isbn      = "9780415386708"
 }
 
+@INPROCEEDINGS{Ayinla2021-mr,
+  title     = "A semantic offsite construction digital {Twin-Offsite}
+               Manufacturing Production Workflow ({OPW}) ontology",
+  booktitle = "second international workshop on semantic digital twins",
+  author    = "Ayinla, Kudirat and Vakaj, Edlira and Cheung, Franco and Tawil,
+               Abdel-Rahman H",
+  year      =  2021
+}
+
 @TECHREPORT{Miller2020-fp,
   title       = "Fine Margins: Delivering Financial Sustainability in {UK}
                  Construction",
