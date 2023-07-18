@@ -19301,6 +19301,8 @@
   doi       = "10.4324/9781315044408-14"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @BOOK{Michelsen2018-zg,
   title       = "Vocational education in the Nordic countries: The historical
                  evolution",
@@ -19313,6 +19315,8 @@
   year        =  2018,
   url         = "https://www.taylorfrancis.com/books/edit/10.4324/9781315411811/vocational-education-nordic-countries-svein-michelsen-marja-leena-stenstr%C3%B6m",
   address     = "London, England",
+  keywords    = "+Notion;+Readwise;ePub | Kindle;VET;Workplace Learning;§New
+                 Literature",
   isbn        = "9781315411811",
   doi         = "10.4324/9781315411811"
 }
