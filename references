@@ -8883,6 +8883,8 @@
   isbn      = "9780521331371"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INPROCEEDINGS{Rode2015-as,
   title     = "From computational thinking to computational making",
   booktitle = "Proceedings of the 2015 {ACM} International Joint Conference on
@@ -8908,7 +8910,7 @@
   url       = "https://doi.org/10.1145/2750858.2804261",
   address   = "New York, NY, USA",
   keywords  = "computational thinking, computational making, maker
-               culture;+Notion",
+               culture;+Notion;+Readwise;UCL;§New Literature",
   location  = "Osaka, Japan",
   isbn      = "9781450335744",
   doi       = "10.1145/2750858.2804261"
