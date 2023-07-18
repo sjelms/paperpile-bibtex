@@ -19906,6 +19906,8 @@
   pmc         = "PMC9322996"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Mnaymneh2021-fe,
   title       = "Effective Collaboration Through Activity Theory and
                  Knotworking in Clinical Settings",
@@ -19945,7 +19947,7 @@
   year        =  2021,
   url         = "http://dx.doi.org/10.7759/cureus.19860",
   keywords    = "activity systems; activity theory; collaboration; knotworking;
-                 leadership",
+                 leadership;Training;Workplace Learning;§New Literature",
   language    = "en",
   issn        = "2168-8184",
   pmid        = "34976487",
