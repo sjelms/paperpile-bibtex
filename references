@@ -757,8 +757,8 @@
   year      =  2022,
   url       = "http://dx.doi.org/10.1007/978-3-031-08518-5_23",
   address   = "Cham",
-  keywords  = "Workplace Learning;Methods for Researching Professional Learning
-               and Development 2022, Volume 33",
+  keywords  = "Workplace Learning;VET;Methods for Researching Professional
+               Learning and Development 2022, Volume 33",
   issn      = "2210-5549, 2210-5557",
   isbn      = "9783031085178, 9783031085185",
   doi       = "10.1007/978-3-031-08518-5\_23"
@@ -5571,7 +5571,7 @@
   year      =  2015,
   url       = "https://www.sciencedirect.com/science/article/pii/S1877705815033305",
   keywords  = "learning/training model; occupational safety and health;
-               industrial-based;AEC;Healthcare + CME;Journal Articles",
+               industrial-based;AEC;VET;Healthcare + CME;Journal Articles",
   issn      = "1877-7058",
   doi       = "10.1016/j.proeng.2015.11.013"
 }
@@ -8933,9 +8933,9 @@
   month     =  mar,
   year      =  2000,
   url       = "https://doi.org/10.1080/014461900370861",
-  keywords  = "Research Methods;Research Methodology in the Built Environment:
-               A Selection of Case Studies;*Upgrade Report 2023;Grounded
-               Theory;Journal Articles",
+  keywords  = "Research Methods;VET;Research Methodology in the Built
+               Environment: A Selection of Case Studies;*Upgrade Report
+               2023;Grounded Theory;Journal Articles",
   issn      = "0144-6193",
   doi       = "10.1080/014461900370861"
 }
@@ -9769,7 +9769,7 @@
   month     =  sep,
   year      =  2011,
   url       = "https://doi.org/10.1080/13636820.2011.560392",
-  keywords  = "Workplace Learning;Contemporary Apprenticeship (Fuller \&
+  keywords  = "Workplace Learning;VET;Contemporary Apprenticeship (Fuller \&
                Unwin);VET",
   issn      = "1363-6820",
   doi       = "10.1080/13636820.2011.560392"
@@ -9806,7 +9806,7 @@
   month     =  sep,
   year      =  2011,
   url       = "https://doi.org/10.1080/13636820.2011.580360",
-  keywords  = "Contemporary Apprenticeship (Fuller \& Unwin)",
+  keywords  = "VET;Contemporary Apprenticeship (Fuller \& Unwin)",
   issn      = "1363-6820",
   doi       = "10.1080/13636820.2011.580360"
 }
@@ -9821,7 +9821,7 @@
   pages    = "145--154",
   year     =  2012,
   url      = "https://doi.org/10.1080/13636820.2011.622450",
-  keywords = "Workplace Learning;AEC;**CATALOGED;Zotero Import (Feb 22);My
+  keywords = "Workplace Learning;AEC;**CATALOGED;VET;Zotero Import (Feb 22);My
               Library;Frontiers [2021];Journal Articles;Notion Catalogued;VET",
   doi      = "10.1080/13636820.2011.622450"
 }
@@ -9860,8 +9860,8 @@
   month     =  apr,
   year      =  2019,
   url       = "https://doi.org/10.1080/13636820.2018.1480520",
-  keywords  = "Workplace Learning;@\_Mark Up;Labor;Cited for Frontiers;*Upgrade
-               Report 2023;Journal Articles;VET",
+  keywords  = "Workplace Learning;@\_Mark Up;Labor;Cited for
+               Frontiers;VET;*Upgrade Report 2023;Journal Articles;VET",
   issn      = "1363-6820",
   doi       = "10.1080/13636820.2018.1480520"
 }
@@ -9892,7 +9892,7 @@
   year      =  2002,
   url       = "https://doi.org/10.1080/13636820200200197",
   keywords  = "Knowledge - Skill Acquisition;Workplace Learning;@\_Mark
-               Up;Cited for Frontiers;+Readwise;Training;**CATALOGED;Notion
+               Up;Cited for Frontiers;+Readwise;Training;**CATALOGED;VET;Notion
                Catalogued;*Upgrade Report 2023;Journal Articles",
   issn      = "1363-6820",
   doi       = "10.1080/13636820200200197"
@@ -9921,6 +9921,7 @@
   month     =  jan,
   year      =  1996,
   url       = "https://doi.org/10.1080/1363682960480203",
+  keywords  = "VET",
   issn      = "1363-6820",
   doi       = "10.1080/1363682960480203"
 }
@@ -9936,7 +9937,7 @@
   pages    = "79--96",
   year     =  1998,
   url      = "https://doi.org/10.1080/13636829800200035",
-  keywords = "Workplace Learning;Zotero Import (Feb 22);My Library;Journal
+  keywords = "Workplace Learning;VET;Zotero Import (Feb 22);My Library;Journal
               Articles",
   doi      = "10.1080/13636829800200035"
 }
@@ -14233,7 +14234,7 @@
   month     =  mar,
   year      =  2019,
   url       = "https://doi.org/10.1177/0004865818779418",
-  keywords  = "Knowledge - Skill Acquisition;Training;Frontiers import [Aug
+  keywords  = "Knowledge - Skill Acquisition;Training;VET;Frontiers import [Aug
                11];Journal Articles",
   issn      = "0004-8658",
   doi       = "10.1177/0004865818779418"
@@ -15495,7 +15496,7 @@
   year      =  2014,
   url       = "https://ervet-journal.springeropen.com/articles/10.1186/s40461-014-0003-3",
   keywords  = "Knowledge - Skill Acquisition;AEC;Workplace Learning;@\_Mark
-               Up;Cited for Frontiers;*Upgrade Report 2023;Journal Articles",
+               Up;Cited for Frontiers;VET;*Upgrade Report 2023;Journal Articles",
   language  = "en",
   issn      = "1877-6345, 1877-6345",
   doi       = "10.1186/s40461-014-0003-3"
@@ -15540,7 +15541,7 @@
   month     =  aug,
   year      =  2015,
   url       = "https://ervet-journal.springeropen.com/articles/10.1186/s40461-015-0020-x",
-  keywords  = "Workplace Learning;Knowledge - Skill Acquisition;Journal
+  keywords  = "Workplace Learning;Knowledge - Skill Acquisition;VET;Journal
                Articles",
   language  = "en",
   issn      = "1877-6345, 1877-6345",
@@ -15606,7 +15607,7 @@
   month     =  sep,
   year      =  2017,
   url       = "https://ervet-journal.springeropen.com/articles/10.1186/s40461-017-0060-5",
-  keywords  = "Workplace Learning;Knowledge - Skill Acquisition;Journal
+  keywords  = "Workplace Learning;Knowledge - Skill Acquisition;VET;Journal
                Articles",
   language  = "en",
   issn      = "1877-6345, 1877-6345",
@@ -16063,6 +16064,7 @@
   year      =  2018,
   url       = "http://rgdoi.net/10.13140/RG.2.2.20725.22240",
   school    = "University of Toronto",
+  keywords  = "VET",
   doi       = "10.13140/RG.2.2.20725.22240"
 }
 
@@ -17057,7 +17059,7 @@
                  experience; simulation training; training effectiveness;
                  virtual emergency scenario; virtual patient simulation;
                  virtual reality;\_XR/MR;§New Literature;Workplace
-                 Learning;Journal Articles",
+                 Learning;VET;Journal Articles",
   language    = "en",
   issn        = "2291-9279",
   pmid        = "32735548",
@@ -17793,7 +17795,7 @@
   year            =  2019,
   url             = "https://www.atlantis-press.com/article/125912958",
   address         = "Paris, France",
-  keywords        = "Sensory Processing",
+  keywords        = "Sensory Processing;VET",
   conference      = "Proceedings of the 2nd International Conference on
                      Education Science and Social Development (ESSD 2019)",
   location        = "Changsha, China",
@@ -18049,7 +18051,7 @@
   month     =  aug,
   year      =  2020,
   url       = "http://dx.doi.org/10.31580/jei.v7i2.1438",
-  keywords  = "§New Literature;AEC;Construction 4.0;*Upgrade Report
+  keywords  = "§New Literature;AEC;VET;Construction 4.0;*Upgrade Report
                2023;Grounded Theory;Journal Articles",
   issn      = "2313-335X, 2708-8448",
   doi       = "10.31580/jei.v7i2.1438"
@@ -19410,7 +19412,7 @@
   publisher = "Lausanne, EPFL",
   year      =  2013,
   url       = "https://infoscience.epfl.ch/record/190279/files/EPFL_TH5931.pdf",
-  keywords  = "\_XR/MR;Training",
+  keywords  = "\_XR/MR;Training;VET",
   doi       = "10.5075/EPFL-THESIS-5931"
 }
 
@@ -19478,8 +19480,8 @@
   year      =  2001,
   url       = "http://dx.doi.org/10.5328/jver26.1.4",
   keywords  = "+Notion;+Readwise;§New Literature;Research
-               Methods;Read;++ClickUp;Theory and Methods;00\_TO READ;Journal
-               Articles",
+               Methods;Read;++ClickUp;VET;Theory and Methods;00\_TO
+               READ;Journal Articles",
   issn      = "0739-3369",
   doi       = "10.5328/jver26.1.4"
 }
@@ -19620,7 +19622,7 @@
   keywords  = "Electronic Learning; Vocational Education; Literature Reviews;
                Definitions; Conventional Instruction; Educational
                Benefits;Workplace Learning;Knowledge - Skill
-               Acquisition;Journal Articles;VET",
+               Acquisition;VET;Journal Articles;VET",
   language  = "en",
   issn      = "1927-5250, 1927-5269",
   doi       = "10.5539/jel.v7n5p92"
@@ -20796,7 +20798,7 @@
   month     =  dec,
   year      =  2019,
   url       = "https://play.google.com/store/books/details?id=iULBDwAAQBAJ",
-  keywords  = "+Notion;+Readwise;ePub | Kindle;UCL;Workplace Learning;EPubs
+  keywords  = "+Notion;+Readwise;ePub | Kindle;UCL;Workplace Learning;VET;EPubs
                Books",
   language  = "en",
   isbn      = "9780429615139"
@@ -25083,7 +25085,7 @@
   year     =  2015,
   url      = "https://ecommons.cornell.edu/handle/1813/72990",
   keywords = "HR Review; Human Resources; Labor Market; Globalization;
-              Training; Workforce; Staffing; article;SGAM Ref Materials
+              Training; Workforce; Staffing; article;VET;SGAM Ref Materials
               ;Journal Articles",
   language = "en"
 }
@@ -25515,7 +25517,7 @@
   month     =  sep,
   year      =  2020,
   url       = "https://play.google.com/store/books/details?id=H1LzDwAAQBAJ",
-  keywords  = "+Notion;+Readwise;ePub | Kindle;UCL;Workplace Learning;EPubs
+  keywords  = "+Notion;+Readwise;ePub | Kindle;UCL;Workplace Learning;VET;EPubs
                Books",
   language  = "en",
   isbn      = "9781000174922"
@@ -26115,7 +26117,7 @@
   url          = "https://unevoc.unesco.org/home/TVET",
   howpublished = "\url{https://unevoc.unesco.org/home/TVET}",
   note         = "Accessed: 2022-3-7",
-  keywords     = "Cited for Frontiers;*Upgrade Report 2023",
+  keywords     = "Cited for Frontiers;VET;*Upgrade Report 2023",
   language     = "en"
 }
 
@@ -26169,7 +26171,7 @@
   year      =  2011,
   url       = "https://boris.unibe.ch/9563/",
   address   = "Rotterdam",
-  keywords  = "Knowledge - Skill Acquisition;Workplace Learning;VET",
+  keywords  = "Knowledge - Skill Acquisition;Workplace Learning;VET;VET",
   language  = "en",
   isbn      = "9789460915741"
 }
@@ -27045,7 +27047,7 @@
   url          = "https://building4pointzero.org/projects/vr-ar-technologies-in-vocational-education-and-training-scoping-study/",
   howpublished = "\url{https://building4pointzero.org/projects/vr-ar-technologies-in-vocational-education-and-training-scoping-study/}",
   note         = "Accessed: 2023-7-17",
-  keywords     = "**CATALOGED;\_XR/MR",
+  keywords     = "**CATALOGED;\_XR/MR;VET",
   language     = "en"
 }
 
@@ -27826,7 +27828,8 @@
                Education, Employment and Training",
   year      =  1992,
   url       = "http://hdl.voced.edu.au/10707/72980",
-  keywords  = "Workplace Learning;Knowledge - Skill Acquisition;§New Literature",
+  keywords  = "Workplace Learning;Knowledge - Skill Acquisition;§New
+               Literature;VET",
   isbn      = "9780646124490"
 }
 
