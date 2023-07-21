@@ -19831,8 +19831,6 @@
   isbn      = "9781912337040"
 }
 
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
 @ARTICLE{Wing2006-tj,
   title     = "Computational Thinking",
   author    = "Wing, Jeannette M",
@@ -19848,7 +19846,7 @@
   year      =  2006,
   url       = "https://doi.org/10.1145/1118178.1118215",
   address   = "New York, NY, USA",
-  keywords  = "+Notion;+Readwise;HCI;§New Literature;ACM;++ClickUp;00\_TO READ",
+  keywords  = "+Notion;+Readwise;HCI;ACM;++ClickUp;@\_Mark Up;00\_TO READ",
   issn      = "0001-0782",
   doi       = "10.1145/1118178.1118215"
 }
