@@ -20293,6 +20293,20 @@
   language     = "en"
 }
 
+@BOOK{Billups2020-od,
+  title     = "Qualitative Data Collection Tools: Design, Development, and
+               Applications",
+  author    = "Billups, Felice D",
+  publisher = "SAGE Publications",
+  series    = "Qualitative Research Methods",
+  month     =  may,
+  year      =  2020,
+  address   = "Thousand Oaks, CA",
+  keywords  = "Book (physical);Research Methods;00\_TO READ;Theory and Methods",
+  language  = "en",
+  isbn      = "9781544334820"
+}
+
 @ARTICLE{Ngo2021-qp,
   title     = "Skilled Workers Are Scarce, Posing a Challenge for Biden's
                Infrastructure Plan",
@@ -23361,20 +23375,6 @@
   year        =  2023,
   url         = "https://www.makeuk.org/insights/reports/who-will-be-the-builders-modulars-role-in-solving-the-housing-labour-crisis",
   keywords    = "+Notion;+Readwise;AEC;Labor;Construction 4.0;00\_TO READ"
-}
-
-@BOOK{Billups2020-od,
-  title     = "Qualitative data collection tools: Design, development, and
-               applications",
-  author    = "Billups, Felice D",
-  publisher = "SAGE Publications",
-  series    = "Qualitative Research Methods",
-  month     =  may,
-  year      =  2020,
-  address   = "Thousand Oaks, CA",
-  keywords  = "Book (physical);Research Methods;00\_TO READ;Theory and Methods",
-  language  = "en",
-  isbn      = "9781544334820"
 }
 
 @MISC{Unity_Technologies2022-ey,
