@@ -12636,7 +12636,7 @@
   year      =  2006,
   url       = "https://doi.org/10.1145/1118178.1118215",
   address   = "New York, NY, USA",
-  keywords  = "+Notion;+Readwise;HCI;§New Literature;ACM;00\_TO READ",
+  keywords  = "+Notion;+Readwise;HCI;§New Literature;ACM;++ClickUp;00\_TO READ",
   issn      = "0001-0782",
   doi       = "10.1145/1118178.1118215"
 }
@@ -13487,7 +13487,8 @@
   url       = "https://doi.org/10.1145/2750858.2804261",
   address   = "New York, NY, USA",
   keywords  = "computational thinking, computational making, maker
-               culture;+Notion;+Readwise;UCL;§New Literature;ACM;00\_TO READ",
+               culture;+Notion;+Readwise;UCL;§New
+               Literature;ACM;++ClickUp;00\_TO READ",
   location  = "Osaka, Japan",
   isbn      = "9781450335744",
   doi       = "10.1145/2750858.2804261"
