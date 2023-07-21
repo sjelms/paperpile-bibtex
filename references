@@ -27956,7 +27956,7 @@
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Rode2015-as,
-  title     = "From computational thinking to computational making",
+  title     = "From Computational Thinking to Computational Making",
   booktitle = "Proceedings of the 2015 {ACM} International Joint Conference on
                Pervasive and Ubiquitous Computing",
   author    = "Rode, Jennifer A and Weibert, Anne and Marshall, Andrea and Aal,
