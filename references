@@ -18660,12 +18660,6 @@
   doi       = "10.1080/15213269.2012.755877"
 }
 
-@MISC{noauthor_undated-bp,
-  url          = "https://www.jlconline.com/_view-object?id=0000017f-09e7-d4ac-ab7f-3dffbade0000",
-  howpublished = "\url{https://www.jlconline.com/_view-object?id=0000017f-09e7-d4ac-ab7f-3dffbade0000}",
-  note         = "Accessed: 2023-3-3"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @PHDTHESIS{Crayne2021-jq,
@@ -28385,4 +28379,15 @@
   keywords  = "Research Methods;§New Literature;Theory and Methods",
   isbn      = "9781847875891, 9781446200940",
   doi       = "10.4135/9781446200940.n7"
+}
+
+@ARTICLE{DeKorne2022-bp,
+  title    = "How Can Building Professionals Improve Training? Success will
+              likely come from robust in-house programs",
+  author   = "DeKorne, Clayton",
+  journal  = "Journal of Light Construction",
+  pages    = "4",
+  month    =  feb,
+  year     =  2022,
+  url      = "https://www.jlconline.com/training-the-trades/training-the-next-generation-of-building-professionals_o"
 }
