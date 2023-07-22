@@ -28371,6 +28371,8 @@
   doi         = "10.2304/eerj.2003.2.1.11"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Engestrom2013-oq,
   title     = "Activity theory and learning at work",
   booktitle = "The {SAGE} Handbook of Workplace Learning",
@@ -28380,7 +28382,7 @@
   year      =  2013,
   url       = "http://dx.doi.org/10.4135/9781446200940.n7",
   address   = "1 Oliver's Yard, 55 City Road, London EC1Y 1SP United Kingdom",
-  keywords  = "Research Methods;Theory and Methods",
+  keywords  = "Research Methods;§New Literature;Theory and Methods",
   isbn      = "9781847875891, 9781446200940",
   doi       = "10.4135/9781446200940.n7"
 }
