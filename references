@@ -130,6 +130,20 @@
   keywords = "AEC;§New Literature;Construction 4.0"
 }
 
+@BOOK{Braun2021-ah,
+  title     = "Thematic analysis: A practical guide",
+  author    = "Braun, Virginia and Clarke, Victoria",
+  abstract  = "This book is the definitive approach to thematic analysis,
+               offering a highly accessible and practical discussion of doing
+               TA.",
+  publisher = "SAGE",
+  month     =  oct,
+  year      =  2021,
+  address   = "New Delhi, India",
+  language  = "en",
+  isbn      = "9781526417305"
+}
+
 @INPROCEEDINGS{Wolf2019-ff,
   title           = "Case study on mobile virtual reality construction training",
   booktitle       = "Proceedings of the 36th International Symposium on
