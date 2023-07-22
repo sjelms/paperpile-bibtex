@@ -965,6 +965,19 @@
   doi       = "10.1007/978-3-642-39112-5\_55"
 }
 
+@INCOLLECTION{Engestrom2014-bp,
+  title     = "Activity theory and learning at work",
+  booktitle = "T{\"a}tigkeit - Aneignung - Bildung",
+  author    = "Engestr{\"o}m, Yrj{\"o}",
+  publisher = "Springer Fachmedien Wiesbaden",
+  pages     = "67--96",
+  year      =  2014,
+  url       = "http://dx.doi.org/10.1007/978-3-658-02120-7_3",
+  address   = "Wiesbaden",
+  isbn      = "9783658021191, 9783658021207",
+  doi       = "10.1007/978-3-658-02120-7\_3"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INCOLLECTION{Weber-Lewerenz2022-zr,
