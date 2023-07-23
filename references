@@ -1632,6 +1632,19 @@
   doi       = "10.1007/978-3-031-08518-5\_28"
 }
 
+@INCOLLECTION{Lave1990-nj,
+  title     = "The culture of acquisition and the practice of understanding",
+  booktitle = "Cultural Psychology: Essays on Comparative Human Development",
+  author    = "Lave, Jean",
+  abstract  = "Cultural Psychology - January 1990",
+  publisher = "Cambridge University Press",
+  pages     = "309--327",
+  month     =  jan,
+  year      =  1990,
+  url       = "https://www.cambridge.org/core/books/abs/cultural-psychology/culture-of-acquisition-and-the-practice-of-understanding/0658DE8DF25D55BE522E9393179876C6",
+  doi       = "10.1017/CBO9781139173728.010"
+}
+
 @MISC{Wikipedia_contributors2022-fx,
   title        = "{SECI} model of knowledge dimensions",
   booktitle    = "Wikipedia, The Free Encyclopedia",
