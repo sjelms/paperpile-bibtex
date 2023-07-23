@@ -1561,20 +1561,6 @@
   doi       = "10.1016/j.autcon.2013.05.029"
 }
 
-@BOOK{Braun2021-ah,
-  title     = "Thematic analysis: A practical guide",
-  author    = "Braun, Virginia and Clarke, Victoria",
-  abstract  = "This book is the definitive approach to thematic analysis,
-               offering a highly accessible and practical discussion of doing
-               TA.",
-  publisher = "SAGE",
-  month     =  oct,
-  year      =  2021,
-  address   = "New Delhi, India",
-  language  = "en",
-  isbn      = "9781526417305"
-}
-
 @ARTICLE{Porter2017-zm,
   title    = "Why Every Organization Needs an Augmented Reality Strategy",
   author   = "Porter, Michael E and Heppelmann, James E",
@@ -28426,4 +28412,21 @@
   keywords = "**CATALOGED;AEC;Labor;VET;Workplace Learning;§New
               Literature;Notion Catalogued",
   language = "en"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@BOOK{Braun2021-ah,
+  title     = "Thematic analysis: A practical guide",
+  author    = "Braun, Virginia and Clarke, Victoria",
+  abstract  = "This book is the definitive approach to thematic analysis,
+               offering a highly accessible and practical discussion of doing
+               TA.",
+  publisher = "SAGE",
+  month     =  oct,
+  year      =  2021,
+  address   = "New Delhi, India",
+  keywords  = "Research Methods;§New Literature",
+  language  = "en",
+  isbn      = "9781526417305"
 }
