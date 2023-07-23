@@ -28395,6 +28395,8 @@
   doi       = "10.4135/9781446200940.n7"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{DeKorne2022-bp,
   title    = "How Can Building Professionals Improve Training? Success will
               likely come from robust in-house programs",
@@ -28404,9 +28406,12 @@
   month    =  feb,
   year     =  2022,
   url      = "https://www.jlconline.com/training-the-trades/training-the-next-generation-of-building-professionals_o",
-  keywords = "+Notion;+Readwise;AEC;Pocket/Reader (RW);VET;Workplace Learning"
+  keywords = "+Readwise;AEC;Pocket/Reader (RW);VET;Workplace
+              Learning;**CATALOGED;Labor;§New Literature"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{DeKorne2023-mb,
   title    = "Untangling the Skilled Labor Knot",
   author   = "DeKorne, Clayton",
@@ -28418,5 +28423,6 @@
   month    =  apr,
   year     =  2023,
   url      = "https://www.jlconline.com/training-the-trades/untangling-the-skilled-labor-knot_o",
+  keywords = "**CATALOGED;AEC;Labor;VET;Workplace Learning;§New Literature",
   language = "en"
 }
