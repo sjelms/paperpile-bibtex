@@ -28407,7 +28407,7 @@
   year     =  2022,
   url      = "https://www.jlconline.com/training-the-trades/training-the-next-generation-of-building-professionals_o",
   keywords = "+Readwise;AEC;Pocket/Reader (RW);VET;Workplace
-              Learning;**CATALOGED;Labor;§New Literature"
+              Learning;**CATALOGED;Labor;§New Literature;Notion Catalogued"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -28423,6 +28423,7 @@
   month    =  apr,
   year     =  2023,
   url      = "https://www.jlconline.com/training-the-trades/untangling-the-skilled-labor-knot_o",
-  keywords = "**CATALOGED;AEC;Labor;VET;Workplace Learning;§New Literature",
+  keywords = "**CATALOGED;AEC;Labor;VET;Workplace Learning;§New
+              Literature;Notion Catalogued",
   language = "en"
 }
