@@ -8917,22 +8917,6 @@
   doi         = "10.4324/9781315411811"
 }
 
-@MISC{DeKorne2023-mb,
-  title        = "Untangling the Skilled Labor Knot",
-  booktitle    = "{JLC} Online",
-  author       = "DeKorne, Clayton",
-  abstract     = "Learn why large-scale investment aimed at improving worker
-                  skills is a better path to reducing the skilled labor
-                  shortage than advanced technological solutions such as
-                  robotics and offsite construction methods.",
-  month        =  apr,
-  year         =  2023,
-  url          = "https://www.jlconline.com/training-the-trades/untangling-the-skilled-labor-knot_o",
-  howpublished = "\url{https://www.jlconline.com/training-the-trades/untangling-the-skilled-labor-knot_o}",
-  note         = "Accessed: 2023-7-23",
-  language     = "en"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
@@ -28421,4 +28405,18 @@
   year     =  2022,
   url      = "https://www.jlconline.com/training-the-trades/training-the-next-generation-of-building-professionals_o",
   keywords = "+Notion;+Readwise;AEC;Pocket/Reader (RW);VET;Workplace Learning"
+}
+
+@ARTICLE{DeKorne2023-mb,
+  title    = "Untangling the Skilled Labor Knot",
+  author   = "DeKorne, Clayton",
+  abstract = "Learn why large-scale investment aimed at improving worker skills
+              is a better path to reducing the skilled labor shortage than
+              advanced technological solutions such as robotics and offsite
+              construction methods.",
+  journal  = "Journal of Light Construction",
+  month    =  apr,
+  year     =  2023,
+  url      = "https://www.jlconline.com/training-the-trades/untangling-the-skilled-labor-knot_o",
+  language = "en"
 }
