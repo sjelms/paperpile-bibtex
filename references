@@ -8903,23 +8903,6 @@
   doi         = "10.4324/9781315411811"
 }
 
-@ARTICLE{Guile1998-yz,
-  title     = "Apprenticeship as a conceptual basis for a social theory of
-               learning",
-  author    = "Guile, David and Young, Michael",
-  journal   = "Journal of Vocational Education and Training",
-  publisher = "Informa UK Limited",
-  volume    =  50,
-  number    =  2,
-  pages     = "173--193",
-  month     =  jun,
-  year      =  1998,
-  url       = "http://dx.doi.org/10.1080/13636829800200044",
-  language  = "en",
-  issn      = "1363-6820, 1747-5090",
-  doi       = "10.1080/13636829800200044"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
@@ -28463,4 +28446,22 @@
   keywords  = "Research Methods;§New Literature",
   language  = "en",
   isbn      = "9781526417305"
+}
+
+@ARTICLE{Guile1998-yz,
+  title     = "Apprenticeship as a conceptual basis for a social theory of
+               learning",
+  author    = "Guile, David and Young, Michael",
+  journal   = "Journal of Vocational Education and Training",
+  publisher = "Informa UK Limited",
+  volume    =  50,
+  number    =  2,
+  pages     = "173--193",
+  month     =  jun,
+  year      =  1998,
+  url       = "http://dx.doi.org/10.1080/13636829800200044",
+  keywords  = "VET;VET",
+  language  = "en",
+  issn      = "1363-6820, 1747-5090",
+  doi       = "10.1080/13636829800200044"
 }
