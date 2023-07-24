@@ -28129,8 +28129,6 @@
   doi       = "10.1080/13636820.2022.2138956"
 }
 
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
 @ARTICLE{Poortman2011-zl,
   title     = "Apprenticeship: From Learning Theory to Practice",
   author    = "Poortman, Cindy Louise and Illeris, Knud and Nieuwenhuis, Loek",
@@ -28160,9 +28158,8 @@
   month     =  sep,
   year      =  2011,
   url       = "https://doi.org/10.1080/13636820.2011.560392",
-  keywords  = "Workplace Learning;VET;+Notion;+Readwise;§New
-               Literature;++ClickUp;Contemporary Apprenticeship (Fuller \&
-               Unwin);VET;00\_TO READ",
+  keywords  = "Workplace Learning;VET;+Notion;+Readwise;++ClickUp;@\_Mark
+               Up;Contemporary Apprenticeship (Fuller \& Unwin);VET;00\_TO READ",
   issn      = "1363-6820",
   doi       = "10.1080/13636820.2011.560392"
 }
