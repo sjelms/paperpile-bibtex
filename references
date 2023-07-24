@@ -28483,3 +28483,18 @@
   issn      = "1363-6820, 1747-5090",
   doi       = "10.1080/13636820.2011.602220"
 }
+
+@ARTICLE{The_Ezra_Klein_Show2022-xj,
+  title     = "Opinion",
+  author    = "{`The Ezra Klein Show'}",
+  abstract  = "The urban economist Jenny Schuetz breaks down America's housing
+               crises, the policies that could fix them and the politics
+               standing in the way.",
+  journal   = "The New York Times",
+  publisher = "The New York Times",
+  month     =  jul,
+  year      =  2022,
+  url       = "https://www.nytimes.com/2022/07/19/opinion/ezra-klein-podcast-jenny-schuetz.html",
+  language  = "en",
+  issn      = "0362-4331, 1553-8095"
+}
