@@ -28467,8 +28467,6 @@
   doi       = "10.1080/13636829800200044"
 }
 
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
 @ARTICLE{Fuller2011-fe,
   title     = "Apprenticeship as an evolving model of learning",
   author    = "Fuller, Alison and Unwin, Lorna",
@@ -28480,8 +28478,7 @@
   month     =  sep,
   year      =  2011,
   url       = "http://dx.doi.org/10.1080/13636820.2011.602220",
-  keywords  = "+Notion;+Readwise;§New Literature;Workplace Learning;VET;@\_Mark
-               Up;VET",
+  keywords  = "+Notion;+Readwise;Workplace Learning;VET;@\_Mark Up;VET",
   language  = "en",
   issn      = "1363-6820, 1747-5090",
   doi       = "10.1080/13636820.2011.602220"
