@@ -1909,20 +1909,6 @@
   language  = "en"
 }
 
-@INPROCEEDINGS{Janis2018-ek,
-  title      = "A systematic literature review: Human roles, competencies and
-                skills in industry 4.0",
-  booktitle  = "The European Proceedings of Social and Behavioural Sciences",
-  author     = "Janis*, Ilyana and Alias, Maizam",
-  publisher  = "Cognitive-Crcs",
-  month      =  may,
-  year       =  2018,
-  url        = "http://dx.doi.org/10.15405/epsbs.2018.05.84",
-  conference = "AIMC 2017 - Asia International Multidisciplinary Conference",
-  issn       = "2357-1330",
-  doi        = "10.15405/epsbs.2018.05.84"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Waly2003-dy,
@@ -9627,6 +9613,21 @@
                  Articles",
   issn        = "1017-7833, 1302-9657",
   doi         = "10.1080/10177833.2010.11790666"
+}
+
+@INPROCEEDINGS{Janis2018-ek,
+  title      = "A systematic literature review: Human roles, competencies and
+                skills in industry 4.0",
+  booktitle  = "The European Proceedings of Social and Behavioural Sciences",
+  author     = "Janis*, Ilyana and Alias, Maizam",
+  publisher  = "Cognitive-Crcs",
+  month      =  may,
+  year       =  2018,
+  url        = "http://dx.doi.org/10.15405/epsbs.2018.05.84",
+  keywords   = "VET;VET",
+  conference = "AIMC 2017 - Asia International Multidisciplinary Conference",
+  issn       = "2357-1330",
+  doi        = "10.15405/epsbs.2018.05.84"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
