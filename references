@@ -28418,6 +28418,8 @@
               Learning;**CATALOGED;Labor;§New Literature;Notion Catalogued"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Nerland2021-cp,
   title       = "Challenging the Belief in Simple Solutions: the Need for
                  Epistemic Practices in Professional Work",
@@ -28465,7 +28467,7 @@
   month       =  jan,
   year        =  2021,
   url         = "http://dx.doi.org/10.1111/medu.14294",
-  keywords    = "VET",
+  keywords    = "+Notion;+Readwise;VET;Workplace Learning;§New Literature;VET",
   language    = "en",
   issn        = "0308-0110, 1365-2923",
   pmid        = "32683716",
