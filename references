@@ -8953,19 +8953,6 @@
   language  = "en"
 }
 
-@TECHREPORT{Brynjolfsson2023-wk,
-  title     = "The characteristics and geographic distribution of robot hubs in
-               U.s. manufacturing establishments",
-  author    = "Brynjolfsson, Erik and Buffington, Cathy and Goldschlag, Nathan
-               and Li, J Frank and Miranda, Javier and Seamans, Robert",
-  publisher = "National Bureau of Economic Research",
-  month     =  mar,
-  year      =  2023,
-  url       = "http://dx.doi.org/10.3386/w31062",
-  address   = "Cambridge, MA",
-  doi       = "10.3386/w31062"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Steinicke2014-vp,
@@ -28652,4 +28639,20 @@
   language  = "en",
   isbn      = "9781119098591",
   doi       = "10.1002/9781119098713"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@TECHREPORT{Brynjolfsson2023-wk,
+  title     = "The characteristics and geographic distribution of robot hubs in
+               U.s. manufacturing establishments",
+  author    = "Brynjolfsson, Erik and Buffington, Cathy and Goldschlag, Nathan
+               and Li, J Frank and Miranda, Javier and Seamans, Robert",
+  publisher = "National Bureau of Economic Research",
+  month     =  mar,
+  year      =  2023,
+  url       = "http://dx.doi.org/10.3386/w31062",
+  address   = "Cambridge, MA",
+  keywords  = "+Notion;+Readwise;§New Literature;Automation;Robots",
+  doi       = "10.3386/w31062"
 }
