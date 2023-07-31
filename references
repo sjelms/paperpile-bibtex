@@ -28794,8 +28794,10 @@
   language  = "en"
 }
 
-@BOOK{noauthor_2009-kt,
+@BOOK{Felstead2009-kt,
   title     = "Improving Working as Learning",
+  author    = "Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
+               Lorna",
   abstract  = "Interest in learning at work has captured the attention of many
                people around the world, often taking centre stage in policy
                debates about improving economic performance, prosperity and
