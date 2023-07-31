@@ -273,7 +273,7 @@
   year      =  2008,
   url       = "https://orca.cardiff.ac.uk/id/eprint/24344/",
   address   = "Cardiff",
-  keywords  = "+Notion;+Readwise;VET;Workplace Learning;§New Literature;VET",
+  keywords  = "+Notion;+Readwise;VET;Workplace Learning;§New Literature;UCL;VET",
   language  = "en"
 }
 
@@ -28790,10 +28790,12 @@
   year      =  2006,
   url       = "http://eprints.hud.ac.uk/8389/",
   address   = "Cardiff",
-  keywords  = "+Notion;+Readwise;VET;Workplace Learning;§New Literature;VET",
+  keywords  = "+Notion;+Readwise;VET;Workplace Learning;§New Literature;UCL;VET",
   language  = "en"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @BOOK{Felstead2009-kt,
   title     = "Improving Working as Learning",
   author    = "Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
@@ -28833,7 +28835,7 @@
   publisher = "Routledge",
   year      =  2009,
   url       = "https://play.google.com/store/books/details?id=h9LITvWR9GoC",
-  keywords  = "VET",
+  keywords  = "+Notion;+Readwise;UCL;VET;Workplace Learning;§New Literature;VET",
   language  = "en",
   isbn      = "9780415496452"
 }
