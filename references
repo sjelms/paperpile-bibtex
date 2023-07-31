@@ -232,6 +232,8 @@
   doi       = "10.1007/978-3-031-08518-5\_28"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Unwin2008-pi,
   title     = "Exploring the Dangers and Benefits of the {UK's} Permissive
                Competence-based Approach: the Use of Vocational Qualifications
@@ -271,7 +273,7 @@
   year      =  2008,
   url       = "https://orca.cardiff.ac.uk/id/eprint/24344/",
   address   = "Cardiff",
-  keywords  = "VET",
+  keywords  = "+Notion;+Readwise;VET;Workplace Learning;§New Literature;VET",
   language  = "en"
 }
 
@@ -28739,6 +28741,8 @@
   doi         = "10.1002/9781119098713.ch21"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Fuller2006-ki,
   title     = "Continuity, Change and Conflict: the Role of Learning and
                Knowing in Different Productive Systems",
@@ -28786,6 +28790,6 @@
   year      =  2006,
   url       = "http://eprints.hud.ac.uk/8389/",
   address   = "Cardiff",
-  keywords  = "VET",
+  keywords  = "+Notion;+Readwise;VET;Workplace Learning;§New Literature;VET",
   language  = "en"
 }
