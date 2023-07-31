@@ -28737,3 +28737,45 @@
   isbn        = "9781119098713, 9781119098591",
   doi         = "10.1002/9781119098713.ch21"
 }
+
+@ARTICLE{Unwin2008-ki,
+  title     = "Exploring the dangers and benefits of the {UK's} permissive
+               competence-based approach: the use of vocational qualifications
+               as learning artefacts and tools for measurement in the
+               automotive sector",
+  author    = "Unwin, Lorna and Fuller, Alison and Bishop, Dan and Felstead,
+               Alan and Jewson, Nick and Kakavelakis, Konstantinos",
+  abstract  = "This paper presents evidence to show how vocational
+               qualifications act as boundary objects in the stimulation of
+               learning at work and how they, in turn, become the catalyst for
+               the creation of artefacts that have a purpose and existence
+               beyond the life cycle of an accreditation process. The context
+               for the paper is the UK's automotive manufacturing industry, a
+               sector that has undergone considerable change over the past
+               thirty or so years and has been under intense pressure to
+               improve standards. The paper presents evidence from case studies
+               of two companies that produce parts for global car
+               manufacturers. These companies have introduced competence-based
+               approaches in order to audit and assess the skills of their
+               workforces in response to demands from the companies they supply
+               that they can prove their employees are working to the required
+               international quality standards. The competence-based approach,
+               which is contested in the academic literature, has enabled
+               employees to gain National Vocational Qualifications (NVQs),
+               which, in turn, are still controversial some twenty years after
+               they were first introduced. The paper argues that a
+               competence-based approach can be beneficial to both
+               organisations and individuals, but the ambiguities inherent in
+               the NVQ model of competence create tensions and opportunities
+               for restrictive as well as expansive forms implementation.",
+  journal   = "Learning as Work: Teaching and Learning Processes in
+               Contemporary Work Organisations",
+  publisher = "Cardiff School of Social Sciences , Cardiff University",
+  number    =  15,
+  series    = "Learning as Work Research Paper",
+  month     =  jan,
+  year      =  2008,
+  url       = "https://orca.cardiff.ac.uk/id/eprint/24344/",
+  address   = "Cardiff",
+  language  = "en"
+}
