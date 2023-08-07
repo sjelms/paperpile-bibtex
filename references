@@ -57,7 +57,8 @@
   month       =  sep,
   year        =  2020,
   url         = "http://dx.doi.org/10.1061/(asce)co.1943-7862.0001909",
-  keywords    = "+Notion;+Readwise;§New Literature;AEC;Construction 4.0",
+  keywords    = "+Notion;+Readwise;§New Literature;AEC;Important;Construction
+                 4.0",
   language    = "en",
   issn        = "0733-9364, 1943-7862",
   doi         = "10.1061/(asce)co.1943-7862.0001909"
