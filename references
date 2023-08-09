@@ -1492,6 +1492,32 @@
   isbn      = "9781136284953"
 }
 
+@ARTICLE{Cattaneo2019-ax,
+  title       = "A model for designing hypervideo-based instructional scenarios",
+  author      = "Cattaneo, Alberto A P and van der Meij, Hans and Aprea,
+                 Carmela and Sauli, Florinda and Zahn, Carmen",
+  affiliation = "Research and Development Department, Swiss Federal Institute
+                 for Vocational Education and Training, Lugano, Switzerland;
+                 Faculty of Behavioural, Management and Social Sciences,
+                 Department of Educational Science and Technology, University
+                 of Twente, Enschede, the Netherlands; School of Economics and
+                 Business Administration, Friedrich-Schiller-University Jena,
+                 Jena, Germany; School of Applied Psychology, University of
+                 Applied Sciences and Arts Northwestern Switzerland, Olten,
+                 Switzerland",
+  journal     = "Interactive learning environments",
+  publisher   = "Informa UK Limited",
+  volume      =  27,
+  number      =  4,
+  pages       = "508--529",
+  month       =  may,
+  year        =  2019,
+  url         = "http://dx.doi.org/10.1080/10494820.2018.1486860",
+  language    = "en",
+  issn        = "1049-4820, 1744-5191",
+  doi         = "10.1080/10494820.2018.1486860"
+}
+
 @ARTICLE{The_Data_Team2018-ue,
   title     = "A study finds nearly half of jobs are vulnerable to automation",
   author    = "{The Data Team}",
