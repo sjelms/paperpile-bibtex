@@ -1492,6 +1492,8 @@
   isbn      = "9781136284953"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Cattaneo2019-ax,
   title       = "A model for designing hypervideo-based instructional scenarios",
   author      = "Cattaneo, Alberto A P and van der Meij, Hans and Aprea,
@@ -1513,6 +1515,8 @@
   month       =  may,
   year        =  2019,
   url         = "http://dx.doi.org/10.1080/10494820.2018.1486860",
+  keywords    = "VET;Workplace Learning;Multimedia;Knowledge - Skill
+                 Acquisition;§New Literature;+Readwise;+Notion;VET",
   language    = "en",
   issn        = "1049-4820, 1744-5191",
   doi         = "10.1080/10494820.2018.1486860"
