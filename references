@@ -27040,6 +27040,8 @@
   doi      = "10.31234/osf.io/xvrhm"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Weinstein2018-oh,
   title     = "Teaching the science of learning",
   author    = "Weinstein, Yana and Madan, Christopher R and Sumeracki, Megan A",
@@ -27050,7 +27052,8 @@
   month     =  dec,
   year      =  2018,
   url       = "http://dx.doi.org/10.1186/s41235-017-0087-y",
-  keywords  = "Knowledge - Skill Acquisition;00\_TO READ",
+  keywords  = "Knowledge - Skill Acquisition;+Notion;+Readwise;§New
+               Literature;00\_TO READ",
   language  = "en",
   issn      = "2365-7464",
   doi       = "10.1186/s41235-017-0087-y"
