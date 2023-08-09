@@ -8599,21 +8599,6 @@
   doi       = "10.2307/j.ctvjf9vz4"
 }
 
-@ARTICLE{Weinstein2018-oh,
-  title     = "Teaching the science of learning",
-  author    = "Weinstein, Yana and Madan, Christopher R and Sumeracki, Megan A",
-  journal   = "Cognitive research: principles and implications",
-  publisher = "Springer Science and Business Media LLC",
-  volume    =  3,
-  number    =  1,
-  month     =  dec,
-  year      =  2018,
-  url       = "http://dx.doi.org/10.1186/s41235-017-0087-y",
-  language  = "en",
-  issn      = "2365-7464",
-  doi       = "10.1186/s41235-017-0087-y"
-}
-
 @ARTICLE{Denhart2008-uz,
   title       = "Deconstructing barriers: perceptions of students labeled with
                  learning disabilities in higher education",
@@ -27053,6 +27038,22 @@
   url      = "psyarxiv.com/xvrhm",
   keywords = "Research Methods;Theory and Methods",
   doi      = "10.31234/osf.io/xvrhm"
+}
+
+@ARTICLE{Weinstein2018-oh,
+  title     = "Teaching the science of learning",
+  author    = "Weinstein, Yana and Madan, Christopher R and Sumeracki, Megan A",
+  journal   = "Cognitive research: principles and implications",
+  publisher = "Springer Science and Business Media LLC",
+  volume    =  3,
+  number    =  1,
+  month     =  dec,
+  year      =  2018,
+  url       = "http://dx.doi.org/10.1186/s41235-017-0087-y",
+  keywords  = "00\_TO READ",
+  language  = "en",
+  issn      = "2365-7464",
+  doi       = "10.1186/s41235-017-0087-y"
 }
 
 @ARTICLE{Collins2018-pt,
