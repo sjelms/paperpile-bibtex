@@ -8389,6 +8389,8 @@
   keywords  = "Website;*Upgrade Report 2023"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Joshua_B2016-ki,
   title     = "Technical, arcane, interpersonal, and embodied expertise",
   booktitle = "Expertise, Communication, and Organizing",
@@ -8402,6 +8404,7 @@
   year      =  2016,
   url       = "https://academic.oup.com/book/2397/chapter-abstract/142600227?redirectedFrom=fulltext",
   address   = "London, England",
+  keywords  = "Workplace Learning;+Notion;+Readwise;§New Literature;VET",
   language  = "en",
   doi       = "10.1093/acprof:oso/9780198739227.003.0003"
 }
