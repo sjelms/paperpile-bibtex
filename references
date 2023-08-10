@@ -9126,8 +9126,9 @@
 
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
-@INBOOK{Russ-Eft2011-xj,
+@INCOLLECTION{Russ-Eft2011-xj,
   title     = "Towards a {Meta-Theory} of Learning and Performance",
+  booktitle = "The {SAGE} Handbook of Workplace Learning",
   author    = "Russ-Eft, Darlene",
   abstract  = "This Handbook provides a state-of --the art overview of the
                field of workplace learning from a global perspective. The
