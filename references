@@ -1492,6 +1492,36 @@
   isbn      = "9781136284953"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Cattaneo2019-ax,
+  title       = "A model for designing hypervideo-based instructional scenarios",
+  author      = "Cattaneo, Alberto A P and van der Meij, Hans and Aprea,
+                 Carmela and Sauli, Florinda and Zahn, Carmen",
+  affiliation = "Research and Development Department, Swiss Federal Institute
+                 for Vocational Education and Training, Lugano, Switzerland;
+                 Faculty of Behavioural, Management and Social Sciences,
+                 Department of Educational Science and Technology, University
+                 of Twente, Enschede, the Netherlands; School of Economics and
+                 Business Administration, Friedrich-Schiller-University Jena,
+                 Jena, Germany; School of Applied Psychology, University of
+                 Applied Sciences and Arts Northwestern Switzerland, Olten,
+                 Switzerland",
+  journal     = "Interactive learning environments",
+  publisher   = "Informa UK Limited",
+  volume      =  27,
+  number      =  4,
+  pages       = "508--529",
+  month       =  may,
+  year        =  2019,
+  url         = "http://dx.doi.org/10.1080/10494820.2018.1486860",
+  keywords    = "VET;Workplace Learning;Multimedia;Knowledge - Skill
+                 Acquisition;§New Literature;+Readwise;+Notion;VET;00\_TO READ",
+  language    = "en",
+  issn        = "1049-4820, 1744-5191",
+  doi         = "10.1080/10494820.2018.1486860"
+}
+
 @ARTICLE{The_Data_Team2018-ue,
   title     = "A study finds nearly half of jobs are vulnerable to automation",
   author    = "{The Data Team}",
@@ -7222,24 +7252,6 @@
 
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
-@INCOLLECTION{Sawchuk2013-ux,
-  title     = "Researching Workplace Learning: an Overview and Critique",
-  booktitle = "The {SAGE} Handbook of Workplace Learning",
-  author    = "Sawchuk, Peter H",
-  publisher = "SAGE Publications Ltd",
-  pages     = "165--180",
-  year      =  2013,
-  url       = "http://dx.doi.org/10.4135/9781446200940.n12",
-  address   = "1 Oliver's Yard, 55 City Road, London EC1Y 1SP United Kingdom",
-  keywords  = "§New Literature;Workplace Learning;ePub |
-               Kindle;++ClickUp;+Notion;+Readwise;SAGE Handbook of Workplace
-               Learning, The;EPubs Books",
-  isbn      = "9781847875891, 9781446200940",
-  doi       = "10.4135/9781446200940.n12"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
 @INCOLLECTION{Cheng2013-jx,
   title     = "Technology and Knowledge Management",
   booktitle = "The {SAGE} Handbook of Workplace Learning",
@@ -7270,24 +7282,6 @@
                of Workplace Learning, The;EPubs Books",
   isbn      = "9781847875891, 9781446200940",
   doi       = "10.4135/9781446200940.n29"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@INCOLLECTION{Hager2013-ey,
-  title     = "Theories of Workplace Learning",
-  booktitle = "The {SAGE} Handbook of Workplace Learning",
-  author    = "Hager, Paul",
-  publisher = "SAGE Publications Ltd",
-  pages     = "17--31",
-  year      =  2013,
-  url       = "http://dx.doi.org/10.4135/9781446200940.n2",
-  address   = "1 Oliver's Yard, 55 City Road, London EC1Y 1SP United Kingdom",
-  keywords  = "§New Literature;Workplace Learning;ePub |
-               Kindle;Important;++ClickUp;+Notion;+Readwise;SAGE Handbook of
-               Workplace Learning, The;00\_TO READ;EPubs Books",
-  isbn      = "9781847875891, 9781446200940",
-  doi       = "10.4135/9781446200940.n2"
 }
 
 @BOOK{Salvadori1980-nu,
@@ -9158,36 +9152,6 @@
   language  = "en",
   isbn      = "9781847875891",
   doi       = "10.4135/9781446200940"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@ARTICLE{Cattaneo2019-ax,
-  title       = "A model for designing hypervideo-based instructional scenarios",
-  author      = "Cattaneo, Alberto A P and van der Meij, Hans and Aprea,
-                 Carmela and Sauli, Florinda and Zahn, Carmen",
-  affiliation = "Research and Development Department, Swiss Federal Institute
-                 for Vocational Education and Training, Lugano, Switzerland;
-                 Faculty of Behavioural, Management and Social Sciences,
-                 Department of Educational Science and Technology, University
-                 of Twente, Enschede, the Netherlands; School of Economics and
-                 Business Administration, Friedrich-Schiller-University Jena,
-                 Jena, Germany; School of Applied Psychology, University of
-                 Applied Sciences and Arts Northwestern Switzerland, Olten,
-                 Switzerland",
-  journal     = "Interactive learning environments",
-  publisher   = "Informa UK Limited",
-  volume      =  27,
-  number      =  4,
-  pages       = "508--529",
-  month       =  may,
-  year        =  2019,
-  url         = "http://dx.doi.org/10.1080/10494820.2018.1486860",
-  keywords    = "VET;Workplace Learning;Multimedia;Knowledge - Skill
-                 Acquisition;§New Literature;+Readwise;+Notion;VET",
-  language    = "en",
-  issn        = "1049-4820, 1744-5191",
-  doi         = "10.1080/10494820.2018.1486860"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -22899,6 +22863,42 @@
   pmid        = "35463804",
   doi         = "10.1007/s10798-021-09722-1",
   pmc         = "PMC9016211"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@INCOLLECTION{Sawchuk2013-ux,
+  title     = "Researching Workplace Learning: an Overview and Critique",
+  booktitle = "The {SAGE} Handbook of Workplace Learning",
+  author    = "Sawchuk, Peter H",
+  publisher = "SAGE Publications Ltd",
+  pages     = "165--180",
+  year      =  2013,
+  url       = "http://dx.doi.org/10.4135/9781446200940.n12",
+  address   = "1 Oliver's Yard, 55 City Road, London EC1Y 1SP United Kingdom",
+  keywords  = "§New Literature;Workplace Learning;ePub |
+               Kindle;++ClickUp;+Notion;+Readwise;SAGE Handbook of Workplace
+               Learning, The;EPubs Books",
+  isbn      = "9781847875891, 9781446200940",
+  doi       = "10.4135/9781446200940.n12"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@INCOLLECTION{Hager2013-ey,
+  title     = "Theories of Workplace Learning",
+  booktitle = "The {SAGE} Handbook of Workplace Learning",
+  author    = "Hager, Paul",
+  publisher = "SAGE Publications Ltd",
+  pages     = "17--31",
+  year      =  2013,
+  url       = "http://dx.doi.org/10.4135/9781446200940.n2",
+  address   = "1 Oliver's Yard, 55 City Road, London EC1Y 1SP United Kingdom",
+  keywords  = "§New Literature;Workplace Learning;ePub |
+               Kindle;Important;++ClickUp;+Notion;+Readwise;SAGE Handbook of
+               Workplace Learning, The;00\_TO READ;EPubs Books",
+  isbn      = "9781847875891, 9781446200940",
+  doi       = "10.4135/9781446200940.n2"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
