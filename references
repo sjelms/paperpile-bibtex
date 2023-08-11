@@ -26688,6 +26688,8 @@
   isbn      = "9780803937796"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @BOOK{Brown2014-ri,
   title     = "Make it stick: The science of successful learning",
   author    = "Brown, Peter C and Roediger, III, Henry L and McDaniel, Mark A",
@@ -26700,6 +26702,7 @@
   month     =  apr,
   year      =  2014,
   address   = "London, England",
+  keywords  = "+Notion;+Readwise;§New Literature;ePub | Kindle",
   language  = "en",
   isbn      = "9780674729018"
 }
