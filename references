@@ -268,6 +268,8 @@
   doi       = "10.1037/h0068244"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INPROCEEDINGS{Cuendet2012-vd,
   title       = "Tangible interfaces: when physical--virtual coupling may be
                  detrimental to learning",
@@ -279,6 +281,7 @@
   publisher   = "BCS Learning \& Development",
   year        =  2012,
   url         = "http://dx.doi.org/10.14236/ewic/hci2012.10",
+  keywords    = "+Notion;+Readwise;§New Literature;\_XR/MR",
   conference  = "The 26th BCS Conference on Human Computer Interaction",
   issn        = "1477-9358",
   doi         = "10.14236/ewic/hci2012.10"
