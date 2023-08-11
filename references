@@ -161,6 +161,8 @@
   isbn      = "9780674729018"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @BOOK{Kaptelinin2022-kb,
   title     = "Activity Theory in {HCI}: Fundamentals and Reflections",
   author    = "Kaptelinin, Victor and Nardi, Bonnie",
@@ -194,7 +196,7 @@
   month     =  may,
   year      =  2022,
   url       = "https://play.google.com/store/books/details?id=OYlyEAAAQBAJ",
-  keywords  = "HCI",
+  keywords  = "HCI;Research Methods;§New Literature",
   language  = "en",
   isbn      = "9783031021961"
 }
