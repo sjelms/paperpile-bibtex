@@ -26688,6 +26688,22 @@
   isbn      = "9780803937796"
 }
 
+@BOOK{Brown2014-ri,
+  title     = "Make it stick: The science of successful learning",
+  author    = "Brown, Peter C and Roediger, III, Henry L and McDaniel, Mark A",
+  abstract  = "Discusses the best methods of learning, describing how rereading
+               and rote repetition are counterproductive and how such
+               techniques as self-testing, spaced retrieval, and finding
+               additional layers of information in new material can enhance
+               learning.",
+  publisher = "Harvard University Press",
+  month     =  apr,
+  year      =  2014,
+  address   = "London, England",
+  language  = "en",
+  isbn      = "9780674729018"
+}
+
 @TECHREPORT{Meisels2022-rj,
   title       = "2023 Engineering and Construction Industry Outlook",
   author      = "Meisels, Michelle and Wellener, Paul and Hardin, Kate",
