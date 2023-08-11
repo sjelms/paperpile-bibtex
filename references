@@ -222,6 +222,20 @@
   doi       = "10.1093/acprof:oso/9780198739227.003.0003"
 }
 
+@BOOK{Littlejohn2013-gj,
+  title       = "Technology-enhanced professional learning: Processes,
+                 practices, and tools",
+  editor      = "Littlejohn, Allison and Margaryan, Anoush",
+  affiliation = "Glasgow Caledonian University, UK",
+  publisher   = "Routledge",
+  series      = "Advancing Technology Enhanced Learning",
+  month       =  oct,
+  year        =  2013,
+  address     = "London, England",
+  language    = "en",
+  isbn        = "9780415854092"
+}
+
 @ARTICLE{The_Data_Team2018-ue,
   title     = "A study finds nearly half of jobs are vulnerable to automation",
   author    = "{The Data Team}",
