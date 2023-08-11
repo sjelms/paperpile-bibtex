@@ -926,7 +926,7 @@
   month     =  sep,
   year      =  2021,
   url       = "https://www.nytimes.com/2021/09/09/us/politics/biden-infrastructure-plan.html",
-  keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers",
+  keywords  = "Economics;Zotero Import (Feb 22);My Library;2021-12-03 Frontiers",
   language  = "en",
   issn      = "0362-4331, 1553-8095"
 }
@@ -2656,7 +2656,7 @@
   month    =  jun,
   year     =  2015,
   url      = "https://www.nationalgeographic.com/science/article/150603-science-technology-robots-economics-unemployment-automation-ngbooktalk",
-  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
+  keywords = "Economics;Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
 @BOOK{Ford2015-sa,
@@ -5785,7 +5785,8 @@
   year      =  2014,
   address   = "New York, NY",
   keywords  = "Book (physical);Cited for Frontiers;Audiobook;ePub |
-               Kindle;Frontiers [2022];*Upgrade Report 2023;EPubs Books",
+               Kindle;Economics;Frontiers [2022];*Upgrade Report 2023;EPubs
+               Books",
   language  = "en",
   isbn      = "9780393239355"
 }
@@ -6705,8 +6706,8 @@
   month     =  jan,
   year      =  1989,
   url       = "https://doi.org/10.1177/001979398904200201",
-  keywords  = "Labor;Cited for Frontiers;+Notion;Frontiers [2022];Journal
-               Articles",
+  keywords  = "Labor;Cited for Frontiers;+Notion;Economics;Frontiers
+               [2022];Journal Articles",
   issn      = "0019-7939",
   doi       = "10.1177/001979398904200201"
 }
@@ -7374,8 +7375,8 @@
   month     =  sep,
   year      =  2017,
   url       = "https://ervet-journal.springeropen.com/articles/10.1186/s40461-017-0060-5",
-  keywords  = "Workplace Learning;Knowledge - Skill Acquisition;VET;Journal
-               Articles;VET",
+  keywords  = "Workplace Learning;Knowledge - Skill
+               Acquisition;VET;Economics;Journal Articles;VET",
   language  = "en",
   issn      = "1877-6345, 1877-6345",
   doi       = "10.1186/s40461-017-0060-5"
@@ -9482,7 +9483,7 @@
   institution = "Department for Business, Innovation \& Skills",
   month       =  nov,
   year        =  2012,
-  keywords    = "Workplace Learning;+Notion;+Readwise;§New Literature"
+  keywords    = "Workplace Learning;+Notion;+Readwise;§New Literature;Economics"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -12401,7 +12402,8 @@
   month       =  jun,
   year        =  2017,
   url         = "https://www.pwc.co.uk/services/economics/insights/the-impact-of-artificial-intelligence-on-the-uk-economy.html",
-  keywords    = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
+  keywords    = "Economics;Zotero Import (Feb 22);My Library;2021-12-03
+                 Frontiers"
 }
 
 @TECHREPORT{Sarma2020-br,
@@ -14681,7 +14683,7 @@
   url          = "https://www.gov.uk/government/news/major-expansion-of-post-18-education-and-training-to-level-up-and-prepare-workers-for-post-covid-economy",
   howpublished = "\url{https://www.gov.uk/government/news/major-expansion-of-post-18-education-and-training-to-level-up-and-prepare-workers-for-post-covid-economy}",
   note         = "Accessed: 2022-9-17",
-  keywords     = "Training;**CATALOGED;Notion Catalogued",
+  keywords     = "Training;**CATALOGED;Economics;Notion Catalogued",
   language     = "en"
 }
 
@@ -19343,7 +19345,7 @@
                cyber-physical systems; smart city; energy policy; energy
                efficient buildings; level's; construction industry; building
                renovation passport; digital building
-               logbooks;AEC;Labor;+Notion;+Readwise;Essential;++ClickUp;Marco
+               logbooks;AEC;Labor;+Notion;+Readwise;Essential;++ClickUp;Economics;Marco
                Casini Construction 4.0;*Upgrade Report 2023;00\_TO READ",
   isbn      = "9780128217979",
   doi       = "10.1016/B978-0-12-821797-9.00011-8"
@@ -25810,8 +25812,8 @@
   month       =  aug,
   year        =  2021,
   url         = "http://dx.doi.org/10.1002/pa.2264",
-  keywords    = "Skills Assessment Methodology;Construction 4.0;Journal
-                 Articles",
+  keywords    = "Economics;Skills Assessment Methodology;Construction
+                 4.0;Journal Articles",
   copyright   = "http://onlinelibrary.wiley.com/termsAndConditions\#vor",
   language    = "en",
   issn        = "1472-3891, 1479-1854",
