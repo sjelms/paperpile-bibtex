@@ -25616,6 +25616,8 @@
   doi      = "10.53761/1.15.4.5"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Berger2017-ln,
   title       = "Industrial Renewal in the 21st Century: Evidence From {US}
                  Cities",
@@ -25644,7 +25646,8 @@
   month       =  mar,
   year        =  2017,
   url         = "http://dx.doi.org/10.1080/00343404.2015.1100288",
-  keywords    = "Workplace Learning",
+  keywords    = "Workplace Learning;+Notion;+Readwise;Skill demand;§New
+                 Literature",
   language    = "en",
   issn        = "0034-3404, 1360-0591",
   doi         = "10.1080/00343404.2015.1100288"
