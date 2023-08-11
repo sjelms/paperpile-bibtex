@@ -1699,8 +1699,8 @@
   year        =  2013,
   url         = "https://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf",
   keywords    = "Employment;Occupational choice;Skill demand;Technological
-                 change;Wage inequality;Zotero Import (Feb 22);My Library;EPubs
-                 Books;*Upgrade Report 2023",
+                 change;Wage inequality;Economics;Zotero Import (Feb 22);My
+                 Library;EPubs Books;*Upgrade Report 2023",
   doi         = "10.1016/j.techfore.2016.08.019"
 }
 
@@ -3995,8 +3995,8 @@
   year     =  2017,
   url      = "https://www.sciencedirect.com/science/article/pii/S0040162516302244",
   keywords = "Employment;Occupational choice;Skill demand;Technological
-              change;Wage inequality;ePub | Kindle;Zotero Import (Feb 22);My
-              Library;EPubs Books;*Upgrade Report 2023;Journal Articles",
+              change;Wage inequality;ePub | Kindle;Economics;Zotero Import (Feb
+              22);My Library;EPubs Books;*Upgrade Report 2023;Journal Articles",
   issn     = "0040-1625",
   doi      = "10.1016/j.techfore.2016.08.019"
 }
@@ -7559,7 +7559,7 @@
   pages    = "47",
   month    =  apr,
   year     =  2022,
-  keywords = "Workplace Learning;§New Literature;Journal Articles",
+  keywords = "Workplace Learning;§New Literature;Economics;Journal Articles",
   pmid     = "2022-4"
 }
 
@@ -12383,8 +12383,8 @@
   publisher = "Princeton University Press",
   year      =  2019,
   url       = "https://books.google.co.uk/books?id=xXGODwAAQBAJ",
-  keywords  = "Cited for Frontiers;Book (physical);Audiobook;Zotero Import (Feb
-               22);My Library;Frontiers [2022];*Upgrade Report 2023",
+  keywords  = "Cited for Frontiers;Book (physical);Audiobook;Economics;Zotero
+               Import (Feb 22);My Library;Frontiers [2022];*Upgrade Report 2023",
   isbn      = "9780691172798"
 }
 
@@ -25647,7 +25647,7 @@
   year        =  2017,
   url         = "http://dx.doi.org/10.1080/00343404.2015.1100288",
   keywords    = "Workplace Learning;+Notion;+Readwise;Skill demand;§New
-                 Literature",
+                 Literature;Economics",
   language    = "en",
   issn        = "0034-3404, 1360-0591",
   doi         = "10.1080/00343404.2015.1100288"
