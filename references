@@ -1450,8 +1450,8 @@
   year      =  2002,
   url       = "http://dx.doi.org/10.1080/13501780210137119",
   keywords  = "+Notion;+Readwise;§New Literature;Research
-               Methods;++ClickUp;Theory and Methods;Grounded Theory;00\_TO
-               READ;Journal Articles",
+               Methods;++ClickUp;Economics;Theory and Methods;Grounded
+               Theory;00\_TO READ;Journal Articles",
   language  = "en",
   issn      = "1350-178X, 1469-9427",
   doi       = "10.1080/13501780210137119"
@@ -3109,7 +3109,7 @@
   institution = "The Brookings Institution",
   month       =  mar,
   year        =  2020,
-  keywords    = "Zotero Import (Feb 22);My Library;2021-12-03
+  keywords    = "Economics;Zotero Import (Feb 22);My Library;2021-12-03
                  Frontiers;Healthcare + CME"
 }
 
@@ -5105,9 +5105,10 @@
                  Center",
   month       =  dec,
   year        =  2020,
-  keywords    = "Intelligent Tutoring Systems (ITS);**CATALOGED;Zotero Import
-                 (Feb 22);My Library;2021-12-03 Frontiers;Intelligent Tutoring
-                 Systems (ITS);Notion Catalogued"
+  keywords    = "Intelligent Tutoring Systems
+                 (ITS);**CATALOGED;Economics;Zotero Import (Feb 22);My
+                 Library;2021-12-03 Frontiers;Intelligent Tutoring Systems
+                 (ITS);Notion Catalogued"
 }
 
 @ARTICLE{Mousavinasab2021-eg,
@@ -7120,7 +7121,7 @@
   month    =  jan,
   year     =  2020,
   url      = "https://www.sciendo.com/article/10.2478/bjreecm-2020-0006",
-  keywords = "AEC;Labor;@\_Mark Up;Journal Articles",
+  keywords = "AEC;Labor;@\_Mark Up;Economics;Journal Articles",
   doi      = "10.2478/bjreecm-2020-0006"
 }
 
@@ -12086,7 +12087,8 @@
   year      =  2011,
   url       = "https://boris.unibe.ch/9563/",
   address   = "Rotterdam",
-  keywords  = "Knowledge - Skill Acquisition;Workplace Learning;VET;VET",
+  keywords  = "Knowledge - Skill Acquisition;Workplace
+               Learning;VET;Economics;VET",
   language  = "en",
   isbn      = "9789460915741"
 }
@@ -21143,8 +21145,8 @@
   month    =  mar,
   year     =  2021,
   url      = "https://www.sciencedirect.com/science/article/pii/S2405872621000010",
-  keywords = "Interaction design; Ideals;Course Assignment;Week 1\_ Design and
-              technology;Journal Articles",
+  keywords = "Interaction design; Ideals;Course Assignment;Economics;Week 1\_
+              Design and technology;Journal Articles",
   issn     = "2405-8726",
   doi      = "10.1016/j.sheji.2020.12.001"
 }
@@ -21715,7 +21717,8 @@
   url      = "https://www.sciencedirect.com/science/article/pii/S2212567115001719",
   keywords = "refurbishment; tacit knowledge; social motivations; knowledge
               management system; platforms;+Notion;+Readwise;AEC;§New
-              Literature;Construction 4.0;*Upgrade Report 2023;Journal Articles",
+              Literature;Economics;Construction 4.0;*Upgrade Report
+              2023;Journal Articles",
   issn     = "2212-5671",
   doi      = "10.1016/S2212-5671(15)00171-9"
 }
@@ -22571,7 +22574,7 @@
   address   = "Oxford",
   keywords  = "Human capital; Investment in skills; Returns to
                education;+Notion;+Readwise;Research Methods;§New
-               Literature;Human Capital",
+               Literature;Economics;Human Capital",
   isbn      = "9780080448947",
   doi       = "10.1016/B978-0-08-044894-7.01213-6"
 }
@@ -23010,7 +23013,7 @@
   url          = "https://eyeonhousing.org/2021/07/most-homebuilders-are-small-businesses-2/",
   howpublished = "\url{https://eyeonhousing.org/2021/07/most-homebuilders-are-small-businesses-2/}",
   note         = "Accessed: 2023-2-23",
-  keywords     = "Website;*Upgrade Report 2023",
+  keywords     = "Website;Economics;*Upgrade Report 2023",
   language     = "en"
 }
 
@@ -25969,7 +25972,8 @@
   month     =  apr,
   year      =  2019,
   url       = "http://dx.doi.org/10.1017/s1744137418000334",
-  keywords  = "Research Methods;Skills Assessment Methodology;Journal Articles",
+  keywords  = "Research Methods;Economics;Skills Assessment Methodology;Journal
+               Articles",
   language  = "en",
   issn      = "1744-1374, 1744-1382",
   doi       = "10.1017/s1744137418000334"
@@ -29000,8 +29004,8 @@
   year      =  2019,
   url       = "https://play.google.com/store/books/details?id=oQ-DDwAAQBAJ",
   keywords  = "+Notion;+Readwise;ePub | Kindle;VET;Workplace Learning;§New
-               Literature;UCL;++ClickUp;Handbook of Vocational Education and
-               Training;00\_TO READ",
+               Literature;UCL;++ClickUp;Economics;Handbook of Vocational
+               Education and Training;00\_TO READ",
   language  = "en",
   isbn      = "9781119098591",
   doi       = "10.1002/9781119098713"
