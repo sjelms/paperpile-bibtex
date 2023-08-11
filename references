@@ -26022,13 +26022,15 @@
   isbn      = "9780674744875"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @BOOK{Dewey2019-uh,
   title     = "Democracy and Education",
   author    = "Dewey, John",
   publisher = "Independently Published",
   month     =  dec,
   year      =  2019,
-  keywords  = "ePub | Kindle",
+  keywords  = "ePub | Kindle;+Notion;+Readwise;§New Literature;Education",
   isbn      = "9781678881702"
 }
 
