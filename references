@@ -19241,6 +19241,8 @@
   doi       = "10.3390/buildings11010017"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Dede2023-ot,
   title     = "Developing a next-generation model for massive digital learning",
   author    = "Dede, Chris and Lidwell, William",
@@ -19285,6 +19287,7 @@
   month     =  aug,
   year      =  2023,
   url       = "https://www.mdpi.com/2227-7102/13/8/845",
+  keywords  = "+Notion;+Readwise;§New Literature;Digital Literacies",
   language  = "en",
   issn      = "2227-7102",
   doi       = "10.3390/educsci13080845"
