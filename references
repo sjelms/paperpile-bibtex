@@ -1553,6 +1553,39 @@
   isbn     = "9780203125083"
 }
 
+@BOOK{Smith2017-zx,
+  title     = "Offsite Architecture: Constructing the future",
+  author    = "Smith, Ryan E and Quale, John D",
+  abstract  = "Architects have been intrigued by prefabricated construction
+               since the early twentieth century. Recent advances in design,
+               engineering and manufacturing processes have led to a
+               significant expansion in the use of pre-assembled components,
+               which are fitted to finished structures on site. Collectively,
+               such processes are becoming known as ``offsite construction.'' A
+               ground-breaking text, Offsite Architecture establishes the
+               current -- and future -- state of thinking in this field. A
+               range of the most highly regarded thinkers and practitioners
+               from around the globe share their ideas and practical findings
+               on offsite prefabrication, examining theory and practice,
+               opportunities and challenges, successes and failures. A timely
+               response to the growing interest in this method, the book
+               provides the fundamental basis for a critical, reflective
+               approach to offsite architecture. Contributions from both
+               academics and professionals make Offsite Architecture required
+               reading for practitioners as well as students taking courses in
+               architecture, prefabrication, construction and engineering.",
+  publisher = "Routledge",
+  month     =  mar,
+  year      =  2017,
+  url       = "https://www.routledge.com/Offsite-Architecture-Constructing-the-future/Smith-Quale/p/book/9781138821392",
+  keywords  = "AEC;ePub | Kindle;Essential;Important;@\_Mark
+               Up;**CATALOGED;++ClickUp;Construction 4.0;Notion
+               Catalogued;*Upgrade Report 2023;00\_TO READ;Offsite
+               Architecture: Constructing the Future;EPubs Books",
+  language  = "en",
+  isbn      = "9781317588818"
+}
+
 @BOOK{Aitchison2018-cw,
   title     = "Prefab Housing and the Future of Building: Product to Process",
   author    = "Aitchison, Mathew",
@@ -1723,37 +1756,6 @@
   issn      = "2210-5549, 2210-5557",
   isbn      = "9783031085178, 9783031085185",
   doi       = "10.1007/978-3-031-08518-5\_28"
-}
-
-@PHDTHESIS{Kuzmanovska2020-kw,
-  title     = "Building Design for Manufacture and Assembly ({BDfMA)}:
-               Reframing the {Design-Production} Relationship in Industrialised
-               Construction",
-  author    = "Kuzmanovska, Ivana",
-  editor    = "Aitchison, Mathew and Maxwell, Duncan",
-  abstract  = "This thesis examines how an engineering concept derived from the
-               manufacturing industries---Design for Manufacture and Assembly
-               (DfMA)---might be applied to the design and production of
-               buildings. DfMA is an approach to improving production
-               efficiency through product design, and has traditionally been
-               heavily focused on the optimisation of the M, manufacturing, and
-               A, assembly aspects. This study identifies the need for a
-               construction-specific DfMA, proposing a re-evaluation and
-               valorisation of the D, Design. A preliminary Building Design for
-               Manufacture and Assembly framework is proposed, which serves to
-               highlight the interdependence of building design decisions with
-               respect to production.",
-  publisher = "Monash University",
-  month     =  oct,
-  year      =  2020,
-  url       = "https://bridges.monash.edu/articles/thesis/Building_Design_for_Manufacture_and_Assembly_BDfMA_Reframing_the_Design-Production_Relationship_in_Industrialised_Construction/13166543/1",
-  school    = "Monash University",
-  keywords  = "DfMA; Design for Manufacture and Assembly; Building Design;
-               Industrialised Construction; Industrialised Building;
-               Agricultural Engineering; Building not elsewhere classified;
-               Architectural Design; Design;Thesis;AEC;Construction 4.0",
-  language  = "en",
-  doi       = "10.26180/13166543.v1"
 }
 
 @MISC{Wikipedia_contributors2022-fx,
@@ -7508,39 +7510,6 @@
   doi       = "10.1201/9781315147321-11"
 }
 
-@BOOK{Smith2017-zx,
-  title     = "Offsite Architecture: Constructing the future",
-  author    = "Smith, Ryan E and Quale, John D",
-  abstract  = "Architects have been intrigued by prefabricated construction
-               since the early twentieth century. Recent advances in design,
-               engineering and manufacturing processes have led to a
-               significant expansion in the use of pre-assembled components,
-               which are fitted to finished structures on site. Collectively,
-               such processes are becoming known as ``offsite construction.'' A
-               ground-breaking text, Offsite Architecture establishes the
-               current -- and future -- state of thinking in this field. A
-               range of the most highly regarded thinkers and practitioners
-               from around the globe share their ideas and practical findings
-               on offsite prefabrication, examining theory and practice,
-               opportunities and challenges, successes and failures. A timely
-               response to the growing interest in this method, the book
-               provides the fundamental basis for a critical, reflective
-               approach to offsite architecture. Contributions from both
-               academics and professionals make Offsite Architecture required
-               reading for practitioners as well as students taking courses in
-               architecture, prefabrication, construction and engineering.",
-  publisher = "Routledge",
-  month     =  mar,
-  year      =  2017,
-  url       = "https://www.routledge.com/Offsite-Architecture-Constructing-the-future/Smith-Quale/p/book/9781138821392",
-  keywords  = "AEC;ePub | Kindle;Essential;Important;@\_Mark
-               Up;**CATALOGED;++ClickUp;Construction 4.0;Notion
-               Catalogued;*Upgrade Report 2023;00\_TO READ;Offsite
-               Architecture: Constructing the Future;EPubs Books",
-  language  = "en",
-  isbn      = "9781317588818"
-}
-
 @MISC{Smith2016-mk,
   title        = "{Off-Site} and Modular Construction Explained",
   booktitle    = "Whole Building' Design Guide, National Institute of Building
@@ -9690,6 +9659,37 @@
   language  = "en",
   issn      = "1360-2357, 1573-7608",
   doi       = "10.1007/s10639-017-9676-0"
+}
+
+@PHDTHESIS{Kuzmanovska2020-kw,
+  title     = "Building Design for Manufacture and Assembly ({BDfMA)}:
+               Reframing the {Design-Production} Relationship in Industrialised
+               Construction",
+  author    = "Kuzmanovska, Ivana",
+  editor    = "Aitchison, Mathew and Maxwell, Duncan",
+  abstract  = "This thesis examines how an engineering concept derived from the
+               manufacturing industries---Design for Manufacture and Assembly
+               (DfMA)---might be applied to the design and production of
+               buildings. DfMA is an approach to improving production
+               efficiency through product design, and has traditionally been
+               heavily focused on the optimisation of the M, manufacturing, and
+               A, assembly aspects. This study identifies the need for a
+               construction-specific DfMA, proposing a re-evaluation and
+               valorisation of the D, Design. A preliminary Building Design for
+               Manufacture and Assembly framework is proposed, which serves to
+               highlight the interdependence of building design decisions with
+               respect to production.",
+  publisher = "Monash University",
+  month     =  oct,
+  year      =  2020,
+  url       = "https://bridges.monash.edu/articles/thesis/Building_Design_for_Manufacture_and_Assembly_BDfMA_Reframing_the_Design-Production_Relationship_in_Industrialised_Construction/13166543/1",
+  school    = "Monash University",
+  keywords  = "DfMA; Design for Manufacture and Assembly; Building Design;
+               Industrialised Construction; Industrialised Building;
+               Agricultural Engineering; Building not elsewhere classified;
+               Architectural Design; Design;Thesis;AEC;Construction 4.0",
+  language  = "en",
+  doi       = "10.26180/13166543.v1"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
