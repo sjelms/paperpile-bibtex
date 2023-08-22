@@ -21426,6 +21426,18 @@
   isbn      = "9781851120949"
 }
 
+@BOOK{Construction_Task_Force1998-eu,
+  title     = "Rethinking Construction: The Report of the Construction Task
+               Force to the Deputy Prime Minister, John Prescott, on the Scope
+               for Improving the Quality and Efficiency of {UK} Construction",
+  author    = "{Construction Task Force}",
+  publisher = "Department of the Environment, Transport and the Regions",
+  year      =  1998,
+  url       = "https://play.google.com/store/books/details?id=vAHvAAAACAAJ",
+  language  = "en",
+  isbn      = "9781851120949"
+}
+
 @TECHREPORT{Department_of_Economic_History2017-gf,
   title       = "Tacit Knowledge: Making It Explicit",
   author      = "{Department of Economic History} and Ivins, H",
