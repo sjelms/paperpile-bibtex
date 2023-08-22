@@ -1606,10 +1606,10 @@
   year      =  1994
 }
 
-@BOOK{Latham1994-zf,
+@TECHREPORT{Latham1994-zf,
   title     = "Constructing the Team: Joint Review of Procurement and
                Contractual Arrangements in the United Kingdom Construction
-               Industry : Final Report",
+               Industry, Final Report",
   author    = "Latham, Sir Michael",
   abstract  = "The Joint Review of Procurement and Contractual Arrangements in
                the UK Construction Industry was announced to the House of
@@ -1621,7 +1621,6 @@
                the problems revealed following the consultation process.",
   publisher = "H.M. Stationery Office",
   year      =  1994,
-  url       = "https://play.google.com/store/books/details?id=aVRyQgAACAAJ",
   language  = "en",
   isbn      = "9780117529946"
 }
