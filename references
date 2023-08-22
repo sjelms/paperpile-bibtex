@@ -374,28 +374,6 @@
   isbn      = "9781317588818"
 }
 
-@INPROCEEDINGS{Contasfor1998-ld,
-  title       = "[{SUMMARY} {OF]``}'' {RETHINKING} {CONSTRUCTION``''-THE}
-                 {REPORT} {OF} {THE} {CONSTRUCTION} {TASK} {FORCE}. {ICE}
-                 {BRIEFING} {SHEET}",
-  booktitle   = "Proceedings of the Institution of Civil {Engineers-Municipal}
-                 Engineer",
-  author      = "{Contasfor} and Egan, Sir J and Williams, D",
-  abstract    = "The report Rethinking Construction was presented to the Deputy
-                 Prime Minister by the Construction Task force, led by Sir John
-                 Egan. The report provides a framework for radical improvement
-                 through modernization in the construction industry so that it
-                 can secure its future. Many of the members of the Task Force
-                 represent major clients who have already committed themselves
-                 to the report's recommendations.",
-  publisher   = "icevirtuallibrary.com",
-  volume      =  127,
-  pages       = "199--203",
-  institution = "Thomas Telford-ICE Virtual Library",
-  year        =  1998,
-  url         = "https://www.icevirtuallibrary.com/doi/pdf/10.1680/imuen.1998.31312?casa_token=jXlhQHMWWOsAAAAA:Ri5SBM_tgvJtd9Htyl55o15W-q8cQ1NS6oWP0eV5vAV2eQAolKoqVlNor0FMo7IrIqJwbeK-5wU"
-}
-
 @BOOK{Aitchison2018-cw,
   title     = "Prefab Housing and the Future of Building: Product to Process",
   author    = "Aitchison, Mathew",
