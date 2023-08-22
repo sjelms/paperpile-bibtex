@@ -374,11 +374,11 @@
   isbn      = "9781317588818"
 }
 
-@TECHREPORT{Sir1998-eu,
+@TECHREPORT{Egan1998-eu,
   title     = "Rethinking Construction: The Report of the Construction Task
                Force to the Deputy Prime Minister, John Prescott, on the Scope
                for Improving the Quality and Efficiency of {UK} Construction",
-  author    = "{Sir} and {Construction Task Force}",
+  author    = "Egan, John Leopold and {Construction Task Force}",
   publisher = "Department of the Environment, Transport and the Regions",
   year      =  1998,
   url       = "https://openlibrary.org/books/OL8970063M/Rethinking_Construction",
