@@ -1599,13 +1599,6 @@
   isbn      = "9781317588818"
 }
 
-@ARTICLE{Latham1994-rr,
-  title     = "Constructing the team",
-  author    = "Latham, Sir Michael and {Others}",
-  publisher = "HM Stationery Office London",
-  year      =  1994
-}
-
 @TECHREPORT{Latham1994-zf,
   title     = "Constructing the Team: Joint Review of Procurement and
                Contractual Arrangements in the United Kingdom Construction
