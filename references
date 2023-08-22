@@ -1606,6 +1606,26 @@
   year      =  1994
 }
 
+@BOOK{Latham1994-zf,
+  title     = "Constructing the Team: Joint Review of Procurement and
+               Contractual Arrangements in the United Kingdom Construction
+               Industry : Final Report",
+  author    = "Latham, Sir Michael",
+  abstract  = "The Joint Review of Procurement and Contractual Arrangements in
+               the UK Construction Industry was announced to the House of
+               Commons in July 1993. The interim report, Trust and Money, was
+               published in December 1993 and sought to identify the main
+               issues of the Review, inviting comments and proposals. Public
+               debate was encouraging, wide ranging and serious. This final
+               report makes recommendations, some of them radical, to tackle
+               the problems revealed following the consultation process.",
+  publisher = "H.M. Stationery Office",
+  year      =  1994,
+  url       = "https://play.google.com/store/books/details?id=aVRyQgAACAAJ",
+  language  = "en",
+  isbn      = "9780117529946"
+}
+
 @BOOK{Aitchison2018-cw,
   title     = "Prefab Housing and the Future of Building: Product to Process",
   author    = "Aitchison, Mathew",
