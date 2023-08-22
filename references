@@ -1736,10 +1736,6 @@
   isbn      = "9780954860561"
 }
 
-@TECHREPORT{noauthor_undated-hw,
-  title = "Eagen {REport}"
-}
-
 @ARTICLE{Hollein2023-vp,
   title         = "{Text2Room}: Extracting textured {3D} meshes from {2D}
                    text-to-image models",
