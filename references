@@ -1,3 +1,5 @@
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @TECHREPORT{Egan1998-eu,
   title     = "Rethinking Construction: The Report of the Construction Task
                Force to the Deputy Prime Minister, John Prescott, on the Scope
@@ -6,7 +8,7 @@
   publisher = "Department of the Environment, Transport and the Regions",
   year      =  1998,
   url       = "https://openlibrary.org/books/OL8970063M/Rethinking_Construction",
-  keywords  = "AEC;Report;+Readwise;Notion Catalogued",
+  keywords  = "AEC;Report;+Readwise;§New Literature;Notion Catalogued",
   language  = "en",
   isbn      = "9781851120949"
 }
@@ -1599,6 +1601,8 @@
   isbn      = "9781317588818"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @TECHREPORT{Latham1994-zf,
   title     = "Constructing the Team: Joint Review of Procurement and
                Contractual Arrangements in the United Kingdom Construction
@@ -1614,7 +1618,7 @@
                the problems revealed following the consultation process.",
   publisher = "H.M. Stationery Office",
   year      =  1994,
-  keywords  = "+Readwise;AEC;Report;+Notion",
+  keywords  = "+Readwise;AEC;Report;+Notion;§New Literature",
   language  = "en",
   isbn      = "9780117529946"
 }
