@@ -1599,45 +1599,6 @@
   isbn      = "9781317588818"
 }
 
-@ARTICLE{Rojo2012-uf,
-  title       = "Constructing meanings and possibilities: the incubation team's
-                 experience of a supportice undertaking",
-  author      = "Rojo, Priscila Tagliaferro and Filizola, Carmen L{\'u}cia
-                 Alves",
-  affiliation = "Departamento de Enfermagem, Universidade Federal de S{\~a}o
-                 Carlos, S{\~a}o Carlos, Brasil. pri\_taglia@yahoo.com.br",
-  abstract    = "The aim of this qualitative study was to analyze the
-                 experience of an incubation team in a supportive undertaking
-                 regarding mental healthcare clients. Interviews were conducted
-                 with seven team members, and the data were analyzed using
-                 content data analysis. The analysis revealed four categories:
-                 considering incubation as a process - learning and finding the
-                 meanings of support; pointing out the easy and difficult
-                 aspects in the process of constructing the undertaking; seeing
-                 results of the inclusion through work - noticing the clients'
-                 improvement; and pointing out the need for changes in the
-                 process, expecting greater autonomy of clients and
-                 formalization of the undertaking. The experience revealed
-                 itself as a new and fulfilling job for the team, allowing for
-                 learning, exchanging knowledge and attachment. We identified
-                 that the technician plays the role of educator/facilitator of
-                 the process. In addition to the simple aspects and the
-                 recognition of the relevance of the work in terms of the
-                 clients' lives, the team faces challenges in generating
-                 satisfactory revenue.",
-  journal     = "Revista da Escola de Enfermagem da U S P",
-  volume      =  46,
-  number      =  5,
-  pages       = "1109--1116",
-  month       =  oct,
-  year        =  2012,
-  url         = "https://stravelles.com/wp-content/uploads/2022/10/Constructing-the-team-The-Latham-Report.pdf",
-  language    = "pt",
-  issn        = "0080-6234, 1980-220X",
-  pmid        = "23223726",
-  doi         = "10.1590/s0080-62342012000500011"
-}
-
 @BOOK{Aitchison2018-cw,
   title     = "Prefab Housing and the Future of Building: Product to Process",
   author    = "Aitchison, Mathew",
