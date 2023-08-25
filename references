@@ -1507,6 +1507,8 @@
   isbn      = "9781136284953"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Littlejohn2022-wy,
   title     = "Challenges of digital professional learning: Digital technology
                systems are no substitute for human agency",
@@ -1517,6 +1519,7 @@
   year      =  2022,
   url       = "http://dx.doi.org/10.1007/978-3-030-67930-9_56-1",
   address   = "Cham",
+  keywords  = "+Notion;+Readwise;§New Literature;Workplace Learning;UCL",
   issn      = "2197-1951, 2197-196X",
   isbn      = "9783030679309, 9783030679309",
   doi       = "10.1007/978-3-030-67930-9\_56-1"
