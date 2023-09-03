@@ -594,6 +594,35 @@
   doi         = "10.1002/9781119098713.ch12"
 }
 
+@INCOLLECTION{Pilz2019-py,
+  title       = "Duality and learning fields in vocational education and
+                 training",
+  booktitle   = "The Wiley Handbook of Vocational Education and Training",
+  author      = "Pilz, Matthias and F{\"u}rstenau, B{\"a}rbel",
+  affiliation = "University of Cologne; German Research Center for Comparative
+                 Vocational Education and Training; TU Dresden",
+  abstract    = "Summary This chapter explores the concepts of duality and
+                 ?learning fields? in vocational education and training (VET).
+                 This is understood in many countries to provide the optimal
+                 basis for organizing VET programs, although the degree to
+                 which this is achieved in practice varies considerably. The
+                 chapter explores the challenges in achieving duality through
+                 the lens of the German dual system. It focuses on the
+                 relationship between theory and practice and approaches to
+                 curriculum development, VET pedagogy, and assessment. The
+                 chapter concludes with reflections on the implications of
+                 increasing student diversity for the professional development
+                 of VET teachers and trainers.",
+  publisher   = "John Wiley \& Sons, Inc.",
+  pages       = "311--327",
+  month       =  jan,
+  year        =  2019,
+  url         = "https://onlinelibrary.wiley.com/doi/10.1002/9781119098713.ch16",
+  address     = "Hoboken, NJ, USA",
+  isbn        = "9781119098713, 9781119098591",
+  doi         = "10.1002/9781119098713.ch16"
+}
+
 @BOOK{Aitchison2018-cw,
   title     = "Prefab Housing and the Future of Building: Product to Process",
   author    = "Aitchison, Mathew",
