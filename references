@@ -623,6 +623,36 @@
   doi         = "10.1002/9781119098713.ch16"
 }
 
+@INCOLLECTION{Aprea2019-rf,
+  title       = "Designing technology-enhanced learning environments in
+                 vocational education and training",
+  booktitle   = "The Wiley Handbook of Vocational Education and Training",
+  author      = "Aprea, Carmela and Cattaneo, Alberto A P",
+  affiliation = "University of Mannheim; Swiss Federal Institute for Vocational
+                 Education and Training (SFIVET)",
+  abstract    = "Summary Societies and economies all over the world are
+                 currently experiencing substantial transformations driven by,
+                 among other factors, the rise of new digital technologies.
+                 These transformations are going to fundamentally change all
+                 aspects of our private, social, and professional lives, and
+                 will also have substantial influences on vocational education
+                 and training (VET). The goal of this chapter is to demonstrate
+                 how these technologies can be used to effectively support
+                 learning and teaching processes in this educational field. We
+                 start by introducing the potentials and affordances of
+                 technologies as a means to connect different learning
+                 locations and provide a set of examples of prototypical uses
+                 of several technologies as boundary-crossing tools.",
+  publisher   = "John Wiley \& Sons, Inc.",
+  pages       = "373--393",
+  month       =  jan,
+  year        =  2019,
+  url         = "https://onlinelibrary.wiley.com/doi/10.1002/9781119098713.ch19",
+  address     = "Hoboken, NJ, USA",
+  isbn        = "9781119098713, 9781119098591",
+  doi         = "10.1002/9781119098713.ch19"
+}
+
 @BOOK{Aitchison2018-cw,
   title     = "Prefab Housing and the Future of Building: Product to Process",
   author    = "Aitchison, Mathew",
