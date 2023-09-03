@@ -308,8 +308,8 @@
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INCOLLECTION{Aprea2019-rf,
-  title       = "Designing technology-enhanced learning environments in
-                 vocational education and training",
+  title       = "Designing {Technology-Enhanced} Learning Environments in
+                 Vocational Education and Training",
   booktitle   = "The Wiley Handbook of Vocational Education and Training",
   author      = "Aprea, Carmela and Cattaneo, Alberto A P",
   affiliation = "University of Mannheim; Swiss Federal Institute for Vocational
