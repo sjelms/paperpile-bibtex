@@ -448,6 +448,8 @@
   doi       = "10.1038/d41586-023-02603-8"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @BOOK{Daniels2013-pa,
   title     = "Activity Theory in Practice: Promoting Learning Across
                Boundaries and Agencies",
@@ -484,6 +486,7 @@
   month     =  may,
   year      =  2013,
   url       = "https://play.google.com/store/books/details?id=4fKt9MU9w_cC",
+  keywords  = "+Notion;+Readwise;ePub | Kindle;Research Methods;§New Literature",
   language  = "en",
   isbn      = "9781136031748"
 }
