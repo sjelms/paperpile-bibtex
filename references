@@ -1858,8 +1858,8 @@
   month     =  mar,
   year      =  2016,
   url       = "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315725529-7/comparing-experience-visual-behaviour-physical-virtual-environments-david-greenwood-oliver-jones?context=ubx&refId=9f22eb07-986d-42d0-a989-515c64f7414e",
-  keywords  = "ePub | Kindle;Research Methodology in the Built Environment: A
-               Selection of Case Studies",
+  keywords  = "ePub | Kindle;++ClickUp;AEC;Research Methodology in the Built
+               Environment: A Selection of Case Studies",
   doi       = "10.4324/9781315725529-7"
 }
 
@@ -1878,8 +1878,8 @@
   month     =  mar,
   year      =  2016,
   url       = "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315725529-21/grounded-theory-style-analysis-action-wisnu-setiawan-monty-sutrisna-peter-barrett?context=ubx&refId=f6bea6f2-24ec-4823-a84e-8d7f8386502a",
-  keywords  = "ePub | Kindle;Research Methodology in the Built Environment: A
-               Selection of Case Studies",
+  keywords  = "ePub | Kindle;++ClickUp;AEC;Research Methodology in the Built
+               Environment: A Selection of Case Studies",
   doi       = "10.4324/9781315725529-21"
 }
 
@@ -1896,8 +1896,8 @@
   month     =  mar,
   year      =  2016,
   url       = "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315725529-23/design-science-methodology-developing-learning-object-repository-construction-pathmeswaran-raju-vian-ahmed?context=ubx&refId=89f622fe-6578-4ac2-9024-65d565a9ccdd",
-  keywords  = "ePub | Kindle;Research Methodology in the Built Environment: A
-               Selection of Case Studies",
+  keywords  = "ePub | Kindle;++ClickUp;AEC;Research Methodology in the Built
+               Environment: A Selection of Case Studies",
   doi       = "10.4324/9781315725529-23"
 }
 
@@ -7020,9 +7020,10 @@
   month     =  mar,
   year      =  2016,
   url       = "http://dx.doi.org/10.4324/9781315725529-2",
-  keywords  = "AEC;Research Methods;UCL;ePub | Kindle;@\_Mark Up;Research
-               Methodology in the Built Environment: A Selection of Case
-               Studies;Reviewed on Theory;*Upgrade Report May 2023;EPubs Books",
+  keywords  = "AEC;Research Methods;UCL;ePub | Kindle;@\_Mark
+               Up;++ClickUp;Research Methodology in the Built Environment: A
+               Selection of Case Studies;Reviewed on Theory;*Upgrade Report May
+               2023;EPubs Books",
   isbn      = "9781317534259",
   doi       = "10.4324/9781315725529-2"
 }
@@ -7267,9 +7268,10 @@
   edition   = "1st Edition",
   month     =  mar,
   year      =  2016,
-  keywords  = "AEC;Research Methods;UCL;ePub | Kindle;@\_Mark Up;Research
-               Methodology in the Built Environment: A Selection of Case
-               Studies;Reviewed on Theory;*Upgrade Report May 2023;EPubs Books",
+  keywords  = "AEC;Research Methods;UCL;ePub | Kindle;@\_Mark
+               Up;++ClickUp;Research Methodology in the Built Environment: A
+               Selection of Case Studies;Reviewed on Theory;*Upgrade Report May
+               2023;EPubs Books",
   isbn      = "9781317534259",
   doi       = "10.4324/9781315725529-3"
 }
@@ -7345,9 +7347,10 @@
   month     =  mar,
   year      =  2016,
   url       = "http://dx.doi.org/10.4324/9781315725529",
-  keywords  = "§New Literature;AEC;Research Methods;UCL;ePub | Kindle;Research
-               Methodology in the Built Environment: A Selection of Case
-               Studies;Reviewed on Theory;*Upgrade Report May 2023;EPubs Books",
+  keywords  = "§New Literature;AEC;Research Methods;UCL;ePub |
+               Kindle;++ClickUp;Research Methodology in the Built Environment:
+               A Selection of Case Studies;Reviewed on Theory;*Upgrade Report
+               May 2023;EPubs Books",
   isbn      = "9781317534259",
   doi       = "10.4324/9781315725529"
 }
@@ -7376,9 +7379,9 @@
   edition   = "1st Edition",
   month     =  mar,
   year      =  2016,
-  keywords  = "AEC;Research Methods;UCL;ePub | Kindle;@\_Mark Up;Research
-               Methodology in the Built Environment: A Selection of Case
-               Studies;Reviewed on Theory;EPubs Books",
+  keywords  = "AEC;Research Methods;UCL;ePub | Kindle;@\_Mark
+               Up;++ClickUp;Research Methodology in the Built Environment: A
+               Selection of Case Studies;Reviewed on Theory;EPubs Books",
   isbn      = "9781317534259",
   doi       = "10.4324/9781315725529-4"
 }
@@ -8435,9 +8438,9 @@
   month     =  mar,
   year      =  2016,
   url       = "https://www.semanticscholar.org/paper/4fed843e98fb89c49566cad5bea3aefe9a801fae",
-  keywords  = "@\_Mark Up;AEC;ePub | Kindle;Research Methodology in the Built
-               Environment: A Selection of Case Studies;*Upgrade Report May
-               2023;Grounded Theory;EPubs Books",
+  keywords  = "@\_Mark Up;AEC;ePub | Kindle;++ClickUp;Research Methodology in
+               the Built Environment: A Selection of Case Studies;*Upgrade
+               Report May 2023;Grounded Theory;EPubs Books",
   language  = "en",
   doi       = "10.4324/9781315725529-27"
 }
