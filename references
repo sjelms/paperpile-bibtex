@@ -16751,6 +16751,19 @@
   doi       = "10.1201/9780429398100"
 }
 
+@INCOLLECTION{Sawhney2020-gd,
+  title     = "Construction 4.0",
+  booktitle = "Construction 4.0",
+  author    = "Sawhney, Anil and Riley, Mike and Irizarry, Javier",
+  publisher = "Routledge",
+  pages     = "3--22",
+  month     =  feb,
+  year      =  2020,
+  url       = "https://www.taylorfrancis.com/chapters/edit/10.1201/9780429398100-1/construction-4-0-anil-sawhney-mike-riley-javier-irizarry?context=ubx&refId=1306fb75-61f4-4a66-a27e-12a77144f3a3",
+  isbn      = "9780429398100",
+  doi       = "10.1201/9780429398100-1"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INCOLLECTION{Hairstans2019-ei,
