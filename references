@@ -1885,8 +1885,9 @@
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INCOLLECTION{Koc2020-nl,
-  title     = "Emerging trends and research directions",
-  booktitle = "Construction 4.0",
+  title     = "Emerging Trends and Research Directions",
+  booktitle = "Construction 4.0: An Innovation Platform for the Built
+               Environment",
   author    = "Koc, Eyuphan and Pantazis, Evangelos and Soibelman, Lucio and
                Gerber, David J",
   publisher = "Routledge",
