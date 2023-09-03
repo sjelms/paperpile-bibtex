@@ -1888,6 +1888,20 @@
   doi       = "10.1201/9780429398100-23"
 }
 
+@INCOLLECTION{Perez2020-ff,
+  title     = "Construction 4.0 case studies",
+  booktitle = "Construction 4.0",
+  author    = "P{\'e}rez, Cristina Toca and Costa, Dayana Bastos and Farragher,
+               Mike",
+  publisher = "Routledge",
+  pages     = "421--440",
+  month     =  feb,
+  year      =  2020,
+  url       = "https://www.taylorfrancis.com/chapters/edit/10.1201/9780429398100-21/construction-4-0-case-studies-cristina-toca-p%C3%A9rez-dayana-bastos-costa-mike-farragher?context=ubx&refId=8db25f10-52f9-4254-b384-3bebe1a38c38",
+  isbn      = "9780429398100",
+  doi       = "10.1201/9780429398100-21"
+}
+
 @BOOK{Aitchison2018-cw,
   title     = "Prefab Housing and the Future of Building: Product to Process",
   author    = "Aitchison, Mathew",
