@@ -16765,6 +16765,25 @@
   doi       = "10.1201/9780429398100-1"
 }
 
+@BOOK{Manu2023-mr,
+  title     = "Handbook of Construction Safety, Health and Well-being in the
+               Industry 4.0 Era",
+  author    = "Manu, Patrick and {Shang Gao (Lecturer in construction
+               management)} and B{\'a}rtolo, Paulo and {Valerie Francis
+               (Professor in construction management)} and Sawhney, Anil",
+  abstract  = "``This Handbook seeks to examine and advance current
+               understanding of the confluence of construction health, safety
+               and wellbeing and the broad range of Industry 4.0 technologies
+               in use in the Architecture, Engineering and Construction (AEC)
+               industry''--",
+  publisher = "Routledge",
+  year      =  2023,
+  url       = "https://play.google.com/store/books/details?id=3hrfzwEACAAJ",
+  language  = "en",
+  isbn      = "9781003213796",
+  doi       = "10.1201/9781003213796"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INCOLLECTION{Hairstans2019-ei,
