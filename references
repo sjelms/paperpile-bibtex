@@ -821,6 +821,24 @@
   doi       = "10.1201/9781003213796"
 }
 
+@INCOLLECTION{Sandanayake2023-yl,
+  title     = "Key components of a {VR-enabled} interactive platform to
+               facilitate effective construction risk and safety education",
+  booktitle = "Handbook of Construction Safety, Health and Well-being in the
+               Industry 4.0 Era",
+  author    = "Sandanayake, Malindu and Chan, Melissa and Vrcelj, Zora and
+               Miao, Yuan and Law, Tim and Zhao, Jun and Mukhaimar, Ayman and
+               Yang, Leon",
+  publisher = "Routledge",
+  pages     = "79--90",
+  month     =  apr,
+  year      =  2023,
+  url       = "https://www.taylorfrancis.com/chapters/edit/10.1201/9781003213796-8/key-components-vr-enabled-interactive-platform-facilitate-effective-construction-risk-safety-education-malindu-sandanayake-melissa-chan-zora-vrcelj-yuan-miao-tim-law-jun-zhao-ayman-mukhaimar-leon-yang?context=ubx&refId=6b6c44ad-ee2a-44c0-8b1b-f7f0f444dedf",
+  address   = "London",
+  isbn      = "9781003213796",
+  doi       = "10.1201/9781003213796-8"
+}
+
 @BOOK{Aitchison2018-cw,
   title     = "Prefab Housing and the Future of Building: Product to Process",
   author    = "Aitchison, Mathew",
