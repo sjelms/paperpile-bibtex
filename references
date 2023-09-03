@@ -1701,6 +1701,8 @@
   doi       = "10.1201/9781003213796"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Sandanayake2023-yl,
   title     = "Key components of a {VR-enabled} interactive platform to
                facilitate effective construction risk and safety education",
@@ -1715,12 +1717,16 @@
   year      =  2023,
   url       = "https://www.taylorfrancis.com/chapters/edit/10.1201/9781003213796-8/key-components-vr-enabled-interactive-platform-facilitate-effective-construction-risk-safety-education-malindu-sandanayake-melissa-chan-zora-vrcelj-yuan-miao-tim-law-jun-zhao-ayman-mukhaimar-leon-yang?context=ubx&refId=6b6c44ad-ee2a-44c0-8b1b-f7f0f444dedf",
   address   = "London",
-  keywords  = "Handbook of Construction Safety, Health and Well-being in the
-               Industry 4.0 Era",
+  keywords  = "++ClickUp;+Notion;+Readwise;AEC;Cross Ref Chapter;ePub |
+               Kindle;Labor;Workplace Learning;§New Literature;Handbook of
+               Construction Safety, Health and Well-being in the Industry 4.0
+               Era",
   isbn      = "9781003213796",
   doi       = "10.1201/9781003213796-8"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Eiris2023-xr,
   title     = "Applying 360-degree virtual reality for construction safety
                training",
@@ -1733,12 +1739,16 @@
   year      =  2023,
   url       = "https://www.taylorfrancis.com/chapters/edit/10.1201/9781003213796-9/applying-360-degree-virtual-reality-construction-safety-training-ricardo-eiris-masoud-gheisari?context=ubx&refId=3363a1af-2681-4eac-9782-9959d63434b9",
   address   = "London",
-  keywords  = "Handbook of Construction Safety, Health and Well-being in the
-               Industry 4.0 Era",
+  keywords  = "++ClickUp;+Notion;+Readwise;AEC;Cross Ref Chapter;ePub |
+               Kindle;Labor;Workplace Learning;§New Literature;Handbook of
+               Construction Safety, Health and Well-being in the Industry 4.0
+               Era",
   isbn      = "9781003213796",
   doi       = "10.1201/9781003213796-9"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Trinh2023-ib,
   title     = "Delivering construction safety training and education using
                immersive learning technology",
@@ -1752,12 +1762,16 @@
   year      =  2023,
   url       = "https://www.taylorfrancis.com/chapters/edit/10.1201/9781003213796-10/delivering-construction-safety-training-education-using-immersive-learning-technology-minh-tri-trinh-peng-zhang-matt-stevens-yingbin-feng?context=ubx&refId=46eb560f-29b9-477e-9d44-5d690f964024",
   address   = "London",
-  keywords  = "Handbook of Construction Safety, Health and Well-being in the
-               Industry 4.0 Era",
+  keywords  = "++ClickUp;+Notion;+Readwise;AEC;Cross Ref Chapter;ePub |
+               Kindle;Labor;Workplace Learning;§New Literature;Handbook of
+               Construction Safety, Health and Well-being in the Industry 4.0
+               Era",
   isbn      = "9781003213796",
   doi       = "10.1201/9781003213796-10"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Serra2023-dh,
   title     = "Educational game evaluation on smartphones for occupational
                safety training",
@@ -1771,12 +1785,16 @@
   year      =  2023,
   url       = "https://www.taylorfrancis.com/chapters/edit/10.1201/9781003213796-11/educational-game-evaluation-smartphones-occupational-safety-training-sheyla-mara-baptista-serra-elder-pita-garcia-padre-chimay-anumba?context=ubx&refId=96be2e36-b903-4a6b-aeae-8289e49342b0",
   address   = "London",
-  keywords  = "Handbook of Construction Safety, Health and Well-being in the
-               Industry 4.0 Era",
+  keywords  = "++ClickUp;+Notion;+Readwise;AEC;Cross Ref Chapter;ePub |
+               Kindle;Labor;Workplace Learning;§New Literature;Handbook of
+               Construction Safety, Health and Well-being in the Industry 4.0
+               Era",
   isbn      = "9781003213796",
   doi       = "10.1201/9781003213796-11"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Mahamadu2023-qv,
   title     = "Safety risk factors in the use of construction robots",
   booktitle = "Handbook of Construction Safety, Health and Well-being in the
@@ -1789,12 +1807,16 @@
   year      =  2023,
   url       = "https://www.taylorfrancis.com/chapters/edit/10.1201/9781003213796-22/safety-risk-factors-use-construction-robots-abdul-majeed-mahamadu-abhinesh-prabhakaran-patrick-manu-david-caparros-p%C3%A9rez-mariusz-sz%C3%B3stak?context=ubx&refId=03141c12-b7d2-43ac-9ef2-c37099df02ea",
   address   = "London",
-  keywords  = "Handbook of Construction Safety, Health and Well-being in the
-               Industry 4.0 Era",
+  keywords  = "++ClickUp;+Notion;+Readwise;AEC;Cross Ref Chapter;ePub |
+               Kindle;Labor;Workplace Learning;§New Literature;Handbook of
+               Construction Safety, Health and Well-being in the Industry 4.0
+               Era",
   isbn      = "9781003213796",
   doi       = "10.1201/9781003213796-22"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Sherratt2023-ta,
   title     = "The digitalization of {UK} construction labour",
   booktitle = "Handbook of Construction Safety, Health and Well-being in the
@@ -1806,12 +1828,16 @@
   year      =  2023,
   url       = "https://www.taylorfrancis.com/chapters/edit/10.1201/9781003213796-25/digitalization-uk-construction-labour-fred-sherratt-chris-ivory-simon-sherratt?context=ubx&refId=b8360279-864a-46db-96e4-15be5e87fe21",
   address   = "London",
-  keywords  = "Handbook of Construction Safety, Health and Well-being in the
-               Industry 4.0 Era",
+  keywords  = "++ClickUp;+Notion;+Readwise;AEC;Cross Ref Chapter;ePub |
+               Kindle;Labor;Workplace Learning;§New Literature;Handbook of
+               Construction Safety, Health and Well-being in the Industry 4.0
+               Era",
   isbn      = "9781003213796",
   doi       = "10.1201/9781003213796-25"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Sunindijo2023-kk,
   title     = "Benefits of prefabrication on health and safety in the
                Australian housing sector",
@@ -1825,8 +1851,10 @@
   year      =  2023,
   url       = "https://www.taylorfrancis.com/chapters/edit/10.1201/9781003213796-27/benefits-prefabrication-health-safety-australian-housing-sector-riza-yosia-sunindijo-cynthia-changxin-wang-david-haller?context=ubx&refId=f977d81e-e69c-4311-9758-a19c023c9026",
   address   = "London",
-  keywords  = "Handbook of Construction Safety, Health and Well-being in the
-               Industry 4.0 Era",
+  keywords  = "++ClickUp;+Notion;+Readwise;AEC;Cross Ref Chapter;ePub |
+               Kindle;Labor;Workplace Learning;§New Literature;Handbook of
+               Construction Safety, Health and Well-being in the Industry 4.0
+               Era",
   isbn      = "9781003213796",
   doi       = "10.1201/9781003213796-27"
 }
