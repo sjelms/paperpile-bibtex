@@ -1665,25 +1665,6 @@
 
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
-@INCOLLECTION{Sawhney2020-gd,
-  title     = "Construction 4.0: Introduction and Overview",
-  booktitle = "Construction 4.0: An Innovation Platform for the Built
-               Environment",
-  author    = "Sawhney, Anil and Riley, Mike and Irizarry, Javier",
-  publisher = "Routledge",
-  pages     = "3--22",
-  month     =  feb,
-  year      =  2020,
-  url       = "https://www.taylorfrancis.com/chapters/edit/10.1201/9780429398100-1/construction-4-0-anil-sawhney-mike-riley-javier-irizarry?context=ubx&refId=1306fb75-61f4-4a66-a27e-12a77144f3a3",
-  keywords  = "++ClickUp;+Notion;+Readwise;AEC;Cross Ref Chapter;§New
-               Literature;Construction 4.0: An Innovation Platform for the
-               Built Environment",
-  isbn      = "9780429398100",
-  doi       = "10.1201/9780429398100-1"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
 @BOOK{Manu2023-mr,
   title     = "Handbook of Construction Safety, Health and Well-being in the
                Industry 4.0 Era",
@@ -1864,63 +1845,20 @@
   doi       = "10.1201/9781003213796-8"
 }
 
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@INCOLLECTION{Lin2020-ck,
-  title     = "Visual and Virtual Progress Monitoring in Construction 4.0",
-  booktitle = "Construction 4.0: An Innovation Platform for the Built
-               Environment",
-  author    = "Lin, Jacob J and Golparvar-Fard, Mani",
+@INCOLLECTION{Greenwood2016-za,
+  title     = "Comparing experience through visual behaviour in physical and
+               virtual environments",
+  booktitle = "Research Methodology in the Built Environment",
+  author    = "Greenwood, David and Jones, Oliver",
+  abstract  = "Comparing experience through visual behaviour in physical and
+               virtual environments - 1",
   publisher = "Routledge",
-  pages     = "240--263",
-  month     =  feb,
-  year      =  2020,
-  url       = "https://www.taylorfrancis.com/chapters/edit/10.1201/9780429398100-13/visual-virtual-progress-monitoring-construction-4-0-jacob-lin-mani-golparvar-fard?context=ubx&refId=1258f57f-8398-473c-bf8c-291d03b7664c",
-  keywords  = "++ClickUp;+Notion;+Readwise;AEC;Cross Ref Chapter;§New
-               Literature;Construction 4.0: An Innovation Platform for the
-               Built Environment",
-  isbn      = "9780429398100",
-  doi       = "10.1201/9780429398100-13"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@INCOLLECTION{Koc2020-nl,
-  title     = "Emerging Trends and Research Directions",
-  booktitle = "Construction 4.0: An Innovation Platform for the Built
-               Environment",
-  author    = "Koc, Eyuphan and Pantazis, Evangelos and Soibelman, Lucio and
-               Gerber, David J",
-  publisher = "Routledge",
-  pages     = "460--476",
-  month     =  feb,
-  year      =  2020,
-  url       = "https://www.taylorfrancis.com/chapters/edit/10.1201/9780429398100-23/emerging-trends-research-directions-eyuphan-koc-evangelos-pantazis-lucio-soibelman-david-gerber?context=ubx&refId=85fee4ba-36e9-440d-9909-98413add42d7",
-  keywords  = "++ClickUp;+Notion;+Readwise;AEC;Cross Ref Chapter;§New
-               Literature;Construction 4.0: An Innovation Platform for the
-               Built Environment",
-  isbn      = "9780429398100",
-  doi       = "10.1201/9780429398100-23"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@INCOLLECTION{Perez2020-ff,
-  title     = "Construction 4.0 Case Studies",
-  booktitle = "Construction 4.0: An Innovation Platform for the Built
-               Environment",
-  author    = "P{\'e}rez, Cristina Toca and Costa, Dayana Bastos and Farragher,
-               Mike",
-  publisher = "Routledge",
-  pages     = "421--440",
-  month     =  feb,
-  year      =  2020,
-  url       = "https://www.taylorfrancis.com/chapters/edit/10.1201/9780429398100-21/construction-4-0-case-studies-cristina-toca-p%C3%A9rez-dayana-bastos-costa-mike-farragher?context=ubx&refId=8db25f10-52f9-4254-b384-3bebe1a38c38",
-  keywords  = "++ClickUp;+Notion;+Readwise;AEC;Cross Ref Chapter;§New
-               Literature;Construction 4.0: An Innovation Platform for the
-               Built Environment",
-  isbn      = "9780429398100",
-  doi       = "10.1201/9780429398100-21"
+  pages     = "65--78",
+  edition   = "1st Edition",
+  month     =  mar,
+  year      =  2016,
+  url       = "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315725529-7/comparing-experience-visual-behaviour-physical-virtual-environments-david-greenwood-oliver-jones?context=ubx&refId=9f22eb07-986d-42d0-a989-515c64f7414e",
+  doi       = "10.4324/9781315725529-7"
 }
 
 @BOOK{Aitchison2018-cw,
@@ -7543,31 +7481,6 @@
   language  = "en"
 }
 
-@INCOLLECTION{Hussien2020-bt,
-  title     = "A Review of Mixed-reality Applications in Construction 4.0",
-  booktitle = "Construction 4.0: An Innovation Platform for the Built
-               Environment",
-  author    = "Hussien, Aseel and Waraich, Atif and Paes, Daniel",
-  editor    = "Sawhney, Anil and Riley, Michael and Irizarry, Javier",
-  abstract  = "To provide an overview of state-of-the-art mixed-reality
-               technologies in the construction industry. To describe virtual
-               reality and augmented reality technologies including their
-               principles, differences, operation, latest devices, main
-               applications and major impacts in the construction industry. To
-               characterize current adoption levels and future expectations
-               concerning mixed-reality applications in Construction 4.0.",
-  publisher = "Routledge",
-  pages     = "131--141",
-  month     =  feb,
-  year      =  2020,
-  url       = "https://www.taylorfrancis.com/books/edit/10.1201/9780429398100/construction-4-0-anil-sawhney-michael-riley-javier-irizarry",
-  keywords  = "AEC;Cross Ref Chapter;++ClickUp;+Notion;+Readwise;@\_Mark
-               Up;\_XR/MR;*Upgrade Report May 2023;Construction 4.0: An
-               Innovation Platform for the Built Environment",
-  isbn      = "9780429398100",
-  doi       = "10.1201/9780429398100"
-}
-
 @BOOK{Clark2016-ix,
   title     = "e-Learning and the Science of Instruction: Proven Guidelines for
                Consumers and Designers of Multimedia Learning",
@@ -10096,6 +10009,84 @@
                  and Training, The Wiley",
   isbn        = "9781119098713, 9781119098591",
   doi         = "10.1002/9781119098713.ch4"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@INCOLLECTION{Sawhney2020-gd,
+  title     = "Construction 4.0: Introduction and Overview",
+  booktitle = "Construction 4.0: An Innovation Platform for the Built
+               Environment",
+  author    = "Sawhney, Anil and Riley, Mike and Irizarry, Javier",
+  publisher = "Routledge",
+  pages     = "3--22",
+  month     =  feb,
+  year      =  2020,
+  url       = "https://www.taylorfrancis.com/chapters/edit/10.1201/9780429398100-1/construction-4-0-anil-sawhney-mike-riley-javier-irizarry?context=ubx&refId=1306fb75-61f4-4a66-a27e-12a77144f3a3",
+  keywords  = "++ClickUp;+Notion;+Readwise;AEC;Cross Ref Chapter;§New
+               Literature;Construction 4.0: An Innovation Platform for the
+               Built Environment",
+  isbn      = "9780429398100",
+  doi       = "10.1201/9780429398100-1"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@INCOLLECTION{Lin2020-ck,
+  title     = "Visual and Virtual Progress Monitoring in Construction 4.0",
+  booktitle = "Construction 4.0: An Innovation Platform for the Built
+               Environment",
+  author    = "Lin, Jacob J and Golparvar-Fard, Mani",
+  publisher = "Routledge",
+  pages     = "240--263",
+  month     =  feb,
+  year      =  2020,
+  url       = "https://www.taylorfrancis.com/chapters/edit/10.1201/9780429398100-13/visual-virtual-progress-monitoring-construction-4-0-jacob-lin-mani-golparvar-fard?context=ubx&refId=1258f57f-8398-473c-bf8c-291d03b7664c",
+  keywords  = "++ClickUp;+Notion;+Readwise;AEC;Cross Ref Chapter;§New
+               Literature;Construction 4.0: An Innovation Platform for the
+               Built Environment",
+  isbn      = "9780429398100",
+  doi       = "10.1201/9780429398100-13"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@INCOLLECTION{Koc2020-nl,
+  title     = "Emerging Trends and Research Directions",
+  booktitle = "Construction 4.0: An Innovation Platform for the Built
+               Environment",
+  author    = "Koc, Eyuphan and Pantazis, Evangelos and Soibelman, Lucio and
+               Gerber, David J",
+  publisher = "Routledge",
+  pages     = "460--476",
+  month     =  feb,
+  year      =  2020,
+  url       = "https://www.taylorfrancis.com/chapters/edit/10.1201/9780429398100-23/emerging-trends-research-directions-eyuphan-koc-evangelos-pantazis-lucio-soibelman-david-gerber?context=ubx&refId=85fee4ba-36e9-440d-9909-98413add42d7",
+  keywords  = "++ClickUp;+Notion;+Readwise;AEC;Cross Ref Chapter;§New
+               Literature;Construction 4.0: An Innovation Platform for the
+               Built Environment",
+  isbn      = "9780429398100",
+  doi       = "10.1201/9780429398100-23"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@INCOLLECTION{Perez2020-ff,
+  title     = "Construction 4.0 Case Studies",
+  booktitle = "Construction 4.0: An Innovation Platform for the Built
+               Environment",
+  author    = "P{\'e}rez, Cristina Toca and Costa, Dayana Bastos and Farragher,
+               Mike",
+  publisher = "Routledge",
+  pages     = "421--440",
+  month     =  feb,
+  year      =  2020,
+  url       = "https://www.taylorfrancis.com/chapters/edit/10.1201/9780429398100-21/construction-4-0-case-studies-cristina-toca-p%C3%A9rez-dayana-bastos-costa-mike-farragher?context=ubx&refId=8db25f10-52f9-4254-b384-3bebe1a38c38",
+  keywords  = "++ClickUp;+Notion;+Readwise;AEC;Cross Ref Chapter;§New
+               Literature;Construction 4.0: An Innovation Platform for the
+               Built Environment",
+  isbn      = "9780429398100",
+  doi       = "10.1201/9780429398100-21"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -23395,6 +23386,31 @@
   url       = "https://www.taylorfrancis.com/books/edit/10.1201/9780429398100/construction-4-0-anil-sawhney-michael-riley-javier-irizarry",
   keywords  = "AEC;@\_Mark Up;**CATALOGED;Autodesk;Construction 4.0;Notion
                Catalogued;*Upgrade Report May 2023;Construction 4.0: An
+               Innovation Platform for the Built Environment",
+  isbn      = "9780429398100",
+  doi       = "10.1201/9780429398100"
+}
+
+@INCOLLECTION{Hussien2020-bt,
+  title     = "A Review of Mixed-reality Applications in Construction 4.0",
+  booktitle = "Construction 4.0: An Innovation Platform for the Built
+               Environment",
+  author    = "Hussien, Aseel and Waraich, Atif and Paes, Daniel",
+  editor    = "Sawhney, Anil and Riley, Michael and Irizarry, Javier",
+  abstract  = "To provide an overview of state-of-the-art mixed-reality
+               technologies in the construction industry. To describe virtual
+               reality and augmented reality technologies including their
+               principles, differences, operation, latest devices, main
+               applications and major impacts in the construction industry. To
+               characterize current adoption levels and future expectations
+               concerning mixed-reality applications in Construction 4.0.",
+  publisher = "Routledge",
+  pages     = "131--141",
+  month     =  feb,
+  year      =  2020,
+  url       = "https://www.taylorfrancis.com/books/edit/10.1201/9780429398100/construction-4-0-anil-sawhney-michael-riley-javier-irizarry",
+  keywords  = "AEC;Cross Ref Chapter;++ClickUp;+Notion;+Readwise;@\_Mark
+               Up;\_XR/MR;*Upgrade Report May 2023;Construction 4.0: An
                Innovation Platform for the Built Environment",
   isbn      = "9780429398100",
   doi       = "10.1201/9780429398100"
