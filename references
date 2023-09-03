@@ -223,7 +223,9 @@
 }
 
 @INCOLLECTION{Guile2019-mh,
-  title       = "Introduction to the Handbook",
+  title       = "Introduction to the Handbook: Vocational Education and
+                 Training ({VET}) Theory, Practice, and Policy for a Complex
+                 Field of Inquiry",
   booktitle   = "The Wiley Handbook of Vocational Education and Training",
   author      = "Guile, David and Unwin, Lorna",
   affiliation = "UCL Institute of Education; Centre for Learning and Life
