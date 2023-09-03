@@ -839,6 +839,22 @@
   doi       = "10.1201/9781003213796-8"
 }
 
+@INCOLLECTION{Eiris2023-xr,
+  title     = "Applying 360-degree virtual reality for construction safety
+               training",
+  booktitle = "Handbook of Construction Safety, Health and Well-being in the
+               Industry 4.0 Era",
+  author    = "Eiris, Ricardo and Gheisari, Masoud",
+  publisher = "Routledge",
+  pages     = "91--102",
+  month     =  apr,
+  year      =  2023,
+  url       = "https://www.taylorfrancis.com/chapters/edit/10.1201/9781003213796-9/applying-360-degree-virtual-reality-construction-safety-training-ricardo-eiris-masoud-gheisari?context=ubx&refId=3363a1af-2681-4eac-9782-9959d63434b9",
+  address   = "London",
+  isbn      = "9781003213796",
+  doi       = "10.1201/9781003213796-9"
+}
+
 @BOOK{Aitchison2018-cw,
   title     = "Prefab Housing and the Future of Building: Product to Process",
   author    = "Aitchison, Mathew",
