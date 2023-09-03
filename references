@@ -1870,6 +1870,8 @@
   month     =  feb,
   year      =  2020,
   url       = "https://www.taylorfrancis.com/chapters/edit/10.1201/9780429398100-13/visual-virtual-progress-monitoring-construction-4-0-jacob-lin-mani-golparvar-fard?context=ubx&refId=1258f57f-8398-473c-bf8c-291d03b7664c",
+  keywords  = "Construction 4.0: An Innovation Platform for the Built
+               Environment",
   isbn      = "9780429398100",
   doi       = "10.1201/9780429398100-13"
 }
@@ -1884,6 +1886,8 @@
   month     =  feb,
   year      =  2020,
   url       = "https://www.taylorfrancis.com/chapters/edit/10.1201/9780429398100-23/emerging-trends-research-directions-eyuphan-koc-evangelos-pantazis-lucio-soibelman-david-gerber?context=ubx&refId=85fee4ba-36e9-440d-9909-98413add42d7",
+  keywords  = "Construction 4.0: An Innovation Platform for the Built
+               Environment",
   isbn      = "9780429398100",
   doi       = "10.1201/9780429398100-23"
 }
@@ -1898,6 +1902,8 @@
   month     =  feb,
   year      =  2020,
   url       = "https://www.taylorfrancis.com/chapters/edit/10.1201/9780429398100-21/construction-4-0-case-studies-cristina-toca-p%C3%A9rez-dayana-bastos-costa-mike-farragher?context=ubx&refId=8db25f10-52f9-4254-b384-3bebe1a38c38",
+  keywords  = "Construction 4.0: An Innovation Platform for the Built
+               Environment",
   isbn      = "9780429398100",
   doi       = "10.1201/9780429398100-21"
 }
