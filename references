@@ -274,8 +274,8 @@
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INCOLLECTION{Pilz2019-py,
-  title       = "Duality and learning fields in vocational education and
-                 training",
+  title       = "Duality and Learning Fields in Vocational Education and
+                 Training: Pedagogy, Curriculum, and Assessment",
   booktitle   = "The Wiley Handbook of Vocational Education and Training",
   author      = "Pilz, Matthias and F{\"u}rstenau, B{\"a}rbel",
   affiliation = "University of Cologne; German Research Center for Comparative
