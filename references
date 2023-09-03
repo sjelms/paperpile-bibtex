@@ -416,7 +416,8 @@
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INCOLLECTION{Broad2019-rn,
-  title       = "Capturing the elusive",
+  title       = "Capturing the Elusive: How Vocational Teachers Develop and
+                 Sustain Their Expertise",
   booktitle   = "The Wiley Handbook of Vocational Education and Training",
   author      = "Broad, Janet H and Lahiff, Ann",
   affiliation = "UCL Institute of Education",
