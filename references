@@ -889,6 +889,22 @@
   doi       = "10.1201/9781003213796-11"
 }
 
+@INCOLLECTION{Mahamadu2023-qv,
+  title     = "Safety risk factors in the use of construction robots",
+  booktitle = "Handbook of Construction Safety, Health and Well-being in the
+               Industry 4.0 Era",
+  author    = "Mahamadu, Abdul-Majeed and Prabhakaran, Abhinesh and Manu,
+               Patrick and P{\'e}rez, David Caparros and Sz{\'o}stak, Mariusz",
+  publisher = "Routledge",
+  pages     = "239--248",
+  month     =  apr,
+  year      =  2023,
+  url       = "https://www.taylorfrancis.com/chapters/edit/10.1201/9781003213796-22/safety-risk-factors-use-construction-robots-abdul-majeed-mahamadu-abhinesh-prabhakaran-patrick-manu-david-caparros-p%C3%A9rez-mariusz-sz%C3%B3stak?context=ubx&refId=03141c12-b7d2-43ac-9ef2-c37099df02ea",
+  address   = "London",
+  isbn      = "9781003213796",
+  doi       = "10.1201/9781003213796-22"
+}
+
 @BOOK{Aitchison2018-cw,
   title     = "Prefab Housing and the Future of Building: Product to Process",
   author    = "Aitchison, Mathew",
