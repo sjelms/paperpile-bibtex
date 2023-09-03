@@ -1863,6 +1863,24 @@
   doi       = "10.4324/9781315725529-7"
 }
 
+@INCOLLECTION{Setiawan2016-qz,
+  title     = "Grounded theory style analysis in action : Utilising multi-layer
+               methods in developing built environment response to social
+               conflicts in Indonesia",
+  booktitle = "Research Methodology in the Built Environment",
+  author    = "Setiawan, Wisnu and Sutrisna, Monty and Barrett, Peter",
+  abstract  = "Grounded theory style analysis in action - 1 - Utilising
+               multi-layer methods in developing built environment response to
+               social conflicts in Indonesia",
+  publisher = "Routledge",
+  pages     = "246--263",
+  edition   = "1st Edition",
+  month     =  mar,
+  year      =  2016,
+  url       = "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315725529-21/grounded-theory-style-analysis-action-wisnu-setiawan-monty-sutrisna-peter-barrett?context=ubx&refId=f6bea6f2-24ec-4823-a84e-8d7f8386502a",
+  doi       = "10.4324/9781315725529-21"
+}
+
 @BOOK{Aitchison2018-cw,
   title     = "Prefab Housing and the Future of Building: Product to Process",
   author    = "Aitchison, Mathew",
