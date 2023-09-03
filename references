@@ -905,6 +905,21 @@
   doi       = "10.1201/9781003213796-22"
 }
 
+@INCOLLECTION{Sherratt2023-ta,
+  title     = "The digitalization of {UK} construction labour",
+  booktitle = "Handbook of Construction Safety, Health and Well-being in the
+               Industry 4.0 Era",
+  author    = "Sherratt, Fred and Ivory, Chris and Sherratt, Simon",
+  publisher = "Routledge",
+  pages     = "274--282",
+  month     =  apr,
+  year      =  2023,
+  url       = "https://www.taylorfrancis.com/chapters/edit/10.1201/9781003213796-25/digitalization-uk-construction-labour-fred-sherratt-chris-ivory-simon-sherratt?context=ubx&refId=b8360279-864a-46db-96e4-15be5e87fe21",
+  address   = "London",
+  isbn      = "9781003213796",
+  doi       = "10.1201/9781003213796-25"
+}
+
 @BOOK{Aitchison2018-cw,
   title     = "Prefab Housing and the Future of Building: Product to Process",
   author    = "Aitchison, Mathew",
