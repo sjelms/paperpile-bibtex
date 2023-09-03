@@ -1883,6 +1883,22 @@
   doi       = "10.4324/9781315725529-21"
 }
 
+@INCOLLECTION{Raju2016-on,
+  title     = "Design science methodology for developing a learning object
+               repository for construction",
+  booktitle = "Research Methodology in the Built Environment",
+  author    = "Raju, Pathmeswaran and Ahmed, Vian",
+  abstract  = "Design science methodology for developing a learning object
+               repository for construction - 1",
+  publisher = "Routledge",
+  pages     = "267--283",
+  edition   = "1st Edition",
+  month     =  mar,
+  year      =  2016,
+  url       = "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315725529-23/design-science-methodology-developing-learning-object-repository-construction-pathmeswaran-raju-vian-ahmed?context=ubx&refId=89f622fe-6578-4ac2-9024-65d565a9ccdd",
+  doi       = "10.4324/9781315725529-23"
+}
+
 @BOOK{Aitchison2018-cw,
   title     = "Prefab Housing and the Future of Building: Product to Process",
   author    = "Aitchison, Mathew",
