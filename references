@@ -216,7 +216,7 @@
   url       = "http://doi.wiley.com/10.1002/9781119098713",
   keywords  = "+Notion;+Readwise;ePub | Kindle;VET;Workplace Learning;§New
                Literature;UCL;++ClickUp;Economics;Handbook of Vocational
-               Education and Training;00\_TO READ",
+               Education and Training, The Wiley;00\_TO READ",
   language  = "en",
   isbn      = "9781119098591",
   doi       = "10.1002/9781119098713"
@@ -238,7 +238,7 @@
   address     = "Hoboken, NJ, USA",
   keywords    = "++ClickUp;+Notion;+Readwise;ePub | Kindle;UCL;Workplace
                  Learning;@\_Mark Up;VET;Handbook of Vocational Education and
-                 Training",
+                 Training, The Wiley",
   isbn        = "9781119098713, 9781119098591",
   doi         = "10.1002/9781119098713.ch1"
 }
@@ -266,7 +266,7 @@
   address     = "Hoboken, NJ, USA",
   keywords    = "++ClickUp;+Notion;+Readwise;ePub | Kindle;Workplace
                  Learning;§New Literature;VET;Handbook of Vocational Education
-                 and Training",
+                 and Training, The Wiley",
   isbn        = "9781119098713, 9781119098591",
   doi         = "10.1002/9781119098713.ch12"
 }
@@ -300,7 +300,7 @@
   address     = "Hoboken, NJ, USA",
   keywords    = "++ClickUp;+Notion;+Readwise;ePub | Kindle;Workplace
                  Learning;§New Literature;VET;Handbook of Vocational Education
-                 and Training",
+                 and Training, The Wiley",
   isbn        = "9781119098713, 9781119098591",
   doi         = "10.1002/9781119098713.ch16"
 }
@@ -333,7 +333,7 @@
   address     = "Hoboken, NJ, USA",
   keywords    = "++ClickUp;+Notion;+Readwise;ePub | Kindle;Workplace
                  Learning;VET;@\_Mark Up;Handbook of Vocational Education and
-                 Training",
+                 Training, The Wiley",
   isbn        = "9781119098713, 9781119098591",
   doi         = "10.1002/9781119098713.ch19"
 }
@@ -367,7 +367,7 @@
   address     = "Hoboken, NJ, USA",
   keywords    = "++ClickUp;+Notion;+Readwise;ePub | Kindle;UCL;Workplace
                  Learning;@\_Mark Up;VET;Handbook of Vocational Education and
-                 Training",
+                 Training, The Wiley",
   isbn        = "9781119098713, 9781119098591",
   doi         = "10.1002/9781119098713.ch2"
 }
@@ -407,7 +407,7 @@
   address     = "Hoboken, NJ, USA",
   keywords    = "+Notion;+Readwise;ePub | Kindle;VET;Workplace Learning;§New
                  Literature;Cross Ref Chapter;Handbook of Vocational Education
-                 and Training",
+                 and Training, The Wiley",
   isbn        = "9781119098713, 9781119098591",
   doi         = "10.1002/9781119098713.ch21"
 }
@@ -442,7 +442,7 @@
   address     = "Hoboken, NJ, USA",
   keywords    = "++ClickUp;+Notion;+Readwise;ePub | Kindle;Workplace
                  Learning;§New Literature;VET;Handbook of Vocational Education
-                 and Training",
+                 and Training, The Wiley",
   isbn        = "9781119098713, 9781119098591",
   doi         = "10.1002/9781119098713.ch22"
 }
@@ -479,11 +479,13 @@
   address     = "Hoboken, NJ, USA",
   keywords    = "++ClickUp;+Notion;+Readwise;ePub | Kindle;Workplace
                  Learning;@\_Mark Up;VET;Handbook of Vocational Education and
-                 Training",
+                 Training, The Wiley",
   isbn        = "9781119098713, 9781119098591",
   doi         = "10.1002/9781119098713.ch3"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Hager2019-ba,
   title       = "{VET}, {HRD}, and Workplace Learning: Where to From Here?",
   booktitle   = "The Wiley Handbook of Vocational Education and Training",
@@ -511,7 +513,9 @@
   year        =  2019,
   url         = "https://onlinelibrary.wiley.com/doi/10.1002/9781119098713.ch4",
   address     = "Hoboken, NJ, USA",
-  keywords    = "Handbook of Vocational Education and Training",
+  keywords    = "++ClickUp;+Notion;+Readwise;VET;Workplace Learning;§New
+                 Literature;Handbook of Vocational Education and Training, The
+                 Wiley",
   isbn        = "9781119098713, 9781119098591",
   doi         = "10.1002/9781119098713.ch4"
 }
@@ -545,7 +549,7 @@
   address     = "Hoboken, NJ, USA",
   keywords    = "++ClickUp;+Notion;+Readwise;@\_Mark Up;VET;Workplace
                  Learning;UCL;ePub | Kindle;Handbook of Vocational Education
-                 and Training",
+                 and Training, The Wiley",
   isbn        = "9781119098713, 9781119098591",
   doi         = "10.1002/9781119098713.ch5"
 }
