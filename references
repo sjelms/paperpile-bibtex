@@ -1868,7 +1868,8 @@
 % to a LaTeX equivalent.
 @INCOLLECTION{Lin2020-ck,
   title     = "Visual and Virtual Progress Monitoring in Construction 4.0",
-  booktitle = "Construction 4.0",
+  booktitle = "Construction 4.0: An Innovation Platform for the Built
+               Environment",
   author    = "Lin, Jacob J and Golparvar-Fard, Mani",
   publisher = "Routledge",
   pages     = "240--263",
