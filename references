@@ -855,6 +855,23 @@
   doi       = "10.1201/9781003213796-9"
 }
 
+@INCOLLECTION{Trinh2023-ib,
+  title     = "Delivering construction safety training and education using
+               immersive learning technology",
+  booktitle = "Handbook of Construction Safety, Health and Well-being in the
+               Industry 4.0 Era",
+  author    = "Trinh, Minh Tri and Zhang, Peng and Stevens, Matt and Feng,
+               Yingbin",
+  publisher = "Routledge",
+  pages     = "103--110",
+  month     =  apr,
+  year      =  2023,
+  url       = "https://www.taylorfrancis.com/chapters/edit/10.1201/9781003213796-10/delivering-construction-safety-training-education-using-immersive-learning-technology-minh-tri-trinh-peng-zhang-matt-stevens-yingbin-feng?context=ubx&refId=46eb560f-29b9-477e-9d44-5d690f964024",
+  address   = "London",
+  isbn      = "9781003213796",
+  doi       = "10.1201/9781003213796-10"
+}
+
 @BOOK{Aitchison2018-cw,
   title     = "Prefab Housing and the Future of Building: Product to Process",
   author    = "Aitchison, Mathew",
