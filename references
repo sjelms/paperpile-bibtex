@@ -20496,6 +20496,8 @@
   doi       = "10.4135/9781848608337.n11"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @BOOK{Fuller2004-kj,
   title     = "Workplace Learning in Context",
   author    = "Fuller, Alison and Munro, Anne and Rainbird, Helen",
@@ -20523,7 +20525,8 @@
   month     =  jan,
   year      =  2004,
   url       = "https://play.google.com/store/books/details?id=1VY4_egobYAC",
-  keywords  = "VET",
+  keywords  = "+Notion;+Readwise;ePub | Kindle;UCL;VET;Workplace Learning;§New
+               Literature;VET",
   language  = "en",
   isbn      = "9780203571644",
   doi       = "10.4324/9780203571644"
