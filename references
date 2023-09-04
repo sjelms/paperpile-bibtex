@@ -20622,6 +20622,18 @@
   doi       = "10.4324/9780203571644-14"
 }
 
+@INCOLLECTION{Young2004-fs,
+  title     = "Conceptualizing vocational knowledge: Some theoretical
+               considerations",
+  booktitle = "Workplace learning in context",
+  author    = "Young, Michael",
+  publisher = "Routledge",
+  pages     = "201--216",
+  year      =  2004,
+  url       = "https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-18/conceptualizing-vocational-knowledge-michael-young",
+  doi       = "10.4324/9780203571644-18"
+}
+
 @INCOLLECTION{Fuller2004-dw,
   title     = "Introduction and overview",
   booktitle = "Workplace Learning in Context",
