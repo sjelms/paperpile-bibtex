@@ -23609,6 +23609,8 @@
   isbn      = "9789401786935, 9789401786942"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @BOOK{Braverman1998-tr,
   title     = "Labor and Monopoly Capital: The Degradation of Work in the
                Twentieth Century",
@@ -23628,6 +23630,8 @@
   month     =  dec,
   year      =  1998,
   url       = "https://play.google.com/store/books/details?id=ibwUCgAAQBAJ",
+  keywords  = "+Notion;+Readwise;Book (physical);Labor;VET;Workplace
+               Learning;§New Literature",
   language  = "en",
   isbn      = "9780853459408"
 }
