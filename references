@@ -24080,6 +24080,8 @@
   language = "en"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @BOOK{Reich1991-ef,
   title     = "The Work of Nations: Preparing Ourselves for 21st-century
                Capitalism",
@@ -24093,6 +24095,8 @@
   publisher = "A.A. Knopf",
   year      =  1991,
   url       = "https://play.google.com/store/books/details?id=M-ayAAAAIAAJ",
+  keywords  = "+Notion;+Readwise;Book (physical);Economics;Labor;§New
+               Literature",
   language  = "en",
   isbn      = "9780394583525"
 }
