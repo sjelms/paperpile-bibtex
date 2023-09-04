@@ -1937,12 +1937,15 @@
   year      =  2004,
   url       = "https://play.google.com/store/books/details?id=1VY4_egobYAC",
   keywords  = "+Notion;+Readwise;ePub | Kindle;UCL;VET;Workplace Learning;§New
-               Literature;VET;Workplace Learning in Context",
+               Literature;++ClickUp;Cross Ref Chapter;VET;Workplace Learning in
+               Context",
   language  = "en",
   isbn      = "9780203571644",
   doi       = "10.4324/9780203571644"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Fuller2004-dw,
   title     = "Introduction and overview",
   booktitle = "Workplace Learning in Context",
@@ -1965,10 +1968,14 @@
   month     =  jan,
   year      =  2004,
   url       = "https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-5/introduction-overview-alison-fuller-anne-munro-helen-rainbird",
-  keywords  = "Workplace Learning in Context",
+  keywords  = "++ClickUp;+Notion;+Readwise;Cross Ref Chapter;ePub |
+               Kindle;VET;Workplace Learning;§New Literature;Workplace Learning
+               in Context",
   doi       = "10.4324/9780203571644-5"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Hoddinott2004-on,
   title     = "The assessment of workers' `basic skills' : A critique based on
                evidence from the United States, Canada and England",
@@ -2003,10 +2010,14 @@
   month     =  jan,
   year      =  2004,
   url       = "https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-11/assessment-workers-basic-skills-susan-hoddinott",
-  keywords  = "Workplace Learning in Context",
+  keywords  = "++ClickUp;+Notion;+Readwise;Cross Ref Chapter;ePub |
+               Kindle;VET;Workplace Learning;§New Literature;Workplace Learning
+               in Context",
   doi       = "10.4324/9780203571644-11"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Billett2004-vj,
   title     = "Learning through work : Workplace participatory practices",
   booktitle = "Workplace Learning in Context",
@@ -2029,10 +2040,14 @@
   month     =  jan,
   year      =  2004,
   url       = "https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-13/learning-work-stephen-billett",
-  keywords  = "Workplace Learning in Context",
+  keywords  = "++ClickUp;+Notion;+Readwise;Cross Ref Chapter;ePub |
+               Kindle;VET;Workplace Learning;§New Literature;Workplace Learning
+               in Context",
   doi       = "10.4324/9780203571644-13"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Fuller2004-kn,
   title     = "Expansive learning environments : Integrating organizational and
                personal development",
@@ -2058,23 +2073,14 @@
   month     =  jan,
   year      =  2004,
   url       = "https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-14/expansive-learning-environments-alison-fuller-lorna-unwin",
-  keywords  = "Workplace Learning in Context",
+  keywords  = "++ClickUp;+Notion;+Readwise;Cross Ref Chapter;ePub |
+               Kindle;VET;Workplace Learning;§New Literature;Workplace Learning
+               in Context",
   doi       = "10.4324/9780203571644-14"
 }
 
-@INCOLLECTION{Young2004-fs,
-  title     = "Conceptualizing vocational knowledge: Some theoretical
-               considerations",
-  booktitle = "Workplace learning in context",
-  author    = "Young, Michael",
-  publisher = "Routledge",
-  pages     = "201--216",
-  year      =  2004,
-  url       = "https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-18/conceptualizing-vocational-knowledge-michael-young",
-  keywords  = "Workplace Learning in Context",
-  doi       = "10.4324/9780203571644-18"
-}
-
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Eraut2004-sp,
   title     = "Transfer of knowledge between education and workplace settings",
   booktitle = "Workplace Learning in Context",
@@ -2104,10 +2110,14 @@
   month     =  jan,
   year      =  2004,
   url       = "https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-19/transfer-knowledge-education-workplace-settings-michael-eraut",
-  keywords  = "Workplace Learning in Context",
+  keywords  = "++ClickUp;+Notion;+Readwise;Cross Ref Chapter;ePub |
+               Kindle;VET;Workplace Learning;§New Literature;Workplace Learning
+               in Context",
   doi       = "10.4324/9780203571644-19"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Hodkinson2004-ht,
   title     = "The complexities of workplace learning : Problems and dangers in
                trying to measure attainment",
@@ -2133,8 +2143,27 @@
   month     =  jan,
   year      =  2004,
   url       = "https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-22/complexities-workplace-learning-phil-hodkinson-heather-hodkinson",
-  keywords  = "Workplace Learning in Context",
+  keywords  = "++ClickUp;+Notion;+Readwise;Cross Ref Chapter;ePub |
+               Kindle;VET;Workplace Learning;§New Literature;Workplace Learning
+               in Context",
   doi       = "10.4324/9780203571644-22"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@INCOLLECTION{Young2004-fs,
+  title     = "Conceptualizing vocational knowledge: Some theoretical
+               considerations",
+  booktitle = "Workplace learning in context",
+  author    = "Young, Michael",
+  publisher = "Routledge",
+  pages     = "201--216",
+  year      =  2004,
+  url       = "https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-18/conceptualizing-vocational-knowledge-michael-young",
+  keywords  = "++ClickUp;+Notion;+Readwise;Cross Ref Chapter;ePub |
+               Kindle;VET;Workplace Learning;§New Literature;Workplace Learning
+               in Context",
+  doi       = "10.4324/9780203571644-18"
 }
 
 @BOOK{Aitchison2018-cw,
@@ -9199,6 +9228,8 @@
   doi       = "10.2307/j.ctvjf9vz4"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Fuller2004-ys,
   title     = "Conclusion",
   booktitle = "Workplace Learning in Context",
@@ -9228,7 +9259,9 @@
   month     =  jan,
   year      =  2004,
   url       = "https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-25/conclusion-alison-fuller-anne-munro-helen-rainbird",
-  keywords  = "Workplace Learning in Context",
+  keywords  = "++ClickUp;+Notion;+Readwise;Cross Ref Chapter;ePub |
+               Kindle;VET;Workplace Learning;§New Literature;Workplace Learning
+               in Context",
   doi       = "10.4324/9780203571644-25"
 }
 
