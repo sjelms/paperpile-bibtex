@@ -2952,18 +2952,6 @@
   isbn      = "9789400770126"
 }
 
-@BOOK{Halttunen2014-gh,
-  title     = "Promoting, Assessing, Recognizing and Certifying Lifelong
-               Learning: International Perspectives and Practices",
-  author    = "Halttunen, T and Koivisto, M and Billett, S",
-  publisher = "Springer Netherlands",
-  series    = "Lifelong Learning Book Series",
-  year      =  2014,
-  url       = "https://books.google.co.uk/books?id=l8PEBAAAQBAJ",
-  keywords  = "Zotero Import (Feb 22);My Library",
-  isbn      = "9789401786942"
-}
-
 @BOOK{Yu2020-ot,
   title     = "Green, Pervasive, and Cloud Computing: 15th International
                Conference, {GPC} 2020, Xi'an, China, November 13--15, 2020,
