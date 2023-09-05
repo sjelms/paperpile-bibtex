@@ -25462,6 +25462,8 @@
   keywords = "UCL;UCL PhD Research Proposals and Thesis"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INPROCEEDINGS{Marshall2007-er,
   title     = "Do tangible interfaces enhance learning?",
   booktitle = "Proceedings of the 1st international conference on Tangible and
@@ -25486,7 +25488,8 @@
   year      =  2007,
   url       = "https://doi.org/10.1145/1226969.1227004",
   address   = "New York, NY, USA",
-  keywords  = "TUI, tangible interface, frameworks, learning;\_XR/MR;Read",
+  keywords  = "TUI, tangible interface, frameworks,
+               learning;\_XR/MR;Read;+Notion;+Readwise;§New Literature",
   location  = "Baton Rouge, Louisiana",
   isbn      = "9781595936196",
   doi       = "10.1145/1226969.1227004"
