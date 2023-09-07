@@ -2213,53 +2213,6 @@
   isbn      = "9780394583525"
 }
 
-@ARTICLE{Mansell2022-mc,
-  title     = "Cannabis for the treatment of attention deficit hyperactivity
-               disorder: A report of 3 cases",
-  author    = "Mansell, Holly and Quinn, Declan and Kelly, Lauren E and Alcorn,
-               Jane",
-  abstract  = "Attention deficit hyperactivity disorder (ADHD) is a chronic
-               neurobehavioral disorder that is highly prevalent in children
-               and adults. An increasing number of patients with ADHD are
-               self-medicating with cannabis, despite a lack of evidence on
-               efficacy and safety. This case report describes 3 males (ages
-               18, 22, and 23) who have integrated cannabis into their
-               treatment regimen with positive results. Semistructured
-               interviews conducted with the patients describe subjective
-               improvements in symptoms and on quality of life. Improvements on
-               validated rating scales conducted post-cannabis initiation,
-               compared to pre-cannabis initiation obtained from the medical
-               chart, corroborated their personal accounts. Scores on the PHQ-9
-               (measuring depression) improved by 8--22 points (30--81\%), and
-               the SCARED (measuring anxiety) ranged from 0 to 27 points (up to
-               33\%). Improvements on the CEER-9 scale (measuring regulation)
-               ranged from 2 to 7 points (22--78\%), and the 9-item SNAP scale
-               (measuring inattention) showed improvements of 2--8 points
-               (7--30\%). Mild adverse events including short-term memory
-               problems, dry mouth, and sleepiness were reported. Blood samples
-               were also collected from the patients to determine the plasma
-               concentrations of the cannabinoids and relevant metabolites
-               before and after a cannabis administration. After cannabis use,
-               the plasma levels for CBD and THC ranged from 0 to 15.29 ng/mL
-               and 1.32 to 13.76 ng/mL, respectively. Cannabinoids, however,
-               were not detected prior to dosing, suggesting that cannabis
-               played a complimentary role in the therapeutic regimen of these
-               3 patients. Clinical trials are recommended to confirm the
-               efficacy of cannabis in the treatment of ADHD.",
-  journal   = "Medical cannabis and cannabinoids",
-  publisher = "S. Karger AG",
-  volume    =  5,
-  number    =  1,
-  pages     = "1--6",
-  month     =  jan,
-  year      =  2022,
-  url       = "http://dx.doi.org/10.1159/000521370",
-  copyright = "https://creativecommons.org/licenses/by-nc/4.0/",
-  language  = "en",
-  issn      = "2504-3889",
-  doi       = "10.1159/000521370"
-}
-
 @BOOK{Aitchison2018-cw,
   title     = "Prefab Housing and the Future of Building: Product to Process",
   author    = "Aitchison, Mathew",
@@ -10514,6 +10467,54 @@
                Built Environment",
   isbn      = "9780429398100",
   doi       = "10.1201/9780429398100-21"
+}
+
+@ARTICLE{Mansell2022-mc,
+  title     = "Cannabis for the treatment of attention deficit hyperactivity
+               disorder: A report of 3 cases",
+  author    = "Mansell, Holly and Quinn, Declan and Kelly, Lauren E and Alcorn,
+               Jane",
+  abstract  = "Attention deficit hyperactivity disorder (ADHD) is a chronic
+               neurobehavioral disorder that is highly prevalent in children
+               and adults. An increasing number of patients with ADHD are
+               self-medicating with cannabis, despite a lack of evidence on
+               efficacy and safety. This case report describes 3 males (ages
+               18, 22, and 23) who have integrated cannabis into their
+               treatment regimen with positive results. Semistructured
+               interviews conducted with the patients describe subjective
+               improvements in symptoms and on quality of life. Improvements on
+               validated rating scales conducted post-cannabis initiation,
+               compared to pre-cannabis initiation obtained from the medical
+               chart, corroborated their personal accounts. Scores on the PHQ-9
+               (measuring depression) improved by 8--22 points (30--81\%), and
+               the SCARED (measuring anxiety) ranged from 0 to 27 points (up to
+               33\%). Improvements on the CEER-9 scale (measuring regulation)
+               ranged from 2 to 7 points (22--78\%), and the 9-item SNAP scale
+               (measuring inattention) showed improvements of 2--8 points
+               (7--30\%). Mild adverse events including short-term memory
+               problems, dry mouth, and sleepiness were reported. Blood samples
+               were also collected from the patients to determine the plasma
+               concentrations of the cannabinoids and relevant metabolites
+               before and after a cannabis administration. After cannabis use,
+               the plasma levels for CBD and THC ranged from 0 to 15.29 ng/mL
+               and 1.32 to 13.76 ng/mL, respectively. Cannabinoids, however,
+               were not detected prior to dosing, suggesting that cannabis
+               played a complimentary role in the therapeutic regimen of these
+               3 patients. Clinical trials are recommended to confirm the
+               efficacy of cannabis in the treatment of ADHD.",
+  journal   = "Medical cannabis and cannabinoids",
+  publisher = "S. Karger AG",
+  volume    =  5,
+  number    =  1,
+  pages     = "1--6",
+  month     =  jan,
+  year      =  2022,
+  url       = "http://dx.doi.org/10.1159/000521370",
+  keywords  = "Healthcare + CME",
+  copyright = "https://creativecommons.org/licenses/by-nc/4.0/",
+  language  = "en",
+  issn      = "2504-3889",
+  doi       = "10.1159/000521370"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
