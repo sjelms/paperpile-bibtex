@@ -2213,6 +2213,8 @@
   isbn      = "9780394583525"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INPROCEEDINGS{Fiala2020-ik,
   title     = "Using Virtual Reality Simulations to Encourage Reflective
                Learning in Construction Workers",
@@ -2241,7 +2243,7 @@
   pages     = "422--434",
   year      =  2020,
   url       = "http://dx.doi.org/10.1007/978-3-030-50506-6_29",
-  keywords  = "+Readwise;\_XR/MR;AEC;Workplace Learning",
+  keywords  = "+Readwise;\_XR/MR;AEC;Workplace Learning;§New Literature",
   doi       = "10.1007/978-3-030-50506-6\_29"
 }
 
