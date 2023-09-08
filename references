@@ -2213,40 +2213,6 @@
   isbn      = "9780394583525"
 }
 
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@INPROCEEDINGS{Fiala2020-ik,
-  title     = "Using Virtual Reality Simulations to Encourage Reflective
-               Learning in Construction Workers",
-  booktitle = "Learning and Collaboration Technologies. Human and Technology
-               Ecosystems",
-  author    = "Fiala, Eileen and Jelonek, Markus and Herrmann, Thomas",
-  abstract  = "Improvement of work safety measures and trainings are important
-               elements to enhance the sensibility for hazardous situations and
-               decrease work accidents. Virtual reality (VR) simulation-based
-               trainings have been shown to be a promising approach to support
-               experience-based learning, as the virtual environments can
-               simulate realistic work environments. To investigate to which
-               extent reflective learning can be supported by using VR
-               simulations, this exploratory study combines a VR simulation on
-               a construction site with subsequent semi-structured interviews
-               to induce reflections in participants. Results of the
-               qualitative content analysis show, that a reflection process
-               about work safety aspects benefits from combining VR simulation
-               with a subsequent interview. Numerous reflections on the content
-               of the simulation coupled to own past (real-life) experience
-               were induced, indicating the tested combination to be a
-               promising learning approach to teach work safety aspects that
-               may help to raise the awareness about work safety at
-               construction sites.",
-  publisher = "Springer International Publishing",
-  pages     = "422--434",
-  year      =  2020,
-  url       = "http://dx.doi.org/10.1007/978-3-030-50506-6_29",
-  keywords  = "+Readwise;\_XR/MR;AEC;Workplace Learning;§New Literature",
-  doi       = "10.1007/978-3-030-50506-6\_29"
-}
-
 @BOOK{Aitchison2018-cw,
   title     = "Prefab Housing and the Future of Building: Product to Process",
   author    = "Aitchison, Mathew",
@@ -10549,6 +10515,40 @@
   language  = "en",
   issn      = "2504-3889",
   doi       = "10.1159/000521370"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@INPROCEEDINGS{Fiala2020-ik,
+  title     = "Using Virtual Reality Simulations to Encourage Reflective
+               Learning in Construction Workers",
+  booktitle = "Learning and Collaboration Technologies. Human and Technology
+               Ecosystems",
+  author    = "Fiala, Eileen and Jelonek, Markus and Herrmann, Thomas",
+  abstract  = "Improvement of work safety measures and trainings are important
+               elements to enhance the sensibility for hazardous situations and
+               decrease work accidents. Virtual reality (VR) simulation-based
+               trainings have been shown to be a promising approach to support
+               experience-based learning, as the virtual environments can
+               simulate realistic work environments. To investigate to which
+               extent reflective learning can be supported by using VR
+               simulations, this exploratory study combines a VR simulation on
+               a construction site with subsequent semi-structured interviews
+               to induce reflections in participants. Results of the
+               qualitative content analysis show, that a reflection process
+               about work safety aspects benefits from combining VR simulation
+               with a subsequent interview. Numerous reflections on the content
+               of the simulation coupled to own past (real-life) experience
+               were induced, indicating the tested combination to be a
+               promising learning approach to teach work safety aspects that
+               may help to raise the awareness about work safety at
+               construction sites.",
+  publisher = "Springer International Publishing",
+  pages     = "422--434",
+  year      =  2020,
+  url       = "http://dx.doi.org/10.1007/978-3-030-50506-6_29",
+  keywords  = "+Readwise;\_XR/MR;AEC;Workplace Learning;§New Literature;ACM",
+  doi       = "10.1007/978-3-030-50506-6\_29"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
