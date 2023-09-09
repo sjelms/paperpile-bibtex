@@ -21075,9 +21075,8 @@
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @BOOK{Michelsen2018-zg,
-  title       = "Vocational education in the Nordic countries: The historical
-                 evolution",
-  author      = "Michelsen, Svein",
+  title       = "Vocational Education in the Nordic Countries: the Historical
+                 Evolution",
   editor      = "Michelsen, Svein and Stenstr{\"o}m, Marja-Leena",
   affiliation = "University of Bergen, Norway; University of Jyvaskyla, Finland",
   publisher   = "Routledge",
