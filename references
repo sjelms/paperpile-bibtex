@@ -10372,6 +10372,8 @@
   doi       = "10.1080/01425699995380"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Duguid2012-ff,
   title     = "`The Art of Knowing'",
   booktitle = "The Knowledge Economy and Lifelong Learning: A Critical Reader",
@@ -10394,7 +10396,8 @@
   year      =  2012,
   url       = "https://doi.org/10.1007/978-94-6091-915-2_7",
   address   = "Rotterdam",
-  keywords  = "The Knowledge Economy and Lifelong Learning (2012)",
+  keywords  = "+Notion;+Readwise;VET;Workplace Learning;§New Literature;The
+               Knowledge Economy and Lifelong Learning (2012)",
   isbn      = "9789460919152",
   doi       = "10.1007/978-94-6091-915-2\_7"
 }
@@ -11671,6 +11674,8 @@
   doi         = "10.1145/129888.129892"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Warhurst2012-ok,
   title     = "Mapping Knowledge in Work",
   booktitle = "The Knowledge Economy and Lifelong Learning: A Critical Reader",
@@ -11691,7 +11696,8 @@
   year      =  2012,
   url       = "https://doi.org/10.1007/978-94-6091-915-2_3",
   address   = "Rotterdam",
-  keywords  = "The Knowledge Economy and Lifelong Learning (2012)",
+  keywords  = "+Notion;+Readwise;VET;Workplace Learning;§New Literature;The
+               Knowledge Economy and Lifelong Learning (2012)",
   isbn      = "9789460919152",
   doi       = "10.1007/978-94-6091-915-2\_3"
 }
@@ -20050,6 +20056,8 @@
   language  = "en"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Fuller2012-pz,
   title     = "Creating and Using Knowledge",
   booktitle = "The Knowledge Economy and Lifelong Learning: A Critical Reader",
@@ -20069,7 +20077,8 @@
   year      =  2012,
   url       = "https://doi.org/10.1007/978-94-6091-915-2_10",
   address   = "Rotterdam",
-  keywords  = "The Knowledge Economy and Lifelong Learning (2012)",
+  keywords  = "+Notion;+Readwise;VET;Workplace Learning;§New Literature;The
+               Knowledge Economy and Lifelong Learning (2012)",
   isbn      = "9789460919152",
   doi       = "10.1007/978-94-6091-915-2\_10"
 }
@@ -22371,6 +22380,8 @@
   doi      = "10.1016/j.destud.2011.07.002"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @BOOK{Livingstone2012-rc,
   title     = "The Knowledge Economy and Lifelong Learning: A Critical Reader",
   author    = "Livingstone, D W and Guile, David",
@@ -22406,7 +22417,8 @@
   month     =  sep,
   year      =  2012,
   url       = "https://play.google.com/store/books/details?id=NV9JAAAAQBAJ",
-  keywords  = "The Knowledge Economy and Lifelong Learning (2012)",
+  keywords  = "+Notion;+Readwise;VET;Workplace Learning;§New Literature;The
+               Knowledge Economy and Lifelong Learning (2012)",
   language  = "en",
   isbn      = "9789460919152"
 }
