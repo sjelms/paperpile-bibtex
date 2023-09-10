@@ -29179,6 +29179,21 @@
   issn      = "1094-8198"
 }
 
+@BOOK{Littlejohn2013-gj,
+  title       = "Technology-enhanced Professional Learning: Processes,
+                 Practices, and Tools",
+  editor      = "Littlejohn, Allison and Margaryan, Anoush",
+  affiliation = "Glasgow Caledonian University, UK",
+  publisher   = "Routledge",
+  series      = "Advancing Technology Enhanced Learning",
+  month       =  oct,
+  year        =  2013,
+  address     = "London, England",
+  keywords    = "UCL",
+  language    = "en",
+  isbn        = "9780415854092"
+}
+
 @BOOK{Benner2001-mh,
   title     = "From Novice to Expert: Excellence and Power in Clinical Nursing
                Practice",
@@ -29481,21 +29496,6 @@
   keywords  = "Design + Design Thinking;Mar-Apr 2023 Vol. 126 (2)",
   language  = "en",
   issn      = "1099-274X"
-}
-
-@BOOK{Littlejohn2013-gj,
-  title       = "Technology-enhanced professional learning: Processes,
-                 practices, and tools",
-  editor      = "Littlejohn, Allison and Margaryan, Anoush",
-  affiliation = "Glasgow Caledonian University, UK",
-  publisher   = "Routledge",
-  series      = "Advancing Technology Enhanced Learning",
-  month       =  oct,
-  year        =  2013,
-  address     = "London, England",
-  keywords    = "UCL",
-  language    = "en",
-  isbn        = "9780415854092"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
