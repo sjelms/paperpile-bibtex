@@ -1573,6 +1573,29 @@
   isbn      = "9789460919152"
 }
 
+@INCOLLECTION{Fuller2012-pz,
+  title     = "Creating and Using Knowledge",
+  booktitle = "The Knowledge Economy and Lifelong Learning: A Critical Reader",
+  author    = "Fuller, Alison and Unwin, Lorna and Felstead, Alan and Jewson,
+               Nick and Kakavelakis, Konstantinos",
+  editor    = "Livingstone, D W and Guile, David",
+  abstract  = "This chapter argues that the productive systems of contemporary
+               workplaces give rise to many different forms of knowledge
+               creation and use, and, as a consequence, to different forms of
+               learning and pedagogical approaches. Some of these approaches
+               are utilized to the benefit of the organization and employees
+               (though not, necessarily, in a reciprocal manner), but others
+               are buried within everyday workplace activity (see Billett,
+               2001).",
+  publisher = "SensePublishers",
+  pages     = "191--206",
+  year      =  2012,
+  url       = "https://doi.org/10.1007/978-94-6091-915-2_10",
+  address   = "Rotterdam",
+  isbn      = "9789460919152",
+  doi       = "10.1007/978-94-6091-915-2\_10"
+}
+
 @BOOK{Aitchison2018-cw,
   title     = "Prefab Housing and the Future of Building: Product to Process",
   author    = "Aitchison, Mathew",
