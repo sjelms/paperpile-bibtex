@@ -8854,6 +8854,66 @@
   doi       = "10.1061/(ASCE)0742-597X(2008)24:4(217)"
 }
 
+@ARTICLE{Zhang_Shipeng2021-ig,
+  title     = "Assessment of Feasibility, Challenges, and Critical Success
+               Factors of {MiC} Projects in Hong Kong",
+  author    = "{Zhang Shipeng} and {Rong Xie} and {Bakhtawar Beenish} and
+               {Tariq Salman} and {Zayed Tarek}",
+  abstract  = "Modular integrated construction (MiC) is a groundbreaking
+               innovative technology, transforming the traditional construction
+               into a value-driven assembly of free-standing volumetric modules
+               that are manufactured in a factory and installed on site.
+               Because MiC has been gaining the attention of local construction
+               stakeholders, it is imperative to assess the feasibility,
+               challenges, and critical success factors (CSFs) for implementing
+               MiC in Hong Kong. Existing literature has disclosed the CSFs
+               from the worldwide perspective, but investigation on the
+               applicability of these generic CSFs in Hong Kong is missing from
+               the existing literature. Therefore, this study has first
+               thoroughly explored the feasibility, challenges, and CSFs
+               through literature synthesis and then shortlisted the CSFs
+               relevant to Hong Kong through structured discussions from MiC
+               researchers in Hong Kong. A questionnaire survey on the relevant
+               factors is then conducted to (1) determine the relative
+               importance of CSFs through pairwise comparisons using an
+               analytical hierarchy process (AHP) by dividing the CSFs into
+               five categories: industry factors, government factors,
+               stakeholder factors, performance-driven factors, and
+               project-specific factors; (2) determine the performance level of
+               each CSF; and (3) quantify the feasibility index of MiC. The
+               CSFs are further validated through expert interviews. The most
+               significant CSFs found using AHP are client?s understanding and
+               willingness, suitable site characteristics and layout, and
+               establishment of government legislation. Experts have also
+               revealed the most significant challenges facing the MiC industry
+               in Hong Kong and provided worthwhile recommendations on
+               improving the contemporary situation. The topmost challenges are
+               limitations of transportation, onsite transportation of MiC
+               modules, and shortage of knowledge and experience. This study
+               has also proposed a useful feasibility index that employs the
+               performance levels and aggregate global weights of CSFs to
+               evaluate the feasibility of MiC projects. Three case studies are
+               carried out to substantiate the effectiveness of the MiC
+               feasibility index. Performance levels of CSFs are calculated for
+               each case study. It is found that the CSFs grouped under the
+               categories of industry factors and government factors need
+               improvement to enhance the feasibility of MiC projects in Hong
+               Kong. In essence, this study provides checklists and valuable
+               guidance to ameliorate the successful implementation of MiC in
+               Hong Kong. The feasibility index is an easy and handy tool for
+               future projects? implementation and empirical studies.",
+  journal   = "Journal of Architectural Engineering",
+  publisher = "American Society of Civil Engineers",
+  volume    =  27,
+  number    =  1,
+  pages     = "04020047",
+  month     =  mar,
+  year      =  2021,
+  url       = "https://doi.org/10.1061/(ASCE)AE.1943-5568.0000452",
+  issn      = "1076-0431",
+  doi       = "10.1061/(ASCE)AE.1943-5568.0000452"
+}
+
 @ARTICLE{Heravi2015-fm,
   title    = "Applying Artificial Neural Networks for Measuring and Predicting
               {Construction-Labor} Productivity",
