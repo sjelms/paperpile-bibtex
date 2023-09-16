@@ -25548,6 +25548,18 @@
   keywords    = "+Notion;+Readwise;AEC;Labor;Construction 4.0;00\_TO READ"
 }
 
+@BOOK{Wallance2021-so,
+  title       = "The future of modular architecture",
+  author      = "Wallance, David",
+  affiliation = "Architect PLLC",
+  publisher   = "Routledge",
+  month       =  apr,
+  year        =  2021,
+  address     = "London, England",
+  language    = "en",
+  isbn        = "9780367467227"
+}
+
 @MISC{Unity_Technologies2022-ey,
   title        = "What is a digital twin?",
   booktitle    = "Unity",
