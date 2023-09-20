@@ -26096,6 +26096,22 @@
   keywords     = "RDL [CCME0041]"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@TECHREPORT{Akua_Agyepong1995-yd,
+  title     = "The Malaria manual : guidelines for the rapid assessment of
+               social, economic and cultural aspects of malaria / Irene Akua
+               Agyepong ... [‎et al.]‎",
+  author    = "Akua Agyepong, Irene and Aryee, Bertha and Dzikunu, Helen and
+               Manderson, Lenore",
+  abstract  = "TDR/SER/MSR/95.1. Unpublished",
+  publisher = "World Health Organization",
+  number    = "TDR/SER/MSR/95.1. Unpublished",
+  year      =  1995,
+  url       = "https://iris.who.int/handle/10665/59043",
+  language  = "en"
+}
+
 @MISC{US_Census_Bureau_MCD_Cheryl_Cornish_Stephen_Cooper_Salima_Jenkins2021-ie,
   title     = "Monthly New Residential Construction, June 2021",
   author    = "{US Census Bureau (MCD): Cheryl Cornish, Stephen Cooper, Salima
