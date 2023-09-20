@@ -11924,7 +11924,7 @@
   month     =  jan,
   year      =  2014,
   url       = "https://doi.org/10.1108/QROM-09-2012-1100",
-  keywords  = "Research Methods;Recommended",
+  keywords  = "Research Methods;Recommended;Rapid Qualitative Research",
   issn      = "1746-5648",
   doi       = "10.1108/QROM-09-2012-1100"
 }
@@ -19498,6 +19498,7 @@
   month       =  sep,
   year        =  2012,
   url         = "http://dx.doi.org/10.3109/0142159X.2012.684914",
+  keywords    = "Rapid Qualitative Research",
   language    = "en",
   issn        = "0142-159X, 1466-187X",
   pmid        = "22994567",
@@ -23113,15 +23114,16 @@
 }
 
 @ARTICLE{Mullaney2012-cb,
-  title   = "Thinking beyond the cure : a case for human-centered design in
-             cancer care",
-  author  = "Mullaney, Tara and Pettersson, Helena and Nyholm, Tufve and
-             Stolterman, Erik",
-  journal = "International Journal of Design",
-  volume  =  6,
-  pages   = "27--39",
-  year    =  2012,
-  url     = "https://api.semanticscholar.org/CorpusID:11300931"
+  title    = "Thinking beyond the cure : a case for human-centered design in
+              cancer care",
+  author   = "Mullaney, Tara and Pettersson, Helena and Nyholm, Tufve and
+              Stolterman, Erik",
+  journal  = "International Journal of Design",
+  volume   =  6,
+  pages    = "27--39",
+  year     =  2012,
+  url      = "https://api.semanticscholar.org/CorpusID:11300931",
+  keywords = "Rapid Qualitative Research"
 }
 
 @ARTICLE{Bushnell1990-im,
@@ -25678,7 +25680,7 @@
   publisher = "Copenhagen Business School Press DK",
   year      =  2007,
   url       = "https://play.google.com/store/books/details?id=odHDkViFEaoC",
-  keywords  = "Research Methods;Recommended",
+  keywords  = "Research Methods;Recommended;Rapid Qualitative Research",
   language  = "en",
   isbn      = "9788763002158"
 }
@@ -28868,6 +28870,7 @@
   number    = "TDR/SER/MSR/95.1. Unpublished",
   year      =  1995,
   url       = "https://iris.who.int/handle/10665/59043",
+  keywords  = "Rapid Qualitative Research",
   language  = "en"
 }
 
