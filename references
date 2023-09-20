@@ -23075,6 +23075,18 @@
   keywords = "UCL;UCL PhD Research Proposals and Thesis"
 }
 
+@ARTICLE{Mullaney2012-cb,
+  title   = "Thinking beyond the cure : a case for human-centered design in
+             cancer care",
+  author  = "Mullaney, Tara and Pettersson, Helena and Nyholm, Tufve and
+             Stolterman, Erik",
+  journal = "International Journal of Design",
+  volume  =  6,
+  pages   = "27--39",
+  year    =  2012,
+  url     = "https://api.semanticscholar.org/CorpusID:11300931"
+}
+
 @ARTICLE{Bushnell1990-im,
   title    = "Input, Process, Output: a Model for Evaluating Training",
   author   = "Bushnell, David S",
