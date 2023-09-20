@@ -19467,6 +19467,43 @@
   doi      = "10.3102/0091732X015001097"
 }
 
+@ARTICLE{Turner2012-ko,
+  title       = "Twelve tips for developing a near-peer shadowing program to
+                 prepare students for clinical training",
+  author      = "Turner, Simon R and White, Jonathan and Poth, Cheryl",
+  affiliation = "University of Alberta, Canada. sturner@ualberta.ca",
+  abstract    = "BACKGROUND: One effective way to help prepare medical students
+                 for clinical training is the implementation of a near-peer
+                 shadowing program, in which pre-clinical trainees shadow
+                 clinical trainees. AIMS: This article describes techniques for
+                 ensuring the effectiveness of a near-peer shadowing program in
+                 the hope of improving the preparedness of students for
+                 clinical training. METHOD: A list of 12 tips were developed by
+                 combining a review of the literature with a reflection upon
+                 the authors' own experiences with developing a near-peer
+                 shadowing program, in which first-year medical students
+                 shadowed first-year residents. RESULTS: Both successes and
+                 failures were identified, both in the literature and in the
+                 author's own experiences. These can be used to inform the
+                 development of future programs. CONCLUSIONS: A near-peer
+                 shadowing program has the strong potential to play a key role
+                 in preparing students to enter clinical training. These 12
+                 tips, drawn from the literature and our own experience, will
+                 maximize the benefits for both student and tutor learning and
+                 minimize the potential pitfalls encountered by other programs.",
+  journal     = "Medical teacher",
+  volume      =  34,
+  number      =  10,
+  pages       = "792--795",
+  month       =  sep,
+  year        =  2012,
+  url         = "http://dx.doi.org/10.3109/0142159X.2012.684914",
+  language    = "en",
+  issn        = "0142-159X, 1466-187X",
+  pmid        = "22994567",
+  doi         = "10.3109/0142159X.2012.684914"
+}
+
 @ARTICLE{Kuper2013-ll,
   title       = "Looking back to move forward: using history, discourse and
                  text in medical education research: {AMEE} guide no. 73",
