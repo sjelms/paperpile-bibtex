@@ -28418,8 +28418,12 @@
 
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
-@MISC{noauthor_undated-vh,
-  title    = "why-academics-stink-at-writing-pinker.pdf",
+@MISC{Pinker2014-vh,
+  title    = "Why Academics Stink at Writing",
+  author   = "Pinker, Steven",
+  month    =  sep,
+  year     =  2014,
+  url      = "https://www.chronicle.com/article/why-academics-stink-at-writing/",
   keywords = "§New Literature"
 }
 
