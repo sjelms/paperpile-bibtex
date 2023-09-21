@@ -17734,6 +17734,8 @@
   doi       = "10.1007/978-3-030-89582-2\_15"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INPROCEEDINGS{Spinuzzi2019-aa,
   title     = "{Fourth-Generation} Activity Theory: An Integrative Literature
                Review and Implications for Professional Communication",
@@ -17758,7 +17760,8 @@
   url       = "http://dx.doi.org/10.1109/ProComm.2019.00012",
   keywords  = "
                Production;Bibliographies;Organizations;Tools;Education;Information
-               systems;Fourth-generation-activity-theory,-cultural-historical-activity-theory,-4GAT,-CHAT",
+               systems;Fourth-generation-activity-theory,-cultural-historical-activity-theory,-4GAT,-CHAT;Research
+               Methods;UCL;VET;Workplace Learning;§New Literature",
   issn      = "2158-1002",
   doi       = "10.1109/ProComm.2019.00012"
 }
