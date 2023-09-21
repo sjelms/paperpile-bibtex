@@ -17766,6 +17766,38 @@
   doi       = "10.1109/ProComm.2019.00012"
 }
 
+@ARTICLE{Trouille2019-rc,
+  title     = "Shadowing: Warrants for Intersituational Variation in
+               Ethnography",
+  author    = "Trouille, David and Tavory, Iddo",
+  abstract  = "This article makes the case for shadowing as ethnographic
+               methodology: focusing attention on what occurs as interlocutors
+               move among settings and situations. Whereas ethnographers often
+               zoom in on one principal set of situations or site, we argue
+               that intersituational variation broadens and deepens the
+               researcher?s ethnographic account as well as affording important
+               correctives to some common inferential pitfalls. We provide four
+               warrants for shadowing: (a) buttressing intersituational claims,
+               (b) deepening ethnographers? ability to trace meaning making by
+               showing how meanings shift as they travel and how such shifts
+               may affect interlocutors? understandings, (c) gaining leverage
+               on the structure of subjects? social worlds, and (d) helping the
+               ethnographer make larger causal arguments. We show the use value
+               of these considerations through an analysis of violence and
+               informal networks in an ethnography of immigrant Latinos who met
+               to socialize and play soccer in a Los Angeles park.",
+  journal   = "Sociological methods \& research",
+  publisher = "SAGE Publications Inc",
+  volume    =  48,
+  number    =  3,
+  pages     = "534--560",
+  month     =  aug,
+  year      =  2019,
+  url       = "https://doi.org/10.1177/0049124115626171",
+  issn      = "0049-1241",
+  doi       = "10.1177/0049124115626171"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Bodner1997-zj,
