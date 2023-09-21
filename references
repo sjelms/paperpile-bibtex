@@ -9804,6 +9804,22 @@
   doi         = "10.1080/01446193.2021.1983187"
 }
 
+@ARTICLE{Glass2022-ms,
+  title     = "Transforming construction: the multi-scale challenges of
+               changing and innovating in construction",
+  author    = "Glass, Jacqueline and Bygballe, Lena E and Hall, Daniel",
+  journal   = "Construction Management and Economics",
+  publisher = "Routledge",
+  volume    =  40,
+  number    = "11-12",
+  pages     = "855--864",
+  month     =  dec,
+  year      =  2022,
+  url       = "https://doi.org/10.1080/01446193.2022.2141432",
+  issn      = "0144-6193",
+  doi       = "10.1080/01446193.2022.2141432"
+}
+
 @ARTICLE{Loosemore1999-ne,
   title     = "A grounded theory of construction crisis management",
   author    = "Loosemore, Martin",
