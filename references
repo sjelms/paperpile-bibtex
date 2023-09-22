@@ -2404,6 +2404,45 @@
   isbn      = "9788763002158"
 }
 
+@ARTICLE{Vindrola-Padros2020-aq,
+  title       = "Rapid Techniques in Qualitative Research: A Critical Review of
+                 the Literature",
+  author      = "Vindrola-Padros, Cecilia and Johnson, Ginger A",
+  affiliation = "University College London, London, United Kingdom. Rapid
+                 Research Evaluation and Appraisal Lab, London, United Kingdom.
+                 Australian National University, Canberra, Australia.",
+  abstract    = "Qualitative researchers are under increasing time demands to
+                 rapidly collect, analyze, and disseminate the results of their
+                 findings. Adaptations to qualitative methods may be required
+                 to enable the use of timely and relevant qualitative data
+                 across multiple disciplinary settings. The aim of this review
+                 is to briefly explore the ways in which data collection and
+                 analysis methods have been adapted in qualitative research to
+                 deal with short study timeframes. We carried out a two-phased
+                 systematic review of the literature and determined there were
+                 six primary reasons why rapid techniques were used: (a) reduce
+                 time, (b) reduce cost, (c) increase the amount of collected
+                 data, (d) improve efficiency, (e) improve accuracy, and (f)
+                 obtain a closer approximation to the narrated realities of
+                 research participants. In addition, we analyzed the
+                 characteristics of the articles, how traditional methods were
+                 adapted and evaluated, the benefits and limitations of using
+                 rapid techniques, and future recommendations.",
+  journal     = "Qualitative health research",
+  volume      =  30,
+  number      =  10,
+  pages       = "1596--1604",
+  month       =  aug,
+  year        =  2020,
+  url         = "http://dx.doi.org/10.1177/1049732320921835",
+  keywords    = "adaptation; coping; enduring; methodology; qualitative;
+                 research design; systematic literature review",
+  language    = "en",
+  issn        = "1049-7323",
+  pmid        = "32667277",
+  doi         = "10.1177/1049732320921835"
+}
+
 @MISC{Wikipedia_contributors2022-fx,
   title        = "{SECI} model of knowledge dimensions",
   booktitle    = "Wikipedia, The Free Encyclopedia",
