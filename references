@@ -2427,6 +2427,8 @@
   doi       = "10.1007/978-3-031-08518-5\_28"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @BOOK{Vindrola-Padros2021-by,
   title       = "Rapid Ethnographies: A Practical Guide",
   author      = "Vindrola-Padros, Cecilia",
@@ -2453,7 +2455,8 @@
   year        =  2021,
   url         = "http://dx.doi.org/10.1017/9781108623568",
   address     = "Cambridge, England",
-  keywords    = "Rapid Qualitative Research",
+  keywords    = "§New Literature;+Readwise;+Notion;Book (physical);Fieldwork
+                 Methodology;Research Methods;Rapid Qualitative Research",
   isbn        = "9781108493369, 9781108493369",
   doi         = "10.1017/9781108623568"
 }
