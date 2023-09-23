@@ -16091,6 +16091,8 @@
   doi         = "10.1177/07410883221083517"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Taylor2006-hm,
   title       = "Making meaning of local nonformal education: Practitioner's
                  perspective",
@@ -16118,7 +16120,8 @@
   month       =  aug,
   year        =  2006,
   url         = "http://dx.doi.org/10.1177/0741713606289122",
-  keywords    = "Rapid Qualitative Research",
+  keywords    = "+Notion;+Readwise;§New Literature;Research Methods;Fieldwork
+                 Methodology;Rapid Qualitative Research",
   language    = "en",
   issn        = "0741-7136, 1552-3047",
   doi         = "10.1177/0741713606289122"
