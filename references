@@ -5401,26 +5401,6 @@
   doi         = "10.1002/berj.3321"
 }
 
-@ARTICLE{Guba1982-ff,
-  title    = "Epistemological and methodological bases of naturalistic inquiry",
-  author   = "Guba, Egon G and Lincoln, Yvonna S",
-  abstract = "How suitable is the rationalistic paradigm for research focusing
-              on human behavior? Proposing that naturalistic inquiry better
-              serves the social/ behavioral sciences, the authors define the
-              differences between the two paradigms and suggest criteria for
-              ensuring the trustworthiness of naturalistic inquiry.",
-  journal  = "ECTJ",
-  volume   =  30,
-  number   =  4,
-  pages    = "233--252",
-  month    =  dec,
-  year     =  1982,
-  url      = "https://doi.org/10.1007/BF02765185",
-  keywords = "RDL [CCME0041];Journal Articles",
-  issn     = "1556-6501",
-  doi      = "10.1007/BF02765185"
-}
-
 @INPROCEEDINGS{Munteanu2015-ju,
   title     = "Situational Ethics: Re-thinking Approaches to Formal Ethics
                Requirements for {Human-Computer} Interaction",
@@ -16919,6 +16899,26 @@
   year      =  2006,
   url       = "http://sashabarab.org/wp-content/uploads/2015/03/Ch-8-Cambridge-Handbook-of-the-Learning-Sciences.pdf",
   keywords  = "§New Literature;RDL [CCME0041]"
+}
+
+@ARTICLE{Guba1982-ff,
+  title    = "Epistemological and methodological bases of naturalistic inquiry",
+  author   = "Guba, Egon G and Lincoln, Yvonna S",
+  abstract = "How suitable is the rationalistic paradigm for research focusing
+              on human behavior? Proposing that naturalistic inquiry better
+              serves the social/ behavioral sciences, the authors define the
+              differences between the two paradigms and suggest criteria for
+              ensuring the trustworthiness of naturalistic inquiry.",
+  journal  = "ECTJ",
+  volume   =  30,
+  number   =  4,
+  pages    = "233--252",
+  month    =  dec,
+  year     =  1982,
+  url      = "https://doi.org/10.1007/BF02765185",
+  keywords = "RDL [CCME0041];Journal Articles",
+  issn     = "1556-6501",
+  doi      = "10.1007/BF02765185"
 }
 
 @ARTICLE{Ivankova2006-pu,
@@ -29486,7 +29486,8 @@
   month     =  aug,
   year      =  2015,
   url       = "https://play.google.com/store/books/details?id=JFN_BwAAQBAJ",
-  keywords  = "Audiobook;Research Methods;ePub | Kindle;Theory and
+  keywords  = "Audiobook;Research Methods;ePub |
+               Kindle;+Readwise;+Notion;Fieldwork Methodology;Theory and
                Methods;EPubs Books",
   language  = "en",
   isbn      = "9781119003618"
