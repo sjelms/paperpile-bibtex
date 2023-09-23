@@ -16091,6 +16091,38 @@
   doi         = "10.1177/07410883221083517"
 }
 
+@ARTICLE{Taylor2006-hm,
+  title       = "Making meaning of local nonformal education: Practitioner's
+                 perspective",
+  author      = "Taylor, Edward W",
+  affiliation = "Penn State University-Harrisburg",
+  abstract    = "Most often associated with international development programs,
+                 local nonformal education, which is practiced in cultural
+                 (museums), historical (memorials, battlefields), natural
+                 (parks), and commercial (craft, home improvement clinics)
+                 settings, has received little substantive attention in the
+                 United States. In response, this case study explored two
+                 nonformal education sites (state parks and home improvement
+                 clinics) to understand how nonformal educators make meaning of
+                 their practice. Through observations and interviews, results
+                 indicate a much more complex picture of nonformal education
+                 than is discussed in the literature, with implications for
+                 both formal education and improving the practice of nonformal
+                 education.",
+  journal     = "Adult education quarterly (American Association for Adult and
+                 Continuing Education)",
+  publisher   = "SAGE Publications",
+  volume      =  56,
+  number      =  4,
+  pages       = "291--307",
+  month       =  aug,
+  year        =  2006,
+  url         = "http://dx.doi.org/10.1177/0741713606289122",
+  language    = "en",
+  issn        = "0741-7136, 1552-3047",
+  doi         = "10.1177/0741713606289122"
+}
+
 @ARTICLE{Ferry1998-xo,
   title     = "An Inquiry into Sch{\"o}n's Epistemology of Practice: Exploring
                Links between Experience and Reflective Practice",
