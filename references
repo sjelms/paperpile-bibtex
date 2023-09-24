@@ -2096,6 +2096,15 @@
   doi       = "10.1007/s10639-017-9676-0"
 }
 
+@TECHREPORT{UK_Commission_for_Employment_and_Skills2012-mz,
+  title       = "Manufacturing: Sector Skills Assessment 2012",
+  author      = "{UK Commission for Employment and Skills}",
+  editor      = "Giles, Lesley",
+  institution = "UK Commission for Employment and Skills",
+  month       =  nov,
+  year        =  2012
+}
+
 @PHDTHESIS{Kuzmanovska2020-kw,
   title     = "Building Design for Manufacture and Assembly ({BDfMA)}:
                Reframing the {Design-Production} Relationship in Industrialised
@@ -27483,10 +27492,6 @@
                Theory;Journal Articles",
   issn      = "1609-4069",
   doi       = "10.1177/16094069221127069"
-}
-
-@MISC{noauthor_undated-mz,
-  title = "briefing-paper-ssa12-manufacturing.pdf"
 }
 
 @ARTICLE{Stehn2023-oe,
