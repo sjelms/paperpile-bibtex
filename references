@@ -19207,6 +19207,20 @@
   doi       = "10.2307/j.ctvbkjztw.4"
 }
 
+@BOOK{Frey2019-yf,
+  title     = "The Technology Trap: Capital, Labor, and Power in the Age of
+               Automation",
+  author    = "Frey, C B",
+  publisher = "Princeton University Press",
+  year      =  2019,
+  url       = "https://books.google.co.uk/books?id=xXGODwAAQBAJ",
+  keywords  = "Cited for Frontiers;Book (physical);Audiobook;Economics;ePub |
+               Kindle;Zotero Import (Feb 22);My Library;Frontiers
+               [2022];*Upgrade Report May 2023;EPubs Books",
+  isbn      = "9780691172798",
+  doi       = "10.2307/j.ctvc77cz1"
+}
+
 @BOOK{Vygotsky1978-pz,
   title     = "Mind in Society: Development of Higher Psychological Processes",
   author    = "Vygotsky, L S",
@@ -24790,19 +24804,6 @@
   author    = "Risley, Lori and McKee, Sue",
   year      =  2013,
   keywords  = "Andragogy;§New Literature"
-}
-
-@BOOK{Frey2019-yf,
-  title     = "The Technology Trap: Capital, Labor, and Power in the Age of
-               Automation",
-  author    = "Frey, C B",
-  publisher = "Princeton University Press",
-  year      =  2019,
-  url       = "https://books.google.co.uk/books?id=xXGODwAAQBAJ",
-  keywords  = "Cited for Frontiers;Book (physical);Audiobook;Economics;ePub |
-               Kindle;Zotero Import (Feb 22);My Library;Frontiers
-               [2022];*Upgrade Report May 2023;EPubs Books",
-  isbn      = "9780691172798"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
