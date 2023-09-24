@@ -210,7 +210,7 @@
   keywords  = "+Readwise;ePub | Kindle;VET;Workplace Learning;§New
                Literature;UCL;++ClickUp;Economics;**CATALOGED;Handbook of
                Vocational Education and Training, The Wiley (2019);00\_TO
-               READ;Notion Catalogued",
+               READ;Notion Catalogued;EPubs Books",
   language  = "en",
   isbn      = "9781119098591",
   doi       = "10.1002/9781119098713"
@@ -232,7 +232,8 @@
   address     = "Hoboken, NJ, USA",
   keywords    = "++ClickUp;+Notion;+Readwise;ePub | Kindle;UCL;Workplace
                  Learning;@\_Mark Up;VET;Cross Ref Chapter;Handbook of
-                 Vocational Education and Training, The Wiley (2019)",
+                 Vocational Education and Training, The Wiley (2019);EPubs
+                 Books",
   isbn        = "9781119098713, 9781119098591",
   doi         = "10.1002/9781119098713.ch1"
 }
@@ -260,7 +261,8 @@
   address     = "Hoboken, NJ, USA",
   keywords    = "++ClickUp;+Notion;+Readwise;ePub | Kindle;Workplace
                  Learning;§New Literature;VET;Cross Ref Chapter;Handbook of
-                 Vocational Education and Training, The Wiley (2019)",
+                 Vocational Education and Training, The Wiley (2019);EPubs
+                 Books",
   isbn        = "9781119098713, 9781119098591",
   doi         = "10.1002/9781119098713.ch12"
 }
@@ -294,7 +296,8 @@
   address     = "Hoboken, NJ, USA",
   keywords    = "++ClickUp;+Notion;+Readwise;ePub | Kindle;Workplace
                  Learning;§New Literature;VET;Cross Ref Chapter;Handbook of
-                 Vocational Education and Training, The Wiley (2019)",
+                 Vocational Education and Training, The Wiley (2019);EPubs
+                 Books",
   isbn        = "9781119098713, 9781119098591",
   doi         = "10.1002/9781119098713.ch16"
 }
@@ -327,7 +330,8 @@
   address     = "Hoboken, NJ, USA",
   keywords    = "++ClickUp;+Notion;+Readwise;ePub | Kindle;Workplace
                  Learning;VET;@\_Mark Up;Cross Ref Chapter;Handbook of
-                 Vocational Education and Training, The Wiley (2019)",
+                 Vocational Education and Training, The Wiley (2019);EPubs
+                 Books",
   isbn        = "9781119098713, 9781119098591",
   doi         = "10.1002/9781119098713.ch19"
 }
@@ -361,7 +365,8 @@
   address     = "Hoboken, NJ, USA",
   keywords    = "++ClickUp;+Notion;+Readwise;ePub | Kindle;UCL;Workplace
                  Learning;@\_Mark Up;VET;Cross Ref Chapter;Handbook of
-                 Vocational Education and Training, The Wiley (2019)",
+                 Vocational Education and Training, The Wiley (2019);EPubs
+                 Books",
   isbn        = "9781119098713, 9781119098591",
   doi         = "10.1002/9781119098713.ch2"
 }
@@ -401,7 +406,7 @@
   address     = "Hoboken, NJ, USA",
   keywords    = "+Notion;+Readwise;ePub | Kindle;VET;Workplace Learning;§New
                  Literature;Cross Ref Chapter;Handbook of Vocational Education
-                 and Training, The Wiley (2019)",
+                 and Training, The Wiley (2019);EPubs Books",
   isbn        = "9781119098713, 9781119098591",
   doi         = "10.1002/9781119098713.ch21"
 }
@@ -436,7 +441,8 @@
   address     = "Hoboken, NJ, USA",
   keywords    = "++ClickUp;+Notion;+Readwise;ePub | Kindle;Workplace
                  Learning;§New Literature;VET;Cross Ref Chapter;Handbook of
-                 Vocational Education and Training, The Wiley (2019)",
+                 Vocational Education and Training, The Wiley (2019);EPubs
+                 Books",
   isbn        = "9781119098713, 9781119098591",
   doi         = "10.1002/9781119098713.ch22"
 }
@@ -473,7 +479,8 @@
   address     = "Hoboken, NJ, USA",
   keywords    = "++ClickUp;+Notion;+Readwise;ePub | Kindle;Workplace
                  Learning;@\_Mark Up;VET;Cross Ref Chapter;Handbook of
-                 Vocational Education and Training, The Wiley (2019)",
+                 Vocational Education and Training, The Wiley (2019);EPubs
+                 Books",
   isbn        = "9781119098713, 9781119098591",
   doi         = "10.1002/9781119098713.ch3"
 }
@@ -543,7 +550,8 @@
   address     = "Hoboken, NJ, USA",
   keywords    = "++ClickUp;+Notion;+Readwise;@\_Mark Up;VET;Workplace
                  Learning;UCL;ePub | Kindle;Cross Ref Chapter;Handbook of
-                 Vocational Education and Training, The Wiley (2019)",
+                 Vocational Education and Training, The Wiley (2019);EPubs
+                 Books",
   isbn        = "9781119098713, 9781119098591",
   doi         = "10.1002/9781119098713.ch5"
 }
@@ -582,7 +590,7 @@
   keywords    = "+Notion;+Readwise;Cross Ref Chapter;ePub |
                  Kindle;UCL;VET;Workplace Learning;§New
                  Literature;Labor;Handbook of Vocational Education and
-                 Training, The Wiley (2019)",
+                 Training, The Wiley (2019);EPubs Books",
   isbn        = "9781119098713, 9781119098591",
   doi         = "10.1002/9781119098713.ch9"
 }
@@ -8357,7 +8365,7 @@
   year      =  2008,
   url       = "https://www.cambridge.org/core/books/from-teams-to-knots/E37D0858F603DE6A88281FA0D46BD856",
   keywords  = "+Notion;+Readwise;ePub | Kindle;Workplace Learning;§New
-               Literature",
+               Literature;EPubs Books",
   language  = "en",
   isbn      = "9780521865678",
   doi       = "10.1017/CBO9780511619847"
@@ -10284,7 +10292,8 @@
   url         = "http://dx.doi.org/10.1080/10494820.2018.1486860",
   keywords    = "VET;Workplace Learning;Multimedia;Knowledge - Skill
                  Acquisition;§New Literature;+Readwise;ePub |
-                 Kindle;**CATALOGED;VET;00\_TO READ;Notion Catalogued",
+                 Kindle;**CATALOGED;VET;00\_TO READ;Notion Catalogued;EPubs
+                 Books",
   language    = "en",
   issn        = "1049-4820, 1744-5191",
   doi         = "10.1080/10494820.2018.1486860"
@@ -17332,7 +17341,7 @@
   url       = "https://play.google.com/store/books/details?id=3hrfzwEACAAJ",
   keywords  = "+Notion;+Readwise;AEC;ePub | Kindle;Workplace Learning;§New
                Literature;Handbook of Construction Safety, Health and
-               Well-being in the Industry 4.0 Era",
+               Well-being in the Industry 4.0 Era;EPubs Books",
   language  = "en",
   isbn      = "9781003213796",
   doi       = "10.1201/9781003213796"
@@ -17356,7 +17365,7 @@
   keywords  = "++ClickUp;+Notion;+Readwise;AEC;Cross Ref Chapter;ePub |
                Kindle;Labor;Workplace Learning;§New Literature;\_XR/MR;Handbook
                of Construction Safety, Health and Well-being in the Industry
-               4.0 Era",
+               4.0 Era;EPubs Books",
   isbn      = "9781003213796",
   doi       = "10.1201/9781003213796-10"
 }
@@ -17379,7 +17388,7 @@
   keywords  = "++ClickUp;+Notion;+Readwise;AEC;Cross Ref Chapter;ePub |
                Kindle;Labor;Workplace Learning;§New Literature;Game
                Engine;Handbook of Construction Safety, Health and Well-being in
-               the Industry 4.0 Era",
+               the Industry 4.0 Era;EPubs Books",
   isbn      = "9781003213796",
   doi       = "10.1201/9781003213796-11"
 }
@@ -17401,7 +17410,7 @@
   keywords  = "++ClickUp;+Notion;+Readwise;AEC;Cross Ref Chapter;ePub |
                Kindle;Labor;Workplace Learning;§New Literature;Robots;Handbook
                of Construction Safety, Health and Well-being in the Industry
-               4.0 Era",
+               4.0 Era;EPubs Books",
   isbn      = "9781003213796",
   doi       = "10.1201/9781003213796-22"
 }
@@ -17422,7 +17431,7 @@
   keywords  = "++ClickUp;+Notion;+Readwise;AEC;Cross Ref Chapter;ePub |
                Kindle;Labor;Workplace Learning;§New Literature;Handbook of
                Construction Safety, Health and Well-being in the Industry 4.0
-               Era",
+               Era;EPubs Books",
   isbn      = "9781003213796",
   doi       = "10.1201/9781003213796-25"
 }
@@ -17445,7 +17454,7 @@
   keywords  = "++ClickUp;+Notion;+Readwise;AEC;Cross Ref Chapter;ePub |
                Kindle;Labor;Workplace Learning;§New Literature;Handbook of
                Construction Safety, Health and Well-being in the Industry 4.0
-               Era",
+               Era;EPubs Books",
   isbn      = "9781003213796",
   doi       = "10.1201/9781003213796-27"
 }
@@ -17469,7 +17478,7 @@
   keywords  = "++ClickUp;+Notion;+Readwise;AEC;Cross Ref Chapter;ePub |
                Kindle;Labor;Workplace Learning;§New Literature;\_XR/MR;Handbook
                of Construction Safety, Health and Well-being in the Industry
-               4.0 Era",
+               4.0 Era;EPubs Books",
   isbn      = "9781003213796",
   doi       = "10.1201/9781003213796-8"
 }
@@ -17491,7 +17500,7 @@
   keywords  = "++ClickUp;+Notion;+Readwise;AEC;Cross Ref Chapter;ePub |
                Kindle;Labor;Workplace Learning;§New Literature;\_XR/MR;Handbook
                of Construction Safety, Health and Well-being in the Industry
-               4.0 Era",
+               4.0 Era;EPubs Books",
   isbn      = "9781003213796",
   doi       = "10.1201/9781003213796-9"
 }
@@ -20849,7 +20858,7 @@
                Professional Development of
                Staff;++ClickUp;+Notion;+Readwise;ePub | Kindle;Workplace
                Learning;§New Literature;SAGE Handbook of Workplace Learning,
-               The",
+               The;EPubs Books",
   language  = "en",
   isbn      = "9781847875891",
   doi       = "10.4135/9781446200940"
@@ -21049,7 +21058,8 @@
   year      =  2004,
   url       = "https://play.google.com/store/books/details?id=1VY4_egobYAC",
   keywords  = "+Notion;+Readwise;ePub | Kindle;UCL;VET;Workplace Learning;§New
-               Literature;++ClickUp;VET;Workplace Learning in Context",
+               Literature;++ClickUp;VET;Workplace Learning in Context;EPubs
+               Books",
   language  = "en",
   isbn      = "9780203571644",
   doi       = "10.4324/9780203571644"
@@ -21093,7 +21103,7 @@
   url       = "https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-11/assessment-workers-basic-skills-susan-hoddinott",
   keywords  = "++ClickUp;+Notion;+Readwise;Cross Ref Chapter;ePub |
                Kindle;VET;Workplace Learning;§New Literature;Workplace Learning
-               in Context",
+               in Context;EPubs Books",
   doi       = "10.4324/9780203571644-11"
 }
 
@@ -21123,7 +21133,7 @@
   url       = "https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-13/learning-work-stephen-billett",
   keywords  = "++ClickUp;+Notion;+Readwise;Cross Ref Chapter;ePub |
                Kindle;VET;Workplace Learning;§New Literature;Workplace Learning
-               in Context",
+               in Context;EPubs Books",
   doi       = "10.4324/9780203571644-13"
 }
 
@@ -21156,7 +21166,7 @@
   url       = "https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-14/expansive-learning-environments-alison-fuller-lorna-unwin",
   keywords  = "++ClickUp;+Notion;+Readwise;Cross Ref Chapter;ePub |
                Kindle;VET;Workplace Learning;§New Literature;UCL;Workplace
-               Learning in Context",
+               Learning in Context;EPubs Books",
   doi       = "10.4324/9780203571644-14"
 }
 
@@ -21173,7 +21183,7 @@
   url       = "https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-18/conceptualizing-vocational-knowledge-michael-young",
   keywords  = "++ClickUp;+Notion;+Readwise;Cross Ref Chapter;ePub |
                Kindle;VET;Workplace Learning;§New Literature;Workplace Learning
-               in Context",
+               in Context;EPubs Books",
   doi       = "10.4324/9780203571644-18"
 }
 
@@ -21210,7 +21220,7 @@
   url       = "https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-19/transfer-knowledge-education-workplace-settings-michael-eraut",
   keywords  = "++ClickUp;+Notion;+Readwise;Cross Ref Chapter;ePub |
                Kindle;VET;Workplace Learning;§New Literature;Workplace Learning
-               in Context",
+               in Context;EPubs Books",
   doi       = "10.4324/9780203571644-19"
 }
 
@@ -21243,7 +21253,7 @@
   url       = "https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-22/complexities-workplace-learning-phil-hodkinson-heather-hodkinson",
   keywords  = "++ClickUp;+Notion;+Readwise;Cross Ref Chapter;ePub |
                Kindle;VET;Workplace Learning;§New Literature;Workplace Learning
-               in Context",
+               in Context;EPubs Books",
   doi       = "10.4324/9780203571644-22"
 }
 
@@ -21280,7 +21290,7 @@
   url       = "https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-25/conclusion-alison-fuller-anne-munro-helen-rainbird",
   keywords  = "++ClickUp;+Notion;+Readwise;Cross Ref Chapter;ePub |
                Kindle;VET;Workplace Learning;§New Literature;UCL;Workplace
-               Learning in Context",
+               Learning in Context;EPubs Books",
   doi       = "10.4324/9780203571644-25"
 }
 
@@ -21310,7 +21320,7 @@
   url       = "https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-5/introduction-overview-alison-fuller-anne-munro-helen-rainbird",
   keywords  = "++ClickUp;+Notion;+Readwise;Cross Ref Chapter;ePub |
                Kindle;VET;Workplace Learning;§New Literature;UCL;Workplace
-               Learning in Context",
+               Learning in Context;EPubs Books",
   doi       = "10.4324/9780203571644-5"
 }
 
@@ -21490,7 +21500,7 @@
   url         = "https://www.taylorfrancis.com/books/edit/10.4324/9781315411811/vocational-education-nordic-countries-svein-michelsen-marja-leena-stenstr%C3%B6m",
   address     = "London, England",
   keywords    = "+Notion;+Readwise;ePub | Kindle;VET;Workplace Learning;§New
-                 Literature",
+                 Literature;EPubs Books",
   isbn        = "9781315411811",
   doi         = "10.4324/9781315411811"
 }
@@ -21558,7 +21568,8 @@
   year      =  2016,
   url       = "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315725529-21/grounded-theory-style-analysis-action-wisnu-setiawan-monty-sutrisna-peter-barrett?context=ubx&refId=f6bea6f2-24ec-4823-a84e-8d7f8386502a",
   keywords  = "ePub | Kindle;++ClickUp;AEC;§New Literature;Research Methodology
-               in the Built Environment: A Selection of Case Studies",
+               in the Built Environment: A Selection of Case Studies;EPubs
+               Books",
   doi       = "10.4324/9781315725529-21"
 }
 
@@ -21578,7 +21589,8 @@
   year      =  2016,
   url       = "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315725529-23/design-science-methodology-developing-learning-object-repository-construction-pathmeswaran-raju-vian-ahmed?context=ubx&refId=89f622fe-6578-4ac2-9024-65d565a9ccdd",
   keywords  = "ePub | Kindle;++ClickUp;AEC;§New Literature;Research Methodology
-               in the Built Environment: A Selection of Case Studies",
+               in the Built Environment: A Selection of Case Studies;EPubs
+               Books",
   doi       = "10.4324/9781315725529-23"
 }
 
@@ -21667,7 +21679,8 @@
   year      =  2016,
   url       = "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315725529-7/comparing-experience-visual-behaviour-physical-virtual-environments-david-greenwood-oliver-jones?context=ubx&refId=9f22eb07-986d-42d0-a989-515c64f7414e",
   keywords  = "ePub | Kindle;++ClickUp;AEC;§New Literature;Research Methodology
-               in the Built Environment: A Selection of Case Studies",
+               in the Built Environment: A Selection of Case Studies;EPubs
+               Books",
   doi       = "10.4324/9781315725529-7"
 }
 
@@ -23636,7 +23649,7 @@
   year      =  2020,
   url       = "https://play.google.com/store/books/details?id=3SfxDwAAQBAJ",
   keywords  = "+Notion;+Readwise;ePub | Kindle;VET;Workplace Learning;§New
-               Literature",
+               Literature;EPubs Books",
   language  = "en",
   isbn      = "9781000257762"
 }
@@ -28022,7 +28035,8 @@
   publisher = "Independently Published",
   month     =  dec,
   year      =  2019,
-  keywords  = "ePub | Kindle;+Notion;+Readwise;§New Literature;Education",
+  keywords  = "ePub | Kindle;+Notion;+Readwise;§New Literature;Education;EPubs
+               Books",
   isbn      = "9781678881702"
 }
 
@@ -28302,7 +28316,7 @@
   year      =  2009,
   url       = "https://openlibrary.org/books/OL22691329M/Improving_workin_as_learning",
   keywords  = "+Notion;+Readwise;UCL;VET;Workplace Learning;§New
-               Literature;ePub | Kindle;VET",
+               Literature;ePub | Kindle;VET;EPubs Books",
   language  = "en",
   isbn      = "9780415496452"
 }
@@ -28703,7 +28717,7 @@
   year      =  2011,
   url       = "https://play.google.com/store/books/details?id=67uMALdMD-8C",
   keywords  = "+Notion;+Readwise;ePub | Kindle;VET;Workplace Learning;§New
-               Literature",
+               Literature;EPubs Books",
   language  = "en",
   isbn      = "9789400719545"
 }
@@ -28734,7 +28748,8 @@
   month     =  apr,
   year      =  2014,
   address   = "London, England",
-  keywords  = "+Notion;+Readwise;§New Literature;ePub | Kindle;Audiobook",
+  keywords  = "+Notion;+Readwise;§New Literature;ePub | Kindle;Audiobook;EPubs
+               Books",
   language  = "en",
   isbn      = "9780674729018"
 }
@@ -29870,7 +29885,7 @@
   year      =  2014,
   url       = "https://play.google.com/store/books/details?id=g_QuBAAAQBAJ",
   keywords  = "+Notion;+Readwise;ePub | Kindle;VET;Workplace Learning;§New
-               Literature",
+               Literature;EPubs Books",
   language  = "en",
   isbn      = "9783319092775"
 }
@@ -30453,7 +30468,8 @@
   month     =  may,
   year      =  2013,
   url       = "https://play.google.com/store/books/details?id=4fKt9MU9w_cC",
-  keywords  = "+Notion;+Readwise;ePub | Kindle;Research Methods;§New Literature",
+  keywords  = "+Notion;+Readwise;ePub | Kindle;Research Methods;§New
+               Literature;EPubs Books",
   language  = "en",
   isbn      = "9781136031748"
 }
