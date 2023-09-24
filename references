@@ -2614,6 +2614,23 @@
   doi       = "10.1016/j.sbspro.2016.06.192"
 }
 
+@ARTICLE{Yeung2018-ya,
+  title    = "Computational Narrative Mapping for the Acquisition and
+              Representation of Lessons Learned Knowledge",
+  author   = "Yeung, C L and Wang, W M and Cheung, C F and Tsui, Eric and
+              Setchi, Rossitza and Lee, Rongbin W B",
+  journal  = "Engineering Applications of Artificial Intelligence",
+  volume   =  71,
+  pages    = "190--209",
+  year     =  2018,
+  url      = "https://linkinghub.elsevier.com/retrieve/pii/S0952197618300320",
+  keywords = "@\_Mark Up;**CATALOGED;Zotero Import (Feb 22);My
+              Library;2021-12-03 Frontiers;Journal Articles",
+  language = "en",
+  issn     = "0952-1976",
+  doi      = "10.1016/j.engappai.2018.02.011"
+}
+
 @ARTICLE{Vindrola-Padros2020-aq,
   title       = "Rapid Techniques in Qualitative Research: A Critical Review of
                  the Literature",
@@ -4701,23 +4718,6 @@
   howpublished = "\url{https://heritagecalling.com/2018/07/24/5-things-you-didnt-know-about-prefabs/}",
   keywords     = "Zotero Import (Feb 22);My Library;2021-12-03
                   Frontiers;*Upgrade Report May 2023"
-}
-
-@ARTICLE{Yeung2018-ya,
-  title    = "Computational Narrative Mapping for the Acquisition and
-              Representation of Lessons Learned Knowledge",
-  author   = "Yeung, C L and Wang, W M and Cheung, C F and Tsui, Eric and
-              Setchi, Rossitza and Lee, Rongbin W B",
-  journal  = "Engineering Applications of Artificial Intelligence",
-  volume   =  71,
-  pages    = "190--209",
-  year     =  2018,
-  url      = "https://linkinghub.elsevier.com/retrieve/pii/S0952197618300320",
-  keywords = "@\_Mark Up;Zotero Import (Feb 22);My Library;2021-12-03
-              Frontiers;Journal Articles",
-  language = "en",
-  issn     = "0952-1976",
-  doi      = "10.1016/j.engappai.2018.02.011"
 }
 
 @ARTICLE{Venkatesh2021-uz,
