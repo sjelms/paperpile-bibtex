@@ -26379,6 +26379,30 @@
   keywords     = "RDL [CCME0041]"
 }
 
+@BOOK{Malloch2010-fj,
+  title     = "The {SAGE} Handbook of Workplace Learning",
+  author    = "Malloch, Margaret",
+  abstract  = "This Handbook provides a state-of --the art overview of the
+               field of workplace learning from a global perspective. The
+               authors are all well-placed theoreticians, researchers, and
+               practitioners in this burgeoning field , which cuts across
+               higher education, vocational education and training,
+               post-compulsory secondary schooling, and lifelong education. The
+               volume provides a broad--based, yet incisive analysis of the
+               range of theory, research, and practical developments in
+               workplace learning. The SAGE Handbook of Workplace Learning
+               draws together a wide range of views, theoretical dispositions,
+               and assertions and provides a leading-edge presentation by key
+               writers and researchers with insight into the field and its
+               current state.",
+  publisher = "SAGE Publications",
+  month     =  oct,
+  year      =  2010,
+  url       = "https://play.google.com/store/books/details?id=t9sUZB-XoE4C",
+  language  = "en",
+  isbn      = "9781847875891"
+}
+
 @MISC{US_Census_Bureau_MCD_Cheryl_Cornish_Stephen_Cooper_Salima_Jenkins2021-ie,
   title     = "Monthly New Residential Construction, June 2021",
   author    = "{US Census Bureau (MCD): Cheryl Cornish, Stephen Cooper, Salima
