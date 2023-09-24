@@ -6190,6 +6190,47 @@
   doi       = "10.1016/j.promfg.2018.06.129"
 }
 
+@ARTICLE{Ferrada2016-ij,
+  title     = "A lessons-learned system for construction project management: A
+               preliminary application",
+  author    = "Ferrada, Ximena and N{\'u}{\~n}ez, Daniela and Neyem, Andr{\'e}s
+               and Serpell, Alfredo and Sep{\'u}lveda, Marcos",
+  abstract  = "Construction companies are project-based organizations, since
+               much of their knowledge is generated on site, from projects they
+               carry out. In fact, projects are an important source of expert
+               know-how and organizational knowledge, but lessons-learned from
+               them are not systematically incorporated into subsequent
+               projects, evidencing a lack of knowledge management and learning
+               culture in local construction companies. This article describes
+               a research effort that addressed this situation and developed a
+               lessons-learned system to help construction companies to
+               overcome these limitations. A multiple case-study methodology
+               was applied to understand the knowledge and learning realities
+               and needs of three Chilean construction companies. Based on
+               these results, a mobile cloud-shared workspace to support
+               knowledge management was developed. Results show that major
+               concerns of users are associated with how the system
+               acknowledges the particularities of construction projects and
+               how it will be incorporated into daily activities. Main
+               conclusions indicate that (1) companies acknowledge the need to
+               develop a culture of innovation within the organization, (2)
+               users consider the system as a tool that could really contribute
+               to improve the construction project management process, and (3)
+               the system needs improvements regarding database search and the
+               Internet support before being fully implemented in the company
+               as a project management tool.",
+  journal   = "Procedia, social and behavioral sciences",
+  publisher = "Elsevier BV",
+  volume    =  226,
+  pages     = "302--309",
+  month     =  jul,
+  year      =  2016,
+  url       = "http://dx.doi.org/10.1016/j.sbspro.2016.06.192",
+  copyright = "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+  issn      = "1877-0428",
+  doi       = "10.1016/j.sbspro.2016.06.192"
+}
+
 @ARTICLE{Hook2021-dq,
   title    = "Characterizing Interaction Design by Its Ideals: A Discipline in
               Transition",
