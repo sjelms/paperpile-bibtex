@@ -22746,7 +22746,7 @@
   month       =  jul,
   year        =  2013,
   url         = "https://www.gov.uk/government/publications/construction-2025-strategy",
-  keywords    = "AEC;Report;Construction 4.0",
+  keywords    = "AEC;Report;Construction 4.0;Government Report",
   copyright   = "Open Government Licence v3.0, \copyright{} Crown copyright"
 }
 
@@ -23536,7 +23536,7 @@
                the problems revealed following the consultation process.",
   publisher = "H.M. Stationery Office",
   year      =  1994,
-  keywords  = "+Readwise;AEC;Report;+Notion;§New Literature",
+  keywords  = "+Readwise;AEC;Report;+Notion;§New Literature;Government Report",
   language  = "en",
   isbn      = "9780117529946"
 }
@@ -27208,7 +27208,8 @@
   publisher = "Department of the Environment, Transport and the Regions",
   year      =  1998,
   url       = "https://openlibrary.org/books/OL8970063M/Rethinking_Construction",
-  keywords  = "AEC;Report;+Readwise;§New Literature;Notion Catalogued",
+  keywords  = "AEC;Report;+Readwise;§New Literature;Notion
+               Catalogued;Government Report",
   language  = "en",
   isbn      = "9781851120949"
 }
@@ -28104,7 +28105,7 @@
   institution = "UK Commission for Employment and Skills",
   month       =  nov,
   year        =  2012,
-  keywords    = "Report;Employment;Labor"
+  keywords    = "Report;Employment;Labor;Government Report"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -30071,7 +30072,7 @@
   institution = "UK Commission for Employment and Skills",
   month       =  oct,
   year        =  2012,
-  keywords    = "Report;Employment;Labor",
+  keywords    = "Report;Employment;Labor;Government Report",
   isbn        = "9781908418296"
 }
 
