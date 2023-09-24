@@ -30562,8 +30562,18 @@
   language     = "en"
 }
 
+@TECHREPORT{United_Nations_Department_of_Economic_and_Social_Affairs2015-tc,
+  title       = "Population 2030: Demographic challenges and opportunities for
+                 sustainable development planning",
+  author      = "{United Nations, Department of Economic and Social Affairs}",
+  number      = "ST/ESA/SER.A/389",
+  institution = "United Nations",
+  year        =  2015,
+  keywords    = "**CATALOGED;Notion Catalogued"
+}
+
 @BOOK{Yin2013-yq,
-  title     = "Case study research: Design and methods",
+  title     = "Case Study Research: Design and Methods",
   author    = "Yin, Robert K",
   publisher = "SAGE Publications",
   edition   =  5,
@@ -30574,16 +30584,6 @@
                Research",
   language  = "en",
   isbn      = "9781452242569"
-}
-
-@TECHREPORT{United_Nations_Department_of_Economic_and_Social_Affairs2015-tc,
-  title       = "Population 2030: Demographic challenges and opportunities for
-                 sustainable development planning",
-  author      = "{United Nations, Department of Economic and Social Affairs}",
-  number      = "ST/ESA/SER.A/389",
-  institution = "United Nations",
-  year        =  2015,
-  keywords    = "**CATALOGED;Notion Catalogued"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
