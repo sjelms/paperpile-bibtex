@@ -20843,42 +20843,6 @@
   doi       = "10.4135/9781412973588"
 }
 
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@INCOLLECTION{Russ-Eft2011-xj,
-  title     = "Towards a {Meta-Theory} of Learning and Performance",
-  booktitle = "The {SAGE} Handbook of Workplace Learning",
-  author    = "Russ-Eft, Darlene",
-  abstract  = "This Handbook provides a state-of --the art overview of the
-               field of workplace learning from a global perspective. The
-               authors are all well-placed theoreticians, researchers, and
-               practitioners in this burgeoning field , which cuts across
-               higher education, vocational education and training,
-               post-compulsory secondary schooling, and lifelong education. The
-               volume provides a broad--based, yet incisive analysis of the
-               range of theory, research, and practical developments in
-               workplace learning. The SAGE Handbook of Workplace Learning
-               draws together a wide range of views, theoretical dispositions,
-               and assertions and provides a leading-edge presentation by key
-               writers and researchers with insight into the field and its
-               current state.",
-  publisher = "SAGE Publications Ltd",
-  pages     = "120--131",
-  month     =  mar,
-  year      =  2011,
-  url       = "https://sk.sagepub.com/reference/hdbk_workplacelearning/n9.xml",
-  keywords  = "behaviorism; trainees; organizational learning; reinforcement;
-               learning transfer; learning theory; modeling of behavior;
-               Knowledge Management; Training, Development \& Education;
-               Professional Development of
-               Staff;++ClickUp;+Notion;+Readwise;ePub | Kindle;Workplace
-               Learning;§New Literature;Cross Ref Chapter;SAGE Handbook of
-               Workplace Learning, The;EPubs Books",
-  language  = "en",
-  isbn      = "9781847875891",
-  doi       = "10.4135/9781446200940"
-}
-
 @BOOK{Malloch2010-fj,
   title     = "The {SAGE} Handbook of Workplace Learning",
   author    = "Malloch, Margaret",
@@ -25921,6 +25885,40 @@
   keywords  = "YouTube;Zotero Import (Feb 22);My Library;2021-12-03
                Frontiers;*Upgrade Report May 2023",
   copyright = "Autodesk"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@INCOLLECTION{Russ-Eft2011-xj,
+  title     = "Towards a {Meta-Theory} of Learning and Performance",
+  booktitle = "The {SAGE} Handbook of Workplace Learning",
+  author    = "Russ-Eft, Darlene",
+  abstract  = "This Handbook provides a state-of --the art overview of the
+               field of workplace learning from a global perspective. The
+               authors are all well-placed theoreticians, researchers, and
+               practitioners in this burgeoning field , which cuts across
+               higher education, vocational education and training,
+               post-compulsory secondary schooling, and lifelong education. The
+               volume provides a broad--based, yet incisive analysis of the
+               range of theory, research, and practical developments in
+               workplace learning. The SAGE Handbook of Workplace Learning
+               draws together a wide range of views, theoretical dispositions,
+               and assertions and provides a leading-edge presentation by key
+               writers and researchers with insight into the field and its
+               current state.",
+  publisher = "SAGE Publications Ltd",
+  pages     = "120--131",
+  month     =  mar,
+  year      =  2011,
+  url       = "https://sk.sagepub.com/reference/hdbk_workplacelearning/n9.xml",
+  keywords  = "behaviorism; trainees; organizational learning; reinforcement;
+               learning transfer; learning theory; modeling of behavior;
+               Knowledge Management; Training, Development \& Education;
+               Professional Development of
+               Staff;++ClickUp;+Notion;+Readwise;ePub | Kindle;Workplace
+               Learning;§New Literature;Cross Ref Chapter;SAGE Handbook of
+               Workplace Learning, The;EPubs Books",
+  language  = "en"
 }
 
 @TECHREPORT{Hovnanian2022-kv,
