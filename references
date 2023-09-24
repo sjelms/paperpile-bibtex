@@ -23649,7 +23649,7 @@
   year      =  2020,
   url       = "https://play.google.com/store/books/details?id=3SfxDwAAQBAJ",
   keywords  = "+Notion;+Readwise;ePub | Kindle;VET;Workplace Learning;§New
-               Literature;EPubs Books",
+               Literature;++ClickUp;EPubs Books",
   language  = "en",
   isbn      = "9781000257762"
 }
@@ -28717,7 +28717,7 @@
   year      =  2011,
   url       = "https://play.google.com/store/books/details?id=67uMALdMD-8C",
   keywords  = "+Notion;+Readwise;ePub | Kindle;VET;Workplace Learning;§New
-               Literature;EPubs Books",
+               Literature;++ClickUp;EPubs Books",
   language  = "en",
   isbn      = "9789400719545"
 }
@@ -29885,7 +29885,7 @@
   year      =  2014,
   url       = "https://play.google.com/store/books/details?id=g_QuBAAAQBAJ",
   keywords  = "+Notion;+Readwise;ePub | Kindle;VET;Workplace Learning;§New
-               Literature;EPubs Books",
+               Literature;++ClickUp;EPubs Books",
   language  = "en",
   isbn      = "9783319092775"
 }
@@ -30580,8 +30580,8 @@
   month     =  jul,
   year      =  2013,
   address   = "Thousand Oaks, CA",
-  keywords  = "Research Methods;Fieldwork Methodology;ePub | Kindle;Rapid
-               Qualitative Research;EPubs Books",
+  keywords  = "Research Methods;Fieldwork Methodology;ePub |
+               Kindle;++ClickUp;Rapid Qualitative Research;EPubs Books",
   language  = "en",
   isbn      = "9781452242569"
 }
