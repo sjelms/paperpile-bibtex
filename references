@@ -28104,7 +28104,7 @@
   institution = "UK Commission for Employment and Skills",
   month       =  nov,
   year        =  2012,
-  keywords    = "Report"
+  keywords    = "Report;Employment;Labor"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -30071,7 +30071,7 @@
   institution = "UK Commission for Employment and Skills",
   month       =  oct,
   year        =  2012,
-  keywords    = "Report",
+  keywords    = "Report;Employment;Labor",
   isbn        = "9781908418296"
 }
 
