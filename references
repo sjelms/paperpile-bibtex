@@ -23601,6 +23601,8 @@
   language     = "en"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @BOOK{Billett2020-yt,
   title     = "Learning In The Workplace: Strategies for effective practice",
   author    = "Billett, Stephen",
@@ -23633,7 +23635,8 @@
   month     =  jul,
   year      =  2020,
   url       = "https://play.google.com/store/books/details?id=3SfxDwAAQBAJ",
-  keywords  = "+Notion",
+  keywords  = "+Notion;+Readwise;ePub | Kindle;VET;Workplace Learning;§New
+               Literature",
   language  = "en",
   isbn      = "9781000257762"
 }
@@ -28667,6 +28670,8 @@
                  Report May 2023"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @BOOK{Billett2011-kx,
   title     = "Vocational Education: Purposes, Traditions and Prospects",
   author    = "Billett, Stephen",
@@ -28697,7 +28702,8 @@
   month     =  jul,
   year      =  2011,
   url       = "https://play.google.com/store/books/details?id=67uMALdMD-8C",
-  keywords  = "+Notion",
+  keywords  = "+Notion;+Readwise;ePub | Kindle;VET;Workplace Learning;§New
+               Literature",
   language  = "en",
   isbn      = "9789400719545"
 }
@@ -29863,7 +29869,8 @@
   month     =  aug,
   year      =  2014,
   url       = "https://play.google.com/store/books/details?id=g_QuBAAAQBAJ",
-  keywords  = "+Notion",
+  keywords  = "+Notion;+Readwise;ePub | Kindle;VET;Workplace Learning;§New
+               Literature",
   language  = "en",
   isbn      = "9783319092775"
 }
