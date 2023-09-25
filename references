@@ -2913,23 +2913,6 @@
   conference      = "Cognitive Science Society"
 }
 
-@BOOK{Thompson1973-ow,
-  title     = "Foundations of Vocational Education: Social and Philosophical
-               Concepts",
-  author    = "Thompson, John F",
-  abstract  = "Monograph on the philosophical and social implications of the
-               development of vocational education in the USA - reviews
-               selected historical factors and comments on major national level
-               legislation, outlines contemporary vocational training and
-               technical education programmes, and speculates on emerging
-               trends. Diagrams and references.",
-  publisher = "Prentice-Hall",
-  year      =  1973,
-  url       = "https://play.google.com/store/books/details?id=zdtPAQAAIAAJ",
-  language  = "en",
-  isbn      = "9780133300680"
-}
-
 @MISC{Authers2021-dw,
   title        = "If Your {CEO} Talks Like Kant, Think Twice Before Investing",
   booktitle    = "Bloomberg",
@@ -11927,6 +11910,24 @@
   language  = "en",
   issn      = "0098-7913, 1879-095X",
   doi       = "10.1080/00987913.2009.10765252"
+}
+
+@BOOK{Thompson1973-ow,
+  title     = "Foundations of Vocational Education: Social and Philosophical
+               Concepts",
+  author    = "Thompson, John F",
+  abstract  = "Monograph on the philosophical and social implications of the
+               development of vocational education in the USA - reviews
+               selected historical factors and comments on major national level
+               legislation, outlines contemporary vocational training and
+               technical education programmes, and speculates on emerging
+               trends. Diagrams and references.",
+  publisher = "Prentice-Hall",
+  year      =  1973,
+  url       = "https://play.google.com/store/books/details?id=zdtPAQAAIAAJ",
+  keywords  = "Occupational choice;VET;Workplace Learning",
+  language  = "en",
+  isbn      = "9780133300680"
 }
 
 @ARTICLE{Taylor2006-hm,
