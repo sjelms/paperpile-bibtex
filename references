@@ -16368,6 +16368,41 @@
   doi       = "10.1177/1045159513489111"
 }
 
+@ARTICLE{Boblin2013-ve,
+  title     = "Using Stake's Qualitative Case Study Approach to Explore
+               Implementation of {Evidence-Based} Practice",
+  author    = "Boblin, Sheryl L and Ireland, Sandra and Kirkpatrick, Helen and
+               Robertson, Kim",
+  abstract  = "Although the use of qualitative case study research has
+               increased during the past decade, researchers have primarily
+               reported on their findings, with less attention given to
+               methods. When methods were described, they followed the
+               principles of Yin; researchers paid less attention to the
+               equally important work of Stake. When Stake?s methods were
+               acknowledged, researchers frequently used them along with Yin?s.
+               Concurrent application of their methods did not take into
+               account differences in the philosophies of these two case study
+               researchers. Yin?s research is postpositivist whereas Stake?s is
+               constructivist. Thus, the philosophical assumptions they used to
+               guide their work were different. In this article we describe how
+               we used Stake?s approach to explore the implementation of a
+               falls-prevention best-practice guideline. We focus on our
+               decisions and their congruence with Stake?s recommendations,
+               embed our decisions within the context of researching this
+               phenomenon, describe rationale for our decisions, and present
+               lessons learned.",
+  journal   = "Qualitative health research",
+  publisher = "SAGE Publications Inc",
+  volume    =  23,
+  number    =  9,
+  pages     = "1267--1275",
+  month     =  sep,
+  year      =  2013,
+  url       = "https://doi.org/10.1177/1049732313502128",
+  issn      = "1049-7323",
+  doi       = "10.1177/1049732313502128"
+}
+
 @ARTICLE{Vindrola-Padros2020-aq,
   title       = "Rapid Techniques in Qualitative Research: A Critical Review of
                  the Literature",
