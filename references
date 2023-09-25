@@ -16399,7 +16399,8 @@
   month     =  sep,
   year      =  2013,
   url       = "https://doi.org/10.1177/1049732313502128",
-  keywords  = "Rapid Qualitative Research",
+  keywords  = "Fieldwork Methodology;Research Methods;Rapid Qualitative
+               Research",
   issn      = "1049-7323",
   doi       = "10.1177/1049732313502128"
 }
@@ -27899,7 +27900,8 @@
   month     =  apr,
   year      =  1995,
   url       = "https://play.google.com/store/books/details?id=sIMOAQAAMAAJ",
-  keywords  = "Rapid Qualitative Research",
+  keywords  = "Fieldwork Methodology;Research Methods;Rapid Qualitative
+               Research",
   language  = "en",
   isbn      = "9780803957664"
 }
