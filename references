@@ -2913,6 +2913,18 @@
   conference      = "Cognitive Science Society"
 }
 
+@INCOLLECTION{Yin2013-ej,
+  title     = "How to Know Whether and When to Use Case Studies as a Research
+               Method",
+  booktitle = "Case Study Research and Applications: Design and Methods",
+  author    = "Yin, R K",
+  publisher = "SAGE Publishing Ltd",
+  pages     = "3--24",
+  year      =  2013,
+  url       = "https://www.sagepub.com/sites/default/files/upm-binaries/24735_Chapter1.pdf",
+  keywords  = "RDL [CCME0041]"
+}
+
 @MISC{Authers2021-dw,
   title        = "If Your {CEO} Talks Like Kant, Think Twice Before Investing",
   booktitle    = "Bloomberg",
@@ -5274,16 +5286,6 @@
   keywords = "RDL [CCME0041];Journal Articles",
   issn     = "2040-512X",
   doi      = "10.1558/jircd.v7i1.28228"
-}
-
-@BOOK{Yin2013-ej,
-  title     = "How to Know Whether and When to Use Case Studies as a Research
-               Method",
-  author    = "Yin, R K",
-  publisher = "SAGE Publishing Ltd",
-  year      =  2013,
-  url       = "https://www.sagepub.com/sites/default/files/upm-binaries/24735_Chapter1.pdf",
-  keywords  = "RDL [CCME0041]"
 }
 
 @MISC{Geerz1973-kk,
