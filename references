@@ -923,6 +923,8 @@
   doi       = "10.1007/978-1-4614-3185-5\_58"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Littlejohn2019-lx,
   title     = "Networked Professional Learning: An Introduction",
   booktitle = "Networked Professional Learning: Emerging and Equitable
@@ -944,7 +946,8 @@
   year      =  2019,
   url       = "https://doi.org/10.1007/978-3-030-18030-0_1",
   address   = "Cham",
-  keywords  = "UCL;WALF - Improving Working as Learning",
+  keywords  = "UCL;+Notion;+Readwise;VET;Workplace Learning;§New
+               Literature;WALF - Improving Working as Learning",
   isbn      = "9783030180300",
   doi       = "10.1007/978-3-030-18030-0\_1"
 }
@@ -1306,6 +1309,8 @@
   doi       = "10.1007/978-3-031-08518-5\_28"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Unwin2017-yf,
   title     = "From Craftsmanship and Novices to {3D} Printing and an Ageing
                Workforce -- Is Vocational Education and Training ({VET})
@@ -1334,7 +1339,8 @@
   year      =  2017,
   url       = "https://doi.org/10.1007/978-3-319-47856-2_25",
   address   = "Cham",
-  keywords  = "UCL;WALF - Improving Working as Learning",
+  keywords  = "UCL;+Notion;+Readwise;VET;Workplace Learning;§New
+               Literature;WALF - Improving Working as Learning",
   isbn      = "9783319478562",
   doi       = "10.1007/978-3-319-47856-2\_25"
 }
@@ -2619,6 +2625,8 @@
   doi       = "10.1007/s11831-020-09457-7"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Halvarsson_Lundkvist2018-tt,
   title    = "Conditions for Employee Learning and Innovation -- Interweaving
               Competence Development Activities Provided by a Workplace
@@ -2656,7 +2664,8 @@
   month    =  apr,
   year     =  2018,
   url      = "https://doi.org/10.1007/s12186-017-9179-6",
-  keywords = "WALF - Improving Working as Learning",
+  keywords = "+Notion;+Readwise;VET;Workplace Learning;§New Literature;WALF -
+              Improving Working as Learning",
   issn     = "1874-7868",
   doi      = "10.1007/s12186-017-9179-6"
 }
@@ -8987,6 +8996,8 @@
   doi       = "10.1051/e3sconf/20197901003"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Fuller2016-xl,
   title     = "Applying an Apprenticeship Approach to {HRD}: Why the Concepts
                of Occupation, Identity and the Organisation of Workplace
@@ -9020,7 +9031,8 @@
   year      =  2016,
   url       = "https://doi.org/10.1057/9781137465191_5",
   address   = "London",
-  keywords  = "UCL;WALF - Improving Working as Learning",
+  keywords  = "UCL;+Notion;+Readwise;VET;Workplace Learning;§New
+               Literature;WALF - Improving Working as Learning",
   isbn      = "9781137465191",
   doi       = "10.1057/9781137465191\_5"
 }
@@ -9696,6 +9708,8 @@
   doi       = "10.1080/0046760960250401"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Idris2023-ew,
   title     = "Training and performance in {SMEs}: Empirical evidence from
                large-scale data from the {UK}",
@@ -9720,7 +9734,8 @@
   month     =  mar,
   year      =  2023,
   url       = "https://doi.org/10.1080/00472778.2020.1816431",
-  keywords  = "WALF - Improving Working as Learning",
+  keywords  = "+Notion;+Readwise;VET;Workplace Learning;§New Literature;WALF -
+               Improving Working as Learning",
   issn      = "0047-2778",
   doi       = "10.1080/00472778.2020.1816431"
 }
@@ -11114,6 +11129,8 @@
   doi       = "10.1080/13636829800200044"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Guile2001-af,
   title     = "Learning Through Work Experience",
   author    = "Guile, David and Griffiths, Toni",
@@ -11143,7 +11160,8 @@
   month     =  feb,
   year      =  2001,
   url       = "https://doi.org/10.1080/13639080020028738",
-  keywords  = "UCL;WALF - Improving Working as Learning",
+  keywords  = "UCL;+Notion;+Readwise;VET;Workplace Learning;§New
+               Literature;WALF - Improving Working as Learning",
   issn      = "1363-9080",
   doi       = "10.1080/13639080020028738"
 }
@@ -13205,6 +13223,8 @@
   doi         = "10.1111/ejed.12533"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Manuti2015-ga,
   title       = "Formal and Informal Learning in the Workplace: A Research
                  Review",
@@ -13240,7 +13260,8 @@
   month       =  mar,
   year        =  2015,
   url         = "https://onlinelibrary.wiley.com/doi/10.1111/ijtd.12044",
-  keywords    = "WALF - Improving Working as Learning",
+  keywords    = "+Notion;+Readwise;VET;Workplace Learning;§New Literature;WALF
+                 - Improving Working as Learning",
   language    = "en",
   issn        = "1360-3736, 1468-2419",
   doi         = "10.1111/ijtd.12044"
@@ -18679,6 +18700,8 @@
   doi        = "10.15405/epsbs.2018.05.84"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Wittig2022-fz,
   title       = "the Changing Epistemology of {VET}: Reflections on Analysing
                  Content Change",
@@ -18711,7 +18734,8 @@
   month       =  aug,
   year        =  2022,
   url         = "https://akjournals.com/view/journals/063/12/3/article-p276.xml",
-  keywords    = "WALF - Improving Working as Learning",
+  keywords    = "+Notion;+Readwise;VET;Workplace Learning;§New Literature;WALF
+                 - Improving Working as Learning",
   issn        = "2064-2199",
   doi         = "10.1556/063.2021.00043"
 }
@@ -24515,6 +24539,8 @@
                  2023"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @TECHREPORT{Fuller2015-wk,
   title       = "Does Apprenticeship Work for Adults?",
   author      = "Fuller, Alison and Leonard, Pauline and Unwin, Lorna and
@@ -24522,7 +24548,8 @@
   institution = "UCL Institute of Education",
   month       =  mar,
   year        =  2015,
-  keywords    = "UCL;WALF - Improving Working as Learning"
+  keywords    = "UCL;+Notion;+Readwise;VET;Workplace Learning;§New
+                 Literature;WALF - Improving Working as Learning"
 }
 
 @TECHREPORT{Wellener2018-jc,
@@ -25722,6 +25749,8 @@
   isbn      = "9780393306767"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @TECHREPORT{Felstead2016-ut,
   title       = "Learning Outside the Formal System -- What Learning Happens in
                  the Workplace, and How is It Recognised?",
@@ -25759,7 +25788,8 @@
   month       =  aug,
   year        =  2016,
   url         = "https://www.voced.edu.au/content/ngv:80380",
-  keywords    = "UCL;WALF - Improving Working as Learning"
+  keywords    = "UCL;+Notion;+Readwise;VET;Workplace Learning;§New
+                 Literature;WALF - Improving Working as Learning"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
