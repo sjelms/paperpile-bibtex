@@ -31942,6 +31942,14 @@
   isbn      = "9780646124490"
 }
 
+@MISC{noauthor_undated-bg,
+  title        = "The Construction Challenge in Greater Manchester: Employment,
+                  Skills and Training",
+  url          = "http://hummedia.manchester.ac.uk/institutes/mui/igau/IGAU_Construction_Working_paper_Feb_2018.pdf",
+  howpublished = "\url{http://hummedia.manchester.ac.uk/institutes/mui/igau/IGAU_Construction_Working_paper_Feb_2018.pdf}",
+  note         = "Accessed: 2023-9-27"
+}
+
 @MISC{noauthor_undated-st,
   title        = "Narrative inquiry by D. Clandinin and J. Huber",
   url          = "http://www.mofet.macam.ac.il/amitim/iun/CollaborativeResearch/Documents/NarrativeInquiry.pdf",
