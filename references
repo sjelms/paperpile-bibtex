@@ -27359,6 +27359,8 @@
   isbn      = "9781119735045"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @TECHREPORT{Lupton2018-ct,
   title       = "The Construction Challenge in Greater Manchester: Employment,
                  Skills and Training",
@@ -27371,7 +27373,8 @@
   institution = "University of Manchester",
   month       =  feb,
   year        =  2018,
-  keywords    = "+Notion"
+  keywords    = "+Notion;+Readwise;AEC;UCL;VET;Workplace Learning;§New
+                 Literature"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
