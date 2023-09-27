@@ -24747,20 +24747,6 @@
 
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
-@ARTICLE{Felstead2017-ut,
-  title     = "Learning outside the formal system--what learning happens in the
-               workplace, and how is it recognised?",
-  author    = "Felstead, A and Unwin, L",
-  abstract  = "Learning outside the formal system -- what learning happens in
-               the workplace, and how is it recognised? -ORCA Cardiff
-               University | Prifysgol Caerdydd ORCA Online Research @ Cardiff …",
-  publisher = "orca.cardiff.ac.uk",
-  year      =  2017,
-  url       = "https://orca.cardiff.ac.uk/id/eprint/98655/"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
 @BOOK{Weber-Lewerenz2022-ow,
   title     = "Accents of Added Value in Construction 4.0: Ethical Observations
                in Dealing With Digitization and {AI}",
@@ -25561,6 +25547,45 @@
   keywords  = "Book (physical)",
   language  = "en",
   isbn      = "9780393306767"
+}
+
+@TECHREPORT{Felstead2016-ut,
+  title       = "Learning Outside the Formal System -- What Learning Happens in
+                 the Workplace, and How is It Recognised?",
+  author      = "Felstead, A and Unwin, L",
+  abstract    = "This report provides a summary of the evidence base on the
+                 question: 'What learning happens in the workplace, and how is
+                 it recognised?'. It draws on national and international
+                 research findings - both quantitative and qualitative - and
+                 identifies ten key messages: (1) The starting points are to
+                 recognise that: (a) paradigms of learning differ; and (b)
+                 workplaces are contested spaces in which what counts as
+                 'learning'; (2) Measures of 'learning as acquisition' include
+                 the incidence of workplace training; (3) Real levels of
+                 training expenditure by employers have also moved downwards;
+                 (4) Despite the emphasis placed on training course attendance
+                 and the acquisition of qualifications, both are relatively
+                 low-rated by employees in terms of their helpfulness in
+                 improving work performance; (5) At a time when formal
+                 workplace training has been declining, the evidence suggests
+                 that the importance of learning on-the-job is rising; (6) All
+                 sources of workplace learning from whatever paradigm are
+                 skewed towards those at the top of the occupational hierarchy;
+                 (7) Much of the qualitative evidence shows that learning
+                 occurs naturally in all workplaces as part of everyday
+                 activity in line with the learning as participation approach;
+                 (8) Workplace learning takes many forms stretching across a
+                 'formal-informal' continuum; (9) International research
+                 evidence suggests that the key inter-related determinants in
+                 the variability of workplace learning environments are context
+                 and individual behaviour; and (10) External recognition and
+                 accreditation of workplace learning is problematic due to its
+                 largely collective and dynamic nature.",
+  publisher   = "Department for Science, Innovation and Technology",
+  institution = "Government Office for Science",
+  month       =  aug,
+  year        =  2016,
+  url         = "http://hdl.voced.edu.au/10707/461387"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
