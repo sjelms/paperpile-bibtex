@@ -23586,34 +23586,36 @@
   keywords    = "Labor;+Notion;Frontiers [2022]"
 }
 
-@ARTICLE{Felstead2011-az,
-  title     = "Praxis: Working to learn, learning to work",
-  author    = "Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
-               Lorna",
-  abstract  = "This edition of Praxis explores one way of investigating,
-               codifying and actively promoting the embedded or intrinsic
-               potential of work as a means of learning: through the Working as
-               Learning Framework (WALF).Drawing on a four year investigation
-               into the relationship between workplace learning, the
-               organisation of work and performance; this edition of Praxis
-               highlights wide variances in the opportunities available to
-               employees to learn and develop, even within jobs that are
-               ostensibly identical. Why do some exercise instructors have more
-               opportunity to learn and develop than others? How can changes to
-               the management structures of primary care in the NHS impact on
-               the capacity of Health Visitors to collaborate and innovate?The
-               answer, the authors argue, lies in the workplace but also,
-               crucially, in the wider context of the productive systems and
-               processes that shape the workplace as either an expansive or
-               restrictive learning environment.",
-  publisher = "UK Commission for Employment and Skills",
-  pages     = "22",
-  month     =  jan,
-  year      =  2011,
-  url       = "http://eprints.soton.ac.uk/id/eprint/181011",
-  keywords  = "+Notion;+Readwise;++ClickUp;Workplace Learning;VET;UCL;@\_Mark
-               Up;WALF - Improving Working as Learning",
-  language  = "en"
+@TECHREPORT{Felstead2011-az,
+  title       = "Praxis: Working to learn, learning to work",
+  author      = "Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
+                 Lorna",
+  abstract    = "This edition of Praxis explores one way of investigating,
+                 codifying and actively promoting the embedded or intrinsic
+                 potential of work as a means of learning: through the Working
+                 as Learning Framework (WALF).Drawing on a four year
+                 investigation into the relationship between workplace
+                 learning, the organisation of work and performance; this
+                 edition of Praxis highlights wide variances in the
+                 opportunities available to employees to learn and develop,
+                 even within jobs that are ostensibly identical. Why do some
+                 exercise instructors have more opportunity to learn and
+                 develop than others? How can changes to the management
+                 structures of primary care in the NHS impact on the capacity
+                 of Health Visitors to collaborate and innovate?The answer, the
+                 authors argue, lies in the workplace but also, crucially, in
+                 the wider context of the productive systems and processes that
+                 shape the workplace as either an expansive or restrictive
+                 learning environment.",
+  publisher   = "UK Commission for Employment and Skills",
+  pages       = "22",
+  institution = "UKCES",
+  month       =  jan,
+  year        =  2011,
+  url         = "http://eprints.soton.ac.uk/id/eprint/181011",
+  keywords    = "+Notion;+Readwise;++ClickUp;Workplace Learning;VET;UCL;@\_Mark
+                 Up;WALF - Improving Working as Learning",
+  language    = "en"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
