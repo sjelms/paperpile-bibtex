@@ -923,6 +923,31 @@
   doi       = "10.1007/978-1-4614-3185-5\_58"
 }
 
+@INCOLLECTION{Littlejohn2019-lx,
+  title     = "Networked Professional Learning: An Introduction",
+  booktitle = "Networked Professional Learning: Emerging and Equitable
+               Discourses for Professional Development",
+  author    = "Littlejohn, Allison and Jaldemark, Jimmy and Vrieling-Teunter,
+               Emmy and Nijland, Femke",
+  editor    = "Littlejohn, Allison and Jaldemark, Jimmy and Vrieling-Teunter,
+               Emmy and Nijland, Femke",
+  abstract  = "People worldwide are facing global challenges that are
+               transforming the world of work (Jakupec \& Garrick, 2000). There
+               is an urgent need to take action to reduce inequality by making
+               high-quality healthcare available for everyone, to improve
+               global security through enhanced forms of crisis management, to
+               extend employment through improved schooling and to enable
+               economic opportunity and social mobility through increased
+               access to higher education (World Economic Forum, 2016).",
+  publisher = "Springer International Publishing",
+  pages     = "1--11",
+  year      =  2019,
+  url       = "https://doi.org/10.1007/978-3-030-18030-0_1",
+  address   = "Cham",
+  isbn      = "9783030180300",
+  doi       = "10.1007/978-3-030-18030-0\_1"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Spisakova2020-bl,
