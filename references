@@ -2696,6 +2696,13 @@
   isbn      = "9780123848697"
 }
 
+@ARTICLE{Fuller_undated-wk,
+  title   = "Does apprenticeship work for adults",
+  author  = "Fuller, Alison and Leonard, Pauline and Unwin, Lorna and Davey,
+             Gayna",
+  journal = "Nuffield Foundation"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @BOOK{Vindrola-Padros2021-by,
