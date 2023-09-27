@@ -27359,6 +27359,14 @@
   isbn      = "9781119735045"
 }
 
+@ARTICLE{Lupton2018-ct,
+  title     = "The Construction Challenge in Greater Manchester: Employment,
+               Skills and Training",
+  author    = "Lupton, Ruth and Martin, Trudi and Unwin, Lorna",
+  publisher = "University of Manchester",
+  year      =  2018
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Knowles2002-ic,
