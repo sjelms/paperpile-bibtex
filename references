@@ -31101,6 +31101,23 @@
   language     = "en"
 }
 
+@INPROCEEDINGS{Gustavsson2015-bo,
+  title     = "Integrating Formal and Informal Learning -- Experiences from a
+               Competence Development Programme Targeting Manufacturing {SMEs}",
+  booktitle = "The 9th International Conference on Researching Work and
+               Learning ({RWL)}, School of the Arts, Singapore, December 9-11,
+               2015.",
+  author    = "Gustavsson, Maria and Halvarsson Lundqvist, Agneta",
+  abstract  = "Small and medium sized enterprises (SMEs) play a significant
+               role in the economy in an era of globalization and international
+               competition (European Commission, 2007). It is therefore of
+               importance ...",
+  pages     = "1--16",
+  year      =  2015,
+  url       = "https://www.diva-portal.org/smash/record.jsf?pid=diva2:911613",
+  language  = "en"
+}
+
 @TECHREPORT{United_Nations_Department_of_Economic_and_Social_Affairs2015-tc,
   title       = "Population 2030: Demographic challenges and opportunities for
                  sustainable development planning",
