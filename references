@@ -2508,13 +2508,6 @@
   isbn      = "9781452242569"
 }
 
-@MISC{noauthor_undated-wi,
-  title        = "Does apprenticeship work for adults",
-  url          = "https://www.llakes.ac.uk/wp-content/uploads/old/Adult%20Apprenticeship.pdf",
-  howpublished = "\url{https://www.llakes.ac.uk/wp-content/uploads/old/Adult%20Apprenticeship.pdf}",
-  note         = "Accessed: 2023-9-27"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @BOOK{Billett2011-kx,
