@@ -24747,6 +24747,20 @@
 
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
+@ARTICLE{Felstead2017-ut,
+  title     = "Learning outside the formal system--what learning happens in the
+               workplace, and how is it recognised?",
+  author    = "Felstead, A and Unwin, L",
+  abstract  = "Learning outside the formal system -- what learning happens in
+               the workplace, and how is it recognised? -ORCA Cardiff
+               University | Prifysgol Caerdydd ORCA Online Research @ Cardiff …",
+  publisher = "orca.cardiff.ac.uk",
+  year      =  2017,
+  url       = "https://orca.cardiff.ac.uk/id/eprint/98655/"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @BOOK{Weber-Lewerenz2022-ow,
   title     = "Accents of Added Value in Construction 4.0: Ethical Observations
                in Dealing With Digitization and {AI}",
