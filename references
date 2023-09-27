@@ -10270,6 +10270,34 @@
   keywords    = "Workplace Learning;AEC;Knowledge - Skill Acquisition;+Notion"
 }
 
+@ARTICLE{Idris2023-ew,
+  title     = "Training and performance in {SMEs}: Empirical evidence from
+               large-scale data from the {UK}",
+  author    = "Idris, Bochra and Saridakis, George and Johnstone, Stewart",
+  abstract  = "This article examines the link between training and (perceived)
+               actual/intended performance of small and medium-sized
+               enterprises (SMEs) in the UK. We use the UK?s 2015 Small
+               Business Survey containing large-scale data from more than
+               15,000 owner-managers of SMEs. Using the ordered probit analysis
+               to test our hypothesis, we find that there is a positive and
+               significant relationship between training and SMEs? performance.
+               When differentiating between training according to its type, we
+               find that on-the-job and off-the-job training are positively and
+               significantly related to performance; however, when these types
+               of training are received simultaneously, the combined
+               association becomes stronger than their individual effects.",
+  journal   = "Journal of Small Business Management",
+  publisher = "Routledge",
+  volume    =  61,
+  number    =  2,
+  pages     = "769--801",
+  month     =  mar,
+  year      =  2023,
+  url       = "https://doi.org/10.1080/00472778.2020.1816431",
+  issn      = "0047-2778",
+  doi       = "10.1080/00472778.2020.1816431"
+}
+
 @MISC{GE_Appliances_Pressroom2020-at,
   title    = "{GE} Appliances to Hire 150 employees at Appliance Park for
               part-time {GEA2Day} program expansion",
