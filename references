@@ -1,7 +1,3 @@
-@MISC{noauthor_undated-kf,
-  title = "View Liz's full report here.pdf"
-}
-
 @INCOLLECTION{dummy_key,
   title     = "The Core Concept of Statistics",
   booktitle = "Understanding Statistics and Experimental Design: How not to lie
@@ -29571,6 +29567,18 @@
               Literature;Journal Articles",
   language = "en",
   issn     = "0046-2012, 1949-9167"
+}
+
+@TECHREPORT{Waters2017-kf,
+  title       = "Construction as a Career of Choice for Young People",
+  author      = "Waters, Liz and McAlpine, Robert",
+  abstract    = "Why construction is not a preferred career choice by young
+                 people and how the industry can look to change perception
+                 through promoting itself as a viable and attractive career
+                 option",
+  institution = "Chartered Institute of Building",
+  month       =  feb,
+  year        =  2017
 }
 
 @ARTICLE{Reay1995-kp,
