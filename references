@@ -12285,6 +12285,8 @@
   doi       = "10.1061/(ASCE)ME.1943-5479.0000720"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @MISC{Tucker1999-ml,
   title     = "Key workforce challenges facing the American construction
                industry: An interim assessment",
@@ -12304,7 +12306,7 @@
                Texas at Austin",
   year      =  1999,
   url       = "https://repositories.lib.utexas.edu/handle/2152/114257",
-  keywords  = "+Notion;+Readwise;AEC;Labor",
+  keywords  = "+Notion;+Readwise;AEC;Labor;§New Literature",
   doi       = "10.26153/TSW/41160"
 }
 
