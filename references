@@ -2765,28 +2765,6 @@
   keywords  = "Pocket/Reader (RW);Website;Labor;Statistics;@\_Mark Up;AEC"
 }
 
-@MISC{Tucker1999-ml,
-  title     = "Key workforce challenges facing the American construction
-               industry: An interim assessment",
-  author    = "Tucker, Richard L and Haas, Carl T and Glover, Robert W and
-               Alemany, Christine and Carley, Lynn Anne and Rodriguez, Ana
-               Maria and Shields, David",
-  abstract  = "This report has three purposes. First, it serves as a primer on
-               the nature and state of today's construction workforce and how
-               it has developed over time. Second, it identifies key workforce
-               issues of concern to industry leaders. Finally, it ,summarizes
-               the findings of existing research and the research of the
-               Workforce Group. This work is motivated by the identified key
-               issues and the problems that they present, and it provides
-               preliminary answers to some of the most important questions that
-               are posed by these problems.",
-  publisher = "Center for Construction Industry Studies, The University of
-               Texas at Austin",
-  year      =  1999,
-  url       = "https://repositories.lib.utexas.edu/handle/2152/114257",
-  doi       = "10.26153/TSW/41160"
-}
-
 @MISC{Wikipedia_contributors2022-fx,
   title        = "{SECI} model of knowledge dimensions",
   booktitle    = "Wikipedia, The Free Encyclopedia",
@@ -12305,6 +12283,29 @@
   keywords  = "+Notion;+Readwise;AEC;Labor;§New Literature",
   issn      = "0742-597X",
   doi       = "10.1061/(ASCE)ME.1943-5479.0000720"
+}
+
+@MISC{Tucker1999-ml,
+  title     = "Key workforce challenges facing the American construction
+               industry: An interim assessment",
+  author    = "Tucker, Richard L and Haas, Carl T and Glover, Robert W and
+               Alemany, Christine and Carley, Lynn Anne and Rodriguez, Ana
+               Maria and Shields, David",
+  abstract  = "This report has three purposes. First, it serves as a primer on
+               the nature and state of today's construction workforce and how
+               it has developed over time. Second, it identifies key workforce
+               issues of concern to industry leaders. Finally, it ,summarizes
+               the findings of existing research and the research of the
+               Workforce Group. This work is motivated by the identified key
+               issues and the problems that they present, and it provides
+               preliminary answers to some of the most important questions that
+               are posed by these problems.",
+  publisher = "Center for Construction Industry Studies, The University of
+               Texas at Austin",
+  year      =  1999,
+  url       = "https://repositories.lib.utexas.edu/handle/2152/114257",
+  keywords  = "+Notion;+Readwise;AEC;Labor",
+  doi       = "10.26153/TSW/41160"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
