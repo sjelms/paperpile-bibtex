@@ -9119,6 +9119,8 @@
   doi      = "10.1061/(ASCE)CO.1943-7862.0001006"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Kim_Sungjin2020-bf,
   title     = "Dynamic Modeling for Analyzing Impacts of Skilled Labor Shortage
                on Construction Project Management",
@@ -9150,6 +9152,7 @@
   month     =  jan,
   year      =  2020,
   url       = "https://doi.org/10.1061/(ASCE)ME.1943-5479.0000720",
+  keywords  = "+Notion;+Readwise;AEC;Labor;§New Literature",
   issn      = "0742-597X",
   doi       = "10.1061/(ASCE)ME.1943-5479.0000720"
 }
