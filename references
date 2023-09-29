@@ -28755,6 +28755,20 @@
   issn      = "1560-4292, 1560-4306"
 }
 
+@MISC{Gardiner2023-ls,
+  title        = "Ilke Homes goes into administration",
+  booktitle    = "Housing Today",
+  author       = "Gardiner, Joey",
+  abstract     = "'All activities to cease' as loss-making modular housebuilder
+                  fails to find a buyer",
+  month        =  jun,
+  year         =  2023,
+  url          = "https://www.housingtoday.co.uk/news/ilke-homes-goes-into-administration/5123941.article",
+  howpublished = "\url{https://www.housingtoday.co.uk/news/ilke-homes-goes-into-administration/5123941.article}",
+  note         = "Accessed: 2023-9-29",
+  language     = "en"
+}
+
 @ARTICLE{Morse2002-hb,
   title    = "Verification strategies for establishing reliability and validity
               in qualitative research. International Journal of Qualitative
