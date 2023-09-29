@@ -32142,6 +32142,16 @@
   language     = "en"
 }
 
+@ARTICLE{noauthor_2021-yq,
+  title    = "Future of jobs and skills in the {UK} construction sector to 2030
+              - {CITB}",
+  abstract = "Future of jobs and skills in the UK construction sector to 2030",
+  month    =  mar,
+  year     =  2021,
+  url      = "https://www.citb.co.uk/about-citb/construction-industry-research-reports/search-our-construction-industry-research-reports/future-of-jobs-and-skills-in-the-uk-construction-sector-to-2030/",
+  language = "en"
+}
+
 @MISC{noauthor_undated-mg,
   title        = "Migration and {UK} Construction 2021",
   url          = "https://www.citb.co.uk/media/cxxlqsps/citb-migration-and-uk-construction-report-2021.pdf",
