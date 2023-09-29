@@ -26782,6 +26782,19 @@
   isbn      = "9788763002158"
 }
 
+@MISC{Hilburg2021-ix,
+  title        = "Prefab Startup Wunderkind Katerra is Shutting Down",
+  booktitle    = "The Architect's Newspaper",
+  author       = "Hilburg, Jonathan",
+  abstract     = "Six years after its founding, the SoftBank-backed (and owned)
+                  Katerra is shutting down, having run out of money",
+  month        =  jun,
+  year         =  2021,
+  url          = "https://www.archpaper.com/2021/06/prefab-startup-wunderkind-katerra-is-shutting-down/",
+  howpublished = "\url{https://www.archpaper.com/2021/06/prefab-startup-wunderkind-katerra-is-shutting-down/}",
+  note         = "Accessed: 2023-9-29"
+}
+
 @MISC{Unity_Technologies2022-ey,
   title        = "What is a digital twin?",
   booktitle    = "Unity",
@@ -28866,16 +28879,6 @@
   year      =  2014,
   url       = "https://youtu.be/ynoqKCHKbQg",
   keywords  = "\_XR/MR"
-}
-
-@MISC{Hilburg_undated-ix,
-  title        = "[No title]",
-  author       = "Hilburg, Jonathan",
-  abstract     = "Six years after its founding, the SoftBank-backed (and owned)
-                  Katerra is shutting down, having run out of money",
-  url          = "https://www.archpaper.com/2021/06/prefab-startup-wunderkind-katerra-is-shutting-down/",
-  howpublished = "\url{https://www.archpaper.com/2021/06/prefab-startup-wunderkind-katerra-is-shutting-down/}",
-  note         = "Accessed: 2023-9-29"
 }
 
 @MISC{Lizop2020-cx,
