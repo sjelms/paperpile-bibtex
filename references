@@ -2907,6 +2907,8 @@
                scaffolding;YouTube;**CATALOGED;Notion Catalogued"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Eraut2007-ro,
   title     = "Learning from other people in the workplace",
   author    = "Eraut, Michael",
@@ -2918,6 +2920,7 @@
   month     =  sep,
   year      =  2007,
   url       = "http://dx.doi.org/10.1080/03054980701425706",
+  keywords  = "+Notion;+Readwise;§New Literature;Workplace Learning;VET",
   language  = "en",
   issn      = "0305-4985, 1465-3915",
   doi       = "10.1080/03054980701425706"
