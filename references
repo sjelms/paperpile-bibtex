@@ -32069,6 +32069,33 @@
   keywords = "Economics;Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
 }
 
+@BOOK{Engestrom1994-tr,
+  title     = "Training for Change: New Approach to Instruction and Learning in
+               Working Life",
+  author    = "Engestr{\"o}m, Yrj{\"o} and {International Labour Office}",
+  abstract  = "Neither traditional book learning nor the acquisition of fixed
+               routines by practice and imitation are adequate for coping with
+               rapidly changing work activities. Work-related training of
+               adults faces the challenge of raising the quality of learning.
+               This book offers a framework for eliciting and supporting
+               poductive learning through instruction. Training for change
+               presents a cognitive and activity-theoretical view of learning
+               and teaching. The book gives concrete guidelines and practical
+               examples for the formulation of cognitive objectives of
+               instruction, for the organization of learning contents, for the
+               selection of instructional methods, and for the planning of
+               curricula. It is useful for everyone interested in turning
+               workplaces into learning organizations. Yrj{\"o} Engestr{\"o}m
+               is Professor of Communication and Director of the Laboratory of
+               Comparative Human Cognition at the Universty of California, San
+               Diego.",
+  publisher = "International Labour Office",
+  year      =  1994,
+  url       = "https://play.google.com/store/books/details?id=g7Lj-noq-1oC",
+  language  = "en",
+  isbn      = "9789290161042"
+}
+
 @MISC{Office_for_National_Statistics2019-tr,
   title        = "Which occupations are at highest risk of being automated?",
   author       = "{Office for National Statistics}",
