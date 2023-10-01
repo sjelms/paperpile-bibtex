@@ -2909,6 +2909,25 @@
 
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
+@ARTICLE{Eraut2007-ro,
+  title     = "Learning from other people in the workplace",
+  author    = "Eraut, Michael",
+  journal   = "Oxford review of education",
+  publisher = "Informa UK Limited",
+  volume    =  33,
+  number    =  4,
+  pages     = "403--422",
+  month     =  sep,
+  year      =  2007,
+  url       = "http://dx.doi.org/10.1080/03054980701425706",
+  keywords  = "+Notion;+Readwise;§New Literature;Workplace Learning;VET;VET",
+  language  = "en",
+  issn      = "0305-4985, 1465-3915",
+  doi       = "10.1080/03054980701425706"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @BOOK{Self1988-by,
   title     = "Artificial intelligence \& human learning: intelligent
                computer-aided instruction",
@@ -9452,6 +9471,20 @@
   keywords  = "Website;2.0\_Upgrade MAY 2023"
 }
 
+@INCOLLECTION{Langemeyer2014-io,
+  title     = "Theory and Praxis",
+  booktitle = "Encyclopedia of Critical Psychology",
+  author    = "Langemeyer, Ines",
+  editor    = "Teo, Thomas",
+  publisher = "Springer New York",
+  pages     = "1958--1965",
+  year      =  2014,
+  url       = "https://doi.org/10.1007/978-1-4614-5583-7_359",
+  address   = "New York, NY",
+  isbn      = "9781461455837",
+  doi       = "10.1007/978-1-4614-5583-7\_359"
+}
+
 @BOOK{Sangaramoorthy2020-hi,
   title     = "Rapid ethnographic assessments: A practical approach and toolkit
                for collaborative community research",
@@ -12482,25 +12515,6 @@
   issn      = "0302-9743, 1611-3349",
   isbn      = "9783642391118, 9783642391125",
   doi       = "10.1007/978-3-642-39112-5\_18"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@ARTICLE{Eraut2007-ro,
-  title     = "Learning from other people in the workplace",
-  author    = "Eraut, Michael",
-  journal   = "Oxford review of education",
-  publisher = "Informa UK Limited",
-  volume    =  33,
-  number    =  4,
-  pages     = "403--422",
-  month     =  sep,
-  year      =  2007,
-  url       = "http://dx.doi.org/10.1080/03054980701425706",
-  keywords  = "+Notion;+Readwise;§New Literature;Workplace Learning;VET;VET",
-  language  = "en",
-  issn      = "0305-4985, 1465-3915",
-  doi       = "10.1080/03054980701425706"
 }
 
 @ARTICLE{Chieu2010-ib,
