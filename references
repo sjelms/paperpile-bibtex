@@ -7863,6 +7863,30 @@
   isbn      = "9780674744875"
 }
 
+@BOOK{Freire2000-pt,
+  title     = "Pedagogy of the Oppressed: 30th Anniversary Edition",
+  author    = "Freire, Paulo",
+  abstract  = "First published in Portuguese in 1968, Pedagogy of the Oppressed
+               was translated and published in English in 1970. The methodology
+               of the late Paulo Freire has helped to empower countless
+               impoverished and illiterate people throughout the world.
+               Freire's work has taken on especial urgency in the United States
+               and Western Europe, where the creation of a permanent underclass
+               among the underprivileged and minorities in cities and urban
+               centers is increasingly accepted as the norm.With a substantive
+               new introduction on Freire's life and the remarkable impact of
+               this book by writer and Freire confidant and authority Donaldo
+               Macedo, this anniversary edition of Pedagogy of the Oppressed
+               will inspire a new generation of educators, students, and
+               general readers for years to come.",
+  publisher = "Bloomsbury Academic",
+  month     =  sep,
+  year      =  2000,
+  url       = "https://play.google.com/store/books/details?id=Zy_EzgEACAAJ",
+  language  = "en",
+  isbn      = "9780826412768"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @BOOK{Weber-Lewerenz2022-ow,
@@ -9469,24 +9493,6 @@
   year      =  2023,
   url       = "https://www.npr.org/2023/02/14/1155405249/high-paying-jobs-that-dont-need-a-college-degree-thousands-of-them-are-sitting-e",
   keywords  = "Website;2.0\_Upgrade MAY 2023"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@INCOLLECTION{Langemeyer2014-io,
-  title     = "Theory and Praxis",
-  booktitle = "Encyclopedia of Critical Psychology",
-  author    = "Langemeyer, Ines",
-  editor    = "Teo, Thomas",
-  publisher = "Springer New York",
-  pages     = "1958--1965",
-  year      =  2014,
-  url       = "https://doi.org/10.1007/978-1-4614-5583-7_359",
-  address   = "New York, NY",
-  keywords  = "+Notion;+Readwise;Research Methods;§New Literature;Theory and
-               Methods",
-  isbn      = "9781461455837",
-  doi       = "10.1007/978-1-4614-5583-7\_359"
 }
 
 @BOOK{Sangaramoorthy2020-hi,
@@ -29140,6 +29146,24 @@
                Learning;2.0\_Upgrade MAY 2023",
   isbn      = "9780080449104",
   doi       = "10.1016/B978-008044910-4.00198-X"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@INCOLLECTION{Langemeyer2014-io,
+  title     = "Theory and Praxis",
+  booktitle = "Encyclopedia of Critical Psychology",
+  author    = "Langemeyer, Ines",
+  editor    = "Teo, Thomas",
+  publisher = "Springer New York",
+  pages     = "1958--1965",
+  year      =  2014,
+  url       = "https://doi.org/10.1007/978-1-4614-5583-7_359",
+  address   = "New York, NY",
+  keywords  = "+Notion;+Readwise;Research Methods;§New Literature;Theory and
+               Methods",
+  isbn      = "9781461455837",
+  doi       = "10.1007/978-1-4614-5583-7\_359"
 }
 
 @ARTICLE{Foley2015-tj,
