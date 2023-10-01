@@ -10196,6 +10196,8 @@
   doi       = "10.1080/014461999371781"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Blunden1997-hh,
   title     = "Praxis in Vocational Education and Training: Being and Becoming
                a Person",
@@ -10226,6 +10228,8 @@
   month     =  jul,
   year      =  1997,
   url       = "https://doi.org/10.1080/0260137970160403",
+  keywords  = "+Notion;+Readwise;Research Methods;VET;Workplace Learning;§New
+               Literature",
   issn      = "0260-1370",
   doi       = "10.1080/0260137970160403"
 }
