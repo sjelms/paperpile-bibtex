@@ -7863,6 +7863,14 @@
   isbn      = "9780674744875"
 }
 
+@BOOK{Engestrom1999-iv,
+  title  = "When the center does not hold: The importance of knotworking",
+  author = "Engestr{\"o}m, Yrj{\"o} and Engestr{\"o}m, Ritva and
+            V{\"a}h{\"a}aho, Tarja",
+  volume =  381,
+  year   =  1999
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @BOOK{Weber-Lewerenz2022-ow,
