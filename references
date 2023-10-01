@@ -9471,41 +9471,6 @@
   keywords  = "Website;2.0\_Upgrade MAY 2023"
 }
 
-@ARTICLE{Shaffer2004-eq,
-  title     = "Pedagogical Praxis: The Professions as Models for Postindustrial
-               Education",
-  author    = "Shaffer, David Williamson",
-  abstract  = "In this article, I propose a theory of pedagogical praxis.
-               Pedagogical praxis begins with the premise that under the right
-               conditions, computers and other information technologies can
-               make it easier for students to become active participants in
-               meaningful projects and practices in the life of their community
-               and suggests that professional practices such as architecture,
-               mediation, and journalism can provide constructive models for
-               helping students learn from such experiences. In this vision,
-               new technology reinvigorates Dewey's (1915) idea of linking
-               school with society. Technology builds a bridge that allows
-               young people to participate in the learning practices of
-               professionals; in the process, they develop epistemological
-               frameworks that organize the skills, habits, and understandings
-               they need to thrive in a complex, postindustrial society.
-               Although further work needs to be done to explore the processes
-               through which such learning can take place, studies suggest that
-               this perspective may be a productive avenue for continuing
-               research. This article presents an overview of the theories and
-               methods that inform such work.",
-  journal   = "Teachers College record",
-  publisher = "SAGE Publications",
-  volume    =  106,
-  number    =  7,
-  pages     = "1401--1421",
-  month     =  jul,
-  year      =  2004,
-  url       = "https://doi.org/10.1111/j.1467-9620.2004.00383.x",
-  issn      = "0040-0475, 0161-4681",
-  doi       = "10.1111/j.1467-9620.2004.00383.x"
-}
-
 @BOOK{Sangaramoorthy2020-hi,
   title     = "Rapid ethnographic assessments: A practical approach and toolkit
                for collaborative community research",
@@ -29238,6 +29203,42 @@
                Literature",
   issn      = "0260-1370",
   doi       = "10.1080/0260137970160403"
+}
+
+@ARTICLE{Shaffer2004-eq,
+  title     = "Pedagogical Praxis: The Professions as Models for Postindustrial
+               Education",
+  author    = "Shaffer, David Williamson",
+  abstract  = "In this article, I propose a theory of pedagogical praxis.
+               Pedagogical praxis begins with the premise that under the right
+               conditions, computers and other information technologies can
+               make it easier for students to become active participants in
+               meaningful projects and practices in the life of their community
+               and suggests that professional practices such as architecture,
+               mediation, and journalism can provide constructive models for
+               helping students learn from such experiences. In this vision,
+               new technology reinvigorates Dewey's (1915) idea of linking
+               school with society. Technology builds a bridge that allows
+               young people to participate in the learning practices of
+               professionals; in the process, they develop epistemological
+               frameworks that organize the skills, habits, and understandings
+               they need to thrive in a complex, postindustrial society.
+               Although further work needs to be done to explore the processes
+               through which such learning can take place, studies suggest that
+               this perspective may be a productive avenue for continuing
+               research. This article presents an overview of the theories and
+               methods that inform such work.",
+  journal   = "Teachers College record",
+  publisher = "SAGE Publications",
+  volume    =  106,
+  number    =  7,
+  pages     = "1401--1421",
+  month     =  jul,
+  year      =  2004,
+  url       = "https://doi.org/10.1111/j.1467-9620.2004.00383.x",
+  keywords  = "++ClickUp",
+  issn      = "0040-0475, 0161-4681",
+  doi       = "10.1111/j.1467-9620.2004.00383.x"
 }
 
 @ARTICLE{Foley2015-tj,
