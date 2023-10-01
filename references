@@ -10196,6 +10196,40 @@
   doi       = "10.1080/014461999371781"
 }
 
+@ARTICLE{Blunden1997-hh,
+  title     = "Praxis in vocational education and training: being and becoming
+               a person",
+  author    = "Blunden, Ralph",
+  abstract  = "In this paper the concept of praxis is discussed against the
+               background of professional and vocational education and training
+               (henceforth, ?VET'). The notion of praxis is considered to have
+               at least four elements: contexts, theories, actions and persons
+               (who hold theories and perform actions in specific contexts
+               rather than acting in possible, abstracted, universal or
+               armchair worlds). The relationships of these elements, what is
+               taken as praxis, is discussed and in particular the complex
+               nature of personhood is canvassed. It is suggested that
+               insufficient attention is generally accorded to certain aspects
+               of personhood relevant to action in both professional and VET
+               contexts, that there exists a need for educators to develop a
+               more nuanced and finely textured concept of persons (whom they
+               teach and who they are; and who they, and those whom they teach,
+               might become). Current inadequate metaphysical conceptions of
+               persons should press VET educators and trainers toward
+               longer?term goals which demand deeper, and deeply secular,
+               time?based approaches to teaching.",
+  journal   = "International Journal of Lifelong Education",
+  publisher = "Routledge",
+  volume    =  16,
+  number    =  4,
+  pages     = "277--289",
+  month     =  jul,
+  year      =  1997,
+  url       = "https://doi.org/10.1080/0260137970160403",
+  issn      = "0260-1370",
+  doi       = "10.1080/0260137970160403"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Eraut2007-ro,
