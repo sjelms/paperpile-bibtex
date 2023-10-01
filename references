@@ -29205,6 +29205,8 @@
   doi       = "10.1080/0260137970160403"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Shaffer2004-eq,
   title     = "Pedagogical Praxis: The Professions as Models for Postindustrial
                Education",
@@ -29236,7 +29238,7 @@
   month     =  jul,
   year      =  2004,
   url       = "https://doi.org/10.1111/j.1467-9620.2004.00383.x",
-  keywords  = "++ClickUp;EdTech",
+  keywords  = "EdTech;+Notion;+Readwise;Education;§New Literature",
   issn      = "0040-0475, 0161-4681",
   doi       = "10.1111/j.1467-9620.2004.00383.x"
 }
