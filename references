@@ -25715,6 +25715,33 @@
   keywords  = "Website;2.0\_Upgrade MAY 2023"
 }
 
+@MISC{Lidelow2023-sm,
+  title        = "Factory of the Future [Keynote address]",
+  author       = "Lidel{\"o}w, Helena",
+  abstract     = "The keynote speech by Dr. Helene Lidel{\"o}w, CTO of
+                  Volumetric Building Companies, at the Industrialized
+                  Construction Forum 2023, focuses on the importance of
+                  collaboration, production strategy, platform development,
+                  market alignment, and digitalization in the construction
+                  industry. Dr. Lidel{\"o}w emphasizes the need for collective
+                  action and collaboration to drive progress and achieve common
+                  goals. She shares insights on standardized products, platform
+                  development, and successful modular factories that utilize
+                  automation and standardization to increase productivity.
+                  Additionally, she highlights the significance of market
+                  alignment and digital tools in improving precision and
+                  efficiency in production processes. This keynote speech
+                  offers valuable insights for driving innovation and success
+                  in the industrialized construction industry.",
+  month        =  feb,
+  year         =  2023,
+  url          = "https://cife.stanford.edu/events/industrialized-construction-forum-2023",
+  howpublished = "Industrialized Construction Forum 2023",
+  keywords     = "AEC;Construction 4.0;2.0\_Upgrade MAY 2023",
+  location     = "Center for Integrated Facility Engineering, Stanford
+                  University, Stanford, CA"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @MISC{YouTube_Originals2020-kd,
@@ -31122,33 +31149,6 @@
   howpublished = "\url{http://193.61.4.246/dnl/wp-content/uploads/2019/11/Thomas-Porayska-Pomsta.pdf}",
   note         = "Accessed: 2022-7-4",
   keywords     = "Course Assignment;AIEd [CCME0123]"
-}
-
-@MISC{Lidelow2023-sm,
-  title        = "Factory of the Future",
-  author       = "Lidel{\"o}w, Helena",
-  abstract     = "The keynote speech by Dr. Helene Lidel{\"o}w, CTO of
-                  Volumetric Building Companies, at the Industrialized
-                  Construction Forum 2023, focuses on the importance of
-                  collaboration, production strategy, platform development,
-                  market alignment, and digitalization in the construction
-                  industry. Dr. Lidel{\"o}w emphasizes the need for collective
-                  action and collaboration to drive progress and achieve common
-                  goals. She shares insights on standardized products, platform
-                  development, and successful modular factories that utilize
-                  automation and standardization to increase productivity.
-                  Additionally, she highlights the significance of market
-                  alignment and digital tools in improving precision and
-                  efficiency in production processes. This keynote speech
-                  offers valuable insights for driving innovation and success
-                  in the industrialized construction industry.",
-  month        =  feb,
-  year         =  2023,
-  url          = "https://cife.stanford.edu/events/industrialized-construction-forum-2023",
-  howpublished = "Industrialized Construction Forum 2023",
-  keywords     = "AEC;Construction 4.0;2.0\_Upgrade MAY 2023",
-  location     = "Center for Integrated Facility Engineering, Stanford
-                  University, Stanford, CA"
 }
 
 @BOOK{Zuboff1988-mo,
