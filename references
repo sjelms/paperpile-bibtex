@@ -22601,9 +22601,10 @@
 }
 
 @INCOLLECTION{Rupnik2017-gx,
-  title     = "Mapping the modular industry",
+  title     = "Mapping the Modular Industry",
   booktitle = "Offsite Architecture",
   author    = "Rupnik, Ivan",
+  editor    = "Smith, Ryan E and Quale, John D",
   publisher = "Routledge",
   pages     = "55--76",
   month     =  mar,
