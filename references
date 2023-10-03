@@ -22665,9 +22665,10 @@
 }
 
 @INCOLLECTION{Smith2017-ff,
-  title     = "Offsite construction in education",
+  title     = "Offsite Construction in Education",
   booktitle = "Offsite Architecture",
   author    = "Smith, Ryan E and Elliott, Jonathan W and Grosskopf, Kevin",
+  editor    = "Smith, Ryan E and Quale, John D",
   publisher = "Routledge",
   pages     = "128--138",
   month     =  mar,
