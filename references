@@ -22617,9 +22617,10 @@
 }
 
 @INCOLLECTION{Aitchison2017-ps,
-  title     = "Prefabricated housing in architectural culture",
+  title     = "Prefabricated Housing in Architectural Culture",
   booktitle = "Offsite Architecture",
   author    = "Aitchison, Mathew and Macarthur, John",
+  editor    = "Smith, Ryan E and Quale, John D",
   publisher = "Routledge",
   pages     = "77--89",
   month     =  mar,
