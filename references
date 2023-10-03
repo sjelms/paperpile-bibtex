@@ -4169,6 +4169,19 @@
   keywords    = "Economics;Robots;Website;Automation;Pocket/Reader (RW)"
 }
 
+@ARTICLE{Frey2023-rj,
+  title     = "Generative Ai and the Future of Work: A Reappraisal",
+  author    = "Frey, Carl Benedikt and Osborne, Michael",
+  journal   = "Brown Journal of World Affairs",
+  publisher = "Brown University",
+  year      =  2023,
+  url       = "https://ora.ox.ac.uk/objects/uuid:f52030f5-23eb-4481-a7f1-8006685edbae",
+  keywords  = "+Notion;+Readwise;Artificial Intelligence
+               (AI);Automation;Employment;Labor;Skill demand;Economics",
+  language  = "en",
+  issn      = "1080-0786, 2472-3347"
+}
+
 @MISC{Lidelow2023-sm,
   title        = "Factory of the Future [Keynote address]",
   author       = "Lidel{\"o}w, Helena",
@@ -18753,19 +18766,6 @@
   language  = "en",
   issn      = "0360-1315, 1873-782X",
   doi       = "10.1016/j.compedu.2013.07.033"
-}
-
-@ARTICLE{Frey2023-rj,
-  title     = "Generative Ai and the Future of Work: A Reappraisal",
-  author    = "Frey, Carl Benedikt and Osborne, Michael",
-  journal   = "Brown Journal of World Affairs",
-  publisher = "Brown University",
-  year      =  2023,
-  url       = "https://ora.ox.ac.uk/objects/uuid:f52030f5-23eb-4481-a7f1-8006685edbae",
-  keywords  = "+Notion;+Readwise;Artificial Intelligence
-               (AI);Automation;Employment;Labor;Skill demand",
-  language  = "en",
-  issn      = "1080-0786, 2472-3347"
 }
 
 @ARTICLE{Johns2011-yt,
