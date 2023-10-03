@@ -22569,9 +22569,10 @@
 }
 
 @INCOLLECTION{Vibaek2017-sw,
-  title     = "System structures",
+  title     = "System Structures",
   booktitle = "Offsite Architecture",
   author    = "Vib{\ae}k, Kasper S{\'a}nchez",
+  editor    = "Smith, Ryan E and Quale, John D",
   publisher = "Routledge",
   pages     = "21--36",
   month     =  mar,
