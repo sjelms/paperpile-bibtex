@@ -22649,9 +22649,10 @@
 }
 
 @INCOLLECTION{Smith2017-op,
-  title     = "Permanent modular construction",
+  title     = "Permanent Modular Construction",
   booktitle = "Offsite Architecture",
   author    = "Smith, Ryan E and Rice, Talbot",
+  editor    = "Smith, Ryan E and Quale, John D",
   publisher = "Routledge",
   pages     = "109--127",
   month     =  mar,
