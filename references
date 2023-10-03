@@ -9527,9 +9527,10 @@
 }
 
 @INCOLLECTION{Hairstans2017-pe,
-  title     = "A Scottish perspective on timber offsite construction",
+  title     = "A Scottish Perspective on Timber Offsite Construction",
   booktitle = "Offsite Architecture",
   author    = "Hairstans, Robert and Sanna, Fausto",
+  editor    = "Smith, Ryan E and Quale, John D",
   publisher = "Routledge",
   pages     = "224--251",
   month     =  mar,
