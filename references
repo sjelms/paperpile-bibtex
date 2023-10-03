@@ -3046,6 +3046,20 @@
   conference      = "Cognitive Science Society"
 }
 
+@INCOLLECTION{Richard2017-jw,
+  title     = "Industrialized building system categorization",
+  booktitle = "Offsite Architecture",
+  author    = "Richard, Roger-Bruno",
+  publisher = "Routledge",
+  pages     = "3--20",
+  month     =  mar,
+  year      =  2017,
+  url       = "https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-1",
+  address   = "New York : Routledge, 2016.",
+  isbn      = "9781315743332",
+  doi       = "10.4324/9781315743332-1"
+}
+
 @MISC{Lidelow2023-sm,
   title        = "Factory of the Future [Keynote address]",
   author       = "Lidel{\"o}w, Helena",
