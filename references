@@ -22467,9 +22467,10 @@
 }
 
 @INCOLLECTION{Richard2017-jw,
-  title     = "Industrialized building system categorization",
+  title     = "Industrialized Building System Categorization",
   booktitle = "Offsite Architecture",
   author    = "Richard, Roger-Bruno",
+  editor    = "Smith, Ryan E and Quale, John D",
   publisher = "Routledge",
   pages     = "3--20",
   month     =  mar,
