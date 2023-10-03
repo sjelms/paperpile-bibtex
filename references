@@ -26424,7 +26424,9 @@
   month       =  nov,
   year        =  2020,
   url         = "https://mitpress.mit.edu/9780262547307/the-work-of-the-future/",
-  keywords    = "Cited for Frontiers;Book (physical);Zotero Import (Feb 22);My
+  keywords    = "Cited for Frontiers;Book
+                 (physical);Automation;Economics;Employment;Skill
+                 demand;Technological change;Zotero Import (Feb 22);My
                  Library;2021-12-03 Frontiers;Frontiers [2022]"
 }
 
@@ -26436,7 +26438,8 @@
   year      =  2022,
   url       = "https://books.google.co.uk/books?id=hLZNEAAAQBAJ",
   keywords  = "Book (physical);ePub | Kindle;@\_Mark Up;Cited for
-               Frontiers;Frontiers [2022];EPubs Books",
+               Frontiers;Automation;Economics;Employment;Skill
+               demand;Technological change;Frontiers [2022];EPubs Books",
   isbn      = "9780262046367",
   lccn      = "2021010583"
 }
