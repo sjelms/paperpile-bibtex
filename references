@@ -22582,6 +22582,20 @@
   doi       = "10.4324/9781315743332-6"
 }
 
+@INCOLLECTION{Smith2017-op,
+  title     = "Permanent modular construction",
+  booktitle = "Offsite Architecture",
+  author    = "Smith, Ryan E and Rice, Talbot",
+  publisher = "Routledge",
+  pages     = "109--127",
+  month     =  mar,
+  year      =  2017,
+  url       = "https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-7",
+  address   = "New York : Routledge, 2016.",
+  isbn      = "9781315743332",
+  doi       = "10.4324/9781315743332-7"
+}
+
 @BOOK{Fuller2014-ea,
   title       = "Contemporary Apprenticeship: International Perspectives on an
                  Evolving Model of Learning",
