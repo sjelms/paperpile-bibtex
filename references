@@ -22585,9 +22585,10 @@
 }
 
 @INCOLLECTION{Bundgaard2017-am,
-  title     = "Constructing dialogues",
+  title     = "Constructing Dialogues",
   booktitle = "Offsite Architecture",
   author    = "Bundgaard, Charlotte",
+  editor    = "Smith, Ryan E and Quale, John D",
   publisher = "Routledge",
   pages     = "37--54",
   month     =  mar,
