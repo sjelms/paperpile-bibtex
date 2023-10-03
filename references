@@ -22508,6 +22508,20 @@
   doi       = "10.4324/9781315743332-11"
 }
 
+@INCOLLECTION{Buntrock2017-pm,
+  title     = "Prefabricated housing in Japan",
+  booktitle = "Offsite Architecture",
+  author    = "Buntrock, Dana",
+  publisher = "Routledge",
+  pages     = "190--213",
+  month     =  mar,
+  year      =  2017,
+  url       = "https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-12",
+  address   = "New York : Routledge, 2016.",
+  isbn      = "9781315743332",
+  doi       = "10.4324/9781315743332-12"
+}
+
 @INCOLLECTION{Lidelow2017-zf,
   title     = "Offsite Construction in Sweden",
   booktitle = "Offsite Architecture: Constructing the Future",
