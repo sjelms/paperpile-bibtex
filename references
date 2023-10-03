@@ -3060,6 +3060,20 @@
   doi       = "10.4324/9781315743332-2"
 }
 
+@INCOLLECTION{Bundgaard2017-am,
+  title     = "Constructing dialogues",
+  booktitle = "Offsite Architecture",
+  author    = "Bundgaard, Charlotte",
+  publisher = "Routledge",
+  pages     = "37--54",
+  month     =  mar,
+  year      =  2017,
+  url       = "https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-3",
+  address   = "New York : Routledge, 2016.",
+  isbn      = "9781315743332",
+  doi       = "10.4324/9781315743332-3"
+}
+
 @INCOLLECTION{Richard2017-jw,
   title     = "Industrialized building system categorization",
   booktitle = "Offsite Architecture",
