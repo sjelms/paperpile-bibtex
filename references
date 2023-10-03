@@ -22610,6 +22610,20 @@
   doi       = "10.4324/9781315743332-8"
 }
 
+@INCOLLECTION{Quale2017-wv,
+  title     = "Onsite vs. offsite",
+  booktitle = "Offsite Architecture",
+  author    = "Quale, John D",
+  publisher = "Routledge",
+  pages     = "139--155",
+  month     =  mar,
+  year      =  2017,
+  url       = "https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-9",
+  address   = "New York : Routledge, 2016.",
+  isbn      = "9781315743332",
+  doi       = "10.4324/9781315743332-9"
+}
+
 @BOOK{Fuller2014-ea,
   title       = "Contemporary Apprenticeship: International Perspectives on an
                  Evolving Model of Learning",
