@@ -22684,6 +22684,7 @@
   title     = "Onsite vs. offsite",
   booktitle = "Offsite Architecture",
   author    = "Quale, John D",
+  editor    = "Smith, Ryan E and Quale, John D",
   publisher = "Routledge",
   pages     = "139--155",
   month     =  mar,
