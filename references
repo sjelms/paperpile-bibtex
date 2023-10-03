@@ -9526,6 +9526,20 @@
   keywords  = "Website;2.0\_Upgrade MAY 2023"
 }
 
+@INCOLLECTION{Hairstans2017-pe,
+  title     = "A Scottish perspective on timber offsite construction",
+  booktitle = "Offsite Architecture",
+  author    = "Hairstans, Robert and Sanna, Fausto",
+  publisher = "Routledge",
+  pages     = "224--251",
+  month     =  mar,
+  year      =  2017,
+  url       = "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315743332-14/scottish-perspective-timber-offsite-construction-robert-hairstans-fausto-sanna?context=ubx&refId=33e8b518-f588-4a22-ac4e-b206820da2b5",
+  address   = "New York : Routledge, 2016.",
+  isbn      = "9781315743332",
+  doi       = "10.4324/9781315743332-14"
+}
+
 @BOOK{Sangaramoorthy2020-hi,
   title     = "Rapid ethnographic assessments: A practical approach and toolkit
                for collaborative community research",
