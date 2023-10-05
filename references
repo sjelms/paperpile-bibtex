@@ -29916,6 +29916,14 @@
   language     = "en"
 }
 
+@MISC{Morley_undated-hs,
+  title        = "[No title]",
+  author       = "Morley, Jack Balderrama",
+  url          = "https://architizer.com/blog/inspiration/industry/swedish-modular-housing/",
+  howpublished = "\url{https://architizer.com/blog/inspiration/industry/swedish-modular-housing/}",
+  note         = "Accessed: 2023-10-5"
+}
+
 @MISC{HUD_User2022-lt,
   title        = "Operation breakthrough: Striving through struggles for
                   success by teaming",
