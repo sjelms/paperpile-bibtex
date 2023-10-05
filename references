@@ -24880,7 +24880,8 @@
   month     =  jun,
   year      =  2019,
   url       = "https://play.google.com/store/books/details?id=1T33DwAAQBAJ",
-  keywords  = "Offsite Production and Manufacturing for Innovative Construction",
+  keywords  = "AEC;Offsite Production and Manufacturing for Innovative
+               Construction",
   language  = "en",
   isbn      = "9781351376891"
 }
@@ -25726,7 +25727,7 @@
   url          = "https://medium.com/sidewalk-talk/when-affordable-housing-starts-in-a-factory-20bad64d4fe0",
   howpublished = "\url{https://medium.com/sidewalk-talk/when-affordable-housing-starts-in-a-factory-20bad64d4fe0}",
   note         = "Accessed: 2023-2-5",
-  keywords     = "Website",
+  keywords     = "Website;AEC",
   language     = "en"
 }
 
