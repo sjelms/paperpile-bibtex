@@ -25361,6 +25361,24 @@
               Engine;Journal Articles"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@MISC{Features2018-ou,
+  title        = "When affordable housing starts in a factory",
+  booktitle    = "Sidewalk Talk",
+  author       = "Features, Sidewalk Talk",
+  abstract     = "The vacant field beside a Lutheran church in the Seattle
+                  suburb of Edmonds, Washington, will soon take on a critical
+                  new form. It will be home to one studio apartment, then a
+                  group of up to two…",
+  month        =  may,
+  year         =  2018,
+  url          = "https://medium.com/sidewalk-talk/when-affordable-housing-starts-in-a-factory-20bad64d4fe0",
+  howpublished = "\url{https://medium.com/sidewalk-talk/when-affordable-housing-starts-in-a-factory-20bad64d4fe0}",
+  note         = "Accessed: 2023-10-5",
+  language     = "en"
+}
+
 @TECHREPORT{Zahidi2020-lt,
   title       = "The Future of Jobs Report 2020",
   author      = "Zahidi, S and Ratcheva, V and Hingel, G and Brown, S",
