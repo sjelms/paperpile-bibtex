@@ -25364,7 +25364,7 @@
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @MISC{Features2018-ou,
-  title        = "When affordable housing starts in a factory",
+  title        = "When Affordable Housing Starts in a Factory",
   booktitle    = "Sidewalk Talk",
   author       = "Features, Sidewalk Talk",
   abstract     = "The vacant field beside a Lutheran church in the Seattle
@@ -25375,7 +25375,7 @@
   year         =  2018,
   url          = "https://medium.com/sidewalk-talk/when-affordable-housing-starts-in-a-factory-20bad64d4fe0",
   howpublished = "\url{https://medium.com/sidewalk-talk/when-affordable-housing-starts-in-a-factory-20bad64d4fe0}",
-  note         = "Accessed: 2023-10-5",
+  note         = "Accessed: 2023-2-5",
   language     = "en"
 }
 
