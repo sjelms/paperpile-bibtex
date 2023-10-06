@@ -1548,19 +1548,6 @@
 
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
-@BOOK{Dewey2019-uh,
-  title     = "Democracy and Education",
-  author    = "Dewey, John",
-  publisher = "Independently Published",
-  month     =  dec,
-  year      =  2019,
-  keywords  = "ePub | Kindle;+Notion;+Readwise;§New Literature;Education;EPubs
-               Books",
-  isbn      = "9781678881702"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
 @BOOK{Brown2014-ri,
   title     = "Make it stick: The science of successful learning",
   author    = "Brown, Peter C and Roediger, III, Henry L and McDaniel, Mark A",
@@ -3046,6 +3033,19 @@
                and Training",
   language  = "en",
   isbn      = "9780199655366"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@BOOK{Dewey1916-uh,
+  title     = "Democracy and Education: An Introduction to the Philosophy of
+               Education",
+  author    = "Dewey, John",
+  publisher = "Macmillan",
+  year      =  1916,
+  keywords  = "ePub | Kindle;+Notion;+Readwise;§New Literature;Education;EPubs
+               Books",
+  isbn      = "9781678881702"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
