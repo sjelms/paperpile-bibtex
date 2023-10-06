@@ -3019,7 +3019,7 @@
 
 @BOOK{Warhurst2017-dg,
   title     = "The Oxford Handbook of Skills and Training",
-  author    = "Warhurst, Chris and Mayhew, Ken and Finegold, David and
+  editor    = "Warhurst, Chris and Mayhew, Ken and Finegold, David and
                Buchanan, John",
   abstract  = "Skills and workforce development are at the heart of much
                research on work, employment, and management. But are they so
