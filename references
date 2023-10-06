@@ -29184,6 +29184,8 @@
   language     = "en"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Lerman2017-dx,
   title     = "Skill Development in Middle Level Occupations: The Role of
                Apprenticeship Training",
@@ -29193,8 +29195,8 @@
                Buchanan, John",
   publisher = "Oxford University Press",
   year      =  2017,
-  keywords  = "Cross Ref Chapter;ePub | Kindle;Oxford Handbook of Skills and
-               Training",
+  keywords  = "Cross Ref Chapter;ePub | Kindle;+Notion;+Readwise;VET;Workplace
+               Learning;§New Literature;Oxford Handbook of Skills and Training",
   isbn      = "9780199655366"
 }
 
