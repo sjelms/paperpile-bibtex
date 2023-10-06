@@ -29736,6 +29736,12 @@
   isbn      = "9780674744875"
 }
 
+@ARTICLE{Lerman_undated-dx,
+  title   = "Skill Development in {Middle-Level} Occupations",
+  author  = "Lerman, Robert I",
+  journal = "The Oxford handbook of skills and training"
+}
+
 @TECHREPORT{Ukces2012-mz,
   title       = "Manufacturing: Sector Skills Assessment 2012",
   author      = "{UKCES}",
