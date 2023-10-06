@@ -29184,6 +29184,13 @@
   language     = "en"
 }
 
+@INCOLLECTION{Lerman_undated-dx,
+  title     = "Skill Development in Middle Level Occupations: The Role of
+               Apprenticeship Training",
+  booktitle = "The Oxford Handbook of Skills and Training",
+  author    = "Lerman, Robert I"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Mohammadpour2019-eu,
@@ -29734,12 +29741,6 @@
   keywords  = "ePub | Kindle;Sensory Processing;**CATALOGED;Brain and Space
                [Coursera];EPubs Books;Notion Catalogued",
   isbn      = "9780674744875"
-}
-
-@ARTICLE{Lerman_undated-dx,
-  title   = "Skill Development in {Middle-Level} Occupations",
-  author  = "Lerman, Robert I",
-  journal = "The Oxford handbook of skills and training"
 }
 
 @TECHREPORT{Ukces2012-mz,
