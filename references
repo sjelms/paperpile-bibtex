@@ -29192,7 +29192,8 @@
   editor    = "Warhurst, Chris and Mayhew, Ken and Finegold, David and
                Buchanan, John",
   publisher = "Oxford University Press",
-  year      =  2017
+  year      =  2017,
+  isbn      = "9780199655366"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
