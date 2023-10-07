@@ -10878,8 +10878,6 @@
   doi         = "10.1002/9781119098713.ch21"
 }
 
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
 @BOOK{Felstead2009-kt,
   title     = "Improving Working as Learning",
   author    = "Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
@@ -10920,9 +10918,9 @@
   month     =  apr,
   year      =  2009,
   url       = "https://www.routledge.com/Improving-Working-as-Learning/Felstead-Fuller-Jewson-Unwin/p/book/9780415496469",
-  keywords  = "+Notion;+Readwise;UCL;VET;Workplace Learning;§New
-               Literature;ePub | Kindle;VET;EPubs Books;WALF - Improving
-               Working as Learning",
+  keywords  = "+Notion;+Readwise;UCL;VET;Workplace Learning;ePub |
+               Kindle;@\_Mark Up;VET;EPubs Books;WALF - Improving Working as
+               Learning",
   language  = "en",
   isbn      = "9780415496452"
 }
