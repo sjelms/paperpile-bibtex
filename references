@@ -10199,6 +10199,20 @@
   doi       = "10.4324/9781315743332-2"
 }
 
+@INBOOK{Kuhn2016-bj,
+  title     = "Expertise as a Practical Accomplishment among Objects and Values",
+  author    = "Kuhn, Timothy and Jens, Rennstam",
+  abstract  = "Abstract. This chapter argues that expertise can be best
+               understood as a claim to knowledgeability and offers a framework
+               for assessing the means by which indiv",
+  publisher = "Oxford University Press",
+  month     =  jun,
+  year      =  2016,
+  url       = "https://academic.oup.com/book/2397/chapter/142599307",
+  language  = "en",
+  doi       = "10.1093/acprof:oso/9780198739227.003.0002"
+}
+
 @BOOK{Sangaramoorthy2020-hi,
   title     = "Rapid ethnographic assessments: A practical approach and toolkit
                for collaborative community research",
