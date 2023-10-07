@@ -19292,7 +19292,8 @@
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @TECHREPORT{Berger2016-vc,
-  title     = "Structural transformation in the {OECD}",
+  title     = "Structural Transformation in the {OECD}: Digitalisation,
+               Deindustrialisation and the Future of Work",
   author    = "Berger, Thor and Frey, Carl Benedikt",
   abstract  = "In tandem with the diffusion of computer technologies, labour
                markets across the OECD have undergone rapid structural
