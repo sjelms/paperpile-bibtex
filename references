@@ -25579,33 +25579,6 @@
   keywords = "AEC;§New Literature;Construction 4.0"
 }
 
-@TECHREPORT{Null2019-qp,
-  title     = "Key Competences for Lifelong Learning",
-  author    = "{NULL}",
-  abstract  = "The Council of the European Union adopted a Recommendation on
-               key competences for lifelong learning in May 2018. The
-               Recommendation identifies eight key competences essential to
-               citizens for personal fulfilment, a healthy and sustainable
-               lifestyle, employability, active citizenship and social
-               inclusion. The Recommendation is a reference tool for education
-               and training stakeholders. It sets up a common understanding of
-               competences needed nowadays and in the future. The reference
-               framework presents successful ways to promote competence
-               development through innovative learning approaches, assessment
-               methods or support to educational staff. All learners should
-               achieve their full potential. To fulfil their different needs,
-               the Recommendation encourages Member States to: provide quality
-               early childhood education and care, improve school education and
-               ensure excellent teaching, further develop initial and
-               continuing vocational education and training, and modernise
-               higher education.",
-  publisher = "Publications Office of the European Union",
-  year      =  2019,
-  url       = "https://play.google.com/store/books/details?id=KaZAygEACAAJ",
-  language  = "en",
-  isbn      = "9789276004769"
-}
-
 @INCOLLECTION{OLeary2017-jq,
   title     = "Understanding methodologies: Evaluative, action-oriented and
                emancipatory strategies",
