@@ -3107,6 +3107,35 @@
 
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
+@INCOLLECTION{Warhurst2017-dx,
+  title     = "A New Social Construction of Skill",
+  booktitle = "The Oxford Handbook of Skills and Training",
+  author    = "Warhurst, Chris and Tilly, Chris and Gatta, Mary",
+  editor    = "Warhurst, Chris and Mayhew, Ken and Finegold, David and
+               Buchanan, John",
+  abstract  = "This chapter is part of a volume that draws on a wide range of
+               disciplines to examine the major issues concerning skills and
+               training in contemporary times. Social construction of skills,
+               whether old or new, raises basic questions about how skill is
+               analysed and changes the nature of work and the balance of
+               workplace power. The authors examine how the social construction
+               of skills has changed in recent years with shifts in the balance
+               of power between capital and labour and how the new social
+               construction of skills affects different types of workers by
+               sex, class, and race, variously helping and hindering the
+               employment prospects of these workers. It is argued that the
+               social construction of skill constitutes the principal and
+               growing portion of employment discrimination today.",
+  publisher = "Oxford University Press",
+  pages     = "72--91",
+  year      =  2017,
+  keywords  = "Cross Ref Chapter;ePub | Kindle;+Notion;+Readwise;VET;Workplace
+               Learning;§New Literature;Oxford Handbook of Skills and Training",
+  isbn      = "9780199655366"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @BOOK{Self1988-by,
   title     = "Artificial intelligence \& human learning: intelligent
                computer-aided instruction",
@@ -3560,23 +3589,6 @@
   keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers",
   issn      = "0302-9743",
   doi       = "10.1007/978-3-030-64243-3\_22"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@INCOLLECTION{Lerman2017-dx,
-  title     = "Skill Development in Middle Level Occupations: The Role of
-               Apprenticeship Training",
-  booktitle = "The Oxford Handbook of Skills and Training",
-  author    = "Lerman, Robert I",
-  editor    = "Warhurst, Chris and Mayhew, Ken and Finegold, David and
-               Buchanan, John",
-  publisher = "Oxford University Press",
-  pages     = "180--200",
-  year      =  2017,
-  keywords  = "Cross Ref Chapter;ePub | Kindle;+Notion;+Readwise;VET;Workplace
-               Learning;§New Literature;Oxford Handbook of Skills and Training",
-  isbn      = "9780199655366"
 }
 
 @INCOLLECTION{Claypool2021-wg,
