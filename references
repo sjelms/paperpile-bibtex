@@ -1,8 +1,3 @@
-@MISC{noauthor_undated-kt,
-  title = "2014\_National Assessment of Career and Technical
-           Education\_final-report.pdf"
-}
-
 @INCOLLECTION{dummy_key,
   title     = "The Core Concept of Statistics",
   booktitle = "Understanding Statistics and Experimental Design: How not to lie
@@ -27887,6 +27882,17 @@
   keywords  = "Design + Design Thinking;Mar-Apr 2023 Vol. 126 (2)",
   language  = "en",
   issn      = "1099-274X"
+}
+
+@TECHREPORT{US_Department_of_Education_Office_of_Planning_Evaluation_and_Policy_Development_Policy_and_Program_Studies_Service2014-kt,
+  title       = "National Assessment of Career and Technical Education: Final
+                 Report to Congress",
+  author      = "{U.S. Department of Education, Office of Planning, Evaluation
+                 and Policy Development, Policy and Program Studies Service}",
+  institution = "U.S. Department of Education",
+  month       =  sep,
+  year        =  2014,
+  url         = "http://www2.ed.gov/about/offices/list/opepd/ppss/reports.html#cte"
 }
 
 @TECHREPORT{Qin2020-ng,
