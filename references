@@ -23606,9 +23606,10 @@
   doi       = "10.9781/ijimai.2017.445"
 }
 
-@TECHREPORT{European_Commission2019-gq,
-  title       = "Key competences for lifelong learning",
-  author      = "{European Commission}",
+@TECHREPORT{European_Commission_Directorate-General_for_Education_Youth_Sport_and_Culture2019-gq,
+  title       = "Key Competences for Lifelong Learning",
+  author      = "{European Commission, Directorate-General for Education,
+                 Youth, Sport and Culture}",
   abstract    = "The Council of the European Union adopted a recommendation on
                  key competences for lifelong learning in May 2018. The
                  recommendation identifies eight key competences essential to
