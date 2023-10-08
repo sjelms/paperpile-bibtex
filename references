@@ -3161,6 +3161,16 @@
   isbn      = "9789276004769"
 }
 
+@BOOK{Commission2019-gq,
+  title     = "Key competences for lifelong learning",
+  author    = "Commission, European and Directorate-General for Education,
+               Youth, Sport and {Culture}",
+  publisher = "Publications Office",
+  year      =  2019,
+  url       = "http://dx.doi.org/doi/10.2766/569540",
+  doi       = "doi/10.2766/569540"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @BOOK{Self1988-by,
