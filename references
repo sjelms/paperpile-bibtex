@@ -27892,7 +27892,8 @@
   institution = "U.S. Department of Education",
   month       =  sep,
   year        =  2014,
-  url         = "http://www2.ed.gov/about/offices/list/opepd/ppss/reports.html#cte"
+  url         = "http://www2.ed.gov/about/offices/list/opepd/ppss/reports.html#cte",
+  keywords    = "Labor"
 }
 
 @TECHREPORT{Qin2020-ng,
@@ -31760,7 +31761,7 @@
   year      =  2013,
   url       = "http://files.eric.ed.gov/fulltext/ED544453.pdf",
   keywords  = "Vocational Education; Public Schools; High School Graduates;
-               Credits; Academic Education; Educational Trends",
+               Credits; Academic Education; Educational Trends;Labor",
   language  = "en"
 }
 
