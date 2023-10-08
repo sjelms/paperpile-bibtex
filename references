@@ -2181,8 +2181,8 @@
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INCOLLECTION{Young2004-fs,
-  title     = "Conceptualizing vocational knowledge: Some theoretical
-               considerations",
+  title     = "Conceptualizing Vocational Knowledge: Some Theoretical
+               Considerations",
   booktitle = "Workplace learning in context",
   author    = "Young, Michael",
   publisher = "Routledge",
