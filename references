@@ -3317,15 +3317,14 @@
                change;YouTube;AEC"
 }
 
-@INCOLLECTION{Huxley2011-mi,
-  title     = "{TECHNICAL} {EDUCATION} [1877]",
+@INCOLLECTION{Huxley1887-mi,
+  title     = "Technical Education",
   booktitle = "Collected Essays",
   author    = "Huxley, Thomas Henry",
   abstract  = "Collected Essays - December 2011",
   publisher = "Cambridge University Press",
   pages     = "404--426",
-  month     =  dec,
-  year      =  2011,
+  year      =  1887,
   url       = "https://www.cambridge.org/core/books/abs/collected-essays/technical-education-1877/96D2BF47F66943DDABBB58B2B16BD06B",
   doi       = "10.1017/CBO9781139149228.018"
 }
