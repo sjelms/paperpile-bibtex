@@ -4614,6 +4614,23 @@
   doi       = "10.1080/1743727X.2012.675555"
 }
 
+@ARTICLE{Verschuren2003-xb,
+  title     = "Case study as a research strategy: Some ambiguities and
+               opportunities",
+  author    = "Verschuren, Piet",
+  journal   = "International journal of social research methodology",
+  publisher = "Informa UK Limited",
+  volume    =  6,
+  number    =  2,
+  pages     = "121--139",
+  month     =  jan,
+  year      =  2003,
+  url       = "http://dx.doi.org/10.1080/13645570110106154",
+  language  = "en",
+  issn      = "1364-5579, 1464-5300",
+  doi       = "10.1080/13645570110106154"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Glick2012-yo,
