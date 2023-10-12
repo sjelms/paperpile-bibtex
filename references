@@ -3329,39 +3329,6 @@
   doi       = "10.1017/CBO9781139149228.018"
 }
 
-@ARTICLE{Unwin2007-pk,
-  title     = "Looking inside the Russian doll: the interconnections between
-               context, learning and pedagogy in the workplace",
-  author    = "Unwin, Lorna and Felstead, Alan and Fuller, Alison and Bishop,
-               Dan and Lee, Tracey and Jewson, Nick and Butler, Peter",
-  abstract  = "There is now much awareness of the symbiotic relationship
-               between workplace learning, the organisation of work, level of
-               employee involvement, organisational performance, and the
-               broader economic, regulatory, and social context within which
-               organisations have to operate. This article argues that we have
-               to identify and take serious account of the contextual factors
-               (external and internal) that affect all organisations, as these
-               are central to developing our understanding of the nature of
-               pedagogical practice within any workplace setting. By closely
-               examining the nature and impact of these contextual factors, we
-               can gain greater insight into the phenomenon of why
-               organisations adopt different practices and why they create such
-               different learning environments. The article draws on emerging
-               findings from an ESRC?funded multisector study in the UK and
-               uses illustrations from two contrasting sectors to highlight the
-               impact of context on pedagogical practice.",
-  journal   = "Pedagogy, Culture \& Society",
-  publisher = "Routledge",
-  volume    =  15,
-  number    =  3,
-  pages     = "333--348",
-  month     =  oct,
-  year      =  2007,
-  url       = "https://doi.org/10.1080/14681360701602232",
-  issn      = "1468-1366",
-  doi       = "10.1080/14681360701602232"
-}
-
 @ARTICLE{Rosalsky2021-id,
   title       = "A New Way To Understand Automation",
   author      = "Rosalsky, Greg and {Planet Money}",
@@ -13718,6 +13685,42 @@
   howpublished = "\url{https://peer.asee.org/internet-based-interactive-construction-management-learning-system.pdf}",
   note         = "Accessed: 2022-9-21",
   keywords     = "AEC;\_XR/MR;§New Literature;VR Ref via Ceja \& Price"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Unwin2007-pk,
+  title     = "Looking inside the Russian doll: the interconnections between
+               context, learning and pedagogy in the workplace",
+  author    = "Unwin, Lorna and Felstead, Alan and Fuller, Alison and Bishop,
+               Dan and Lee, Tracey and Jewson, Nick and Butler, Peter",
+  abstract  = "There is now much awareness of the symbiotic relationship
+               between workplace learning, the organisation of work, level of
+               employee involvement, organisational performance, and the
+               broader economic, regulatory, and social context within which
+               organisations have to operate. This article argues that we have
+               to identify and take serious account of the contextual factors
+               (external and internal) that affect all organisations, as these
+               are central to developing our understanding of the nature of
+               pedagogical practice within any workplace setting. By closely
+               examining the nature and impact of these contextual factors, we
+               can gain greater insight into the phenomenon of why
+               organisations adopt different practices and why they create such
+               different learning environments. The article draws on emerging
+               findings from an ESRC?funded multisector study in the UK and
+               uses illustrations from two contrasting sectors to highlight the
+               impact of context on pedagogical practice.",
+  journal   = "Pedagogy, Culture \& Society",
+  publisher = "Routledge",
+  volume    =  15,
+  number    =  3,
+  pages     = "333--348",
+  month     =  oct,
+  year      =  2007,
+  url       = "https://doi.org/10.1080/14681360701602232",
+  keywords  = "+Notion;+Readwise;UCL;VET;Workplace Learning;§New Literature",
+  issn      = "1468-1366",
+  doi       = "10.1080/14681360701602232"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
