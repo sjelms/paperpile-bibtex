@@ -13717,6 +13717,38 @@
   keywords     = "AEC;\_XR/MR;§New Literature;VR Ref via Ceja \& Price"
 }
 
+@ARTICLE{Chong2013-nz,
+  title     = "The `Russian Doll' Approach: Developing Nested Case-studies to
+               Support International Comparative Research in Education",
+  author    = "Chong, Pei Wen and Graham, Linda J",
+  abstract  = "International comparison is complicated by the use of different
+               terms, classification methods, policy frameworks and system
+               structures, not to mention different languages and terminology.
+               Multi-case studies can assist in the understanding of the
+               influence wielded by cultural, social, economic, historical and
+               political forces upon educational decisions, policy construction
+               and changes over time. But case studies alone are not enough. In
+               this paper, we argue for an ecological or scaled approach that
+               travels through macro, meso and micro levels to build nested
+               case-studies to allow for more comprehensive analysis of the
+               external and internal factors that shape policy-making and
+               education systems. Such an approach allows for deeper
+               understanding of the relationship between globalizing trends and
+               policy developments.",
+  journal   = "International Journal of Research \& Method in Education",
+  publisher = "Routledge",
+  volume    =  36,
+  number    =  1,
+  pages     = "23--32",
+  month     =  feb,
+  year      =  2013,
+  url       = "https://doi.org/10.1080/1743727X.2012.675555",
+  keywords  = "Research Methods;Fieldwork Methodology;Rapid Qualitative
+               Research",
+  issn      = "1743-727X",
+  doi       = "10.1080/1743727X.2012.675555"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Unwin2007-pk,
@@ -13748,41 +13780,10 @@
   month     =  oct,
   year      =  2007,
   url       = "https://doi.org/10.1080/14681360701602232",
-  keywords  = "+Notion;+Readwise;UCL;VET;Workplace Learning;§New Literature",
+  keywords  = "+Notion;+Readwise;UCL;VET;Workplace Learning;§New
+               Literature;Rapid Qualitative Research",
   issn      = "1468-1366",
   doi       = "10.1080/14681360701602232"
-}
-
-@ARTICLE{Chong2013-nz,
-  title     = "The `Russian Doll' Approach: Developing Nested Case-studies to
-               Support International Comparative Research in Education",
-  author    = "Chong, Pei Wen and Graham, Linda J",
-  abstract  = "International comparison is complicated by the use of different
-               terms, classification methods, policy frameworks and system
-               structures, not to mention different languages and terminology.
-               Multi-case studies can assist in the understanding of the
-               influence wielded by cultural, social, economic, historical and
-               political forces upon educational decisions, policy construction
-               and changes over time. But case studies alone are not enough. In
-               this paper, we argue for an ecological or scaled approach that
-               travels through macro, meso and micro levels to build nested
-               case-studies to allow for more comprehensive analysis of the
-               external and internal factors that shape policy-making and
-               education systems. Such an approach allows for deeper
-               understanding of the relationship between globalizing trends and
-               policy developments.",
-  journal   = "International Journal of Research \& Method in Education",
-  publisher = "Routledge",
-  volume    =  36,
-  number    =  1,
-  pages     = "23--32",
-  month     =  feb,
-  year      =  2013,
-  url       = "https://doi.org/10.1080/1743727X.2012.675555",
-  keywords  = "Research Methods;Fieldwork Methodology;Rapid Qualitative
-               Research",
-  issn      = "1743-727X",
-  doi       = "10.1080/1743727X.2012.675555"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
