@@ -2282,17 +2282,6 @@
   doi         = "10.1002/9781119098713.ch9"
 }
 
-@BOOK{Thomas2015-uu,
-  title     = "The anatomy of the case study",
-  author    = "Thomas, Gary and Myers, Kevin",
-  publisher = "SAGE Publications Ltd",
-  year      =  2015,
-  url       = "http://dx.doi.org/10.4135/9781473920156",
-  address   = "1 Oliver's Yard, 55 City Road London EC1Y 1SP",
-  isbn      = "9781446248645, 9781473920156",
-  doi       = "10.4135/9781473920156"
-}
-
 @BOOK{Aitchison2018-cw,
   title     = "Prefab Housing and the Future of Building: Product to Process",
   author    = "Aitchison, Mathew",
@@ -2792,6 +2781,18 @@
                  Research",
   isbn        = "9781108493369, 9781108493369",
   doi         = "10.1017/9781108623568"
+}
+
+@BOOK{Thomas2015-uu,
+  title     = "The anatomy of the case study",
+  author    = "Thomas, Gary and Myers, Kevin",
+  publisher = "SAGE Publications Ltd",
+  year      =  2015,
+  url       = "http://dx.doi.org/10.4135/9781473920156",
+  address   = "1 Oliver's Yard, 55 City Road London EC1Y 1SP",
+  keywords  = "Rapid Qualitative Research",
+  isbn      = "9781446248645, 9781473920156",
+  doi       = "10.4135/9781473920156"
 }
 
 @ARTICLE{Yang2023-qm,
@@ -3338,6 +3339,23 @@
   year      =  1887,
   url       = "https://www.cambridge.org/core/books/abs/collected-essays/technical-education-1877/96D2BF47F66943DDABBB58B2B16BD06B",
   doi       = "10.1017/CBO9781139149228.018"
+}
+
+@ARTICLE{Verschuren2003-xb,
+  title     = "Case study as a research strategy: Some ambiguities and
+               opportunities",
+  author    = "Verschuren, Piet",
+  journal   = "International journal of social research methodology",
+  publisher = "Informa UK Limited",
+  volume    =  6,
+  number    =  2,
+  pages     = "121--139",
+  month     =  jan,
+  year      =  2003,
+  url       = "http://dx.doi.org/10.1080/13645570110106154",
+  language  = "en",
+  issn      = "1364-5579, 1464-5300",
+  doi       = "10.1080/13645570110106154"
 }
 
 @ARTICLE{Rosalsky2021-id,
@@ -13762,23 +13780,6 @@
   url       = "https://doi.org/10.1080/1743727X.2012.675555",
   issn      = "1743-727X",
   doi       = "10.1080/1743727X.2012.675555"
-}
-
-@ARTICLE{Verschuren2003-xb,
-  title     = "Case study as a research strategy: Some ambiguities and
-               opportunities",
-  author    = "Verschuren, Piet",
-  journal   = "International journal of social research methodology",
-  publisher = "Informa UK Limited",
-  volume    =  6,
-  number    =  2,
-  pages     = "121--139",
-  month     =  jan,
-  year      =  2003,
-  url       = "http://dx.doi.org/10.1080/13645570110106154",
-  language  = "en",
-  issn      = "1364-5579, 1464-5300",
-  doi       = "10.1080/13645570110106154"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
