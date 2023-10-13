@@ -2790,7 +2790,8 @@
   year      =  2015,
   url       = "http://dx.doi.org/10.4135/9781473920156",
   address   = "1 Oliver's Yard, 55 City Road London EC1Y 1SP",
-  keywords  = "Fieldwork Methodology;Rapid Qualitative Research",
+  keywords  = "Fieldwork Methodology;ePub | Kindle;Research Methods;Rapid
+               Qualitative Research",
   isbn      = "9781446248645, 9781473920156",
   doi       = "10.4135/9781473920156"
 }
@@ -3380,6 +3381,7 @@
   month     =  nov,
   year      =  2002,
   url       = "https://play.google.com/store/books/details?id=aL6IAgAAQBAJ",
+  keywords  = "ePub | Kindle;Fieldwork Methodology;Research Methods",
   language  = "en",
   isbn      = "9781134854592"
 }
