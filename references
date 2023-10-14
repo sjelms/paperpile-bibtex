@@ -3541,6 +3541,23 @@
   isbn      = "9780815393566"
 }
 
+@BOOK{Burns1997-gn,
+  title     = "Introduction to Research Methods",
+  author    = "Burns, R B",
+  abstract  = "First published in 1990, this third edition of a text for
+               students of education and the social sciences now includes new
+               chapters on ethics, correlational techniques, analysis of
+               variance, and historical research. Emphasises the use of
+               computers in research. Provides additional self-test questions
+               for instructors, and answers. Includes index. The author teaches
+               in the Faculty of Education at the University of Brunei.",
+  publisher = "Addison Wesley Longman",
+  year      =  1997,
+  url       = "https://play.google.com/store/books/details?id=aP3tAAAAMAAJ",
+  language  = "en",
+  isbn      = "9780582809529"
+}
+
 @ARTICLE{Pailliez2017-av,
   title     = "You're hired! France's Macron targets apprentices in labor
                market shake-up",
