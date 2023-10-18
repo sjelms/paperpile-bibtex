@@ -31268,9 +31268,10 @@
 }
 
 @MISC{James_Madison_University_undated-cm,
-  title  = "Method Sections for Empirical Research Papers",
-  author = "{James Madison University}",
-  url    = "https://www.jmu.edu/uwc/_files/link-library/empirical/method_section_overview.pdf"
+  title    = "Method Sections for Empirical Research Papers",
+  author   = "{James Madison University}",
+  url      = "https://www.jmu.edu/uwc/_files/link-library/empirical/method_section_overview.pdf",
+  keywords = "Research Methods"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
