@@ -6595,13 +6595,6 @@
   keywords = "RDL [CCME0041];Journal Articles"
 }
 
-@ARTICLE{Friesner_undated-io,
-  title   = "Learning Logs: Assessment or Research Method?",
-  author  = "Friesner, Tim and Hart, Mike",
-  journal = "Electronic journal of business research methods",
-  issn    = "1477-7029"
-}
-
 @MISC{noauthor_undated-xg,
   title        = "{AI} Extenders | Proceedings of the 2019 {AAAI/ACM}
                   Conference on {AI}, Ethics, and Society",
@@ -19314,6 +19307,17 @@
   language    = "en",
   issn        = "0141-8211, 1465-3435",
   doi         = "10.1111/ejed.12533"
+}
+
+@ARTICLE{Friesner2005-io,
+  title   = "Learning Logs: Assessment or Research Method?",
+  author  = "Friesner, Tim and Hart, Mike",
+  journal = "Electronic Journal of Business Research Methodology",
+  volume  =  3,
+  number  =  2,
+  pages   = "117--122",
+  year    =  2005,
+  issn    = "1477-7029"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
