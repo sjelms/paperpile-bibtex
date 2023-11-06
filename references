@@ -2026,7 +2026,7 @@
   url       = "https://play.google.com/store/books/details?id=1VY4_egobYAC",
   keywords  = "+Notion;+Readwise;ePub | Kindle;UCL;VET;Workplace Learning;§New
                Literature;++ClickUp;VET;Workplace Learning in Context;EPubs
-               Books",
+               Books;+3.0\_Upgrade OCT 2023",
   language  = "en",
   isbn      = "9780203571644",
   doi       = "10.4324/9780203571644"
@@ -2601,7 +2601,7 @@
   url          = "https://www.agc.org/news/2021/09/02/construction-workforce-shortages-reach-pre-pandemic-levels-even-coronavirus",
   howpublished = "\url{https://www.agc.org/news/2021/09/02/construction-workforce-shortages-reach-pre-pandemic-levels-even-coronavirus}",
   note         = "Accessed: 2023-9-28",
-  keywords     = "Website",
+  keywords     = "Website;+3.0\_Upgrade OCT 2023",
   language     = "en"
 }
 
@@ -3391,7 +3391,7 @@
   url       = "https://www.youtube.com/watch?v=kOZxvpVWBJ4",
   address   = "United States",
   keywords  = "60 Minutes; CBS News; 3D-printed houses; climate
-               change;YouTube;AEC"
+               change;YouTube;AEC;+3.0\_Upgrade OCT 2023"
 }
 
 @INCOLLECTION{Huxley1887-mi,
@@ -7919,7 +7919,8 @@
   address   = "New York, NY",
   keywords  = "Cited for Frontiers;Labor;Workplace Learning;ePub |
                Kindle;Zotero Import (Feb 22);My Library;2021-12-03
-               Frontiers;Frontiers [2022];EPubs Books;2.0\_Upgrade MAY 2023",
+               Frontiers;Frontiers [2022];EPubs Books;2.0\_Upgrade MAY
+               2023;+3.0\_Upgrade OCT 2023",
   isbn      = "9780807759066"
 }
 
@@ -8090,7 +8091,8 @@
   year      =  2018,
   address   = "New York, NY",
   keywords  = "Book (physical);ePub | Kindle;EPubs Books;Reviewed on
-               Theory;Theory and Methods;2.0\_Upgrade MAY 2023",
+               Theory;Theory and Methods;2.0\_Upgrade MAY 2023;+3.0\_Upgrade
+               OCT 2023",
   isbn      = "9781138209886"
 }
 
@@ -10991,11 +10993,12 @@
 }
 
 @BOOK{Engestrom1999-iv,
-  title  = "When the Center Does Not Hold: The Importance of Knotworking",
-  author = "Engestr{\"o}m, Yrj{\"o} and Engestr{\"o}m, Ritva and
-            V{\"a}h{\"a}aho, Tarja",
-  volume =  381,
-  year   =  1999
+  title    = "When the Center Does Not Hold: The Importance of Knotworking",
+  author   = "Engestr{\"o}m, Yrj{\"o} and Engestr{\"o}m, Ritva and
+              V{\"a}h{\"a}aho, Tarja",
+  volume   =  381,
+  year     =  1999,
+  keywords = "+3.0\_Upgrade OCT 2023"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -11450,7 +11453,7 @@
   year      =  2022,
   url       = "https://www.routledge.com/Validity-and-Reliability-in-Built-Environment-Research-A-Selection-of-Case/Ahmed-Opoku-Olanipekun-Sutrisna/p/book/9780367197803",
   keywords  = "ePub | Kindle;AEC;Research Methods;§New Literature;Grounded
-               Theory;EPubs Books",
+               Theory;EPubs Books;+3.0\_Upgrade OCT 2023",
   language  = "en",
   isbn      = "9780429516375"
 }
@@ -13332,7 +13335,7 @@
   url       = "https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-25/conclusion-alison-fuller-anne-munro-helen-rainbird",
   keywords  = "++ClickUp;+Notion;+Readwise;Cross Ref Chapter;ePub |
                Kindle;VET;Workplace Learning;§New Literature;UCL;Workplace
-               Learning in Context;EPubs Books",
+               Learning in Context;EPubs Books;+3.0\_Upgrade OCT 2023",
   doi       = "10.4324/9780203571644-25"
 }
 
@@ -14173,7 +14176,7 @@
   keywords    = "++ClickUp;+Notion;+Readwise;ePub | Kindle;UCL;Workplace
                  Learning;@\_Mark Up;VET;Cross Ref Chapter;Handbook of
                  Vocational Education and Training, The Wiley (2019);EPubs
-                 Books",
+                 Books;+3.0\_Upgrade OCT 2023",
   isbn        = "9781119098713, 9781119098591",
   doi         = "10.1002/9781119098713.ch2"
 }
@@ -14367,7 +14370,7 @@
   keywords    = "++ClickUp;+Notion;+Readwise;ePub | Kindle;UCL;Workplace
                  Learning;@\_Mark Up;VET;Cross Ref Chapter;Handbook of
                  Vocational Education and Training, The Wiley (2019);EPubs
-                 Books",
+                 Books;+3.0\_Upgrade OCT 2023",
   isbn        = "9781119098713, 9781119098591",
   doi         = "10.1002/9781119098713.ch1"
 }
@@ -16313,7 +16316,7 @@
   url       = "http://files.eric.ed.gov/fulltext/ED544453.pdf",
   keywords  = "Vocational Education; Public Schools; High School Graduates;
                Credits; Academic Education; Educational
-               Trends;Labor;Statistics;Government Report",
+               Trends;Labor;Statistics;Government Report;+3.0\_Upgrade OCT 2023",
   language  = "en"
 }
 
@@ -16490,7 +16493,7 @@
   year      =  2013,
   url       = "https://doi.org/10.1080/1743727X.2012.675555",
   keywords  = "Research Methods;Fieldwork Methodology;Rapid Qualitative
-               Research",
+               Research;+3.0\_Upgrade OCT 2023",
   issn      = "1743-727X",
   doi       = "10.1080/1743727X.2012.675555"
 }
@@ -17685,7 +17688,7 @@
   url      = "http://dx.doi.org/10.1108/00400910910960722",
   keywords = "@\_Mark Up;AEC;VET;Workplace Learning;Zotero Import (Feb 22);My
               Library;2021-12-03 Frontiers;Frontiers import [Aug 11];Journal
-              Articles",
+              Articles;+3.0\_Upgrade OCT 2023",
   doi      = "10.1108/00400910910960722"
 }
 
@@ -20162,7 +20165,7 @@
   url       = "https://scholarship.kentlaw.iit.edu/cklawreview/vol95/iss1/46/",
   keywords  = "Labor;Cited for Frontiers;**CATALOGED;+Readwise;@\_Mark
                Up;Frontiers [2022];2.0\_Upgrade MAY 2023;Journal
-               Articles;Notion Catalogued"
+               Articles;Notion Catalogued;+3.0\_Upgrade OCT 2023"
 }
 
 @ARTICLE{Towers1989-ll,
@@ -21486,7 +21489,7 @@
   address   = "Oxford",
   keywords  = "Social sciences -- Research -- Methodology;Course
                Assignment;§New Literature;Research Methods;RDL
-               [CCME0041];Reviewed on Theory",
+               [CCME0041];Reviewed on Theory;+3.0\_Upgrade OCT 2023",
   language  = "eng",
   isbn      = "9780192636614"
 }
@@ -30270,7 +30273,7 @@
   url       = "http://dx.doi.org/10.14455/isec.res.2019.184",
   keywords  = "AEC;@\_Mark Up;+Readwise;**CATALOGED;Construction 4.0;Notion
                Catalogued;UCL Poster Q1 2023;2.0\_Upgrade MAY 2023;Journal
-               Articles",
+               Articles;+3.0\_Upgrade OCT 2023",
   language  = "en",
   issn      = "2644-108X",
   doi       = "10.14455/isec.res.2019.184"
@@ -30569,7 +30572,8 @@
   url       = "https://www.ivvd.nl/wp-content/uploads/2019/12/Modular-construction-from-projects-to-products-full-report-NEW.pdf",
   keywords  = "AEC;@\_Mark Up;**CATALOGED;++ClickUp;Construction 4.0;Notion
                Catalogued;UCL Poster Q1 2023;2.0\_Upgrade MAY 2023;00\_TO
-               READ;Journal Articles;Deloitte - McKinsey - EY - PWC"
+               READ;Journal Articles;Deloitte - McKinsey - EY -
+               PWC;+3.0\_Upgrade OCT 2023"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -31330,7 +31334,7 @@
   url       = "https://doi.org/10.1061/(ASCE)0733-9364(2007)133:9(661)",
   keywords  = "Knowledge - Skill Acquisition;Workplace
                Learning;+Notion;+Readwise;§New Literature;LSU Supporting
-               Works;Journal Articles",
+               Works;Journal Articles;+3.0\_Upgrade OCT 2023",
   issn      = "0733-9364",
   doi       = "10.1061/(ASCE)0733-9364(2007)133:9(661)"
 }
