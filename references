@@ -604,7 +604,7 @@
   keywords    = "++ClickUp;+Notion;+Readwise;@\_Mark Up;VET;Workplace
                  Learning;UCL;ePub | Kindle;Cross Ref Chapter;Handbook of
                  Vocational Education and Training, The Wiley (2019);EPubs
-                 Books",
+                 Books;+3.0\_Upgrade OCT 2023",
   isbn        = "9781119098713, 9781119098591",
   doi         = "10.1002/9781119098713.ch5"
 }
@@ -2084,7 +2084,7 @@
   url       = "http://dx.doi.org/10.1007/978-981-19-1029-6_42",
   address   = "Singapore",
   keywords  = "+Notion;+Readwise;§New Literature;AEC;Important;Construction
-               4.0;00\_TO READ",
+               4.0;00\_TO READ;+3.0\_Upgrade OCT 2023",
   issn      = "2366-2557, 2366-2565",
   isbn      = "9789811910289, 9789811910296",
   doi       = "10.1007/978-981-19-1029-6\_42"
@@ -9694,7 +9694,8 @@
   year        =  2008,
   url         = "https://ascelibrary.org/doi/abs/10.1061/(ASCE)0733-9364(2008)134:10(795)",
   keywords    = "AEC;Workplace Learning;@\_Mark Up;**CATALOGED;Notion
-                 Catalogued;2.0\_Upgrade MAY 2023;Journal Articles",
+                 Catalogued;2.0\_Upgrade MAY 2023;Journal
+                 Articles;+3.0\_Upgrade OCT 2023",
   language    = "en",
   issn        = "0733-9364, 1943-7862",
   doi         = "10.1061/(asce)0733-9364(2008)134:10(795)"
@@ -10700,7 +10701,7 @@
   year      =  2022,
   url       = "https://doi.org/10.1080/01446193.2022.2141432",
   keywords  = "AEC;UCL;++ClickUp;@\_Mark Up;**CATALOGED;Construction 4.0;Notion
-               Catalogued",
+               Catalogued;+3.0\_Upgrade OCT 2023",
   issn      = "0144-6193",
   doi       = "10.1080/01446193.2022.2141432"
 }
@@ -11961,7 +11962,8 @@
   url       = "https://doi.org/10.1080/1363908032000093012",
   keywords  = "Workplace Learning;Knowledge - Skill
                Acquisition;VET;UCL;+Readwise;+Notion;Research Methods;@\_Mark
-               Up;Journal Articles;VET;Theory and Methods",
+               Up;Journal Articles;VET;Theory and Methods;+3.0\_Upgrade OCT
+               2023",
   issn      = "1363-9080",
   doi       = "10.1080/1363908032000093012"
 }
@@ -12031,7 +12033,7 @@
   url       = "https://doi.org/10.1080/13639080903290355",
   keywords  = "UCL;Workplace Learning;AEC;++ClickUp;@\_Mark
                Up;**CATALOGED;Contemporary Apprenticeship (Fuller \&
-               Unwin);00\_TO READ;Notion Catalogued",
+               Unwin);00\_TO READ;Notion Catalogued;+3.0\_Upgrade OCT 2023",
   issn      = "1363-9080",
   doi       = "10.1080/13639080903290355"
 }
@@ -12152,7 +12154,7 @@
   url       = "https://doi.org/10.1080/14681360701602232",
   keywords  = "+Notion;+Readwise;UCL;VET;Workplace Learning;§New
                Literature;Fieldwork Methodology;Research Methods;Rapid
-               Qualitative Research",
+               Qualitative Research;+3.0\_Upgrade OCT 2023",
   issn      = "1468-1366",
   doi       = "10.1080/14681360701602232"
 }
@@ -16241,7 +16243,8 @@
   url         = "http://dx.doi.org/10.1145/3056540.3076192",
   address     = "New York, NY, USA",
   keywords    = "AEC;@\_Mark Up;**CATALOGED;++ClickUp;Construction 4.0;UCL
-                 Poster Q1 2023;2.0\_Upgrade MAY 2023;Notion Catalogued",
+                 Poster Q1 2023;2.0\_Upgrade MAY 2023;Notion
+                 Catalogued;+3.0\_Upgrade OCT 2023",
   copyright   = "http://www.acm.org/publications/policies/copyright\_policy\#Background",
   conference  = "PETRA '17: 10th International Conference on PErvasive
                  Technologies Related to Assistive Environments",
@@ -21151,7 +21154,8 @@
   keywords  = "Workplace Learning;Knowledge - Skill
                Acquisition;UCL;+Readwise;@\_Mark
                Up;++ClickUp;**CATALOGED;Journal Articles;Notion
-               Catalogued;Contemporary Apprenticeship (Fuller \& Unwin)",
+               Catalogued;Contemporary Apprenticeship (Fuller \&
+               Unwin);+3.0\_Upgrade OCT 2023",
   issn      = "1474-9041",
   doi       = "10.2304/eerj.2003.2.1.9"
 }
@@ -21329,7 +21333,7 @@
   year      =  1978,
   url       = "https://play.google.com/store/books/details?id=YvwkAQAAIAAJ",
   keywords  = "ePub | Kindle;Theory and Methodology in Social and Educational
-               Research;EPubs Books",
+               Research;EPubs Books;+3.0\_Upgrade OCT 2023",
   language  = "en",
   isbn      = "9780674576285",
   doi       = "10.2307/j.ctvjf9vz4"
@@ -21600,7 +21604,8 @@
                Texas at Austin",
   year      =  1999,
   url       = "https://repositories.lib.utexas.edu/handle/2152/114257",
-  keywords  = "+Notion;+Readwise;AEC;Labor;§New Literature",
+  keywords  = "+Notion;+Readwise;AEC;Labor;§New Literature;+3.0\_Upgrade OCT
+               2023",
   doi       = "10.26153/TSW/41160"
 }
 
@@ -22124,7 +22129,8 @@
   school   = "Louisiana State University",
   keywords = "AEC;Workplace Learning;Thesis;Read;**CATALOGED;@\_Mark
               Up;++ClickUp;LSU - Louisiana State University;Notion
-              Catalogued;2.0\_Upgrade MAY 2023;00\_TO READ",
+              Catalogued;2.0\_Upgrade MAY 2023;00\_TO READ;+3.0\_Upgrade OCT
+              2023",
   doi      = "10.31390/gradschool\_dissertations.5487"
 }
 
@@ -23640,7 +23646,7 @@
   url       = "https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-14/expansive-learning-environments-alison-fuller-lorna-unwin",
   keywords  = "++ClickUp;+Notion;+Readwise;Cross Ref Chapter;ePub |
                Kindle;VET;Workplace Learning;§New Literature;UCL;Workplace
-               Learning in Context;EPubs Books",
+               Learning in Context;EPubs Books;+3.0\_Upgrade OCT 2023",
   doi       = "10.4324/9780203571644-14"
 }
 
@@ -24801,7 +24807,8 @@
   url       = "https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-8",
   address   = "New York : Routledge, 2016.",
   keywords  = "++ClickUp;+Notion;+Readwise;AEC;Cross Ref Chapter;ePub |
-               Kindle;Offsite Architecture: Constructing the Future",
+               Kindle;Offsite Architecture: Constructing the
+               Future;+3.0\_Upgrade OCT 2023",
   isbn      = "9781315743332",
   doi       = "10.4324/9781315743332-8"
 }
@@ -26324,7 +26331,8 @@
   year        =  2011,
   url         = "http://eprints.soton.ac.uk/id/eprint/181011",
   keywords    = "+Notion;+Readwise;++ClickUp;Workplace Learning;VET;UCL;@\_Mark
-                 Up;WALF - Improving Working as Learning",
+                 Up;WALF - Improving Working as Learning ;+3.0\_Upgrade OCT
+                 2023",
   language    = "en"
 }
 
@@ -26848,7 +26856,8 @@
   year        =  2020,
   keywords    = "Cited for Frontiers;AEC;Zotero Import (Feb 22);My
                  Library;2021-12-03 Frontiers;Frontiers [2022];UCL Poster Q1
-                 2023;2.0\_Upgrade MAY 2023;Deloitte - McKinsey - EY - PWC"
+                 2023;2.0\_Upgrade MAY 2023;Deloitte - McKinsey - EY -
+                 PWC;+3.0\_Upgrade OCT 2023"
 }
 
 @TECHREPORT{Meisels2020-wx,
@@ -28727,7 +28736,7 @@
   month     =  feb,
   year      =  2023,
   url       = "https://www.npr.org/2023/02/14/1155405249/high-paying-jobs-that-dont-need-a-college-degree-thousands-of-them-are-sitting-e",
-  keywords  = "Website;2.0\_Upgrade MAY 2023"
+  keywords  = "Website;2.0\_Upgrade MAY 2023;+3.0\_Upgrade OCT 2023"
 }
 
 @MISC{Lidelow2023-sm,
@@ -28752,7 +28761,8 @@
   year         =  2023,
   url          = "https://cife.stanford.edu/events/industrialized-construction-forum-2023",
   howpublished = "Industrialized Construction Forum 2023",
-  keywords     = "AEC;Construction 4.0;2.0\_Upgrade MAY 2023",
+  keywords     = "AEC;Construction 4.0;2.0\_Upgrade MAY 2023;+3.0\_Upgrade OCT
+                  2023",
   location     = "Center for Integrated Facility Engineering, Stanford
                   University, Stanford, CA"
 }
@@ -28962,7 +28972,8 @@
   year        =  2020,
   keywords    = "Cited for Frontiers;Automation;Economics;Employment;Skill
                  demand;Technological change;Zotero Import (Feb 22);My
-                 Library;2021-12-03 Frontiers;Frontiers [2022]"
+                 Library;2021-12-03 Frontiers;Frontiers [2022];+3.0\_Upgrade
+                 OCT 2023"
 }
 
 @BOOK{Autor2022-vv,
@@ -28974,7 +28985,8 @@
   url       = "https://mitpress.mit.edu/9780262547307/the-work-of-the-future/",
   keywords  = "Book (physical);ePub | Kindle;@\_Mark Up;Cited for
                Frontiers;Automation;Economics;Employment;Skill
-               demand;Technological change;Frontiers [2022];EPubs Books",
+               demand;Technological change;Frontiers [2022];EPubs
+               Books;+3.0\_Upgrade OCT 2023",
   isbn      = "9780262046367",
   lccn      = "2021010583"
 }
@@ -29148,7 +29160,7 @@
   url         = "https://www.voced.edu.au/content/ngv:80380",
   keywords    = "UCL;+Notion;+Readwise;VET;Workplace Learning;§New
                  Literature;Essential;++ClickUp;WALF - Improving Working as
-                 Learning"
+                 Learning ;+3.0\_Upgrade OCT 2023"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -29306,7 +29318,7 @@
   year      =  1999,
   url       = "http://ascpro0.ascweb.org/archives/1999/chini99.htm",
   keywords  = "Labor;@\_Mark Up;Cited for Frontiers;AEC;Website;Frontiers
-               [2022];2.0\_Upgrade MAY 2023"
+               [2022];2.0\_Upgrade MAY 2023;+3.0\_Upgrade OCT 2023"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -32071,7 +32083,7 @@
   url         = "https://www.citb.co.uk/about-citb/construction-industry-research-reports/construction-skills-network-csn-2021-25/",
   keywords    = "Cited for Frontiers;AEC;Zotero Import (Feb 22);My
                  Library;2021-12-03 Frontiers;Frontiers [2022];UCL Poster Q1
-                 2023;2.0\_Upgrade MAY 2023"
+                 2023;2.0\_Upgrade MAY 2023;+3.0\_Upgrade OCT 2023"
 }
 
 @ARTICLE{Barkokebas2019-eh,
@@ -32727,14 +32739,15 @@
 }
 
 @ARTICLE{Friesner2005-io,
-  title   = "Learning Logs: Assessment or Research Method?",
-  author  = "Friesner, Tim and Hart, Mike",
-  journal = "Electronic journal of business research methods",
-  volume  =  3,
-  number  =  2,
-  pages   = "117--122",
-  year    =  2005,
-  issn    = "1477-7029"
+  title    = "Learning Logs: Assessment or Research Method?",
+  author   = "Friesner, Tim and Hart, Mike",
+  journal  = "Electronic journal of business research methods",
+  volume   =  3,
+  number   =  2,
+  pages    = "117--122",
+  year     =  2005,
+  keywords = "+3.0\_Upgrade OCT 2023",
+  issn     = "1477-7029"
 }
 
 @MISC{HUD_User2022-lt,
@@ -33484,7 +33497,8 @@
   institution = "Royal Institution of Chartered Surveyors",
   month       =  sep,
   year        =  2018,
-  keywords    = "AEC;§New Literature;Construction 4.0;2.0\_Upgrade MAY 2023"
+  keywords    = "AEC;§New Literature;Construction 4.0;2.0\_Upgrade MAY
+                 2023;+3.0\_Upgrade OCT 2023"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -34166,7 +34180,8 @@
   url          = "https://unevoc.unesco.org/home/TVET",
   howpublished = "\url{https://unevoc.unesco.org/home/TVET}",
   note         = "Accessed: 2022-3-7",
-  keywords     = "Cited for Frontiers;VET;2.0\_Upgrade MAY 2023;VET",
+  keywords     = "Cited for Frontiers;VET;2.0\_Upgrade MAY
+                  2023;VET;+3.0\_Upgrade OCT 2023",
   language     = "en"
 }
 
