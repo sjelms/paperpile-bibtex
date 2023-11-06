@@ -13349,45 +13349,6 @@
 
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
-@ARTICLE{Kim2020-bf,
-  title     = "Dynamic Modeling for Analyzing Impacts of Skilled Labor Shortage
-               on Construction Project Management",
-  author    = "Kim, Sungjin and Chang, Soowon and Castro-Lacouture, Daniel",
-  abstract  = "In recent years, the shortage in skilled labor was one of the
-               most significant concerns for the construction industry.
-               Previous studies explored the causes and effects of such
-               shortages; however, these efforts featured limited documentation
-               and implemented subjective methods for analysis. This phenomenon
-               is very complex and dynamically responds to the labor market's
-               behavior and its influence on construction projects. The main
-               goal of this study is to provide a simulation-based method for
-               analyzing the causes and impacts of skilled labor shortages. By
-               adopting a system dynamics (SD) approach, an integrated SD model
-               was developed to explain the dynamic interrelationships between
-               the causes and effects of the skilled labor shortage in
-               construction projects. A total of five scenarios were
-               established to simulate shortages and construction project
-               behaviors. Based on statistical regression and sensitivity
-               analysis, this study contributes to a better understanding of
-               the patterns among the causes of shortages, the shortages
-               themselves, and their impacts on labor wages, cost overruns, and
-               scheduling concerns in construction projects.",
-  journal   = "Journal of Management in Engineering",
-  publisher = "American Society of Civil Engineers",
-  volume    =  36,
-  number    =  1,
-  pages     = "04019035",
-  month     =  jan,
-  year      =  2020,
-  url       = "https://doi.org/10.1061/(ASCE)ME.1943-5479.0000720",
-  keywords  = "+Notion;+Readwise;AEC;Labor;§New Literature;+3.0\_Upgrade OCT
-               2023",
-  issn      = "0742-597X",
-  doi       = "10.1061/(ASCE)ME.1943-5479.0000720"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
 @MISC{Tucker1999-ml,
   title     = "Key Workforce Challenges Facing the American Construction
                Industry: An Interim Assessment",
