@@ -3531,10 +3531,6 @@
   isbn      = "9781452260976"
 }
 
-@MISC{noauthor_undated-ds,
-  title = "{Ebook\_Introduction-to-game-level-design.pdf}"
-}
-
 @BOOK{Goulding2019-wb,
   title    = "Offsite production and manufacturing for innovative Construction:
               People, process and technology",
@@ -14474,6 +14470,15 @@
   language    = "en",
   issn        = "0002-8282, 1944-7981",
   doi         = "10.1257/aer.103.5.1553"
+}
+
+@BOOK{Horvath2023-ds,
+  title     = "Introduction to Game Level Design",
+  author    = "Horvath, Stefan and Nobbs, Christo and Oriz, Eduardo",
+  publisher = "Unity Technologies",
+  series    = "Unity 2022 LTS Edition",
+  month     =  nov,
+  year      =  2023
 }
 
 @ARTICLE{Coskun2010-td,
