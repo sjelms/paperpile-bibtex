@@ -109,6 +109,69 @@
   doi       = "10.1287/orsc.10.4.381"
 }
 
+@ARTICLE{Haddaway2020-pv,
+  title       = "Eight Problems With Literature Reviews and How to Fix Them",
+  author      = "Haddaway, Neal R and Bethel, Alison and Dicks, Lynn V and
+                 Koricheva, Julia and Macura, Biljana and Petrokofsky, Gillian
+                 and Pullin, Andrew S and Savilaakso, Sini and Stewart, Gavin B",
+  affiliation = "Mercator Research Institute on Climate Change and Global
+                 Commons, Berlin, Germany. neal\_haddaway@hotmail.com.
+                 Stockholm Environment Institute, Stockholm, Sweden.
+                 neal\_haddaway@hotmail.com. Africa Centre for Evidence,
+                 University of Johannesburg, Johannesburg, South Africa.
+                 neal\_haddaway@hotmail.com. College of Medicine and Health,
+                 Exeter University, Exeter, UK. Department of Zoology,
+                 University of Cambridge, Cambridge, UK. School of Biological
+                 Sciences, University of East Anglia, Norwich, UK. Department
+                 of Biological Sciences, Royal Holloway University of London,
+                 Egham, UK. Stockholm Environment Institute, Stockholm, Sweden.
+                 Department of Zoology, University of Oxford, Oxford, UK.
+                 Collaboration for Environmental Evidence, UK Centre, School of
+                 Natural Sciences, Bangor University, Bangor, UK. Liljus ltd,
+                 London, UK. Department of Forest Sciences, University of
+                 Helsinki, Helsinki, Finland. Evidence Synthesis Lab, School of
+                 Natural and Environmental Sciences, University of Newcastle,
+                 Newcastle-upon-Tyne, UK.",
+  abstract    = "Traditional approaches to reviewing literature may be
+                 susceptible to bias and result in incorrect decisions. This is
+                 of particular concern when reviews address policy- and
+                 practice-relevant questions. Systematic reviews have been
+                 introduced as a more rigorous approach to synthesizing
+                 evidence across studies; they rely on a suite of
+                 evidence-based methods aimed at maximizing rigour and
+                 minimizing susceptibility to bias. Despite the increasing
+                 popularity of systematic reviews in the environmental field,
+                 evidence synthesis methods continue to be poorly applied in
+                 practice, resulting in the publication of syntheses that are
+                 highly susceptible to bias. Recognizing the constraints that
+                 researchers can sometimes feel when attempting to plan,
+                 conduct and publish rigorous and comprehensive evidence
+                 syntheses, we aim here to identify major pitfalls in the
+                 conduct and reporting of systematic reviews, making use of
+                 recent examples from across the field. Adopting a 'critical
+                 friend' role in supporting would-be systematic reviews and
+                 avoiding individual responses to police use of the 'systematic
+                 review' label, we go on to identify methodological solutions
+                 to mitigate these pitfalls. We then highlight existing support
+                 available to avoid these issues and call on the entire
+                 community, including systematic review specialists, to work
+                 towards better evidence syntheses for better evidence and
+                 better decisions.",
+  journal     = "Nature ecology \& evolution",
+  volume      =  4,
+  number      =  12,
+  pages       = "1582--1589",
+  month       =  dec,
+  year        =  2020,
+  url         = "http://dx.doi.org/10.1038/s41559-020-01295-x",
+  keywords    = "PhD Support and Training",
+  language    = "en",
+  issn        = "2397-334X",
+  pmid        = "33046871",
+  doi         = "10.1038/s41559-020-01295-x",
+  pmc         = "5833365"
+}
+
 @BOOK{Self1995-ne,
   title     = "Computational Mathetics: Towards a Science of Learning Systems
                Design",
@@ -14373,68 +14436,6 @@
   language    = "en",
   issn        = "0002-8282, 1944-7981",
   doi         = "10.1257/aer.103.5.1553"
-}
-
-@ARTICLE{Haddaway2020-pv,
-  title       = "Eight Problems With Literature Reviews and How to Fix Them",
-  author      = "Haddaway, Neal R and Bethel, Alison and Dicks, Lynn V and
-                 Koricheva, Julia and Macura, Biljana and Petrokofsky, Gillian
-                 and Pullin, Andrew S and Savilaakso, Sini and Stewart, Gavin B",
-  affiliation = "Mercator Research Institute on Climate Change and Global
-                 Commons, Berlin, Germany. neal\_haddaway@hotmail.com.
-                 Stockholm Environment Institute, Stockholm, Sweden.
-                 neal\_haddaway@hotmail.com. Africa Centre for Evidence,
-                 University of Johannesburg, Johannesburg, South Africa.
-                 neal\_haddaway@hotmail.com. College of Medicine and Health,
-                 Exeter University, Exeter, UK. Department of Zoology,
-                 University of Cambridge, Cambridge, UK. School of Biological
-                 Sciences, University of East Anglia, Norwich, UK. Department
-                 of Biological Sciences, Royal Holloway University of London,
-                 Egham, UK. Stockholm Environment Institute, Stockholm, Sweden.
-                 Department of Zoology, University of Oxford, Oxford, UK.
-                 Collaboration for Environmental Evidence, UK Centre, School of
-                 Natural Sciences, Bangor University, Bangor, UK. Liljus ltd,
-                 London, UK. Department of Forest Sciences, University of
-                 Helsinki, Helsinki, Finland. Evidence Synthesis Lab, School of
-                 Natural and Environmental Sciences, University of Newcastle,
-                 Newcastle-upon-Tyne, UK.",
-  abstract    = "Traditional approaches to reviewing literature may be
-                 susceptible to bias and result in incorrect decisions. This is
-                 of particular concern when reviews address policy- and
-                 practice-relevant questions. Systematic reviews have been
-                 introduced as a more rigorous approach to synthesizing
-                 evidence across studies; they rely on a suite of
-                 evidence-based methods aimed at maximizing rigour and
-                 minimizing susceptibility to bias. Despite the increasing
-                 popularity of systematic reviews in the environmental field,
-                 evidence synthesis methods continue to be poorly applied in
-                 practice, resulting in the publication of syntheses that are
-                 highly susceptible to bias. Recognizing the constraints that
-                 researchers can sometimes feel when attempting to plan,
-                 conduct and publish rigorous and comprehensive evidence
-                 syntheses, we aim here to identify major pitfalls in the
-                 conduct and reporting of systematic reviews, making use of
-                 recent examples from across the field. Adopting a 'critical
-                 friend' role in supporting would-be systematic reviews and
-                 avoiding individual responses to police use of the 'systematic
-                 review' label, we go on to identify methodological solutions
-                 to mitigate these pitfalls. We then highlight existing support
-                 available to avoid these issues and call on the entire
-                 community, including systematic review specialists, to work
-                 towards better evidence syntheses for better evidence and
-                 better decisions.",
-  journal     = "Nature ecology \& evolution",
-  volume      =  4,
-  number      =  12,
-  pages       = "1582--1589",
-  month       =  dec,
-  year        =  2020,
-  url         = "http://dx.doi.org/10.1038/s41559-020-01295-x",
-  language    = "en",
-  issn        = "2397-334X",
-  pmid        = "33046871",
-  doi         = "10.1038/s41559-020-01295-x",
-  pmc         = "5833365"
 }
 
 @ARTICLE{Coskun2010-td,
