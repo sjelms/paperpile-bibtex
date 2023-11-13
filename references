@@ -14472,15 +14472,6 @@
   doi         = "10.1257/aer.103.5.1553"
 }
 
-@BOOK{Horvath2023-ds,
-  title     = "Introduction to Game Level Design",
-  author    = "Horvath, Stefan and Nobbs, Christo and Oriz, Eduardo",
-  publisher = "Unity Technologies",
-  series    = "Unity 2022 LTS Edition",
-  month     =  nov,
-  year      =  2023
-}
-
 @ARTICLE{Coskun2010-td,
   title       = "Mirtazapine treatment for comorbid anxiety/depressive
                  disorders in young subjects with attention-deficit
@@ -16844,6 +16835,16 @@
               Systems (ITS);Frontiers [2022];Journal Articles",
   issn     = "0046-1520",
   doi      = "10.1080/00461520.2011.611369"
+}
+
+@BOOK{Horvath2023-ds,
+  title     = "Introduction to Game Level Design",
+  author    = "Horvath, Stefan and Nobbs, Christo and Oriz, Eduardo",
+  publisher = "Unity Technologies",
+  series    = "Unity 2022 LTS Edition",
+  month     =  nov,
+  year      =  2023,
+  keywords  = "Game Engine"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
