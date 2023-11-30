@@ -16677,6 +16677,25 @@
   doi       = "10.1163/9789460912597\_008"
 }
 
+@INCOLLECTION{Guile2010-dv,
+  title     = "Thinking Differently about Mediation by Activity and Semiotic
+               Mediation",
+  booktitle = "The Learning Challenge of the Knowledge Economy",
+  author    = "Guile, David",
+  abstract  = "``Thinking Differently about Mediation by Activity and Semiotic
+               Mediation'' published on 01 Jan 2010 by Brill.",
+  publisher = "Brill",
+  pages     = "129--144",
+  month     =  jan,
+  year      =  2010,
+  url       = "https://brill.com/display/book/9789460912597/BP000009.xml",
+  keywords  = "Higher Education; Education; Professional Development; Adult
+               Education",
+  language  = "en",
+  isbn      = "9789460912597",
+  doi       = "10.1163/9789460912597\_009"
+}
+
 @ARTICLE{Cale2019-ca,
   title     = "Australian prison vocational education and training and returns
                to custody among male and female ex-prisoners: A
