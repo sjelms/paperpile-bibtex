@@ -8839,12 +8839,13 @@
 
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
-@BOOK{noauthor_1992-na,
-  title     = "Key competencies: report of the Committee to advise the
+@BOOK{Australian_Education_Council1992-na,
+  title     = "Key competencies: Report of the Committee to advise the
                Australian Education Council and Ministers of Vocational
                Education, Employment and Training on employment-related key
                competencies for postcompulsory education and training [Mayer
                report]",
+  author    = "{Australian Education Council}",
   abstract  = "This is the final and full Mayer report (see also the condensed
                version `Putting general education to work', indexed at TD/TNC
                32.84). The committee, chaired by Eric Mayer, was set up by the
