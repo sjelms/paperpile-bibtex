@@ -16587,6 +16587,24 @@
   doi       = "10.1163/9789460912597\_003"
 }
 
+@INCOLLECTION{Guile2010-om,
+  title     = "Tacit Knowledge and the Economy",
+  booktitle = "The Learning Challenge of the Knowledge Economy",
+  author    = "Guile, David",
+  abstract  = "``Tacit Knowledge and the Economy'' published on 01 Jan 2010 by
+               Brill.",
+  publisher = "Brill",
+  pages     = "23--37",
+  month     =  jan,
+  year      =  2010,
+  url       = "https://brill.com/display/book/9789460912597/BP000004.xml",
+  keywords  = "Higher Education; Education; Professional Development; Adult
+               Education",
+  language  = "en",
+  isbn      = "9789460912597",
+  doi       = "10.1163/9789460912597\_004"
+}
+
 @ARTICLE{Cale2019-ca,
   title     = "Australian prison vocational education and training and returns
                to custody among male and female ex-prisoners: A
