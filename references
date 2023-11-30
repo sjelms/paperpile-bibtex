@@ -16696,6 +16696,23 @@
   doi       = "10.1163/9789460912597\_009"
 }
 
+@INCOLLECTION{Guile2010-th,
+  title     = "Learning as Remediation",
+  booktitle = "The Learning Challenge of the Knowledge Economy",
+  author    = "Guile, David",
+  abstract  = "``Learning as Remediation'' published on 01 Jan 2010 by Brill.",
+  publisher = "Brill",
+  pages     = "145--165",
+  month     =  jan,
+  year      =  2010,
+  url       = "https://brill.com/display/book/9789460912597/BP000010.xml",
+  keywords  = "Higher Education; Education; Professional Development; Adult
+               Education",
+  language  = "en",
+  isbn      = "9789460912597",
+  doi       = "10.1163/9789460912597\_010"
+}
+
 @ARTICLE{Cale2019-ca,
   title     = "Australian prison vocational education and training and returns
                to custody among male and female ex-prisoners: A
