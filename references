@@ -3858,6 +3858,23 @@
   doi      = "10.1016/j.ijotn.2010.05.001"
 }
 
+@INCOLLECTION{Guile2010-gs,
+  title     = "Preliminary Material",
+  booktitle = "The Learning Challenge of the Knowledge Economy",
+  author    = "Guile, David",
+  abstract  = "``Preliminary Material'' published on 01 Jan 2010 by Brill.",
+  publisher = "Brill",
+  pages     = "i--xii",
+  month     =  jan,
+  year      =  2010,
+  url       = "https://brill.com/display/book/9789460912597/BP000001.xml",
+  keywords  = "Higher Education; Education; Professional Development; Adult
+               Education",
+  language  = "en",
+  isbn      = "9789460912597",
+  doi       = "10.1163/9789460912597\_001"
+}
+
 @BOOK{Burns1997-gn,
   title     = "Introduction to Research Methods",
   author    = "Burns, R B",
