@@ -5791,6 +5791,24 @@
   doi       = "10.1163/9789460912597\_006"
 }
 
+@INCOLLECTION{Guile2010-iq,
+  title     = "The New Learning Challenge of the Knowledge Economy",
+  booktitle = "The Learning Challenge of the Knowledge Economy",
+  author    = "Guile, David",
+  abstract  = "``The New Learning Challenge of the Knowledge Economy''
+               published on 01 Jan 2010 by Brill.",
+  publisher = "Brill",
+  pages     = "167--182",
+  month     =  jan,
+  year      =  2010,
+  url       = "https://brill.com/display/book/9789460912597/BP000011.xml",
+  keywords  = "Higher Education; Education; Professional Development; Adult
+               Education",
+  language  = "en",
+  isbn      = "9789460912597",
+  doi       = "10.1163/9789460912597\_011"
+}
+
 @INCOLLECTION{Guile2010-yp,
   title     = "Problems Around the Role of Knowledge in the Economy",
   booktitle = "The Learning Challenge of the Knowledge Economy",
