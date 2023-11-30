@@ -22823,7 +22823,7 @@
 
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
-@ARTICLE{Pylyshyn_undated-or,
+@ARTICLE{Pylyshyn1981-or,
   title    = "The imagery debate: Analogue media versus tacit knowledge",
   author   = "Pylyshyn, Zenon W",
   abstract = "Argues that the main point of disagreement in the debate over the
@@ -22849,6 +22849,7 @@
   number   =  1,
   pages    = "16--45",
   month    =  jan,
+  year     =  1981,
   url      = "https://psycnet.apa.org/fulltext/1981-06714-001.pdf",
   keywords = "Sensory Processing;Knowledge - Skill Acquisition;§New
               Literature;Journal Articles",
