@@ -16623,6 +16623,24 @@
   doi       = "10.1163/9789460912597\_005"
 }
 
+@INCOLLECTION{Guile2010-uc,
+  title     = "Higher Education and the Two Worlds of Knowledge",
+  booktitle = "The Learning Challenge of the Knowledge Economy",
+  author    = "Guile, David",
+  abstract  = "``Higher Education and the Two Worlds of Knowledge'' published
+               on 01 Jan 2010 by Brill.",
+  publisher = "Brill",
+  pages     = "61--76",
+  month     =  jan,
+  year      =  2010,
+  url       = "https://brill.com/display/book/9789460912597/BP000006.xml",
+  keywords  = "Higher Education; Education; Professional Development; Adult
+               Education",
+  language  = "en",
+  isbn      = "9789460912597",
+  doi       = "10.1163/9789460912597\_006"
+}
+
 @ARTICLE{Cale2019-ca,
   title     = "Australian prison vocational education and training and returns
                to custody among male and female ex-prisoners: A
