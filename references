@@ -1720,6 +1720,24 @@
   isbn     = "9780203125083"
 }
 
+@INCOLLECTION{Guile2010-th,
+  title     = "Learning as Remediation",
+  booktitle = "The Learning Challenge of the Knowledge Economy",
+  author    = "Guile, David",
+  abstract  = "``Learning as Remediation'' published on 01 Jan 2010 by Brill.",
+  publisher = "Brill",
+  pages     = "145--165",
+  month     =  jan,
+  year      =  2010,
+  url       = "https://brill.com/display/book/9789460912597/BP000010.xml",
+  keywords  = "Higher Education; Education; Professional Development; Adult
+               Education;Cross Ref Chapter;UCL;VET;Workplace Learning;LCKE
+               Chapters",
+  language  = "en",
+  isbn      = "9789460912597",
+  doi       = "10.1163/9789460912597\_010"
+}
+
 @INCOLLECTION{Guile2010-dv,
   title     = "Thinking Differently about Mediation by Activity and Semiotic
                Mediation",
@@ -1733,7 +1751,8 @@
   year      =  2010,
   url       = "https://brill.com/display/book/9789460912597/BP000009.xml",
   keywords  = "Higher Education; Education; Professional Development; Adult
-               Education;Cross Ref Chapter;LCKE Chapters",
+               Education;Cross Ref Chapter;UCL;VET;Workplace Learning;LCKE
+               Chapters",
   language  = "en",
   isbn      = "9789460912597",
   doi       = "10.1163/9789460912597\_009"
@@ -3875,23 +3894,6 @@
               guide; The publishing process;PhD Support and Training",
   issn     = "1878-1241",
   doi      = "10.1016/j.ijotn.2010.05.001"
-}
-
-@INCOLLECTION{Guile2010-th,
-  title     = "Learning as Remediation",
-  booktitle = "The Learning Challenge of the Knowledge Economy",
-  author    = "Guile, David",
-  abstract  = "``Learning as Remediation'' published on 01 Jan 2010 by Brill.",
-  publisher = "Brill",
-  pages     = "145--165",
-  month     =  jan,
-  year      =  2010,
-  url       = "https://brill.com/display/book/9789460912597/BP000010.xml",
-  keywords  = "Higher Education; Education; Professional Development; Adult
-               Education;Cross Ref Chapter;LCKE Chapters",
-  language  = "en",
-  isbn      = "9789460912597",
-  doi       = "10.1163/9789460912597\_010"
 }
 
 @BOOK{Burns1997-gn,
@@ -11598,6 +11600,193 @@
   doi       = "10.1080/23265507.2017.1300862"
 }
 
+@INCOLLECTION{Guile2010-yp,
+  title     = "Problems Around the Role of Knowledge in the Economy",
+  booktitle = "The Learning Challenge of the Knowledge Economy",
+  author    = "Guile, David",
+  abstract  = "``Problems Around the Role of Knowledge in the Economy''
+               published on 01 Jan 2010 by Brill.",
+  publisher = "Brill",
+  pages     = "39--60",
+  month     =  jan,
+  year      =  2010,
+  url       = "https://brill.com/display/book/9789460912597/BP000005.xml",
+  keywords  = "Higher Education; Education; Professional Development; Adult
+               Education;Cross Ref Chapter;UCL;VET;Workplace Learning;LCKE
+               Chapters",
+  language  = "en",
+  isbn      = "9789460912597",
+  doi       = "10.1163/9789460912597\_005"
+}
+
+@INCOLLECTION{Guile2010-oq,
+  title     = "Afterword",
+  booktitle = "The Learning Challenge of the Knowledge Economy",
+  author    = "Guile, David",
+  abstract  = "``Afterword'' published on 01 Jan 2010 by Brill.",
+  publisher = "Brill",
+  pages     = "183--185",
+  month     =  jan,
+  year      =  2010,
+  url       = "https://brill.com/display/book/9789460912597/BP000012.xml",
+  keywords  = "Higher Education; Education; Professional Development; Adult
+               Education;Cross Ref Chapter;UCL;VET;Workplace Learning;LCKE
+               Chapters",
+  language  = "en",
+  isbn      = "9789460912597",
+  doi       = "10.1163/9789460912597\_012"
+}
+
+@INCOLLECTION{Guile2010-gs,
+  title     = "Preliminary Material",
+  booktitle = "The Learning Challenge of the Knowledge Economy",
+  author    = "Guile, David",
+  abstract  = "``Preliminary Material'' published on 01 Jan 2010 by Brill.",
+  publisher = "Brill",
+  pages     = "i--xii",
+  month     =  jan,
+  year      =  2010,
+  url       = "https://brill.com/display/book/9789460912597/BP000001.xml",
+  keywords  = "Higher Education; Education; Professional Development; Adult
+               Education;Cross Ref Chapter;UCL;VET;Workplace Learning;LCKE
+               Chapters",
+  language  = "en",
+  isbn      = "9789460912597",
+  doi       = "10.1163/9789460912597\_001"
+}
+
+@INCOLLECTION{Guile2010-oc,
+  title     = "Developing the Mediated Basis of Learning",
+  booktitle = "The Learning Challenge of the Knowledge Economy",
+  author    = "Guile, David",
+  abstract  = "``Developing the Mediated Basis of Learning'' published on 01
+               Jan 2010 by Brill.",
+  publisher = "Brill",
+  pages     = "101--127",
+  month     =  jan,
+  year      =  2010,
+  url       = "https://brill.com/display/book/9789460912597/BP000008.xml",
+  keywords  = "Higher Education; Education; Professional Development; Adult
+               Education;Cross Ref Chapter;UCL;VET;Workplace Learning;LCKE
+               Chapters",
+  language  = "en",
+  isbn      = "9789460912597",
+  doi       = "10.1163/9789460912597\_008"
+}
+
+@INCOLLECTION{Guile2010-uc,
+  title     = "Higher Education and the Two Worlds of Knowledge",
+  booktitle = "The Learning Challenge of the Knowledge Economy",
+  author    = "Guile, David",
+  abstract  = "``Higher Education and the Two Worlds of Knowledge'' published
+               on 01 Jan 2010 by Brill.",
+  publisher = "Brill",
+  pages     = "61--76",
+  month     =  jan,
+  year      =  2010,
+  url       = "https://brill.com/display/book/9789460912597/BP000006.xml",
+  keywords  = "Higher Education; Education; Professional Development; Adult
+               Education;Cross Ref Chapter;UCL;VET;Workplace Learning;LCKE
+               Chapters",
+  language  = "en",
+  isbn      = "9789460912597",
+  doi       = "10.1163/9789460912597\_006"
+}
+
+@INCOLLECTION{Guile2010-om,
+  title     = "Tacit Knowledge and the Economy",
+  booktitle = "The Learning Challenge of the Knowledge Economy",
+  author    = "Guile, David",
+  abstract  = "``Tacit Knowledge and the Economy'' published on 01 Jan 2010 by
+               Brill.",
+  publisher = "Brill",
+  pages     = "23--37",
+  month     =  jan,
+  year      =  2010,
+  url       = "https://brill.com/display/book/9789460912597/BP000004.xml",
+  keywords  = "Higher Education; Education; Professional Development; Adult
+               Education;Cross Ref Chapter;UCL;VET;Workplace Learning;LCKE
+               Chapters",
+  language  = "en",
+  isbn      = "9789460912597",
+  doi       = "10.1163/9789460912597\_004"
+}
+
+@INCOLLECTION{Guile2010-mf,
+  title     = "Thinking Differently about the Two Worlds View of Knowledge",
+  booktitle = "The Learning Challenge of the Knowledge Economy",
+  author    = "Guile, David",
+  abstract  = "``Thinking Differently about the Two Worlds View of Knowledge''
+               published on 01 Jan 2010 by Brill.",
+  publisher = "Brill",
+  pages     = "77--99",
+  month     =  jan,
+  year      =  2010,
+  url       = "https://brill.com/display/book/9789460912597/BP000007.xml",
+  keywords  = "Higher Education; Education; Professional Development; Adult
+               Education;Cross Ref Chapter;UCL;VET;Workplace Learning;LCKE
+               Chapters",
+  language  = "en",
+  isbn      = "9789460912597",
+  doi       = "10.1163/9789460912597\_007"
+}
+
+@INCOLLECTION{Guile2010-be,
+  title     = "The Knowledge Economy and the Challenge for Education",
+  booktitle = "The Learning Challenge of the Knowledge Economy",
+  author    = "Guile, David",
+  abstract  = "``The Knowledge Economy and the Challenge for Education''
+               published on 01 Jan 2010 by Brill.",
+  publisher = "Brill",
+  pages     = "1--8",
+  month     =  jan,
+  year      =  2010,
+  url       = "https://brill.com/display/book/9789460912597/BP000002.xml",
+  keywords  = "Higher Education; Education; Professional Development; Adult
+               Education;Cross Ref Chapter;UCL;VET;Workplace Learning;LCKE
+               Chapters",
+  language  = "en",
+  isbn      = "9789460912597",
+  doi       = "10.1163/9789460912597\_002"
+}
+
+@INCOLLECTION{Guile2010-zp,
+  title     = "Bibliography",
+  booktitle = "The Learning Challenge of the Knowledge Economy",
+  author    = "Guile, David",
+  abstract  = "``Bibliography'' published on 01 Jan 2010 by Brill.",
+  publisher = "Brill",
+  pages     = "187--199",
+  month     =  jan,
+  year      =  2010,
+  url       = "https://brill.com/display/book/9789460912597/BP000013.xml",
+  keywords  = "Higher Education; Education; Professional Development; Adult
+               Education;Cross Ref Chapter;UCL;VET;Workplace Learning;LCKE
+               Chapters",
+  language  = "en",
+  isbn      = "9789460912597",
+  doi       = "10.1163/9789460912597\_013"
+}
+
+@INCOLLECTION{Guile2010-cq,
+  title     = "Scientific Knowledge and the Economy",
+  booktitle = "The Learning Challenge of the Knowledge Economy",
+  author    = "Guile, David",
+  abstract  = "``Scientific Knowledge and the Economy'' published on 01 Jan
+               2010 by Brill.",
+  publisher = "Brill",
+  pages     = "9--21",
+  month     =  jan,
+  year      =  2010,
+  url       = "https://brill.com/display/book/9789460912597/BP000003.xml",
+  keywords  = "Higher Education; Education; Professional Development; Adult
+               Education;Cross Ref Chapter;UCL;VET;Workplace Learning;LCKE
+               Chapters",
+  language  = "en",
+  isbn      = "9789460912597",
+  doi       = "10.1163/9789460912597\_003"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Dede2023-ot,
@@ -14606,147 +14795,6 @@
   doi         = "10.1257/aer.103.5.1553"
 }
 
-@INCOLLECTION{Guile2010-om,
-  title     = "Tacit Knowledge and the Economy",
-  booktitle = "The Learning Challenge of the Knowledge Economy",
-  author    = "Guile, David",
-  abstract  = "``Tacit Knowledge and the Economy'' published on 01 Jan 2010 by
-               Brill.",
-  publisher = "Brill",
-  pages     = "23--37",
-  month     =  jan,
-  year      =  2010,
-  url       = "https://brill.com/display/book/9789460912597/BP000004.xml",
-  keywords  = "Higher Education; Education; Professional Development; Adult
-               Education;Cross Ref Chapter;LCKE Chapters",
-  language  = "en",
-  isbn      = "9789460912597",
-  doi       = "10.1163/9789460912597\_004"
-}
-
-@INCOLLECTION{Guile2010-cq,
-  title     = "Scientific Knowledge and the Economy",
-  booktitle = "The Learning Challenge of the Knowledge Economy",
-  author    = "Guile, David",
-  abstract  = "``Scientific Knowledge and the Economy'' published on 01 Jan
-               2010 by Brill.",
-  publisher = "Brill",
-  pages     = "9--21",
-  month     =  jan,
-  year      =  2010,
-  url       = "https://brill.com/display/book/9789460912597/BP000003.xml",
-  keywords  = "Higher Education; Education; Professional Development; Adult
-               Education;Cross Ref Chapter;LCKE Chapters",
-  language  = "en",
-  isbn      = "9789460912597",
-  doi       = "10.1163/9789460912597\_003"
-}
-
-@INCOLLECTION{Guile2010-mf,
-  title     = "Thinking Differently about the Two Worlds View of Knowledge",
-  booktitle = "The Learning Challenge of the Knowledge Economy",
-  author    = "Guile, David",
-  abstract  = "``Thinking Differently about the Two Worlds View of Knowledge''
-               published on 01 Jan 2010 by Brill.",
-  publisher = "Brill",
-  pages     = "77--99",
-  month     =  jan,
-  year      =  2010,
-  url       = "https://brill.com/display/book/9789460912597/BP000007.xml",
-  keywords  = "Higher Education; Education; Professional Development; Adult
-               Education;Cross Ref Chapter;LCKE Chapters",
-  language  = "en",
-  isbn      = "9789460912597",
-  doi       = "10.1163/9789460912597\_007"
-}
-
-@INCOLLECTION{Guile2010-oq,
-  title     = "Afterword",
-  booktitle = "The Learning Challenge of the Knowledge Economy",
-  author    = "Guile, David",
-  abstract  = "``Afterword'' published on 01 Jan 2010 by Brill.",
-  publisher = "Brill",
-  pages     = "183--185",
-  month     =  jan,
-  year      =  2010,
-  url       = "https://brill.com/display/book/9789460912597/BP000012.xml",
-  keywords  = "Higher Education; Education; Professional Development; Adult
-               Education;Cross Ref Chapter;LCKE Chapters",
-  language  = "en",
-  isbn      = "9789460912597",
-  doi       = "10.1163/9789460912597\_012"
-}
-
-@INCOLLECTION{Guile2010-be,
-  title     = "The Knowledge Economy and the Challenge for Education",
-  booktitle = "The Learning Challenge of the Knowledge Economy",
-  author    = "Guile, David",
-  abstract  = "``The Knowledge Economy and the Challenge for Education''
-               published on 01 Jan 2010 by Brill.",
-  publisher = "Brill",
-  pages     = "1--8",
-  month     =  jan,
-  year      =  2010,
-  url       = "https://brill.com/display/book/9789460912597/BP000002.xml",
-  keywords  = "Higher Education; Education; Professional Development; Adult
-               Education;Cross Ref Chapter;LCKE Chapters",
-  language  = "en",
-  isbn      = "9789460912597",
-  doi       = "10.1163/9789460912597\_002"
-}
-
-@INCOLLECTION{Guile2010-gs,
-  title     = "Preliminary Material",
-  booktitle = "The Learning Challenge of the Knowledge Economy",
-  author    = "Guile, David",
-  abstract  = "``Preliminary Material'' published on 01 Jan 2010 by Brill.",
-  publisher = "Brill",
-  pages     = "i--xii",
-  month     =  jan,
-  year      =  2010,
-  url       = "https://brill.com/display/book/9789460912597/BP000001.xml",
-  keywords  = "Higher Education; Education; Professional Development; Adult
-               Education;Cross Ref Chapter;LCKE Chapters",
-  language  = "en",
-  isbn      = "9789460912597",
-  doi       = "10.1163/9789460912597\_001"
-}
-
-@INCOLLECTION{Guile2010-zp,
-  title     = "Bibliography",
-  booktitle = "The Learning Challenge of the Knowledge Economy",
-  author    = "Guile, David",
-  abstract  = "``Bibliography'' published on 01 Jan 2010 by Brill.",
-  publisher = "Brill",
-  pages     = "187--199",
-  month     =  jan,
-  year      =  2010,
-  url       = "https://brill.com/display/book/9789460912597/BP000013.xml",
-  keywords  = "Higher Education; Education; Professional Development; Adult
-               Education;Cross Ref Chapter;LCKE Chapters",
-  language  = "en",
-  isbn      = "9789460912597",
-  doi       = "10.1163/9789460912597\_013"
-}
-
-@INCOLLECTION{Guile2010-uc,
-  title     = "Higher Education and the Two Worlds of Knowledge",
-  booktitle = "The Learning Challenge of the Knowledge Economy",
-  author    = "Guile, David",
-  abstract  = "``Higher Education and the Two Worlds of Knowledge'' published
-               on 01 Jan 2010 by Brill.",
-  publisher = "Brill",
-  pages     = "61--76",
-  month     =  jan,
-  year      =  2010,
-  url       = "https://brill.com/display/book/9789460912597/BP000006.xml",
-  keywords  = "Higher Education; Education; Professional Development; Adult
-               Education;Cross Ref Chapter;LCKE Chapters",
-  language  = "en",
-  isbn      = "9789460912597",
-  doi       = "10.1163/9789460912597\_006"
-}
-
 @INCOLLECTION{Guile2010-iq,
   title     = "The New Learning Challenge of the Knowledge Economy",
   booktitle = "The Learning Challenge of the Knowledge Economy",
@@ -14759,46 +14807,11 @@
   year      =  2010,
   url       = "https://brill.com/display/book/9789460912597/BP000011.xml",
   keywords  = "Higher Education; Education; Professional Development; Adult
-               Education;Cross Ref Chapter;LCKE Chapters",
+               Education;Cross Ref Chapter;UCL;VET;Workplace Learning;LCKE
+               Chapters",
   language  = "en",
   isbn      = "9789460912597",
   doi       = "10.1163/9789460912597\_011"
-}
-
-@INCOLLECTION{Guile2010-yp,
-  title     = "Problems Around the Role of Knowledge in the Economy",
-  booktitle = "The Learning Challenge of the Knowledge Economy",
-  author    = "Guile, David",
-  abstract  = "``Problems Around the Role of Knowledge in the Economy''
-               published on 01 Jan 2010 by Brill.",
-  publisher = "Brill",
-  pages     = "39--60",
-  month     =  jan,
-  year      =  2010,
-  url       = "https://brill.com/display/book/9789460912597/BP000005.xml",
-  keywords  = "Higher Education; Education; Professional Development; Adult
-               Education;Cross Ref Chapter;LCKE Chapters",
-  language  = "en",
-  isbn      = "9789460912597",
-  doi       = "10.1163/9789460912597\_005"
-}
-
-@INCOLLECTION{Guile2010-oc,
-  title     = "Developing the Mediated Basis of Learning",
-  booktitle = "The Learning Challenge of the Knowledge Economy",
-  author    = "Guile, David",
-  abstract  = "``Developing the Mediated Basis of Learning'' published on 01
-               Jan 2010 by Brill.",
-  publisher = "Brill",
-  pages     = "101--127",
-  month     =  jan,
-  year      =  2010,
-  url       = "https://brill.com/display/book/9789460912597/BP000008.xml",
-  keywords  = "Higher Education; Education; Professional Development; Adult
-               Education;Cross Ref Chapter;LCKE Chapters",
-  language  = "en",
-  isbn      = "9789460912597",
-  doi       = "10.1163/9789460912597\_008"
 }
 
 @ARTICLE{Coskun2010-td,
