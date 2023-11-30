@@ -3869,7 +3869,7 @@
   year      =  2010,
   url       = "https://brill.com/display/book/9789460912597/BP000010.xml",
   keywords  = "Higher Education; Education; Professional Development; Adult
-               Education",
+               Education;LCKE Chapters",
   language  = "en",
   isbn      = "9789460912597",
   doi       = "10.1163/9789460912597\_010"
@@ -3888,27 +3888,10 @@
   year      =  2010,
   url       = "https://brill.com/display/book/9789460912597/BP000009.xml",
   keywords  = "Higher Education; Education; Professional Development; Adult
-               Education",
+               Education;LCKE Chapters",
   language  = "en",
   isbn      = "9789460912597",
   doi       = "10.1163/9789460912597\_009"
-}
-
-@INCOLLECTION{Guile2010-zp,
-  title     = "Bibliography",
-  booktitle = "The Learning Challenge of the Knowledge Economy",
-  author    = "Guile, David",
-  abstract  = "``Bibliography'' published on 01 Jan 2010 by Brill.",
-  publisher = "Brill",
-  pages     = "187--199",
-  month     =  jan,
-  year      =  2010,
-  url       = "https://brill.com/display/book/9789460912597/BP000013.xml",
-  keywords  = "Higher Education; Education; Professional Development; Adult
-               Education",
-  language  = "en",
-  isbn      = "9789460912597",
-  doi       = "10.1163/9789460912597\_013"
 }
 
 @BOOK{Burns1997-gn,
@@ -14635,7 +14618,7 @@
   year      =  2010,
   url       = "https://brill.com/display/book/9789460912597/BP000004.xml",
   keywords  = "Higher Education; Education; Professional Development; Adult
-               Education",
+               Education;LCKE Chapters",
   language  = "en",
   isbn      = "9789460912597",
   doi       = "10.1163/9789460912597\_004"
@@ -14653,7 +14636,7 @@
   year      =  2010,
   url       = "https://brill.com/display/book/9789460912597/BP000003.xml",
   keywords  = "Higher Education; Education; Professional Development; Adult
-               Education",
+               Education;LCKE Chapters",
   language  = "en",
   isbn      = "9789460912597",
   doi       = "10.1163/9789460912597\_003"
@@ -14671,7 +14654,7 @@
   year      =  2010,
   url       = "https://brill.com/display/book/9789460912597/BP000007.xml",
   keywords  = "Higher Education; Education; Professional Development; Adult
-               Education",
+               Education;LCKE Chapters",
   language  = "en",
   isbn      = "9789460912597",
   doi       = "10.1163/9789460912597\_007"
@@ -14688,7 +14671,7 @@
   year      =  2010,
   url       = "https://brill.com/display/book/9789460912597/BP000012.xml",
   keywords  = "Higher Education; Education; Professional Development; Adult
-               Education",
+               Education;LCKE Chapters",
   language  = "en",
   isbn      = "9789460912597",
   doi       = "10.1163/9789460912597\_012"
@@ -14706,7 +14689,7 @@
   year      =  2010,
   url       = "https://brill.com/display/book/9789460912597/BP000002.xml",
   keywords  = "Higher Education; Education; Professional Development; Adult
-               Education",
+               Education;LCKE Chapters",
   language  = "en",
   isbn      = "9789460912597",
   doi       = "10.1163/9789460912597\_002"
@@ -14723,10 +14706,27 @@
   year      =  2010,
   url       = "https://brill.com/display/book/9789460912597/BP000001.xml",
   keywords  = "Higher Education; Education; Professional Development; Adult
-               Education",
+               Education;LCKE Chapters",
   language  = "en",
   isbn      = "9789460912597",
   doi       = "10.1163/9789460912597\_001"
+}
+
+@INCOLLECTION{Guile2010-zp,
+  title     = "Bibliography",
+  booktitle = "The Learning Challenge of the Knowledge Economy",
+  author    = "Guile, David",
+  abstract  = "``Bibliography'' published on 01 Jan 2010 by Brill.",
+  publisher = "Brill",
+  pages     = "187--199",
+  month     =  jan,
+  year      =  2010,
+  url       = "https://brill.com/display/book/9789460912597/BP000013.xml",
+  keywords  = "Higher Education; Education; Professional Development; Adult
+               Education;LCKE Chapters",
+  language  = "en",
+  isbn      = "9789460912597",
+  doi       = "10.1163/9789460912597\_013"
 }
 
 @INCOLLECTION{Guile2010-uc,
@@ -14741,7 +14741,7 @@
   year      =  2010,
   url       = "https://brill.com/display/book/9789460912597/BP000006.xml",
   keywords  = "Higher Education; Education; Professional Development; Adult
-               Education",
+               Education;LCKE Chapters",
   language  = "en",
   isbn      = "9789460912597",
   doi       = "10.1163/9789460912597\_006"
@@ -14759,7 +14759,7 @@
   year      =  2010,
   url       = "https://brill.com/display/book/9789460912597/BP000011.xml",
   keywords  = "Higher Education; Education; Professional Development; Adult
-               Education",
+               Education;LCKE Chapters",
   language  = "en",
   isbn      = "9789460912597",
   doi       = "10.1163/9789460912597\_011"
@@ -14777,7 +14777,7 @@
   year      =  2010,
   url       = "https://brill.com/display/book/9789460912597/BP000005.xml",
   keywords  = "Higher Education; Education; Professional Development; Adult
-               Education",
+               Education;LCKE Chapters",
   language  = "en",
   isbn      = "9789460912597",
   doi       = "10.1163/9789460912597\_005"
@@ -14795,7 +14795,7 @@
   year      =  2010,
   url       = "https://brill.com/display/book/9789460912597/BP000008.xml",
   keywords  = "Higher Education; Education; Professional Development; Adult
-               Education",
+               Education;LCKE Chapters",
   language  = "en",
   isbn      = "9789460912597",
   doi       = "10.1163/9789460912597\_008"
