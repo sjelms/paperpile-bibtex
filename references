@@ -29949,32 +29949,47 @@
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Eloundou2023-fz,
-  title     = "{GPTs} are {GPTs}: An early look at the labor market impact
-               potential of large language models",
-  author    = "Eloundou, Tyna and Manning, Sam and Mishkin, Pamela and Rock,
-               Daniel",
-  abstract  = "We investigate the potential implications of Generative
-               Pre-trained Transformer (GPT) models and related technologies on
-               the U.S. labor market. Using a new rubric, we assess occupations
-               based on their correspondence with GPT capabilities,
-               incorporating both human expertise and classifications from
-               GPT-4. Our findings indicate that approximately 80\% of the U.S.
-               workforce could have at least 10\% of their work tasks affected
-               by the introduction of GPTs, while around 19\% of workers may
-               see at least 50\% of their tasks impacted. The influence spans
-               all wage levels, with higher-income jobs potentially facing
-               greater exposure. Notably, the impact is not limited to
-               industries with higher recent productivity growth. We conclude
-               that Generative Pre-trained Transformers exhibit characteristics
-               of general-purpose technologies (GPTs), suggesting that as these
-               models could have notable economic, social, and policy
-               implications.",
-  publisher = "arXiv",
-  year      =  2023,
-  url       = "http://dx.doi.org/10.48550/ARXIV.2303.10130",
-  keywords  = "Artificial Intelligence (AI);Employment;Labor;§New
-               Literature;+Readwise;+Notion;Journal Articles",
-  doi       = "10.48550/ARXIV.2303.10130"
+  title         = "{GPTs} are {GPTs}: An Early Look at the Labor Market Impact
+                   Potential of Large Language Models",
+  author        = "Eloundou, Tyna and Manning, Sam and Mishkin, Pamela and
+                   Rock, Daniel",
+  abstract      = "We investigate the potential implications of large language
+                   models (LLMs), such as Generative Pre-trained Transformers
+                   (GPTs), on the U.S. labor market, focusing on the increased
+                   capabilities arising from LLM-powered software compared to
+                   LLMs on their own. Using a new rubric, we assess occupations
+                   based on their alignment with LLM capabilities, integrating
+                   both human expertise and GPT-4 classifications. Our findings
+                   reveal that around 80\% of the U.S. workforce could have at
+                   least 10\% of their work tasks affected by the introduction
+                   of LLMs, while approximately 19\% of workers may see at
+                   least 50\% of their tasks impacted. We do not make
+                   predictions about the development or adoption timeline of
+                   such LLMs. The projected effects span all wage levels, with
+                   higher-income jobs potentially facing greater exposure to
+                   LLM capabilities and LLM-powered software. Significantly,
+                   these impacts are not restricted to industries with higher
+                   recent productivity growth. Our analysis suggests that, with
+                   access to an LLM, about 15\% of all worker tasks in the US
+                   could be completed significantly faster at the same level of
+                   quality. When incorporating software and tooling built on
+                   top of LLMs, this share increases to between 47 and 56\% of
+                   all tasks. This finding implies that LLM-powered software
+                   will have a substantial effect on scaling the economic
+                   impacts of the underlying models. We conclude that LLMs such
+                   as GPTs exhibit traits of general-purpose technologies,
+                   indicating that they could have considerable economic,
+                   social, and policy implications.",
+  month         =  mar,
+  year          =  2023,
+  url           = "http://arxiv.org/abs/2303.10130",
+  keywords      = "Artificial Intelligence (AI);Employment;Labor;§New
+                   Literature;+Readwise;+Notion;Journal Articles",
+  archivePrefix = "arXiv",
+  eprint        = "2303.10130",
+  primaryClass  = "econ.GN",
+  arxivid       = "2303.10130",
+  doi           = "10.48550/ARXIV.2303.10130"
 }
 
 @ARTICLE{Coelho2021-oq,
