@@ -8411,21 +8411,6 @@
   doi       = "10.1109/TVCG.2015.2391853"
 }
 
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@ARTICLE{Southgate2018-ea,
-  title     = "What teachers should know about highly immersive virtual
-               reality: insights from the {VR} School Study",
-  author    = "Southgate, Erica and Buchanan, Rachel and Cividino, Chris and
-               Saxby, Shane and Eather, Graham and Smith, Shamus P and Bergin,
-               Candece and Kilham, Jivvel and Summerville, David and Scevak,
-               Jill",
-  publisher = "NSW Department of Education",
-  year      =  2018,
-  url       = "https://nova.newcastle.edu.au/vital/access/manager/Repository/uon:32249",
-  keywords  = "§New Literature;\_XR/MR;+Readwise;+Notion;Journal Articles"
-}
-
 @BOOK{Wallance2021-so,
   title       = "The Future of Modular Architecture",
   author      = "Wallance, David",
@@ -23378,6 +23363,22 @@
   location   = "Tempe, Arizona",
   isbn       = "9780784482889",
   doi        = "10.1061/9780784482889.003"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Southgate2018-ea,
+  title     = "What teachers should know about highly immersive virtual
+               reality: insights from the {VR} School Study",
+  author    = "Southgate, Erica and Buchanan, Rachel and Cividino, Chris and
+               Saxby, Shane and Eather, Graham and Smith, Shamus P and Bergin,
+               Candece and Kilham, Jivvel and Summerville, David and Scevak,
+               Jill",
+  journal   = "Scan",
+  publisher = "NSW Department of Education",
+  year      =  2018,
+  url       = "https://nova.newcastle.edu.au/vital/access/manager/Repository/uon:32249",
+  keywords  = "§New Literature;\_XR/MR;+Readwise;+Notion;Journal Articles"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
