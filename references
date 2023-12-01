@@ -2437,6 +2437,43 @@
                  2023;+3.0\_Upgrade OCT 2023"
 }
 
+@ARTICLE{Hodgson2016-ux,
+  title     = "Restrictive and expansive policy learning -- challenges and
+               strategies for knowledge exchange in upper secondary education
+               across the four countries of the {UK}",
+  author    = "Hodgson, Ann and Spours, Ken",
+  abstract  = "This article examines the challenges and possibilities for UK
+               policy learning in relation to upper secondary education (USE)
+               across England, Scotland, Wales and Northern Ireland (NI) within
+               current national and global policy contexts. Drawing on a range
+               of international literature, the article explores the concepts
+               of ?restrictive? and ?expansive? policy learning and develops a
+               framework of dimensions for examining what is taking place
+               across the UK at a time of change for all four national USE
+               systems. From an examination of recent national policy
+               literatures and interviews with key policy actors within the ?UK
+               laboratory?, we found that the conditions for expansive policy
+               learning had markedly deteriorated due to ?accelerating
+               divergence? between the three smaller countries and a dominant
+               England that has been pursuing an ?extreme Anglo Saxon education
+               model?. The article also notes that some aspects of policy
+               learning continue to take place ?beneath the radar? between UK
+               and wide civil society organisations. This activity is more
+               prevalent across the three smaller countries although each, to
+               differing degrees, is still constrained by its position in
+               relation to the UK as a whole.",
+  journal   = "Journal of Education Policy",
+  publisher = "Routledge",
+  volume    =  31,
+  number    =  5,
+  pages     = "511--525",
+  month     =  sep,
+  year      =  2016,
+  url       = "https://doi.org/10.1080/02680939.2015.1132012",
+  issn      = "0268-0939",
+  doi       = "10.1080/02680939.2015.1132012"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @TECHREPORT{Cameron2020-wn,
