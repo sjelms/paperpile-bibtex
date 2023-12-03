@@ -317,6 +317,61 @@
   doi         = "10.14236/ewic/hci2012.10"
 }
 
+@BOOK{Bichler-Ripfel2020-ty,
+  title     = "Building Future Competences: Challenges and Opportunities for
+               Skilled Crafts and Trades in the Knowledge Economy. Volume 2",
+  editor    = "Bichler-Ripfel, Heidrun and Kragulj, Florian",
+  abstract  = "As robots, automation and artificial intelligence systems
+               perform more tasks and lead to a massive disruption of jobs,
+               what role will skilled crafts and trades play in a shifting
+               knowledge economy? As of 2020, more than 35\% of all Austrian
+               businesses engage in this economic sector and represent 22,5\%
+               of the national workforce. As a result, it seems necessary to
+               investigate how technological and social advances, that we
+               already face, will affect the economic sector, and how its
+               businesses will shape the future economy. Following this
+               intention, last year's International Conference on Theory and
+               Applications in the Knowledge Eco- nomy (TAKE) targeted pressing
+               questions that are relevant for both academics and
+               practitioners. The conference was hosted by the Institute for
+               Applied Research on Skilled Crafts and Trades in academic
+               partnership with our division at the WU Vienna University of
+               Economic and Business. It was not only the largest TAKE
+               conference in terms of submissions and participants, but it also
+               clearly delivered on its mission to investigate the knowledge
+               economy, both from a scientific as well as practitioners'
+               perspective. The exceptional collaboration of strong partners
+               from academia and business allowed for bringing together a
+               Viennese m{\'e}lange of the international scientific community
+               engaging in knowledge-based management and related fields of
+               research as well as entre- preneurs and industry partners that
+               are represented by Austria's largest trade association. This
+               two-volume collection of articles is a result of our effort to
+               straightly disseminate research findings to a broad audience of
+               practitioners and policy makers alike. Tackling relevant
+               questions of today's and tomorrow's knowledge economy, we
+               compiled selected conference articles of distinguished scholars.
+               While consistently adopting a knowledge and learning
+               perspective, their works cover on a variety of topics, such as
+               microeconomic issues, new ways of professional training,
+               development of soft skills, competition on highly dynamic
+               markets, the effects of organizational culture on knowledge,
+               leadership, the impact of the digital transformation, trends in
+               the green economy, innovation in strategic collaborations,
+               recent trends on the labour market, or knowledge management
+               practices. We hope that you will not only find these articles
+               interesting to read, but that they have a lasting effect on the
+               practice of enterprises engaged in skilled crafts and trades.",
+  publisher = "IAGF - Institute for Applied Research on Skilled Crafts and
+               Trades",
+  volume    =  2,
+  year      =  2020,
+  url       = "https://www.take-conference2019.com/bookfuturecompetences/",
+  address   = "Vienna, Austria",
+  language  = "en",
+  isbn      = "9783708920146"
+}
+
 @BOOK{Bichler-Ripfel2020-zx,
   title     = "Building Future Competences: Challenges and Opportunities for
                Skilled Crafts and Trades in the Knowledge Economy. Volume 2",
