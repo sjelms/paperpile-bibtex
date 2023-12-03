@@ -3858,13 +3858,6 @@
   doi      = "10.1016/j.ijotn.2010.05.001"
 }
 
-@ARTICLE{Lucas_undated-na,
-  title   = "The Utility Of Case Study As A Methodology For {Work-Integrated}
-             Learning Research",
-  author  = "Lucas, Patricia and Fleming, Jenny and Bhosale, Julie",
-  journal = "International Journal of Work-Integrated Learning"
-}
-
 @BOOK{Burns1997-gn,
   title     = "Introduction to Research Methods",
   author    = "Burns, R B",
@@ -14027,7 +14020,9 @@
   number   =  3,
   pages    = "205--213",
   year     =  2018,
-  url      = "https://eric.ed.gov/?id=EJ1196755"
+  url      = "https://eric.ed.gov/?id=EJ1196755",
+  keywords = "+Notion;+Readwise;Fieldwork Methodology;PhD Support and
+              Training;Research Methods"
 }
 
 @ARTICLE{Finkelstein1982-sv,
@@ -15003,6 +14998,15 @@
   language    = "en",
   issn        = "0002-8282, 1944-7981",
   doi         = "10.1257/aer.103.5.1553"
+}
+
+@ARTICLE{Lucas_undated-na,
+  title    = "The Utility Of Case Study As A Methodology For {Work-Integrated}
+              Learning Research",
+  author   = "Lucas, Patricia and Fleming, Jenny and Bhosale, Julie",
+  journal  = "International Journal of Work-Integrated Learning",
+  keywords = "+Notion;+Readwise;Fieldwork Methodology;PhD Support and
+              Training;Research Methods"
 }
 
 @INCOLLECTION{Guile2010-iq,
