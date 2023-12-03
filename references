@@ -1720,54 +1720,6 @@
   isbn     = "9780203125083"
 }
 
-@ARTICLE{Taiwo2022-dg,
-  title     = "An Integrated Approach of Simulation and Regression Analysis for
-               Assessing Productivity in Modular Integrated Construction
-               Projects",
-  author    = "Taiwo, Ridwan and Hussein, Mohamed and Zayed, Tarek",
-  abstract  = "Many nations across the globe face the challenge of housing
-               deficit. Modular integrated construction (MiC), which has the
-               highest level of prefabrication among off-site construction
-               manufacturing (OSM), has been adopted as a fast and reliable
-               construction method to address the housing deficit. Previous
-               studies have assessed the productivity of the prefabrication
-               stage of MiC, while investigations into the productivity of the
-               MiC installation process with the consideration of pragmatic
-               factors, especially for high-rise buildings, are lacking in the
-               literature. Therefore, this study contributes by (1) developing
-               a discrete-event simulation (DES) model to assess the
-               productivity of MiC installation while considering pragmatic
-               factors (e.g., weather conditions, topography, work dimension,
-               etc.) and management conditions (e.g., workers' motivation,
-               training, equipment maintenance, etc.); (2) developing a
-               mathematical model to understand the relationship between
-               productivity and various resources utilized in MiC installation.
-               After verifying and validating the DES model, it was applied to
-               a case study in Hong Kong. A sensitivity analysis using a full
-               factorial experiment design was conducted to identify the
-               parameters (e.g., number of trucks, tower cranes, different
-               crews) that significantly affect a number of performance
-               measures, such as the project duration, productivity, and total
-               costs. Furthermore, the mathematical model shows high prediction
-               accuracy, as the mean absolute percentage error is 8.93\%. This
-               study would help construction practitioners in their
-               decision-making process, while planning a project by providing
-               them with a model that can predict the productivity of the MiC
-               installation process before and during the project
-               implementation.",
-  journal   = "Buildings",
-  publisher = "Multidisciplinary Digital Publishing Institute",
-  volume    =  12,
-  number    =  11,
-  pages     = "2018",
-  month     =  nov,
-  year      =  2022,
-  url       = "https://www.mdpi.com/2075-5309/12/11/2018",
-  language  = "en",
-  issn      = "0007-3725",
-  doi       = "10.3390/buildings12112018"
-}
-
 @BOOK{Smith2017-zx,
   title     = "Offsite Architecture: Constructing the Future",
   editor    = "Smith, Ryan E and Quale, John D",
@@ -3904,6 +3856,17 @@
               guide; The publishing process;PhD Support and Training",
   issn     = "1878-1241",
   doi      = "10.1016/j.ijotn.2010.05.001"
+}
+
+@BOOK{Bichler-Ripfel2020-zx,
+  title     = "Building Future Competences: Challenges and Opportunities for
+               Skilled Crafts and Trades in the Knowledge Economy. Volume 2",
+  author    = "Bichler-Ripfel, Heidrun and Kragulj, Florian",
+  publisher = "facultas",
+  year      =  2020,
+  url       = "https://play.google.com/store/books/details?id=QG7bzgEACAAJ",
+  language  = "en",
+  isbn      = "9783708920146"
 }
 
 @BOOK{Burns1997-gn,
@@ -11541,6 +11504,54 @@
   conference  = "The 26th BCS Conference on Human Computer Interaction",
   issn        = "1477-9358",
   doi         = "10.14236/ewic/hci2012.10"
+}
+
+@ARTICLE{Taiwo2022-dg,
+  title     = "An Integrated Approach of Simulation and Regression Analysis for
+               Assessing Productivity in Modular Integrated Construction
+               Projects",
+  author    = "Taiwo, Ridwan and Hussein, Mohamed and Zayed, Tarek",
+  abstract  = "Many nations across the globe face the challenge of housing
+               deficit. Modular integrated construction (MiC), which has the
+               highest level of prefabrication among off-site construction
+               manufacturing (OSM), has been adopted as a fast and reliable
+               construction method to address the housing deficit. Previous
+               studies have assessed the productivity of the prefabrication
+               stage of MiC, while investigations into the productivity of the
+               MiC installation process with the consideration of pragmatic
+               factors, especially for high-rise buildings, are lacking in the
+               literature. Therefore, this study contributes by (1) developing
+               a discrete-event simulation (DES) model to assess the
+               productivity of MiC installation while considering pragmatic
+               factors (e.g., weather conditions, topography, work dimension,
+               etc.) and management conditions (e.g., workers' motivation,
+               training, equipment maintenance, etc.); (2) developing a
+               mathematical model to understand the relationship between
+               productivity and various resources utilized in MiC installation.
+               After verifying and validating the DES model, it was applied to
+               a case study in Hong Kong. A sensitivity analysis using a full
+               factorial experiment design was conducted to identify the
+               parameters (e.g., number of trucks, tower cranes, different
+               crews) that significantly affect a number of performance
+               measures, such as the project duration, productivity, and total
+               costs. Furthermore, the mathematical model shows high prediction
+               accuracy, as the mean absolute percentage error is 8.93\%. This
+               study would help construction practitioners in their
+               decision-making process, while planning a project by providing
+               them with a model that can predict the productivity of the MiC
+               installation process before and during the project
+               implementation.",
+  journal   = "Buildings",
+  publisher = "Multidisciplinary Digital Publishing Institute",
+  volume    =  12,
+  number    =  11,
+  pages     = "2018",
+  month     =  nov,
+  year      =  2022,
+  url       = "https://www.mdpi.com/2075-5309/12/11/2018",
+  language  = "en",
+  issn      = "0007-3725",
+  doi       = "10.3390/buildings12112018"
 }
 
 @ARTICLE{Golding2017-ol,
