@@ -3858,22 +3858,6 @@
   doi      = "10.1016/j.ijotn.2010.05.001"
 }
 
-@INCOLLECTION{noauthor_2019-jp,
-  title     = "The Handbook of Dewey's Educational Theory and Practice",
-  booktitle = "The Handbook of Dewey's Educational Theory and Practice",
-  abstract  = "``The Handbook of Dewey's Educational Theory and Practice''
-               published on 05 Aug 2019 by Brill.",
-  publisher = "Brill",
-  month     =  aug,
-  year      =  2019,
-  url       = "https://brill.com/edcollbook/title/55376",
-  keywords  = "Educational Philosophy; Education; Teacher Education; Education;
-               Educational Leadership; Education",
-  language  = "en",
-  isbn      = "9789004405325, 9789004405325",
-  doi       = "10.1163/9789004405325"
-}
-
 @BOOK{Burns1997-gn,
   title     = "Introduction to Research Methods",
   author    = "Burns, R B",
@@ -15071,6 +15055,22 @@
   language    = "en",
   issn        = "0002-8282, 1944-7981",
   doi         = "10.1257/aer.103.5.1553"
+}
+
+@BOOK{Lowery2019-jp,
+  title     = "The Handbook of Dewey's Educational Theory and Practice",
+  editor    = "Lowery, Charles L and Jenlink, Patrick M",
+  abstract  = "``The Handbook of Dewey's Educational Theory and Practice''
+               published on 05 Aug 2019 by Brill.",
+  publisher = "Brill",
+  month     =  aug,
+  year      =  2019,
+  url       = "https://brill.com/edcollbook/title/55376",
+  keywords  = "Educational Philosophy; Education; Teacher Education; Education;
+               Educational Leadership; Education",
+  language  = "en",
+  isbn      = "9789004405325, 9789004405325",
+  doi       = "10.1163/9789004405325"
 }
 
 @INCOLLECTION{Guile2010-iq,
