@@ -16632,7 +16632,9 @@
   year      =  2019,
   url       = "https://brill.com/edcollbook/title/55376",
   keywords  = "Educational Philosophy; Education; Teacher Education; Education;
-               Educational Leadership; Education",
+               Educational Leadership;
+               Education;+Notion;+Readwise;Education;Knowledge - Skill
+               Acquisition",
   language  = "en",
   isbn      = "9789004405325, 9789004405325",
   doi       = "10.1163/9789004405325"
