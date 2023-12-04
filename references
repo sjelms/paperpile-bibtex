@@ -2675,6 +2675,21 @@
   pmc         = "PMC9016211"
 }
 
+@ARTICLE{Lederman2015-sl,
+  title     = "What Is A Theoretical Framework? A Practical Answer",
+  author    = "Lederman, Norman G and Lederman, Judith S",
+  journal   = "Journal of science teacher education",
+  publisher = "Routledge",
+  volume    =  26,
+  number    =  7,
+  pages     = "593--597",
+  month     =  dec,
+  year      =  2015,
+  url       = "https://doi.org/10.1007/s10972-015-9443-2",
+  issn      = "1046-560X",
+  doi       = "10.1007/s10972-015-9443-2"
+}
+
 @ARTICLE{Legg2007-tj,
   title    = "Universal Intelligence: A Definition of Machine Intelligence",
   author   = "Legg, Shane and Hutter, Marcus",
