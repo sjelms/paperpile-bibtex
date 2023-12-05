@@ -5606,6 +5606,43 @@
   school   = "University of Strathclyde"
 }
 
+@ARTICLE{Koch2013-hy,
+  title     = "Knowledge sharing in construction partnering projects --
+               redundancy, boundary objects and brokers",
+  author    = "Koch, Christian and Thuesen, Christian",
+  abstract  = "This article adopts practice-based theory for understanding
+               inter-organisational knowledge work and extends it with a
+               discussion of the role of redundancy. In this view, a
+               constellation of firms is a multiple configuration of
+               communities of practices, characterised by overlapping
+               practises, multiple memberships and different levels of
+               participation, and accompanied by a governance frame. The paper
+               discusses central mechanisms for coordinating knowledge in such
+               a complex construction project. The knowledge relations are
+               conceptualised through focusing on redundancy, understood as
+               negotiated common assignment of meaning, brokers (e.g., design
+               managers), boundary objects (e.g., drawings) and arenas (e.g.,
+               meetings). The paper presents an ethnographic case study of a
+               project partnership between engineers, architects and
+               contractors in construction using the partnering concept. The
+               focus is on two dialogue excerpts, one on process, and one on
+               product knowledge exchanges. The diversity and disjunctive
+               feature of the practices form a condition of possibility for
+               knowledge handling and synthesis into the built construct.
+               Relation-based interaction is necessary with boundary objects
+               and brokers, requisite redundancy and governance.",
+  journal   = "International Journal of Project Organisation and Management",
+  publisher = "Inderscience Publishers",
+  volume    =  5,
+  number    = "1-2",
+  pages     = "156--175",
+  month     =  jan,
+  year      =  2013,
+  url       = "https://www.inderscienceonline.com/doi/abs/10.1504/IJPOM.2013.053150",
+  issn      = "1740-2891",
+  doi       = "10.1504/IJPOM.2013.053150"
+}
+
 @BOOK{Goulding2019-wb,
   title    = "Offsite production and manufacturing for innovative Construction:
               People, process and technology",
