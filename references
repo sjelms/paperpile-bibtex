@@ -26372,6 +26372,7 @@
   month     =  jan,
   year      =  2012,
   url       = "https://play.google.com/store/books/details?id=ZfRGAQAAQBAJ",
+  keywords  = "ePub | Kindle",
   language  = "en",
   isbn      = "9781441100214"
 }
@@ -32220,6 +32221,7 @@
   month     =  sep,
   year      =  2018,
   url       = "https://play.google.com/store/books/details?id=t3FuDwAAQBAJ",
+  keywords  = "ePub | Kindle",
   language  = "en",
   isbn      = "9781119527251"
 }
