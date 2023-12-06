@@ -3298,6 +3298,30 @@
   pmc         = "PMC10105152"
 }
 
+@ARTICLE{Takyi_Mensah2023-kn,
+  title    = "Analysing Dewey's vocational aspects of education and Maslow's
+              theory of motivation in support of vocational education and
+              training",
+  author   = "Takyi Mensah, Elijah and Chen, Mingkun and Ntim, Seth Yeboah and
+              Gabrah, Antoinette",
+  abstract = "The aim of this article is to analyse Dewey's writing on
+              vocational aspects of education in his book Democracy and
+              Education: An introduction to the philosophy of education to
+              identify and to relate the main philosophical ideas to Maslow's
+              theory of motivation and to establish the key similarities
+              between the two theories to support contemporary Vocational
+              Education and Training.",
+  journal  = "Discover Education",
+  volume   =  2,
+  number   =  1,
+  pages    = "18",
+  month    =  jun,
+  year     =  2023,
+  url      = "https://doi.org/10.1007/s44217-023-00042-1",
+  issn     = "2731-5525",
+  doi      = "10.1007/s44217-023-00042-1"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{VanLehn1987-hn,
