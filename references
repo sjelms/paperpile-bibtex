@@ -32202,6 +32202,28 @@
   isbn      = "9780674729018"
 }
 
+@BOOK{Addis2018-be,
+  title     = "Education and Expertise",
+  author    = "Addis, Mark and Winch, Christopher",
+  abstract  = "The relevance of expertise to professional education and
+               practice is explored in this collection of original
+               contributions from educationalists, philosophers and
+               psychologists. Discusses the increasingly prominent debates
+               about the nature of know-how in mainstream analytical
+               epistemology Illuminates what is involved in professional
+               expertise and the implications of a sound understanding of
+               professional expertise for professional education practice,
+               curriculum design and assessment All contributions are
+               philosophically grounded and reflect interdisciplinary advances
+               in understanding expertise",
+  publisher = "John Wiley \& Sons",
+  month     =  sep,
+  year      =  2018,
+  url       = "https://play.google.com/store/books/details?id=t3FuDwAAQBAJ",
+  language  = "en",
+  isbn      = "9781119527251"
+}
+
 @TECHREPORT{Meisels2022-rj,
   title       = "2023 Engineering and Construction Industry Outlook",
   author      = "Meisels, Michelle and Wellener, Paul and Hardin, Kate",
