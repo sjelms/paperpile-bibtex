@@ -5632,6 +5632,45 @@
   doi      = "10.1007/s44217-023-00042-1"
 }
 
+@ARTICLE{Van_Rooij2021-qt,
+  title     = "Factors that influence {PhD} candidates' success: the importance
+               of {PhD} project characteristics",
+  author    = "van Rooij, E and Fokkens-Bruinsma, M and Jansen, E",
+  abstract  = "High dropout rates, delay, and dissatisfaction among PhD
+               students are common problems in doctoral education. Research
+               shows that many different factors are associated with doctoral
+               success, but these factors have not often been studied
+               simultaneously. Moreover, characteristics of the PhD project are
+               mostly neglected. In this study, we investigate which
+               supervision, psychosocial, and project characteristics are
+               related to satisfaction, progress, and quit intentions in a
+               sample of 839 PhD candidates at a university in the Netherlands.
+               Results of regression analyses show that experienced workload
+               was negatively related to satisfaction and progress and
+               positively to quit intentions. The quality of the supervisor-PhD
+               candidate relationship, the PhD candidate?s sense of belonging,
+               the amount of freedom in the project, and working on a project
+               closely related to the supervisor?s research were positively
+               related to satisfaction and negatively to quit intentions. The
+               high workload of PhD candidates should be a major point of
+               attention for universities who wish to increase their rates of
+               PhD completion and PhD candidates? satisfaction. In addition,
+               the ?match? between PhD candidate and supervisor is crucial,
+               both personally ? a good relationship ? and academically, i.e.
+               that the PhD candidate works on a topic closely related to the
+               supervisor?s research.",
+  journal   = "Studies in Continuing Education",
+  publisher = "Routledge",
+  volume    =  43,
+  number    =  1,
+  pages     = "48--67",
+  month     =  jan,
+  year      =  2021,
+  url       = "https://doi.org/10.1080/0158037X.2019.1652158",
+  issn      = "0158-037X",
+  doi       = "10.1080/0158037X.2019.1652158"
+}
+
 @BOOK{Goulding2019-wb,
   title    = "Offsite production and manufacturing for innovative Construction:
               People, process and technology",
