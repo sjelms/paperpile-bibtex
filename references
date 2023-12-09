@@ -3563,7 +3563,8 @@
   month     =  jun,
   year      =  2012,
   url       = "https://play.google.com/store/books/details?id=6jIKs4ujwR8C",
-  keywords  = "Research Methods;ePub | Kindle;Knowledge - Skill Acquisition",
+  keywords  = "Research Methods;ePub | Kindle;Knowledge - Skill
+               Acquisition;Theory and Methods",
   language  = "en",
   isbn      = "9789400747746"
 }
@@ -3618,7 +3619,8 @@
   month     =  oct,
   year      =  2019,
   url       = "https://play.google.com/store/books/details?id=E8m1DwAAQBAJ",
-  keywords  = "ePub | Kindle;Knowledge - Skill Acquisition;Research Methods",
+  keywords  = "ePub | Kindle;Knowledge - Skill Acquisition;Research
+               Methods;Theory and Methods",
   language  = "en",
   isbn      = "9783030318390"
 }
