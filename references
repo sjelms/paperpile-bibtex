@@ -3996,6 +3996,36 @@
   isbn      = "9781119527251"
 }
 
+@BOOK{Gallese2019-rw,
+  title     = "The Empathic Screen: Cinema and Neuroscience",
+  author    = "Gallese, Vittorio and Guerra, Michele",
+  abstract  = "Why do people go to the movies? What does it mean to watch a
+               movie? To what extent is the perceived fictional nature of
+               movies different from our daily perception of the real world? We
+               live in a time where the power of images has strongly invaded
+               our everyday life, and we need new instruments and methods to
+               better understand our relationship with the virtual worlds we
+               inhabit every day. Taking cinema as the beginning of our
+               relationship with the world of moving images, and cognitive
+               neuroscience as a paradigm to understand how the images engage
+               us, The Empathic Screen develops a new theory of film
+               experience, exploring our brain-body interaction when engaging
+               with and watching a film. In this book, film theory and
+               neuroscience meet to shed new light on cinema masterpieces, such
+               as The Shining, The Silence of the Lambs, and Toy Story, and
+               explore the great directors from the classical period to the
+               present. Taking a radical new approach to understanding the
+               cinema, the book will be fascinating reading for cognitive
+               scientists, neuroscientists, psychologists, philosophers, and
+               film and media scholars.",
+  publisher = "Oxford University Press",
+  month     =  oct,
+  year      =  2019,
+  url       = "https://play.google.com/store/books/details?id=dZOwDwAAQBAJ",
+  language  = "en",
+  isbn      = "9780198793533"
+}
+
 @BOOK{Burns1997-gn,
   title     = "Introduction to Research Methods",
   author    = "Burns, R B",
