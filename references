@@ -12893,6 +12893,8 @@
   doi       = "10.1080/0046760960250401"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Chan2020-bx,
   title     = "Revisiting basics: theoretically-grounded interesting research
                that addresses challenges that matter",
@@ -12905,6 +12907,7 @@
   month     =  jan,
   year      =  2020,
   url       = "https://doi.org/10.1080/01446193.2019.1702251",
+  keywords  = "+Notion;+Readwise;AEC;§New Literature",
   issn      = "0144-6193",
   doi       = "10.1080/01446193.2019.1702251"
 }
