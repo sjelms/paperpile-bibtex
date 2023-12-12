@@ -10417,6 +10417,8 @@
   doi       = "10.1080/01446193.2013.828846"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Hall2020-iw,
   title     = "Mirror-breaking strategies to enable digital manufacturing in
                Silicon Valley construction firms: a comparative case study",
@@ -10456,7 +10458,7 @@
   month     =  apr,
   year      =  2020,
   url       = "https://doi.org/10.1080/01446193.2019.1656814",
-  keywords  = "AEC;Technological change;+Notion",
+  keywords  = "AEC;Technological change;+Notion;+Readwise;§New Literature",
   issn      = "0144-6193",
   doi       = "10.1080/01446193.2019.1656814"
 }
