@@ -4049,6 +4049,18 @@
   language  = "en"
 }
 
+@TECHREPORT{Goolsbee2023-cp,
+  title     = "The strange and awful path of productivity in the U.s.
+               construction sector",
+  author    = "Goolsbee, Austan and Syverson, Chad",
+  publisher = "National Bureau of Economic Research",
+  month     =  jan,
+  year      =  2023,
+  url       = "http://www.nber.org/papers/w30845.pdf",
+  address   = "Cambridge, MA",
+  doi       = "10.3386/w30845"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Waly2003-dy,
