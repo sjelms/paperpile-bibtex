@@ -4049,6 +4049,43 @@
   language  = "en"
 }
 
+@ARTICLE{Astaneh_Asl2023-rs,
+  title     = "Effects of Virtual Reality on Complex Building System Recall",
+  author    = "Astaneh Asl, Bita and Rummerfield, Wendy Nora and Dossick,
+               Carrie Sturts",
+  abstract  = "Multidisciplinary design and construction teams are challenged
+               to communicate and coordinate across complex building systems,
+               including architectural, structural, mechanical, electrical, and
+               piping (MEP). To support this coordination, disciplinary 3D
+               models are combined and coordinated before installation. Studies
+               show that besides the use of 3D models, industry professionals
+               sketch building components to discuss coordination issues and
+               find resolutions that require them to recall the building
+               components in the model. In current practices, 3D models are
+               explored with Building Information Modeling (BIM) tools
+               presented on 2D screens, while Virtual Reality (VR) can provide
+               users with an immersive environment to explore. This paper
+               presents the results of an experiment that studied the effects
+               of VR's immersive environment on the participants' complex MEP
+               system recall compared to BIM via sketching. The comparison
+               criteria were the 3D geometry properties of the piping system
+               and the users' self-awareness in the model categorized under
+               color, shape, dimension, piping, and viewpoint. The results
+               showed significant improvement in recall of shape, dimension,
+               and piping when the model was explored in VR.",
+  journal   = "Virtual Worlds",
+  publisher = "Multidisciplinary Digital Publishing Institute",
+  volume    =  2,
+  number    =  3,
+  pages     = "203--217",
+  month     =  jun,
+  year      =  2023,
+  url       = "https://www.mdpi.com/2813-2084/2/3/12",
+  language  = "en",
+  issn      = "2813-2084, 2813-2084",
+  doi       = "10.3390/virtualworlds2030012"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Waly2003-dy,
