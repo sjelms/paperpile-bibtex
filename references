@@ -4049,23 +4049,6 @@
   language  = "en"
 }
 
-@ARTICLE{Gheisari2023-dv,
-  title    = "Emerging learning technologies for future of work and education
-              in engineering",
-  author   = "Gheisari, Masoud and Becerik-Gerber, Bur{\c c}in and Dossick,
-              Carrie Sturts",
-  journal  = "Advanced Engineering Informatics",
-  volume   =  56,
-  pages    = "101775",
-  month    =  apr,
-  year     =  2023,
-  url      = "https://www.sciencedirect.com/science/article/pii/S1474034622002336",
-  keywords = "Leaning technologies; Future of work; Future of education;
-              Engineering education",
-  issn     = "1474-0346",
-  doi      = "10.1016/j.aei.2022.101775"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Waly2003-dy,
@@ -15710,6 +15693,23 @@
   language  = "en",
   issn      = "2813-2084, 2813-2084",
   doi       = "10.3390/virtualworlds2030012"
+}
+
+@ARTICLE{Gheisari2023-dv,
+  title    = "Emerging Learning Technologies for Future of Work and Education
+              in Engineering",
+  author   = "Gheisari, Masoud and Becerik-Gerber, Bur{\c c}in and Dossick,
+              Carrie Sturts",
+  journal  = "Advanced Engineering Informatics",
+  volume   =  56,
+  pages    = "101775",
+  month    =  apr,
+  year     =  2023,
+  url      = "https://www.sciencedirect.com/science/article/pii/S1474034622002336",
+  keywords = "Leaning technologies; Future of work; Future of education;
+              Engineering education",
+  issn     = "1474-0346",
+  doi      = "10.1016/j.aei.2022.101775"
 }
 
 @INPROCEEDINGS{Janis2018-ek,
