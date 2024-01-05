@@ -6825,6 +6825,8 @@
   language  = "en"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @TECHREPORT{Goolsbee2023-cp,
   title       = "The Strange and Awful Path of Productivity in the {U.S}.
                  Construction Sector",
@@ -6857,6 +6859,7 @@
   year        =  2023,
   url         = "https://dx.doi.org/10.2139/ssrn.4328672",
   address     = "Cambridge, MA",
+  keywords    = "+Notion;+Readwise;AEC;Economics;§New Literature",
   doi         = "10.3386/w30845"
 }
 
