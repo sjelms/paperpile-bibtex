@@ -15635,6 +15635,8 @@
   doi         = "10.3386/w30845"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Brynjolfsson2021-sf,
   title    = "The Productivity {J-Curve}: How Intangibles Complement General
               Purpose Technologies",
@@ -15651,7 +15653,7 @@
   month    =  jan,
   year     =  2021,
   url      = "https://pubs.aeaweb.org/doi/10.1257/mac.20180386",
-  keywords = "Economics;Technological change",
+  keywords = "Economics;Technological change;+Notion;+Readwise;§New Literature",
   issn     = "1945-7707",
   doi      = "10.1257/mac.20180386"
 }
