@@ -35234,8 +35234,8 @@
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @TECHREPORT{Brynjolfsson2023-wk,
-  title     = "The characteristics and geographic distribution of robot hubs in
-               U.s. manufacturing establishments",
+  title     = "The Characteristics and Geographic Distribution of Robot Hubs in
+               {U.S}. Manufacturing Establishments",
   author    = "Brynjolfsson, Erik and Buffington, Cathy and Goldschlag, Nathan
                and Li, J Frank and Miranda, Javier and Seamans, Robert",
   publisher = "National Bureau of Economic Research",
