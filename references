@@ -15658,6 +15658,8 @@
   doi      = "10.1257/mac.20180386"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Astaneh_Asl2023-rs,
   title     = "Effects of Virtual Reality on Complex Building System Recall",
   author    = "Astaneh Asl, Bita and Rummerfield, Wendy Nora and Dossick,
@@ -15690,11 +15692,14 @@
   month     =  jun,
   year      =  2023,
   url       = "https://www.mdpi.com/2813-2084/2/3/12",
+  keywords  = "\_XR/MR;+Readwise;+Notion;§New Literature;AEC",
   language  = "en",
   issn      = "2813-2084, 2813-2084",
   doi       = "10.3390/virtualworlds2030012"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Gheisari2023-dv,
   title    = "Emerging Learning Technologies for Future of Work and Education
               in Engineering",
@@ -15707,7 +15712,8 @@
   year     =  2023,
   url      = "https://www.sciencedirect.com/science/article/pii/S1474034622002336",
   keywords = "Leaning technologies; Future of work; Future of education;
-              Engineering education",
+              Engineering education;\_XR/MR;+Readwise;+Notion;§New
+              Literature;AEC",
   issn     = "1474-0346",
   doi      = "10.1016/j.aei.2022.101775"
 }
