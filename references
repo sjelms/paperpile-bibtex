@@ -6947,15 +6947,17 @@
 }
 
 @MISC{Dubner2023-jy,
-  title     = "Why Is It So Hard (and Expensive) to Build Anything in America?",
-  author    = "Dubner, Stephen J",
-  publisher = "Renbud Radio, LLC",
-  number    =  566,
-  series    = "Freakonomics Radio",
-  month     =  nov,
-  year      =  2023,
-  url       = "https://freakonomics.com/podcast/why-is-it-so-hard-and-expensive-to-build-anything-in-america/",
-  keywords  = "AEC;Economics;Podcast"
+  title       = "Why Is It So Hard (and Expensive) to Build Anything in
+                 America?",
+  author      = "Dubner, Stephen J",
+  affiliation = "Renbud Radio, LLC",
+  publisher   = "Freakonomics Radio",
+  number      =  566,
+  series      = "Freakonomics Radio",
+  month       =  nov,
+  year        =  2023,
+  url         = "https://freakonomics.com/podcast/why-is-it-so-hard-and-expensive-to-build-anything-in-america/",
+  keywords    = "AEC;Economics;Podcast"
 }
 
 @INPROCEEDINGS{Janis2018-ek,
