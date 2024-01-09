@@ -4049,6 +4049,17 @@
   language  = "en"
 }
 
+@MISC{Dubner2023-jy,
+  title     = "Why Is It So Hard (and Expensive) to Build Anything in America?",
+  author    = "Dubner, Stephen J",
+  publisher = "Renbud Radio, LLC",
+  number    =  566,
+  series    = "Freakonomics Radio",
+  month     =  nov,
+  year      =  2023,
+  url       = "https://freakonomics.com/podcast/why-is-it-so-hard-and-expensive-to-build-anything-in-america/"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Waly2003-dy,
