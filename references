@@ -7100,7 +7100,8 @@
 }
 
 @ARTICLE{noauthor_undated-dl,
-  url = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3428675"
+  url = "http://dx.doi.org/10.2139/ssrn.3428675",
+  doi = "10.2139/ssrn.3428675"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
