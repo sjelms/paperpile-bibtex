@@ -7099,6 +7099,10 @@
   arxivid       = "2303.11989"
 }
 
+@ARTICLE{noauthor_undated-dl,
+  url = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3428675"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INPROCEEDINGS{Hamlin2006-gf,
