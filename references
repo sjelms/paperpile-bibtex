@@ -8237,7 +8237,8 @@
   publisher = "W.W. Norton",
   year      =  2018,
   url       = "https://play.google.com/store/books/details?id=nBsvswEACAAJ",
-  keywords  = "Book (physical);**CATALOGED;Audiobook;Notion Catalogued",
+  keywords  = "Book (physical);**CATALOGED;Audiobook;ePub | Kindle;Notion
+               Catalogued",
   language  = "en",
   isbn      = "9780393634990"
 }
