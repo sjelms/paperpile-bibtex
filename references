@@ -10722,6 +10722,7 @@
   month     =  jul,
   year      =  2023,
   url       = "https://doi.org/10.1080/01446193.2023.2187071",
+  keywords  = "AEC Cited Lit for Jacqui",
   issn      = "0144-6193",
   doi       = "10.1080/01446193.2023.2187071"
 }
@@ -18781,7 +18782,8 @@
   month     =  jan,
   year      =  2022,
   url       = "https://doi.org/10.1177/26317877211069138",
-  keywords  = "+Notion;+Readwise;Future of Work;§New Literature",
+  keywords  = "+Notion;+Readwise;Future of Work;§New Literature;AEC Cited Lit
+               for Jacqui",
   issn      = "2631-7877",
   doi       = "10.1177/26317877211069138"
 }
