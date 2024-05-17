@@ -36745,3 +36745,44 @@
   issn      = "2509-811X, 2509-8780",
   doi       = "10.1007/s41693-024-00115-z"
 }
+
+@ARTICLE{Soltani2023-fd,
+  title     = "The State of Industry 4.0 in the Australian Construction
+               Industry: An Examination of Industry and Academic Point of View",
+  author    = "Soltani, Sahar and Maxwell, Duncan and Rashidi, Ali",
+  abstract  = "The aim of this study is to provide an overview of the current
+               state of Industry 4.0 (IR 4.0) with regard to construction in
+               Australia and to identify the key factors that are driving and
+               hindering its adoption. A literature review and desktop review
+               were conducted to extract mainstream topics, followed by a
+               two-folded workshop designed with a multidisciplinary team of
+               academics, as well as representatives of mainstream firms and
+               peak bodies from the construction value chain. Our study has
+               highlighted the importance of considering both technological and
+               human-related factors in the adoption of IR 4.0 to address
+               barriers that have been traditionally overlooked, and work
+               towards a more successful and holistic implementation of this
+               transformative paradigm. By considering the social aspects of
+               construction, prioritizing data-driven approaches with a focus
+               on privacy and ethics, and emphasizing integration, these
+               facilitators contribute to the effective implementation and
+               success of IR 4.0 in the construction industry. The findings of
+               this study have significant implications for the construction
+               industry in Australia. Addressing the barriers to digital
+               construction adoption and embracing IR 4.0 technologies can help
+               the industry to improve productivity, reduce costs, and enhance
+               sustainability. Additionally, investing in education and
+               training can help to build the necessary skills and capabilities
+               needed to drive the industry forward in the digital age.",
+  journal   = "Buildings",
+  publisher = "Multidisciplinary Digital Publishing Institute",
+  volume    =  13,
+  number    =  9,
+  pages     = "2324",
+  month     =  sep,
+  year      =  2023,
+  url       = "https://www.mdpi.com/2075-5309/13/9/2324",
+  language  = "en",
+  issn      = "0007-3725",
+  doi       = "10.3390/buildings13092324"
+}
