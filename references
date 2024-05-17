@@ -36784,7 +36784,7 @@
   month     =  sep,
   year      =  2023,
   url       = "https://www.mdpi.com/2075-5309/13/9/2324",
-  keywords  = "AEC;§New Literature",
+  keywords  = "AEC;§New Literature;Construction 4.0",
   language  = "en",
   issn      = "0007-3725",
   doi       = "10.3390/buildings13092324"
@@ -36823,7 +36823,7 @@
   year     =  2021,
   url      = "https://www.sciencedirect.com/science/article/pii/S0926580520310177",
   keywords = "Configurators; Kit-of-parts; Mass customization; Three-tier
-              architecture;AEC;§New Literature",
+              architecture;AEC;§New Literature;Construction 4.0",
   issn     = "0926-5805",
   doi      = "10.1016/j.autcon.2020.103437"
 }
