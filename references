@@ -8515,6 +8515,22 @@
   language  = "en"
 }
 
+@ARTICLE{Bog-Petersen2022-gk,
+  title     = "Pipetting in virtual reality can predict real-life pipetting
+               performance",
+  author    = "Bøg Petersen, Gustav and Klingenberg, Sara and Makransky, Guido",
+  journal   = "Technology, mind, and behavior",
+  publisher = "American Psychological Association (APA)",
+  volume    =  3,
+  number    =  3,
+  month     =  jul,
+  year      =  2022,
+  url       = "http://dx.doi.org/10.1037/tmb0000076",
+  doi       = "10.1037/tmb0000076",
+  issn      = "2689-0208",
+  language  = "en"
+}
+
 @ARTICLE{Johnson2022-kq,
   title     = "Procedural learning in virtual reality: The role of immersion,
                interactivity, and spatial ability",
