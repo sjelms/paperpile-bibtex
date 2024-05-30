@@ -10784,24 +10784,6 @@
   isbn        = "9781119098713,9781119098591"
 }
 
-@ARTICLE{Queiroz2022-wa,
-  title     = "Do students learn better with immersive virtual reality videos
-               than conventional videos? A comparison of media effects with
-               middle school girls",
-  author    = "Queiroz, Anna Carolina M and Fauville, Géraldine and Herrera,
-               Fernanda and Leme, Maria Isabel da S and Bailenson, Jeremy N",
-  journal   = "Technology, mind, and behavior",
-  publisher = "American Psychological Association (APA)",
-  volume    =  3,
-  number    =  3,
-  month     =  jul,
-  year      =  2022,
-  url       = "http://dx.doi.org/10.1037/tmb0000082",
-  doi       = "10.1037/tmb0000082",
-  issn      = "2689-0208",
-  language  = "en"
-}
-
 @TECHREPORT{Felstead2011-az,
   title       = "Praxis: Working to Learn, Learning to Work",
   author      = "Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
@@ -33192,6 +33174,24 @@
   year      =  2022,
   url       = "http://dx.doi.org/10.1037/tmb0000076",
   doi       = "10.1037/tmb0000076",
+  issn      = "2689-0208",
+  language  = "en"
+}
+
+@ARTICLE{Queiroz2022-wa,
+  title     = "Do students learn better with immersive virtual reality videos
+               than conventional videos? A comparison of media effects with
+               middle school girls",
+  author    = "Queiroz, Anna Carolina M and Fauville, Géraldine and Herrera,
+               Fernanda and Leme, Maria Isabel da S and Bailenson, Jeremy N",
+  journal   = "Technology, mind, and behavior",
+  publisher = "American Psychological Association (APA)",
+  volume    =  3,
+  number    =  3,
+  month     =  jul,
+  year      =  2022,
+  url       = "http://dx.doi.org/10.1037/tmb0000082",
+  doi       = "10.1037/tmb0000082",
   issn      = "2689-0208",
   language  = "en"
 }
