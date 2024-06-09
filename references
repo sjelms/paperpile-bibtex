@@ -10784,6 +10784,42 @@
   isbn        = "9781119098713,9781119098591"
 }
 
+@BOOK{Hopkins2023-vl,
+  title     = "Multispace: Architecture at the dawn of the metaverse",
+  author    = "Hopkins, Owen",
+  publisher = "John Wiley \& Sons",
+  abstract  = "Guest-edited by Owen Hopkins Multispace exists at the
+               intersection of the physical and digital, and in the blurring of
+               their previously clear dividing lines. Multispace is not a single
+               space, but a hybrid space where, in effect, we occupy multiple
+               spaces simultaneously. We enter it on a Zoom call, when we are in
+               our office and in a meeting with 20 people; when we are cycling
+               down a country lane whilst racing against thousands of others who
+               also use the Strava app; when we are watching a TV show while
+               live tweeting; or, perhaps most literally, when wandering around
+               the local park looking for creatures that only appear on a
+               smartphone screen. A fundamental question of this AD is why the
+               phenomena that multispace describes are of concern to architects.
+               The answer is that multispace points to a situation that is at
+               root an architectural one. Offering both a collective and highly
+               personalised experience, static and dynamically customisable, and
+               above all at the same time public and private, multispace lies at
+               the centre of a set of tensions, concerns and preoccupations at
+               the core of our conception of architecture as theory and
+               practice. It is the messy space between, with rough and uneven
+               edges that are constantly shifting. Contributors: Aleksandra
+               Belitskaja, Alice Bucknell, Jesse Damiani, Wendy Fok, Andrew
+               Kovacs, Lara Lesmes and Fredrik Hellberg, Micaela Mantegna, Holly
+               Nielsen, Giacomo Pala, Paula Strunden, Lucia Tahan, and Francesca
+               Torello and Joshua Bard. Featured architects and artists:
+               iheartblob, Ibiye Campis, Office Kovacs, Space Popular and Liam
+               Young.",
+  month     =  oct,
+  year      =  2023,
+  isbn      =  9781394163540,
+  language  = "en"
+}
+
 @TECHREPORT{Felstead2011-az,
   title       = "Praxis: Working to Learn, Learning to Work",
   author      = "Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
