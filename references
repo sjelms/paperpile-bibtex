@@ -10784,6 +10784,24 @@
   isbn        = "9781119098713,9781119098591"
 }
 
+@BOOK{Hopkins2014-qf,
+  title     = "Architectural styles: A visual guide",
+  author    = "Hopkins, Owen",
+  publisher = "Laurence King Publishing",
+  address   = "London, England",
+  abstract  = "Have you ever wondered what the difference is between Gothic and
+               Gothic Revival, or how to distinguish between Baroque and
+               Neoclassical? This guide makes extensive use of photographs to
+               identify and explain the characteristic features of nearly 300
+               buildings. The result is a clear and easy-to-navigate guide to
+               identifying the key styles of western architecture from the
+               classical age to the present day.",
+  month     =  sep,
+  year      =  2014,
+  isbn      =  9781780676388,
+  language  = "en"
+}
+
 @BOOK{Hopkins2023-vl,
   title     = "Multispace: Architecture at the dawn of the metaverse",
   author    = "Hopkins, Owen",
