@@ -2362,45 +2362,6 @@
   language  = "en"
 }
 
-@ARTICLE{Yoo2023-bi,
-  title     = "Understanding {VR}-based construction safety training
-               effectiveness: The role of telepresence, risk perception, and
-               training satisfaction",
-  author    = "Yoo, Joon Woo and Park, Jun Sung and Park, Hee Jun",
-  journal   = "Applied sciences (Basel, Switzerland)",
-  publisher = "MDPI AG",
-  volume    =  13,
-  number    =  2,
-  pages     =  1135,
-  abstract  = "The use of virtual reality as a safety training technology is
-               gaining attention in the construction industry. While current
-               studies focus mainly on the development of VR-based safety
-               training programs, studies focusing on improving its
-               effectiveness is still lacking. Thus, this study aims to
-               understand the psychological process of training transfer and
-               determine the factors that affect VR safety training
-               effectiveness. The study analysed survey data from 248
-               construction workers who finished construction safety training
-               using VR using PLS-SEM. The results show that the telepresence
-               experienced through the VR and the risk perception of the
-               trainees regarding occupational accidents significantly affect
-               their satisfaction with VR safety training, which affected its
-               effectiveness. Considering that the use of VR in the construction
-               safety training context is still in its early stages, the results
-               of our study, which comprehensively analyses both the
-               technological and psychological aspects of VR safety training,
-               could provide meaningful implications to VR training content
-               developers. Furthermore, the theoretical approach of our study
-               could be implemented in future studies focusing on the topic of
-               training effectiveness.",
-  month     =  jan,
-  year      =  2023,
-  url       = "https://www.semanticscholar.org/paper/Understanding-VR-Based-Construction-Safety-Training-Yoo-Park/9201ffc664dc3849290e12fe681f2b8695709a03",
-  doi       = "10.3390/app13021135",
-  issn      = "2076-3417",
-  language  = "en"
-}
-
 @MISC{Agc2021-zw,
   title        = "Construction Workforce Shortages Reach Pre-pandemic Levels
                   Even as Coronavirus Continues to Impact Projects \& Disrupt
@@ -12518,6 +12479,45 @@
   pmid        =  36042197,
   issn        = "2041-1723",
   language    = "en"
+}
+
+@ARTICLE{Yoo2023-bi,
+  title     = "Understanding {VR}-based construction safety training
+               effectiveness: The role of telepresence, risk perception, and
+               training satisfaction",
+  author    = "Yoo, Joon Woo and Park, Jun Sung and Park, Hee Jun",
+  journal   = "Applied sciences (Basel, Switzerland)",
+  publisher = "MDPI AG",
+  volume    =  13,
+  number    =  2,
+  pages     =  1135,
+  abstract  = "The use of virtual reality as a safety training technology is
+               gaining attention in the construction industry. While current
+               studies focus mainly on the development of VR-based safety
+               training programs, studies focusing on improving its
+               effectiveness is still lacking. Thus, this study aims to
+               understand the psychological process of training transfer and
+               determine the factors that affect VR safety training
+               effectiveness. The study analysed survey data from 248
+               construction workers who finished construction safety training
+               using VR using PLS-SEM. The results show that the telepresence
+               experienced through the VR and the risk perception of the
+               trainees regarding occupational accidents significantly affect
+               their satisfaction with VR safety training, which affected its
+               effectiveness. Considering that the use of VR in the construction
+               safety training context is still in its early stages, the results
+               of our study, which comprehensively analyses both the
+               technological and psychological aspects of VR safety training,
+               could provide meaningful implications to VR training content
+               developers. Furthermore, the theoretical approach of our study
+               could be implemented in future studies focusing on the topic of
+               training effectiveness.",
+  month     =  jan,
+  year      =  2023,
+  url       = "https://www.semanticscholar.org/paper/Understanding-VR-Based-Construction-Safety-Training-Yoo-Park/9201ffc664dc3849290e12fe681f2b8695709a03",
+  doi       = "10.3390/app13021135",
+  issn      = "2076-3417",
+  language  = "en"
 }
 
 @INCOLLECTION{Charmaz2001-np,
