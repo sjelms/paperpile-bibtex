@@ -2698,6 +2698,86 @@
   language  = "en"
 }
 
+@ARTICLE{Kouijzer2023-vm,
+  title       = "Implementation of virtual reality in healthcare: a scoping
+                 review on the implementation process of virtual reality in
+                 various healthcare settings",
+  author      = "Kouijzer, Marileen M T E and Kip, Hanneke and Bouman, Yvonne H
+                 A and Kelders, Saskia M",
+  affiliation = "Centre for eHealth and Wellbeing Research; Department of
+                 Technology, Human \& Institutional Behaviour, University of
+                 Twente, Enschede, Netherlands. m.t.e.kouijzer@utwente.nl.;
+                 Centre for eHealth and Wellbeing Research; Department of
+                 Technology, Human \& Institutional Behaviour, University of
+                 Twente, Enschede, Netherlands.; Department of Research,
+                 Transfore, Deventer, Netherlands.; Department of Research,
+                 Transfore, Deventer, Netherlands.; Centre for eHealth and
+                 Wellbeing Research; Department of Technology, Human \&
+                 Institutional Behaviour, University of Twente, Enschede,
+                 Netherlands.",
+  journal     = "Implementation science communications",
+  volume      =  4,
+  number      =  1,
+  pages       =  67,
+  abstract    = "BACKGROUND: Virtual reality (VR) is increasingly used in
+                 healthcare settings as recent technological advancements create
+                 possibilities for diagnosis and treatment. VR is a technology
+                 that uses a headset to simulate a reality in which the user is
+                 immersed in a virtual environment, creating the impression that
+                 the user is physically present in this virtual space. Despite
+                 the potential added value of virtual reality technology in
+                 healthcare, its uptake in clinical practice is still in its
+                 infancy and challenges arise in the implementation of VR.
+                 Effective implementation could improve the adoption, uptake,
+                 and impact of VR. However, these implementation procedures
+                 still seem to be understudied in practice. This scoping review
+                 aimed to examine the current state of affairs in the
+                 implementation of VR technology in healthcare settings and to
+                 provide an overview of factors related to the implementation of
+                 VR. METHODS: To give an overview of relevant literature, a
+                 scoping review was undertaken of articles published up until
+                 February 2022, guided by the methodological framework of Arksey
+                 and O'Malley (2005). The databases Scopus, PsycINFO, and Web of
+                 Science were systematically searched to identify records that
+                 highlighted the current state of affairs regarding the
+                 implementation of VR in healthcare settings. Information about
+                 each study was extracted using a structured data extraction
+                 form. RESULTS: Of the 5523 records identified, 29 were included
+                 in this study. Most studies focused on barriers and
+                 facilitators to implementation, highlighting similar factors
+                 related to the behavior of adopters of VR and the practical
+                 resources the organization should arrange for. However, few
+                 studies focus on systematic implementation and on using a
+                 theoretical framework to guide implementation. Despite the
+                 recommendation of using a structured, multi-level
+                 implementation intervention to support the needs of all
+                 involved stakeholders, there was no link between the identified
+                 barriers and facilitators, and specific implementation
+                 objectives or suitable strategies to overcome these barriers in
+                 the included articles. CONCLUSION: To take the implementation
+                 of VR in healthcare to the next level, it is important to
+                 ensure that implementation is not studied in separate studies
+                 focusing on one element, e.g., healthcare provider-related
+                 barriers, as is common in current literature. Based on the
+                 results of this study, we recommend that the implementation of
+                 VR entails the entire process, from identifying barriers to
+                 developing and employing a coherent, multi-level implementation
+                 intervention with suitable strategies. This implementation
+                 process could be supported by implementation frameworks and
+                 ideally focus on behavior change of stakeholders such as
+                 healthcare providers, patients, and managers. This in turn
+                 might result in increased uptake and use of VR technologies
+                 that are of added value for healthcare practice.",
+  month       =  jun,
+  year        =  2023,
+  url         = "http://dx.doi.org/10.1186/s43058-023-00442-2",
+  doi         = "10.1186/s43058-023-00442-2",
+  pmc         = "PMC10276472",
+  pmid        =  37328858,
+  issn        = "2662-2211",
+  language    = "en"
+}
+
 @INCOLLECTION{Charmaz2001-np,
   title     = "Qualitative Interviewing and Grounded Theory Analysis",
   author    = "Charmaz, Kathy",
