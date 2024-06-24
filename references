@@ -2362,6 +2362,19 @@
   language  = "en"
 }
 
+@INPROCEEDINGS{Luo2024-bb,
+  title     = "Using eye-tracking to examine the cognitive process of hazard
+               recognition in construction {VR} scenarios",
+  author    = "Luo, Yanfang and Seo, Joonoh and Hasanzadeh, Sogand",
+  booktitle = "Computing in Civil Engineering 2023",
+  publisher = "American Society of Civil Engineers",
+  address   = "Reston, VA",
+  month     =  jan,
+  year      =  2024,
+  url       = "https://www.semanticscholar.org/paper/Using-Eye-Tracking-to-Examine-the-Cognitive-Process-Luo-Seo/691d4d8049c8256558f38401a942bc733228cb1d",
+  doi       = "10.1061/9780784485248.065"
+}
+
 @MISC{Agc2021-zw,
   title        = "Construction Workforce Shortages Reach Pre-pandemic Levels
                   Even as Coronavirus Continues to Impact Projects \& Disrupt
