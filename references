@@ -10808,6 +10808,34 @@
   isbn        = "9781119098713,9781119098591"
 }
 
+@MISC{Aarkrog2021-rc,
+  title     = "The impact of virtual reality on learning processes and learning
+               outcome. A study of {VR}-based learning among social and health
+               care staff and students",
+  author    = "Aarkrog, Vibe",
+  publisher = "Zenodo",
+  abstract  = "VR-based learning has increased significantly in the curricula of
+               the school-based parts of the Danish dual VET system, not least
+               within the social and health care programmes. However, recently a
+               project has been accomplished about developing, testing and
+               researching VR-based learning about COPD for employees and
+               students working in care homes. The empirical data includes
+               interviews with seven learners. The results show that the
+               learners are motivated for learning through VR, among other
+               reasons, because they are active in the learning process.
+               Furthermore, the results show that the learners achieve knowledge
+               about a systematical treatment of COPD patients. However, they do
+               not experience that they transfer this knowledge into altered
+               ways of treating the patients. It is discussed why VR-based
+               learning particularly underpins active participation and why the
+               learners do not transfer knowledge into practice. It is concluded
+               that VR-based learning should include systematic reflection.",
+  month     =  apr,
+  year      =  2021,
+  url       = "https://zenodo.org/records/4596448",
+  doi       = "10.5281/ZENODO.4596448"
+}
+
 @BOOK{Hopkins2014-qf,
   title     = "Architectural Styles: A Visual Guide",
   author    = "Hopkins, Owen",
