@@ -10815,6 +10815,21 @@
   language  = "en"
 }
 
+@ARTICLE{Monla2023-gy,
+  title     = "Maturity evaluation methods for {BIM}-based {AR}/{VR} in
+               construction industry: A literature review",
+  author    = "Monla, Ziad and Assila, Ahlem and Beladjine, Djaoued and Zghal,
+               Mourad",
+  journal   = "IEEE access: practical innovations, open solutions",
+  publisher = "Institute of Electrical and Electronics Engineers (IEEE)",
+  volume    =  11,
+  pages     = "101134--101154",
+  year      =  2023,
+  url       = "https://www.semanticscholar.org/paper/Maturity-Evaluation-Methods-for-BIM-Based-AR-VR-in-Monla-Assila/eeb40f0f7c42500a210c232a3e6630a4d3e7be79",
+  doi       = "10.1109/access.2023.3281265",
+  issn      = "2169-3536"
+}
+
 @BOOK{Association-of-British-Theatre-Technicians-ABTT-2024-zi,
   title     = "Theatre Buildings: A Design Guide",
   author    = "{Association of British Theatre Technicians (ABTT)} and Shewring,
