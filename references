@@ -5475,6 +5475,26 @@
   isbn      =  9789811668517
 }
 
+@ARTICLE{Adami2023-ai,
+  title     = "Participants matter: Effectiveness of {VR}-based training on the
+               knowledge, trust in the robot, and self-efficacy of construction
+               workers and university students",
+  author    = "Adami, Pooya and Singh, Rashmi and Borges Rodrigues, Patrick and
+               Becerik-Gerber, Burcin and Soibelman, Lucio and Copur-Gencturk,
+               Yasemin and Lucas, Gale",
+  journal   = "Advanced engineering informatics",
+  publisher = "Elsevier BV",
+  volume    =  55,
+  number    =  101837,
+  pages     =  101837,
+  month     =  jan,
+  year      =  2023,
+  url       = "http://dx.doi.org/10.1016/j.aei.2022.101837",
+  doi       = "10.1016/j.aei.2022.101837",
+  issn      = "1474-0346,1873-5320",
+  language  = "en"
+}
+
 @TECHREPORT{Barua2020-br,
   title  = "The Construction Workforce: Growing Again, but Not Changing Much",
   author = "Barua, A",
