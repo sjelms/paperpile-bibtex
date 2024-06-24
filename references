@@ -2386,50 +2386,6 @@
   isbn      =  9781450342896
 }
 
-@ARTICLE{Kablitz2023-le,
-  title     = "Immersive {VR}-based instruction in vocational schools: effects
-               on domain-specific knowledge and wellbeing of retail trainees",
-  author    = "Kablitz, David and Conrad, Matthias and Schumann, Stephan",
-  journal   = "Empirical research in vocational education and training",
-  publisher = "Springer Science and Business Media LLC",
-  volume    =  15,
-  number    =  1,
-  pages     = "1--17",
-  abstract  = "AbstractImmersive virtual reality (IVR) based simulation and
-               training is gaining increasing importance in vocational education
-               and training (VET). However, while IVR is primarily investigated
-               and utilized in technical domains, its implementation and the
-               resulting effects in commercial education remain largely
-               unexplored. Moreover, the experience of motion sickness is a
-               widely reported phenomenon while using IVR, which can interfere
-               with cognitive processes and should therefore be considered more
-               closely in terms of learning and instruction. This explorative
-               study focuses on domain-specific knowledge acquisition in
-               vocational apprenticeship for retailers and the accompanying side
-               effects on students’ wellbeing in an IVR-based learning
-               environment. For this purpose, an IVR-based scenario in a virtual
-               supermarket was developed and tested with trainees in the field
-               of retail at a German commercial vocational school. Using a
-               quasi-experimental pretest-posttest design, we compared the
-               effects of IVR-based and conventional instruction on
-               domain-specific knowledge acquisition in a sample of first-year
-               trainees (N = 79). The findings indicate an advantage of IVR in
-               the acquisition of domain-specific knowledge (ɳ2 = .261).
-               Although moderate motion sickness symptoms were reported in the
-               experimental group, no direct links between the experience of
-               motion sickness and learning outcomes could be identified. These
-               findings advance the current knowledge about learning-related
-               effects of IVR-based instruction in the field of VET and provide
-               further understanding about the special conditions of IVR
-               scenarios conducive to learning.",
-  month     =  sep,
-  year      =  2023,
-  url       = "https://ervet-journal.springeropen.com/articles/10.1186/s40461-023-00148-8",
-  doi       = "10.1186/s40461-023-00148-8",
-  issn      = "1877-6337,1877-6345",
-  language  = "en"
-}
-
 @MISC{Agc2021-zw,
   title        = "Construction Workforce Shortages Reach Pre-pandemic Levels
                   Even as Coronavirus Continues to Impact Projects \& Disrupt
@@ -12775,6 +12731,50 @@
   pmid        =  37328858,
   issn        = "2662-2211",
   language    = "en"
+}
+
+@ARTICLE{Kablitz2023-le,
+  title     = "Immersive {VR}-based instruction in vocational schools: effects
+               on domain-specific knowledge and wellbeing of retail trainees",
+  author    = "Kablitz, David and Conrad, Matthias and Schumann, Stephan",
+  journal   = "Empirical research in vocational education and training",
+  publisher = "Springer Science and Business Media LLC",
+  volume    =  15,
+  number    =  1,
+  pages     = "1--17",
+  abstract  = "AbstractImmersive virtual reality (IVR) based simulation and
+               training is gaining increasing importance in vocational education
+               and training (VET). However, while IVR is primarily investigated
+               and utilized in technical domains, its implementation and the
+               resulting effects in commercial education remain largely
+               unexplored. Moreover, the experience of motion sickness is a
+               widely reported phenomenon while using IVR, which can interfere
+               with cognitive processes and should therefore be considered more
+               closely in terms of learning and instruction. This explorative
+               study focuses on domain-specific knowledge acquisition in
+               vocational apprenticeship for retailers and the accompanying side
+               effects on students’ wellbeing in an IVR-based learning
+               environment. For this purpose, an IVR-based scenario in a virtual
+               supermarket was developed and tested with trainees in the field
+               of retail at a German commercial vocational school. Using a
+               quasi-experimental pretest-posttest design, we compared the
+               effects of IVR-based and conventional instruction on
+               domain-specific knowledge acquisition in a sample of first-year
+               trainees (N = 79). The findings indicate an advantage of IVR in
+               the acquisition of domain-specific knowledge (ɳ2 = .261).
+               Although moderate motion sickness symptoms were reported in the
+               experimental group, no direct links between the experience of
+               motion sickness and learning outcomes could be identified. These
+               findings advance the current knowledge about learning-related
+               effects of IVR-based instruction in the field of VET and provide
+               further understanding about the special conditions of IVR
+               scenarios conducive to learning.",
+  month     =  sep,
+  year      =  2023,
+  url       = "https://ervet-journal.springeropen.com/articles/10.1186/s40461-023-00148-8",
+  doi       = "10.1186/s40461-023-00148-8",
+  issn      = "1877-6337,1877-6345",
+  language  = "en"
 }
 
 @INCOLLECTION{Charmaz2001-np,
