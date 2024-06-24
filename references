@@ -2362,50 +2362,23 @@
   language  = "en"
 }
 
-@INPROCEEDINGS{Luo2024-bb,
-  title     = "Using eye-tracking to examine the cognitive process of hazard
-               recognition in construction {VR} scenarios",
-  author    = "Luo, Yanfang and Seo, Joonoh and Hasanzadeh, Sogand",
-  booktitle = "Computing in Civil Engineering 2023",
-  publisher = "American Society of Civil Engineers",
-  address   = "Reston, VA",
+@ARTICLE{Adami2023-ai,
+  title     = "Participants matter: Effectiveness of {VR}-based training on the
+               knowledge, trust in the robot, and self-efficacy of construction
+               workers and university students",
+  author    = "Adami, Pooya and Singh, Rashmi and Borges Rodrigues, Patrick and
+               Becerik-Gerber, Burcin and Soibelman, Lucio and Copur-Gencturk,
+               Yasemin and Lucas, Gale",
+  journal   = "Advanced engineering informatics",
+  publisher = "Elsevier BV",
+  volume    =  55,
+  number    =  101837,
+  pages     =  101837,
   month     =  jan,
-  year      =  2024,
-  url       = "https://www.semanticscholar.org/paper/Using-Eye-Tracking-to-Examine-the-Cognitive-Process-Luo-Seo/691d4d8049c8256558f38401a942bc733228cb1d",
-  doi       = "10.1061/9780784485248.065"
-}
-
-@ARTICLE{Li2022-ia,
-  title     = "Synthesizing personalized construction safety training scenarios
-               for {VR} training",
-  author    = "Li, Wanwan and Huang, Haikun and Solomon, Tomay and Esmaeili,
-               Behzad and Yu, Lap-Fai",
-  journal   = "IEEE transactions on visualization and computer graphics",
-  publisher = "Institute of Electrical and Electronics Engineers (IEEE)",
-  volume    =  28,
-  number    =  5,
-  pages     = "1993--2002",
-  abstract  = "Construction industry has the largest number of preventable fatal
-               injuries, providing effective safety training practices can play
-               a significant role in reducing the number of fatalities. Building
-               on recent advancements in virtual reality-based training, we
-               devised a novel approach to synthesize construction safety
-               training scenarios to train users on how to proficiently inspect
-               the potential hazards on construction sites in virtual reality.
-               Given the training specifications such as individual training
-               preferences and target training time, we synthesize personalized
-               VR training scenarios through an optimization approach. We
-               validated our approach by conducting user studies where users
-               went through our personalized guidance VR training, free
-               exploration VR training, or slides training. Results suggest that
-               personalized guidance VR training approach can more effectively
-               improve users' construction hazard inspection skills.",
-  month     =  may,
-  year      =  2022,
-  url       = "https://www.semanticscholar.org/paper/Synthesizing-Personalized-Construction-Safety-for-Li-Huang/108a7fa22c73cb453d4d8e7f5428520ce324e91d",
-  doi       = "10.1109/TVCG.2022.3150510",
-  pmid      =  35167474,
-  issn      = "1077-2626,1941-0506",
+  year      =  2023,
+  url       = "http://dx.doi.org/10.1016/j.aei.2022.101837",
+  doi       = "10.1016/j.aei.2022.101837",
+  issn      = "1474-0346,1873-5320",
   language  = "en"
 }
 
@@ -5473,26 +5446,6 @@
   url       = "https://doi.org/10.1007/978-981-16-6851-7_10",
   doi       = "10.1007/978-981-16-6851-7\_10",
   isbn      =  9789811668517
-}
-
-@ARTICLE{Adami2023-ai,
-  title     = "Participants matter: Effectiveness of {VR}-based training on the
-               knowledge, trust in the robot, and self-efficacy of construction
-               workers and university students",
-  author    = "Adami, Pooya and Singh, Rashmi and Borges Rodrigues, Patrick and
-               Becerik-Gerber, Burcin and Soibelman, Lucio and Copur-Gencturk,
-               Yasemin and Lucas, Gale",
-  journal   = "Advanced engineering informatics",
-  publisher = "Elsevier BV",
-  volume    =  55,
-  number    =  101837,
-  pages     =  101837,
-  month     =  jan,
-  year      =  2023,
-  url       = "http://dx.doi.org/10.1016/j.aei.2022.101837",
-  doi       = "10.1016/j.aei.2022.101837",
-  issn      = "1474-0346,1873-5320",
-  language  = "en"
 }
 
 @TECHREPORT{Barua2020-br,
@@ -12548,6 +12501,19 @@
   language    = "en"
 }
 
+@INPROCEEDINGS{Luo2024-bb,
+  title     = "Using eye-tracking to examine the cognitive process of hazard
+               recognition in construction {VR} scenarios",
+  author    = "Luo, Yanfang and Seo, Joonoh and Hasanzadeh, Sogand",
+  booktitle = "Computing in Civil Engineering 2023",
+  publisher = "American Society of Civil Engineers",
+  address   = "Reston, VA",
+  month     =  jan,
+  year      =  2024,
+  url       = "https://www.semanticscholar.org/paper/Using-Eye-Tracking-to-Examine-the-Cognitive-Process-Luo-Seo/691d4d8049c8256558f38401a942bc733228cb1d",
+  doi       = "10.1061/9780784485248.065"
+}
+
 @ARTICLE{Yoo2023-bi,
   title     = "Understanding {VR}-based construction safety training
                effectiveness: The role of telepresence, risk perception, and
@@ -12584,6 +12550,40 @@
   url       = "https://www.semanticscholar.org/paper/Understanding-VR-Based-Construction-Safety-Training-Yoo-Park/9201ffc664dc3849290e12fe681f2b8695709a03",
   doi       = "10.3390/app13021135",
   issn      = "2076-3417",
+  language  = "en"
+}
+
+@ARTICLE{Li2022-ia,
+  title     = "Synthesizing personalized construction safety training scenarios
+               for {VR} training",
+  author    = "Li, Wanwan and Huang, Haikun and Solomon, Tomay and Esmaeili,
+               Behzad and Yu, Lap-Fai",
+  journal   = "IEEE transactions on visualization and computer graphics",
+  publisher = "Institute of Electrical and Electronics Engineers (IEEE)",
+  volume    =  28,
+  number    =  5,
+  pages     = "1993--2002",
+  abstract  = "Construction industry has the largest number of preventable fatal
+               injuries, providing effective safety training practices can play
+               a significant role in reducing the number of fatalities. Building
+               on recent advancements in virtual reality-based training, we
+               devised a novel approach to synthesize construction safety
+               training scenarios to train users on how to proficiently inspect
+               the potential hazards on construction sites in virtual reality.
+               Given the training specifications such as individual training
+               preferences and target training time, we synthesize personalized
+               VR training scenarios through an optimization approach. We
+               validated our approach by conducting user studies where users
+               went through our personalized guidance VR training, free
+               exploration VR training, or slides training. Results suggest that
+               personalized guidance VR training approach can more effectively
+               improve users' construction hazard inspection skills.",
+  month     =  may,
+  year      =  2022,
+  url       = "https://www.semanticscholar.org/paper/Synthesizing-Personalized-Construction-Safety-for-Li-Huang/108a7fa22c73cb453d4d8e7f5428520ce324e91d",
+  doi       = "10.1109/TVCG.2022.3150510",
+  pmid      =  35167474,
+  issn      = "1077-2626,1941-0506",
   language  = "en"
 }
 
