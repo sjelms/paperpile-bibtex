@@ -2656,6 +2656,48 @@
   isbn      =  9781450342896
 }
 
+@ARTICLE{Makovec-Radovan2023-eg,
+  title     = "Teacher, think twice: About the importance and pedagogical value
+               of blended learning design in {VET}",
+  author    = "Makovec Radovan, Danijela and Radovan, Marko",
+  journal   = "Education sciences",
+  publisher = "MDPI AG",
+  volume    =  13,
+  number    =  9,
+  pages     =  882,
+  abstract  = "The integration of technology into educational institutions is
+               transforming education and fostering innovative approaches to
+               learning. Blended learning, an increasingly popular approach,
+               integrates technology with traditional teaching approaches.
+               Blended learning can overcome the limitations associated with
+               using technology purely as a tool, facilitating its full
+               integration into the educational process. The present study
+               involved 106 students enrolled in a vocational education program
+               (VET) in Slovenia. The students were subjected to a pilot
+               implementation of blended learning, and their experiences were
+               subsequently analyzed and evaluated. The results showed that the
+               use of different teaching approaches led to different outcomes in
+               terms of student workload, learning outcomes, and motivation. The
+               different teaching approaches were found to present different
+               levels of difficulty for students. For example, live sessions and
+               the integration of virtual reality/augmented reality (VR /AR)
+               technology presented greater challenges. Conversely,
+               collaborative group work and online courses focused on developing
+               professional skills were found to be beneficial. The study also
+               highlighted the importance of feedback and instructor support in
+               online learning environments. In general, the results of our
+               study suggest that the adoption of blended learning in education
+               can lead to positive outcomes. However, it is important to
+               emphasize the importance of careful planning and thoughtful
+               consideration of optimal pedagogical strategies.",
+  month     =  aug,
+  year      =  2023,
+  url       = "https://www.semanticscholar.org/paper/Teacher%2C-Think-Twice%3A-About-the-Importance-and-of-Radovan-Radovan/0ddaf476b82b20a21596d4b4b2d69c6d17aa900c",
+  doi       = "10.3390/educsci13090882",
+  issn      = "2227-7102",
+  language  = "en"
+}
+
 @INCOLLECTION{Charmaz2001-np,
   title     = "Qualitative Interviewing and Grounded Theory Analysis",
   author    = "Charmaz, Kathy",
