@@ -2375,6 +2375,40 @@
   doi       = "10.1061/9780784485248.065"
 }
 
+@ARTICLE{Li2022-ia,
+  title     = "Synthesizing personalized construction safety training scenarios
+               for {VR} training",
+  author    = "Li, Wanwan and Huang, Haikun and Solomon, Tomay and Esmaeili,
+               Behzad and Yu, Lap-Fai",
+  journal   = "IEEE transactions on visualization and computer graphics",
+  publisher = "Institute of Electrical and Electronics Engineers (IEEE)",
+  volume    =  28,
+  number    =  5,
+  pages     = "1993--2002",
+  abstract  = "Construction industry has the largest number of preventable fatal
+               injuries, providing effective safety training practices can play
+               a significant role in reducing the number of fatalities. Building
+               on recent advancements in virtual reality-based training, we
+               devised a novel approach to synthesize construction safety
+               training scenarios to train users on how to proficiently inspect
+               the potential hazards on construction sites in virtual reality.
+               Given the training specifications such as individual training
+               preferences and target training time, we synthesize personalized
+               VR training scenarios through an optimization approach. We
+               validated our approach by conducting user studies where users
+               went through our personalized guidance VR training, free
+               exploration VR training, or slides training. Results suggest that
+               personalized guidance VR training approach can more effectively
+               improve users' construction hazard inspection skills.",
+  month     =  may,
+  year      =  2022,
+  url       = "https://www.semanticscholar.org/paper/Synthesizing-Personalized-Construction-Safety-for-Li-Huang/108a7fa22c73cb453d4d8e7f5428520ce324e91d",
+  doi       = "10.1109/TVCG.2022.3150510",
+  pmid      =  35167474,
+  issn      = "1077-2626,1941-0506",
+  language  = "en"
+}
+
 @MISC{Agc2021-zw,
   title        = "Construction Workforce Shortages Reach Pre-pandemic Levels
                   Even as Coronavirus Continues to Impact Projects \& Disrupt
