@@ -12952,6 +12952,16 @@
   issn      = "1743-727X"
 }
 
+@PHDTHESIS{Ibrahim2016-sc,
+  title  = "Designing Communication Technologies With Children Who Have Severe
+            Speech and Physical Impairments: a Focus on Values",
+  author = "Ibrahim, Seray",
+  month  =  oct,
+  year   =  2016,
+  note   = "Upgrade Research Proposal",
+  school = "University College London"
+}
+
 @INCOLLECTION{Charmaz2001-np,
   title     = "Qualitative Interviewing and Grounded Theory Analysis",
   author    = "Charmaz, Kathy",
@@ -20329,16 +20339,6 @@
   editor = "Porayska-Pomsta, Kaśka and White, Sarah and Holmes, Joni",
   month  =  jun,
   year   =  2020,
-  note   = "Upgrade Research Proposal",
-  school = "University College London"
-}
-
-@PHDTHESIS{Ibrahim2016-sc,
-  title  = "Designing Communication Technologies With Children Who Have Severe
-            Speech and Physical Impairments: a Focus on Values",
-  author = "Ibrahim, Seray",
-  month  =  oct,
-  year   =  2016,
   note   = "Upgrade Research Proposal",
   school = "University College London"
 }
