@@ -12913,6 +12913,45 @@
   language  = "en"
 }
 
+@ARTICLE{Parsons2014-ek,
+  title     = "Reflections on the role of the ‘users’: challenges in a
+               multi-disciplinary context of learner-centred design for children
+               on the autism spectrum",
+  author    = "Parsons, Sarah and Cobb, Sue",
+  journal   = "International Journal of Research \& Method in Education",
+  publisher = "Routledge",
+  volume    =  37,
+  number    =  4,
+  pages     = "421--441",
+  abstract  = "Technology design in the field of human?computer interaction has
+               developed a continuum of participatory research methods, closely
+               mirroring methodological approaches and epistemological
+               discussions in other fields. This paper positions such approaches
+               as examples of inclusive research (to varying degrees) within
+               education, and illustrates the complexity of navigating and
+               involving different user groups in the context of
+               multi-disciplinary research projects. We illustrate this
+               complexity with examples from our recent work, involving children
+               on the autism spectrum and their teachers. Both groups were
+               involved in learner-centred design processes to develop
+               technologies to support social conversation and collaboration. We
+               conceptualize this complexity as a triple-decker ?sandwich?
+               representing Theory, Technologies and Thoughts and argue that all
+               three layers need to be appropriately aligned for a good quality
+               ?product? or outcome. However, the challenge lies in navigating
+               and negotiating all three layers at the same time, including the
+               views and experiences of the learners. We question the extent to
+               which it may be possible to combine co-operative, empowering
+               approaches to participatory design with an outcome-focused agenda
+               that seeks to develop a robust learning technology for use in
+               real classrooms.",
+  month     =  oct,
+  year      =  2014,
+  url       = "https://doi.org/10.1080/1743727X.2014.890584",
+  doi       = "10.1080/1743727X.2014.890584",
+  issn      = "1743-727X"
+}
+
 @INCOLLECTION{Charmaz2001-np,
   title     = "Qualitative Interviewing and Grounded Theory Analysis",
   author    = "Charmaz, Kathy",
@@ -20126,45 +20165,6 @@
               Context",
   doi      = "10.1016/j.ijhcs.2014.09.003",
   issn     = "1071-5819"
-}
-
-@ARTICLE{Parsons2014-ek,
-  title     = "Reflections on the role of the ‘users’: challenges in a
-               multi-disciplinary context of learner-centred design for children
-               on the autism spectrum",
-  author    = "Parsons, Sarah and Cobb, Sue",
-  journal   = "International Journal of Research \& Method in Education",
-  publisher = "Routledge",
-  volume    =  37,
-  number    =  4,
-  pages     = "421--441",
-  abstract  = "Technology design in the field of human?computer interaction has
-               developed a continuum of participatory research methods, closely
-               mirroring methodological approaches and epistemological
-               discussions in other fields. This paper positions such approaches
-               as examples of inclusive research (to varying degrees) within
-               education, and illustrates the complexity of navigating and
-               involving different user groups in the context of
-               multi-disciplinary research projects. We illustrate this
-               complexity with examples from our recent work, involving children
-               on the autism spectrum and their teachers. Both groups were
-               involved in learner-centred design processes to develop
-               technologies to support social conversation and collaboration. We
-               conceptualize this complexity as a triple-decker ?sandwich?
-               representing Theory, Technologies and Thoughts and argue that all
-               three layers need to be appropriately aligned for a good quality
-               ?product? or outcome. However, the challenge lies in navigating
-               and negotiating all three layers at the same time, including the
-               views and experiences of the learners. We question the extent to
-               which it may be possible to combine co-operative, empowering
-               approaches to participatory design with an outcome-focused agenda
-               that seeks to develop a robust learning technology for use in
-               real classrooms.",
-  month     =  oct,
-  year      =  2014,
-  url       = "https://doi.org/10.1080/1743727X.2014.890584",
-  doi       = "10.1080/1743727X.2014.890584",
-  issn      = "1743-727X"
 }
 
 @ARTICLE{Vasalou2021-tv,
