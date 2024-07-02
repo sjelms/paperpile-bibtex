@@ -2386,41 +2386,53 @@
   isbn      =  9781450342896
 }
 
-@ARTICLE{Morike2022-bg,
-  title     = "Inverted hierarchies on the shop floor: The organisational layer
-               of workarounds for collaboration in the metal industry",
-  author    = "Mörike, Frauke",
-  journal   = "Computer supported cooperative work: CSCW: an international
-               journal",
-  publisher = "Springer Science and Business Media LLC",
-  volume    =  31,
-  number    =  1,
-  pages     = "111--147",
-  abstract  = "AbstractWorkarounds, or practices that deviate from the official
-               pathway to a target, are frequent phenomena in the organisational
-               context. With respect to collaboration, they highlight an area of
-               mismatch between normative versus lived work practices, and
-               therefore depict a relevant research area deeply rooted in
-               computer supported cooperative work (CSCW). Building on the
-               theory of hierarchical opposition by Louis Dumont and empirical
-               data collected through ethnographic research at a company
-               classified as a small- and medium-sized enterprise (SME) in the
-               German metal industry, this paper addresses the emergence of
-               workarounds in collaborative work processes by setting them into
-               the wider organisational context. The organisational layer of
-               analysis reveals that workarounds emerge to cater for inversed
-               information power relations and information asymmetries in the
-               shop floor setting, which require communication to flow against
-               the hierarchical slope between planning and execution functions.
-               By applying an organisational lens to the concept of workarounds,
-               this paper contributes a novel empirical analysis that confirms
-               the value of workarounds as a source of insight into
-               collaborative practices.",
-  month     =  mar,
-  year      =  2022,
-  url       = "http://dx.doi.org/10.1007/s10606-021-09415-2",
-  doi       = "10.1007/s10606-021-09415-2",
-  issn      = "0925-9724,1573-7551",
+@BOOK{Hallowell2023-ts,
+  title     = "Delivered from Distraction: Getting the most out of life with
+               attention deficit disorder",
+  author    = "Hallowell, Edward M and Ratey, John J",
+  publisher = "Hachette UK",
+  abstract  = "'If you read only one book about attention deficit disorder, it
+               should be Delivered from Distraction.' Michael Thompson, Ph.D.,
+               New York Times bestselling co-author of Raising Cain In 1994,
+               Driven to Distraction sparked a revolution in our understanding
+               of attention deficit disorder. Widely recognized as the classic
+               in the field, the book has sold more than a million copies. Now a
+               second revolution is under way in the approach to ADD, and the
+               news is great. Drug therapies, our understanding of the role of
+               diet and exercise, even the way we define the disorder - all are
+               changing radically. And doctors are realizing that millions of
+               adults suffer from this condition, though the vast majority of
+               them remain undiagnosed and untreated. In this new book, Drs
+               Edward M. Hallowell and John J. Ratey build on the breakthroughs
+               of Driven to Distraction to offer a comprehensive and entirely
+               up-to-date guide to living a successful life with ADD. As
+               Hallowell and Ratey point out, 'attention deficit disorder' is a
+               highly misleading description of an intriguing kind of mind.
+               Original, charismatic, energetic, often brilliant, people with
+               ADD have extraordinary talents and gifts embedded in their highly
+               charged but easily distracted minds. Tailored expressly to ADD
+               learning styles and attention spans, Delivered from Distraction
+               provides accessible, engaging discussions of every aspect of the
+               condition, from diagnosis to finding the proper treatment regime.
+               Inside you'll discover: - whether ADD runs in families - new
+               diagnostic procedures, tests, and evaluations - the links between
+               ADD and other conditions - how people with ADD can free up their
+               inner talents and strengths - the new drugs and how they work,
+               and why they're not for everyone - exciting advances in
+               nonpharmaceutical therapies, including changes in diet, exercise,
+               and lifestyle - how to adapt the classic twelve-step program to
+               treat ADD - sexual problems associated with ADD and how to
+               resolve them - strategies for dealing with procrastination,
+               clutter, and chronic forgetfulness ADD is a trait, a way of
+               living in the world. It only becomes a disorder when it impairs
+               your life. Featuring gripping profiles of patients with ADD who
+               have triumphed, Delivered from Distraction is a wise, loving
+               guide to releasing the positive energy that all people with ADD
+               hold inside. If you have ADD or care about someone who does, this
+               is the book you must read.",
+  month     =  aug,
+  year      =  2023,
+  isbn      =  9781399813273,
   language  = "en"
 }
 
@@ -12812,6 +12824,44 @@
   url       = "https://ervet-journal.springeropen.com/articles/10.1186/s40461-023-00148-8",
   doi       = "10.1186/s40461-023-00148-8",
   issn      = "1877-6337,1877-6345",
+  language  = "en"
+}
+
+@ARTICLE{Morike2022-bg,
+  title     = "Inverted hierarchies on the shop floor: The organisational layer
+               of workarounds for collaboration in the metal industry",
+  author    = "Mörike, Frauke",
+  journal   = "Computer supported cooperative work: CSCW: an international
+               journal",
+  publisher = "Springer Science and Business Media LLC",
+  volume    =  31,
+  number    =  1,
+  pages     = "111--147",
+  abstract  = "AbstractWorkarounds, or practices that deviate from the official
+               pathway to a target, are frequent phenomena in the organisational
+               context. With respect to collaboration, they highlight an area of
+               mismatch between normative versus lived work practices, and
+               therefore depict a relevant research area deeply rooted in
+               computer supported cooperative work (CSCW). Building on the
+               theory of hierarchical opposition by Louis Dumont and empirical
+               data collected through ethnographic research at a company
+               classified as a small- and medium-sized enterprise (SME) in the
+               German metal industry, this paper addresses the emergence of
+               workarounds in collaborative work processes by setting them into
+               the wider organisational context. The organisational layer of
+               analysis reveals that workarounds emerge to cater for inversed
+               information power relations and information asymmetries in the
+               shop floor setting, which require communication to flow against
+               the hierarchical slope between planning and execution functions.
+               By applying an organisational lens to the concept of workarounds,
+               this paper contributes a novel empirical analysis that confirms
+               the value of workarounds as a source of insight into
+               collaborative practices.",
+  month     =  mar,
+  year      =  2022,
+  url       = "http://dx.doi.org/10.1007/s10606-021-09415-2",
+  doi       = "10.1007/s10606-021-09415-2",
+  issn      = "0925-9724,1573-7551",
   language  = "en"
 }
 
