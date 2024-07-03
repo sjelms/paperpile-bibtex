@@ -4347,6 +4347,26 @@
   issn      = "0302-9743"
 }
 
+@ARTICLE{Abdolmaleki2024-pk,
+  title       = "An analysis of the literature on construction employee
+                 turnover: drivers, consequences, and future direction",
+  author      = "Abdolmaleki, Goldis and Naismith, Nicola and Ghodrati, Nariman
+                 and Poshdar, Mani and Babaeian Jelodar, Mostafa",
+  affiliation = "Department of Built Environment Engineering, Auckland
+                 University of Technology, Auckland, New Zealand; Harrison
+                 Grierson, Auckland, New Zealand; School of Built Environment,
+                 Massey University, Auckland, New Zealand",
+  journal     = "Construction management and economics",
+  publisher   = "Informa UK Limited",
+  pages       = "1--25",
+  month       =  apr,
+  year        =  2024,
+  url         = "http://dx.doi.org/10.1080/01446193.2024.2337084",
+  doi         = "10.1080/01446193.2024.2337084",
+  issn        = "0144-6193,1466-433X",
+  language    = "en"
+}
+
 @INCOLLECTION{Claypool2021-wg,
   title     = "Automation, Architecture and Labour",
   author    = "Claypool, Mollie",
