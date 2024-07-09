@@ -3139,6 +3139,23 @@
   language  = "en"
 }
 
+@ARTICLE{Ericsson1993-vq,
+  title     = "The role of deliberate practice in the acquisition of expert
+               performance",
+  author    = "Ericsson, K Anders and Krampe, Ralf T and Tesch-Römer, Clemens",
+  journal   = "Psychological review",
+  publisher = "American Psychological Association (APA)",
+  volume    =  100,
+  number    =  3,
+  pages     = "363--406",
+  month     =  jul,
+  year      =  1993,
+  url       = "https://psycnet.apa.org/doiLanding?doi=10.1037/0033-295X.100.3.363&",
+  doi       = "10.1037/0033-295x.100.3.363",
+  issn      = "0033-295X,1939-1471",
+  language  = "en"
+}
+
 @PHDTHESIS{Ibrahim2016-sc,
   title  = "Designing Communication Technologies With Children Who Have Severe
             Speech and Physical Impairments: a Focus on Values",
