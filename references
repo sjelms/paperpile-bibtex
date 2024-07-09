@@ -2610,47 +2610,6 @@
   language  = "en"
 }
 
-@INPROCEEDINGS{Bozgeyikli2021-pe,
-  title     = "Give me a hand: Exploring bidirectional mutual embodied tangible
-               interaction in virtual reality",
-  author    = "Bozgeyikli, Lal Lila",
-  booktitle = "2021 IEEE International Conference on Consumer Electronics (ICCE)",
-  publisher = "IEEE",
-  pages     = "1--6",
-  abstract  = "Virtual reality (VR) systems have been increasingly used in
-               recent years in various domains, such as education and training.
-               Presence, which can be described as `the sense of being there' is
-               one of the most important user experience aspects in VR. There
-               are several components, which may affect the level of presence,
-               such as interaction, visual fidelity, and auditory cues. In
-               recent years, a significant effort has been put into increasing
-               the sense of presence in VR. This study focuses on improving user
-               experience in VR by increasing presence through increased
-               interaction fidelity and enhanced illusions. Interaction in real
-               life includes mutual and bidirectional encounters between two or
-               more individuals through shared tangible objects. However, the
-               majority of VR interaction to date has been unidirectional. This
-               research aims to bridge this gap by enabling bidirectional mutual
-               tangible embodied interactions between human users and virtual
-               characters in world-fixed VR through real-virtual shared objects
-               that extend from virtual world into the real world. I hypothesize
-               that the proposed novel interaction will shrink the boundary
-               between the real and virtual worlds (through virtual characters
-               that affect the physical world), increase the seamlessness of the
-               VR system (enhance the illusion) and the fidelity of interaction,
-               and increase the level of presence and social presence, enjoyment
-               and engagement. This paper includes the motivation, design and
-               development details of the proposed novel world-fixed VR system
-               along with future directions.",
-  month     =  jan,
-  year      =  2021,
-  url       = "https://ieeexplore.ieee.org/document/9427733",
-  doi       = "10.1109/icce50685.2021.9427733",
-  isbn      = "9781728197661,9781728197678",
-  issn      = "2158-4001,2158-3994",
-  language  = "en"
-}
-
 @MISC{Agc2021-zw,
   title        = "Construction Workforce Shortages Reach Pre-pandemic Levels
                   Even as Coronavirus Continues to Impact Projects \& Disrupt
@@ -13149,6 +13108,47 @@
   url       = "https://psycnet.apa.org/doiLanding?doi=10.1037/0033-295X.100.3.363&",
   doi       = "10.1037/0033-295x.100.3.363",
   issn      = "0033-295X,1939-1471",
+  language  = "en"
+}
+
+@INPROCEEDINGS{Bozgeyikli2021-pe,
+  title     = "Give me a hand: Exploring bidirectional mutual embodied tangible
+               interaction in virtual reality",
+  author    = "Bozgeyikli, Lal Lila",
+  booktitle = "2021 IEEE International Conference on Consumer Electronics (ICCE)",
+  publisher = "IEEE",
+  pages     = "1--6",
+  abstract  = "Virtual reality (VR) systems have been increasingly used in
+               recent years in various domains, such as education and training.
+               Presence, which can be described as `the sense of being there' is
+               one of the most important user experience aspects in VR. There
+               are several components, which may affect the level of presence,
+               such as interaction, visual fidelity, and auditory cues. In
+               recent years, a significant effort has been put into increasing
+               the sense of presence in VR. This study focuses on improving user
+               experience in VR by increasing presence through increased
+               interaction fidelity and enhanced illusions. Interaction in real
+               life includes mutual and bidirectional encounters between two or
+               more individuals through shared tangible objects. However, the
+               majority of VR interaction to date has been unidirectional. This
+               research aims to bridge this gap by enabling bidirectional mutual
+               tangible embodied interactions between human users and virtual
+               characters in world-fixed VR through real-virtual shared objects
+               that extend from virtual world into the real world. I hypothesize
+               that the proposed novel interaction will shrink the boundary
+               between the real and virtual worlds (through virtual characters
+               that affect the physical world), increase the seamlessness of the
+               VR system (enhance the illusion) and the fidelity of interaction,
+               and increase the level of presence and social presence, enjoyment
+               and engagement. This paper includes the motivation, design and
+               development details of the proposed novel world-fixed VR system
+               along with future directions.",
+  month     =  jan,
+  year      =  2021,
+  url       = "https://ieeexplore.ieee.org/document/9427733",
+  doi       = "10.1109/icce50685.2021.9427733",
+  isbn      = "9781728197661,9781728197678",
+  issn      = "2158-4001,2158-3994",
   language  = "en"
 }
 
