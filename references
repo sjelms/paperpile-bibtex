@@ -33898,6 +33898,46 @@
   language  = "en"
 }
 
+@INPROCEEDINGS{DelPreto2020-kl,
+  title     = "Helping robots learn: A human-robot master-apprentice model using
+               demonstrations via virtual reality teleoperation",
+  author    = "DelPreto, Joseph and Lipton, Jeffrey I and Sanneman, Lindsay and
+               Fay, Aidan J and Fourie, Christopher and Choi, Changhyun and Rus,
+               Daniela",
+  booktitle = "2020 IEEE International Conference on Robotics and Automation
+               (ICRA)",
+  publisher = "IEEE",
+  pages     = "10226--10233",
+  abstract  = "As artificial intelligence becomes an increasingly prevalent
+               method of enhancing robotic capabilities, it is important to
+               consider effective ways to train these learning pipelines and to
+               leverage human expertise. Working towards these goals, a
+               master-apprentice model is presented and is evaluated during a
+               grasping task for effectiveness and human perception. The
+               apprenticeship model augments self-supervised learning with
+               learning by demonstration, efficiently using the human's time and
+               expertise while facilitating future scalability to supervision of
+               multiple robots; the human provides demonstrations via virtual
+               reality when the robot cannot complete the task autonomously.
+               Experimental results indicate that the robot learns a grasping
+               task with the apprenticeship model faster than with a solely
+               self-supervised approach and with fewer human interventions than
+               a solely demonstration-based approach; 100\% grasping success is
+               obtained after 150 grasps with 19 demonstrations. Preliminary
+               user studies evaluating workload, usability, and effectiveness of
+               the system yield promising results for system scalability and
+               deployability. They also suggest a tendency for users to
+               overestimate the robot's skill and to generalize its
+               capabilities, especially as learning improves.",
+  month     =  may,
+  year      =  2020,
+  url       = "https://ieeexplore.ieee.org/abstract/document/9196754",
+  doi       = "10.1109/icra40945.2020.9196754",
+  isbn      = "9781728173955,9781728173948",
+  issn      = "2577-087X,1050-4729",
+  language  = "en"
+}
+
 @BOOK{Hopkins2023-vl,
   title     = "Multispace: Architecture at the dawn of the metaverse",
   author    = "Hopkins, Owen",
