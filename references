@@ -2610,53 +2610,6 @@
   language  = "en"
 }
 
-@ARTICLE{Khadka2024-hx,
-  title     = "Academic conference posters: Describing visual impression in
-               pharmacy education",
-  author    = "Khadka, Sheela and Holt, Katlyn and Peeters, Michael J",
-  journal   = "Exploratory research in clinical and social pharmacy",
-  publisher = "Elsevier BV",
-  volume    =  13,
-  number    =  100423,
-  pages     =  100423,
-  abstract  = "Background: Academic conference posters are a key communication
-               before journal articles. Attention to visual attributes can
-               enhance academic poster communication. Objective: This
-               investigation's purpose was to create a visual impression
-               measurement instrument, and then to describe and compare visual
-               impression among scientific posters from an academic conference.
-               Methods: A mixed-approach rubric was created to quickly measure
-               visual impression of academic posters. Then, posters from a
-               pharmacy education conference were retrospectively reviewed and
-               scored. Visual impression was compared for traditional versus
-               contemporary poster-formats. Various poster characteristics
-               (poster-format, summary statement presence, abstract presence,
-               wordiness, QR-code presence, logical sequencing, visuals) that
-               might have impacted visual communication were coded. These
-               characteristics were regressed onto visual impression scores.
-               Results: Three-hundred seventy-eight posters were scored with
-               sound inter-rater reliability. Contemporary poster-format scored
-               significantly higher than traditional. Poster-format, abstract
-               absence, lack of wordiness, QR-code presence, logical sequencing,
-               and number of visuals were significant when regressed.
-               Conclusion: Posters at one academic conference had varied visual
-               impression. While a contemporary poster-format appeared more
-               helpful, it was not a panacea; variation from poor through
-               exemplary was seen with both poster-formats. Posters are not
-               text-filled articles; displaying a combination of visuals/text
-               clearly and concisely can help effective communication with
-               academic posters.",
-  month     =  mar,
-  year      =  2024,
-  url       = "http://dx.doi.org/10.1016/j.rcsop.2024.100423",
-  keywords  = "Conference; Poster; Visual communication; Visual impression",
-  doi       = "10.1016/j.rcsop.2024.100423",
-  pmc       = "PMC10899018",
-  pmid      =  38420611,
-  issn      = "2667-2766",
-  language  = "en"
-}
-
 @MISC{Agc2021-zw,
   title        = "Construction Workforce Shortages Reach Pre-pandemic Levels
                   Even as Coronavirus Continues to Impact Projects \& Disrupt
@@ -13230,6 +13183,53 @@
   url       = "https://ieeexplore.ieee.org/document/8088467/figures#figures",
   doi       = "10.1109/ismar-adjunct.2017.50",
   isbn      = "9780769563275,9781538614549",
+  language  = "en"
+}
+
+@ARTICLE{Khadka2024-hx,
+  title     = "Academic conference posters: Describing visual impression in
+               pharmacy education",
+  author    = "Khadka, Sheela and Holt, Katlyn and Peeters, Michael J",
+  journal   = "Exploratory research in clinical and social pharmacy",
+  publisher = "Elsevier BV",
+  volume    =  13,
+  number    =  100423,
+  pages     =  100423,
+  abstract  = "Background: Academic conference posters are a key communication
+               before journal articles. Attention to visual attributes can
+               enhance academic poster communication. Objective: This
+               investigation's purpose was to create a visual impression
+               measurement instrument, and then to describe and compare visual
+               impression among scientific posters from an academic conference.
+               Methods: A mixed-approach rubric was created to quickly measure
+               visual impression of academic posters. Then, posters from a
+               pharmacy education conference were retrospectively reviewed and
+               scored. Visual impression was compared for traditional versus
+               contemporary poster-formats. Various poster characteristics
+               (poster-format, summary statement presence, abstract presence,
+               wordiness, QR-code presence, logical sequencing, visuals) that
+               might have impacted visual communication were coded. These
+               characteristics were regressed onto visual impression scores.
+               Results: Three-hundred seventy-eight posters were scored with
+               sound inter-rater reliability. Contemporary poster-format scored
+               significantly higher than traditional. Poster-format, abstract
+               absence, lack of wordiness, QR-code presence, logical sequencing,
+               and number of visuals were significant when regressed.
+               Conclusion: Posters at one academic conference had varied visual
+               impression. While a contemporary poster-format appeared more
+               helpful, it was not a panacea; variation from poor through
+               exemplary was seen with both poster-formats. Posters are not
+               text-filled articles; displaying a combination of visuals/text
+               clearly and concisely can help effective communication with
+               academic posters.",
+  month     =  mar,
+  year      =  2024,
+  url       = "http://dx.doi.org/10.1016/j.rcsop.2024.100423",
+  keywords  = "Conference; Poster; Visual communication; Visual impression",
+  doi       = "10.1016/j.rcsop.2024.100423",
+  pmc       = "PMC10899018",
+  pmid      =  38420611,
+  issn      = "2667-2766",
   language  = "en"
 }
 
