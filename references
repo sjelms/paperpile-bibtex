@@ -551,6 +551,15 @@
   language  = "en"
 }
 
+@MISC{Ministry-of-Housing-Communities-Local-Government2023-xs,
+  title        = "National Planning Policy Framework",
+  author       = "{Ministry of Housing, Communities \& Local Government}",
+  address      = "Fry Building, 2 Marsham Street, London, SW1P 4DF",
+  month        =  dec,
+  year         =  2023,
+  howpublished = "\url{https://www.gov.uk/mhclg}"
+}
+
 @ARTICLE{Zhou2019-ys,
   title     = "Personalized planning and training system for brachytherapy based
                on virtual reality",
