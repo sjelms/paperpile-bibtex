@@ -560,6 +560,14 @@
   howpublished = "\url{https://www.gov.uk/mhclg}"
 }
 
+@MISC{Zaidi2024-zj,
+  title        = "Climate Resilience Game Changers Assessment",
+  author       = "Zaidi, Ali and Prabhakar, Arati and Mallory, Brenda",
+  month        =  jul,
+  year         =  2024,
+  howpublished = "\url{https://www.whitehouse.gov}"
+}
+
 @ARTICLE{Zhou2019-ys,
   title     = "Personalized planning and training system for brachytherapy based
                on virtual reality",
