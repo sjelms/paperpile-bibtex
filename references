@@ -2627,6 +2627,25 @@
   language  = "en"
 }
 
+@ARTICLE{Taylor2011-jy,
+  title     = "Reform the {PhD} system or close it down",
+  author    = "Taylor, Mark",
+  journal   = "Nature",
+  publisher = "Springer Science and Business Media LLC",
+  volume    =  472,
+  number    =  7343,
+  pages     = "261--261",
+  abstract  = "There are too many doctoral programmes, producing too many PhDs
+               for the job market. Shut some and change the rest, says Mark C.
+               Taylor.",
+  month     =  apr,
+  year      =  2011,
+  url       = "https://www.nature.com/articles/472261a",
+  doi       = "10.1038/472261a",
+  issn      = "0028-0836,1476-4687",
+  language  = "en"
+}
+
 @MISC{Agc2021-zw,
   title        = "Construction Workforce Shortages Reach Pre-pandemic Levels
                   Even as Coronavirus Continues to Impact Projects \& Disrupt
