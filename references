@@ -28089,6 +28089,17 @@
   language  = "en"
 }
 
+@BOOK{Benyus2020-id,
+  title     = "Biomimicry: Innovation inspired by nature",
+  author    = "Benyus, Janine M",
+  publisher = "HarperAudio",
+  address   = "New York, NY",
+  month     =  apr,
+  year      =  2020,
+  isbn      =  9780062955371,
+  language  = "en"
+}
+
 @MISC{Mavrikis_undated-ja,
   title        = "Exploring the Potential of Speech Recognition to Support
                   Problem Solving and Reflection Wizards go to school in the
