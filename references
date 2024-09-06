@@ -917,6 +917,19 @@
   doi       = "10.1007/11736639\_150"
 }
 
+@BOOK{Friedman1977-mf,
+  title     = "Industry and labour: Class struggle at work and monopoly
+               capitalism",
+  author    = "Friedman, Andrew L",
+  publisher = "Palgrave Macmillan",
+  address   = "Basingstoke, England",
+  month     =  dec,
+  year      =  1977,
+  url       = "https://link.springer.com/book/10.1007/978-1-349-15845-4",
+  doi       = "10.1007/978-1-349-15845-4",
+  isbn      = "9780333230329,9781349158454"
+}
+
 @INCOLLECTION{Ataizi2012-ve,
   title     = "Situated Cognition",
   author    = "Ataizi, Murat",
