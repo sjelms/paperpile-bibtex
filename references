@@ -585,11 +585,11 @@
   language  = "en"
 }
 
-@MISC{Dicks2023-mx,
+@MISC{Watson2024-vl,
   title    = "Wind River Built's Mission to Bring Back The Starter Home in Style
               with Modular Home Construction",
-  author   = "Dicks, Amelia",
-  editor   = "Watson, Blake",
+  author   = "Watson, Blake and Dicks, Amelia",
+  editor   = "Watson, Blake and Dicks, Amelia",
   abstract = "Amelia Dicks, Director of Business Development at Wind River
               Built, tells us how her company is on a mission to bring back the
               starter home, and do it with style using modular home
@@ -602,8 +602,8 @@
               poised to positively impact housing in the entire region, right
               here from Southeast Tennessee.",
   month    =  sep,
-  year     =  2023,
-  url      = "https://www.athomechattanooga.com/"
+  year     =  2024,
+  url      = "https://www.chattanoogarealestatepodcast.com/wind-river-builts-mission-to-bring-back-the-starter-home-in-style-with-modular-home-construction/"
 }
 
 @MISC{Jaffe2018-ou,
