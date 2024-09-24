@@ -5526,6 +5526,21 @@
   url     = "https://infed.org/malcolm-knowles-informal-adult-education-self-direction-and-andragogy/"
 }
 
+@MISC{Borden2024-cm,
+  title        = "The {AI} revolution will be ‘virtualized’",
+  author       = "Borden, Kimberly and Huntington, Mark and Kamat, Mithun and
+                  Roper, Will",
+  publisher    = "McKinsey \& Company",
+  abstract     = "In the new AI revolution, the line between digital and
+                  physical has dissolved. We look at how brands are creating AI
+                  simulations of real-world counterparts.",
+  month        =  apr,
+  year         =  2024,
+  howpublished = "\url{https://www.mckinsey.com/capabilities/operations/our-insights/the-ai-revolution-will-be-virtualized\#/}",
+  note         = "Accessed: 2024-9-24",
+  language     = "en"
+}
+
 @BOOK{Russell2019-or,
   title     = "Human Compatible: Artificial Intelligence and the Problem of
                Control",
