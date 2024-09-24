@@ -34329,6 +34329,27 @@
   language  = "en"
 }
 
+@BOOK{Brynjolfsson2024-gd,
+  title     = "The Digitalist Papers: Artificial Intelligence and Democracy in
+               America",
+  author    = "Brynjolfsson, Erik and Pentland, Alex and Persily, Nathaniel and
+               Rice, Condoleezza and Aristidou, Angela",
+  publisher = "Stanford Digital Economy Lab",
+  address   = "Stanford, CA",
+  edition   = "First Edition",
+  abstract  = "Rapid advances in AI are reshaping how we govern ourselves.
+               Inspired by The Federalist Papers, which promoted the idea of a
+               nation designed by intent rather than by accident, The Digitalist
+               Papers series delves into the critical intersection of AI and
+               democracy. This volume brings together scholars and industry
+               leaders to explore the opportunities and challenges AI presents,
+               offering a range of strategies for a democratic future. Instead
+               of a one-size-fits-all solution, it champions a pluralistic,
+               interdisciplinary approach to navigating this transformative era.",
+  year      =  2024,
+  url       = "https://www.digitalistpapers.com/"
+}
+
 @ARTICLE{Soltani2023-fd,
   title     = "The State of Industry 4.0 in the Australian Construction
                Industry: An Examination of Industry and Academic Point of View",
