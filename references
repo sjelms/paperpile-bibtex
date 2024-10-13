@@ -25996,6 +25996,17 @@
   institution = " Building 4.0 CRC"
 }
 
+@BOOK{Arieff2002-gs,
+  title     = "Prefab",
+  author    = "Arieff, Allison and Burkhart, Bryan",
+  publisher = "Gibbs M. Smith",
+  address   = "Layton, UT",
+  month     =  may,
+  year      =  2002,
+  isbn      =  9781586851323,
+  language  = "en"
+}
+
 @BOOK{Thompson1973-ow,
   title     = "Foundations of Vocational Education: Social and Philosophical
                Concepts",
