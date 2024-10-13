@@ -32293,6 +32293,15 @@
   language     = "en"
 }
 
+@BOOK{Lidelow2015-pk,
+  title    = "Industriellt husbyggande",
+  author   = "Lidelöw, Helena and Stehn, Lars and Lessing, Jerker and Engström,
+              Dan",
+  year     =  2015,
+  isbn     =  9789144096643,
+  language = "sv"
+}
+
 @MISC{Leaker2023-do,
   title        = "Labour market overview, {UK} - Office for National Statistics",
   author       = "Leaker, Debra",
