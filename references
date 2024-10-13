@@ -34505,6 +34505,14 @@
   note         = "Accessed: --"
 }
 
+@BOOK{noauthor_2015-mh,
+  title    = "Industrialised house-building: Conceptual orientation and
+              strategic perspectives",
+  year     =  2015,
+  isbn     =  9789187993053,
+  language = "en"
+}
+
 @MISC{noauthor_undated-st,
   title        = "Narrative inquiry by {D}. Clandinin and {J}. Huber",
   howpublished = "\url{http://www.mofet.macam.ac.il/amitim/iun/CollaborativeResearch/Documents/NarrativeInquiry.pdf}",
