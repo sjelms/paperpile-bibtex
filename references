@@ -12644,18 +12644,6 @@
   year     =  2020
 }
 
-@PHDTHESIS{Lessing2015-vt,
-  title    = "Industrialised house-building: Conceptual orientation and
-              strategic perspectives",
-  author   = "Lessing, Jerker",
-  address  = "Division of Structural Engineering",
-  year     =  2015,
-  url      = "https://api.semanticscholar.org/CorpusID:110501469",
-  isbn     =  9789187993053,
-  school   = "Lund University",
-  language = "en"
-}
-
 @TECHREPORT{Ukces2012-bu,
   title       = "Construction, Building Services Engineering and Planning:
                  Sector Skills Assessment 2012",
@@ -34678,4 +34666,16 @@
   doi       = "10.1016/j.autcon.2016.08.040",
   issn      = "0926-5805,1872-7891",
   language  = "en"
+}
+
+@PHDTHESIS{Lessing2015-vt,
+  title    = "Industrialised house-building: Conceptual orientation and
+              strategic perspectives",
+  author   = "Lessing, Jerker",
+  address  = "Division of Structural Engineering",
+  year     =  2015,
+  url      = "https://api.semanticscholar.org/CorpusID:110501469",
+  isbn     =  9789187993053,
+  school   = "Lund University",
+  language = "en"
 }
