@@ -7367,6 +7367,18 @@
   isbn      =  9780691172798
 }
 
+@BOOK{Childers2017-ps,
+  title     = "The riddle of the Sands",
+  author    = "Childers, Erskine",
+  publisher = "Macmillan Collector's Library",
+  address   = "London, England",
+  series    = "Macmillan Collector's Library",
+  month     =  oct,
+  year      =  2017,
+  isbn      =  9781509848126,
+  language  = "en"
+}
+
 @BOOK{Gallace2014-lu,
   title     = "In Touch with the Future: The sense of touch from cognitive
                neuroscience to virtual reality",
