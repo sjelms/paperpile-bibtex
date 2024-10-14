@@ -34637,3 +34637,11 @@
   isbn      =  9781780675503,
   language  = "en"
 }
+
+@BOOK{Boverket2008-qe,
+  title    = "Industriellt bostadsbyggande: koncept och processer",
+  author   = "Boverket, Sverige",
+  year     =  2008,
+  isbn     =  9789185751990,
+  language = "sv"
+}
