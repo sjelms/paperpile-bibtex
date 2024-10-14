@@ -11272,6 +11272,18 @@
   language  = "en"
 }
 
+@BOOK{XiangUnknown-xf,
+  title     = "Novel technology and whole-process management in prefabricated
+               building: Conference proceedings of the {5th} international
+               prefabricated building seminar on frontier technology and talent
+               training",
+  author    = "Xiang, Ping",
+  publisher = "Springer Nature",
+  address   = "Cham, Switzerland",
+  isbn      =  9789819751082,
+  language  = "en"
+}
+
 @TECHREPORT{Felstead2011-az,
   title       = "Praxis: Working to Learn, Learning to Work",
   author      = "Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
