@@ -11284,6 +11284,42 @@
   language  = "en"
 }
 
+@BOOK{LeCompte2010-gu,
+  title     = "Designing \& Conducting Ethnographic Research: An introduction",
+  author    = "LeCompte, Margaret Diane and Schensul, Jean J",
+  publisher = "Rowman Altamira",
+  abstract  = "This is Book 1 of 7 in the Ethnographer's Toolkit, Second
+               Edition. The Ethnographer's Toolkit series begins with this
+               primer, which introduces novice and expert practitioners alike to
+               the process of ethnographic research, including answers to
+               questions such as who should and can do ethnography, when it is
+               used most fruitfully, and how research projects are carried out
+               from conceptualization to the uses of research results. Written
+               in practical, straightforward language, this new edition defines
+               the qualitative research enterprise, links research strategies to
+               theoretical paradigms, and outlines the ways in which an
+               ethnographic study can be designed. Use Designing and Conducting
+               Ethnographic Research as a guide to the entire Toolkit or as a
+               stand-alone introduction to ethnographic research. Other books in
+               the set: Book 2: Initiating Ethnographic Research: A Mixed
+               Methods Approach by Stephen L. Schensul, Jean J. Schensul, and
+               Margaret D. LeCompte 9780759122017 Book 3: Essential Ethnographic
+               Methods: A Mixed Methods Approach, Second Edition by Jean J.
+               Schensul and Margaret D. LeCompte 9780759122031 Book 4:
+               Specialized Ethnographic Methods: A Mixed Methods Approach edited
+               by Jean J. Schensul and Margaret D. LeCompte 9780759122055 Book
+               5: Analysis and Interpretation of Ethnographic Data: A Mixed
+               Methods Approach, Second Edition by Margaret D. LeCompte and Jean
+               J. Schensul 9780759122079 Book 6: Ethics in Ethnography: A Mixed
+               Methods Approach by Margaret D. LeCompte and Jean J. Schensul
+               9780759122093 Book 7: Ethnography in Action: A Mixed Methods
+               Approach by Jean J. Schensul and Margaret D. LeCompte
+               9780759122116",
+  year      =  2010,
+  isbn      =  9780759118690,
+  language  = "en"
+}
+
 @TECHREPORT{Felstead2011-az,
   title       = "Praxis: Working to Learn, Learning to Work",
   author      = "Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
