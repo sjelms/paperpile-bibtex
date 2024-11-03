@@ -11323,6 +11323,22 @@
   language  = "en"
 }
 
+@ARTICLE{Handel2016-gv,
+  title     = "What do people do at work?",
+  author    = "Handel, Michael J",
+  journal   = "Journal for labour market research",
+  publisher = "Springer Science and Business Media LLC",
+  volume    =  49,
+  number    =  2,
+  pages     = "177--197",
+  month     =  oct,
+  year      =  2016,
+  url       = "http://dx.doi.org/10.1007/s12651-016-0213-1",
+  doi       = "10.1007/s12651-016-0213-1",
+  issn      = "1614-3485,1867-8343",
+  language  = "en"
+}
+
 @TECHREPORT{Felstead2011-az,
   title       = "Praxis: Working to Learn, Learning to Work",
   author      = "Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
