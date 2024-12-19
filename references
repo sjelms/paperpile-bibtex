@@ -11323,6 +11323,12 @@
   language  = "en"
 }
 
+@ARTICLE{GinigaddaraUnknown-qq,
+  author    = "Ginigaddara, B and Perera, S and Feng, Y and {others}",
+  publisher = "arataumodular.com",
+  url       = "https://www.arataumodular.com/app/wp-content/uploads/2022/07/Skills-Required-for-Offsite-Construction.pdf"
+}
+
 @TECHREPORT{Brennan2024-pe,
   title       = "Volumetric Modular Construction Research",
   author      = "Brennan, Jennifer and Vokes, Clare and Massey, Terry",
