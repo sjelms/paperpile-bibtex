@@ -34975,12 +34975,15 @@
   language    = "en"
 }
 
-@ARTICLE{Ginigaddara2021-jp,
+@ARTICLE{Ginigaddara2022-bd,
   title     = "Offsite construction skills evolution: an Australian case study",
-  author    = "Ginigaddara, B and Perera, S and Feng, Yingbin and
-               Rahnamayiezekavat, P",
-  journal   = "Construction Innovation: Information, Process, Management",
-  publisher = "arataumodular.com",
+  author    = "Ginigaddara, Buddhini and Perera, Srinath and Feng, Yingbin and
+               Rahnamayiezekavat, Payam",
+  journal   = "Construction innovation",
+  publisher = "Emerald",
+  volume    =  22,
+  number    =  1,
+  pages     = "41--56",
   abstract  = "Purpose The construction industry is currently responding to
                pressures of industrialisation happening across all sectors.
                Consequently, offsite construction (OSC) has become a vehicle to
@@ -35011,8 +35014,10 @@
                is the first of its kind where a comprehensive OSC project is
                evaluated as a case study to determine OSC skill classification
                requirements in Australia.",
-  month     =  mar,
-  year      =  2021,
+  month     =  jan,
+  year      =  2022,
   url       = "https://www.arataumodular.com/app/wp-content/uploads/2022/07/Skills-Required-for-Offsite-Construction.pdf",
-  doi       = "10.1108/CI-10-2019-0109"
+  doi       = "10.1108/ci-10-2019-0109",
+  issn      = "1471-4175,1477-0857",
+  language  = "en"
 }
