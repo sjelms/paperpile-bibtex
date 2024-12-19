@@ -11331,20 +11331,6 @@
   language     = "en"
 }
 
-@TECHREPORT{Brennan2017-gj,
-  title       = "Faster, Smarter, More Efficient: Building Skills for Offsite
-                 Construction",
-  author      = "Brennan, Jennifer and Vokes, Clare",
-  institution = "Construction Industry Training Board",
-  abstract    = "This report examines how the use of offsite construction
-                 techniques is changing the skills and training landscape for
-                 construction.",
-  month       =  apr,
-  year        =  2017,
-  url         = "https://www.citb.co.uk/about-citb/construction-industry-research-reports/search-our-construction-industry-research-reports/faster-smarter-more-efficient-building-skills-for-offsite-construction/",
-  language    = "en"
-}
-
 @TECHREPORT{Felstead2011-az,
   title       = "Praxis: Working to Learn, Learning to Work",
   author      = "Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
@@ -34958,4 +34944,18 @@
   doi       = "10.1108/ci-10-2019-0109",
   issn      = "1471-4175,1477-0857",
   language  = "en"
+}
+
+@TECHREPORT{Brennan2017-gj,
+  title       = "Faster, Smarter, More Efficient: Building Skills for Offsite
+                 Construction",
+  author      = "Brennan, Jennifer and Vokes, Clare",
+  institution = "Construction Industry Training Board",
+  abstract    = "This report examines how the use of offsite construction
+                 techniques is changing the skills and training landscape for
+                 construction.",
+  month       =  apr,
+  year        =  2017,
+  url         = "https://www.citb.co.uk/about-citb/construction-industry-research-reports/search-our-construction-industry-research-reports/faster-smarter-more-efficient-building-skills-for-offsite-construction/",
+  language    = "en"
 }
