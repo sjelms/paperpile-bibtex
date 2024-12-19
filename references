@@ -11323,6 +11323,18 @@
   language  = "en"
 }
 
+@ARTICLE{Unknown2021-bi,
+  title    = "Faster, smarter, more efficient: building skills for offsite
+              construction - {CITB}",
+  abstract = "This report examines how the use of offsite construction
+              techniques is changing the skills and training landscape for
+              construction.",
+  month    =  apr,
+  year     =  2021,
+  url      = "https://www.citb.co.uk/about-citb/construction-industry-research-reports/search-our-construction-industry-research-reports/faster-smarter-more-efficient-building-skills-for-offsite-construction/",
+  language = "en"
+}
+
 @MISC{noauthor_undated-pm,
   title        = "Volumetric modular construction research",
   booktitle    = "GOV.UK",
