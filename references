@@ -11346,18 +11346,6 @@
   language    = "en"
 }
 
-@TECHREPORT{Galor2011-hq,
-  title     = "Inequality, human capital formation and the process of
-               development",
-  author    = "Galor, Oded",
-  publisher = "National Bureau of Economic Research",
-  address   = "Cambridge, MA",
-  month     =  may,
-  year      =  2011,
-  url       = "http://dx.doi.org/10.3386/w17058",
-  doi       = "10.3386/w17058"
-}
-
 @TECHREPORT{Felstead2011-az,
   title       = "Praxis: Working to Learn, Learning to Work",
   author      = "Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
@@ -35032,4 +35020,16 @@
   doi       = "10.1108/ci-10-2019-0109",
   issn      = "1471-4175,1477-0857",
   language  = "en"
+}
+
+@TECHREPORT{Galor2011-hq,
+  title     = "Inequality, human capital formation and the process of
+               development",
+  author    = "Galor, Oded",
+  publisher = "National Bureau of Economic Research",
+  address   = "Cambridge, MA",
+  month     =  may,
+  year      =  2011,
+  url       = "http://dx.doi.org/10.3386/w17058",
+  doi       = "10.3386/w17058"
 }
