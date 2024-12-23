@@ -11346,6 +11346,23 @@
   language    = "en"
 }
 
+@ARTICLE{Alexopoulos2016-nb,
+  title     = "The medium is the measure: Technical change and employment,
+               {1909—1949}",
+  author    = "Alexopoulos, Michelle and Cohen, Jon",
+  journal   = "The Review of Economics and Statistics",
+  publisher = "MIT Press - Journals",
+  volume    =  98,
+  number    =  4,
+  pages     = "792--810",
+  month     =  oct,
+  year      =  2016,
+  url       = "http://dx.doi.org/10.1162/rest_a_00588",
+  doi       = "10.1162/rest\_a\_00588",
+  issn      = "0034-6535,1530-9142",
+  language  = "en"
+}
+
 @TECHREPORT{Felstead2011-az,
   title       = "Praxis: Working to Learn, Learning to Work",
   author      = "Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
