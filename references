@@ -11363,6 +11363,24 @@
   language  = "en"
 }
 
+@ARTICLE{Allen2017-wa,
+  title       = "Lessons from history for the future of work",
+  author      = "Allen, Robert C",
+  affiliation = "New York University Abu Dhabi, United Arab Emirates; and senior
+                 research fellow at Nuffield College, Oxford, UK.",
+  journal     = "Nature",
+  volume      =  550,
+  number      =  7676,
+  pages       = "321--324",
+  month       =  oct,
+  year        =  2017,
+  url         = "http://dx.doi.org/10.1038/550321a",
+  doi         = "10.1038/550321a",
+  pmid        =  29052648,
+  issn        = "0028-0836,1476-4687",
+  language    = "en"
+}
+
 @TECHREPORT{Felstead2011-az,
   title       = "Praxis: Working to Learn, Learning to Work",
   author      = "Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
