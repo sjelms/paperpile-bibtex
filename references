@@ -35068,3 +35068,17 @@
   issn        = "0028-0836,1476-4687",
   language    = "en"
 }
+
+@BOOK{Hiebert2023-hr,
+  title     = "Doing research: A new researcher’s guide",
+  author    = "Hiebert, James and Cai, Jinfa and Hwang, Stephen and Morris, Anne
+               K and Hohensee, Charles",
+  publisher = "Springer International Publishing",
+  address   = "Cham",
+  year      =  2023,
+  url       = "http://dx.doi.org/10.1007/978-3-031-19078-0",
+  doi       = "10.1007/978-3-031-19078-0",
+  isbn      = "9783031190773,9783031190780",
+  issn      = "2570-4729,2570-4737",
+  language  = "en"
+}
