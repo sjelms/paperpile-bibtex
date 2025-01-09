@@ -34666,6 +34666,19 @@
   language  = "en"
 }
 
+@BOOK{Robinson2017-sf,
+  title       = "Out of our minds",
+  author      = "Robinson, Ken",
+  affiliation = "Los Angeles, CA",
+  publisher   = "Capstone Publishing",
+  address     = "Chichester, England",
+  edition     =  3,
+  month       =  sep,
+  year        =  2017,
+  isbn        =  9780857087447,
+  language    = "en"
+}
+
 @ARTICLE{Noetel2024-xb,
   title     = "Effect of exercise for depression: systematic review and network
                meta-analysis of randomised controlled trials",
