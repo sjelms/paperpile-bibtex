@@ -11447,6 +11447,16 @@
   language    = "en"
 }
 
+@BOOK{Macy2017-gr,
+  title     = "Factory man",
+  author    = "Macy, Beth",
+  publisher = "Picador",
+  address   = "London, England",
+  month     =  mar,
+  year      =  2017,
+  isbn      =  9781447295457
+}
+
 @TECHREPORT{Felstead2011-az,
   title       = "Praxis: Working to Learn, Learning to Work",
   author      = "Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
