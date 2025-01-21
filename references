@@ -11458,6 +11458,17 @@
   isbn      =  9781447295457
 }
 
+@MISC{UnknownUnknown-vj,
+  title        = "Notion – The all-in-one workspace for your notes, tasks,
+                  wikis, and databases",
+  booktitle    = "Notion",
+  abstract     = "A new tool that blends your everyday work apps into one. It's
+                  the all-in-one workspace for you and your team",
+  howpublished = "\url{https://www.notion.so/sjelms/d96fb34af41842088d2c076fe1203811}",
+  note         = "Accessed: 2025-1-21",
+  language     = "en"
+}
+
 @TECHREPORT{Felstead2011-az,
   title       = "Praxis: Working to Learn, Learning to Work",
   author      = "Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
