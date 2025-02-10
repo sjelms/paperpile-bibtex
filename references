@@ -26603,6 +26603,18 @@
   url       = "http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/adaptive_automation_strategies_for_robotic_prefabrication_of_parametrized_mass_timber_building_components.html"
 }
 
+@BOOK{Maddow2020-tg,
+  title     = "Blowout: Corrupted Democracy, Rogue State Russia, and the
+               Richest, Most Destructive Industry on Earth",
+  author    = "Maddow, Rachel",
+  publisher = "Vintage Digital",
+  address   = "London, England",
+  month     =  feb,
+  year      =  2020,
+  isbn      =  9781473579774,
+  language  = "en"
+}
+
 @BOOK{LeCompte2010-gu,
   title     = "Designing \& Conducting Ethnographic Research: An introduction",
   author    = "LeCompte, Margaret Diane and Schensul, Jean J",
@@ -31420,17 +31432,6 @@
   year      =  2019,
   url       = "https://us.sagepub.com/en-us/nam/research-methodology/book257990",
   isbn      =  9781526449900,
-  language  = "en"
-}
-
-@BOOK{Maddow2020-tg,
-  title     = "Blowout",
-  author    = "Maddow, Rachel",
-  publisher = "Vintage Digital",
-  address   = "London, England",
-  month     =  feb,
-  year      =  2020,
-  isbn      =  9781473579774,
   language  = "en"
 }
 
