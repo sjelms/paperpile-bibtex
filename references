@@ -6082,23 +6082,6 @@
   note         = "Accessed: 2021-9-9"
 }
 
-@ARTICLE{Wiesen2018-aa,
-  title       = "American lynching in the Nazi imagination: Race and extra-legal
-                 violence in {1930s} Germany",
-  author      = "Wiesen, S Jonathan",
-  affiliation = "Southern Illinois University Carbondale",
-  journal     = "German history: the journal of the German History Society",
-  publisher   = "Oxford University Press (OUP)",
-  volume      =  36,
-  number      =  1,
-  pages       = "38--59",
-  month       =  feb,
-  year        =  2018,
-  url         = "http://dx.doi.org/10.1093/gerhis/ghx122",
-  doi         = "10.1093/gerhis/ghx122",
-  issn        = "0266-3554,1477-089X"
-}
-
 @MISC{Unesco-unevoc2015-ie,
   title        = "What is {TVET}?",
   author       = "{UNESCO-UNEVOC}",
@@ -11490,6 +11473,18 @@
   doi       = "10.1162/rest\_a\_00588",
   issn      = "0034-6535,1530-9142",
   language  = "en"
+}
+
+@BOOK{Whitman2017-ks,
+  title     = "Hitler's American model",
+  author    = "Whitman, James Q",
+  publisher = "Princeton University Press",
+  address   = "Princeton, NJ",
+  month     =  mar,
+  year      =  2017,
+  url       = "http://dx.doi.org/10.1515/9781400884636",
+  doi       = "10.1515/9781400884636",
+  isbn      =  9781400884636
 }
 
 @ARTICLE{Busse2021-jf,
@@ -20289,6 +20284,23 @@
   institution = "Deloitte",
   month       =  nov,
   year        =  2021
+}
+
+@ARTICLE{Wiesen2018-aa,
+  title       = "American lynching in the Nazi imagination: Race and extra-legal
+                 violence in {1930s} Germany",
+  author      = "Wiesen, S Jonathan",
+  affiliation = "Southern Illinois University Carbondale",
+  journal     = "German history: the journal of the German History Society",
+  publisher   = "Oxford University Press (OUP)",
+  volume      =  36,
+  number      =  1,
+  pages       = "38--59",
+  month       =  feb,
+  year        =  2018,
+  url         = "http://dx.doi.org/10.1093/gerhis/ghx122",
+  doi         = "10.1093/gerhis/ghx122",
+  issn        = "0266-3554,1477-089X"
 }
 
 @ARTICLE{Chen2022-fx,
