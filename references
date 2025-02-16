@@ -860,9 +860,11 @@
   annote   = "<p>DEVELOPMENT, DISRUPTION \& DEBATE</p>"
 }
 
-@ARTICLE{Unknown2010-bp,
+@ARTICLE{Bell2010-gt,
   title    = "Performance Gains from Speech-enhanced Simulation in Military
               Flying Training",
+  author   = "Bell, Benjamin and Billington, Winston and Bennett, Ian and
+              Billington, Stacie and Ryder, Joan",
   journal  = "The Journal of Defense Modeling and Simulation",
   volume   =  7,
   number   =  2,
