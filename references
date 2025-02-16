@@ -12687,7 +12687,8 @@
   publisher   = "BCS Learning \& Development",
   year        =  2012,
   url         = "http://dx.doi.org/10.14236/ewic/hci2012.10",
-  keywords    = "\_In Notion;\_In Readwise;\_New Literature;\_XR \& MR",
+  keywords    = "\_BibTex to MD Git;\_In Notion;\_In Readwise;\_New
+                 Literature;\_XR \& MR",
   doi         = "10.14236/ewic/hci2012.10",
   issn        = "1477-9358"
 }
@@ -18295,7 +18296,7 @@
   month     =  oct,
   year      =  2013,
   url       = "http://dx.doi.org/10.1016/j.compedu.2013.02.015",
-  keywords  = "Journal Articles;\_XR \& MR;HCI;\_Mark Up",
+  keywords  = "Journal Articles;\_BibTex to MD Git;\_XR \& MR;HCI;\_Mark Up",
   doi       = "10.1016/j.compedu.2013.02.015",
   issn      = "0360-1315,1873-782X",
   language  = "en"
@@ -22068,8 +22069,8 @@
   address   = "New York, New York, USA",
   year      =  2012,
   url       = "http://dx.doi.org/10.1145/2399016.2399032",
-  keywords  = "ACM\_Association for Computing Machinery;\_XR \& MR;\_Mark
-               Up;Cited for Frontiers;ACM",
+  keywords  = "ACM\_Association for Computing Machinery;\_BibTex to MD Git;\_XR
+               \& MR;\_Mark Up;Cited for Frontiers;ACM",
   doi       = "10.1145/2399016.2399032",
   isbn      =  9781450314824
 }
@@ -22237,7 +22238,7 @@
   publisher = "Lausanne, EPFL",
   year      =  2013,
   url       = "https://infoscience.epfl.ch/record/190279/files/EPFL_TH5931.pdf",
-  keywords  = "VET;\_XR \& MR;Training;VET",
+  keywords  = "VET;\_BibTex to MD Git;\_XR \& MR;Training;VET",
   doi       = "10.5075/EPFL-THESIS-5931"
 }
 
