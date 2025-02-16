@@ -252,8 +252,8 @@
   url       = "http://www.ijcaonline.org/archives/volume181/number43/30402-2019918451",
   keywords  = "Zotero Import (Feb 22);My Library;Intelligent Tutoring Systems
                (ITS);Frontiers [2022];AIEd [CCME0123];Journal Articles;Notion
-               Catalogued;Intelligent Tutoring Systems (ITS);\_Mark Up;Course
-               Assignment;\_Cataloged",
+               Catalogued;\_BibTex to MD Git;Intelligent Tutoring Systems
+               (ITS);\_Mark Up;Course Assignment;\_Cataloged",
   doi       = "10.5120/ijca2019918451",
   issn      = "1206-212X,0975-8887"
 }
@@ -5036,7 +5036,8 @@
   month        =  "28~" # jun,
   year         =  2019,
   howpublished = "\url{https://madison-historical.siue.edu/encyclopedia/standard-oils-company-housing-in-wood-river-illinois/}",
-  keywords     = "Frontiers [2022];Cited for Frontiers;\_In Notion"
+  keywords     = "Frontiers [2022];\_BibTex to MD Git;Cited for Frontiers;\_In
+                  Notion"
 }
 
 @MISC{Surette2011-pc,
@@ -6100,8 +6101,9 @@
   publisher = "MIT Press",
   year      =  2022,
   url       = "https://mitpress.mit.edu/9780262547307/the-work-of-the-future/",
-  keywords  = "Frontiers [2022];EPubs Books;Book (physical);ePub;\_Mark Up;Cited
-               for Frontiers;Automation;Economics;Employment;Skill
+  keywords  = "Frontiers [2022];EPubs Books;\_BibTex to MD Git;Book
+               (physical);ePub;\_Mark Up;Cited for
+               Frontiers;Automation;Economics;Employment;Skill
                demand;Technological change",
   lccn      =  2021010583,
   isbn      =  9780262046367
@@ -6488,7 +6490,7 @@
   year         =  2021,
   howpublished = "\url{https://blogs.lse.ac.uk/covid19/2021/03/31/why-central-london-has-seen-the-biggest-rises-in-house-prices-despite-covid/}",
   note         = "Accessed: 2022-4-13",
-  keywords     = "Frontiers [2022];\_In Notion",
+  keywords     = "Frontiers [2022];\_BibTex to MD Git;\_In Notion",
   language     = "en"
 }
 
@@ -6519,7 +6521,7 @@
   year         =  2021,
   howpublished = "\url{https://www.agc.org/news/2021/12/03/construction-adds-31000-jobs-november-gains-all-segments-industry-will-need-even-more-workers-demand}",
   note         = "Accessed: 2022-4-14",
-  keywords     = "Frontiers [2022];Labor;AEC;\_In Notion",
+  keywords     = "Frontiers [2022];\_BibTex to MD Git;Labor;AEC;\_In Notion",
   language     = "en"
 }
 
@@ -8174,7 +8176,8 @@
   month    =  "27~" # apr,
   year     =  2021,
   url      = "https://www.forbes.com/sites/saibala/2021/04/27/the-covid-19-pandemic-has-fueled-a-crisis-in-the-housing-market/",
-  keywords = "Frontiers [2022];Journal Articles;Cited for Frontiers;\_In Notion",
+  keywords = "Frontiers [2022];Journal Articles;\_BibTex to MD Git;Cited for
+              Frontiers;\_In Notion",
   language = "en"
 }
 
@@ -20796,8 +20799,8 @@
   month     =  "1~" # feb,
   year      =  1971,
   url       = "https://doi.org/10.1177/001088047101100409",
-  keywords  = "Frontiers [2022];Journal Articles;Cited for Frontiers;\_In
-               Notion;Labor",
+  keywords  = "Frontiers [2022];Journal Articles;\_BibTex to MD Git;Cited for
+               Frontiers;\_In Notion;Labor",
   doi       = "10.1177/001088047101100409",
   issn      = "0010-8804"
 }
@@ -21057,7 +21060,7 @@
   author    = "Clarke, S N and Boyd, B J",
   booktitle = "Proc., 47th ASC Annual International Conference Proceedings",
   year      =  2011,
-  keywords  = "Frontiers [2022];AEC;Labor"
+  keywords  = "Frontiers [2022];\_BibTex to MD Git;AEC;Labor"
 }
 
 @BOOK{Marriott2014-ef,
@@ -21178,7 +21181,8 @@
   institution = "Department for Business, Energy, and Industrial Strategy",
   month       =  "27~" # may,
   year        =  2021,
-  keywords    = "Frontiers [2022];Cited for Frontiers;Labor;\_In Notion"
+  keywords    = "Frontiers [2022];\_BibTex to MD Git;Cited for
+                 Frontiers;Labor;\_In Notion"
 }
 
 @ARTICLE{Belaya2018-we,
