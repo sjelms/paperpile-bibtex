@@ -6028,8 +6028,9 @@
   year     =  2017,
   url      = "https://www.sciencedirect.com/science/article/pii/S0040162516302244",
   keywords = "Zotero Import (Feb 22);My Library;EPubs Books;2\_Upgrade MAY
-              2023;Journal Articles;Employment;Occupational choice;Skill
-              demand;Technological change;Wage inequality;ePub;Economics",
+              2023;Journal Articles;\_BibTex to MD Git;Employment;Occupational
+              choice;Skill demand;Technological change;Wage
+              inequality;ePub;Economics",
   doi      = "10.1016/j.techfore.2016.08.019",
   issn     = "0040-1625"
 }
@@ -16013,8 +16014,9 @@
   month     =  "30~" # sep,
   year      =  2016,
   url       = "https://www.oecd-ilibrary.org/social-issues-migration-health/structural-transformation-in-the-oecd_5jlr068802f7-en",
-  keywords  = "Future of Work;\_In Notion;\_In Readwise;Economics;Skill
-               demand;Workplace Learning;\_New Literature",
+  keywords  = "Future of Work;\_BibTex to MD Git;\_In Notion;\_In
+               Readwise;Economics;Skill demand;Workplace Learning;\_New
+               Literature",
   doi       = "10.1787/5jlr068802f7-en",
   issn      = "1815-199X"
 }
@@ -16594,8 +16596,9 @@
   publisher = "Brown University",
   year      =  2023,
   url       = "https://ora.ox.ac.uk/objects/uuid:f52030f5-23eb-4481-a7f1-8006685edbae",
-  keywords  = "\_In Notion;\_In Readwise;Artificial Intelligence
-               (AI);Automation;Employment;Labor;Skill demand;Economics",
+  keywords  = "\_BibTex to MD Git;\_In Notion;\_In Readwise;Artificial
+               Intelligence (AI);Automation;Employment;Labor;Skill
+               demand;Economics",
   issn      = "1080-0786,2472-3347",
   language  = "en"
 }
@@ -17772,8 +17775,9 @@
   year        =  2013,
   url         = "https://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf",
   keywords    = "Zotero Import (Feb 22);My Library;EPubs Books;2\_Upgrade MAY
-                 2023;Future of Work;Employment;Occupational choice;Skill
-                 demand;Technological change;Wage inequality;Economics",
+                 2023;Future of Work;\_BibTex to MD Git;Employment;Occupational
+                 choice;Skill demand;Technological change;Wage
+                 inequality;Economics",
   doi         = "10.1016/j.techfore.2016.08.019"
 }
 
@@ -21856,7 +21860,8 @@
               key technologies needed for effective remote collaboration.",
   month    =  "11~" # apr,
   year     =  2022,
-  keywords = "Journal Articles;Workplace Learning;\_New Literature;Economics",
+  keywords = "Journal Articles;\_BibTex to MD Git;Workplace Learning;\_New
+              Literature;Economics",
   pmid     = "2022-4"
 }
 
@@ -34206,8 +34211,8 @@
   month       =  "4~" # mar,
   year        =  2017,
   url         = "http://dx.doi.org/10.1080/00343404.2015.1100288",
-  keywords    = "Workplace Learning;\_In Notion;\_In Readwise;Skill demand;\_New
-                 Literature;Economics",
+  keywords    = "\_BibTex to MD Git;Workplace Learning;\_In Notion;\_In
+                 Readwise;Skill demand;\_New Literature;Economics",
   doi         = "10.1080/00343404.2015.1100288",
   issn        = "0034-3404,1360-0591",
   language    = "en"
