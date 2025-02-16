@@ -5048,7 +5048,8 @@
   month        =  "29~" # sep,
   year         =  2011,
   howpublished = "\url{https://disneyparks.disney.go.com/blog/2011/09/histories-of-disneys-contemporary-and-polynesian-resorts/}",
-  keywords     = "Frontiers [2022];Cited for Frontiers;\_In Notion"
+  keywords     = "Frontiers [2022];\_BibTex to MD Git;Cited for Frontiers;\_In
+                  Notion"
 }
 
 @MISC{Redshift2019-vy,
@@ -5620,7 +5621,8 @@
   year         =  2020,
   howpublished = "\url{https://workofthefuture.mit.edu/mission/}",
   keywords     = "Zotero Import (Feb 22);My Library;2021-12-03
-                  Frontiers;Frontiers [2022];Cited for Frontiers"
+                  Frontiers;Frontiers [2022];\_BibTex to MD Git;Cited for
+                  Frontiers"
 }
 
 @MISC{Office_of_Qualifications_and_Examinations_Regulation_Ofqual2014-ny,
@@ -6459,7 +6461,7 @@
   year         =  2021,
   howpublished = "\url{https://www.propelleraero.com/blog/how-to-adapt-to-the-skilled-labor-shortage-in-construction/}",
   note         = "Accessed: 2022-4-13",
-  keywords     = "Frontiers [2022];Labor;\_In Notion;AEC",
+  keywords     = "Frontiers [2022];\_BibTex to MD Git;Labor;\_In Notion;AEC",
   language     = "en"
 }
 
@@ -6473,7 +6475,8 @@
   month     =  "3~" # sep,
   year      =  2021,
   url       = "http://www.theguardian.com/money/2021/sep/03/uk-enjoys-property-sales-boom-amid-covid-19-pandemic",
-  keywords  = "Frontiers [2022];Cited for Frontiers;\_In Notion",
+  keywords  = "Frontiers [2022];\_BibTex to MD Git;Cited for Frontiers;\_In
+               Notion",
   issn      = "0261-3077"
 }
 
@@ -17881,8 +17884,8 @@
   month     =  "1~" # oct,
   year      =  2017,
   url       = "https://doi.org/10.1177/1548512916668680",
-  keywords  = "Frontiers [2022];Healthcare + CME;Journal Articles;\_XR \&
-               MR;Cited for Frontiers",
+  keywords  = "Frontiers [2022];Healthcare + CME;Journal Articles;\_BibTex to MD
+               Git;\_XR \& MR;Cited for Frontiers",
   doi       = "10.1177/1548512916668680",
   issn      = "1548-5129"
 }
@@ -19162,8 +19165,8 @@
   year     =  2005,
   url      = "https://doi.org/10.1108/00400910510601913",
   keywords = "Zotero Import (Feb 22);My Library;Frontiers [2021];Frontiers
-              [2022];Notion Catalogued;Journal Articles;Workplace Learning;Cited
-              for Frontiers;AEC;\_Cataloged",
+              [2022];Notion Catalogued;Journal Articles;\_BibTex to MD
+              Git;Workplace Learning;Cited for Frontiers;AEC;\_Cataloged",
   doi      = "10.1108/00400910510601913",
   issn     = "0040-0912"
 }
@@ -20180,8 +20183,9 @@
   year     =  2011,
   url      = "https://doi.org/10.1080/00461520.2011.611369",
   keywords = "Zotero Import (Feb 22);My Library;Intelligent Tutoring Systems
-              (ITS);Frontiers [2022];Journal Articles;Intelligent Tutoring
-              Systems (ITS);\_Mark Up;Cited for Frontiers",
+              (ITS);Frontiers [2022];Journal Articles;\_BibTex to MD
+              Git;Intelligent Tutoring Systems (ITS);\_Mark Up;Cited for
+              Frontiers",
   doi      = "10.1080/00461520.2011.611369",
   issn     = "0046-1520"
 }
@@ -20730,7 +20734,8 @@
                Cost-plus contract; Design-bid-build; Field report; Lump sum
                contract; Request for proposal; Scope of work; Shop
                drawing;Handbook of Green Building Design and Construction 2nd
-               Ed;Frontiers [2022];AEC;Cited for Frontiers;\_In Notion",
+               Ed;Frontiers [2022];\_BibTex to MD Git;AEC;Cited for
+               Frontiers;\_In Notion",
   doi       = "10.1016/B978-0-12-810433-0.00014-9",
   isbn      =  9780128104330
 }
@@ -20768,7 +20773,8 @@
                modeling (BIM); Gray water; Green design strategies; Holistic
                approach; IgCC codes; Integrated design; Intelligent buildings;
                Solar energy;Handbook of Green Building Design and Construction
-               2nd Ed;Frontiers [2022];AEC;Cited for Frontiers;\_In Notion",
+               2nd Ed;Frontiers [2022];\_BibTex to MD Git;AEC;Cited for
+               Frontiers;\_In Notion",
   doi       = "10.1016/B978-0-12-810433-0.00003-4",
   isbn      =  9780128104330
 }
@@ -21015,7 +21021,8 @@
                the construction industry.",
   year      =  2008,
   url       = "https://uknowledge.uky.edu/gradschool_diss/600/",
-  keywords  = "Frontiers [2022];AEC;Labor;Cited for Frontiers;\_In Notion",
+  keywords  = "Frontiers [2022];\_BibTex to MD Git;AEC;Labor;Cited for
+               Frontiers;\_In Notion",
   school    = "University of Kentucky"
 }
 
@@ -21051,7 +21058,7 @@
                  their aspirations.",
   year        =  2021,
   url         = "https://www.employment-studies.co.uk/system/files/resources/files/A%20Better%20Future%20-%20Transforming%20jobs%20and%20skills%20for%20young%20people%20post-pandemic_2.pdf",
-  keywords    = "Frontiers [2022];Labor;\_In Notion"
+  keywords    = "Frontiers [2022];\_BibTex to MD Git;Labor;\_In Notion"
 }
 
 @INPROCEEDINGS{Clarke2011-zz,
@@ -21153,8 +21160,8 @@
   month     =  "1~" # jan,
   year      =  1989,
   url       = "https://doi.org/10.1177/001979398904200201",
-  keywords  = "Frontiers [2022];Journal Articles;Labor;Cited for Frontiers;\_In
-               Notion;Economics",
+  keywords  = "Frontiers [2022];Journal Articles;\_BibTex to MD Git;Labor;Cited
+               for Frontiers;\_In Notion;Economics",
   doi       = "10.1177/001979398904200201",
   issn      = "0019-7939"
 }
@@ -21450,7 +21457,8 @@
                training.",
   year      =  2013,
   url       = "http://dx.doi.org/10.1007/978-3-642-39112-5_55",
-  keywords  = "Frontiers [2022];Intelligent Tutoring Systems (ITS);\_XR \& MR",
+  keywords  = "Frontiers [2022];\_BibTex to MD Git;Intelligent Tutoring Systems
+               (ITS);\_XR \& MR",
   doi       = "10.1007/978-3-642-39112-5\_55"
 }
 
