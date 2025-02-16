@@ -4873,8 +4873,8 @@
   month       =  "22~" # nov,
   year        =  2023,
   url         = "https://freakonomics.com/podcast/why-is-it-so-hard-and-expensive-to-build-anything-in-america/",
-  keywords    = "Freakonomics Radio;AEC Cited Lit for
-                 Jacqui;AEC;Economics;Podcast;\_Cataloged;\_In ClickUp;\_Mark Up"
+  keywords    = "Freakonomics Radio;AEC Cited Lit for Jacqui;\_BibTex to MD
+                 Git;AEC;Economics;Podcast;\_Cataloged;\_In ClickUp;\_Mark Up"
 }
 
 @BOOK{Robinson2009-ed,
@@ -11475,8 +11475,8 @@
   year      =  2017,
   url       = "https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-4",
   keywords  = "Offsite Architecture: Constructing the Future;AEC Cited Lit for
-               Jacqui;\_In ClickUp;\_In Notion;\_In Readwise;AEC;Cross Ref
-               Chapter;ePub",
+               Jacqui;\_BibTex to MD Git;\_In ClickUp;\_In Notion;\_In
+               Readwise;AEC;Cross Ref Chapter;ePub",
   doi       = "10.4324/9781315743332-4",
   isbn      =  9781315743332
 }
@@ -14204,7 +14204,7 @@
                Industrialised Construction; Industrialised Building;
                Agricultural Engineering; Building not elsewhere classified;
                Architectural Design; Design;Construction 4.0;AEC Cited Lit for
-               Jacqui;Thesis;AEC",
+               Jacqui;\_BibTex to MD Git;Thesis;AEC",
   doi       = "10.26180/13166543.v1",
   school    = "Monash University",
   language  = "en"
@@ -16427,8 +16427,8 @@
   year      =  2019,
   url       = "https://www.taylorfrancis.com/chapters/edit/10.1201/9781315147321-10/productivity-innovation-disruption-ryan-smith-ivan-rupnik",
   keywords  = "Offsite Production and Manufacturing for Innovative
-               Construction;AEC Cited Lit for Jacqui;Cross Ref
-               Chapter;AEC;Workplace Learning",
+               Construction;AEC Cited Lit for Jacqui;\_BibTex to MD Git;Cross
+               Ref Chapter;AEC;Workplace Learning",
   doi       = "10.1201/9781315147321-10"
 }
 
@@ -16445,8 +16445,8 @@
   url       = "https://www.taylorfrancis.com/chapters/edit/10.1201/9781315147321-14/impact-organisational-learning-change-offsite-manufacturing-christian-thuesen-bar%C4%B1%C5%9F-bekdik",
   keywords  = "Offsite Production and Manufacturing for Innovative
                Construction;Upgrade Viva Prep Reading;AEC Cited Lit for
-               Jacqui;Cross Ref Chapter;AEC;Workplace Learning;Fieldwork
-               Methodology;Research Methods",
+               Jacqui;\_BibTex to MD Git;Cross Ref Chapter;AEC;Workplace
+               Learning;Fieldwork Methodology;Research Methods",
   doi       = "10.1201/9781315147321-14",
   isbn      =  9781315147321
 }
@@ -17177,8 +17177,8 @@
   month     =  "2~" # apr,
   year      =  2020,
   url       = "https://doi.org/10.1080/01446193.2019.1656814",
-  keywords  = "AEC Cited Lit for Jacqui;AEC;Technological change;\_In
-               Notion;\_In Readwise;\_New Literature",
+  keywords  = "AEC Cited Lit for Jacqui;\_BibTex to MD Git;AEC;Technological
+               change;\_In Notion;\_In Readwise;\_New Literature",
   doi       = "10.1080/01446193.2019.1656814",
   issn      = "0144-6193"
 }
@@ -17555,8 +17555,8 @@
   month     =  "1~" # jan,
   year      =  2022,
   url       = "https://doi.org/10.1177/26317877211069138",
-  keywords  = "AEC Cited Lit for Jacqui;Future of Work;\_In Notion;\_In
-               Readwise;Future of Work;\_New Literature",
+  keywords  = "AEC Cited Lit for Jacqui;Future of Work;\_BibTex to MD Git;\_In
+               Notion;\_In Readwise;Future of Work;\_New Literature",
   doi       = "10.1177/26317877211069138",
   issn      = "2631-7877"
 }
@@ -17602,7 +17602,7 @@
   month     =  "3~" # jul,
   year      =  2023,
   url       = "https://doi.org/10.1080/01446193.2023.2187071",
-  keywords  = "AEC Cited Lit for Jacqui",
+  keywords  = "AEC Cited Lit for Jacqui;\_BibTex to MD Git",
   doi       = "10.1080/01446193.2023.2187071",
   issn      = "0144-6193"
 }
@@ -33552,7 +33552,8 @@
   year        =  2022,
   url         = "http://dx.doi.org/10.1080/01446193.2021.1983187",
   keywords    = "Construction 4.0;Journal Articles;EPubs Books;AEC Cited Lit for
-                 Jacqui;\_In Notion;\_In Readwise;\_New Literature;AEC;UCL;ePub",
+                 Jacqui;\_BibTex to MD Git;\_In Notion;\_In Readwise;\_New
+                 Literature;AEC;UCL;ePub",
   doi         = "10.1080/01446193.2021.1983187",
   issn        = "0144-6193,1466-433X",
   language    = "en"
@@ -34076,8 +34077,8 @@
                supply issues.",
   year      =  2016,
   url       = "https://play.google.com/store/books/details?id=pp_ZvQEACAAJ",
-  keywords  = "Construction 4.0;AEC Cited Lit for Jacqui;AEC;UCL;\_Mark Up;\_In
-               Notion;\_In Readwise",
+  keywords  = "Construction 4.0;AEC Cited Lit for Jacqui;\_BibTex to MD
+               Git;AEC;UCL;\_Mark Up;\_In Notion;\_In Readwise",
   isbn      =  9780995546301,
   language  = "en"
 }
@@ -36870,7 +36871,8 @@
   year      =  2021,
   url       = "https://www.ucl.ac.uk/bartlett/construction/sites/bartlett/files/digest-the-role-of-industry-university-collaboration-in-the-transformation-of-construction.pdf",
   keywords  = "Construction 4.0;Notion Catalogued;AEC Cited Lit for
-               Jacqui;UCL;AEC;\_Mark Up;\_In Readwise;\_Cataloged;\_In ClickUp"
+               Jacqui;\_BibTex to MD Git;UCL;AEC;\_Mark Up;\_In
+               Readwise;\_Cataloged;\_In ClickUp"
 }
 
 @BOOK{Guile2019-co,
