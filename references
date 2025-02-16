@@ -6732,7 +6732,7 @@
   year         =  2021,
   howpublished = "\url{https://www.bloomberg.com/opinion/articles/2021-09-17/complex-language-on-earnings-calls-is-a-warning-to-investors}",
   note         = "Accessed: 2022-9-17",
-  keywords     = "Notion Catalogued;\_Cataloged",
+  keywords     = "Notion Catalogued;\_BibTex to MD Git;\_Cataloged",
   language     = "en"
 }
 
@@ -7341,7 +7341,7 @@
   month       =  "1~" # aug,
   year        =  2013,
   url         = "http://dx.doi.org/10.1257/aer.103.5.1553",
-  keywords    = "Journal Articles;Notion Catalogued;\_New
+  keywords    = "Journal Articles;Notion Catalogued;\_BibTex to MD Git;\_New
                  Literature;\_Cataloged;\_In Readwise;Economics;Labor",
   doi         = "10.1257/aer.103.5.1553",
   issn        = "0002-8282,1944-7981",
@@ -9877,7 +9877,7 @@
   year     =  2012,
   url      = "https://doi.org/10.1080/13636820.2011.622450",
   keywords = "Zotero Import (Feb 22);My Library;Frontiers [2021];Journal
-              Articles;Notion Catalogued;VET;Workplace
+              Articles;Notion Catalogued;VET;\_BibTex to MD Git;Workplace
               Learning;AEC;\_Cataloged;VET",
   doi      = "10.1080/13636820.2011.622450"
 }
@@ -18196,8 +18196,8 @@
   year     =  2017,
   url      = "https://www.sciencedirect.com/science/article/pii/S1747938X16300616",
   keywords = "Augmented reality; Systematic review; Educational technology;AACE
-              UNC Call for Papers;Notion Catalogued;Journal Articles;\_XR \&
-              MR;\_Mark Up;\_Cataloged",
+              UNC Call for Papers;Notion Catalogued;Journal Articles;\_BibTex to
+              MD Git;\_XR \& MR;\_Mark Up;\_Cataloged",
   doi      = "10.1016/j.edurev.2016.11.002",
   issn     = "1747-938X"
 }
@@ -20135,8 +20135,8 @@
   month       =  aug,
   year        =  1998,
   url         = "http://dx.doi.org/10.2466/pms.1998.87.1.19",
-  keywords    = "XR Reviewed;Notion Catalogued;Journal Articles;Knowledge -
-                 Skill Acquisition;\_Mark Up;\_Cataloged",
+  keywords    = "XR Reviewed;Notion Catalogued;Journal Articles;\_BibTex to MD
+                 Git;Knowledge - Skill Acquisition;\_Mark Up;\_Cataloged",
   doi         = "10.2466/pms.1998.87.1.19",
   pmid        =  9760621,
   issn        = "0031-5125,1558-688X",
@@ -20487,8 +20487,8 @@
   year         =  2018,
   url          = "https://youtu.be/HZKGde91Xfs",
   howpublished = "Talks at Google",
-  keywords     = "Notion Catalogued;Experience on Demand (Related Work);\_XR \&
-                  MR;YouTube;\_Cataloged"
+  keywords     = "Notion Catalogued;Experience on Demand (Related Work);\_BibTex
+                  to MD Git;\_XR \& MR;YouTube;\_Cataloged"
 }
 
 @ARTICLE{Halaburda2014-dw,
@@ -20554,7 +20554,8 @@
   year      =  2005,
   url       = "http://dx.doi.org/10.1109/HICSS.2005.446",
   keywords  = "Knowledge management;Educational institutions;Notion
-               Catalogued;Knowledge - Skill Acquisition;\_Cataloged",
+               Catalogued;\_BibTex to MD Git;Knowledge - Skill
+               Acquisition;\_Cataloged",
   doi       = "10.1109/HICSS.2005.446",
   issn      = "1530-1605"
 }
@@ -20695,7 +20696,7 @@
                platform of peer-reviewed scholarly literature",
   year      =  2018,
   url       = "https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence/vol/71/suppl/C",
-  keywords  = "Notion Catalogued;\_Cataloged",
+  keywords  = "Notion Catalogued;\_BibTex to MD Git;\_Cataloged",
   doi       = "10.1016/S0952-1976(18)30078-2",
   issn      = "0952-1976"
 }
@@ -21181,8 +21182,8 @@
   month     =  jun,
   year      =  1979,
   url       = "https://onlinelibrary.wiley.com/doi/10.1111/j.1467-1770.1979.tb01053.x",
-  keywords  = "Notion Catalogued;Journal Articles;Knowledge - Skill
-               Acquisition;\_Cataloged",
+  keywords  = "Notion Catalogued;Journal Articles;\_BibTex to MD Git;Knowledge -
+               Skill Acquisition;\_Cataloged",
   doi       = "10.1111/j.1467-1770.1979.tb01053.x",
   issn      = "0023-8333,1467-9922",
   language  = "en"
@@ -21226,7 +21227,7 @@
   year         =  2006,
   howpublished = "\url{https://spectrum.ieee.org/metcalfes-law-is-wrong}",
   note         = "Accessed: 2022-9-18",
-  keywords     = "Notion Catalogued;\_Cataloged",
+  keywords     = "Notion Catalogued;\_BibTex to MD Git;\_Cataloged",
   language     = "en"
 }
 
@@ -22182,8 +22183,8 @@
   month       =  "16~" # oct,
   year        =  2017,
   url         = "http://dx.doi.org/10.1145/3131277.3132171",
-  keywords    = "Notion Catalogued;\_XR \& MR;Sensory Processing;\_Mark
-                 Up;Read;\_Cataloged",
+  keywords    = "Notion Catalogued;\_BibTex to MD Git;\_XR \& MR;Sensory
+                 Processing;\_Mark Up;Read;\_Cataloged",
   doi         = "10.1145/3131277.3132171",
   isbn        =  9781450354868
 }
@@ -26476,7 +26477,7 @@
   url      = "https://link.gale.com/apps/doc/A8254390/AONE?u=anon~ef192589&sid=googleScholar&xid=4af10d0e",
   keywords = "International Business Machines Corp.; Employee training;
               Strategic planning (Business);Notion Catalogued;Reviewed on
-              Theory;Research Methods;\_Mark Up;\_Cataloged",
+              Theory;\_BibTex to MD Git;Research Methods;\_Mark Up;\_Cataloged",
   issn     = "0041-0861"
 }
 
@@ -36262,8 +36263,8 @@
   year        =  2003,
   url         = "https://research-repository.griffith.edu.au/handle/10072/5875",
   keywords    = "Education; Journal article;Theory and Methods;VET;00\_TO
-                 READ;\_In Readwise;Workplace Learning;VET;\_In
-                 ClickUp;\_Cataloged",
+                 READ;\_BibTex to MD Git;\_In Readwise;Workplace
+                 Learning;VET;\_In ClickUp;\_Cataloged",
   doi         = "10.2304/eerj.2003.2.1.11",
   issn        = "1474-9041",
   language    = "en"
