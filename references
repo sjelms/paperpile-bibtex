@@ -2516,8 +2516,8 @@
   month     =  jan,
   year      =  2008,
   url       = "https://orca.cardiff.ac.uk/id/eprint/24344/",
-  keywords  = "VET;\_In Notion;\_In Readwise;VET;Workplace Learning;\_New
-               Literature;UCL",
+  keywords  = "VET;\_BibTex to MD Git;\_In Notion;\_In Readwise;VET;Workplace
+               Learning;\_New Literature;UCL",
   language  = "en"
 }
 
@@ -4250,8 +4250,9 @@
   institution = "UCL Institute of Education",
   month       =  mar,
   year        =  2015,
-  keywords    = "WALF - Improving Working as Learning ;UCL;\_In Notion;\_In
-                 Readwise;VET;Workplace Learning;\_New Literature"
+  keywords    = "WALF - Improving Working as Learning ;\_BibTex to MD
+                 Git;UCL;\_In Notion;\_In Readwise;VET;Workplace Learning;\_New
+                 Literature"
 }
 
 @ARTICLE{Vindrola-Padros2020-aq,
@@ -5423,8 +5424,8 @@
                  overly complex system.",
   year        =  2013,
   url         = "http://hdl.voced.edu.au/10707/363067",
-  keywords    = "\_In Notion;\_In Readwise;UCL;VET;Workplace Learning;\_New
-                 Literature"
+  keywords    = "\_BibTex to MD Git;\_In Notion;\_In Readwise;UCL;VET;Workplace
+                 Learning;\_New Literature"
 }
 
 @TECHREPORT{Berger2016-vc,
@@ -14498,8 +14499,9 @@
   institution = "UCL Institute of Education",
   year        =  2017,
   url         = "https://dera.ioe.ac.uk/30618/1/Better-Apprenticeships-1-1.pdf",
-  keywords    = "2\_Upgrade MAY 2023;Workplace Learning;Knowledge - Skill
-                 Acquisition;UCL;\_Mark Up;\_In Notion"
+  keywords    = "2\_Upgrade MAY 2023;\_BibTex to MD Git;Workplace
+                 Learning;Knowledge - Skill Acquisition;UCL;\_Mark Up;\_In
+                 Notion"
 }
 
 @ARTICLE{Cuendet2014-vs,
