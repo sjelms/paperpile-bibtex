@@ -2621,7 +2621,7 @@
   year      =  2018,
   url       = "https://www.lundhumphries.com/products/prefab-housing-and-the-future-of-building",
   keywords  = "Offsite Architecture: Constructing the Future;AEC Cited Lit for
-               Jacqui;AEC;Book (physical)",
+               Jacqui;\_BibTex to MD Git;AEC;Book (physical)",
   isbn      =  9781848222182,
   language  = "en"
 }
@@ -11165,8 +11165,8 @@
   year      =  2017,
   url       = "https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-13",
   keywords  = "Construction 4.0;00\_TO READ;Offsite Architecture: Constructing
-               the Future;EPubs Books;ePub;AEC;\_In ClickUp;\_In Notion;\_In
-               Readwise;Cross Ref Chapter",
+               the Future;EPubs Books;\_BibTex to MD Git;ePub;AEC;\_In
+               ClickUp;\_In Notion;\_In Readwise;Cross Ref Chapter",
   doi       = "10.4324/9781315743332-13",
   isbn      =  9781315743332
 }
@@ -37407,7 +37407,7 @@
   month     =  dec,
   year      =  2016,
   url       = "http://dx.doi.org/10.1016/j.autcon.2016.08.040",
-  keywords  = "Construction 4.0;AEC",
+  keywords  = "Construction 4.0;\_BibTex to MD Git;AEC",
   doi       = "10.1016/j.autcon.2016.08.040",
   issn      = "0926-5805,1872-7891",
   language  = "en"
