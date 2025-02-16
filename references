@@ -5383,8 +5383,8 @@
   author    = "Dewey, John",
   publisher = "Macmillan",
   year      =  1916,
-  keywords  = "EPubs Books;ePub;\_In Notion;\_In Readwise;\_New
-               Literature;Education;Columbia University",
+  keywords  = "EPubs Books;\_BibTex to MD Git;ePub;\_In Notion;\_In
+               Readwise;\_New Literature;Education;Columbia University",
   isbn      =  9781678881702
 }
 
