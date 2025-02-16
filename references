@@ -1587,8 +1587,8 @@
   publisher = "IEEE Comput. Soc",
   year      =  2003,
   url       = "http://dx.doi.org/10.1109/vr.2003.1191170",
-  keywords  = "The VR Book | Jason Jerald;Notion Catalogued;\_XR \& MR;\_Mark
-               Up;DONE;\_Cataloged",
+  keywords  = "The VR Book | Jason Jerald;Notion Catalogued;\_BibTex to MD
+               Git;\_XR \& MR;\_Mark Up;DONE;\_Cataloged",
   doi       = "10.1109/vr.2003.1191170",
   isbn      =  9780769518824,
   annote    = "Article in Notion (PDF not available).
@@ -8206,7 +8206,7 @@
   month     =  "30~" # may,
   year      =  1988,
   url       = "https://play.google.com/store/books/details?id=eYm3AAAAIAAJ",
-  keywords  = "Notion Catalogued;\_Cataloged",
+  keywords  = "Notion Catalogued;\_BibTex to MD Git;\_Cataloged",
   isbn      =  9780465032129,
   language  = "en"
 }
@@ -12623,8 +12623,8 @@
   month       =  sep,
   year        =  2020,
   url         = "http://dx.doi.org/10.1061/(asce)co.1943-7862.0001909",
-  keywords    = "Construction 4.0;00\_TO READ;Notion Catalogued;\_In
-                 Readwise;\_New Literature;AEC;Essential;\_Cataloged",
+  keywords    = "Construction 4.0;00\_TO READ;Notion Catalogued;\_BibTex to MD
+                 Git;\_In Readwise;\_New Literature;AEC;Essential;\_Cataloged",
   doi         = "10.1061/(asce)co.1943-7862.0001909",
   issn        = "0733-9364,1943-7862",
   language    = "en"
