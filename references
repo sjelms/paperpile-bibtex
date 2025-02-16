@@ -4187,8 +4187,8 @@
   year     =  2018,
   url      = "https://linkinghub.elsevier.com/retrieve/pii/S0952197618300320",
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Journal
-              Articles;\_Mark Up;\_Cataloged;AEC;Knowledge - Skill
-              Acquisition;Workplace Learning;AIEd",
+              Articles;\_BibTex to MD Git;\_Mark Up;\_Cataloged;AEC;Knowledge -
+              Skill Acquisition;Workplace Learning;AIEd",
   doi      = "10.1016/j.engappai.2018.02.011",
   issn     = "0952-1976",
   language = "en"
@@ -5140,7 +5140,8 @@
   month     =  "9~" # sep,
   year      =  2021,
   url       = "https://www.nytimes.com/2021/09/09/us/politics/biden-infrastructure-plan.html",
-  keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Economics",
+  keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;\_BibTex
+               to MD Git;Economics",
   issn      = "0362-4331,1553-8095",
   language  = "en"
 }
@@ -9696,7 +9697,8 @@
   month    =  dec,
   year     =  2020,
   url      = "https://www.simplypsychology.org/maslow.html",
-  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
+  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;\_BibTex to
+              MD Git"
 }
 
 @MISC{Farnam_Street_Media2019-yq,
@@ -10003,7 +10005,8 @@
   series    = "Lecture Notes in Computer Science",
   year      =  2020,
   url       = "http://link.springer.com/10.1007/978-3-030-64243-3",
-  keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers",
+  keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;\_BibTex
+               to MD Git",
   isbn      = "9783030642426,9783030642433",
   language  = "en"
 }
@@ -10045,7 +10048,8 @@
   month    =  jun,
   year     =  2015,
   url      = "https://www.nationalgeographic.com/science/article/150603-science-technology-robots-economics-unemployment-automation-ngbooktalk",
-  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Economics"
+  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;\_BibTex to
+              MD Git;Economics"
 }
 
 @BOOK{Ford2015-sa,
@@ -10054,7 +10058,8 @@
   publisher = "Basic Books",
   edition   = "1st",
   year      =  2015,
-  keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
+  keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;\_BibTex
+               to MD Git"
 }
 
 @MISC{GE_Appliances_Pressroom2020-at,
@@ -10064,7 +10069,8 @@
   month    =  jul,
   year     =  2020,
   url      = "https://pressroom.geappliances.com/news/ge-appliances-to-hire-150-employees-at-appliance-park-for-part-time-gea2day-program-expansion",
-  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
+  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;\_BibTex to
+              MD Git"
 }
 
 @MISC{Hazlegreaves2021-mk,
@@ -10073,7 +10079,8 @@
   month    =  dec,
   year     =  2021,
   url      = "https://www.pbctoday.co.uk/news/energy-news/cop26-the-built-environment/102381/",
-  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
+  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;\_BibTex to
+              MD Git"
 }
 
 @MISC{Shaywitz2021-ot,
@@ -10082,7 +10089,8 @@
   month    =  may,
   year     =  2021,
   url      = "https://www.wsj.com/amp/articles/big-brains-new-books-on-artificial-intelligence-11621607063",
-  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
+  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;\_BibTex to
+              MD Git"
 }
 
 @ARTICLE{Ledewitz1985-qi,
@@ -10095,7 +10103,7 @@
   year     =  1985,
   url      = "http://dx.doi.org/10.1080/10464883.1985.10758354",
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Journal
-              Articles",
+              Articles;\_BibTex to MD Git",
   doi      = "10.1080/10464883.1985.10758354"
 }
 
@@ -10143,7 +10151,7 @@
   year     =  2021,
   url      = "http://dx.doi.org/10.1016/j.ijedro.2021.100076",
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Journal
-              Articles;AEC",
+              Articles;\_BibTex to MD Git;AEC",
   doi      = "10.1016/j.ijedro.2021.100076"
 }
 
@@ -10246,7 +10254,7 @@
   year     =  2010,
   url      = "https://doi.org/10.3402/meo.v15i0.4846",
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Journal
-              Articles",
+              Articles;\_BibTex to MD Git",
   doi      = "10.3402/meo.v15i0.4846"
 }
 
@@ -10256,8 +10264,8 @@
   institution = "London School of Economics and Political Science",
   year        =  2017,
   url         = "https://www.lse.ac.uk/Economic-History/Assets/Documents/Research/FACTS/reports/tacit.pdf",
-  keywords    = "Zotero Import (Feb 22);My Library;2021-12-03
-                 Frontiers;Knowledge - Skill Acquisition"
+  keywords    = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;\_BibTex
+                 to MD Git;Knowledge - Skill Acquisition"
 }
 
 @ARTICLE{Jarkas2012-fy,
@@ -10270,7 +10278,7 @@
   year     =  2012,
   url      = "http://dx.doi.org/10.1061/(asce)co.1943-7862.0000501",
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Journal
-              Articles;AEC",
+              Articles;\_BibTex to MD Git;AEC",
   doi      = "10.1061/(asce)co.1943-7862.0000501",
   issn     = "0733-9364"
 }
@@ -10403,7 +10411,7 @@
   year     =  2004,
   url      = "http://dx.doi.org/10.1177/0270467604264992",
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Journal
-              Articles",
+              Articles;\_BibTex to MD Git",
   doi      = "10.1177/0270467604264992",
   issn     = "0270-4676"
 }
@@ -10414,7 +10422,8 @@
   month    =  jun,
   year     =  1998,
   url      = "https://web.archive.org/web/19980610100009/http://www.redherring.com/mag/issue55/economics.html",
-  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Economics"
+  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;\_BibTex to
+              MD Git;Economics"
 }
 
 @MISC{MIT_Work_of_the_Future2020-dz,
@@ -10434,8 +10443,8 @@
   month    =  nov,
   year     =  2014,
   url      = "https://www.gov.uk/what-different-qualification-levels-mean/list-of-qualification-levels",
-  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Workplace
-              Learning"
+  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;\_BibTex to
+              MD Git;Workplace Learning"
 }
 
 @MISC{Benson2015-xz,
@@ -10454,7 +10463,8 @@
   month    =  feb,
   year     =  2021,
   url      = "https://medium.com/junoliving/juno-throwing-out-the-playbook-7115cd7aedd",
-  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
+  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;\_BibTex to
+              MD Git"
 }
 
 @MISC{Tallinn_University2014-wg,
@@ -10463,7 +10473,8 @@
   author   = "{Tallinn University}",
   year     =  2014,
   url      = "https://www.tlu.ee/%7Esirvir/Information%20and%20Knowledge%20Management/Key_Concepts_of_IKM/tacit_and_explicit_knowledge.html",
-  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
+  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;\_BibTex to
+              MD Git"
 }
 
 @BOOK{Luckin2016-lp,
@@ -10473,7 +10484,8 @@
                {University College London}",
   publisher = "Pearson",
   year      =  2016,
-  keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;UCL"
+  keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;\_BibTex
+               to MD Git;UCL"
 }
 
 @TECHREPORT{Nunn2020-uc,
@@ -10486,7 +10498,7 @@
   year        =  2020,
   keywords    = "Zotero Import (Feb 22);My Library;2021-12-03
                  Frontiers;Healthcare + CME;Deloitte - McKinsey - EY -
-                 PWC;Economics"
+                 PWC;\_BibTex to MD Git;Economics"
 }
 
 @TECHREPORT{McKinsey_Global_Institute2016-wd,
@@ -10498,7 +10510,7 @@
   month       =  oct,
   year        =  2016,
   keywords    = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Deloitte
-                 - McKinsey - EY - PWC"
+                 - McKinsey - EY - PWC;\_BibTex to MD Git"
 }
 
 @ARTICLE{Hirschman2009-cs,
@@ -10536,7 +10548,8 @@
   month    =  nov,
   year     =  2020,
   url      = "https://factoryos.com/press/factory_os-joins-forces-with-technology-and-finance-leaders-to-solve-the-housing-crisis/",
-  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
+  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;\_BibTex to
+              MD Git"
 }
 
 @TECHREPORT{Acg2019-gi,
@@ -10559,7 +10572,8 @@
   month    =  feb,
   year     =  2021,
   url      = "https://www.youtube.com/watch?v=hU4rp-efn-I&feature=youtu.be",
-  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;YouTube"
+  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;\_BibTex to
+              MD Git;YouTube"
 }
 
 @MISC{De_Laubier2021-rh,
@@ -10579,7 +10593,8 @@
   month    =  dec,
   year     =  2018,
   url      = "https://medium.com/upeielo/active-learning-methods-and-the-development-of-expertis-676656cd33f2",
-  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers"
+  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;\_BibTex to
+              MD Git"
 }
 
 @MISC{Bertollini2019-sn,
@@ -10601,7 +10616,8 @@
   month       =  jun,
   year        =  2021,
   url         = "https://www.npr.org/sections/money/2021/06/08/1003982733/squalor-behind-the-golden-gate-confronting-californias-homelessness-crisis",
-  keywords    = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Website"
+  keywords    = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;\_BibTex
+                 to MD Git;Website"
 }
 
 @MISC{US_Census_Bureau_MCD_Cheryl_Cornish_Stephen_Cooper_Salima_Jenkins2021-ie,
@@ -10612,7 +10628,8 @@
   month     =  "1~" # jun,
   year      =  2021,
   url       = "https://www.census.gov/construction/nrc/index.html",
-  keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;AEC"
+  keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;\_BibTex
+               to MD Git;AEC"
 }
 
 @MISC{Ellis2021-gp,
@@ -10621,7 +10638,8 @@
   month    =  may,
   year     =  2021,
   url      = "https://constructionblog.autodesk.com/construction-industry-statistics/",
-  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;AEC"
+  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;\_BibTex to
+              MD Git;AEC"
 }
 
 @MISC{YouTube_Originals2020-kd,
@@ -10630,7 +10648,8 @@
   month    =  jan,
   year     =  2020,
   url      = "https://youtu.be/f2aocKWrPG8",
-  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;YouTube"
+  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;\_BibTex to
+              MD Git;YouTube"
 }
 
 @MISC{YouTube_Originals2019-li,
@@ -10639,7 +10658,8 @@
   month    =  dec,
   year     =  2019,
   url      = "https://www.youtube.com/watch?v=UwsrzCVZAb8",
-  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;YouTube"
+  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;\_BibTex to
+              MD Git;YouTube"
 }
 
 @ARTICLE{Farnese2019-fw,
@@ -10654,7 +10674,7 @@
   year     =  2019,
   url      = "https://www.frontiersin.org/article/10.3389/fpsyg.2019.02730/full",
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Frontiers
-              [2021];Journal Articles",
+              [2021];Journal Articles;\_BibTex to MD Git",
   doi      = "10.3389/fpsyg.2019.02730",
   issn     = "1664-1078"
 }
@@ -10684,7 +10704,7 @@
   month       =  oct,
   year        =  2018,
   keywords    = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Deloitte
-                 - McKinsey - EY - PWC"
+                 - McKinsey - EY - PWC;\_BibTex to MD Git"
 }
 
 @ARTICLE{Jelonek2022-og,
@@ -11404,7 +11424,8 @@
   year     =  2015,
   url      = "https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29CO.1943-7862.0001006",
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Frontiers
-              import [Aug 11];Journal Articles;AEC;Artificial Intelligence (AI)",
+              import [Aug 11];Journal Articles;\_BibTex to MD Git;AEC;Artificial
+              Intelligence (AI)",
   doi      = "10.1061/(ASCE)CO.1943-7862.0001006",
   issn     = "0733-9364"
 }
@@ -11723,8 +11744,8 @@
   month     =  jul,
   year      =  2021,
   url       = "https://www.pbs.org/newshour/show/the-manufacturing-sector-needs-workers-training-high-schoolers-could-help-fill-that-void",
-  keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Workplace
-               Learning"
+  keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;\_BibTex
+               to MD Git;Workplace Learning"
 }
 
 @INPROCEEDINGS{Chang2008-jg,
@@ -12415,7 +12436,7 @@
   year        =  2020,
   keywords    = "Zotero Import (Feb 22);My Library;2021-12-03
                  Frontiers;Intelligent Tutoring Systems (ITS);Notion
-                 Catalogued;Intelligent Tutoring Systems
+                 Catalogued;\_BibTex to MD Git;Intelligent Tutoring Systems
                  (ITS);\_Cataloged;Economics"
 }
 
@@ -12468,9 +12489,8 @@
   year     =  2018,
   url      = "http://dx.doi.org/10.1007/s40593-018-0170-7",
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Intelligent
-              Tutoring Systems (ITS);Journal Articles;Notion
-              Catalogued;Intelligent Tutoring Systems (ITS);\_Cataloged;\_Mark
-              Up",
+              Tutoring Systems (ITS);Journal Articles;Notion Catalogued;\_BibTex
+              to MD Git;Intelligent Tutoring Systems (ITS);\_Cataloged;\_Mark Up",
   doi      = "10.1007/s40593-018-0170-7"
 }
 
