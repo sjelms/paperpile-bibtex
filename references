@@ -10279,7 +10279,8 @@
   month     =  "1~" # feb,
   year      =  1998,
   url       = "https://doi.org/10.1068/a300261",
-  keywords  = "Theory and Methods;Journal Articles;Research Methods",
+  keywords  = "Theory and Methods;Journal Articles;\_BibTex to MD Git;Research
+               Methods",
   doi       = "10.1068/a300261",
   issn      = "0308-518X"
 }
