@@ -153,7 +153,7 @@
                of information in new material can enhance learning.",
   month     =  "14~" # apr,
   year      =  2014,
-  keywords  = "EPubs Books;\_In Notion;\_In Readwise;\_New
+  keywords  = "EPubs Books;\_BibTex to MD Git;\_In Notion;\_In Readwise;\_New
                Literature;ePub;Audiobook",
   isbn      =  9780674729018,
   language  = "en"
@@ -1044,8 +1044,9 @@
   year        =  2019,
   url         = "https://onlinelibrary.wiley.com/doi/10.1002/9781119098713.ch3",
   keywords    = "Handbook of Vocational Education and Training-Wiley 2019;EPubs
-                 Books;\_In ClickUp;\_In Notion;\_In Readwise;ePub;Workplace
-                 Learning;\_Mark Up;VET;Cross Ref Chapter",
+                 Books;\_BibTex to MD Git;\_In ClickUp;\_In Notion;\_In
+                 Readwise;ePub;Workplace Learning;\_Mark Up;VET;Cross Ref
+                 Chapter",
   doi         = "10.1002/9781119098713.ch3",
   isbn        = "9781119098713,9781119098591"
 }
@@ -1135,8 +1136,9 @@
   year        =  2019,
   url         = "https://onlinelibrary.wiley.com/doi/10.1002/9781119098713.ch19",
   keywords    = "Handbook of Vocational Education and Training-Wiley 2019;EPubs
-                 Books;\_In ClickUp;\_In Notion;\_In Readwise;ePub;Workplace
-                 Learning;VET;\_Mark Up;Cross Ref Chapter",
+                 Books;\_BibTex to MD Git;\_In ClickUp;\_In Notion;\_In
+                 Readwise;ePub;Workplace Learning;VET;\_Mark Up;Cross Ref
+                 Chapter",
   doi         = "10.1002/9781119098713.ch19",
   isbn        = "9781119098713,9781119098591"
 }
@@ -1168,8 +1170,9 @@
   year        =  2019,
   url         = "https://onlinelibrary.wiley.com/doi/10.1002/9781119098713.ch22",
   keywords    = "Handbook of Vocational Education and Training-Wiley 2019;EPubs
-                 Books;\_In ClickUp;\_In Notion;\_In Readwise;ePub;Workplace
-                 Learning;\_New Literature;VET;Cross Ref Chapter",
+                 Books;\_BibTex to MD Git;\_In ClickUp;\_In Notion;\_In
+                 Readwise;ePub;Workplace Learning;\_New Literature;VET;Cross Ref
+                 Chapter",
   doi         = "10.1002/9781119098713.ch22",
   isbn        = "9781119098713,9781119098591"
 }
@@ -1679,9 +1682,9 @@
   month     =  "22~" # jan,
   year      =  2004,
   url       = "https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-13/learning-work-stephen-billett",
-  keywords  = "Workplace Learning in Context;EPubs Books;\_In ClickUp;\_In
-               Notion;\_In Readwise;Cross Ref Chapter;ePub;VET;Workplace
-               Learning;\_New Literature",
+  keywords  = "Workplace Learning in Context;EPubs Books;\_BibTex to MD Git;\_In
+               ClickUp;\_In Notion;\_In Readwise;Cross Ref
+               Chapter;ePub;VET;Workplace Learning;\_New Literature",
   doi       = "10.4324/9780203571644-13"
 }
 
@@ -4047,8 +4050,9 @@
   month     =  "16~" # jul,
   year      =  2020,
   url       = "https://play.google.com/store/books/details?id=3SfxDwAAQBAJ",
-  keywords  = "EPubs Books;\_In Notion;\_In Readwise;ePub;VET;Workplace
-               Learning;\_New Literature;\_In ClickUp",
+  keywords  = "EPubs Books;\_BibTex to MD Git;\_In Notion;\_In
+               Readwise;ePub;VET;Workplace Learning;\_New Literature;\_In
+               ClickUp",
   isbn      =  9781000257762,
   language  = "en"
 }
@@ -4078,8 +4082,9 @@
   month     =  "1~" # aug,
   year      =  2014,
   url       = "https://play.google.com/store/books/details?id=g_QuBAAAQBAJ",
-  keywords  = "EPubs Books;\_In Notion;\_In Readwise;ePub;VET;Workplace
-               Learning;\_New Literature;\_In ClickUp",
+  keywords  = "EPubs Books;\_BibTex to MD Git;\_In Notion;\_In
+               Readwise;ePub;VET;Workplace Learning;\_New Literature;\_In
+               ClickUp",
   isbn      =  9783319092775,
   language  = "en"
 }
@@ -5918,7 +5923,7 @@
   month     =  "3~" # mar,
   year      =  2021,
   url       = "https://play.google.com/store/books/details?id=4zIWEAAAQBAJ",
-  keywords  = "EPubs Books;ePub;AEC;Research Methods",
+  keywords  = "EPubs Books;\_BibTex to MD Git;ePub;AEC;Research Methods",
   isbn      =  9781000343670,
   language  = "en"
 }
@@ -18412,8 +18417,8 @@
   month     =  "30~" # jan,
   year      =  2018,
   url       = "https://play.google.com/store/books/details?id=2fkqDwAAQBAJ",
-  keywords  = "Experience on Demand (Related Work);EPubs Books;\_XR \&
-               MR;Audiobook;ePub",
+  keywords  = "Experience on Demand (Related Work);EPubs Books;\_BibTex to MD
+               Git;\_XR \& MR;Audiobook;ePub",
   isbn      =  9780393253702,
   language  = "en"
 }
@@ -23528,7 +23533,8 @@
   month     =  "9~" # may,
   year      =  2021,
   url       = "https://play.google.com/store/books/details?id=yhcoEAAAQBAJ",
-  keywords  = "EPubs Books;Research Methods;ePub;\_In Notion;\_In Readwise",
+  keywords  = "EPubs Books;\_BibTex to MD Git;Research Methods;ePub;\_In
+               Notion;\_In Readwise",
   isbn      =  9781000228540,
   language  = "en"
 }
@@ -26651,8 +26657,8 @@
   month     =  "10~" # mar,
   year      =  2016,
   keywords  = "Research Methodology in the Built Environment: A Selection of
-               Case Studies;Reviewed on Theory;EPubs Books;AEC;Research
-               Methods;UCL;ePub;\_Mark Up;\_In ClickUp",
+               Case Studies;Reviewed on Theory;EPubs Books;\_BibTex to MD
+               Git;AEC;Research Methods;UCL;ePub;\_Mark Up;\_In ClickUp",
   doi       = "10.4324/9781315725529-4",
   isbn      =  9781317534259
 }
@@ -27639,7 +27645,8 @@
   month     =  "17~" # feb,
   year      =  2016,
   url       = "https://play.google.com/store/books/details?id=c2OYCwAAQBAJ",
-  keywords  = "Reviewed on Theory;EPubs Books;Education;ePub;Research Methods",
+  keywords  = "Reviewed on Theory;EPubs Books;\_BibTex to MD
+               Git;Education;ePub;Research Methods",
   isbn      =  9781119158677,
   language  = "en"
 }
@@ -27960,8 +27967,8 @@
   pages     = "443--455",
   year      =  2013,
   url       = "http://dx.doi.org/10.4135/9781446200940.n33",
-  keywords  = "SAGE Handbook of Workplace Learning;EPubs Books;\_New
-               Literature;Workplace Learning;ePub;Cross Ref Chapter",
+  keywords  = "SAGE Handbook of Workplace Learning;EPubs Books;\_BibTex to MD
+               Git;\_New Literature;Workplace Learning;ePub;Cross Ref Chapter",
   doi       = "10.4135/9781446200940.n33",
   isbn      = "9781847875891,9781446200940"
 }
@@ -27975,8 +27982,8 @@
   pages     = "395--406",
   year      =  2013,
   url       = "http://dx.doi.org/10.4135/9781446200940.n29",
-  keywords  = "SAGE Handbook of Workplace Learning;EPubs Books;\_New
-               Literature;Workplace Learning;ePub;Cross Ref Chapter",
+  keywords  = "SAGE Handbook of Workplace Learning;EPubs Books;\_BibTex to MD
+               Git;\_New Literature;Workplace Learning;ePub;Cross Ref Chapter",
   doi       = "10.4135/9781446200940.n29",
   isbn      = "9781847875891,9781446200940"
 }
@@ -31854,8 +31861,8 @@
   month     =  "8~" # aug,
   year      =  2016,
   url       = "https://play.google.com/store/books/details?id=qNTDDAAAQBAJ",
-  keywords  = "Theory and Methods;EPubs Books;\_In Notion;\_In
-               Readwise;ePub;Research Methods;\_New Literature",
+  keywords  = "Theory and Methods;EPubs Books;\_BibTex to MD Git;\_In
+               Notion;\_In Readwise;ePub;Research Methods;\_New Literature",
   isbn      =  9781473988156,
   language  = "en"
 }
@@ -31914,7 +31921,7 @@
   month     =  "4~" # oct,
   year      =  2011,
   url       = "https://play.google.com/store/books/details?id=zX9KDgAAQBAJ",
-  keywords  = "EPubs Books;Neurodiversity;ePub;Audiobook",
+  keywords  = "EPubs Books;Neurodiversity;\_BibTex to MD Git;ePub;Audiobook",
   isbn      =  9780738215631,
   language  = "en"
 }
@@ -31995,7 +32002,8 @@
                of the human mind.",
   month     =  "19~" # apr,
   year      =  2016,
-  keywords  = "EPubs Books;Artificial Intelligence (AI);Audiobook;ePub",
+  keywords  = "EPubs Books;\_BibTex to MD Git;Artificial Intelligence
+               (AI);Audiobook;ePub",
   isbn      =  9780007547982,
   language  = "en"
 }
@@ -33758,7 +33766,8 @@
   month     =  dec,
   year      =  2021,
   url       = "https://link.springer.com/book/10.1007/978-3-030-82430-3",
-  keywords  = "Industry 4.0 for the Built Environment;EPubs Books;ePub",
+  keywords  = "Industry 4.0 for the Built Environment;EPubs Books;\_BibTex to MD
+               Git;ePub",
   doi       = "10.1007/978-3-030-82430-3",
   isbn      =  9783030824303
 }
@@ -33895,7 +33904,7 @@
   year      =  2021,
   url       = "https://play.google.com/store/books/details?id=fecsEAAAQBAJ",
   keywords  = "Theory and Methodology in Social and Educational Research;EPubs
-               Books;ePub",
+               Books;\_BibTex to MD Git;ePub",
   doi       = "10.2307/j.ctv1mjqvf7",
   isbn      =  9781942130574,
   language  = "en"
@@ -36874,7 +36883,8 @@
                interdisciplinary approach to navigating this transformative era.",
   year      =  2024,
   url       = "https://www.digitalistpapers.com/",
-  keywords  = "EPubs Books;ePub;Economics;Artificial Intelligence (AI)",
+  keywords  = "EPubs Books;\_BibTex to MD Git;ePub;Economics;Artificial
+               Intelligence (AI)",
   annote    = "Copyright © 2024 by Stanford Digital Economy Lab. All rights
                reserved."
 }
@@ -36994,7 +37004,7 @@
                general reader and the professional specialist.",
   month     =  "20~" # feb,
   year      =  2024,
-  keywords  = "EPubs Books;ePub",
+  keywords  = "EPubs Books;\_BibTex to MD Git;ePub",
   isbn      =  9781000964479,
   language  = "en"
 }
@@ -37071,36 +37081,6 @@
   doi       = "10.1136/bmj-2023-075847",
   pmid      =  38355154,
   issn      = "0959-8138,1756-1833",
-  language  = "en"
-}
-
-@BOOK{Davies2011-zx,
-  title     = "Thinking about architecture: An introduction to architectural
-               theory",
-  author    = "Davies, Colin",
-  publisher = "Laurence King Publishing",
-  address   = "London, England",
-  abstract  = "In order to understand architecture in all its cultural
-               complexity it is necessary to grasp such basic concepts as
-               representation, form and space. The aim of this book is to
-               provide teachers, students, practising architects and general
-               readers with a set of ideas that will enrich their conversation,
-               their writing, and above all their thinking about architecture.
-               The book is divided into eight chapters, each covering a
-               particular aspect of architecture, and introduces difficult
-               concepts gradually. Architectural theorists and philosophers are
-               mentioned in passing and their works are listed in the
-               bibliography, but they are not the subject of the book.
-               Architecture, rather than philosophy, is at the centre of the
-               picture. The aim is to enable the reader to understand
-               architecture in all its aspects, rather than to learn the names
-               of particular theorists. Written in a conversational style,
-               Thinking about Architecture is an invaluable and accessible
-               standard introduction to architectural theory.",
-  month     =  "17~" # oct,
-  year      =  2011,
-  keywords  = "EPubs Books;Construction 4.0;ePub;AEC",
-  isbn      =  9781780675503,
   language  = "en"
 }
 
@@ -37861,4 +37841,34 @@
   keywords  = "Construction 4.0;\_BibTex to MD Git;AEC",
   isbn      =  9789144096643,
   language  = "sv"
+}
+
+@BOOK{Davies2011-zx,
+  title     = "Thinking about architecture: An introduction to architectural
+               theory",
+  author    = "Davies, Colin",
+  publisher = "Laurence King Publishing",
+  address   = "London, England",
+  abstract  = "In order to understand architecture in all its cultural
+               complexity it is necessary to grasp such basic concepts as
+               representation, form and space. The aim of this book is to
+               provide teachers, students, practising architects and general
+               readers with a set of ideas that will enrich their conversation,
+               their writing, and above all their thinking about architecture.
+               The book is divided into eight chapters, each covering a
+               particular aspect of architecture, and introduces difficult
+               concepts gradually. Architectural theorists and philosophers are
+               mentioned in passing and their works are listed in the
+               bibliography, but they are not the subject of the book.
+               Architecture, rather than philosophy, is at the centre of the
+               picture. The aim is to enable the reader to understand
+               architecture in all its aspects, rather than to learn the names
+               of particular theorists. Written in a conversational style,
+               Thinking about Architecture is an invaluable and accessible
+               standard introduction to architectural theory.",
+  month     =  "17~" # oct,
+  year      =  2011,
+  keywords  = "EPubs Books;Construction 4.0;\_BibTex to MD Git;ePub;AEC",
+  isbn      =  9781780675503,
+  language  = "en"
 }
