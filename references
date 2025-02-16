@@ -20785,8 +20785,8 @@
   url         = "http://dx.doi.org/10.3389/fpubh.2018.00044",
   keywords    = "antibacterial resistance; antibiotic stewardship; communication
                  skills; medical education; virtual reality;Notion
-                 Catalogued;Healthcare + CME;Journal Articles;\_XR \&
-                 MR;UCL;\_Mark Up;Training;\_Cataloged",
+                 Catalogued;Healthcare + CME;Journal Articles;\_BibTex to MD
+                 Git;\_XR \& MR;UCL;\_Mark Up;Training;\_Cataloged",
   doi         = "10.3389/fpubh.2018.00044",
   pmc         = "PMC5834832",
   pmid        =  29535997,
