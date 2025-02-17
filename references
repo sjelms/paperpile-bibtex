@@ -29126,8 +29126,8 @@
   month     =  "27~" # sep,
   year      =  1991,
   url       = "https://www.cambridge.org/highereducation/books/situated-learning/6915ABD21C8E4619F750A4D4ACA616CD",
-  keywords  = "Theory and Methods;\_In Notion;\_In Readwise;Research
-               Methods;Workplace Learning;\_New Literature",
+  keywords  = "Theory and Methods;\_BibTex to MD Git;\_In Notion;\_In
+               Readwise;Research Methods;Workplace Learning;\_New Literature",
   doi       = "10.1017/CBO9780511815355",
   isbn      =  9780511815355
 }
