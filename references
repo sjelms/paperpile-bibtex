@@ -3861,8 +3861,9 @@
   month     =  "1~" # jan,
   year      =  2014,
   url       = "https://doi.org/10.1108/QROM-09-2012-1100",
-  keywords  = "Rapid Qualitative Research;Research Methods;Recommended;Fieldwork
-               Methodology;\_In ClickUp;\_Mark Up;\_In Readwise;\_In Notion",
+  keywords  = "Rapid Qualitative Research;\_BibTex to MD Git;Research
+               Methods;Recommended;Fieldwork Methodology;\_In ClickUp;\_Mark
+               Up;\_In Readwise;\_In Notion",
   doi       = "10.1108/QROM-09-2012-1100",
   issn      = "1746-5648"
 }
@@ -6884,8 +6885,9 @@
   month       =  aug,
   year        =  2006,
   url         = "http://dx.doi.org/10.1177/0741713606289122",
-  keywords    = "Rapid Qualitative Research;\_In Notion;\_In Readwise;Research
-                 Methods;Fieldwork Methodology;Education;\_Mark Up;\_In ClickUp",
+  keywords    = "Rapid Qualitative Research;\_BibTex to MD Git;\_In Notion;\_In
+                 Readwise;Research Methods;Fieldwork
+                 Methodology;Education;\_Mark Up;\_In ClickUp",
   doi         = "10.1177/0741713606289122",
   issn        = "0741-7136,1552-3047",
   language    = "en"
@@ -8693,8 +8695,8 @@
   month     =  sep,
   year      =  2020,
   url       = "http://dx.doi.org/10.1007/s10758-019-09431-8",
-  keywords  = "Journal Articles;Intelligent Tutoring Systems (ITS);Artificial
-               Intelligence (AI);\_Mark Up",
+  keywords  = "Journal Articles;\_BibTex to MD Git;Intelligent Tutoring Systems
+               (ITS);Artificial Intelligence (AI);\_Mark Up",
   doi       = "10.1007/s10758-019-09431-8",
   issn      = "2211-1662,2211-1670",
   language  = "en"
@@ -10783,7 +10785,7 @@
   year      =  2019,
   url       = "http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/cartesian_points_visualization_in_game_simulation_for_analyzing_geometric_representations_of_aec_objects_in_ifc.html",
   keywords  = "International Association for Automation and Robotics in
-               Construction (IAARC);\_Mark Up;AEC",
+               Construction (IAARC);\_BibTex to MD Git;\_Mark Up;AEC",
   doi       = "10.22260/isarc2019/0020"
 }
 
@@ -12184,7 +12186,8 @@
   url       = "http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/application_of_virtual_reality_in_task_training_in_the_construction_manufacturing_industry.html",
   keywords  = "International Association for Automation and Robotics in
                Construction (IAARC);XR Reviewed;Journal Articles;TCOT
-               2024;AEC;\_XR \& MR;\_Mark Up;\_In Notion;\_In Readwise"
+               2024;\_BibTex to MD Git;AEC;\_XR \& MR;\_Mark Up;\_In Notion;\_In
+               Readwise"
 }
 
 @ARTICLE{Hashimoto2019-te,
@@ -14394,7 +14397,7 @@
   month    =  "1~" # jan,
   year     =  2020,
   url      = "https://www.sciendo.com/article/10.2478/bjreecm-2020-0006",
-  keywords = "Journal Articles;AEC;Labor;\_Mark Up;Economics",
+  keywords = "Journal Articles;\_BibTex to MD Git;AEC;Labor;\_Mark Up;Economics",
   doi      = "10.2478/bjreecm-2020-0006"
 }
 
@@ -15260,7 +15263,7 @@
   month       =  sep,
   year        =  2013,
   url         = "http://ascelibrary.org/doi/10.1061/%28ASCE%29CO.1943-7862.0000705",
-  keywords    = "Journal Articles;AEC;\_Mark Up;\_In Notion",
+  keywords    = "Journal Articles;\_BibTex to MD Git;AEC;\_Mark Up;\_In Notion",
   doi         = "10.1061/(asce)co.1943-7862.0000705",
   issn        = "0733-9364,1943-7862",
   language    = "en"
@@ -18282,8 +18285,8 @@
   month    =  "1~" # dec,
   year     =  2021,
   url      = "https://doi.org/10.1007/s11423-021-10055-y",
-  keywords = "AACE UNC Call for Papers;Journal Articles;\_XR \& MR;Read;\_Mark
-              Up",
+  keywords = "AACE UNC Call for Papers;Journal Articles;\_BibTex to MD Git;\_XR
+              \& MR;Read;\_Mark Up",
   doi      = "10.1007/s11423-021-10055-y",
   issn     = "1042-1629,1556-6501"
 }
@@ -23907,15 +23910,6 @@
                   Git;Statistics;Website;Readwise Reader"
 }
 
-@MISC{Alberto2022-nv,
-  title    = "Applying the Cognitive Theory of Multimedia Learning to
-              Educational Animations and Explainer Videos in {CME}-{CPD}",
-  author   = "Alberto, Jayzona",
-  month    =  "25~" # oct,
-  year     =  2022,
-  keywords = "Healthcare + CME;\_Mark Up"
-}
-
 @ARTICLE{Boote2005-kh,
   title     = "Scholars Before Researchers: On the Centrality of the
                Dissertation Literature Review in Research Preparation",
@@ -23942,8 +23936,8 @@
   month     =  "1~" # aug,
   year      =  2005,
   url       = "https://doi.org/10.3102/0013189X034006003",
-  keywords  = "Information and Digital Literacies;Journal Articles;Digital
-               Literacies;\_Mark Up",
+  keywords  = "Information and Digital Literacies;Journal Articles;\_BibTex to
+               MD Git;Digital Literacies;\_Mark Up",
   doi       = "10.3102/0013189X034006003",
   issn      = "0013-189X"
 }
@@ -30766,8 +30760,9 @@
   year      =  2006,
   url       = "https://doi.org/10.1080/03075070600572173",
   keywords  = "PhD Study and Support;00\_TO READ;Journal
-               Articles;Neurodiversity;Accessibility;Important;Sensory
-               Processing;\_Mark Up;PhD Support and Training",
+               Articles;Neurodiversity;\_BibTex to MD
+               Git;Accessibility;Important;Sensory Processing;\_Mark Up;PhD
+               Support and Training",
   doi       = "10.1080/03075070600572173",
   issn      = "0307-5079"
 }
@@ -35059,7 +35054,8 @@
                  create a learner centered approach to online education.",
   year        =  2007,
   url         = "http://www.ncolr.org/issues/jiol/v6/n2/index.html",
-  keywords    = "Journal Articles;Andragogy;\_New Literature;\_Mark Up"
+  keywords    = "Journal Articles;\_BibTex to MD Git;Andragogy;\_New
+                 Literature;\_Mark Up"
 }
 
 @ARTICLE{Dowling2013-sl,
@@ -37937,4 +37933,13 @@
   year        =  2016,
   keywords    = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;\_BibTex
                  to MD Git"
+}
+
+@MISC{Alberto2022-nv,
+  title    = "Applying the Cognitive Theory of Multimedia Learning to
+              Educational Animations and Explainer Videos in {CME}-{CPD}",
+  author   = "Alberto, Jayzona",
+  month    =  "25~" # oct,
+  year     =  2022,
+  keywords = "Healthcare + CME;\_BibTex to MD Git;\_Mark Up"
 }
