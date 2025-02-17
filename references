@@ -5603,7 +5603,7 @@
   month       =  sep,
   year        =  2014,
   url         = "http://www2.ed.gov/about/offices/list/opepd/ppss/reports.html#cte",
-  keywords    = "Government Report;Labor;Statistics"
+  keywords    = "Government Report;\_BibTex to MD Git;Labor;Statistics"
 }
 
 @ARTICLE{Hudson2013-id,
@@ -6034,7 +6034,7 @@
   abstract  = "Collected Essays - December 2011",
   year      =  1887,
   url       = "https://www.cambridge.org/core/books/abs/collected-essays/technical-education-1877/96D2BF47F66943DDABBB58B2B16BD06B",
-  keywords  = "VET",
+  keywords  = "\_BibTex to MD Git;VET",
   doi       = "10.1017/CBO9781139149228.018"
 }
 
@@ -7299,8 +7299,8 @@
   month     =  "1~" # jan,
   year      =  2019,
   url       = "https://doi.org/10.1108/JMTM-08-2018-0270",
-  keywords  = "Supplement Feedback Document;Fieldwork Methodology;Research
-               Methods",
+  keywords  = "Supplement Feedback Document;\_BibTex to MD Git;Fieldwork
+               Methodology;Research Methods",
   doi       = "10.1108/JMTM-08-2018-0270",
   issn      = "1368-2148,1741-038X"
 }
