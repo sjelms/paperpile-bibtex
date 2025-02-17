@@ -32644,8 +32644,9 @@
   month     =  "16~" # mar,
   year      =  2017,
   url       = "https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-3",
-  keywords  = "Offsite Architecture: Constructing the Future;\_In ClickUp;\_In
-               Notion;\_In Readwise;AEC;Cross Ref Chapter;ePub",
+  keywords  = "Offsite Architecture: Constructing the Future;\_BibTex to MD
+               Git;\_In ClickUp;\_In Notion;\_In Readwise;AEC;Cross Ref
+               Chapter;ePub",
   doi       = "10.4324/9781315743332-3",
   isbn      =  9781315743332
 }
