@@ -4242,8 +4242,8 @@
                  facing the construction sector in Greater Manchester (GM).",
   month       =  feb,
   year        =  2018,
-  keywords    = "\_In Notion;\_In Readwise;AEC;UCL;VET;Workplace Learning;\_New
-                 Literature"
+  keywords    = "\_BibTex to MD Git;\_In Notion;\_In
+                 Readwise;AEC;UCL;VET;Workplace Learning;\_New Literature"
 }
 
 @TECHREPORT{Fuller2015-wk,
@@ -4648,8 +4648,9 @@
                research.",
   year      =  2017,
   url       = "https://doi.org/10.1007/978-3-319-47856-2_25",
-  keywords  = "WALF - Improving Working as Learning ;Future of Work;UCL;\_In
-               Notion;\_In Readwise;VET;Workplace Learning;\_New Literature",
+  keywords  = "WALF - Improving Working as Learning ;Future of Work;\_BibTex to
+               MD Git;UCL;\_In Notion;\_In Readwise;VET;Workplace Learning;\_New
+               Literature",
   doi       = "10.1007/978-3-319-47856-2\_25",
   isbn      =  9783319478562
 }
