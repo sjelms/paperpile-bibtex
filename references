@@ -4103,8 +4103,8 @@
   month     =  "4~" # oct,
   year      =  2010,
   url       = "https://doi.org/10.4135/9781446200940",
-  keywords  = "SAGE Handbook of Workplace Learning;\_In ClickUp;\_In Notion;\_In
-               Readwise;ePub",
+  keywords  = "SAGE Handbook of Workplace Learning;\_BibTex to MD Git;\_In
+               ClickUp;\_In Notion;\_In Readwise;ePub",
   doi       = "10.4135/9781446200940",
   isbn      =  9781847875891,
   language  = "en"
@@ -4337,8 +4337,8 @@
   address   = "1 Oliver’s Yard, 55 City Road London EC1Y 1SP",
   year      =  2015,
   url       = "http://dx.doi.org/10.4135/9781473920156",
-  keywords  = "Rapid Qualitative Research;Fieldwork Methodology;ePub;Research
-               Methods",
+  keywords  = "Rapid Qualitative Research;\_BibTex to MD Git;Fieldwork
+               Methodology;ePub;Research Methods",
   doi       = "10.4135/9781473920156",
   isbn      = "9781446248645,9781473920156"
 }
@@ -6133,8 +6133,8 @@
   month     =  "1~" # nov,
   year      =  2002,
   url       = "https://play.google.com/store/books/details?id=aL6IAgAAQBAJ",
-  keywords  = "Rapid Qualitative Research;ePub;Fieldwork Methodology;Research
-               Methods",
+  keywords  = "Rapid Qualitative Research;\_BibTex to MD Git;ePub;Fieldwork
+               Methodology;Research Methods",
   isbn      =  9781134854592,
   language  = "en"
 }
@@ -6477,8 +6477,8 @@
   month     =  "25~" # jun,
   year      =  2012,
   url       = "https://play.google.com/store/books/details?id=6jIKs4ujwR8C",
-  keywords  = "Theory and Methods;Research Methods;ePub;Knowledge - Skill
-               Acquisition",
+  keywords  = "Theory and Methods;\_BibTex to MD Git;Research
+               Methods;ePub;Knowledge - Skill Acquisition",
   isbn      =  9789400747746,
   language  = "en"
 }
@@ -6573,8 +6573,8 @@
   month     =  "11~" # oct,
   year      =  2019,
   url       = "https://play.google.com/store/books/details?id=E8m1DwAAQBAJ",
-  keywords  = "Theory and Methods;ePub;Knowledge - Skill Acquisition;Research
-               Methods",
+  keywords  = "Theory and Methods;\_BibTex to MD Git;ePub;Knowledge - Skill
+               Acquisition;Research Methods",
   isbn      =  9783030318390,
   language  = "en"
 }
@@ -7605,30 +7605,8 @@
   month     =  "26~" # jan,
   year      =  2012,
   url       = "https://play.google.com/store/books/details?id=ZfRGAQAAQBAJ",
-  keywords  = "ePub;Philosophy of Education;VET",
+  keywords  = "\_BibTex to MD Git;ePub;Philosophy of Education;VET",
   isbn      =  9781441100214,
-  language  = "en"
-}
-
-@BOOK{Addis2018-be,
-  title     = "Education and Expertise",
-  author    = "Addis, Mark and Winch, Christopher",
-  publisher = "John Wiley \& Sons",
-  abstract  = "The relevance of expertise to professional education and practice
-               is explored in this collection of original contributions from
-               educationalists, philosophers and psychologists. Discusses the
-               increasingly prominent debates about the nature of know-how in
-               mainstream analytical epistemology Illuminates what is involved
-               in professional expertise and the implications of a sound
-               understanding of professional expertise for professional
-               education practice, curriculum design and assessment All
-               contributions are philosophically grounded and reflect
-               interdisciplinary advances in understanding expertise",
-  month     =  "13~" # sep,
-  year      =  2018,
-  url       = "https://play.google.com/store/books/details?id=t3FuDwAAQBAJ",
-  keywords  = "ePub;Philosophy of Education;VET",
-  isbn      =  9781119527251,
   language  = "en"
 }
 
@@ -8168,7 +8146,8 @@
   month     =  "18~" # may,
   year      =  2023,
   url       = "https://play.google.com/store/books/details?id=4bumEAAAQBAJ",
-  keywords  = "Future of Work;Audiobook;Economics;ePub;Future of Work",
+  keywords  = "Future of Work;\_BibTex to MD Git;Audiobook;Economics;ePub;Future
+               of Work",
   isbn      =  9781399804486,
   language  = "en"
 }
@@ -32413,8 +32392,9 @@
   month     =  "16~" # mar,
   year      =  2017,
   url       = "https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-11",
-  keywords  = "Offsite Architecture: Constructing the Future;\_In ClickUp;\_In
-               Notion;\_In Readwise;AEC;Cross Ref Chapter;ePub",
+  keywords  = "Offsite Architecture: Constructing the Future;\_BibTex to MD
+               Git;\_In ClickUp;\_In Notion;\_In Readwise;AEC;Cross Ref
+               Chapter;ePub",
   doi       = "10.4324/9781315743332-11",
   isbn      =  9781315743332
 }
@@ -32515,8 +32495,9 @@
   month     =  "16~" # mar,
   year      =  2017,
   url       = "https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-6",
-  keywords  = "Offsite Architecture: Constructing the Future;\_In ClickUp;\_In
-               Notion;\_In Readwise;AEC;Cross Ref Chapter;ePub",
+  keywords  = "Offsite Architecture: Constructing the Future;\_BibTex to MD
+               Git;\_In ClickUp;\_In Notion;\_In Readwise;AEC;Cross Ref
+               Chapter;ePub",
   doi       = "10.4324/9781315743332-6",
   isbn      =  9781315743332
 }
@@ -32583,8 +32564,9 @@
   month     =  "16~" # mar,
   year      =  2017,
   url       = "https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-1",
-  keywords  = "Offsite Architecture: Constructing the Future;\_In ClickUp;\_In
-               Notion;\_In Readwise;AEC;Cross Ref Chapter;ePub",
+  keywords  = "Offsite Architecture: Constructing the Future;\_BibTex to MD
+               Git;\_In ClickUp;\_In Notion;\_In Readwise;AEC;Cross Ref
+               Chapter;ePub",
   doi       = "10.4324/9781315743332-1",
   isbn      =  9781315743332
 }
@@ -32655,8 +32637,9 @@
   month     =  "16~" # mar,
   year      =  2017,
   url       = "https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-10",
-  keywords  = "Offsite Architecture: Constructing the Future;\_In ClickUp;\_In
-               Notion;\_In Readwise;AEC;Cross Ref Chapter;ePub",
+  keywords  = "Offsite Architecture: Constructing the Future;\_BibTex to MD
+               Git;\_In ClickUp;\_In Notion;\_In Readwise;AEC;Cross Ref
+               Chapter;ePub",
   doi       = "10.4324/9781315743332-10",
   isbn      =  9781315743332
 }
@@ -32689,8 +32672,9 @@
   month     =  "16~" # mar,
   year      =  2017,
   url       = "https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-9",
-  keywords  = "Offsite Architecture: Constructing the Future;\_In ClickUp;\_In
-               Notion;\_In Readwise;AEC;Cross Ref Chapter;ePub",
+  keywords  = "Offsite Architecture: Constructing the Future;\_BibTex to MD
+               Git;\_In ClickUp;\_In Notion;\_In Readwise;AEC;Cross Ref
+               Chapter;ePub",
   doi       = "10.4324/9781315743332-9",
   isbn      =  9781315743332
 }
@@ -32723,8 +32707,9 @@
   month     =  "16~" # mar,
   year      =  2017,
   url       = "https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-12",
-  keywords  = "Offsite Architecture: Constructing the Future;\_In ClickUp;\_In
-               Notion;\_In Readwise;AEC;Cross Ref Chapter;ePub",
+  keywords  = "Offsite Architecture: Constructing the Future;\_BibTex to MD
+               Git;\_In ClickUp;\_In Notion;\_In Readwise;AEC;Cross Ref
+               Chapter;ePub",
   doi       = "10.4324/9781315743332-12",
   isbn      =  9781315743332
 }
@@ -32791,8 +32776,9 @@
   month     =  "16~" # mar,
   year      =  2017,
   url       = "https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-7",
-  keywords  = "Offsite Architecture: Constructing the Future;\_In ClickUp;\_In
-               Notion;\_In Readwise;AEC;Cross Ref Chapter;ePub",
+  keywords  = "Offsite Architecture: Constructing the Future;\_BibTex to MD
+               Git;\_In ClickUp;\_In Notion;\_In Readwise;AEC;Cross Ref
+               Chapter;ePub",
   doi       = "10.4324/9781315743332-7",
   isbn      =  9781315743332
 }
@@ -32823,8 +32809,9 @@
   month     =  "16~" # mar,
   year      =  2017,
   url       = "https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-2",
-  keywords  = "Offsite Architecture: Constructing the Future;\_In ClickUp;\_In
-               Notion;\_In Readwise;AEC;Cross Ref Chapter;ePub",
+  keywords  = "Offsite Architecture: Constructing the Future;\_BibTex to MD
+               Git;\_In ClickUp;\_In Notion;\_In Readwise;AEC;Cross Ref
+               Chapter;ePub",
   doi       = "10.4324/9781315743332-2",
   isbn      =  9781315743332
 }
@@ -33264,7 +33251,7 @@
   month     =  "9~" # nov,
   year      =  2021,
   url       = "https://openlibrary.org/books/OL35891356M/On_Justification",
-  keywords  = "Economics;ePub;Labor",
+  keywords  = "\_BibTex to MD Git;Economics;ePub;Labor",
   isbn      =  9781400827145,
   language  = "fr, en"
 }
@@ -37947,4 +37934,26 @@
   keywords  = "\_BibTex to MD Git;ePub",
   doi       = "10.1515/9780691212067",
   isbn      =  9780691212067
+}
+
+@BOOK{Addis2018-be,
+  title     = "Education and Expertise",
+  author    = "Addis, Mark and Winch, Christopher",
+  publisher = "John Wiley \& Sons",
+  abstract  = "The relevance of expertise to professional education and practice
+               is explored in this collection of original contributions from
+               educationalists, philosophers and psychologists. Discusses the
+               increasingly prominent debates about the nature of know-how in
+               mainstream analytical epistemology Illuminates what is involved
+               in professional expertise and the implications of a sound
+               understanding of professional expertise for professional
+               education practice, curriculum design and assessment All
+               contributions are philosophically grounded and reflect
+               interdisciplinary advances in understanding expertise",
+  month     =  "13~" # sep,
+  year      =  2018,
+  url       = "https://play.google.com/store/books/details?id=t3FuDwAAQBAJ",
+  keywords  = "\_BibTex to MD Git;ePub;Philosophy of Education;VET",
+  isbn      =  9781119527251,
+  language  = "en"
 }
