@@ -14416,6 +14416,21 @@
   language    = "en"
 }
 
+@ARTICLE{Caron2022-pk,
+  title     = "A.{D}.h.d. can strain relationships. Here’s how couples cope",
+  author    = "Caron, Christina",
+  journal   = "The New York times",
+  publisher = "The New York Times",
+  abstract  = "The symptoms of attention deficit hyperactivity disorder can push
+               couples to their breaking point, but there is hope for those
+               willing to seek help.",
+  month     =  "18~" # feb,
+  year      =  2022,
+  url       = "https://www.nytimes.com/2022/02/18/well/mind/adhd-dating-relationships.html",
+  issn      = "0362-4331,1553-8095",
+  language  = "en"
+}
+
 @ARTICLE{Kennedy2022-tt,
   title    = "“you make yourself entirely available”: Emotional labour in a
               caring approach to online teaching",
