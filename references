@@ -12593,21 +12593,16 @@
   language  = "en"
 }
 
-@ARTICLE{Belleville2019-cr,
-  title     = "Sit down and write your thesis! Practical and motivational tips
-               for scientific writing",
-  author    = "Belleville, Geneviève",
-  journal   = "The Canadian journal of cardiology",
-  publisher = "Elsevier BV",
-  volume    =  35,
-  number    =  8,
-  pages     = "945--947",
-  month     =  aug,
-  year      =  2019,
-  url       = "http://dx.doi.org/10.1016/j.cjca.2019.04.011",
-  keywords  = "PhD Study and Support;PhD Support and Training",
-  doi       = "10.1016/j.cjca.2019.04.011",
-  issn      = "0828-282X,1916-7075",
+@BOOK{Klein2025-yx,
+  title     = "Abundance: How we build a better future",
+  author    = "Klein, Ezra and Thompson, Derek",
+  publisher = "Profile Books",
+  address   = "London, England",
+  month     =  "18~" # mar,
+  year      =  2025,
+  url       = "https://books.google.com/books/about/Abundance.html?id=pskwEQAAQBAJ",
+  keywords  = "\_BibTex to MD Git;Economics",
+  isbn      =  9781805226079,
   language  = "en"
 }
 
@@ -37992,4 +37987,22 @@
   month    =  "25~" # oct,
   year     =  2022,
   keywords = "Healthcare + CME;\_BibTex to MD Git;\_Mark Up"
+}
+
+@ARTICLE{Belleville2019-cr,
+  title     = "Sit down and write your thesis! Practical and motivational tips
+               for scientific writing",
+  author    = "Belleville, Geneviève",
+  journal   = "The Canadian journal of cardiology",
+  publisher = "Elsevier BV",
+  volume    =  35,
+  number    =  8,
+  pages     = "945--947",
+  month     =  aug,
+  year      =  2019,
+  url       = "http://dx.doi.org/10.1016/j.cjca.2019.04.011",
+  keywords  = "PhD Study and Support;PhD Support and Training",
+  doi       = "10.1016/j.cjca.2019.04.011",
+  issn      = "0828-282X,1916-7075",
+  language  = "en"
 }
