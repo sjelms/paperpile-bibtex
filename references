@@ -14883,7 +14883,8 @@
   month     =  "1~" # mar,
   year      =  2024,
   url       = "http://dx.doi.org/10.1016/j.rcsop.2024.100423",
-  keywords  = "Conference; Poster; Visual communication; Visual impression",
+  keywords  = "Conference; Poster; Visual communication; Visual
+               impression;Healthcare + CME",
   doi       = "10.1016/j.rcsop.2024.100423",
   pmc       = "PMC10899018",
   pmid      =  38420611,
