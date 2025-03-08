@@ -12863,6 +12863,18 @@
   isbn      =  9780429939921
 }
 
+@BOOK{Kamler2014-sz,
+  title     = "Helping Doctoral Students Write: Pedagogies for supervision",
+  author    = "Kamler, Barbara and Thomson, Pat",
+  publisher = "Routledge",
+  address   = "London, England",
+  edition   =  2,
+  month     =  "21~" # mar,
+  year      =  2014,
+  url       = "https://www.google.com/books/edition/Helping_Doctoral_Students_Write/tfkjAwAAQBAJ?hl=de&gbpv=0",
+  isbn      =  9781317802129
+}
+
 @TECHREPORT{Felstead2011-az,
   title       = "Praxis: Working to Learn, Learning to Work",
   author      = "Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
