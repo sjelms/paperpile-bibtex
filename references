@@ -12862,7 +12862,7 @@
   month     =  "27~" # jun,
   year      =  2015,
   url       = "https://www.google.com/books/edition/Immersed_in_Media/8dvyCQAAQBAJ?hl=en&gbpv=0",
-  keywords  = "EPubs Books",
+  keywords  = "EPubs Books;ePub",
   isbn      =  9783319101903,
   language  = "en"
 }
@@ -12877,7 +12877,7 @@
   month     =  "21~" # feb,
   year      =  2018,
   url       = "https://www.google.com/books/edition/An_Analysis_of_Ikujiro_Nonaka_s_A_Dynami/MEFNDwAAQBAJ?hl=en&gbpv=0",
-  keywords  = "EPubs Books",
+  keywords  = "EPubs Books;ePub",
   isbn      =  9780429939921
 }
 
@@ -12890,7 +12890,7 @@
   month     =  "21~" # mar,
   year      =  2014,
   url       = "https://www.google.com/books/edition/Helping_Doctoral_Students_Write/tfkjAwAAQBAJ?hl=de&gbpv=0",
-  keywords  = "EPubs Books",
+  keywords  = "EPubs Books;ePub",
   isbn      =  9781317802129
 }
 
@@ -12903,7 +12903,7 @@
   month     =  "30~" # jun,
   year      =  2013,
   url       = "https://www.google.com/books/edition/Ethnography_in_Education/kaeHAwAAQBAJ?hl=de&gbpv=1&dq=Ethnography+in+Education+%2B+mills+morton&printsec=frontcover",
-  keywords  = "EPubs Books",
+  keywords  = "EPubs Books;ePub",
   isbn      =  9781446264928,
   language  = "en"
 }
@@ -12932,7 +12932,7 @@
   month     =  "4~" # mar,
   year      =  2021,
   url       = "https://books.google.com/books?id=xuQSEAAAQBAJ&newbks=1",
-  keywords  = "EPubs Books",
+  keywords  = "EPubs Books;ePub",
   isbn      =  9781119149194,
   language  = "en"
 }
@@ -12948,7 +12948,7 @@
   month     =  "27~" # jul,
   year      =  2018,
   url       = "https://books.google.com/books?id=IU9mDwAAQBAJ&newbks=1",
-  keywords  = "EPubs Books",
+  keywords  = "EPubs Books;ePub",
   doi       = "10.1002/9781119287568",
   isbn      =  9781119287537
 }
@@ -12963,7 +12963,7 @@
   month     =  "22~" # oct,
   year      =  2016,
   url       = "https://books.google.com/books?id=f-lODQAAQBAJ&newbks=1",
-  keywords  = "EPubs Books",
+  keywords  = "EPubs Books;ePub",
   isbn      =  9783319430782,
   language  = "en"
 }
@@ -38421,7 +38421,7 @@
   month     =  "11~" # aug,
   year      =  2006,
   url       = "https://www.google.com/books/edition/How_Designers_Think/0akrBgAAQBAJ?hl=de&gbpv=0",
-  keywords  = "EPubs Books",
+  keywords  = "EPubs Books;ePub",
   doi       = "10.4324/9780080454979",
   isbn      =  9781136398018
 }
