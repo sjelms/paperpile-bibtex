@@ -12778,6 +12778,7 @@
   month     =  "26~" # jan,
   year      =  2023,
   url       = "https://books.google.com/books?id=T1VgEAAAQBAJ&newbks=1",
+  keywords  = "ePub",
   isbn      =  9781529420357,
   language  = "en"
 }
@@ -38271,6 +38272,7 @@
   month     =  "3~" # feb,
   year      =  2022,
   url       = "https://link.springer.com/book/10.1007/978-981-16-6851-7",
+  keywords  = "ePub",
   doi       = "10.1007/978-981-16-6851-7",
   isbn      = "9789811668500,9789811668517",
   language  = "en"
