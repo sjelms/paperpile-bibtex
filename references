@@ -12247,10 +12247,10 @@
   language  = "en"
 }
 
-@BOOK{Association-of-British-Theatre-Technicians-ABTT-2024-zi,
+@BOOK{Shewring2024-wm,
   title     = "Theatre Buildings: A Design Guide",
-  author    = "{Association of British Theatre Technicians (ABTT)} and Shewring,
-               Margaret",
+  author    = "Shewring, Margaret and {Association of British Theatre
+               Technicians (ABTT)}",
   publisher = "Taylor \& Francis",
   address   = "London, England",
   abstract  = "In 2021, its Diamond Jubilee year, the Association of British
