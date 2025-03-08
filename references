@@ -28610,18 +28610,6 @@
   keywords = "UCL PhD Research Proposals and Thesis;UCL"
 }
 
-@BOOK{Glaser1999-xq,
-  title     = "Discovery of grounded theory: Strategies for qualitative research",
-  author    = "Glaser, Barney G and Strauss, Anselm L",
-  publisher = "AldineTransaction",
-  address   = "Somerset, NJ",
-  month     =  "31~" # dec,
-  year      =  1999,
-  url       = "https://www.google.com/books/edition/The_Discovery_of_Grounded_Theory/oUxEAQAAIAAJ?hl=en",
-  keywords  = "EPubs Books;ePub",
-  isbn      =  9780202302607
-}
-
 @INCOLLECTION{Baker2014-jv,
   title     = "Educational data mining and learning analytics",
   author    = "Baker, R and Siemens, G",
@@ -34612,6 +34600,19 @@
   keywords  = "Theory and Methodology in Social and Educational Research;Journal
                Articles;Research Methods",
   issn      = "0142-5692,1465-3346"
+}
+
+@BOOK{Glaser1967-cp,
+  title     = "The Discovery of Grounded Theory: Strategies for Qualitative
+               Research",
+  author    = "Glaser, Barney G and Strauss, Anselm L",
+  publisher = "AldineTransaction",
+  address   = "Somerset, NJ",
+  month     =  "31~" # dec,
+  year      =  1967,
+  url       = "https://www.google.com/books/edition/The_Discovery_of_Grounded_Theory/oUxEAQAAIAAJ?hl=en",
+  keywords  = "EPubs Books;ePub",
+  isbn      =  9780202302607
 }
 
 @TECHREPORT{Gott1998-ww,
