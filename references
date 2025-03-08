@@ -38140,6 +38140,19 @@
   isbn      =  9780202302607
 }
 
+@BOOK{Chudley2020-uy,
+  title     = "Chudley and greeno's building construction handbook",
+  author    = "Chudley, Roy and Greeno, Roger and Kovac, Karl",
+  publisher = "Routledge",
+  address   = "London, England",
+  edition   =  12,
+  month     =  "19~" # mar,
+  year      =  2020,
+  url       = "https://www.google.com/books/edition/Chudley_and_Greeno_s_Building_Constructi/BsvXDwAAQBAJ?hl=de&gbpv=0",
+  isbn      =  9780429648779,
+  language  = "en"
+}
+
 @BOOK{Carpo2012-lv,
   title     = "The Digital Turn in Architecture 1992 - 2012: {AD} reader",
   author    = "Carpo, M",
