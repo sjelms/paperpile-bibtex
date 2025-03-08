@@ -12770,19 +12770,6 @@
   isbn      = "9780226849645,9780226849638"
 }
 
-@BOOK{Hopkins2023-zi,
-  title     = "Reading Architecture: A Visual Lexicon",
-  author    = "Hopkins, Owen",
-  publisher = "Laurence King Publishing",
-  address   = "London, England",
-  month     =  "26~" # jan,
-  year      =  2023,
-  url       = "https://books.google.com/books?id=T1VgEAAAQBAJ&newbks=1",
-  keywords  = "ePub",
-  isbn      =  9781529420357,
-  language  = "en"
-}
-
 @BOOK{Cline2011-qy,
   title     = "Ready Player One",
   author    = "Cline, Ernest",
@@ -12832,6 +12819,19 @@
   url       = "https://books.google.com/books?id=k2N8DwAAQBAJ&newbks=1",
   keywords  = "EPubs Books;ePub",
   isbn      =  9780429828102
+}
+
+@BOOK{Hopkins2023-zi,
+  title     = "Reading Architecture: A Visual Lexicon",
+  author    = "Hopkins, Owen",
+  publisher = "Laurence King Publishing",
+  address   = "London, England",
+  month     =  "26~" # jan,
+  year      =  2023,
+  url       = "https://books.google.com/books?id=T1VgEAAAQBAJ&newbks=1",
+  keywords  = "EPubs Books;ePub",
+  isbn      =  9781529420357,
+  language  = "en"
 }
 
 @TECHREPORT{Felstead2011-az,
@@ -38272,7 +38272,7 @@
   month     =  "3~" # feb,
   year      =  2022,
   url       = "https://link.springer.com/book/10.1007/978-981-16-6851-7",
-  keywords  = "ePub",
+  keywords  = "EPubs Books;ePub",
   doi       = "10.1007/978-981-16-6851-7",
   isbn      = "9789811668500,9789811668517",
   language  = "en"
