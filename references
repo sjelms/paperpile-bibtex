@@ -38344,3 +38344,17 @@
   isbn      =  9781446264928,
   language  = "en"
 }
+
+@BOOK{Potter2017-fz,
+  title     = "Digital media, culture and education: Theorising third space
+               literacies",
+  author    = "Potter, John and McDougall, Julian",
+  publisher = "Palgrave Macmillan UK",
+  address   = "Basingstoke, England",
+  edition   =  1,
+  month     =  "2~" # may,
+  year      =  2017,
+  url       = "https://www.google.com/books/edition/Digital_Media_Culture_and_Education/uq_HDgAAQBAJ?hl=de&gbpv=0",
+  isbn      =  9781137553157,
+  language  = "en"
+}
