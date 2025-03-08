@@ -38149,6 +38149,7 @@
   month     =  "19~" # mar,
   year      =  2020,
   url       = "https://www.google.com/books/edition/Chudley_and_Greeno_s_Building_Constructi/BsvXDwAAQBAJ?hl=de&gbpv=0",
+  keywords  = "ePub;Book (physical)",
   isbn      =  9780429648779,
   language  = "en"
 }
