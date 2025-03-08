@@ -38194,6 +38194,18 @@
   isbn      = "9780226849645,9780226849638"
 }
 
+@BOOK{Hopkins2023-zi,
+  title     = "Reading architecture second edition: A visual lexicon",
+  author    = "Hopkins, Owen",
+  publisher = "Laurence King Publishing",
+  address   = "London, England",
+  month     =  "26~" # jan,
+  year      =  2023,
+  url       = "https://books.google.com/books?id=T1VgEAAAQBAJ&newbks=1",
+  isbn      =  9781529420357,
+  language  = "en"
+}
+
 @BOOK{Cline2011-qy,
   title     = "Ready Player One",
   author    = "Cline, Ernest",
