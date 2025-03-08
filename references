@@ -31961,6 +31961,20 @@
   isbn      =  9780367252298
 }
 
+@BOOK{Carpo2012-lv,
+  title     = "The Digital Turn in Architecture 1992 - 2012: {AD} reader",
+  author    = "Carpo, M",
+  editor    = "Carpo, Mario",
+  publisher = "John Wiley \& Sons",
+  address   = "Nashville, TN",
+  series    = "AD Reader",
+  month     =  "19~" # oct,
+  year      =  2012,
+  url       = "https://books.google.com/books?id=8_ftkxDvohoC&newbks=1",
+  isbn      =  9781119951742,
+  language  = "en"
+}
+
 @MISC{Ritchie2017-jm,
   title    = "Technology Adoption",
   author   = "Ritchie, Hannah and Roser, Max",
