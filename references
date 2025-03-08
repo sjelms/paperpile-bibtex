@@ -12781,7 +12781,7 @@
   month     =  "5~" # jul,
   year      =  2011,
   url       = "https://books.google.com/books?id=V9hi269OD9cC&newbks=1",
-  keywords  = "EPubs Books;ePub",
+  keywords  = "EPubs Books;ePub;Research Methods",
   doi       = "10.7208/chicago/9780226849638.001.0001",
   isbn      = "9780226849645,9780226849638"
 }
@@ -12890,7 +12890,7 @@
   month     =  "21~" # mar,
   year      =  2014,
   url       = "https://www.google.com/books/edition/Helping_Doctoral_Students_Write/tfkjAwAAQBAJ?hl=de&gbpv=0",
-  keywords  = "EPubs Books;ePub",
+  keywords  = "EPubs Books;ePub;Research Methods",
   isbn      =  9781317802129
 }
 
@@ -12903,7 +12903,7 @@
   month     =  "30~" # jun,
   year      =  2013,
   url       = "https://www.google.com/books/edition/Ethnography_in_Education/kaeHAwAAQBAJ?hl=de&gbpv=1&dq=Ethnography+in+Education+%2B+mills+morton&printsec=frontcover",
-  keywords  = "EPubs Books;ePub",
+  keywords  = "EPubs Books;ePub;Research Methods",
   isbn      =  9781446264928,
   language  = "en"
 }
@@ -38406,7 +38406,7 @@
   month     =  "3~" # feb,
   year      =  2022,
   url       = "https://link.springer.com/book/10.1007/978-981-16-6851-7",
-  keywords  = "EPubs Books;ePub",
+  keywords  = "EPubs Books;ePub;Research Methods",
   doi       = "10.1007/978-981-16-6851-7",
   isbn      = "9789811668500,9789811668517",
   language  = "en"
