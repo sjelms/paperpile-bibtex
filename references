@@ -12863,6 +12863,19 @@
   isbn      =  9780429939921
 }
 
+@BOOK{Lawson2006-pz,
+  title     = "How Designers Think",
+  author    = "Lawson, Bryan",
+  publisher = "Routledge",
+  address   = "London, England",
+  edition   =  4,
+  month     =  "11~" # aug,
+  year      =  2006,
+  url       = "https://www.google.com/books/edition/How_Designers_Think/0akrBgAAQBAJ?hl=de&gbpv=0",
+  doi       = "10.4324/9780080454979",
+  isbn      =  9781136398018
+}
+
 @TECHREPORT{Felstead2011-az,
   title       = "Praxis: Working to Learn, Learning to Work",
   author      = "Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
