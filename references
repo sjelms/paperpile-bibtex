@@ -12833,6 +12833,25 @@
   isbn      =  9780429828102
 }
 
+@BOOK{Nonaka2022-vg,
+  title     = "Management by eidetic intuition: A dynamic management theory
+               predicated on the ``philosophy of empathy''",
+  author    = "Nonaka, Ikujiro and Yamaguchi, Ichiro",
+  publisher = "Springer",
+  address   = "Singapore, Singapore",
+  edition   =  2022,
+  abstract  = "This book, by one of Japan's most innovative business thinkers,
+               applies insights from neuroscience, philosophy, and intuition to
+               business management",
+  series    = "The Nonaka Series on Knowledge and Innovation",
+  month     =  "3~" # feb,
+  year      =  2022,
+  url       = "https://link.springer.com/book/10.1007/978-981-16-6851-7",
+  doi       = "10.1007/978-981-16-6851-7",
+  isbn      = "9789811668500,9789811668517",
+  language  = "en"
+}
+
 @TECHREPORT{Felstead2011-az,
   title       = "Praxis: Working to Learn, Learning to Work",
   author      = "Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
