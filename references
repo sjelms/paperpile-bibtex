@@ -38401,3 +38401,17 @@
   doi       = "10.1002/9781119287568",
   isbn      =  9781119287537
 }
+
+@BOOK{Steinicke2016-nh,
+  title     = "Being really virtual: Immersive natives and the future of virtual
+               reality",
+  author    = "Steinicke, Frank",
+  publisher = "Springer International Publishing",
+  address   = "Basel, Switzerland",
+  edition   =  1,
+  month     =  "22~" # oct,
+  year      =  2016,
+  url       = "https://books.google.com/books?id=f-lODQAAQBAJ&newbks=1",
+  isbn      =  9783319430782,
+  language  = "en"
+}
