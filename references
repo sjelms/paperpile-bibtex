@@ -12727,7 +12727,7 @@
   month     =  "19~" # mar,
   year      =  2020,
   url       = "https://www.google.com/books/edition/Chudley_and_Greeno_s_Building_Constructi/BsvXDwAAQBAJ?hl=de&gbpv=0",
-  keywords  = "EPubs Books;ePub;Book (physical)",
+  keywords  = "EPubs Books;ePub;Book (physical);AEC",
   isbn      =  9780429648779,
   language  = "en"
 }
@@ -12742,7 +12742,7 @@
   month     =  "19~" # oct,
   year      =  2012,
   url       = "https://books.google.com/books?id=8_ftkxDvohoC&newbks=1",
-  keywords  = "EPubs Books;ePub",
+  keywords  = "EPubs Books;ePub;AEC",
   isbn      =  9781119951742,
   language  = "en"
 }
@@ -12845,7 +12845,7 @@
   month     =  "26~" # jan,
   year      =  2023,
   url       = "https://books.google.com/books?id=T1VgEAAAQBAJ&newbks=1",
-  keywords  = "EPubs Books;ePub",
+  keywords  = "EPubs Books;ePub;AEC",
   isbn      =  9781529420357,
   language  = "en"
 }
@@ -12932,7 +12932,7 @@
   month     =  "4~" # mar,
   year      =  2021,
   url       = "https://books.google.com/books?id=xuQSEAAAQBAJ&newbks=1",
-  keywords  = "EPubs Books;ePub",
+  keywords  = "EPubs Books;ePub;AEC",
   isbn      =  9781119149194,
   language  = "en"
 }
@@ -12948,7 +12948,7 @@
   month     =  "27~" # jul,
   year      =  2018,
   url       = "https://books.google.com/books?id=IU9mDwAAQBAJ&newbks=1",
-  keywords  = "EPubs Books;ePub",
+  keywords  = "EPubs Books;ePub;AEC",
   doi       = "10.1002/9781119287568",
   isbn      =  9781119287537
 }
