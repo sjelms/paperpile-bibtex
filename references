@@ -12834,6 +12834,22 @@
   language  = "en"
 }
 
+@BOOK{Lombard2015-xl,
+  title     = "Immersed in media: Telepresence theory, measurement \& technology",
+  author    = "Lombard, M and Biocca, F and Freeman, J and IJsselsteijn, W and
+               Schaevitz, R J",
+  editor    = "Lombard, Matthew and Biocca, Frank and Freeman, Jonathan and
+               IJsselsteijn, Wijnand and Schaevitz, Rachel J",
+  publisher = "Springer International Publishing",
+  address   = "Basel, Switzerland",
+  edition   =  2015,
+  month     =  "27~" # jun,
+  year      =  2015,
+  url       = "https://www.google.com/books/edition/Immersed_in_Media/8dvyCQAAQBAJ?hl=en&gbpv=0",
+  isbn      =  9783319101903,
+  language  = "en"
+}
+
 @TECHREPORT{Felstead2011-az,
   title       = "Praxis: Working to Learn, Learning to Work",
   author      = "Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
