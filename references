@@ -12742,6 +12742,30 @@
   isbn      =  9780429828102
 }
 
+@BOOK{Taleb2009-is,
+  title     = "The black swan",
+  author    = "Taleb, Nassim Nicholas",
+  publisher = "Random House Digital",
+  abstract  = "In the author's point of view, a black swan is an improbable
+               event with three principal characteristics - It is unpredictable;
+               it carries a massive impact; and, after the fact, we concoct an
+               explanation that makes it appear less random, and more
+               predictable, than it was. Why do we not acknowledge the
+               phenomenon of black swans until after they occur? Part of the
+               answer, according to Taleb, is that humans are hardwired to learn
+               specifics when they should be focused on generalities. We
+               concentrate on things we already know and time and time again
+               fail to take into consideration what we don't know. We are,
+               therefore, unable to truly estimate opportunities, too vulnerable
+               to the impulse to simplify, narrate, and categorize, and not open
+               enough to rewarding those who can imagine the 'impossible'.",
+  month     =  "13~" # oct,
+  year      =  2009,
+  url       = "https://books.google.com/books?id=YdOYmYA2TJYC&newbks=1",
+  isbn      =  9780812979183,
+  language  = "en"
+}
+
 @TECHREPORT{Felstead2011-az,
   title       = "Praxis: Working to Learn, Learning to Work",
   author      = "Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
