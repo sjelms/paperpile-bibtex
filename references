@@ -12850,6 +12850,19 @@
   language  = "en"
 }
 
+@BOOK{Stoyanov2018-hh,
+  title     = "Ikujiro Nonaka's A Dynamic Theory of Organisational Knowledge
+               Creation",
+  author    = "Stoyanov, Stoyan",
+  publisher = "Routledge Cavendish",
+  address   = "London, England",
+  series    = "The Macat Library",
+  month     =  "21~" # feb,
+  year      =  2018,
+  url       = "https://www.google.com/books/edition/An_Analysis_of_Ikujiro_Nonaka_s_A_Dynami/MEFNDwAAQBAJ?hl=en&gbpv=0",
+  isbn      =  9780429939921
+}
+
 @TECHREPORT{Felstead2011-az,
   title       = "Praxis: Working to Learn, Learning to Work",
   author      = "Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
