@@ -5315,7 +5315,8 @@
   series    = "Professional and Practice-based Learning",
   year      =  2014,
   url       = "https://books.google.co.uk/books?id=nQ7vAwAAQBAJ",
-  keywords  = "Zotero Import (Feb 22);My Library;EPubs Books;ePub",
+  keywords  = "Zotero Import (Feb 22);My Library;EPubs Books;\_BibTex to MD
+               Git;ePub",
   isbn      =  9789400770126
 }
 
@@ -35879,7 +35880,8 @@
               development.",
   year     =  2012,
   url      = "http://www.qualitative-research.net/index.php/fqs/article/view/1801/3335",
-  keywords = "RDL [CCME0041];Journal Articles;EPubs Books;ePub",
+  keywords = "RDL [CCME0041];Journal Articles;EPubs Books;\_BibTex to MD
+              Git;ePub",
   doi      = "10.17169/fqs-13.1.1801",
   issn     = "1438-5627"
 }
