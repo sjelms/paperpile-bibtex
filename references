@@ -5314,7 +5314,7 @@
   series    = "Professional and Practice-based Learning",
   year      =  2014,
   url       = "https://books.google.co.uk/books?id=nQ7vAwAAQBAJ",
-  keywords  = "Zotero Import (Feb 22);My Library;ePub",
+  keywords  = "Zotero Import (Feb 22);My Library;EPubs Books;ePub",
   isbn      =  9789400770126
 }
 
@@ -8131,8 +8131,8 @@
   month     =  "16~" # sep,
   year      =  2021,
   url       = "https://play.google.com/store/books/details?id=tUASEAAAQBAJ",
-  keywords  = "2\_Upgrade MAY 2023;\_BibTex to MD Git;Book (physical);Artificial
-               Intelligence (AI);ePub",
+  keywords  = "2\_Upgrade MAY 2023;\_BibTex to MD Git;EPubs Books;Book
+               (physical);Artificial Intelligence (AI);ePub",
   isbn      =  9780753559031,
   language  = "en"
 }
@@ -8587,7 +8587,7 @@
                the human systems they replace.",
   year      =  2018,
   url       = "https://play.google.com/store/books/details?id=nBsvswEACAAJ",
-  keywords  = "Notion Catalogued;\_BibTex to MD Git;Book
+  keywords  = "Notion Catalogued;\_BibTex to MD Git;EPubs Books;Book
                (physical);\_Cataloged;Audiobook;ePub",
   isbn      =  9780393634990,
   language  = "en"
@@ -8814,7 +8814,8 @@
   month     =  "10~" # jun,
   year      =  2021,
   url       = "https://link.springer.com/book/10.1007/978-3-030-78292-4",
-  keywords  = "Notion Catalogued;\_BibTex to MD Git;AIEd;UCL;\_Cataloged;ePub",
+  keywords  = "Notion Catalogued;\_BibTex to MD Git;EPubs
+               Books;AIEd;UCL;\_Cataloged;ePub",
   doi       = "10.1007/978-3-030-78292-4"
 }
 
@@ -12712,7 +12713,7 @@
   month     =  "19~" # mar,
   year      =  2020,
   url       = "https://www.google.com/books/edition/Chudley_and_Greeno_s_Building_Constructi/BsvXDwAAQBAJ?hl=de&gbpv=0",
-  keywords  = "EPubs Books;ePub;Book (physical);AEC",
+  keywords  = "EPubs Books;\_BibTex to MD Git;ePub;Book (physical);AEC",
   isbn      =  9780429648779,
   language  = "en"
 }
@@ -12875,7 +12876,7 @@
   month     =  "21~" # mar,
   year      =  2014,
   url       = "https://www.google.com/books/edition/Helping_Doctoral_Students_Write/tfkjAwAAQBAJ?hl=de&gbpv=0",
-  keywords  = "EPubs Books;ePub;Research Methods",
+  keywords  = "EPubs Books;\_BibTex to MD Git;ePub;Research Methods",
   isbn      =  9781317802129
 }
 
@@ -12888,7 +12889,7 @@
   month     =  "30~" # jun,
   year      =  2013,
   url       = "https://www.google.com/books/edition/Ethnography_in_Education/kaeHAwAAQBAJ?hl=de&gbpv=1&dq=Ethnography+in+Education+%2B+mills+morton&printsec=frontcover",
-  keywords  = "EPubs Books;ePub;Research Methods",
+  keywords  = "EPubs Books;\_BibTex to MD Git;ePub;Research Methods",
   isbn      =  9781446264928,
   language  = "en"
 }
@@ -12903,7 +12904,7 @@
   month     =  "2~" # may,
   year      =  2017,
   url       = "https://www.google.com/books/edition/Digital_Media_Culture_and_Education/uq_HDgAAQBAJ?hl=de&gbpv=0",
-  keywords  = "EPubs Books;ePub",
+  keywords  = "EPubs Books;\_BibTex to MD Git;ePub",
   isbn      =  9781137553157,
   language  = "en"
 }
@@ -12917,7 +12918,7 @@
   month     =  "4~" # mar,
   year      =  2021,
   url       = "https://books.google.com/books?id=xuQSEAAAQBAJ&newbks=1",
-  keywords  = "EPubs Books;ePub;AEC",
+  keywords  = "EPubs Books;\_BibTex to MD Git;ePub;AEC",
   isbn      =  9781119149194,
   language  = "en"
 }
@@ -12933,7 +12934,7 @@
   month     =  "27~" # jul,
   year      =  2018,
   url       = "https://books.google.com/books?id=IU9mDwAAQBAJ&newbks=1",
-  keywords  = "EPubs Books;ePub;AEC",
+  keywords  = "EPubs Books;\_BibTex to MD Git;ePub;AEC",
   doi       = "10.1002/9781119287568",
   isbn      =  9781119287537
 }
@@ -12948,7 +12949,7 @@
   month     =  "22~" # oct,
   year      =  2016,
   url       = "https://books.google.com/books?id=f-lODQAAQBAJ&newbks=1",
-  keywords  = "EPubs Books;ePub;\_XR \& MR",
+  keywords  = "EPubs Books;\_BibTex to MD Git;ePub;\_XR \& MR",
   isbn      =  9783319430782,
   language  = "en"
 }
@@ -14614,8 +14615,8 @@
   keywords    = "Construction 4.0;Notion Catalogued;UCL Poster Q1
                  2023;2\_Upgrade MAY 2023;00\_TO READ;Government
                  Report;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to
-                 MD Git;AEC;Important;\_Mark Up;Essential;\_Cataloged;\_In
-                 ClickUp;Report;ePub;Training"
+                 MD Git;EPubs Books;AEC;Important;\_Mark
+                 Up;Essential;\_Cataloged;\_In ClickUp;Report;ePub;Training"
 }
 
 @ARTICLE{Jensen2018-rf,
@@ -38422,7 +38423,7 @@
   month     =  "11~" # aug,
   year      =  2006,
   url       = "https://www.google.com/books/edition/How_Designers_Think/0akrBgAAQBAJ?hl=de&gbpv=0",
-  keywords  = "EPubs Books;ePub",
+  keywords  = "EPubs Books;\_BibTex to MD Git;ePub",
   doi       = "10.4324/9780080454979",
   isbn      =  9781136398018
 }
