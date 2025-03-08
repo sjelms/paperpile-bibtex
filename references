@@ -38373,3 +38373,16 @@
   isbn      =  9781137553157,
   language  = "en"
 }
+
+@BOOK{Williamson2021-sz,
+  title     = "Case studies in retrofitting suburbia: Urban design strategies
+               for urgent challenges",
+  author    = "Williamson, June and Dunham-Jones, Ellen",
+  publisher = "John Wiley \& Sons",
+  address   = "Nashville, TN",
+  month     =  "4~" # mar,
+  year      =  2021,
+  url       = "https://books.google.com/books?id=xuQSEAAAQBAJ&newbks=1",
+  isbn      =  9781119149194,
+  language  = "en"
+}
