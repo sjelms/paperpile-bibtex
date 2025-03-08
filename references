@@ -12820,7 +12820,7 @@
   month     =  "16~" # aug,
   year      =  2011,
   url       = "https://books.google.com/books?id=FY_HWAcm10MC&newbks=1",
-  keywords  = "EPubs Books;ePub",
+  keywords  = "EPubs Books;ePub;\_XR \& MR",
   isbn      =  9780307887450,
   language  = "en"
 }
@@ -12862,7 +12862,7 @@
   month     =  "27~" # jun,
   year      =  2015,
   url       = "https://www.google.com/books/edition/Immersed_in_Media/8dvyCQAAQBAJ?hl=en&gbpv=0",
-  keywords  = "EPubs Books;ePub",
+  keywords  = "EPubs Books;ePub;\_XR \& MR",
   isbn      =  9783319101903,
   language  = "en"
 }
@@ -12963,7 +12963,7 @@
   month     =  "22~" # oct,
   year      =  2016,
   url       = "https://books.google.com/books?id=f-lODQAAQBAJ&newbks=1",
-  keywords  = "EPubs Books;ePub",
+  keywords  = "EPubs Books;ePub;\_XR \& MR",
   isbn      =  9783319430782,
   language  = "en"
 }
