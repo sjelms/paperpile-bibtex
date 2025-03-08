@@ -38386,3 +38386,18 @@
   isbn      =  9781119149194,
   language  = "en"
 }
+
+@BOOK{Sacks2018-cv,
+  title     = "{BIM} handbook: A guide to building information modeling for
+               owners, designers, engineers, contractors, and facility managers",
+  author    = "Sacks, Rafael and Eastman, Chuck and Lee, Ghang and Teicholz,
+               Paul",
+  publisher = "John Wiley \& Sons",
+  address   = "Nashville, TN",
+  edition   =  3,
+  month     =  "27~" # jul,
+  year      =  2018,
+  url       = "https://books.google.com/books?id=IU9mDwAAQBAJ&newbks=1",
+  doi       = "10.1002/9781119287568",
+  isbn      =  9781119287537
+}
