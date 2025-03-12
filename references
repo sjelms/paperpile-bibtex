@@ -12973,6 +12973,40 @@
   isbn      =  9780199655366
 }
 
+@ARTICLE{Fine1993-gw,
+  title     = "Ten lies of ethnography",
+  author    = "Fine, Gary Alan",
+  journal   = "Journal of contemporary ethnography",
+  publisher = "SAGE Publications",
+  volume    =  22,
+  number    =  3,
+  pages     = "267--294",
+  abstract  = "As Everett Hughes noted, there is an “underside” to all work.
+               Each job includes ways of doing things that would be
+               inappropriate for those outside the guild to know. Illusions are
+               essential for maintaining occupational reputation, but in the
+               process they create a set of moral dilemmas. So it is with
+               ethnographic work. This article describes the underside of
+               ethnographic work: compromises that one frequently makes with
+               idealized ethical standards. It argues that images of
+               ethnographers—personal and public—are based on partial truths or
+               self-deceptions. The focus is on three clusters of dilemmas: the
+               classical virtues (the kindly ethnographer, the friendly
+               ethnographer, and the honest ethnographer), technical skills (the
+               precise ethnographer, the observant ethnographer, and the
+               unobtrusive ethnographer), and the ethnographic self (the candid
+               ethnographer, the chaste ethnographer, the fair ethnographer, and
+               the literary ethnographer). Changes in ethnographic styles and
+               traditions alter the balance of these deceptions but do not
+               eliminate the need for methodological illusions.",
+  month     =  oct,
+  year      =  1993,
+  url       = "http://dx.doi.org/10.1177/089124193022003001",
+  doi       = "10.1177/089124193022003001",
+  issn      = "0891-2416,1552-5414",
+  language  = "en"
+}
+
 @TECHREPORT{Felstead2011-az,
   title       = "Praxis: Working to Learn, Learning to Work",
   author      = "Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
