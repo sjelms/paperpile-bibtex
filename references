@@ -13008,9 +13008,11 @@
   language  = "en"
 }
 
-@TECHREPORT{World-Economic-Forum2025-hm,
+@TECHREPORT{Di-Battista2025-xv,
   title       = "The Future of Jobs Report 2025",
-  author      = "{World Economic Forum}",
+  author      = "Di Battista, Attilio and Grayling, Sam and Játiva, Ximena and
+                 Leopold, Till and Insight, Ricky Li and Sharma, Shuvasish and
+                 Zahidi, Saadia",
   publisher   = "World Economic Forum",
   institution = "World Economic Forum",
   address     = "Geneva",
