@@ -13008,19 +13008,6 @@
   language  = "en"
 }
 
-@TECHREPORT{Di-Battista2025-xv,
-  title       = "The Future of Jobs Report 2025",
-  author      = "Di Battista, Attilio and Grayling, Sam and Játiva, Ximena and
-                 Leopold, Till and Insight, Ricky Li and Sharma, Shuvasish and
-                 Zahidi, Saadia",
-  publisher   = "World Economic Forum",
-  institution = "World Economic Forum",
-  address     = "Geneva",
-  month       =  jan,
-  year        =  2025,
-  url         = "https://www.weforum.org/reports/the-future-of-jobs-report-2025/"
-}
-
 @TECHREPORT{Felstead2011-az,
   title       = "Praxis: Working to Learn, Learning to Work",
   author      = "Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
@@ -17742,7 +17729,8 @@
   month       =  jan,
   year        =  2023,
   url         = "https://dx.doi.org/10.2139/ssrn.4328672",
-  keywords    = "\_In Notion;\_In Readwise;AEC;Economics;\_New Literature",
+  keywords    = "\_BibTex to MD Git;\_In Notion;\_In
+                 Readwise;AEC;Economics;\_New Literature",
   doi         = "10.3386/w30845"
 }
 
@@ -38509,4 +38497,17 @@
   keywords  = "Construction 4.0;AEC",
   doi       = "10.4236/ojce.2025.151005",
   issn      = "2164-3164,2164-3172"
+}
+
+@TECHREPORT{Di-Battista2025-xv,
+  title       = "The Future of Jobs Report 2025",
+  author      = "Di Battista, Attilio and Grayling, Sam and Játiva, Ximena and
+                 Leopold, Till and Insight, Ricky Li and Sharma, Shuvasish and
+                 Zahidi, Saadia",
+  publisher   = "World Economic Forum",
+  institution = "World Economic Forum",
+  address     = "Geneva",
+  month       =  jan,
+  year        =  2025,
+  url         = "https://www.weforum.org/reports/the-future-of-jobs-report-2025/"
 }
