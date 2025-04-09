@@ -17750,8 +17750,8 @@
   month    =  jan,
   year     =  2021,
   url      = "https://pubs.aeaweb.org/doi/10.1257/mac.20180386",
-  keywords = "Future of Work;Economics;Technological change;\_In Notion;\_In
-              Readwise;\_New Literature",
+  keywords = "Future of Work;\_BibTex to MD Git;Economics;Technological
+              change;\_In Notion;\_In Readwise;\_New Literature",
   doi      = "10.1257/mac.20180386",
   issn     = "1945-7707"
 }
