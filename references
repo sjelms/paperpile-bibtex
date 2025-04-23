@@ -16646,6 +16646,18 @@
   school   = "University College London"
 }
 
+@BOOK{Keynes2018-kw,
+  title     = "The general theory of employment, interest, and money",
+  author    = "Keynes, John Maynard",
+  publisher = "Springer International Publishing",
+  address   = "Cham, Switzerland",
+  edition   =  1,
+  month     =  "31~" # jul,
+  year      =  2018,
+  isbn      =  9783319703442,
+  language  = "en"
+}
+
 @INPROCEEDINGS{Costanza-Chock2022-sz,
   title       = "Who Audits the Auditors? Recommendations from a field scan of
                  the algorithmic auditing ecosystem",
