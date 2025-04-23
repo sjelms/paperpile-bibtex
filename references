@@ -31557,6 +31557,18 @@
                   to MD Git;\_XR \& MR;YouTube;\_Cataloged"
 }
 
+@BOOK{Kirby2021-nb,
+  title     = "Neurodiversity at Work: Drive Innovation, Performance, and
+               Productivity with a Neurodiverse Workforce",
+  author    = "Kirby, Amanda and Smith, Theo",
+  publisher = "Kogan Page",
+  address   = "London, England",
+  month     =  "3~" # aug,
+  year      =  2021,
+  isbn      =  9781398600256,
+  language  = "en"
+}
+
 @MISC{Redshift2019-vy,
   title     = "The History of Prefabrication, From Roman Forts to Modern Modular
                Housing",
@@ -32067,17 +32079,6 @@
   keywords = "Data Stats Figures;2\_Upgrade MAY 2023;Government Report;\_BibTex
               to MD Git;Website;Statistics;Report",
   language = "en"
-}
-
-@BOOK{Kirby2021-nb,
-  title     = "Neurodiversity at work",
-  author    = "Kirby, Amanda and Smith, Theo",
-  publisher = "Kogan Page",
-  address   = "London, England",
-  month     =  "3~" # aug,
-  year      =  2021,
-  isbn      =  9781398600256,
-  language  = "en"
 }
 
 @ARTICLE{Johns2011-yt,
