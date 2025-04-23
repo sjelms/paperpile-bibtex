@@ -16701,7 +16701,7 @@
   series    = "Pelican Books",
   month     =  "1~" # jul,
   year      =  2021,
-  keywords  = "EPubs Books;ePub",
+  keywords  = "EPubs Books;\_BibTex to MD Git;ePub",
   isbn      =  9780141978215,
   language  = "en"
 }
@@ -16735,19 +16735,6 @@
   doi         = "10.1145/3529163",
   issn        = "1072-5520,1558-3449",
   language    = "en"
-}
-
-@BOOK{Kirby2021-nb,
-  title     = "Neurodiversity at Work: Drive Innovation, Performance, and
-               Productivity with a Neurodiverse Workforce",
-  author    = "Kirby, Amanda and Smith, Theo",
-  publisher = "Kogan Page",
-  address   = "London, England",
-  month     =  "3~" # aug,
-  year      =  2021,
-  keywords  = "EPubs Books;ePub",
-  isbn      =  9781398600256,
-  language  = "en"
 }
 
 @TECHREPORT{Richard2012-ki,
@@ -19764,6 +19751,19 @@
   language  = "en"
 }
 
+@BOOK{Kirby2021-nb,
+  title     = "Neurodiversity at Work: Drive Innovation, Performance, and
+               Productivity with a Neurodiverse Workforce",
+  author    = "Kirby, Amanda and Smith, Theo",
+  publisher = "Kogan Page",
+  address   = "London, England",
+  month     =  "3~" # aug,
+  year      =  2021,
+  keywords  = "EPubs Books;\_BibTex to MD Git;ePub",
+  isbn      =  9781398600256,
+  language  = "en"
+}
+
 @BOOK{Chang2014-xq,
   title     = "Economics: The User's Guide",
   author    = "Chang, Ha-Joon",
@@ -19779,7 +19779,7 @@
                failures of our current economic system.",
   month     =  "1~" # may,
   year      =  2014,
-  keywords  = "EPubs Books;ePub",
+  keywords  = "EPubs Books;\_BibTex to MD Git;ePub",
   isbn      =  9780718197049,
   language  = "en"
 }
@@ -38611,7 +38611,7 @@
                working in: architecture, urban planning, and construction.",
   month     =  "26~" # jun,
   year      =  2023,
-  keywords  = "EPubs Books;ePub",
+  keywords  = "EPubs Books;\_BibTex to MD Git;ePub",
   isbn      =  9783031353680,
   language  = "en"
 }
