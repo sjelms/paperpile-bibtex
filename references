@@ -28935,6 +28935,7 @@
                working in: architecture, urban planning, and construction.",
   month     =  "26~" # jun,
   year      =  2023,
+  keywords  = "ePub",
   isbn      =  9783031353680,
   language  = "en"
 }
@@ -31565,6 +31566,7 @@
   address   = "London, England",
   month     =  "3~" # aug,
   year      =  2021,
+  keywords  = "ePub",
   isbn      =  9781398600256,
   language  = "en"
 }
@@ -32979,6 +32981,7 @@
                failures of our current economic system.",
   month     =  "1~" # may,
   year      =  2014,
+  keywords  = "ePub",
   isbn      =  9780718197049,
   language  = "en"
 }
@@ -38444,6 +38447,7 @@
   series    = "Pelican Books",
   month     =  "1~" # jul,
   year      =  2021,
+  keywords  = "ePub",
   isbn      =  9780141978215,
   language  = "en"
 }
