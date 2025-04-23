@@ -16646,19 +16646,6 @@
   school   = "University College London"
 }
 
-@BOOK{Keynes2018-kw,
-  title     = "The General Theory of Employment, Interest, and Money",
-  author    = "Keynes, John Maynard",
-  publisher = "Springer International Publishing",
-  address   = "Cham, Switzerland",
-  edition   =  1,
-  month     =  "31~" # jul,
-  year      =  2018,
-  keywords  = "\_BibTex to MD Git",
-  isbn      =  9783319703442,
-  language  = "en"
-}
-
 @INPROCEEDINGS{Costanza-Chock2022-sz,
   title       = "Who Audits the Auditors? Recommendations from a field scan of
                  the algorithmic auditing ecosystem",
@@ -19736,6 +19723,21 @@
   note         = "Accessed: 2022-9-2",
   keywords     = "Designing Across Senses [Book Resources]",
   language     = "en"
+}
+
+@BOOK{Keynes2018-kw,
+  title     = "The General Theory of Employment, Interest, and Money",
+  author    = "Keynes, John Maynard",
+  publisher = "Springer International Publishing",
+  address   = "Cham, Switzerland",
+  edition   =  1,
+  month     =  "31~" # jul,
+  year      =  2018,
+  url       = "https://doi.org/10.1007/978-3-319-70344-2",
+  keywords  = "\_BibTex to MD Git",
+  doi       = "10.1007/978-3-319-70344-2",
+  isbn      =  9783319703442,
+  language  = "en"
 }
 
 @BOOK{Pearson2020-je,
