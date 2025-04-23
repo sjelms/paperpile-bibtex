@@ -32964,6 +32964,25 @@
   language     = "en"
 }
 
+@BOOK{Chang2014-xq,
+  title     = "Economics: The User's Guide",
+  author    = "Chang, Ha-Joon",
+  publisher = "Penguin UK",
+  abstract  = "What is economics? What can - and can't - it explain about the
+               world? Why does it matter? Ha-Joon Chang teaches economics at
+               Cambridge University, and writes a column for the Guardian. The
+               Observer called his book 23 Things They Don't Tell You About
+               Capitalism, which was a no.1 bestseller, 'a witty and timely
+               debunking of some of the biggest myths surrounding the global
+               economy.' He won the Wassily Leontief Prize for advancing the
+               frontiers of economic thought, and is a vocal critic of the
+               failures of our current economic system.",
+  month     =  "1~" # may,
+  year      =  2014,
+  isbn      =  9780718197049,
+  language  = "en"
+}
+
 @ARTICLE{Lucas2008-nk,
   title    = "Implementation and evaluation of a {VR} task-based training tool
               for conveyor belt safety training",
@@ -35613,25 +35632,6 @@
   keywords  = "\_BibTex to MD Git;EPubs Books;Economics;ePub;Labor",
   isbn      =  9781400827145,
   language  = "fr, en"
-}
-
-@BOOK{Chang2014-xq,
-  title     = "Economics: The user's guide: A pelican introduction",
-  author    = "Chang, Ha-Joon",
-  publisher = "Penguin UK",
-  abstract  = "What is economics? What can - and can't - it explain about the
-               world? Why does it matter? Ha-Joon Chang teaches economics at
-               Cambridge University, and writes a column for the Guardian. The
-               Observer called his book 23 Things They Don't Tell You About
-               Capitalism, which was a no.1 bestseller, 'a witty and timely
-               debunking of some of the biggest myths surrounding the global
-               economy.' He won the Wassily Leontief Prize for advancing the
-               frontiers of economic thought, and is a vocal critic of the
-               failures of our current economic system.",
-  month     =  "1~" # may,
-  year      =  2014,
-  isbn      =  9780718197049,
-  language  = "en"
 }
 
 @TECHREPORT{Fuller2017-dj,
