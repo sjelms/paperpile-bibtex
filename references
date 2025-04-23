@@ -16724,6 +16724,17 @@
   language    = "en"
 }
 
+@BOOK{Kirby2021-nb,
+  title     = "Neurodiversity at work",
+  author    = "Kirby, Amanda and Smith, Theo",
+  publisher = "Kogan Page",
+  address   = "London, England",
+  month     =  "3~" # aug,
+  year      =  2021,
+  isbn      =  9781398600256,
+  language  = "en"
+}
+
 @TECHREPORT{Richard2012-ki,
   title       = "The Richard Review of Apprenticeships",
   author      = "Richard, Doug",
