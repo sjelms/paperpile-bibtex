@@ -16707,6 +16707,18 @@
   language    = "en"
 }
 
+@BOOK{Calder2021-iy,
+  title     = "Architecture",
+  author    = "Calder, Barnabas",
+  publisher = "Pelican",
+  address   = "London, England",
+  series    = "Pelican Books",
+  month     =  "1~" # jul,
+  year      =  2021,
+  isbn      =  9780141978215,
+  language  = "en"
+}
+
 @ARTICLE{Friesner2005-io,
   title    = "Learning Logs: Assessment or Research Method?",
   author   = "Friesner, Tim and Hart, Mike",
