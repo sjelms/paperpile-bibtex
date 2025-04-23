@@ -16658,6 +16658,20 @@
   language  = "en"
 }
 
+@BOOK{Pearson2020-je,
+  title     = "England’s co-operative movement",
+  author    = "Pearson, Lynn",
+  publisher = "Liverpool University Press",
+  address   = "Swindon, England",
+  series    = "Historic England",
+  month     =  "30~" # sep,
+  year      =  2020,
+  url       = "http://dx.doi.org/10.2307/j.ctv179h1q1",
+  doi       = "10.2307/j.ctv179h1q1",
+  isbn      = "9781789622393,9781789622393",
+  language  = "en"
+}
+
 @INPROCEEDINGS{Costanza-Chock2022-sz,
   title       = "Who Audits the Auditors? Recommendations from a field scan of
                  the algorithmic auditing ecosystem",
