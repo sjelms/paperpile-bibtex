@@ -30684,6 +30684,18 @@
   doi           = "10.48550/ARXIV.2303.10130"
 }
 
+@ARTICLE{Wang2022-tu,
+  title   = "Research on the Training and Management of Industrializing Workers
+             in Prefabricated Building with Machine Vision and Human Behaviour
+             Modelling Based on Industry 4.0 Era",
+  author  = "Wang, Junwu and Song, Yinghui and Yuan, Chunbao and Guo, F and
+             Huangfu, Yanru and Liu, Yipeng",
+  journal = "Computational Intelligence and Neuroscience",
+  volume  =  2022,
+  year    =  2022,
+  url     = "https://api.semanticscholar.org/CorpusId:249708831"
+}
+
 @ARTICLE{Coelho2021-oq,
   title       = "Network analysis of narrative discourse and attention-deficit
                  hyperactivity symptoms in adults",
