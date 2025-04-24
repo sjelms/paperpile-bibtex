@@ -30564,6 +30564,21 @@
   url       = "https://api.semanticscholar.org/CorpusId:247363985"
 }
 
+@INPROCEEDINGS{Li2020-hx,
+  title     = "Exploration on the cultivation of prefabricated interior
+               decoration technical talents based on mode of integration of
+               industry and education",
+  author    = "Li, Xiuyun",
+  booktitle = "Proceedings of the International Conference on Mental Health and
+               Humanities Education (ICMHHE 2020)",
+  publisher = "Atlantis Press",
+  address   = "Paris, France",
+  year      =  2020,
+  url       = "https://www.atlantis-press.com/article/125939199",
+  doi       = "10.2991/assehr.k.200425.062",
+  isbn      =  9789462529588
+}
+
 @ARTICLE{Rajamanickam2023-nz,
   title   = "A Need Analysis Survey on the Development of On-The-Job Training
              Web Application in Vocational College",
@@ -30573,15 +30588,6 @@
              Sciences",
   year    =  2023,
   url     = "https://api.semanticscholar.org/CorpusId:265361701"
-}
-
-@INPROCEEDINGS{Li2020-hx,
-  title     = "Exploration on the Cultivation of Prefabricated Interior
-               Decoration Technical Talents Based on Mode of Integration of
-               Industry and Education",
-  author    = "Li, Xiuyun",
-  booktitle = "unknown",
-  year      =  2020
 }
 
 @ARTICLE{Von_Karolyi2001-ee,
