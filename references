@@ -30561,7 +30561,8 @@
                and Pless, S and Sica, Mauro and Lacchin, Paolo",
   booktitle = "Frontiers in Virtual Reality",
   year      =  2022,
-  url       = "https://api.semanticscholar.org/CorpusId:247363985"
+  url       = "https://api.semanticscholar.org/CorpusId:247363985",
+  keywords  = "Ai2 PaperFinder"
 }
 
 @INPROCEEDINGS{Li2020-hx,
@@ -30575,19 +30576,21 @@
   address   = "Paris, France",
   year      =  2020,
   url       = "https://www.atlantis-press.com/article/125939199",
+  keywords  = "Ai2 PaperFinder",
   doi       = "10.2991/assehr.k.200425.062",
   isbn      =  9789462529588
 }
 
 @ARTICLE{Rajamanickam2023-nz,
-  title   = "A Need Analysis Survey on the Development of On-The-Job Training
-             Web Application in Vocational College",
-  author  = "Rajamanickam, Selvi and Rus, Ridzwan Che' and Raji, Mohd Nazri
-             Abdul",
-  journal = "International Journal of Academic Research in Business and Social
-             Sciences",
-  year    =  2023,
-  url     = "https://api.semanticscholar.org/CorpusId:265361701"
+  title    = "A Need Analysis Survey on the Development of On-The-Job Training
+              Web Application in Vocational College",
+  author   = "Rajamanickam, Selvi and Rus, Ridzwan Che' and Raji, Mohd Nazri
+              Abdul",
+  journal  = "International Journal of Academic Research in Business and Social
+              Sciences",
+  year     =  2023,
+  url      = "https://api.semanticscholar.org/CorpusId:265361701",
+  keywords = "Ai2 PaperFinder"
 }
 
 @ARTICLE{Von_Karolyi2001-ee,
@@ -30711,26 +30714,28 @@
 }
 
 @ARTICLE{Xia2022-zr,
-  title   = "Reconstruction and Practice of Digital Construction Collaborative
-             Innovation Teaching System under the Background of Construction
-             Industry Transformation and Upgrading",
-  author  = "Xia, Zhao and Xiaoling, Jing and Chengjie, Luan and Luyue, Han and
-             Zhaojun, Ren and Na, Li",
-  journal = "Frontiers in Educational Research",
-  year    =  2022,
-  url     = "https://api.semanticscholar.org/CorpusId:252321161"
+  title    = "Reconstruction and Practice of Digital Construction Collaborative
+              Innovation Teaching System under the Background of Construction
+              Industry Transformation and Upgrading",
+  author   = "Xia, Zhao and Xiaoling, Jing and Chengjie, Luan and Luyue, Han and
+              Zhaojun, Ren and Na, Li",
+  journal  = "Frontiers in Educational Research",
+  year     =  2022,
+  url      = "https://api.semanticscholar.org/CorpusId:252321161",
+  keywords = "Ai2 PaperFinder"
 }
 
 @ARTICLE{Wang2022-tu,
-  title   = "Research on the Training and Management of Industrializing Workers
-             in Prefabricated Building with Machine Vision and Human Behaviour
-             Modelling Based on Industry 4.0 Era",
-  author  = "Wang, Junwu and Song, Yinghui and Yuan, Chunbao and Guo, F and
-             Huangfu, Yanru and Liu, Yipeng",
-  journal = "Computational Intelligence and Neuroscience",
-  volume  =  2022,
-  year    =  2022,
-  url     = "https://api.semanticscholar.org/CorpusId:249708831"
+  title    = "Research on the Training and Management of Industrializing Workers
+              in Prefabricated Building with Machine Vision and Human Behaviour
+              Modelling Based on Industry 4.0 Era",
+  author   = "Wang, Junwu and Song, Yinghui and Yuan, Chunbao and Guo, F and
+              Huangfu, Yanru and Liu, Yipeng",
+  journal  = "Computational Intelligence and Neuroscience",
+  volume   =  2022,
+  year     =  2022,
+  url      = "https://api.semanticscholar.org/CorpusId:249708831",
+  keywords = "Ai2 PaperFinder"
 }
 
 @ARTICLE{Coelho2021-oq,
