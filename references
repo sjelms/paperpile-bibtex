@@ -2672,6 +2672,14 @@
   issn      = "0022-362X,1939-8549"
 }
 
+@MISC{UnknownUnknown-cs,
+  title        = "Inderscience Publishers - linking academia, business and
+                  industry through research",
+  howpublished = "\url{https://www.inderscience.com/offers.php?id=69601}",
+  note         = "Accessed: 2025-4-30",
+  language     = "en"
+}
+
 @ARTICLE{Su2013-qt,
   title     = "Influence of training schedule on development of perceptual–motor
                control skills for construction equipment operators in a virtual
