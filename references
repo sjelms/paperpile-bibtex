@@ -13189,6 +13189,20 @@
   language  = "en"
 }
 
+@INPROCEEDINGS{Bosch2022-ih,
+  title       = "Design of the Participatory Learning Experience",
+  author      = "Bosch, Noora",
+  affiliation = "Department of Education/ Craft Studies, University of Helsinki,
+                 Finland",
+  booktitle   = "Interaction Design and Children",
+  publisher   = "ACM",
+  address     = "New York, NY, USA",
+  month       =  "27~" # jun,
+  year        =  2022,
+  url         = "http://dx.doi.org/10.1145/3501712.3535298",
+  doi         = "10.1145/3501712.3535298"
+}
+
 @TECHREPORT{Felstead2011-az,
   title       = "Praxis: Working to Learn, Learning to Work",
   author      = "Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
