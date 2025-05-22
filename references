@@ -38824,6 +38824,7 @@
   month     =  "20~" # jun,
   year      =  2022,
   url       = "http://dx.doi.org/10.1145/3527927.3532801",
+  keywords  = "JR Research Group Readings",
   doi       = "10.1145/3527927.3532801",
   language  = "en"
 }
