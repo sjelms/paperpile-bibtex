@@ -13189,6 +13189,17 @@
   language  = "en"
 }
 
+@INCOLLECTION{noauthor_2019-fq,
+  title     = "Artificial intelligence and the modern productivity paradox",
+  booktitle = "The Economics of Artificial Intelligence",
+  publisher = "University of Chicago Press",
+  pages     = "23--60",
+  year      =  2019,
+  url       = "http://dx.doi.org/10.7208/chicago/9780226613475.003.0001",
+  doi       = "10.7208/chicago/9780226613475.003.0001",
+  isbn      = "9780226613338,9780226613475"
+}
+
 @TECHREPORT{Felstead2011-az,
   title       = "Praxis: Working to Learn, Learning to Work",
   author      = "Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
