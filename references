@@ -13184,7 +13184,7 @@
                economic performance.",
   month     =  "27~" # mar,
   year      =  2025,
-  keywords  = "EPubs Books;\_BibTex to MD Git;ePub;Economics;Columbia University",
+  keywords  = "EPubs Books;\_BibTex to MD Git;Economics;Columbia University;ePub",
   isbn      =  9780192520210,
   language  = "en"
 }
@@ -38867,4 +38867,18 @@
   url         = "http://dx.doi.org/10.1145/3501712.3535298",
   keywords    = "JR Research Group Readings",
   doi         = "10.1145/3501712.3535298"
+}
+
+@BOOK{Lofland1994-iu,
+  title     = "Analyzing Social Settings: A Guide to Qualitative Observation and
+               Analysis",
+  author    = "Lofland, John and Lofland, Lyn H",
+  publisher = "Wadsworth Publishing",
+  address   = "Belmont, CA",
+  edition   =  3,
+  month     =  "8~" # dec,
+  year      =  1994,
+  keywords  = "Theory and Methods;Fieldwork Methodology",
+  isbn      =  9780534247805,
+  language  = "en"
 }
