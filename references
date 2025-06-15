@@ -1869,6 +1869,19 @@
   annote    = "Edited volume"
 }
 
+@TECHREPORT{Harper2023-mg,
+  title       = "Componentised Internal Walls for Multi-Residential Applications",
+  author      = "Harper, Laura and Khor, Lee-Anne and Rollo, Jean-Paul",
+  institution = "Building 4.0 CRC",
+  address     = "Australia",
+  month       =  dec,
+  year        =  2023,
+  url         = "https://www.building40crc.org/",
+  annote      = "Report reviewed by Duncan Maxwell. Project partners: Lendlease
+                 Digital, Monash University, Melbourne University. Project
+                 duration: 6 months."
+}
+
 @INCOLLECTION{Littlejohn2022-wy,
   title     = "Challenges of digital professional learning: Digital technology
                systems are no substitute for human agency",
