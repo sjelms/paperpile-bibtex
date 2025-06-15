@@ -17782,11 +17782,6 @@
   language    = "en"
 }
 
-@MISC{noauthor_undated-an,
-  title    = "Componentised Internal Walls for Multi-Residential Applications",
-  keywords = "Construction 4.0;AEC"
-}
-
 @INCOLLECTION{Fasth2008-el,
   title     = "Measuring and Analysing Levels of Automation in an Assembly
                System",
