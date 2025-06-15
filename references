@@ -12245,18 +12245,6 @@
   language  = "en"
 }
 
-@MISC{Unknown2024-zv,
-  title        = "The demand for housing as an investment",
-  booktitle    = "Bartlett Faculty of the Built Environment",
-  abstract     = "Authored by Josh Ryan-Collins",
-  month        =  "10~" # oct,
-  year         =  2024,
-  howpublished = "\url{https://www.ucl.ac.uk/bartlett/publications/2024/oct/demand-housing-investment}",
-  note         = "Accessed: 2025-6-15",
-  keywords     = "UCL Institute for Innovation and Public Purpose (IIPP)",
-  language     = "en"
-}
-
 @BOOK{Benyus2020-id,
   title     = "Biomimicry: Innovation inspired by nature",
   author    = "Benyus, Janine M",
@@ -38939,6 +38927,19 @@
   doi         = "10.1038/s41587-025-02584-1",
   pmid        =  40097672,
   issn        = "1087-0156,1546-1696",
+  language    = "en"
+}
+
+@TECHREPORT{Ryan-Collins2024-sw,
+  title       = "The demand for housing as an investment: Drivers, outcomes and
+                 policy interventions to enhance housing affordability in the
+                 {UK}",
+  author      = "Ryan-Collins, Josh",
+  affiliation = "UCL Institute for Innovation and Public Purpose",
+  month       =  "10~" # oct,
+  year        =  2024,
+  url         = "https://www.ucl.ac.uk/bartlett/publications/2024/oct/demand-housing-investment",
+  keywords    = "UCL Institute for Innovation and Public Purpose (IIPP)",
   language    = "en"
 }
 
