@@ -38496,15 +38496,6 @@
   language    = "en"
 }
 
-@BOOK{GinigaddaraUnknown-ij,
-  title    = "Skills required for offsite construction",
-  author   = "Ginigaddara, Buddhini",
-  url      = "https://researchers.westernsydney.edu.au/en/publications/skills-required-for-offsite-construction",
-  isbn     =  9789623678216,
-  issn     = "1471-4175,1477-0857",
-  language = "en"
-}
-
 @TECHREPORT{Galor2011-hq,
   title     = "Inequality, human capital formation and the process of
                development",
