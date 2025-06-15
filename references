@@ -31033,6 +31033,34 @@
   language = "en"
 }
 
+@TECHREPORT{Harper2023-mg,
+  title       = "Componentised Internal Walls for Multi-Residential Applications",
+  author      = "Harper, Laura and Khor, Lee-Anne and Rollo, Jean-Paul",
+  institution = "Building 4.0 CRC",
+  address     = "Australia",
+  number      =  28,
+  abstract    = "Internal wall systems continue to rely on labour intensive and
+                 wasteful on-site processing despite advances in prefabrication
+                 and other aspects of multi-residential construction. Described
+                 performance requirements rely heavily on craftsmanship and
+                 supervision ‚when these fail, significant and costly legacy
+                 issues arise. Through a design-led, systems-thinking approach,
+                 this project explored componentised and connected internal wall
+                 alternatives, ranging from the improvement of BAU construction
+                 to the separation of performance core and surface, to
+                 plug-n-play installation. The investigation revealed a series
+                 of design principles for costing legacy and life-time value,
+                 allowing services and performance-based criteria to be
+                 integrated in a controlled, off-site environment.",
+  month       =  dec,
+  year        =  2023,
+  url         = "https://www.building40crc.org/",
+  keywords    = "Construction 4.0;AEC",
+  annote      = "Report reviewed by Duncan Maxwell. Project partners: Lendlease
+                 Digital, Monash University, Melbourne University. Project
+                 duration: 6 months."
+}
+
 @PHDTHESIS{Floren2021-av,
   title    = "Multimodal Text and Assessment: Norms Guiding Teachers’
               Recognition of Quality in Multimodal Text in Higher Education in
@@ -38886,20 +38914,6 @@
   pmid        =  40097672,
   issn        = "1087-0156,1546-1696",
   language    = "en"
-}
-
-@TECHREPORT{Harper2023-mg,
-  title       = "Componentised Internal Walls for Multi-Residential Applications",
-  author      = "Harper, Laura and Khor, Lee-Anne and Rollo, Jean-Paul",
-  institution = "Building 4.0 CRC",
-  address     = "Australia",
-  month       =  dec,
-  year        =  2023,
-  url         = "https://www.building40crc.org/",
-  keywords    = "Construction 4.0;AEC",
-  annote      = "Report reviewed by Duncan Maxwell. Project partners: Lendlease
-                 Digital, Monash University, Melbourne University. Project
-                 duration: 6 months."
 }
 
 @TECHREPORT{Ashraf2025-rf,
