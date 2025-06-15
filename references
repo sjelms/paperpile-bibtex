@@ -7298,21 +7298,6 @@
   keywords = "RDL [CCME0041];Journal Articles"
 }
 
-@ARTICLE{Braun2006-si,
-  title    = "Using thematic analysis in psychology",
-  author   = "Braun, Virginia and Clarke, Victoria",
-  journal  = "Qualitative research in psychology",
-  volume   =  3,
-  number   =  2,
-  pages    = "77--101",
-  month    =  jan,
-  year     =  2006,
-  url      = "http://dx.doi.org/10.1191/1478088706qp063oa",
-  keywords = "RDL [CCME0041];Journal Articles",
-  doi      = "10.1191/1478088706qp063oa",
-  issn     = "1478-0887,1478-0895"
-}
-
 @MISC{Fairclough_undated-ff,
   title        = "Critical discourse analysis",
   author       = "Fairclough, Norman",
@@ -35021,10 +35006,11 @@
               a useful and flexible method for qualitative research in and
               beyond psychology. (PsycINFO Database Record (c) 2019 APA, all
               rights reserved)",
+  month    =  jan,
   year     =  2006,
   url      = "https://psycnet.apa.org/fulltext/2006-06991-002.pdf",
   keywords = "Theory and Methodology in Social and Educational Research;Journal
-              Articles;Research Methods",
+              Articles;RDL [CCME0041];Research Methods",
   doi      = "10.1191/1478088706qp063oa",
   issn     = "1478-0887,1478-0895"
 }
