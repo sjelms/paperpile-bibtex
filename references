@@ -38930,20 +38930,6 @@
   language    = "en"
 }
 
-@TECHREPORT{Ryan-Collins2024-sw,
-  title       = "The demand for housing as an investment: Drivers, outcomes and
-                 policy interventions to enhance housing affordability in the
-                 {UK}",
-  author      = "Ryan-Collins, Josh",
-  affiliation = "UCL Institute for Innovation and Public Purpose",
-  month       =  "10~" # oct,
-  year        =  2024,
-  url         = "https://www.ucl.ac.uk/bartlett/publications/2024/oct/demand-housing-investment",
-  keywords    = "UCL Institute for Innovation and Public Purpose
-                 (IIPP);UCL;Economics",
-  language    = "en"
-}
-
 @TECHREPORT{Ashraf2025-rf,
   title     = "Meaning At Work",
   author    = "Ashraf, Nava and Bandiera, Oriana and Minni, Virginia and
@@ -38955,4 +38941,33 @@
   url       = "http://dx.doi.org/10.3386/w33843",
   keywords  = "\_BibTex to MD Git;Future of Work;Workplace Learning;Essential",
   doi       = "10.3386/w33843"
+}
+
+@TECHREPORT{Ryan-Collins2024-sw,
+  title       = "The demand for housing as an investment: Drivers, outcomes and
+                 policy interventions to enhance housing affordability in the
+                 {UK}",
+  author      = "Ryan-Collins, Josh",
+  affiliation = "UCL Institute for Innovation and Public Purpose",
+  abstract    = "This report, commissioned by the previous UK government's
+                 housing ministry, examines the role of investment demand for UK
+                 housing and its contribution to worsening affordability over
+                 the past 40 years. The report examines how government policies
+                 in the spheres of financial regulation, property taxation, and
+                 housing policy have contributed to the ‘financialisation’ of
+                 housing, with its role as an investment good overriding the UK
+                 population’s housing needs. The UK has become locked into a
+                 “housing-finance feedback cycle” where increasing financial
+                 flows into housing generate rising prices, and expectations of
+                 future rises , which in turn generate more speculative demand
+                 for housing as an investment. This includes buy-to-let and
+                 second homes, with 1-in-5 homes in the UK now owned by
+                 landlords, and homeownership for younger cohorts in rapid
+                 decline.",
+  month       =  "10~" # oct,
+  year        =  2024,
+  url         = "https://www.ucl.ac.uk/bartlett/publications/2024/oct/demand-housing-investment",
+  keywords    = "UCL Institute for Innovation and Public Purpose
+                 (IIPP);UCL;Economics",
+  language    = "en"
 }
