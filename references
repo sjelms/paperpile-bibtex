@@ -38967,8 +38967,8 @@
   month       =  "10~" # oct,
   year        =  2024,
   url         = "https://www.ucl.ac.uk/bartlett/publications/2024/oct/demand-housing-investment",
-  keywords    = "UCL Institute for Innovation and Public Purpose
-                 (IIPP);UCL;Economics",
+  keywords    = "UCL Institute for Innovation and Public Purpose (IIPP);\_BibTex
+                 to MD Git;UCL;Economics",
   language    = "en"
 }
 
@@ -39013,7 +39013,7 @@
   month       =  "30~" # may,
   year        =  2023,
   url         = "https://www.ucl.ac.uk/bartlett/publications/2023/may/right-housing-mission-oriented-and-human-rights-based-approach",
-  keywords    = "UCL Institute for Innovation and Public Purpose
-                 (IIPP);UCL;Economics",
+  keywords    = "UCL Institute for Innovation and Public Purpose (IIPP);\_BibTex
+                 to MD Git;UCL;Economics",
   language    = "en"
 }
