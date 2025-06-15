@@ -5036,6 +5036,18 @@
   language  = "en"
 }
 
+@PHDTHESIS{Pryke2002-uc,
+  title     = "{UK} Construction in Transition: Developing a Social Network
+               Approach to the Evaluation of New Procurement and Management
+               Strategies",
+  author    = "Pryke, Stephen David",
+  publisher = "UCL (University College London)",
+  year      =  2002,
+  keywords  = "Social sciences ; Project management;BSSC Thesis",
+  school    = "University College London",
+  language  = "en"
+}
+
 @BOOK{Kuang2019-nv,
   title     = "User Friendly: How the Hidden Rules of Design are Changing the
                Way We Live, Work \& Play",
@@ -12368,17 +12380,6 @@
   year      =  2014,
   keywords  = "EPubs Books;\_BibTex to MD Git;AEC;ePub;\_New Literature",
   isbn      =  9781780676388,
-  language  = "en"
-}
-
-@MISC{Pryke2002-uc,
-  title     = "Uk construction in transition: Developing a social network
-               approach to the evaluation of new procurement and management
-               strategies",
-  author    = "Pryke, Stephen David",
-  publisher = "UCL (University College London)",
-  year      =  2002,
-  keywords  = "Social sciences ; Project management;BSSC Thesis",
   language  = "en"
 }
 
