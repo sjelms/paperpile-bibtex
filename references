@@ -4255,11 +4255,12 @@
   language  = "en"
 }
 
-@ARTICLE{Addyman2019-rm,
+@PHDTHESIS{Addyman2019-rm,
   title     = "The timing of patterning or the patterning of timing?
                Organisational routines in temporary organisations",
-  author    = "Addyman, S",
+  author    = "Addyman, Simon",
   publisher = "UCL (University College London)",
+  address   = "London",
   abstract  = "Large, or mega, construction project organisations are temporary
                in nature and traditionally structured around a life cycle model
                consisting of predefined, time bound sequential stages of work
@@ -4304,6 +4305,7 @@
   month     =  "28~" # jan,
   year      =  2019,
   url       = "https://discovery.ucl.ac.uk/id/eprint/10066709/",
+  school    = "UCL (University College London)",
   language  = "en"
 }
 
