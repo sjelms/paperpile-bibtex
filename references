@@ -38928,3 +38928,15 @@
   isbn      =  9780349017488,
   language  = "en"
 }
+
+@BOOK{Pursell2007-xe,
+  title       = "The machine in America",
+  author      = "Pursell, Carroll",
+  affiliation = "Australian National University and 62 Dawes St.",
+  publisher   = "Johns Hopkins University Press",
+  address     = "Baltimore, MD",
+  edition     =  2,
+  month       =  "15~" # mar,
+  year        =  2007,
+  isbn        =  9780801892325
+}
