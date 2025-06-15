@@ -4620,9 +4620,9 @@
   isbn        = "9781119098713,9781119098591"
 }
 
-@ARTICLE{Edkins1998-kn,
+@PHDTHESIS{Edkins1998-kn,
   title     = "Managing the design process in construction: A cognitive approach",
-  author    = "Edkins, A",
+  author    = "Edkins, Andrew John David",
   publisher = "University of London",
   abstract  = "The effective management of modern complex construction projects
                requires a clear understanding of how the stages and players
@@ -4656,6 +4656,7 @@
   year      =  1998,
   url       = "https://discovery.ucl.ac.uk/id/eprint/32848/",
   keywords  = "Cognitive, CONSTRUCTION, Design",
+  school    = "University of London",
   language  = "en"
 }
 
