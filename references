@@ -13396,15 +13396,6 @@
   school   = "University College London"
 }
 
-@PHDTHESIS{Edkins1998-ro,
-  title    = "Managing the Design Process in Construction: A Cognitive Approach",
-  author   = "Edkins, A",
-  year     =  1998,
-  url      = "https://discovery.ucl.ac.uk/id/eprint/32848/",
-  keywords = "BSSC Thesis",
-  school   = "University of London"
-}
-
 @PHDTHESIS{Tan2023-dm,
   title    = "Integrated Approaches to Digital-Enabled Design for Manufacture
               and Assembly: A Modularity Perspective and Case Study of
