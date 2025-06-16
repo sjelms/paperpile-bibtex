@@ -2726,6 +2726,16 @@
   language  = "en"
 }
 
+@PHDTHESIS{Kusuma2016-ja,
+  title    = "The Evolution of Culture-Climate Interplay in Temporary
+              Multi-Organisations: The Case of Construction Alliancing Projects",
+  author   = "Kusuma, I C",
+  year     =  2016,
+  url      = "https://discovery.ucl.ac.uk/id/eprint/1476944/",
+  keywords = "BSSC Thesis;Thesis;UCL",
+  school   = "University College London"
+}
+
 @ARTICLE{The_Data_Team2018-ue,
   title     = "A study finds nearly half of jobs are vulnerable to automation",
   author    = "{The Data Team}",
@@ -2756,23 +2766,14 @@
   issn      = "0022-362X,1939-8549"
 }
 
-@PHDTHESIS{Vermeer2019-xk,
-  title    = "Collective Learning in Strategic Public Private Partnership
-              ({PPP}) Procurement Systems for Social Infrastructure",
-  author   = "Vermeer, Daniel Marinus Maria",
-  year     =  2019,
-  url      = "https://discovery.ucl.ac.uk/id/eprint/10086561/",
-  keywords = "BSSC Thesis",
-  school   = "University College London"
-}
-
-@PHDTHESIS{Abd-Razak2019-gx,
-  title    = "A Strategic Approach to Failure Mitigation: A Study of Project and
-              Quality Management in Five Projects",
-  author   = "Abd Razak, Diyana Syafiqah Binti",
-  year     =  2019,
-  url      = "https://discovery.ucl.ac.uk/id/eprint/10070382/",
-  keywords = "BSSC Thesis",
+@PHDTHESIS{Miranda2007-fx,
+  title    = "Exploring the Relationship Between New Product Development,
+              Concurrent Engineering, and Project Management to Improve Product
+              Development",
+  author   = "Miranda, Adán López",
+  year     =  2007,
+  url      = "https://discovery.ucl.ac.uk/id/eprint/1446455/",
+  keywords = "BSSC Thesis;Thesis;UCL",
   school   = "University College London"
 }
 
@@ -2782,17 +2783,17 @@
   author   = "Deng, F",
   year     =  2015,
   url      = "https://discovery.ucl.ac.uk/id/eprint/1471874/",
-  keywords = "BSSC Thesis",
+  keywords = "BSSC Thesis;Thesis;UCL",
   school   = "University College London"
 }
 
-@PHDTHESIS{Kusuma2016-ja,
-  title    = "The Evolution of Culture-Climate Interplay in Temporary
-              Multi-Organisations: The Case of Construction Alliancing Projects",
-  author   = "Kusuma, I C",
-  year     =  2016,
-  url      = "https://discovery.ucl.ac.uk/id/eprint/1476944/",
-  keywords = "BSSC Thesis",
+@PHDTHESIS{Sassano2022-pu,
+  title    = "Optimism Bias and Cost Overruns: Experimenting on the Internal and
+              External Views in Resources and Time Estimation",
+  author   = "Sassano, Giuseppe",
+  year     =  2022,
+  url      = "https://discovery.ucl.ac.uk/id/eprint/10159728/",
+  keywords = "BSSC Thesis;Thesis;UCL",
   school   = "University College London"
 }
 
@@ -2802,7 +2803,17 @@
   author   = "Arthur, A C",
   year     =  2016,
   url      = "https://discovery.ucl.ac.uk/id/eprint/1495997/",
-  keywords = "BSSC Thesis",
+  keywords = "BSSC Thesis;Thesis;UCL",
+  school   = "University College London"
+}
+
+@PHDTHESIS{Abd-Razak2019-gx,
+  title    = "A Strategic Approach to Failure Mitigation: A Study of Project and
+              Quality Management in Five Projects",
+  author   = "Abd Razak, Diyana Syafiqah Binti",
+  year     =  2019,
+  url      = "https://discovery.ucl.ac.uk/id/eprint/10070382/",
+  keywords = "BSSC Thesis;Thesis;UCL",
   school   = "University College London"
 }
 
@@ -13313,30 +13324,9 @@
               Organisational Routines in Temporary Organisations",
   author   = "Addyman, Simon",
   year     =  2019,
-  keywords = "BSSC Thesis",
+  keywords = "BSSC Thesis;Thesis;UCL",
   school   = "University College London",
   language = "en"
-}
-
-@PHDTHESIS{Sassano2022-pu,
-  title    = "Optimism Bias and Cost Overruns: Experimenting on the Internal and
-              External Views in Resources and Time Estimation",
-  author   = "Sassano, Giuseppe",
-  year     =  2022,
-  url      = "https://discovery.ucl.ac.uk/id/eprint/10159728/",
-  keywords = "BSSC Thesis",
-  school   = "University College London"
-}
-
-@PHDTHESIS{Miranda2007-fx,
-  title    = "Exploring the Relationship Between New Product Development,
-              Concurrent Engineering, and Project Management to Improve Product
-              Development",
-  author   = "Miranda, Adán López",
-  year     =  2007,
-  url      = "https://discovery.ucl.ac.uk/id/eprint/1446455/",
-  keywords = "BSSC Thesis",
-  school   = "University College London"
 }
 
 @PHDTHESIS{Tan2023-dm,
@@ -13346,7 +13336,17 @@
   author   = "Tan, Tan",
   year     =  2023,
   url      = "https://discovery.ucl.ac.uk/id/eprint/10174185/",
-  keywords = "BSSC Thesis",
+  keywords = "BSSC Thesis;Thesis;UCL",
+  school   = "University College London"
+}
+
+@PHDTHESIS{Vermeer2019-xk,
+  title    = "Collective Learning in Strategic Public Private Partnership
+              ({PPP}) Procurement Systems for Social Infrastructure",
+  author   = "Vermeer, Daniel Marinus Maria",
+  year     =  2019,
+  url      = "https://discovery.ucl.ac.uk/id/eprint/10086561/",
+  keywords = "BSSC Thesis;Thesis;UCL",
   school   = "University College London"
 }
 
@@ -13356,7 +13356,7 @@
   author   = "Symons, Anne Wood",
   year     =  2021,
   url      = "https://discovery.ucl.ac.uk/id/eprint/10121086/",
-  keywords = "BSSC Thesis",
+  keywords = "BSSC Thesis;Thesis;UCL",
   school   = "University College London"
 }
 
@@ -13366,7 +13366,7 @@
   author   = "Udomdech, Prompt",
   year     =  2021,
   url      = "https://discovery.ucl.ac.uk/id/eprint/10122854/",
-  keywords = "BSSC Thesis",
+  keywords = "BSSC Thesis;Thesis;UCL",
   school   = "University College London"
 }
 
@@ -13376,7 +13376,7 @@
   author   = "Almadhoob, Huda Mohamed Ali Hasan Husain",
   year     =  2020,
   url      = "https://discovery.ucl.ac.uk/id/eprint/10094822/",
-  keywords = "BSSC Thesis",
+  keywords = "BSSC Thesis;Thesis;UCL",
   school   = "University College London"
 }
 
@@ -17960,7 +17960,7 @@
                progresses so as to meet the project objectives.",
   year      =  1998,
   url       = "https://discovery.ucl.ac.uk/id/eprint/32848/",
-  keywords  = "Construction, Cognitive, Design;BSSC Thesis",
+  keywords  = "Construction, Cognitive, Design;BSSC Thesis;Thesis;UCL",
   school    = "University of London",
   language  = "en"
 }
@@ -18572,7 +18572,7 @@
   publisher = "UCL (University College London)",
   year      =  2002,
   url       = "https://discovery.ucl.ac.uk/id/eprint/10101695/",
-  keywords  = "Social sciences ; Project management;BSSC Thesis",
+  keywords  = "Social sciences ; Project management;BSSC Thesis;Thesis;UCL",
   school    = "University College London",
   language  = "en"
 }
