@@ -2274,6 +2274,26 @@
   issn      = "0022-362X,1939-8549"
 }
 
+@PHDTHESIS{Vermeer2019-xk,
+  title    = "Collective Learning in Strategic Public Private Partnership
+              ({PPP}) Procurement Systems for Social Infrastructure",
+  author   = "Vermeer, Daniel Marinus Maria",
+  year     =  2019,
+  url      = "https://discovery.ucl.ac.uk/id/eprint/10086561/",
+  keywords = "BSSC Thesis",
+  school   = "University College London"
+}
+
+@PHDTHESIS{Abd-Razak2019-gx,
+  title    = "A Strategic Approach to Failure Mitigation: A Study of Project and
+              Quality Management in Five Projects",
+  author   = "Abd Razak, Diyana Syafiqah Binti",
+  year     =  2019,
+  url      = "https://discovery.ucl.ac.uk/id/eprint/10070382/",
+  keywords = "BSSC Thesis",
+  school   = "University College London"
+}
+
 @PHDTHESIS{Deng2015-rk,
   title    = "Performance Measurement System: Attributes, Effects and Context in
               {UK} Construction Firms",
@@ -2290,6 +2310,16 @@
   author   = "Kusuma, I C",
   year     =  2016,
   url      = "https://discovery.ucl.ac.uk/id/eprint/1476944/",
+  keywords = "BSSC Thesis",
+  school   = "University College London"
+}
+
+@PHDTHESIS{Arthur2016-np,
+  title    = "The Impact of Systems Differentiation and Affect Heuristics in
+              Intuitive Construction Risk Management Decision Making Systems",
+  author   = "Arthur, A C",
+  year     =  2016,
+  url      = "https://discovery.ucl.ac.uk/id/eprint/1495997/",
   keywords = "BSSC Thesis",
   school   = "University College London"
 }
@@ -39040,6 +39070,26 @@
   language    = "en"
 }
 
+@PHDTHESIS{Addyman2019-kn,
+  title    = "The Timing of Patterning or the Patterning of Timing?
+              Organisational Routines in Temporary Organisations",
+  author   = "Addyman, Simon",
+  year     =  2019,
+  keywords = "BSSC Thesis",
+  school   = "University College London",
+  language = "en"
+}
+
+@PHDTHESIS{Sassano2022-pu,
+  title    = "Optimism Bias and Cost Overruns: Experimenting on the Internal and
+              External Views in Resources and Time Estimation",
+  author   = "Sassano, Giuseppe",
+  year     =  2022,
+  url      = "https://discovery.ucl.ac.uk/id/eprint/10159728/",
+  keywords = "BSSC Thesis",
+  school   = "University College London"
+}
+
 @PHDTHESIS{Pryke2002-fj,
   title    = "{UK} Construction in Transition: Developing a Social Network
               Approach to the Evaluation of New Procurement and Management
@@ -39069,6 +39119,17 @@
   url      = "https://discovery.ucl.ac.uk/id/eprint/32848/",
   keywords = "BSSC Thesis",
   school   = "University of London"
+}
+
+@PHDTHESIS{Tan2023-dm,
+  title    = "Integrated Approaches to Digital-Enabled Design for Manufacture
+              and Assembly: A Modularity Perspective and Case Study of
+              Huoshenshan Hospital in Wuhan, China",
+  author   = "Tan, Tan",
+  year     =  2023,
+  url      = "https://discovery.ucl.ac.uk/id/eprint/10174185/",
+  keywords = "BSSC Thesis",
+  school   = "University College London"
 }
 
 @PHDTHESIS{Symons2021-de,
