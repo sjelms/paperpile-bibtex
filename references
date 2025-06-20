@@ -34986,6 +34986,16 @@
   language     = "en"
 }
 
+@BOOK{McAfee2017-zh,
+  title       = "Machine, platform, crowd",
+  author      = "McAfee, Andrew and Brynjolfsson, Erik",
+  affiliation = "MIT",
+  publisher   = "W. W. Norton \& Company",
+  month       =  "27~" # jun,
+  year        =  2017,
+  isbn        =  9780393254303
+}
+
 @BOOK{Groh2014-rk,
   title     = "Making Space: How the Brain Knows Where Things Are",
   author    = "Groh, J M",
