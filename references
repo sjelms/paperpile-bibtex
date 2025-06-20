@@ -13289,7 +13289,7 @@
   address   = "London, England",
   month     =  "13~" # mar,
   year      =  2014,
-  keywords  = "EPubs Books",
+  keywords  = "EPubs Books;ePub",
   isbn      =  9781408826690
 }
 
