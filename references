@@ -3160,7 +3160,7 @@
   month     =  "9~" # mar,
   year      =  2023,
   keywords  = "Neurodiversity;EPubs Books;\_BibTex to MD
-               Git;Audible;ePub;Audiobook",
+               Git;Audible;ePub;Audiobook;Neurodivergent + ADHD",
   isbn      =  9781529915419,
   language  = "en"
 }
@@ -3197,7 +3197,7 @@
   month     =  "16~" # may,
   year      =  2024,
   keywords  = "Neurodiversity;EPubs Books;\_BibTex to MD
-               Git;Audible;ePub;Audiobook",
+               Git;Audible;ePub;Audiobook;Neurodivergent + ADHD",
   isbn      =  9781529920239,
   language  = "en"
 }
@@ -3250,7 +3250,7 @@
   month     =  "2~" # jan,
   year      =  2024,
   keywords  = "Neurodiversity;EPubs Books;\_BibTex to MD
-               Git;Audible;ePub;Audiobook",
+               Git;Audible;ePub;Audiobook;Neurodivergent + ADHD",
   isbn      =  9780593578940,
   language  = "en"
 }
@@ -4676,7 +4676,8 @@
   month     =  "27~" # sep,
   year      =  2018,
   url       = "https://play.google.com/store/books/details?id=eaFHDwAAQBAJ",
-  keywords  = "EPubs Books;\_BibTex to MD Git;Audible;ePub;Economics;Audiobook",
+  keywords  = "EPubs Books;\_BibTex to MD
+               Git;Audible;ePub;Economics;Audiobook;Neurodivergent + ADHD",
   isbn      =  9781473552913,
   language  = "en"
 }
@@ -11126,7 +11127,7 @@
   month     =  "18~" # aug,
   year      =  2011,
   url       = "https://play.google.com/store/books/details?id=jpZqPFlKIowC",
-  keywords  = "Neurodiversity;Audible;Audiobook",
+  keywords  = "Neurodiversity;Audible;Audiobook;Neurodivergent + ADHD",
   isbn      =  9781101543498,
   language  = "en"
 }
