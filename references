@@ -841,8 +841,8 @@
   year     =  1918,
   url      = "https://www.proquest.com/historical-newspapers/doing-farm-work-motor-tractor/docview/99984292/se-2?accountid=14511",
   keywords = "Zotero Import (Feb 22);My Library;Frontiers [2022];2\_Upgrade MAY
-              2023;\_BibTex to MD Git;General Interest Periodicals–United
-              States;Cited for Frontiers",
+              2023;\_BibTex to MD
+              Git;General-Interest-Periodicals-United-States;Cited for Frontiers",
   language = "English",
   annote   = "<p>Copyright - Copyright New York Times Company Jan 6, 1918; Last
               updated - 2010-05-21</p>"
@@ -860,8 +860,8 @@
   month    =  "26~" # feb,
   year     =  1928,
   url      = "https://www.proquest.com/historical-newspapers/march-machine-makes-idle-hands/docview/104357612/se-2?accountid=14511",
-  keywords = "Zotero Import (Feb 22);My Library;General Interest
-              Periodicals–United States",
+  keywords = "Zotero Import (Feb 22);My
+              Library;General-Interest-Periodicals-United-States",
   language = "English",
   annote   = "<p>Copyright - Copyright New York Times Company Feb 26, 1928; Last
               updated - 2010-05-21</p>"
@@ -3720,7 +3720,8 @@
   month    =  "1~" # sep,
   year     =  2023,
   url      = "https://www.bbc.co.uk/news/education-66681227",
-  keywords = "\_BibTex to MD Git;Website;Readwise Reader",
+  keywords = "\_BibTex to MD Git;Website;Readwise
+              Reader;General-Interest-Periodicals-United-States",
   language = "en"
 }
 
@@ -4402,7 +4403,7 @@
   year         =  2024,
   howpublished = "\url{https://www.wsj.com/lifestyle/careers/gen-z-trades-jobs-plumbing-welding-a76b5e43}",
   note         = "Accessed: 2024-4-12",
-  keywords     = "General Interest Periodicals–United States;VET"
+  keywords     = "General-Interest-Periodicals-United-States;VET"
 }
 
 @MISC{Palmer2024-vh,
@@ -4418,7 +4419,7 @@
   month     =  "22~" # mar,
   year      =  2024,
   url       = "https://abc7.com/construction-industry-career-the-rosendin-foundation-camp-build/14554944/",
-  keywords  = "General Interest Periodicals–United States",
+  keywords  = "General-Interest-Periodicals-United-States",
   language  = "en"
 }
 
@@ -18058,8 +18059,8 @@
   month       =  sep,
   year        =  2010,
   url         = "http://dx.doi.org/10.1080/10177833.2010.11790666",
-  keywords    = "Misc;Journal Articles;Neurodiversity;General Interest
-                 Periodicals–United States",
+  keywords    = "Misc;Journal
+                 Articles;Neurodiversity;General-Interest-Periodicals-United-States",
   doi         = "10.1080/10177833.2010.11790666",
   issn        = "1017-7833,1302-9657"
 }
