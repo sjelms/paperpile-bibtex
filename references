@@ -3767,47 +3767,6 @@
   isbn      =  9781678881702
 }
 
-@BOOK{Susskind2022-wh,
-  title     = "The Future of the Professions: How Technology Will Transform the
-               Work of Human Experts, Updated Edition",
-  author    = "Susskind, Richard and Susskind, Daniel",
-  publisher = "Oxford University Press",
-  abstract  = "This book predicts the decline of today's professions and
-               introduces the people and systems that will replace them. In an
-               internet-enhanced society, according to Richard Susskind and
-               Daniel Susskind, we will neither need nor want doctors, teachers,
-               accountants, architects, the clergy, consultants, lawyers, and
-               many others, to work as they did in the 20th century. The Future
-               of the Professions explains how increasingly capable technologies
-               - from telepresence to artificial intelligence - will place the
-               'practical expertise' of the finest specialists at the fingertips
-               of everyone, often at no or low cost and without face-to-face
-               interaction. The authors challenge the 'grand bargain' - the
-               arrangement that grants various monopolies to today's
-               professionals. They argue that our current professions are
-               antiquated, opaque and no longer affordable, and that the
-               expertise of their best is enjoyed only by a few. In their place,
-               they propose five new models for producing and distributing
-               expertise in society. The book raises profound policy issues, not
-               least about employment (they envisage a new generation of
-               'open-collared workers') and about control over online expertise
-               (they warn of new 'gatekeepers') - in an era when machines become
-               more capable than human beings at most tasks. With a new preface
-               exploring recent critical developments, this updated edition
-               builds on the authors' groundbreaking research into more than a
-               dozen professions. Illustrated with numerous examples from each,
-               this is the first book to assess and question the relevance of
-               the professions in the 21st century.",
-  month     =  "31~" # mar,
-  year      =  2022,
-  url       = "https://play.google.com/store/books/details?id=sr9pEAAAQBAJ",
-  keywords  = "Future of Work;\_BibTex to MD Git;EPubs
-               Books;Audible;ePub;Artificial Intelligence (AI);Future of
-               Work;Audiobook",
-  isbn      =  9780192579041,
-  language  = "en"
-}
-
 @BOOK{Rose2016-cw,
   title     = "The End of Average: How We Succeed in a World That Values
                Sameness",
@@ -4714,39 +4673,6 @@
   language  = "en"
 }
 
-@BOOK{Mitchell2019-zu,
-  title     = "Artificial Intelligence: A Guide for Thinking Humans",
-  author    = "Mitchell, Melanie",
-  publisher = "Penguin UK",
-  abstract  = "'After reading Mitchell’s guide, you’ll know what you don’t know
-               and what other people don’t know, even though they claim to know
-               it. And that’s invaluable'' The New York Times A leading computer
-               scientist brings human sense to the AI bubbleNo recent scientific
-               enterprise has been so alluring, terrifying and filled with
-               extravagant promise and frustrating setbacks as artificial
-               intelligence. Writing with clarity and passion, leading AI
-               researcher Melanie Mitchell offers a captivating account of
-               modern-day artificial intelligence. Flavoured with personal
-               stories and a twist of humour, Artificial Intelligence
-               illuminates the workings of machines that mimic human learning,
-               perception, language, creativity and common sense. Weaving
-               together advances in AI with cognitive science and philosophy,
-               Mitchell probes the extent to which today's 'smart' machines can
-               actually think or understand, and whether AI even requires such
-               elusive human qualities at all.Artificial Intelligence: A Guide
-               for Thinking Humans provides readers with an accessible and
-               clear-eyed view of the AI landscape, what the field has actually
-               accomplished, how much further it has to go and what it means for
-               all of our futures.",
-  month     =  "15~" # oct,
-  year      =  2019,
-  url       = "https://play.google.com/store/books/details?id=VfSIDwAAQBAJ",
-  keywords  = "EPubs Books;\_BibTex to MD Git;Audible;ePub;Artificial
-               Intelligence (AI);Audiobook",
-  isbn      =  9780241404843,
-  language  = "en"
-}
-
 @BOOK{Levitt2006-xq,
   title     = "Freakonomics: A Rogue Economist Explores the Hidden Side of
                Everything",
@@ -4917,52 +4843,6 @@
   keywords  = "Journal Articles;AEC;\_New Literature;\_XR \& MR",
   doi       = "10.1016/s0926-5805(02)00047-x",
   issn      = "0926-5805,1872-7891",
-  language  = "en"
-}
-
-@BOOK{Johnson2023-la,
-  title     = "Power and Progress: Our Thousand-Year Struggle Over Technology
-               and Prosperity",
-  author    = "Johnson, Simon and Acemoglu, Daron",
-  publisher = "Hachette UK",
-  abstract  = "'The blueprint we need for the challenges ahead' Shoshana
-               Zuboff'If you are not already an addict of Daron Acemoglu and
-               Simon Johnson's previous books, Power and Progress is guaranteed
-               to make you one' Jared Diamond'A breathtaking tour of the history
-               and future of technology' Abhijit Banerjee and Esther DufloA bold
-               new interpretation of why technology has all too often benefited
-               elites - and how we must reshape the path of innovation to create
-               true shared prosperity.A thousand years of history and
-               contemporary evidence make one thing clear. Progress is not
-               automatic but depends on the choices we make about technology.
-               New ways of organizing production and communication can either
-               serve the narrow interests of an elite or become the foundation
-               for widespread prosperity.Much of the wealth generated by
-               agricultural advances during the European Middle Ages was
-               captured by the Church and used to build grand cathedrals while
-               the peasants starved. The first hundred years of
-               industrialization in England delivered stagnant incomes for
-               workers, while making a few people very rich. And throughout the
-               world today, digital technologies and artificial intelligence
-               increase inequality and undermine democracy through excessive
-               automation, massive data collection, and intrusive
-               surveillance.It doesn't have to be this way. Power and Progress
-               demonstrates that the path of technology was once - and can again
-               be - brought under control. The tremendous computing advances of
-               the last half century can become empowering and democratizing
-               tools, but not if all major decisions remain in the hands of a
-               few hubristic tech leaders striving to build a society that
-               elevates their own power and prestige.With their breakthrough
-               economic theory and manifesto for a better society, Acemoglu and
-               Johnson provide the understanding and the vision to reshape how
-               we innovate and who really gains from technological advances so
-               we can create real prosperity for all.",
-  month     =  "18~" # may,
-  year      =  2023,
-  url       = "https://play.google.com/store/books/details?id=4bumEAAAQBAJ",
-  keywords  = "Future of Work;\_BibTex to MD Git;EPubs
-               Books;Audible;Audiobook;Economics;ePub;Future of Work",
-  isbn      =  9781399804486,
   language  = "en"
 }
 
@@ -5156,18 +5036,6 @@
   url       = "https://redshift.autodesk.com/history-of-prefabrication/",
   keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;2\_Upgrade
                MAY 2023;\_BibTex to MD Git;YouTube"
-}
-
-@BOOK{Norman2013-mt,
-  title     = "The Design of Everyday Things: Revised and Expanded Edition",
-  author    = "Norman, Don",
-  publisher = "MIT Press",
-  address   = "Cambridge, MA",
-  month     =  "5~" # nov,
-  year      =  2013,
-  keywords  = "EPubs Books;\_BibTex to MD Git;Audible;ePub;Book
-               (physical);Audiobook",
-  isbn      =  9780465050659
 }
 
 @INPROCEEDINGS{Chen2020-fm,
@@ -13245,25 +13113,16 @@
   language  = "en"
 }
 
-@BOOK{Flyvbjerg2023-jy,
-  title     = "How Big Things Get Done: The Surprising Factors Behind Every
-               Successful Project, from Home Renovations to Space Exploration",
-  author    = "Flyvbjerg, Bent and Gardner, Dan",
-  publisher = "Macmillan",
-  address   = "London, England",
-  abstract  = "Nothing is more inspiring than a big vision that becomes a
-               triumphant new reality. Think of how Apple’s iPod went from a
-               project with a single employee to an enormously successful
-               product launch in eleven months. But such successes are the
-               exception. Consider how London’s Crossrail project delivered five
-               years late and billions over budget. More modest endeavours,
-               whether launching a small business, organizing a conference, or
-               just finishing a work project on time, also commonly fail. Why?",
-  month     =  "16~" # feb,
-  year      =  2023,
-  keywords  = "EPubs Books;\_BibTex to MD Git;AEC;ePub",
-  isbn      =  9781035018963,
-  language  = "en"
+@BOOK{Bronin2024-xp,
+  title       = "Key to the city: How zoning shapes our world",
+  author      = "Bronin, Sara C",
+  affiliation = "Cornell University",
+  publisher   = "WW Norton",
+  address     = "New York, NY",
+  month       =  "1~" # oct,
+  year        =  2024,
+  isbn        =  9780393881660,
+  language    = "en"
 }
 
 @BOOK{Schulte2014-dv,
@@ -13288,79 +13147,6 @@
   year        =  2007,
   keywords    = "EPubs Books;\_BibTex to MD Git;ePub;Economics",
   isbn        =  9780801892325
-}
-
-@BOOK{Cottam2025-sr,
-  title     = "The Work We Need: A {21st} Century Imagining",
-  author    = "Cottam, Hilary",
-  publisher = "Virago Press",
-  address   = "London, England",
-  month     =  "29~" # may,
-  year      =  2025,
-  keywords  = "EPubs Books;\_BibTex to MD
-               Git;Audible;ePub;Economics;UCL;Audiobook",
-  isbn      =  9780349017488,
-  language  = "en"
-}
-
-@BOOK{McAfee2017-zh,
-  title       = "Machine, Platform, Crowd: Harnessing the Digital Revolution:
-                 Harnessing Our Digital Future",
-  author      = "McAfee, Andrew and Brynjolfsson, Erik",
-  affiliation = "MIT",
-  publisher   = "W. W. Norton \& Company",
-  month       =  "27~" # jun,
-  year        =  2017,
-  keywords    = "Audible;Audiobook;Artificial Intelligence (AI);Future of
-                 Work;Economics",
-  isbn        =  9780393254303
-}
-
-@BOOK{Rosling2018-nw,
-  title     = "Factfulness: The Ten Reason We're Wrong About the World - and Why
-               Things Are Better Than You Think",
-  author    = "Rosling, Hans and Rosling, Ola and Rönnlund, Anna Rosling",
-  publisher = "Sceptre",
-  abstract  = "'A hopeful book about the potential for human progress when we
-               work off facts rather than our inherent biases.' BARACK OBAMA The
-               perfect Christmas gift: a message of hope for our troubled times.
-               *the \#1 Sunday Times bestseller * instant New York Times
-               bestseller * an Observer 'best brainy book of the decade' * \#1
-               Wall Street Journal bestseller * Irish Times bestseller * Audio
-               bestseller * Guardian bestseller * ---Longlisted for the 2018
-               Financial Times/McKinsey Business Book of the Year--- 'One of the
-               most important books I've ever read - an indispensable guide to
-               thinking clearly about the world.' BILL GATES 'Hans Rosling tells
-               the story of ``the secret silent miracle of human progress'' as
-               only he can. But Factfulness does much more than that. It also
-               explains why progress is so often secret and silent and teaches
-               readers how to see it clearly.' MELINDA GATES Factfulness: The
-               stress-reducing habit of only carrying opinions for which you
-               have strong supporting facts. When asked simple questions about
-               global trends - why the world's population is increasing; how
-               many young women go to school; how many of us live in poverty -
-               we systematically get the answers wrong. So wrong that a
-               chimpanzee choosing answers at random will consistently outguess
-               journalists, Nobel laureates, and investment bankers. In
-               Factfulness, Professor of International Health and a man who can
-               make data sing, Hans Rosling, together with his two long-time
-               collaborators Anna and Ola, offers a radical new explanation of
-               why this happens, and reveals the ten instincts that distort our
-               perspective. It turns out that the world, for all its
-               imperfections, is in a much better state than we might think. But
-               when we worry about everything all the time instead of embracing
-               a worldview based on facts, we can lose our ability to focus on
-               the things that threaten us most. Inspiring and revelatory,
-               filled with lively anecdotes and moving stories, Factfulness is
-               an urgent and essential book that will change the way you see the
-               world.",
-  month     =  "3~" # apr,
-  year      =  2018,
-  url       = "https://play.google.com/store/books/details?id=r5vxAQAACAAJ",
-  keywords  = "EPubs Books;\_BibTex to MD Git;Audible;Audiobook;Book
-               (physical);ePub;Statistics",
-  isbn      =  9781473637467,
-  language  = "en"
 }
 
 @BOOK{Isaacson2011-vi,
@@ -16996,6 +16782,47 @@
   issn      = "1815-199X"
 }
 
+@BOOK{Susskind2022-wh,
+  title     = "The Future of the Professions: How Technology Will Transform the
+               Work of Human Experts, Updated Edition",
+  author    = "Susskind, Richard and Susskind, Daniel",
+  publisher = "Oxford University Press",
+  abstract  = "This book predicts the decline of today's professions and
+               introduces the people and systems that will replace them. In an
+               internet-enhanced society, according to Richard Susskind and
+               Daniel Susskind, we will neither need nor want doctors, teachers,
+               accountants, architects, the clergy, consultants, lawyers, and
+               many others, to work as they did in the 20th century. The Future
+               of the Professions explains how increasingly capable technologies
+               - from telepresence to artificial intelligence - will place the
+               'practical expertise' of the finest specialists at the fingertips
+               of everyone, often at no or low cost and without face-to-face
+               interaction. The authors challenge the 'grand bargain' - the
+               arrangement that grants various monopolies to today's
+               professionals. They argue that our current professions are
+               antiquated, opaque and no longer affordable, and that the
+               expertise of their best is enjoyed only by a few. In their place,
+               they propose five new models for producing and distributing
+               expertise in society. The book raises profound policy issues, not
+               least about employment (they envisage a new generation of
+               'open-collared workers') and about control over online expertise
+               (they warn of new 'gatekeepers') - in an era when machines become
+               more capable than human beings at most tasks. With a new preface
+               exploring recent critical developments, this updated edition
+               builds on the authors' groundbreaking research into more than a
+               dozen professions. Illustrated with numerous examples from each,
+               this is the first book to assess and question the relevance of
+               the professions in the 21st century.",
+  month     =  "31~" # mar,
+  year      =  2022,
+  url       = "https://play.google.com/store/books/details?id=sr9pEAAAQBAJ",
+  keywords  = "Future of Work;\_BibTex to MD Git;EPubs
+               Books;Audible;ePub;Artificial Intelligence (AI);Future of
+               Work;Audiobook",
+  isbn      =  9780192579041,
+  language  = "en"
+}
+
 @TECHREPORT{European_Commission_Directorate-General_for_Education_Youth_Sport_and_Culture2019-gq,
   title       = "Key Competences for Lifelong Learning",
   author      = "{European Commission, Directorate-General for Education, Youth,
@@ -18009,6 +17836,39 @@
   language    = "en"
 }
 
+@BOOK{Mitchell2019-zu,
+  title     = "Artificial Intelligence: A Guide for Thinking Humans",
+  author    = "Mitchell, Melanie",
+  publisher = "Penguin UK",
+  abstract  = "'After reading Mitchell’s guide, you’ll know what you don’t know
+               and what other people don’t know, even though they claim to know
+               it. And that’s invaluable'' The New York Times A leading computer
+               scientist brings human sense to the AI bubbleNo recent scientific
+               enterprise has been so alluring, terrifying and filled with
+               extravagant promise and frustrating setbacks as artificial
+               intelligence. Writing with clarity and passion, leading AI
+               researcher Melanie Mitchell offers a captivating account of
+               modern-day artificial intelligence. Flavoured with personal
+               stories and a twist of humour, Artificial Intelligence
+               illuminates the workings of machines that mimic human learning,
+               perception, language, creativity and common sense. Weaving
+               together advances in AI with cognitive science and philosophy,
+               Mitchell probes the extent to which today's 'smart' machines can
+               actually think or understand, and whether AI even requires such
+               elusive human qualities at all.Artificial Intelligence: A Guide
+               for Thinking Humans provides readers with an accessible and
+               clear-eyed view of the AI landscape, what the field has actually
+               accomplished, how much further it has to go and what it means for
+               all of our futures.",
+  month     =  "15~" # oct,
+  year      =  2019,
+  url       = "https://play.google.com/store/books/details?id=VfSIDwAAQBAJ",
+  keywords  = "EPubs Books;\_BibTex to MD Git;Audible;ePub;Artificial
+               Intelligence (AI);Audiobook",
+  isbn      =  9780241404843,
+  language  = "en"
+}
+
 @INCOLLECTION{Fasth2008-el,
   title     = "Measuring and Analysing Levels of Automation in an Assembly
                System",
@@ -18309,6 +18169,52 @@
                Methods;\_In ClickUp;Economics",
   doi       = "10.1080/13501780210137119",
   issn      = "1350-178X,1469-9427",
+  language  = "en"
+}
+
+@BOOK{Johnson2023-la,
+  title     = "Power and Progress: Our Thousand-Year Struggle Over Technology
+               and Prosperity",
+  author    = "Johnson, Simon and Acemoglu, Daron",
+  publisher = "Hachette UK",
+  abstract  = "'The blueprint we need for the challenges ahead' Shoshana
+               Zuboff'If you are not already an addict of Daron Acemoglu and
+               Simon Johnson's previous books, Power and Progress is guaranteed
+               to make you one' Jared Diamond'A breathtaking tour of the history
+               and future of technology' Abhijit Banerjee and Esther DufloA bold
+               new interpretation of why technology has all too often benefited
+               elites - and how we must reshape the path of innovation to create
+               true shared prosperity.A thousand years of history and
+               contemporary evidence make one thing clear. Progress is not
+               automatic but depends on the choices we make about technology.
+               New ways of organizing production and communication can either
+               serve the narrow interests of an elite or become the foundation
+               for widespread prosperity.Much of the wealth generated by
+               agricultural advances during the European Middle Ages was
+               captured by the Church and used to build grand cathedrals while
+               the peasants starved. The first hundred years of
+               industrialization in England delivered stagnant incomes for
+               workers, while making a few people very rich. And throughout the
+               world today, digital technologies and artificial intelligence
+               increase inequality and undermine democracy through excessive
+               automation, massive data collection, and intrusive
+               surveillance.It doesn't have to be this way. Power and Progress
+               demonstrates that the path of technology was once - and can again
+               be - brought under control. The tremendous computing advances of
+               the last half century can become empowering and democratizing
+               tools, but not if all major decisions remain in the hands of a
+               few hubristic tech leaders striving to build a society that
+               elevates their own power and prestige.With their breakthrough
+               economic theory and manifesto for a better society, Acemoglu and
+               Johnson provide the understanding and the vision to reshape how
+               we innovate and who really gains from technological advances so
+               we can create real prosperity for all.",
+  month     =  "18~" # may,
+  year      =  2023,
+  url       = "https://play.google.com/store/books/details?id=4bumEAAAQBAJ",
+  keywords  = "Future of Work;\_BibTex to MD Git;EPubs
+               Books;Audible;Audiobook;Economics;ePub;Future of Work",
+  isbn      =  9781399804486,
   language  = "en"
 }
 
@@ -18793,6 +18699,18 @@
                  choice;Skill demand;Technological change;Wage
                  inequality;Economics",
   doi         = "10.1016/j.techfore.2016.08.019"
+}
+
+@BOOK{Norman2013-mt,
+  title     = "The Design of Everyday Things: Revised and Expanded Edition",
+  author    = "Norman, Don",
+  publisher = "MIT Press",
+  address   = "Cambridge, MA",
+  month     =  "5~" # nov,
+  year      =  2013,
+  keywords  = "EPubs Books;\_BibTex to MD Git;Audible;ePub;Book
+               (physical);Audiobook",
+  isbn      =  9780465050659
 }
 
 @ARTICLE{Shum2022-yx,
@@ -39120,6 +39038,27 @@
   doi       = "10.3386/w33843"
 }
 
+@BOOK{Flyvbjerg2023-jy,
+  title     = "How Big Things Get Done: The Surprising Factors Behind Every
+               Successful Project, from Home Renovations to Space Exploration",
+  author    = "Flyvbjerg, Bent and Gardner, Dan",
+  publisher = "Macmillan",
+  address   = "London, England",
+  abstract  = "Nothing is more inspiring than a big vision that becomes a
+               triumphant new reality. Think of how Apple’s iPod went from a
+               project with a single employee to an enormously successful
+               product launch in eleven months. But such successes are the
+               exception. Consider how London’s Crossrail project delivered five
+               years late and billions over budget. More modest endeavours,
+               whether launching a small business, organizing a conference, or
+               just finishing a work project on time, also commonly fail. Why?",
+  month     =  "16~" # feb,
+  year      =  2023,
+  keywords  = "EPubs Books;\_BibTex to MD Git;AEC;ePub",
+  isbn      =  9781035018963,
+  language  = "en"
+}
+
 @TECHREPORT{Ryan-Collins2024-sw,
   title       = "The demand for housing as an investment: Drivers, outcomes and
                  policy interventions to enhance housing affordability in the
@@ -39779,5 +39718,78 @@
   url       = "https://discovery.ucl.ac.uk/id/eprint/10101695/",
   keywords  = "Social sciences ; Project management;BSSC Thesis;Thesis;UCL",
   school    = "University College London",
+  language  = "en"
+}
+
+@BOOK{Cottam2025-sr,
+  title     = "The Work We Need: A {21st} Century Imagining",
+  author    = "Cottam, Hilary",
+  publisher = "Virago Press",
+  address   = "London, England",
+  month     =  "29~" # may,
+  year      =  2025,
+  keywords  = "EPubs Books;\_BibTex to MD
+               Git;Audible;ePub;Economics;UCL;Audiobook",
+  isbn      =  9780349017488,
+  language  = "en"
+}
+
+@BOOK{McAfee2017-zh,
+  title       = "Machine, Platform, Crowd: Harnessing the Digital Revolution:
+                 Harnessing Our Digital Future",
+  author      = "McAfee, Andrew and Brynjolfsson, Erik",
+  affiliation = "MIT",
+  publisher   = "W. W. Norton \& Company",
+  month       =  "27~" # jun,
+  year        =  2017,
+  keywords    = "Audible;Audiobook;Artificial Intelligence (AI);Future of
+                 Work;Economics",
+  isbn        =  9780393254303
+}
+
+@BOOK{Rosling2018-nw,
+  title     = "Factfulness: The Ten Reason We're Wrong About the World - and Why
+               Things Are Better Than You Think",
+  author    = "Rosling, Hans and Rosling, Ola and Rönnlund, Anna Rosling",
+  publisher = "Sceptre",
+  abstract  = "'A hopeful book about the potential for human progress when we
+               work off facts rather than our inherent biases.' BARACK OBAMA The
+               perfect Christmas gift: a message of hope for our troubled times.
+               *the \#1 Sunday Times bestseller * instant New York Times
+               bestseller * an Observer 'best brainy book of the decade' * \#1
+               Wall Street Journal bestseller * Irish Times bestseller * Audio
+               bestseller * Guardian bestseller * ---Longlisted for the 2018
+               Financial Times/McKinsey Business Book of the Year--- 'One of the
+               most important books I've ever read - an indispensable guide to
+               thinking clearly about the world.' BILL GATES 'Hans Rosling tells
+               the story of ``the secret silent miracle of human progress'' as
+               only he can. But Factfulness does much more than that. It also
+               explains why progress is so often secret and silent and teaches
+               readers how to see it clearly.' MELINDA GATES Factfulness: The
+               stress-reducing habit of only carrying opinions for which you
+               have strong supporting facts. When asked simple questions about
+               global trends - why the world's population is increasing; how
+               many young women go to school; how many of us live in poverty -
+               we systematically get the answers wrong. So wrong that a
+               chimpanzee choosing answers at random will consistently outguess
+               journalists, Nobel laureates, and investment bankers. In
+               Factfulness, Professor of International Health and a man who can
+               make data sing, Hans Rosling, together with his two long-time
+               collaborators Anna and Ola, offers a radical new explanation of
+               why this happens, and reveals the ten instincts that distort our
+               perspective. It turns out that the world, for all its
+               imperfections, is in a much better state than we might think. But
+               when we worry about everything all the time instead of embracing
+               a worldview based on facts, we can lose our ability to focus on
+               the things that threaten us most. Inspiring and revelatory,
+               filled with lively anecdotes and moving stories, Factfulness is
+               an urgent and essential book that will change the way you see the
+               world.",
+  month     =  "3~" # apr,
+  year      =  2018,
+  url       = "https://play.google.com/store/books/details?id=r5vxAQAACAAJ",
+  keywords  = "EPubs Books;\_BibTex to MD Git;Audible;Audiobook;Book
+               (physical);ePub;Statistics",
+  isbn      =  9781473637467,
   language  = "en"
 }
