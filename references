@@ -13245,6 +13245,17 @@
   language  = "en"
 }
 
+@BOOK{Flyvbjerg2023-jy,
+  title     = "How big things get done",
+  author    = "Flyvbjerg, Bent and Gardner, Dan",
+  publisher = "Macmillan",
+  address   = "London, England",
+  month     =  "16~" # feb,
+  year      =  2023,
+  isbn      =  9781035018963,
+  language  = "en"
+}
+
 @BOOK{Schulte2014-dv,
   title     = "Overwhelmed: Work, Love and Play When No One Has The Time",
   author    = "Schulte, Brigid",
