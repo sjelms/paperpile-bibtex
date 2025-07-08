@@ -39830,3 +39830,41 @@
   issn      = "0925-9724,1573-7551",
   language  = "en"
 }
+
+@ARTICLE{Allen2025-cn,
+  title     = "Workplace aspects of knowledge and expertise sharing practices
+               supported by augmented reality systems: Findings from a Design
+               Case Study",
+  author    = "Allen, Eva Sonja and de Carvalho, Aparecido Fabiano Pinatti and
+               Hoffmann, Sven and Schweitzer, Marcus and Schaumann, Kira",
+  journal   = "Computer supported cooperative work: CSCW: an international
+               journal",
+  publisher = "Springer Science and Business Media LLC",
+  volume    =  34,
+  number    =  1,
+  pages     = "155--205",
+  abstract  = "Abstract In this article, we present findings concerning how
+               environment can both impact upon and be impacted by knowledge and
+               expertise sharing practices (KES) supported by augmented reality
+               (AR) systems. We draw on findings from a Design Case Study (DCS)
+               carried out for the design and evaluation of an AR system to
+               support KES in complex production contexts. Our results suggest
+               that the proposed system not only changes the perception of the
+               technical environment but is itself gradually perceived as an
+               element of it. The results also reveal changes in the employees’
+               focus of attention when working with the AR-aid in question and
+               how they individually adapt to it. Moreover, our findings suggest
+               that the proposed system facilitates a change in the proximity
+               between experts and non-experts, bridging spatial and temporal
+               distances, fostering cooperation between those two categories of
+               workers, at the same time that enhance their autonomy. Overall,
+               the results highlight how changes in the social environment of
+               digitised production cannot be separated from changes in the
+               technical environment.",
+  month     =  mar,
+  year      =  2025,
+  url       = "http://dx.doi.org/10.1007/s10606-024-09508-8",
+  doi       = "10.1007/s10606-024-09508-8",
+  issn      = "0925-9724,1573-7551",
+  language  = "en"
+}
