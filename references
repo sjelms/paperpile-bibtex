@@ -39826,7 +39826,7 @@
   month     =  "3~" # apr,
   year      =  2025,
   url       = "http://dx.doi.org/10.1007/s10606-025-09512-6",
-  keywords  = "JR Research Group Readings",
+  keywords  = "JR Research Group Readings;Artificial Intelligence (AI)",
   doi       = "10.1007/s10606-025-09512-6",
   issn      = "0925-9724,1573-7551",
   language  = "en"
