@@ -13271,36 +13271,6 @@
   language  = "en"
 }
 
-@ARTICLE{Bartel1994-wm,
-  title     = "Productivity gains from the implementation of employee training
-               programs",
-  author    = "Bartel, Ann P",
-  journal   = "Industrial relations: a journal of economy and society",
-  publisher = "Blackwell Publishing Ltd",
-  volume    =  33,
-  number    =  4,
-  pages     = "411--425",
-  abstract  = "This paper utilizes data on the personnel policies and economic
-               characteristics of businesses in the manufacturing sector to
-               study the relationship between employee training and labor
-               productivity. The major finding is that businesses that were
-               operating below their expected labor productivity levels in 1983
-               implemented new employee training programs after 1983 which
-               resulted in significantly larger increases in labor productivity
-               growth between 1983 and 1986. This higher rate of productivity
-               growth was sufficient to bring these businesses up to the labor
-               productivity levels of comparable businesses by 1986. The
-               positive effects of training implementation on productivity
-               growth were shown to be inconsistent with a ``Hawthorne Effect''
-               interpretation because the implementation of new personnel
-               policies other than training did not have significant effects on
-               productivity growth.",
-  month     =  oct,
-  year      =  1994,
-  url       = "http://dx.doi.org/10.1111/j.1468-232x.1994.tb00349.x",
-  doi       = "10.1111/j.1468-232X.1994.tb00349.x"
-}
-
 @TECHREPORT{Felstead2011-az,
   title       = "Praxis: Working to Learn, Learning to Work",
   author      = "Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
@@ -39933,4 +39903,34 @@
   doi       = "10.1007/s10606-024-09508-8",
   issn      = "0925-9724,1573-7551",
   language  = "en"
+}
+
+@ARTICLE{Bartel1994-wm,
+  title     = "Productivity gains from the implementation of employee training
+               programs",
+  author    = "Bartel, Ann P",
+  journal   = "Industrial relations: a journal of economy and society",
+  publisher = "Blackwell Publishing Ltd",
+  volume    =  33,
+  number    =  4,
+  pages     = "411--425",
+  abstract  = "This paper utilizes data on the personnel policies and economic
+               characteristics of businesses in the manufacturing sector to
+               study the relationship between employee training and labor
+               productivity. The major finding is that businesses that were
+               operating below their expected labor productivity levels in 1983
+               implemented new employee training programs after 1983 which
+               resulted in significantly larger increases in labor productivity
+               growth between 1983 and 1986. This higher rate of productivity
+               growth was sufficient to bring these businesses up to the labor
+               productivity levels of comparable businesses by 1986. The
+               positive effects of training implementation on productivity
+               growth were shown to be inconsistent with a ``Hawthorne Effect''
+               interpretation because the implementation of new personnel
+               policies other than training did not have significant effects on
+               productivity growth.",
+  month     =  oct,
+  year      =  1994,
+  url       = "http://dx.doi.org/10.1111/j.1468-232x.1994.tb00349.x",
+  doi       = "10.1111/j.1468-232X.1994.tb00349.x"
 }
