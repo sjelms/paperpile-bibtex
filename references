@@ -13293,6 +13293,7 @@
   month     =  "1~" # feb,
   year      =  1987,
   url       = "http://dx.doi.org/10.2307/1937894",
+  keywords  = "Columbia University;Workplace Learning",
   doi       = "10.2307/1937894"
 }
 
@@ -39957,6 +39958,7 @@
   month     =  oct,
   year      =  1994,
   url       = "http://dx.doi.org/10.1111/j.1468-232x.1994.tb00349.x",
+  keywords  = "Columbia University;Workplace Learning",
   doi       = "10.1111/j.1468-232X.1994.tb00349.x"
 }
 
@@ -39997,6 +39999,7 @@
   month     =  "1~" # nov,
   year      =  2007,
   url       = "http://dx.doi.org/10.1162/QJEC.2007.122.4.1721",
+  keywords  = "Columbia University;Workplace Learning",
   doi       = "10.1162/QJEC.2007.122.4.1721"
 }
 
@@ -40027,6 +40030,7 @@
   month     =  jul,
   year      =  2000,
   url       = "http://dx.doi.org/10.1111/0019-8676.00178",
+  keywords  = "Columbia University;Workplace Learning",
   doi       = "10.1111/0019-8676.00178",
   issn      = "0019-8676,1468-232X",
   language  = "en"
@@ -40057,6 +40061,7 @@
   month     =  oct,
   year      =  1998,
   url       = "http://dx.doi.org/10.1086/209904",
+  keywords  = "Columbia University;Workplace Learning",
   doi       = "10.1086/209904",
   issn      = "0734-306X,1537-5307"
 }
