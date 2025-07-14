@@ -39810,6 +39810,30 @@
   language  = "en"
 }
 
+@BOOK{George-Thomas2021-kx,
+  title     = "Research methodology and scientific writing",
+  author    = "George Thomas, C",
+  publisher = "Springer Nature",
+  address   = "Cham, Switzerland",
+  abstract  = "This book presents a guide for research methodology and
+               scientific writing covering various elements such as finding
+               research problems, writing research proposals, obtaining funds
+               for research, selecting research designs, searching the
+               literature and review, collection of data and analysis,
+               preparation of thesis, writing research papers for journals,
+               citation and listing of references, preparation of visual
+               materials, oral and poster presentation in conferences, and
+               ethical issues in research . Besides introducing library and its
+               various features in a lucid style, the latest on the use of
+               information technology in retrieving and managing information
+               through various means are also discussed in this book. The book
+               is useful for students, young researchers, and professionals.",
+  month     =  "24~" # feb,
+  year      =  2021,
+  isbn      =  9783030648657,
+  language  = "en"
+}
+
 @BOOK{Thompson2025-tf,
   title     = "Automation and Manufacturing for the Built Environment",
   author    = "Thompson, Steve",
