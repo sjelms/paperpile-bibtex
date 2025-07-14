@@ -13279,7 +13279,7 @@
   address   = "Prestonpans, Scotland",
   month     =  "28~" # dec,
   year      =  2017,
-  keywords  = "EPubs Books",
+  keywords  = "EPubs Books;ePub",
   isbn      =  9781786891099,
   language  = "en"
 }
