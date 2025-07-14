@@ -13296,6 +13296,37 @@
   language  = "en"
 }
 
+@BOOK{Speck2018-av,
+  title     = "Walkable City Rules : 101 Steps to Making Better Places / by Jeff
+               Speck",
+  author    = "Speck, Jeff",
+  publisher = "Island Press/Center for Resource Economics",
+  address   = "Washington, DC",
+  edition   = "1st ed. 2018.",
+  abstract  = "``Walkable City Rules is worth reading even for those of us who
+               will never set foot in a planner's office. Like Walkable City,
+               this book explains how a variety of laws and rules frustrate the
+               person who wishes to get from one place to another on foot. But
+               to a much greater extent than most books about walkability, this
+               book tells readers what can be done to improve upon the status
+               quo.'' Planetizen ``A concise, updated, how-to version of
+               [Speck's] 2012 Walkable City.'' 8 ``Has there ever been a
+               smarter, more illuminating, jargon-free, and deeply useful guide
+               to making more sociable, healthy, prosperous, charming
+               neighborhoods, towns, and cities? Every local leader and every
+               engaged local citizen owes it to themselves to read Walkable City
+               Rules.'' Kurt Andersen, author of ``Fantasyland'' and host of
+               public radio's ``Studio 360'' ``Filled with the photos, graphics,
+               and charts that many of his fans felt were missing from the last
+               book, the new volume comprises 1010 mini-chapters, each of which
+               elegantly distills a single precept from his philosophy.''.",
+  year      =  2018,
+  keywords  = "Urban geography ; Landscape architecture ; Urban planning ; City
+               planning ; Graphic design ; Buildings",
+  isbn      =  9781610918992,
+  language  = "eng"
+}
+
 @TECHREPORT{Felstead2011-az,
   title       = "Praxis: Working to Learn, Learning to Work",
   author      = "Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
