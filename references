@@ -13279,7 +13279,7 @@
   address   = "London, England",
   month     =  "31~" # aug,
   year      =  2011,
-  keywords  = "EPubs Books",
+  keywords  = "EPubs Books;ePub",
   isbn      =  9781446490594,
   language  = "en"
 }
@@ -13324,7 +13324,7 @@
                change-makers everywhere.",
   year      =  2018,
   keywords  = "Urban geography ; Landscape architecture ; Urban planning ; City
-               planning ; Graphic design ; Buildings;EPubs Books",
+               planning ; Graphic design ; Buildings;EPubs Books;ePub",
   isbn      =  9781610918992,
   language  = "eng"
 }
