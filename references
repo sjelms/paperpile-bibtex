@@ -13271,6 +13271,17 @@
   language  = "en"
 }
 
+@BOOK{Ferriss2011-lx,
+  title     = "The 4-hour work week",
+  author    = "Ferriss, Timothy",
+  publisher = "Ebury Digital",
+  address   = "London, England",
+  month     =  "31~" # aug,
+  year      =  2011,
+  isbn      =  9781446490594,
+  language  = "en"
+}
+
 @BOOK{Magnusson2017-py,
   title     = "The Gentle Art of Swedish Death Cleaning: How to Free Yourself
                and Your Family from a Lifetime of Clutter",
