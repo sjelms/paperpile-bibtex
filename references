@@ -40204,5 +40204,6 @@
   url           = "http://arxiv.org/abs/2507.07935",
   archivePrefix = "arXiv",
   primaryClass  = "cs.AI",
-  eprint        = "2507.07935"
+  eprint        = "2507.07935",
+  keywords      = "Artificial Intelligence (AI);Future of Work"
 }
