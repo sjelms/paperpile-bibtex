@@ -12597,20 +12597,19 @@
   language  = "en"
 }
 
-@BOOK{Doyle2025-hh,
-  title       = "The adventures of Sherlock Holmes",
+@BOOK{Doyle1892-fj,
+  title       = "The Adventures of Sherlock Holmes",
   author      = "Doyle, Arthur Conan",
-  editor      = "Wynne, Catherine",
-  affiliation = "Reader in Victorian and Early Twentieth-Century Literature and
-                 Visual Culture, University of HullReader in Victorian and Early
-                 Twentieth-Century Literature and Visual Culture, University of
-                 Hull",
-  publisher   = "Oxford University Press",
+  affiliation = "The Adventures of Sherlock Holmes is a collection of short
+                 stories by British writer Arthur Conan Doyle, first published
+                 on 14 October 1892. It contains the earliest short stories
+                 featuring the consulting detective Sherlock Holmes, which had
+                 been published in twelve monthly issues of The Strand Magazine
+                 from July 1891 to June 1892.",
+  publisher   = "George Newnes Ltd",
   address     = "London, England",
-  edition     =  2,
-  month       =  "10~" # jul,
-  year        =  2025,
-  isbn        =  9780198865759,
+  month       =  "14~" # oct,
+  year        =  1892,
   language    = "en"
 }
 
