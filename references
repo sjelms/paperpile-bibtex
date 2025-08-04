@@ -12597,6 +12597,23 @@
   language  = "en"
 }
 
+@BOOK{Doyle2025-hh,
+  title       = "The adventures of Sherlock Holmes",
+  author      = "Doyle, Arthur Conan",
+  editor      = "Wynne, Catherine",
+  affiliation = "Reader in Victorian and Early Twentieth-Century Literature and
+                 Visual Culture, University of HullReader in Victorian and Early
+                 Twentieth-Century Literature and Visual Culture, University of
+                 Hull",
+  publisher   = "Oxford University Press",
+  address     = "London, England",
+  edition     =  2,
+  month       =  "10~" # jul,
+  year        =  2025,
+  isbn        =  9780198865759,
+  language    = "en"
+}
+
 @ARTICLE{Bone2025-mz,
   title     = "Skills or degree? The rise of skill-based hiring for {AI} and
                green jobs",
