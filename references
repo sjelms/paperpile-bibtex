@@ -12610,7 +12610,7 @@
   address     = "London, England",
   month       =  "14~" # oct,
   year        =  1892,
-  keywords    = "EPubs Books",
+  keywords    = "EPubs Books;ePub",
   language    = "en"
 }
 
