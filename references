@@ -40193,7 +40193,8 @@
   archivePrefix = "arXiv",
   primaryClass  = "cs.AI",
   eprint        = "2507.07935",
-  keywords      = "Artificial Intelligence (AI);Future of Work"
+  keywords      = "\_BibTex to MD Git;Artificial Intelligence (AI);Future of
+                   Work"
 }
 
 @ARTICLE{Glass2022-ms,
