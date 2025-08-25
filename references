@@ -6752,7 +6752,7 @@
 
 @ARTICLE{Frey2023-rj,
   title     = "Generative {AI} and the Future of Work: A Reappraisal",
-  author    = "Frey, Carl Benedikt and Osborne, Michael",
+  author    = "Frey, Carl Benedikt and Osborne, Michael A",
   journal   = "Brown Journal of World Affairs",
   publisher = "Brown University",
   year      =  2023,
@@ -8485,7 +8485,7 @@
 @ARTICLE{Whyte2022-my,
   title     = "Making Futures That Matter: Future Making, Online Working and
                Organizing Remotely",
-  author    = "Whyte, Jennifer and Comi, Alice and Mosca, Luigi",
+  author    = "Whyte, Jennifer K and Comi, Alice and Mosca, Luigi",
   journal   = "Organization Theory",
   publisher = "SAGE Publications Ltd",
   volume    =  3,
@@ -8516,7 +8516,7 @@
                (offline) places, people and materials to online future making.",
   month     =  "1~" # jan,
   year      =  2022,
-  url       = "https://doi.org/10.1177/26317877211069138",
+  url       = "https://journals.sagepub.com/doi/full/10.1177/26317877211069138",
   keywords  = "AEC Cited Lit for Jacqui;Future of Work;\_BibTex to MD Git;\_In
                Notion;\_In Readwise;Future of Work;\_New Literature",
   doi       = "10.1177/26317877211069138",
@@ -8557,7 +8557,7 @@
 @ARTICLE{Zhou2023-nw,
   title     = "How the reliability of external competences shapes the
                modularization strategies of industrialized construction firms",
-  author    = "Zhou, Shanjing (alexander) and Mosca, Luigi and Whyte, Jennifer",
+  author    = "Zhou, Shanjing (alexander) and Mosca, Luigi and Whyte, Jennifer K",
   journal   = "Construction Management and Economics",
   publisher = "Routledge",
   volume    =  41,
@@ -8594,7 +8594,7 @@
                industrialized construction; and discuss new areas for research.",
   month     =  "3~" # jul,
   year      =  2023,
-  url       = "https://doi.org/10.1080/01446193.2023.2187071",
+  url       = "https://www.tandfonline.com/doi/full/10.1080/01446193.2023.2187071",
   keywords  = "AEC Cited Lit for Jacqui;\_BibTex to MD Git",
   doi       = "10.1080/01446193.2023.2187071",
   issn      = "0144-6193"
@@ -10309,8 +10309,8 @@
 @TECHREPORT{Autor2020-ol,
   title       = "The Work of the Future: Building Better Jobs in an Age of
                  Intelligent Machines",
-  author      = "Autor, David and Mindell, David A and Reynolds, Elisabeth B and
-                 {MIT Task Force on the Work of the Future}",
+  author      = "Autor, David H and Mindell, David A and Reynolds, Elisabeth B
+                 and {MIT Task Force on the Work of the Future}",
   institution = "Massachusetts Institute of Technology",
   month       =  nov,
   year        =  2020,
@@ -10407,7 +10407,8 @@
 @TECHREPORT{Gott1998-ww,
   title       = "Rediscovering Learning: Acquiring Expertise in Real World
                  Problem Solving Tasks",
-  author      = "Gott, S P and {Armstrong Laboratory Air Force Materiel Command}",
+  author      = "Gott, Sherrie P and {Armstrong Laboratory Air Force Materiel
+                 Command}",
   institution = "United States Air Force",
   number      = "AL/HR-TP-1997-0009",
   month       =  may,
@@ -12392,7 +12393,7 @@
 @BOOK{Autor2022-vv,
   title     = "The Work of the Future: Building Better Jobs in an Age of
                Intelligent Machines",
-  author    = "Autor, David and Mindell, David A and Reynolds, Elisabeth B",
+  author    = "Autor, David H and Mindell, David A and Reynolds, Elisabeth B",
   publisher = "MIT Press",
   year      =  2022,
   url       = "https://mitpress.mit.edu/9780262547307/the-work-of-the-future/",
@@ -14439,8 +14440,8 @@
 
 @INPROCEEDINGS{LaViola2015-bg,
   title     = "Using augmented reality to tutor military tasks in the wild",
-  author    = "LaViola, J and Williamson, B and Brooks, Conner and Veazanchin,
-               Sergiu and Sottilare, Robert and Garrity, Pat",
+  author    = "LaViola, Joseph J and Williamson, Brian M and Brooks, Conner and
+               Veazanchin, Sergiu and Sottilare, Robert and Garrity, Pat",
   booktitle = "Proceedings of the Interservice/Industry Training Simulation \&
                Education Conference, Orlando, Florida",
   publisher = "gifttutoring.org",
@@ -32248,7 +32249,7 @@
 @ARTICLE{Jones2022-kp,
   title       = "Addressing Specialization and Fragmentation: Product Platform
                  Development in Construction Consultancy Firms",
-  author      = "Jones, Kell and Mosca, Luigi and Whyte, Jennifer and Davies,
+  author      = "Jones, Kell and Mosca, Luigi and Whyte, Jennifer K and Davies,
                  Andrew and Glass, Jacqueline",
   affiliation = "Bartlett School of Sustainable Construction, University College
                  London, London, UK; Centre for Systems Engineering and
@@ -33213,7 +33214,7 @@
 @INPROCEEDINGS{Lang2016-it,
   title     = "Are Housebuilders' Production Strategies a Barrier to Offsite
                Construction Uptake in The {UK}?",
-  author    = "Lang, Aaron and Glass, Jacqui and Goodier, Chris",
+  author    = "Lang, Aaron and Glass, Jacqueline and Goodier, Chris",
   booktitle = "Proceedings of the 32nd Annual ARCOM Conference",
   publisher = "Association of Researchers in Construction Management (ARCOM)",
   pages     = "1245--1253",
@@ -33951,7 +33952,7 @@
 
 @INCOLLECTION{Hall2022-de,
   title     = "New Business Models for Industrialized Construction",
-  author    = "Hall, Daniel M and Lessing, Jerker and Whyte, Jennifer",
+  author    = "Hall, Daniel M and Lessing, Jerker and Whyte, Jennifer K",
   editor    = "Bolpagni, Marzia and Gavina, Rui and Ribeiro, Diogo",
   booktitle = "Industry 4.0 for the Built Environment: Methodologies,
                Technologies and Skills",
@@ -33983,7 +33984,7 @@
                business models may be catalysts for potential disruption of the
                established construction sector.",
   year      =  2022,
-  url       = "https://doi.org/10.1007/978-3-030-82430-3_13",
+  url       = "http://dx.doi.org/10.1007/978-3-030-82430-3_13",
   keywords  = "Industry 4-0 for the Built Environment;EPubs Books;3\_Upgrade OCT
                2023;AEC Cited Lit for Jacqui;\_BibTex to MD Git;ePub",
   doi       = "10.1007/978-3-030-82430-3\_13",
@@ -36669,10 +36670,11 @@
 
 @TECHREPORT{Jones2021-bu,
   title     = "The Role of Industry – University Collaboration in Construction",
-  author    = "Jones, K and Mosca, L and Whyte, J and Davies, A and Glass, J",
+  author    = "Jones, Kell and Mosca, Luigi and Whyte, Jennifer K and Davies,
+               Andrew and Glass, Jacqueline",
   publisher = "Transforming Construction Network Plus, Digest Series",
   year      =  2021,
-  url       = "https://www.ucl.ac.uk/bartlett/construction/sites/bartlett/files/digest-the-role-of-industry-university-collaboration-in-the-transformation-of-construction.pdf",
+  url       = "https://discovery.ucl.ac.uk/id/eprint/10129182/",
   keywords  = "Construction 4-0;Notion Catalogued;AEC Cited Lit for
                Jacqui;\_BibTex to MD Git;UCL;AEC;\_Mark Up;\_In
                Readwise;\_Cataloged;\_In ClickUp"
