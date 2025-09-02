@@ -40369,3 +40369,15 @@
   isbn      = "9780300254068,9780300254068",
   language  = "en"
 }
+
+@TECHREPORT{Autor2014-yj,
+  title       = "Polanyi's paradox and the shape of employment growth",
+  author      = "Autor, David",
+  publisher   = "National Bureau of Economic Research",
+  institution = "National Bureau of Economic Research",
+  address     = "Cambridge, MA",
+  month       =  sep,
+  year        =  2014,
+  url         = "http://dx.doi.org/10.3386/w20485",
+  doi         = "10.3386/w20485"
+}
