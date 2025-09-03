@@ -13832,15 +13832,6 @@
   keywords = "Abundance – How We Build a Better Future Footnotes"
 }
 
-@BOOK{Yglesias2012-ep,
-  title     = "The Rent Is Too Damn High",
-  author    = "Yglesias, Matthew",
-  publisher = "Simon \& Schuster",
-  address   = "New York",
-  year      =  2012,
-  keywords  = "Abundance – How We Build a Better Future Footnotes"
-}
-
 @MISC{Yglesias2021-bo,
   title        = "Homelessness Is About Housing",
   author       = "Yglesias, Matthew",
@@ -13859,6 +13850,26 @@
   year     =  2023,
   url      = "https://www.nytimes.com/2023/02/05/opinion/economy-construction-productivity-mystery.html",
   keywords = "Abundance – How We Build a Better Future Footnotes"
+}
+
+@BOOK{Yglesias2012-ep,
+  title     = "The Rent Is Too Damn High: What To Do About It, And Why It
+               Matters More Than You Think",
+  author    = "Yglesias, Matthew",
+  publisher = "Simon \& Schuster",
+  address   = "New York",
+  abstract  = "Rent is an issue that affects nearly everyone. High rent is a
+               problem for all of us, extending beyond personal financial
+               strain. High rent drags on our country’s overall rate of economic
+               growth, damages the environment, and promotes long commutes,
+               traffic jams, misery, and smog. Yet instead of a serious focus on
+               the issue, America’s cities feature niche conversations about the
+               availability of “affordable housing” for poor people. Yglesias’s
+               book changes the conversation for the first time, presenting
+               newfound context for the issue and real-time, practical solutions
+               for the problem.",
+  year      =  2012,
+  keywords  = "Abundance – How We Build a Better Future Footnotes"
 }
 
 @TECHREPORT{Felstead2011-az,
