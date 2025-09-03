@@ -13445,34 +13445,29 @@
 }
 
 @BOOK{Evans2023-hm,
-  title     = "Written: How to keep writing and build a habit that lasts",
+  title     = "Written: How to Keep Writing and Build a Habit That Lasts",
   author    = "Evans, Bec and Smith, Chris",
   publisher = "Icon Books",
   address   = "Duxford, England",
-  abstract  = "**With a Foreword by OLIVER BURKEMAN, bestselling author of the
-               Sunday Times bestseller Four Thousand Weeks** Written is a
-               transformative guide that anyone can use to overcome their blocks
-               and build a successful writing habit. Many people think that
-               there's only one 'right' way to get the writing done - or that
-               trying harder is the key. Award-winning writers, productivity
-               coaches and co-founders of Prolifiko Bec Evans and Chris Smith
-               know this isn't true. Having coached over 10,000 writers, they've
-               learned that productivity is personal. Their unique,
-               results-driven approach is designed to help you find a realistic
-               and sustainable practice that will get you to the end of any
-               writing project, no matter how stuck you feel. Applying research
-               from neuroscience and psychology, and based on the authors' own
-               practice and findings, Written will show you how to manage your
-               time effectively, how to visualise and set successful goals, how
-               to recover from setbacks, and ultimately how to create writing
-               habits that work for you. Along the way, you'll hear inspiring
-               and relatable stories from other writers who have overcome their
-               struggles to find success. Each chapter ends with practical
-               coaching exercises that you can start implementing right now. For
-               anyone with a project they need to get written - whether a
-               business book, thesis or work of fiction - this inspiring book
-               offers practical strategies to beat the inner critic, find time,
-               keep motivated and write.",
+  abstract  = "Written is a transformative guide that anyone can use to overcome
+               their blocks and build a successful writing habit. Many people
+               think that there's only one 'right' way to get the writing done -
+               or that trying harder is the key. Award-winning writers,
+               productivity coaches and co-founders of Prolifiko Bec Evans and
+               Chris Smith know this isn't true. Having coached over 10,000
+               writers, they've learned that productivity is personal. Their
+               unique, results-driven approach is designed to help you find a
+               realistic and sustainable practice that will get you to the end
+               of any writing project, no matter how stuck you feel. Applying
+               research from neuroscience and psychology, and based on the
+               authors' own practice and findings, Written will show you how to
+               manage your time effectively, how to visualise and set successful
+               goals, how to recover from setbacks, and ultimately how to create
+               writing habits that work for you. Along the way, you'll hear
+               inspiring and relatable stories from other writers who have
+               overcome their struggles to find success. Each chapter ends with
+               practical coaching exercises that you can start implementing
+               right now.",
   month     =  "5~" # jan,
   year      =  2023,
   isbn      =  9781785789045,
