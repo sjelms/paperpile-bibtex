@@ -13556,6 +13556,19 @@
   language  = "en"
 }
 
+@BOOK{Lawson2019-tt,
+  title     = "Design in modular construction",
+  author    = "Lawson, Mark and Ogden, Ray and Goodier, Chris",
+  publisher = "CRC Press",
+  address   = "London, England",
+  month     =  "12~" # dec,
+  year      =  2019,
+  url       = "http://dx.doi.org/10.1201/b16607",
+  doi       = "10.1201/b16607",
+  isbn      = "9780203870785,9780203870785",
+  language  = "en"
+}
+
 @BOOK{Evans2023-hm,
   title     = "Written: How to Keep Writing and Build a Habit That Lasts",
   author    = "Evans, Bec and Smith, Chris",
