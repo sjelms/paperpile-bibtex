@@ -13863,16 +13863,6 @@
   keywords     = "Abundance – How We Build a Better Future Footnotes"
 }
 
-@ARTICLE{Klein2023-qs,
-  title    = "The Story Construction Tells About America’s Economy Is Disturbing",
-  author   = "Klein, Ezra",
-  journal  = "The New York Times",
-  month    =  "5~" # feb,
-  year     =  2023,
-  url      = "https://www.nytimes.com/2023/02/05/opinion/economy-construction-productivity-mystery.html",
-  keywords = "Abundance – How We Build a Better Future Footnotes;Readwise Reader"
-}
-
 @BOOK{Yglesias2012-ep,
   title     = "The Rent Is Too Damn High: What To Do About It, And Why It
                Matters More Than You Think",
@@ -13892,6 +13882,17 @@
   year      =  2012,
   keywords  = "Abundance – How We Build a Better Future Footnotes",
   isbn      = "9781451663297,9781451663297"
+}
+
+@ARTICLE{Klein2023-qs,
+  title    = "The Story Construction Tells About America’s Economy Is Disturbing",
+  author   = "Klein, Ezra",
+  journal  = "The New York Times",
+  month    =  "5~" # feb,
+  year     =  2023,
+  url      = "https://www.nytimes.com/2023/02/05/opinion/economy-construction-productivity-mystery.html",
+  keywords = "Abundance – How We Build a Better Future Footnotes;Readwise
+              Reader;\_Mark Up"
 }
 
 @TECHREPORT{Felstead2011-az,
