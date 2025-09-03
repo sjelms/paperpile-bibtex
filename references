@@ -2067,6 +2067,7 @@
 @MISC{Federal-Highway-AdministrationUnknown-jy,
   title        = "State Motor Vehicle Registrations, by Years, {1900–1995}",
   author       = "{Federal Highway Administration}",
+  affiliation  = "United States Department of Transportation",
   howpublished = "Online report",
   keywords     = "Abundance – How We Build a Better Future Footnotes",
   annote       = "available at https://www.fhwa.dot.gov/ohim/summary95/mv200.pdf"
