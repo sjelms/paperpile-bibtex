@@ -2038,6 +2038,77 @@
   annote    = "Edited volume"
 }
 
+@MISC{Rosling2010-wf,
+  title        = "The Magic Washing Machine",
+  author       = "Rosling, Hans",
+  month        =  dec,
+  year         =  2010,
+  howpublished = "TEDWomen 2010 talk (transcript)",
+  keywords     = "Abundance – How We Build a Better Future Footnotes",
+  annote       = "available at
+                  https://www.ted.com/talks/hans\_rosling\_the\_magic\_washing\_machine?language=en"
+}
+
+@MISC{UnknownUnknown-ui,
+  title        = "City of Tomorrow",
+  howpublished = "The Lakewood Story, City of Lakewood, California",
+  keywords     = "Abundance – How We Build a Better Future Footnotes",
+  annote       = "available at
+                  https://www.lakewoodcity.org/About/Our-History/The-Lakewood-Story/02-City-of-Tomorrow"
+}
+
+@BOOK{Pahlka2023-oj,
+  title     = "Recoding America",
+  author    = "Pahlka, Jennifer",
+  publisher = "Metropolitan Books/Henry Holt and Company",
+  address   = "New York",
+  year      =  2023,
+  keywords  = "Abundance – How We Build a Better Future Footnotes",
+  annote    = "Kindle edition, pp. 25–26"
+}
+
+@MISC{UnknownUnknown-gg,
+  title        = "How Long Does It Take to Save for a House?",
+  howpublished = "WTF Happened in 1971? blog",
+  keywords     = "Abundance – How We Build a Better Future Footnotes",
+  annote       = "available at https://wtfhappenedin1971.com/"
+}
+
+@MISC{Federal-Highway-AdministrationUnknown-jy,
+  title        = "State Motor Vehicle Registrations, by Years, {1900–1995}",
+  author       = "{Federal Highway Administration}",
+  howpublished = "Online report",
+  keywords     = "Abundance – How We Build a Better Future Footnotes",
+  annote       = "available at https://www.fhwa.dot.gov/ohim/summary95/mv200.pdf"
+}
+
+@TECHREPORT{D-Amico2023-ml,
+  title       = "Why Has Construction Productivity Stagnated? The Role of
+                 {Land‑Use} Regulation",
+  author      = "D'Amico, Leonardo and Glaeser, Edward L and Gyourko, Joseph and
+                 Kerr, William R and Ponzetto, Giacomo A M",
+  institution = "National Bureau of Economic Research",
+  month       =  "30~" # dec,
+  year        =  2023,
+  url         = "http://dx.doi.org/10.2139/ssrn.4679195",
+  keywords    = "Abundance – How We Build a Better Future Footnotes",
+  doi         = "10.2139/ssrn.4679195",
+  annote      = "Also available via DOI"
+}
+
+@BOOK{Zierold1988-ae,
+  title     = "Environmental Lobbyist in California’s Capital, {1965–1984}",
+  author    = "Zierold, John",
+  publisher = "Regional Oral History Office, Bancroft Library, University of
+               California",
+  address   = "Berkeley, CA",
+  series    = "Sierra Club Oral History Series, vol. 32",
+  year      =  1988,
+  keywords  = "Abundance – How We Build a Better Future Footnotes",
+  annote    = "Interview conducted by Ann Lage in 1984; available online via UC
+               Berkeley"
+}
+
 @INCOLLECTION{Littlejohn2022-wy,
   title     = "Challenges of digital professional learning: Digital technology
                systems are no substitute for human agency",
@@ -13738,6 +13809,56 @@
   keywords  = "\_BibTex to MD Git;EPubs Books;DfMA;ePub;AEC",
   isbn      =  9783031329937,
   language  = "en"
+}
+
+@ARTICLE{Klein2023-sw,
+  title    = "The Dystopia We Fear Is Keeping Us from the Utopia We Deserve",
+  author   = "Klein, Ezra",
+  journal  = "The New York Times",
+  month    =  "8~" # jan,
+  year     =  2023,
+  url      = "https://www.nytimes.com/2023/01/08/opinion/nuclear-fusion-flying-cars.html",
+  keywords = "Abundance – How We Build a Better Future Footnotes"
+}
+
+@ARTICLE{Carino2018-pc,
+  title    = "Life in This Iconic {Mid‑Century} Suburb Shows How California
+              Dreams Are Shrinking",
+  author   = "Carino, Meghan Mccarty",
+  journal  = "LAist",
+  month    =  "2~" # jul,
+  year     =  2018,
+  url      = "https://laist.com/news/kpcc-archive/life-in-this-iconic-mid-century-suburb-shows-how-c",
+  keywords = "Abundance – How We Build a Better Future Footnotes"
+}
+
+@BOOK{Yglesias2012-ep,
+  title     = "The Rent Is Too Damn High",
+  author    = "Yglesias, Matthew",
+  publisher = "Simon \& Schuster",
+  address   = "New York",
+  year      =  2012,
+  keywords  = "Abundance – How We Build a Better Future Footnotes"
+}
+
+@MISC{Yglesias2021-bo,
+  title        = "Homelessness Is About Housing",
+  author       = "Yglesias, Matthew",
+  month        =  "17~" # may,
+  year         =  2021,
+  url          = "https://www.slowboring.com/p/homelessness-housing",
+  howpublished = "Slow Boring (Substack post)",
+  keywords     = "Abundance – How We Build a Better Future Footnotes"
+}
+
+@ARTICLE{Klein2023-qs,
+  title    = "The Story Construction Tells About America’s Economy Is Disturbing",
+  author   = "Klein, Ezra",
+  journal  = "The New York Times",
+  month    =  "5~" # feb,
+  year     =  2023,
+  url      = "https://www.nytimes.com/2023/02/05/opinion/economy-construction-productivity-mystery.html",
+  keywords = "Abundance – How We Build a Better Future Footnotes"
 }
 
 @TECHREPORT{Felstead2011-az,
