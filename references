@@ -13423,6 +13423,17 @@
   language  = "eng"
 }
 
+@BOOK{Burkeman2021-fd,
+  title     = "Four Thousand Weeks",
+  author    = "Burkeman, Oliver",
+  publisher = "Vintage Digital",
+  address   = "London, England",
+  month     =  "26~" # aug,
+  year      =  2021,
+  isbn      =  9781473545557,
+  language  = "en"
+}
+
 @BOOK{Olson1982-xs,
   title     = "The Rise and Decline of Nations: Economic Growth, Stagflation,
                and Social Rigidities",
