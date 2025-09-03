@@ -13608,6 +13608,16 @@
   language  = "en"
 }
 
+@BOOK{Kluck2023-vg,
+  title     = "Modularization",
+  author    = "Kluck, Michael and Choi, Jin Ouk",
+  publisher = "Standards Information Network",
+  month     =  "10~" # jan,
+  year      =  2023,
+  isbn      =  9781119824817,
+  language  = "en"
+}
+
 @TECHREPORT{Felstead2011-az,
   title       = "Praxis: Working to Learn, Learning to Work",
   author      = "Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
