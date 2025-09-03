@@ -13458,6 +13458,18 @@
   language    = "en"
 }
 
+@BOOK{Ching2014-iw,
+  title     = "Architecture",
+  author    = "Ching, Francis D K",
+  publisher = "John Wiley \& Sons",
+  address   = "Nashville, TN",
+  edition   =  4,
+  month     =  "13~" # oct,
+  year      =  2014,
+  isbn      =  9781118745137,
+  language  = "en"
+}
+
 @BOOK{Burkeman2021-fd,
   title     = "Four Thousand Weeks: Time and How to Use It",
   author    = "Burkeman, Oliver",
