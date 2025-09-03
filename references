@@ -2047,9 +2047,11 @@
                   https://www.lakewoodcity.org/About/Our-History/The-Lakewood-Story/02-City-of-Tomorrow"
 }
 
-@MISC{UnknownUnknown-gg,
+@MISC{Unknown2019-ek,
   title        = "How Long Does It Take to Save for a House?",
-  howpublished = "WTF Happened in 1971? blog",
+  booktitle    = "WTF Happened In 1971?",
+  year         =  2019,
+  howpublished = "\url{https://wtfhappenedin1971.com/}",
   keywords     = "Abundance – How We Build a Better Future Footnotes",
   annote       = "available at https://wtfhappenedin1971.com/"
 }
