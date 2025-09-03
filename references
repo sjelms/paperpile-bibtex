@@ -2038,17 +2038,6 @@
   annote    = "Edited volume"
 }
 
-@MISC{Rosling2010-wf,
-  title        = "The Magic Washing Machine",
-  author       = "Rosling, Hans",
-  month        =  dec,
-  year         =  2010,
-  howpublished = "TEDWomen 2010 talk (transcript)",
-  keywords     = "Abundance – How We Build a Better Future Footnotes",
-  annote       = "available at
-                  https://www.ted.com/talks/hans\_rosling\_the\_magic\_washing\_machine?language=en"
-}
-
 @MISC{UnknownUnknown-ui,
   title        = "The Lakewood Story: City of Tomorrow",
   booktitle    = "City of Lakewood",
@@ -2149,6 +2138,26 @@
   year     =  2021,
   url      = "https://www.academia.edu/45492541/The_City_of_Tomorrow_Today",
   annote   = "7 pages"
+}
+
+@MISC{Rosling2010-wf,
+  title     = "The Magic Washing Machine",
+  author    = "Rosling, Hans",
+  publisher = "TED Conferences, LLC",
+  address   = "USA",
+  abstract  = "What was the greatest invention of the industrial revolution?
+               Hans Rosling makes the case for the washing machine. With newly
+               designed graphics from Gapminder, Rosling shows us the magic that
+               pops up when economic growth and electricity turn a boring wash
+               day into an intellectual day of reading.",
+  series    = "TEDWomen 2010",
+  month     =  dec,
+  year      =  2010,
+  url       = "https://www.ted.com/talks/hans_rosling_the_magic_washing_machine",
+  keywords  = "Abundance – How We Build a Better Future Footnotes",
+  language  = "en",
+  annote    = "available at
+               https://www.ted.com/talks/hans\_rosling\_the\_magic\_washing\_machine?language=en"
 }
 
 @INCOLLECTION{Littlejohn2022-wy,
