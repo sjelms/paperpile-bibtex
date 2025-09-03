@@ -13423,6 +13423,19 @@
   language  = "eng"
 }
 
+@BOOK{Ching2025-iy,
+  title       = "Building construction illustrated",
+  author      = "Ching, Francis D K",
+  affiliation = "University of Washington, Seattle, WA",
+  publisher   = "John Wiley \& Sons",
+  address     = "Nashville, TN",
+  edition     =  7,
+  month       =  "24~" # mar,
+  year        =  2025,
+  isbn        =  9781394279289,
+  language    = "en"
+}
+
 @BOOK{Burkeman2021-fd,
   title     = "Four Thousand Weeks: Time and How to Use It",
   author    = "Burkeman, Oliver",
