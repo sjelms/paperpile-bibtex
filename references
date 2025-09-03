@@ -40715,7 +40715,8 @@
   month    =  "8~" # jan,
   year     =  2023,
   url      = "https://www.nytimes.com/2023/01/08/opinion/nuclear-fusion-flying-cars.html",
-  keywords = "Abundance – How We Build a Better Future Footnotes;Readwise Reader"
+  keywords = "Abundance – How We Build a Better Future Footnotes;\_BibTex to MD
+              Git;Readwise Reader"
 }
 
 @ARTICLE{Carino2018-pc,
@@ -40727,15 +40728,16 @@
   month       =  "2~" # jul,
   year        =  2018,
   url         = "https://laist.com/news/kpcc-archive/life-in-this-iconic-mid-century-suburb-shows-how-c",
-  keywords    = "Abundance – How We Build a Better Future Footnotes;Readwise
-                 Reader"
+  keywords    = "Abundance – How We Build a Better Future Footnotes;\_BibTex to
+                 MD Git;Readwise Reader"
 }
 
 @MISC{UnknownUnknown-ui,
   title        = "The Lakewood Story: City of Tomorrow",
   booktitle    = "City of Lakewood",
   howpublished = "\url{https://www.lakewoodca.gov/About/Our-History/The-Lakewood-Story/02-City-of-Tomorrow}",
-  keywords     = "Abundance – How We Build a Better Future Footnotes",
+  keywords     = "Abundance – How We Build a Better Future Footnotes;\_BibTex to
+                  MD Git",
   annote       = "available at
                   https://www.lakewoodcity.org/About/Our-History/The-Lakewood-Story/02-City-of-Tomorrow"
 }
@@ -40745,7 +40747,8 @@
   booktitle    = "WTF Happened In 1971?",
   year         =  2019,
   howpublished = "\url{https://wtfhappenedin1971.com/}",
-  keywords     = "Abundance – How We Build a Better Future Footnotes",
+  keywords     = "Abundance – How We Build a Better Future Footnotes;\_BibTex to
+                  MD Git",
   annote       = "available at https://wtfhappenedin1971.com/"
 }
 
@@ -40754,7 +40757,8 @@
   author       = "{Federal Highway Administration}",
   affiliation  = "United States Department of Transportation",
   howpublished = "Online report",
-  keywords     = "Abundance – How We Build a Better Future Footnotes",
+  keywords     = "Abundance – How We Build a Better Future Footnotes;\_BibTex to
+                  MD Git",
   annote       = "available at https://www.fhwa.dot.gov/ohim/summary95/mv200.pdf"
 }
 
@@ -40767,8 +40771,8 @@
   month       =  "30~" # dec,
   year        =  2023,
   url         = "http://dx.doi.org/10.2139/ssrn.4679195",
-  keywords    = "Abundance – How We Build a Better Future
-                 Footnotes;AEC;Labor;Economics",
+  keywords    = "Abundance – How We Build a Better Future Footnotes;\_BibTex to
+                 MD Git;AEC;Labor;Economics",
   doi         = "10.2139/ssrn.4679195",
   annote      = "Also available via DOI"
 }
@@ -40781,7 +40785,8 @@
   address   = "Berkeley, CA",
   series    = "Sierra Club Oral History Series, vol. 32",
   year      =  1988,
-  keywords  = "Abundance – How We Build a Better Future Footnotes",
+  keywords  = "Abundance – How We Build a Better Future Footnotes;\_BibTex to MD
+               Git",
   annote    = "Interview conducted by Ann Lage in 1984; available online via UC
                Berkeleyhttps://archive.org/details/cabeuroh\_000279"
 }
@@ -40803,7 +40808,8 @@
                newfound context for the issue and real-time, practical solutions
                for the problem.",
   year      =  2012,
-  keywords  = "Abundance – How We Build a Better Future Footnotes",
+  keywords  = "Abundance – How We Build a Better Future Footnotes;\_BibTex to MD
+               Git",
   isbn      = "9781451663297,9781451663297"
 }
 
@@ -40831,7 +40837,8 @@
                government we have today onto new technology and instead consider
                what it would mean to truly recode American government.",
   year      =  2023,
-  keywords  = "Abundance – How We Build a Better Future Footnotes",
+  keywords  = "Abundance – How We Build a Better Future Footnotes;\_BibTex to MD
+               Git",
   isbn      = "9781250266767,9781250266767",
   annote    = "Kindle edition, pp. 25–26"
 }
@@ -40843,8 +40850,8 @@
   month    =  "5~" # feb,
   year     =  2023,
   url      = "https://www.nytimes.com/2023/02/05/opinion/economy-construction-productivity-mystery.html",
-  keywords = "Abundance – How We Build a Better Future Footnotes;Readwise
-              Reader;\_Mark Up"
+  keywords = "Abundance – How We Build a Better Future Footnotes;\_BibTex to MD
+              Git;Readwise Reader;\_Mark Up"
 }
 
 @ARTICLE{Rawlings2021-tt,
@@ -40864,6 +40871,7 @@
   month    =  "9~" # mar,
   year     =  2021,
   url      = "https://www.academia.edu/45492541/The_City_of_Tomorrow_Today",
+  keywords = "\_BibTex to MD Git",
   annote   = "7 pages"
 }
 
@@ -40875,8 +40883,8 @@
   month        =  "17~" # may,
   year         =  2021,
   howpublished = "\url{https://www.slowboring.com/p/homelessness-housing}",
-  keywords     = "Abundance – How We Build a Better Future Footnotes;Readwise
-                  Reader"
+  keywords     = "Abundance – How We Build a Better Future Footnotes;\_BibTex to
+                  MD Git;Readwise Reader"
 }
 
 @MISC{Rosling2010-wf,
@@ -40893,7 +40901,8 @@
   month     =  dec,
   year      =  2010,
   url       = "https://www.ted.com/talks/hans_rosling_the_magic_washing_machine",
-  keywords  = "Abundance – How We Build a Better Future Footnotes;YouTube",
+  keywords  = "Abundance – How We Build a Better Future Footnotes;\_BibTex to MD
+               Git;YouTube",
   language  = "en",
   annote    = "available at
                https://www.ted.com/talks/hans\_rosling\_the\_magic\_washing\_machine?language=en"
