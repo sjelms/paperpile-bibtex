@@ -13841,14 +13841,15 @@
 }
 
 @ARTICLE{Carino2018-pc,
-  title    = "Life in This Iconic {Mid‑Century} Suburb Shows How California
-              Dreams Are Shrinking",
-  author   = "Carino, Meghan Mccarty",
-  journal  = "LAist",
-  month    =  "2~" # jul,
-  year     =  2018,
-  url      = "https://laist.com/news/kpcc-archive/life-in-this-iconic-mid-century-suburb-shows-how-c",
-  keywords = "Abundance – How We Build a Better Future Footnotes"
+  title       = "Life in This Iconic {Mid‑Century} Suburb Shows How California
+                 Dreams Are Shrinking",
+  author      = "Carino, Meghan Mccarty",
+  affiliation = "Southern California Public Radio",
+  journal     = "LAist",
+  month       =  "2~" # jul,
+  year        =  2018,
+  url         = "https://laist.com/news/kpcc-archive/life-in-this-iconic-mid-century-suburb-shows-how-c",
+  keywords    = "Abundance – How We Build a Better Future Footnotes"
 }
 
 @MISC{Yglesias2021-bo,
