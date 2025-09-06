@@ -17046,8 +17046,9 @@
   month     =  "1~" # jan,
   year      =  2011,
   url       = "https://doi.org/10.1108/13665621111141920",
-  keywords  = "WALF - Improving Working as Learning ;\_In Notion;\_In
-               Readwise;VET;Workplace Learning;\_New Literature;\_In ClickUp",
+  keywords  = "WALF - Improving Working as Learning ;\_BibTex to MD Git;\_In
+               Notion;\_In Readwise;VET;Workplace Learning;\_New Literature;\_In
+               ClickUp",
   doi       = "10.1108/13665621111141920",
   issn      = "1366-5626"
 }
