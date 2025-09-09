@@ -14435,34 +14435,37 @@
 }
 
 @INPROCEEDINGS{Guzsvinecz2019-sy,
-  title     = "Preparing spatial ability tests in a virtual reality application",
-  author    = "Guzsvinecz, Tibor and Szeles, Monika and Perge, Erika and
-               Sik-Lányi, Cécilia",
-  booktitle = "2019 10th IEEE International Conference on Cognitive
-               Infocommunications (CogInfoCom)",
-  pages     = "363--368",
-  abstract  = "This paper presents the development a spatial ability test
-               application in virtual reality and establishes a measurement plan
-               for technical and other, user-related parameters. The application
-               can measure these parameters in three different types of tests:
-               The Mental Cutting Test, the Mental Rotation Test, and the Purdue
-               Spatial Visualization Test. The goal of this application is to
-               increase the spatial ability of the users with the mentioned
-               tests, while also logging the two types of parameters and
-               determining whether there is a correlation between them and test
-               completion times.",
-  month     =  oct,
-  year      =  2019,
-  url       = "https://ieeexplore.ieee.org/document/9089919/",
-  keywords  = "Color;Three-dimensional displays;Virtual
-               reality;Visualization;Androids;Humanoid robots;Cameras;cognitive
-               skills;development;measurement preparation;mental cutting
-               test;mental rotation test;purdue spatial visualization
-               test;spatial ability;virtual reality;Reviewed on Theory;Notion
-               Catalogued;\_BibTex to MD Git;\_In Notion;\_In Readwise;Research
-               Methods;Sensory Processing;\_XR MR VR AR;\_Mark Up;\_Cataloged",
-  doi       = "10.1109/CogInfoCom47531.2019.9089919",
-  issn      = "2380-7350"
+  title       = "Preparing spatial ability tests in a virtual reality
+                 application",
+  author      = "Guzsvinecz, Tibor and Szeles, Monika and Perge, Erika and
+                 Sik-Lányi, Cécilia",
+  booktitle   = "2019 10th IEEE International Conference on Cognitive
+                 Infocommunications (CogInfoCom)",
+  institution = "Institute of Electrical and Electronics Engineers",
+  pages       = "363--368",
+  abstract    = "This paper presents the development a spatial ability test
+                 application in virtual reality and establishes a measurement
+                 plan for technical and other, user-related parameters. The
+                 application can measure these parameters in three different
+                 types of tests: The Mental Cutting Test, the Mental Rotation
+                 Test, and the Purdue Spatial Visualization Test. The goal of
+                 this application is to increase the spatial ability of the
+                 users with the mentioned tests, while also logging the two
+                 types of parameters and determining whether there is a
+                 correlation between them and test completion times.",
+  month       =  oct,
+  year        =  2019,
+  url         = "https://ieeexplore.ieee.org/document/9089919/",
+  keywords    = "Color;Three-dimensional displays;Virtual
+                 reality;Visualization;Androids;Humanoid
+                 robots;Cameras;cognitive skills;development;measurement
+                 preparation;mental cutting test;mental rotation test;purdue
+                 spatial visualization test;spatial ability;virtual
+                 reality;Reviewed on Theory;Notion Catalogued;\_BibTex to MD
+                 Git;\_In Notion;\_In Readwise;Research Methods;Sensory
+                 Processing;\_XR MR VR AR;\_Mark Up;\_Cataloged",
+  doi         = "10.1109/CogInfoCom47531.2019.9089919",
+  issn        = "2380-7350"
 }
 
 @INPROCEEDINGS{Casselman2005-gn,
