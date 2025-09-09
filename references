@@ -13943,31 +13943,6 @@
   language  = "en"
 }
 
-@MISC{Fuller2003-fs,
-  title        = "The impact of informal learning at work on business
-                  productivity",
-  author       = "Fuller, Alison and Ashton, David and Felstead, Alan and Unwin,
-                  Lorna and Walters, Sally and Quinn, Martin",
-  booktitle    = "Department of Trade and Industry",
-  abstract     = "This report presents the findings from a study of the impact
-                  of informal learning at work on business productivity, funded
-                  by the Department for Trade and Industry (DTI). The study was
-                  carried out between October 2002 and September 2003. The aims
-                  of the study were to: a) review existing literature and survey
-                  data on informal learning in the workplace; b) propose ways in
-                  which the links between informal learning in the workplace,
-                  product market strategies and business performance might be
-                  tested in a survey; c) provide an analysis of best practice;
-                  d) propose ways to target case study material at a business
-                  audience in order to illustrate the range of practice of
-                  informal learning and the impact of such learning on business
-                  performance.",
-  year         =  2003,
-  howpublished = "\url{https://eprints.soton.ac.uk/55200/}",
-  note         = "Accessed: 2025-9-6",
-  keywords     = "\_BibTex to MD Git;UCL;Workplace Learning"
-}
-
 @TECHREPORT{Felstead2011-az,
   title       = "Praxis: Working to Learn, Learning to Work",
   author      = "Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
@@ -39947,7 +39922,7 @@
 @PHDTHESIS{Deng2015-rk,
   title    = "Performance Measurement System: Attributes, Effects and Context in
               {UK} Construction Firms",
-  author   = "Deng, F",
+  author   = "Deng, Fei",
   abstract = "Many organisations have adopted Performance Measurement Systems
               (PMS) to monitor their performance, assess the success of
               strategies, and/or assist the implementation of change programmes
@@ -40953,4 +40928,29 @@
   doi       = "10.1201/b16607",
   isbn      = "9780203870785,9780203870785",
   language  = "en"
+}
+
+@MISC{Fuller2003-fs,
+  title        = "The impact of informal learning at work on business
+                  productivity",
+  author       = "Fuller, Alison and Ashton, David and Felstead, Alan and Unwin,
+                  Lorna and Walters, Sally and Quinn, Martin",
+  booktitle    = "Department of Trade and Industry",
+  abstract     = "This report presents the findings from a study of the impact
+                  of informal learning at work on business productivity, funded
+                  by the Department for Trade and Industry (DTI). The study was
+                  carried out between October 2002 and September 2003. The aims
+                  of the study were to: a) review existing literature and survey
+                  data on informal learning in the workplace; b) propose ways in
+                  which the links between informal learning in the workplace,
+                  product market strategies and business performance might be
+                  tested in a survey; c) provide an analysis of best practice;
+                  d) propose ways to target case study material at a business
+                  audience in order to illustrate the range of practice of
+                  informal learning and the impact of such learning on business
+                  performance.",
+  year         =  2003,
+  howpublished = "\url{https://eprints.soton.ac.uk/55200/}",
+  note         = "Accessed: 2025-9-6",
+  keywords     = "\_BibTex to MD Git;UCL;Workplace Learning"
 }
