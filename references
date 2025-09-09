@@ -14594,55 +14594,56 @@
 }
 
 @ARTICLE{Balasubramanian2021-rk,
-  title    = "Construction Industry 4.0 and Sustainability: An Enabling
-              Framework",
-  author   = "Balasubramanian, Sreejith and Shukla, Vinaya and Islam, Nazrul and
-              Manghat, Shalini",
-  journal  = "IEEE Transactions on Engineering Management",
-  pages    = "1--19",
-  abstract = "Governments worldwide are taking actions to address the
-              construction sector's sustainability concerns, including high
-              carbon emissions, health and safety risks, low productivity, and
-              increasing costs. Applying Industry 4.0 technologies to
-              construction (also referred to as Construction 4.0) could address
-              some of these concerns. However, current understanding about this
-              is quite limited, with previous work being largely fragmented and
-              limited both in terms of technologies as well as their
-              interrelationships with the triple bottom line of sustainability
-              perspectives. The focus of this article is therefore on addressing
-              these gaps by proposing a comprehensive multi-dimensional
-              Construction 4.0 sustainability framework that identifies and
-              categorizes the key Construction 4.0 technologies and their
-              positive and negative impacts on environmental, economic, and
-              social sustainability, and then establishing its
-              applicability/usefulness through an empirical, multimethodology
-              case study assessment of the UAE's construction sector. The
-              findings indicate Construction 4.0’s positive impacts on
-              environmental and economic sustainability that far outweigh its
-              negative effects, although these impacts are comparable with
-              regards to social sustainability. On Construction 4.0 technologies
-              itself, their application was found to be nonuniform with greater
-              application seen for building information modeling and automation
-              vis-à-vis others such as cyber-physical systems and smart
-              materials, with significant growth expected in the future for
-              blockchain- and three-dimensional-printing-related technologies.
-              The proposed novel framework could enable the development of
-              policy interventions and support mechanisms to increase
-              Construction 4.0 deployment while addressing its negative
-              sustainability-related impacts. The framework also has the
-              potential to be adapted and applied to other country and sectoral
-              contexts.",
-  year     =  2021,
-  url      = "http://dx.doi.org/10.1109/TEM.2021.3110427",
-  keywords = "Sustainable
-              development;Collaboration;Systematics;Industries;Buildings;Task
-              analysis;Solid modeling;Construction 4.0;economic
-              sustainability;environmental sustainability;Industry 4.0;social
-              sustainability;sustainability framework;United Arab Emirates
-              (UAE);Construction 4-0;Journal Articles;\_In Notion;\_In
-              Readwise;AEC;\_New Literature",
-  doi      = "10.1109/TEM.2021.3110427",
-  issn     = "0018-9391,1558-0040"
+  title     = "Construction Industry 4.0 and Sustainability: An Enabling
+               Framework",
+  author    = "Balasubramanian, Sreejith and Shukla, Vinaya and Islam, Nazrul
+               and Manghat, Shalini",
+  journal   = "IEEE Transactions on Engineering Management",
+  publisher = "Institute of Electrical and Electronics Engineers",
+  pages     = "1--19",
+  abstract  = "Governments worldwide are taking actions to address the
+               construction sector's sustainability concerns, including high
+               carbon emissions, health and safety risks, low productivity, and
+               increasing costs. Applying Industry 4.0 technologies to
+               construction (also referred to as Construction 4.0) could address
+               some of these concerns. However, current understanding about this
+               is quite limited, with previous work being largely fragmented and
+               limited both in terms of technologies as well as their
+               interrelationships with the triple bottom line of sustainability
+               perspectives. The focus of this article is therefore on
+               addressing these gaps by proposing a comprehensive
+               multi-dimensional Construction 4.0 sustainability framework that
+               identifies and categorizes the key Construction 4.0 technologies
+               and their positive and negative impacts on environmental,
+               economic, and social sustainability, and then establishing its
+               applicability/usefulness through an empirical, multimethodology
+               case study assessment of the UAE's construction sector. The
+               findings indicate Construction 4.0’s positive impacts on
+               environmental and economic sustainability that far outweigh its
+               negative effects, although these impacts are comparable with
+               regards to social sustainability. On Construction 4.0
+               technologies itself, their application was found to be nonuniform
+               with greater application seen for building information modeling
+               and automation vis-à-vis others such as cyber-physical systems
+               and smart materials, with significant growth expected in the
+               future for blockchain- and three-dimensional-printing-related
+               technologies. The proposed novel framework could enable the
+               development of policy interventions and support mechanisms to
+               increase Construction 4.0 deployment while addressing its
+               negative sustainability-related impacts. The framework also has
+               the potential to be adapted and applied to other country and
+               sectoral contexts.",
+  year      =  2021,
+  url       = "https://ieeexplore.ieee.org/document/9566480/",
+  keywords  = "Sustainable
+               development;Collaboration;Systematics;Industries;Buildings;Task
+               analysis;Solid modeling;Construction 4.0;economic
+               sustainability;environmental sustainability;Industry 4.0;social
+               sustainability;sustainability framework;United Arab Emirates
+               (UAE);Construction 4-0;Journal Articles;\_In Notion;\_In
+               Readwise;AEC;\_New Literature",
+  doi       = "10.1109/TEM.2021.3110427",
+  issn      = "0018-9391,1558-0040"
 }
 
 @ARTICLE{Carbonell1970-ty,
