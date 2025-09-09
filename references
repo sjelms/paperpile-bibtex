@@ -654,9 +654,10 @@
                  Work;Workplace Learning"
 }
 
-@MISC{Ministry-of-Housing-Communities-Local-Government2023-xs,
+@MISC{Ministry-of-Housing-Communities-and-Local-Government2023-wz,
   title        = "National Planning Policy Framework",
-  author       = "{Ministry of Housing, Communities \& Local Government}",
+  author       = "{Ministry of Housing, Communities and Local Government}",
+  booktitle    = "Ministry of Housing, Communities and Local Government",
   address      = "Fry Building, 2 Marsham Street, London, SW1P 4DF",
   month        =  dec,
   year         =  2023,
