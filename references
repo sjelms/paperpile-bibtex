@@ -22485,10 +22485,10 @@
   language  = "ko"
 }
 
-@ARTICLE{Fiori_Christine_M2003-qf,
+@ARTICLE{Fiori2003-gn,
   title     = "What's Wrong with Working in Construction? How Image and
                Diversity Issues are Affecting the Shortage of Skilled Labor",
-  author    = "{Fiori Christine M.}",
+  author    = "Fiori, Christine M",
   journal   = "Construction Research Congress",
   publisher = "ascelibrary.org",
   pages     = "1--8",
@@ -22530,7 +22530,7 @@
                endeavors. Additionally, it will address areas where the efforts
                could successfully be combined.",
   year      =  2003,
-  url       = "https://doi.org/10.1061/40671(2003)3",
+  url       = "https://ascelibrary.org/doi/abs/10.1061/40671(2003)3",
   keywords  = "Journal Articles;Labor;AEC",
   doi       = "10.1061/40671(2003)3"
 }
