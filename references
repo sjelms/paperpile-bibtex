@@ -14724,7 +14724,7 @@
                traditional education method in aviation safety",
   author    = "Chittaro, Luca and Buttussi, Fabio",
   journal   = "IEEE transactions on visualization and computer graphics",
-  publisher = "Institute of Electrical and Electronics Engineers (IEEE)",
+  publisher = "Institute of Electrical and Electronics Engineers",
   volume    =  21,
   number    =  4,
   pages     = "529--538",
@@ -14756,13 +14756,7 @@
   month     =  apr,
   year      =  2015,
   url       = "https://ieeexplore.ieee.org/document/7014255/",
-  keywords  = "
-               Games;Safety;Aircraft;Education;Materials;Avatars;Engines;Immersive
-               VR;serious games;user evaluation;knowledge
-               retention;physiological measurements;aviation safety;Immersive
-               VR;serious games;user evaluation;knowledge
-               retention;physiological measurements;aviation safety;Journal
-               Articles;\_XR MR VR AR;\_New Literature;Knowledge - Skill
+  keywords  = "Journal Articles;\_XR MR VR AR;\_New Literature;Knowledge - Skill
                Acquisition",
   doi       = "10.1109/TVCG.2015.2391853",
   pmid      =  26357103,
