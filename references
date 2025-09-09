@@ -2067,7 +2067,7 @@
   institution = "National Bureau of Economic Research",
   month       =  "30~" # dec,
   year        =  2023,
-  url         = "http://dx.doi.org/10.2139/ssrn.4679195",
+  url         = "https://ssrn.com/abstract=4679195",
   keywords    = "Abundance – How We Build a Better Future Footnotes;\_BibTex to
                  MD Git;AEC;Labor;Economics",
   doi         = "10.2139/ssrn.4679195",
