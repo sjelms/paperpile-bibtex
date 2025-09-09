@@ -10741,12 +10741,12 @@
   language     = "en"
 }
 
-@MISC{HUD_User2019-ej,
+@MISC{HUD-User2019-je,
   title        = "Factory-built housing for affordability, efficiency, and
                   resilience",
   author       = "{HUD User}",
-  booktitle    = "U.S. Department of Housing and Urban Development's (HUD's)
-                  Office of Policy Development and Research (PD\&R)",
+  booktitle    = "U.S. Department of Housing and Urban Development's Office of
+                  Policy Development and Research",
   month        =  "21~" # nov,
   year         =  2019,
   howpublished = "\url{https://www.huduser.gov/portal/periodicals/em/WinterSpring20/highlight1.html}",
