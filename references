@@ -17109,7 +17109,7 @@
   title     = "An analysis framework for collaborative problem solving in
                practice-based learning activities: a mixed-method approach",
   author    = "Cukurova, Mutlu and Avramides, Katerina and Spikol, Daniel and
-               Luckin, Rose and Mavrikis, Manolis",
+               Luckin, Rosemary and Mavrikis, Manolis",
   booktitle = "Proceedings of the Sixth International Conference on Learning
                Analytics \& Knowledge",
   publisher = "Association for Computing Machinery",
@@ -17133,7 +17133,7 @@
   series    = "LAK '16",
   month     =  "25~" # apr,
   year      =  2016,
-  url       = "https://doi.org/10.1145/2883851.2883900",
+  url       = "http://dl.acm.org/citation.cfm?doid=2883851.2883900",
   keywords  = "problem solving, collaborative learning, analysis framework,
                practice-based learning;RDL [CCME0041]",
   doi       = "10.1145/2883851.2883900",
