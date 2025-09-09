@@ -5858,18 +5858,6 @@
               MD Git"
 }
 
-@BOOK{Luckin2016-lp,
-  title     = "Intelligence Unleashed: An Argument for {AI} in Education",
-  author    = "Luckin, Rosemary and Holmes, Wayne and Griffiths, Mark and
-               Forcier, Laurie B",
-  publisher = "Pearson Education",
-  address   = "London, England",
-  year      =  2016,
-  url       = "https://oro.open.ac.uk/50104/",
-  keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;\_BibTex
-               to MD Git;UCL"
-}
-
 @ARTICLE{Hirschman2009-cs,
   title    = "Immigration and the American industrial revolution from 1880 to
               1920",
@@ -20380,6 +20368,18 @@
   doi      = "10.1007/s11251-005-1279-2"
 }
 
+@BOOK{Luckin2016-lp,
+  title     = "Intelligence Unleashed: An Argument for {AI} in Education",
+  author    = "Luckin, Rosemary and Holmes, Wayne and Griffiths, Mark and
+               Forcier, Laurie B",
+  publisher = "Pearson Education",
+  address   = "London, England",
+  year      =  2016,
+  url       = "https://oro.open.ac.uk/50104/",
+  keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;\_BibTex
+               to MD Git;UCL"
+}
+
 @TECHREPORT{Nunn2020-uc,
   title       = "A Dozen Facts about the Economics of the {U}.{S}. Health-Care
                  System",
@@ -23883,7 +23883,7 @@
 @ARTICLE{Bransford1999-ta,
   title    = "Rethinking Transfer: a Simple Proposal With Multiple Implications",
   author   = "Bransford, John D and Schwartz, Daniel L",
-  editor   = "Pearson, A Iran-Nejad \& P",
+  editor   = "Iran-Nejad, A and Pearson, P D",
   journal  = "Washington DC: American Educational Research Association",
   volume   =  24,
   pages    = "61--100",
