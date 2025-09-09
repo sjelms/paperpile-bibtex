@@ -20283,14 +20283,19 @@
 
 @TECHREPORT{Leopold2018-cc,
   title       = "The Future of Jobs 2018",
-  author      = "Leopold, T A and Ratcheva, V and Zahidi, S and {World Economic
-                 Forum}",
+  author      = "Leopold, Till Alexander and Ratcheva, Vesselina Stefanova and
+                 Zahidi, Saadia and {World Economic Forum}",
   institution = "Centre for the New Economy and Society",
-  number      = "ISBN 978-1-944835-18-7",
+  abstract    = "Centre for the New Economy and Society ; project team Till
+                 Alexander Leopold (Project Lead, Centre for the New Economy and
+                 Society), Vesselina Stefanova Ratcheva (Data Lead, Centre for
+                 the New Economy and Society), Saadia Zahidi (Head, Centre for
+                 the New Economy and Society; Member of the Managing Board)",
   year        =  2018,
   keywords    = "Zotero Import (Feb 22);My Library;2021-12-03
                  Frontiers;Frontiers [2022];2\_Upgrade MAY 2023;\_BibTex to MD
-                 Git;Cited for Frontiers"
+                 Git;Cited for Frontiers",
+  isbn        =  9781944835187
 }
 
 @ARTICLE{Kambhampati2021-lr,
