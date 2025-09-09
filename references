@@ -23505,7 +23505,7 @@
 @INPROCEEDINGS{Guzsvinecz2019-sy,
   title     = "Preparing spatial ability tests in a virtual reality application",
   author    = "Guzsvinecz, Tibor and Szeles, Monika and Perge, Erika and
-               Sik-Lanyi, Cecilia",
+               Sik-Lanyi, Cécilia",
   booktitle = "2019 10th IEEE International Conference on Cognitive
                Infocommunications (CogInfoCom)",
   pages     = "363--368",
@@ -23521,7 +23521,7 @@
                completion times.",
   month     =  oct,
   year      =  2019,
-  url       = "http://dx.doi.org/10.1109/CogInfoCom47531.2019.9089919",
+  url       = "https://ieeexplore.ieee.org/document/9089919/",
   keywords  = "Color;Three-dimensional displays;Virtual
                reality;Visualization;Androids;Humanoid robots;Cameras;cognitive
                skills;development;measurement preparation;mental cutting
