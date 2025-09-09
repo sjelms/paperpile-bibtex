@@ -40842,11 +40842,11 @@
   language = "en"
 }
 
-@TECHREPORT{McKinsey-Global-Institute2016-xx,
+@TECHREPORT{Woetzel2016-gs,
   title       = "A tool kit to close California’s housing gap: 3.5 million homes
                  by 2025",
-  author      = "{McKinsey Global Institute} and Woetzel, Jonathan and Mischke,
-                 Jan and Peloquin, Shannon and Weisfield, Daniel",
+  author      = "Woetzel, Jonathan and Mischke, Jan and Peloquin, Shannon and
+                 Weisfield, Daniel",
   institution = "McKinsey Global Institute",
   abstract    = "Access to affordable housing is essential to individual
                  well-being and economic stability, yet many cities face
