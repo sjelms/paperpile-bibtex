@@ -10882,8 +10882,7 @@
                Measurement of emotional arousal with electromyography",
   author    = "Xu, Sheng and Ni, Qingqing and Du, Qiang",
   journal   = "ISARC Proceedings",
-  publisher = "International Association for Automation and Robotics in
-               Construction",
+  publisher = "IAARC",
   pages     = "20--25",
   month     =  "24~" # may,
   year      =  2019,
