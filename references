@@ -12315,7 +12315,8 @@
                auto-controlled construction machine",
   author    = "Hashimoto, Takeshi and Fujino, Kenichi",
   journal   = "ISARC Proceedings",
-  publisher = "IAARC",
+  publisher = "International Association for Automation and Robotics in
+               Construction",
   pages     = "658--664",
   month     =  "24~" # may,
   year      =  2019,
