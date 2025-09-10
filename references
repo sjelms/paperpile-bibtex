@@ -313,22 +313,6 @@
                Construction (IAARC);Journal Articles;\_New Literature"
 }
 
-@INPROCEEDINGS{Liang2019-mx,
-  title     = "Teaching robots to perform construction tasks via learning from
-               demonstration",
-  author    = "Liang, Ci-Jyun and Kamat, Vineet and Menassa, Carol",
-  booktitle = "Proceedings of the 36th International Symposium on Automation and
-               Robotics in Construction (ISARC)",
-  publisher = "International Association for Automation and Robotics in
-               Construction (IAARC)",
-  month     =  "24~" # may,
-  year      =  2019,
-  url       = "http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/teaching_robots_to_perform_construction_tasks_via_learning_from_demonstration.html",
-  keywords  = "International Association for Automation and Robotics in
-               Construction (IAARC);\_New Literature;AEC",
-  doi       = "10.22260/isarc2019/0175"
-}
-
 @MISC{noauthor_undated-mf,
   title        = "Holstein, {K}. and Doroudi, {S}. (2019) Fairness and Equity in
                   Learning Analytics Systems ({FairLAK}) (2019). Workshop
@@ -22688,6 +22672,21 @@
                2024;\_BibTex to MD Git;AEC;\_XR MR VR AR;\_In Readwise;\_Mark
                Up;\_Cataloged",
   doi       = "10.22260/isarc2019/0165"
+}
+
+@INPROCEEDINGS{Liang2019-mx,
+  title     = "Teaching robots to perform construction tasks via learning from
+               demonstration",
+  author    = "Liang, Ci-Jyun and Kamat, Vineet and Menassa, Carol",
+  booktitle = "Proceedings of the 36th International Symposium on Automation and
+               Robotics in Construction (ISARC)",
+  publisher = "IAARC",
+  month     =  "24~" # may,
+  year      =  2019,
+  url       = "http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/teaching_robots_to_perform_construction_tasks_via_learning_from_demonstration.html",
+  keywords  = "International Association for Automation and Robotics in
+               Construction (IAARC);\_New Literature;AEC",
+  doi       = "10.22260/isarc2019/0175"
 }
 
 @TECHREPORT{Jagannathan2021-fg,
