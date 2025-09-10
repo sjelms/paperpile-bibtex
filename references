@@ -76,6 +76,37 @@
   language    = "en"
 }
 
+@ARTICLE{Xu2019-iv,
+  title     = "The effectiveness of virtual reality in safety training:
+               Measurement of emotional arousal with electromyography",
+  author    = "Xu, Sheng and Ni, Qingqing and Du, Qiang",
+  journal   = "ISARC Proceedings",
+  publisher = "IAARC",
+  pages     = "20--25",
+  month     =  "24~" # may,
+  year      =  2019,
+  url       = "http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/the_effectiveness_of_virtual_reality_in_safety_training-measurement_of_emotional_arousal_with_electromyography.html",
+  keywords  = "International Association for Automation and Robotics in
+               Construction (IAARC);XR Reviewed;Journal Articles;\_New
+               Literature;\_XR MR VR AR"
+}
+
+@INPROCEEDINGS{Zhang2019-bm,
+  title     = "Cartesian points visualization in game simulation for analyzing
+               geometric representations of {AEC} objects in {IFC}",
+  author    = "Zhang, Jiansong and Chen, Yunfeng and Liu, Rui and Debs, Luciana",
+  booktitle = "Proceedings of the 36th International Symposium on Automation and
+               Robotics in Construction (ISARC)",
+  publisher = "International Association for Automation and Robotics in
+               Construction (IAARC)",
+  month     =  "24~" # may,
+  year      =  2019,
+  url       = "http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/cartesian_points_visualization_in_game_simulation_for_analyzing_geometric_representations_of_aec_objects_in_ifc.html",
+  keywords  = "International Association for Automation and Robotics in
+               Construction (IAARC);\_BibTex to MD Git;\_Mark Up;AEC",
+  doi       = "10.22260/isarc2019/0020"
+}
+
 @ARTICLE{Mohammadpour2019-eu,
   title     = "Artificial Intelligence Techniques to Support Design and
                Construction",
@@ -105,6 +136,20 @@
                Construction (IAARC);Journal Articles;\_New Literature"
 }
 
+@ARTICLE{Tayeh2019-ij,
+  title     = "Implementing collaborative learning platforms in construction
+               management education",
+  author    = "Tayeh, Ralph and Bademosi, Fopefoluwa and Issa, Raja R A",
+  journal   = "ISARC Proceedings",
+  publisher = "IAARC",
+  pages     = "1114--1120",
+  month     =  "24~" # may,
+  year      =  2019,
+  url       = "http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/implementing_collaborative_learning_platforms_in_construction_management_education.html",
+  keywords  = "International Association for Automation and Robotics in
+               Construction (IAARC);Journal Articles;\_New Literature;AEC"
+}
+
 @ARTICLE{Xiang2019-my,
   title     = "Towards mobile projective {AR} for construction co-robots",
   author    = "Xiang, Siyuan and Wang, Ruoyu and Feng, Chen",
@@ -116,6 +161,24 @@
   url       = "http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/towards_mobile_projective_ar_for_construction_co_robots.html",
   keywords  = "International Association for Automation and Robotics in
                Construction (IAARC);Journal Articles;\_New Literature;AEC"
+}
+
+@ARTICLE{Habibnezhad2019-gd,
+  title     = "A mixed {VR} and physical framework to evaluate impacts of
+               virtual legs and elevated narrow working space on construction
+               workers' gait pattern",
+  author    = "Habibnezhad, Mahmoud and Puckett, Jay and Fardhosseini, Mohammad
+               Sadra and Pratama, Lucky Agung",
+  journal   = "ISARC Proceedings",
+  publisher = "IAARC",
+  pages     = "1057--1064",
+  month     =  "24~" # may,
+  year      =  2019,
+  url       = "http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/a_mixed_vr_and_physical_framework_to_evaluate_impacts_of_virtual_legs_and_elevated_narrow_working_space_on_construction_workers_gait_pattern.html",
+  keywords  = "International Association for Automation and Robotics in
+               Construction (IAARC);XR Reviewed;Journal Articles;\_New
+               Literature;AEC;\_XR MR VR AR",
+  doi       = "10.22260/ISARC2019/0141"
 }
 
 @ARTICLE{Ye2019-oc,
@@ -157,6 +220,31 @@
                Construction (IAARC);Journal Articles;\_New Literature;AEC"
 }
 
+@ARTICLE{Barkokebas2019-eh,
+  title     = "Application of virtual reality in task training in the
+               construction manufacturing industry",
+  author    = "Barkokebas, Regina and Ritter, Chelsea and Sirbu, Val and Li,
+               Xinming and Al-Hussein, Mohamed",
+  journal   = "ISARC Proceedings",
+  publisher = "IAARC",
+  pages     = "796--803",
+  abstract  = "Automation in construction manufacturing is becoming increasingly
+               common due to the drive for higher productivity and increased
+               quality. One important consideration in the implementation of
+               automation is the training and maintenance of the equipment. This
+               study proposes an approach to assess the training for
+               assembly/disassembly and maintenance of machines developed for
+               the construction manufacturing industry by using immersive
+               virtual reality (VR).",
+  month     =  "24~" # may,
+  year      =  2019,
+  url       = "http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/application_of_virtual_reality_in_task_training_in_the_construction_manufacturing_industry.html",
+  keywords  = "International Association for Automation and Robotics in
+               Construction (IAARC);XR Reviewed;Journal Articles;TCOT
+               2024;\_BibTex to MD Git;AEC;\_XR MR VR AR;\_Mark Up;\_In
+               Notion;\_In Readwise"
+}
+
 @ARTICLE{Hashimoto2019-te,
   title     = "Comparative study of experienced and inexperienced operators with
                auto-controlled construction machine",
@@ -169,6 +257,93 @@
   url       = "http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/comparative_study_of_experienced_and_inexperienced_operators_with_auto_controlled_construction_machine.html",
   keywords  = "International Association for Automation and Robotics in
                Construction (IAARC);Journal Articles;\_New Literature;AEC"
+}
+
+@ARTICLE{Aragao2019-sn,
+  title     = "Semantic network analysis as a knowledge representation and
+               retrieval approach applied to unstructured documents of
+               construction projects",
+  author    = "Aragao, Rodrigo Rodrigues and El-Diraby, Tamer",
+  journal   = "ISARC Proceedings",
+  publisher = "IAARC",
+  pages     = "529--536",
+  month     =  "24~" # may,
+  year      =  2019,
+  url       = "http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/semantic_network_analysis_as_a_knowledge_representation_and_retrieval_approach_applied_to_unstructured_documents_of_construction_projects.html",
+  keywords  = "International Association for Automation and Robotics in
+               Construction (IAARC);Journal Articles;\_New Literature;AEC"
+}
+
+@ARTICLE{Krieg2019-ot,
+  title     = "Adaptive automation strategies for robotic prefabrication of
+               parametrized mass timber building components",
+  author    = "Krieg, Oliver David and Lang, Oliver",
+  journal   = "ISARC Proceedings",
+  publisher = "IAARC",
+  pages     = "521--528",
+  month     =  "24~" # may,
+  year      =  2019,
+  url       = "http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/adaptive_automation_strategies_for_robotic_prefabrication_of_parametrized_mass_timber_building_components.html",
+  keywords  = "International Association for Automation and Robotics in
+               Construction (IAARC);Journal Articles;\_New Literature"
+}
+
+@ARTICLE{Vahdatikhaki2019-zj,
+  title     = "Context-realistic virtual reality-based training simulators for
+               asphalt operations",
+  author    = "Vahdatikhaki, Faridaddin and Langroodi, Armin Kassemi and
+               Makarov, Denis and Miller, Seirgei",
+  journal   = "ISARC Proceedings",
+  publisher = "IAARC",
+  pages     = "218--225",
+  month     =  "24~" # may,
+  year      =  2019,
+  url       = "http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/context_realistic_virtual_reality_based_training_simulators_for_asphalt_operations.html",
+  keywords  = "International Association for Automation and Robotics in
+               Construction (IAARC);Journal Articles;\_New Literature"
+}
+
+@ARTICLE{Harichandran2019-vc,
+  title     = "Identification of the structural state in automated modular
+               construction",
+  author    = "Harichandran, Aparna and Raphael, Benny and Mukherjee, Abhijit",
+  journal   = "ISARC Proceedings",
+  publisher = "IAARC",
+  pages     = "187--193",
+  month     =  "24~" # may,
+  year      =  2019,
+  url       = "http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/identification_of_the_structural_state_in_automated_modular_construction.html",
+  keywords  = "International Association for Automation and Robotics in
+               Construction (IAARC);Journal Articles;\_New Literature;AEC"
+}
+
+@ARTICLE{Hasan2019-ei,
+  title     = "Robotic fabrication of nail laminated timber",
+  author    = "Hasan, Hakim and Reddy, Anish and Tsayjacobs, Andrew",
+  journal   = "ISARC Proceedings",
+  publisher = "IAARC",
+  pages     = "1210--1216",
+  month     =  "24~" # may,
+  year      =  2019,
+  url       = "http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/robotic_fabrication_of_nail_laminated_timber.html",
+  keywords  = "International Association for Automation and Robotics in
+               Construction (IAARC);Journal Articles;\_New Literature"
+}
+
+@INPROCEEDINGS{Liang2019-mx,
+  title     = "Teaching robots to perform construction tasks via learning from
+               demonstration",
+  author    = "Liang, Ci-Jyun and Kamat, Vineet and Menassa, Carol",
+  booktitle = "Proceedings of the 36th International Symposium on Automation and
+               Robotics in Construction (ISARC)",
+  publisher = "International Association for Automation and Robotics in
+               Construction (IAARC)",
+  month     =  "24~" # may,
+  year      =  2019,
+  url       = "http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/teaching_robots_to_perform_construction_tasks_via_learning_from_demonstration.html",
+  keywords  = "International Association for Automation and Robotics in
+               Construction (IAARC);\_New Literature;AEC",
+  doi       = "10.22260/isarc2019/0175"
 }
 
 @MISC{noauthor_undated-mf,
@@ -213,6 +388,87 @@
   url         = "https://www.ucl.ac.uk/bartlett/building-better-bartlett-podcast",
   keywords    = "Notion Catalogued;\_BibTex to MD Git;Podcast;\_Mark
                  Up;\_Cataloged"
+}
+
+@INPROCEEDINGS{Golovina2019-ij,
+  title     = "Using Serious Games in Virtual Reality for Automated Close Call
+               and Contact Collision Analysis in Construction Safety",
+  author    = "Golovina, Olga and Kazanci, Caner and Teizer, Jochen and König,
+               Markus",
+  booktitle = "Proceedings of the 36th International Symposium on Automation and
+               Robotics in Construction (ISARC)",
+  publisher = "International Association for Automation and Robotics in
+               Construction (IAARC)",
+  pages     = "967--974",
+  abstract  = "Injuries and fatalities resulting from workplace accidents remain
+               a global concern within the construction industry. While
+               education and training of personnel offer well known approaches
+               for establishing a safe work environment, Serious Games in
+               Virtual Reality (VR) is being increasingly investigated as a
+               complementary approach for learning. They yet have to take full
+               advantage of the inherent data that can be collected about
+               players. This research presents a novel approach for the
+               automated assessment of players’ data. The proposed method
+               gathers and processes the data within a serious game for instant
+               personalized feedback. The application focuses on close calls and
+               contact collisions between construction workers and hazards like
+               equipment, harmful substances, or restricted work zones. The
+               results demonstrate the benefits and limitations of safety
+               information previously unavailable, or very hard or impossible to
+               collect. An outlook presents work ahead for practical
+               implementation in existing risk management processes.",
+  month     =  "24~" # may,
+  year      =  2019,
+  url       = "http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/using_serious_games_in_virtual_reality_for_automated_close_call_and_contact_collision_analysis_in_construction_safety.html",
+  keywords  = "International Association for Automation and Robotics in
+               Construction (IAARC);XR Reviewed;Notion Catalogued;TCOT
+               2024;\_BibTex to MD Git;\_XR MR VR AR;AEC;\_Mark
+               Up;Training;\_Cataloged",
+  doi       = "10.22260/isarc2019/0129"
+}
+
+@ARTICLE{Nassereddine2019-ox,
+  title     = "Augmented reality-enabled production strategy process",
+  author    = "Nassereddine, Hala and Veeramani, Dharmaraj and Hanna, Awad",
+  journal   = "ISARC Proceedings",
+  publisher = "IAARC",
+  pages     = "297--305",
+  abstract  = "Disruptive technologies offer avenues to significantly improve
+               the performance of construction project delivery. While the
+               construction industry is often labeled as conservative and
+               unimaginative with regard to technology adoption, significant
+               strides have been made in recent years  specifically, the use of
+               Building Information Modeling (BIM) for information storage,
+               distribution and communication, as well as Lean construction
+               techniques such as production planning and control (PPC). While
+               the implementation of these innovative technologies and practices
+               individually improve project performance, integrating them
+               together can provide still greater benefits. BIM is certainly
+               useful, but it alone is not a satisfactory answer to the paradox:
+               how does one design and visualize a 3D product in a 2D space?
+               Augmented Reality (AR) is a disruptive technology that can help
+               address this challenge. AR is both an aggregator of information
+               and an information publishing platform which allows users a
+               spectrum of capabilities to 1) passively view displayed
+               information, 2) actively engage and interact with published
+               content, and 3) collaborate with others in real time from remote
+               locations. No extant research effort has comprehensively
+               investigated the opportunities and benefits of the integrated use
+               of AR, BIM, and Lean in the planning process to improve project
+               performance. This paper addresses precisely this research gap.
+               Using insights gained from real-world construction projects, this
+               paper examines the current state of production strategy process
+               (PSP) development  an integral part of PPC, identifies
+               pain-points and opportunities for process re-engineering using
+               AR, and develops an AR-enabled PSP future state.",
+  month     =  "24~" # may,
+  year      =  2019,
+  url       = "http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/augmented_reality_enabled_production_strategy_process.html",
+  keywords  = "International Association for Automation and Robotics in
+               Construction (IAARC);XR Reviewed;Journal Articles;Notion
+               Catalogued;TCOT 2024;\_BibTex to MD Git;\_XR MR VR AR;\_Mark
+               Up;\_In Readwise;\_In Notion;\_Cataloged",
+  doi       = "10.22260/ISARC2019/0040"
 }
 
 @ARTICLE{Legg2007-tc,
@@ -22435,137 +22691,6 @@
   language  = "en"
 }
 
-@ARTICLE{Nassereddine2019-ox,
-  title     = "Augmented reality-enabled production strategy process",
-  author    = "Nassereddine, Hala and Veeramani, Dharmaraj and Hanna, Awad",
-  journal   = "ISARC Proceedings",
-  publisher = "IAARC",
-  pages     = "297--305",
-  abstract  = "Disruptive technologies offer avenues to significantly improve
-               the performance of construction project delivery. While the
-               construction industry is often labeled as conservative and
-               unimaginative with regard to technology adoption, significant
-               strides have been made in recent years  specifically, the use of
-               Building Information Modeling (BIM) for information storage,
-               distribution and communication, as well as Lean construction
-               techniques such as production planning and control (PPC). While
-               the implementation of these innovative technologies and practices
-               individually improve project performance, integrating them
-               together can provide still greater benefits. BIM is certainly
-               useful, but it alone is not a satisfactory answer to the paradox:
-               how does one design and visualize a 3D product in a 2D space?
-               Augmented Reality (AR) is a disruptive technology that can help
-               address this challenge. AR is both an aggregator of information
-               and an information publishing platform which allows users a
-               spectrum of capabilities to 1) passively view displayed
-               information, 2) actively engage and interact with published
-               content, and 3) collaborate with others in real time from remote
-               locations. No extant research effort has comprehensively
-               investigated the opportunities and benefits of the integrated use
-               of AR, BIM, and Lean in the planning process to improve project
-               performance. This paper addresses precisely this research gap.
-               Using insights gained from real-world construction projects, this
-               paper examines the current state of production strategy process
-               (PSP) development  an integral part of PPC, identifies
-               pain-points and opportunities for process re-engineering using
-               AR, and develops an AR-enabled PSP future state.",
-  month     =  "24~" # may,
-  year      =  2019,
-  url       = "http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/augmented_reality_enabled_production_strategy_process.html",
-  keywords  = "International Association for Automation and Robotics in
-               Construction (IAARC);XR Reviewed;Journal Articles;Notion
-               Catalogued;TCOT 2024;\_BibTex to MD Git;\_XR MR VR AR;\_Mark
-               Up;\_In Readwise;\_In Notion;\_Cataloged",
-  doi       = "10.22260/ISARC2019/0040"
-}
-
-@ARTICLE{Habibnezhad2019-gd,
-  title     = "A mixed {VR} and physical framework to evaluate impacts of
-               virtual legs and elevated narrow working space on construction
-               workers' gait pattern",
-  author    = "Habibnezhad, Mahmoud and Puckett, Jay and Fardhosseini, Mohammad
-               Sadra and Pratama, Lucky Agung",
-  journal   = "ISARC Proceedings",
-  publisher = "IAARC",
-  pages     = "1057--1064",
-  month     =  "24~" # may,
-  year      =  2019,
-  url       = "http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/a_mixed_vr_and_physical_framework_to_evaluate_impacts_of_virtual_legs_and_elevated_narrow_working_space_on_construction_workers_gait_pattern.html",
-  keywords  = "International Association for Automation and Robotics in
-               Construction (IAARC);XR Reviewed;Journal Articles;\_New
-               Literature;AEC;\_XR MR VR AR",
-  doi       = "10.22260/ISARC2019/0141"
-}
-
-@INPROCEEDINGS{Zhang2019-bm,
-  title     = "Cartesian points visualization in game simulation for analyzing
-               geometric representations of {AEC} objects in {IFC}",
-  author    = "Zhang, Jiansong and Chen, Yunfeng and Liu, Rui and Debs, Luciana",
-  booktitle = "Proceedings of the 36th International Symposium on Automation and
-               Robotics in Construction (ISARC)",
-  publisher = "International Association for Automation and Robotics in
-               Construction (IAARC)",
-  month     =  "24~" # may,
-  year      =  2019,
-  url       = "http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/cartesian_points_visualization_in_game_simulation_for_analyzing_geometric_representations_of_aec_objects_in_ifc.html",
-  keywords  = "International Association for Automation and Robotics in
-               Construction (IAARC);\_BibTex to MD Git;\_Mark Up;AEC",
-  doi       = "10.22260/isarc2019/0020"
-}
-
-@INPROCEEDINGS{Golovina2019-ij,
-  title     = "Using Serious Games in Virtual Reality for Automated Close Call
-               and Contact Collision Analysis in Construction Safety",
-  author    = "Golovina, Olga and Kazanci, Caner and Teizer, Jochen and König,
-               Markus",
-  booktitle = "Proceedings of the 36th International Symposium on Automation and
-               Robotics in Construction (ISARC)",
-  publisher = "International Association for Automation and Robotics in
-               Construction (IAARC)",
-  pages     = "967--974",
-  abstract  = "Injuries and fatalities resulting from workplace accidents remain
-               a global concern within the construction industry. While
-               education and training of personnel offer well known approaches
-               for establishing a safe work environment, Serious Games in
-               Virtual Reality (VR) is being increasingly investigated as a
-               complementary approach for learning. They yet have to take full
-               advantage of the inherent data that can be collected about
-               players. This research presents a novel approach for the
-               automated assessment of players’ data. The proposed method
-               gathers and processes the data within a serious game for instant
-               personalized feedback. The application focuses on close calls and
-               contact collisions between construction workers and hazards like
-               equipment, harmful substances, or restricted work zones. The
-               results demonstrate the benefits and limitations of safety
-               information previously unavailable, or very hard or impossible to
-               collect. An outlook presents work ahead for practical
-               implementation in existing risk management processes.",
-  month     =  "24~" # may,
-  year      =  2019,
-  url       = "http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/using_serious_games_in_virtual_reality_for_automated_close_call_and_contact_collision_analysis_in_construction_safety.html",
-  keywords  = "International Association for Automation and Robotics in
-               Construction (IAARC);XR Reviewed;Notion Catalogued;TCOT
-               2024;\_BibTex to MD Git;\_XR MR VR AR;AEC;\_Mark
-               Up;Training;\_Cataloged",
-  doi       = "10.22260/isarc2019/0129"
-}
-
-@INPROCEEDINGS{Liang2019-mx,
-  title     = "Teaching robots to perform construction tasks via learning from
-               demonstration",
-  author    = "Liang, Ci-Jyun and Kamat, Vineet and Menassa, Carol",
-  booktitle = "Proceedings of the 36th International Symposium on Automation and
-               Robotics in Construction (ISARC)",
-  publisher = "International Association for Automation and Robotics in
-               Construction (IAARC)",
-  month     =  "24~" # may,
-  year      =  2019,
-  url       = "http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/teaching_robots_to_perform_construction_tasks_via_learning_from_demonstration.html",
-  keywords  = "International Association for Automation and Robotics in
-               Construction (IAARC);\_New Literature;AEC",
-  doi       = "10.22260/isarc2019/0175"
-}
-
 @TECHREPORT{Jagannathan2021-fg,
   title     = "Reaping the benefits of industry 4.0 through skills development
                in Viet Nam",
@@ -27786,21 +27911,6 @@
                   for Frontiers"
 }
 
-@ARTICLE{Vahdatikhaki2019-zj,
-  title     = "Context-realistic virtual reality-based training simulators for
-               asphalt operations",
-  author    = "Vahdatikhaki, Faridaddin and Langroodi, Armin Kassemi and
-               Makarov, Denis and Miller, Seirgei",
-  journal   = "ISARC Proceedings",
-  publisher = "IAARC",
-  pages     = "218--225",
-  month     =  "24~" # may,
-  year      =  2019,
-  url       = "http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/context_realistic_virtual_reality_based_training_simulators_for_asphalt_operations.html",
-  keywords  = "International Association for Automation and Robotics in
-               Construction (IAARC);Journal Articles;\_New Literature"
-}
-
 @BOOK{Bhattacherjee2012-fx,
   title     = "Social Science Research",
   author    = "Bhattacherjee, Anol",
@@ -29798,20 +29908,6 @@
                for this activity."
 }
 
-@ARTICLE{Krieg2019-ot,
-  title     = "Adaptive automation strategies for robotic prefabrication of
-               parametrized mass timber building components",
-  author    = "Krieg, Oliver David and Lang, Oliver",
-  journal   = "ISARC Proceedings",
-  publisher = "IAARC",
-  pages     = "521--528",
-  month     =  "24~" # may,
-  year      =  2019,
-  url       = "http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/adaptive_automation_strategies_for_robotic_prefabrication_of_parametrized_mass_timber_building_components.html",
-  keywords  = "International Association for Automation and Robotics in
-               Construction (IAARC);Journal Articles;\_New Literature"
-}
-
 @BOOK{Maddow2020-tg,
   title     = "Blowout: Corrupted Democracy, Rogue State Russia, and the
                Richest, Most Destructive Industry on Earth",
@@ -30159,19 +30255,6 @@
   volume   =  381,
   year     =  1999,
   keywords = "3\_Upgrade OCT 2023;\_BibTex to MD Git"
-}
-
-@ARTICLE{Hasan2019-ei,
-  title     = "Robotic fabrication of nail laminated timber",
-  author    = "Hasan, Hakim and Reddy, Anish and Tsayjacobs, Andrew",
-  journal   = "ISARC Proceedings",
-  publisher = "IAARC",
-  pages     = "1210--1216",
-  month     =  "24~" # may,
-  year      =  2019,
-  url       = "http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/robotic_fabrication_of_nail_laminated_timber.html",
-  keywords  = "International Association for Automation and Robotics in
-               Construction (IAARC);Journal Articles;\_New Literature"
 }
 
 @BOOK{Liu2017-wo,
@@ -31358,21 +31441,6 @@
                   Policy; and Brenda Mallory, Chair of the Council on
                   Environmental Quality. Biden-Harris Administration. The White
                   House."
-}
-
-@ARTICLE{Aragao2019-sn,
-  title     = "Semantic network analysis as a knowledge representation and
-               retrieval approach applied to unstructured documents of
-               construction projects",
-  author    = "Aragao, Rodrigo Rodrigues and El-Diraby, Tamer",
-  journal   = "ISARC Proceedings",
-  publisher = "IAARC",
-  pages     = "529--536",
-  month     =  "24~" # may,
-  year      =  2019,
-  url       = "http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/semantic_network_analysis_as_a_knowledge_representation_and_retrieval_approach_applied_to_unstructured_documents_of_construction_projects.html",
-  keywords  = "International Association for Automation and Robotics in
-               Construction (IAARC);Journal Articles;\_New Literature;AEC"
 }
 
 @ARTICLE{Berland2014-ra,
@@ -35672,31 +35740,6 @@
                  MD Git;Cited for Frontiers;AEC"
 }
 
-@ARTICLE{Barkokebas2019-eh,
-  title     = "Application of virtual reality in task training in the
-               construction manufacturing industry",
-  author    = "Barkokebas, Regina and Ritter, Chelsea and Sirbu, Val and Li,
-               Xinming and Al-Hussein, Mohamed",
-  journal   = "ISARC Proceedings",
-  publisher = "IAARC",
-  pages     = "796--803",
-  abstract  = "Automation in construction manufacturing is becoming increasingly
-               common due to the drive for higher productivity and increased
-               quality. One important consideration in the implementation of
-               automation is the training and maintenance of the equipment. This
-               study proposes an approach to assess the training for
-               assembly/disassembly and maintenance of machines developed for
-               the construction manufacturing industry by using immersive
-               virtual reality (VR).",
-  month     =  "24~" # may,
-  year      =  2019,
-  url       = "http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/application_of_virtual_reality_in_task_training_in_the_construction_manufacturing_industry.html",
-  keywords  = "International Association for Automation and Robotics in
-               Construction (IAARC);XR Reviewed;Journal Articles;TCOT
-               2024;\_BibTex to MD Git;AEC;\_XR MR VR AR;\_Mark Up;\_In
-               Notion;\_In Readwise"
-}
-
 @BOOK{Stake1995-qy,
   title     = "The Art of Case Study Research",
   author    = "Stake, Robert E",
@@ -37286,20 +37329,6 @@
   url         = "https://laist.com/news/kpcc-archive/life-in-this-iconic-mid-century-suburb-shows-how-c",
   keywords    = "Abundance – How We Build a Better Future Footnotes;\_BibTex to
                  MD Git;Readwise Reader"
-}
-
-@ARTICLE{Harichandran2019-vc,
-  title     = "Identification of the structural state in automated modular
-               construction",
-  author    = "Harichandran, Aparna and Raphael, Benny and Mukherjee, Abhijit",
-  journal   = "ISARC Proceedings",
-  publisher = "IAARC",
-  pages     = "187--193",
-  month     =  "24~" # may,
-  year      =  2019,
-  url       = "http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/identification_of_the_structural_state_in_automated_modular_construction.html",
-  keywords  = "International Association for Automation and Robotics in
-               Construction (IAARC);Journal Articles;\_New Literature;AEC"
 }
 
 @BOOK{Robinson2017-sf,
@@ -39530,20 +39559,6 @@
   howpublished = "\url{https://www.salesforce.com/blog/what-is-the-fourth-industrial-revolution-4ir/}",
   keywords     = "Frontiers [2022];2\_Upgrade MAY 2023;\_BibTex to MD Git;Cited
                   for Frontiers;\_In Notion"
-}
-
-@ARTICLE{Tayeh2019-ij,
-  title     = "Implementing collaborative learning platforms in construction
-               management education",
-  author    = "Tayeh, Ralph and Bademosi, Fopefoluwa and Issa, Raja R A",
-  journal   = "ISARC Proceedings",
-  publisher = "IAARC",
-  pages     = "1114--1120",
-  month     =  "24~" # may,
-  year      =  2019,
-  url       = "http://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/implementing_collaborative_learning_platforms_in_construction_management_education.html",
-  keywords  = "International Association for Automation and Robotics in
-               Construction (IAARC);Journal Articles;\_New Literature;AEC"
 }
 
 @PHDTHESIS{Edkins1998-kn,
