@@ -12387,8 +12387,7 @@
   title     = "Robotic fabrication of nail laminated timber",
   author    = "Hasan, Hakim and Reddy, Anish and Tsayjacobs, Andrew",
   journal   = "ISARC Proceedings",
-  publisher = "International Association for Automation and Robotics in
-               Construction",
+  publisher = "IAARC",
   pages     = "1210--1216",
   month     =  "24~" # may,
   year      =  2019,
