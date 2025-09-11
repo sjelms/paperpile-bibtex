@@ -22688,8 +22688,8 @@
   month     =  "15~" # feb,
   year      =  2008,
   url       = "http://dx.doi.org/10.1080/10508400701793141",
-  keywords  = "Experience on Demand (Related Work);Journal Articles;\_New
-               Literature;\_XR MR VR AR;Education",
+  keywords  = "Experience on Demand (Related Work);Journal Articles;\_BibTex to
+               MD Git;\_New Literature;\_XR MR VR AR;Education",
   doi       = "10.1080/10508400701793141",
   issn      = "1050-8406,1532-7809",
   language  = "en"
@@ -26186,8 +26186,8 @@
   month     =  "1~" # jan,
   year      =  2013,
   url       = "https://www.tandfonline.com/doi/abs/10.1080/15213269.2012.755877",
-  keywords  = "Experience on Demand (Related Work);Journal
-               Articles;Accessibility;\_XR MR VR AR",
+  keywords  = "Experience on Demand (Related Work);Journal Articles;\_BibTex to
+               MD Git;Accessibility;\_XR MR VR AR",
   doi       = "10.1080/15213269.2012.755877",
   issn      = "1521-3269"
 }
@@ -36973,7 +36973,8 @@
   month     =  "21~" # jul,
   year      =  2022,
   url       = "http://dx.doi.org/10.1037/tmb0000082",
-  keywords  = "Learning in Immersive Virtual Reality;\_XR MR VR AR",
+  keywords  = "Learning in Immersive Virtual Reality;\_BibTex to MD Git;\_XR MR
+               VR AR",
   doi       = "10.1037/tmb0000082",
   issn      = "2689-0208",
   language  = "en"
