@@ -3883,8 +3883,8 @@
   month     =  sep,
   year      =  2007,
   url       = "http://dx.doi.org/10.1080/03054980701425706",
-  keywords  = "VET;\_In Notion;\_In Readwise;\_New Literature;Workplace
-               Learning;VET",
+  keywords  = "VET;\_BibTex to MD Git;\_In Notion;\_In Readwise;\_New
+               Literature;Workplace Learning;VET",
   doi       = "10.1080/03054980701425706",
   issn      = "0305-4985,1465-3915",
   language  = "en"
