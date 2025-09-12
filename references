@@ -12528,7 +12528,8 @@
                  Arbor, MI, 48109-2029, USA. eaugust@umich.edu.",
   journal     = "Journal of cancer education: the official journal of the
                  American Association for Cancer Education",
-  publisher   = "Springer Science and Business Media LLC",
+  publisher   = "Springer Science+Business Media",
+  address     = "New York, NY",
   volume      =  36,
   number      =  5,
   pages       = "909--913",
