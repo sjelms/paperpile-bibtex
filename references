@@ -13959,6 +13959,17 @@
   isbn      =  9781450363242
 }
 
+@BOOK{Holder2024-is,
+  title     = "Our unfinished march",
+  author    = "Holder, Eric and Koppelman, Sam",
+  publisher = "Random House",
+  address   = "New York, NY",
+  month     =  "9~" # jan,
+  year      =  2024,
+  isbn      =  9780593445747,
+  language  = "en"
+}
+
 @TECHREPORT{Felstead2011-az,
   title       = "Praxis: Working to Learn, Learning to Work",
   author      = "Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
