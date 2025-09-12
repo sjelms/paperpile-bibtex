@@ -18515,13 +18515,13 @@
   author    = "Garland, Michael and Heckbert, Paul S",
   booktitle = "Proceedings of the 24th annual conference on Computer graphics
                and interactive techniques",
-  publisher = "ACM Press/Addison-Wesley Publishing Co.",
+  publisher = "Association for Computing Machinery",
   address   = "USA",
   pages     = "209--216",
   series    = "SIGGRAPH '97",
   month     =  "3~" # aug,
   year      =  1997,
-  url       = "https://doi.org/10.1145/258734.258849",
+  url       = "http://dx.doi.org/10.1145/258734.258849",
   keywords  = "surface simplification, pair contraction, level of detail,
                non-manifold, mutiresolution modeling;Game Engine \_ AR-VR;\_XR
                MR VR AR;Game Engine",
