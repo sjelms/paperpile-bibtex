@@ -15275,7 +15275,8 @@
 @BOOK{Livingstone2012-rc,
   title     = "The Knowledge Economy and Lifelong Learning: A Critical Reader",
   author    = "Livingstone, D W and Guile, David",
-  publisher = "Springer Science \& Business Media",
+  publisher = "Springer Science+Business Media",
+  address   = "New York, NY",
   abstract  = "This book presents some of the most trenchant critical analyses
                of the widespread claims for the recent emergence of a knowledge
                economy and the attendant need for greater lifelong learning. The
