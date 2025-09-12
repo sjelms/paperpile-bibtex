@@ -3098,7 +3098,7 @@
   title     = "Human-centered design for {VR} interactions",
   author    = "Jerald, Jason and Marks, Richard",
   booktitle = "ACM SIGGRAPH 2016 Courses",
-  publisher = "ACM",
+  publisher = "Association for Computing Machinery",
   address   = "New York, NY, USA",
   abstract  = "VR has the potential to provide experiences and deliver results
                that cannot be otherwise achieved. However, interacting with
