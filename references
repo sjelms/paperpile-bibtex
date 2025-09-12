@@ -18444,9 +18444,10 @@
   isbn      =  9781450365352
 }
 
-@PROCEEDINGS{Unknown2019-ql,
+@PROCEEDINGS{Conitzer2019-ti,
   title     = "Proceedings of the 2019 {AAAI}/{ACM} Conference on {AI}, Ethics,
                and Society",
+  editor    = "Conitzer, Vincent and Hadfield, Gillian and Vallor, Shannon",
   publisher = "Association for Computing Machinery",
   address   = "New York, NY, USA",
   month     =  "27~" # jan,
