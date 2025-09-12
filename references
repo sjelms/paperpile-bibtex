@@ -19128,7 +19128,8 @@
 @MISC{noauthor_undated-xg,
   title        = "{AI} Extenders | Proceedings of the 2019 {AAAI}/{ACM}
                   Conference on {AI}, Ethics, and Society",
-  howpublished = "\url{https://dl-acm-org.libproxy.ucl.ac.uk/doi/10.1145/3306618.3314238}",
+  publisher    = "Association for Computing Machinery",
+  howpublished = "\url{https://dl.acm.org/doi/10.1145/3306618.3314238}",
   keywords     = "AIEd [CCME0123];Course Assignment"
 }
 
