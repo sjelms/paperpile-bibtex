@@ -18444,6 +18444,19 @@
   isbn      =  9781450365352
 }
 
+@PROCEEDINGS{Unknown2019-ql,
+  title     = "Proceedings of the 2019 {AAAI}/{ACM} conference on {AI}, ethics,
+               and society",
+  publisher = "ACM",
+  address   = "New York, NY, USA",
+  month     =  "27~" # jan,
+  year      =  2019,
+  url       = "https://dl.acm.org/doi/proceedings/10.1145/3306618",
+  keywords  = "AIEd [CCME0123];Course Assignment",
+  doi       = "10.1145/3306618",
+  isbn      =  9781450363242
+}
+
 @INCOLLECTION{Vezzoli2020-ll,
   title     = "Exploring the Design Space for Parent-Child Reading",
   author    = "Vezzoli, Yvonne and Kalantari, Sara and Kucirkova, Natalia and
@@ -40941,16 +40954,6 @@
                   of the {2nd} International Conference on Learning Analytics
                   and Knowledge",
   howpublished = "\url{https://dl-acm-org.libproxy.ucl.ac.uk/doi/10.1145/2330601.2330661}",
-  keywords     = "AIEd [CCME0123];Course Assignment"
-}
-
-@MISC{Unknown2019-ql,
-  title        = "{AI} Extenders | Proceedings of the 2019 {AAAI}/{ACM}
-                  Conference on {AI}, Ethics, and Society",
-  publisher    = "Association for Computing Machinery",
-  month        =  jan,
-  year         =  2019,
-  howpublished = "\url{https://dl.acm.org/doi/proceedings/10.1145/3306618}",
   keywords     = "AIEd [CCME0123];Course Assignment"
 }
 
