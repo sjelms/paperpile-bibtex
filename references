@@ -38890,7 +38890,7 @@
   affiliation = "Department of Education/ Craft Studies, University of Helsinki,
                  Finland",
   booktitle   = "Interaction Design and Children",
-  publisher   = "ACM",
+  publisher   = "Association for Computing Machinery",
   address     = "New York, NY, USA",
   month       =  "27~" # jun,
   year        =  2022,
