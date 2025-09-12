@@ -23760,7 +23760,8 @@
                  Student, Civil and Environmental Engineering Dept., Univ. of
                  Waterloo, Waterloo, ON, Canada N2L 3G1.",
   journal     = "Journal of Construction Engineering and Management",
-  publisher   = "American Society of Civil Engineers (ASCE)",
+  publisher   = "American Society of Civil Engineers",
+  address     = "Reston, VA",
   volume      =  139,
   number      =  9,
   pages       = "1135--1143",
