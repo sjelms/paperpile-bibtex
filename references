@@ -27207,7 +27207,8 @@
                  10617, Taiwan (corresponding author).",
   journal     = "Journal of professional issues in engineering education and
                  practice",
-  publisher   = "American Society of Civil Engineers (ASCE)",
+  publisher   = "American Society of Civil Engineers",
+  address     = "Reston, VA",
   volume      =  137,
   number      =  4,
   pages       = "267--276",
