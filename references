@@ -40944,11 +40944,13 @@
   keywords     = "AIEd [CCME0123];Course Assignment"
 }
 
-@MISC{noauthor_undated-xg,
+@MISC{Unknown2019-ql,
   title        = "{AI} Extenders | Proceedings of the 2019 {AAAI}/{ACM}
                   Conference on {AI}, Ethics, and Society",
   publisher    = "Association for Computing Machinery",
-  howpublished = "\url{https://dl.acm.org/doi/10.1145/3306618.3314238}",
+  month        =  jan,
+  year         =  2019,
+  howpublished = "\url{https://dl.acm.org/doi/proceedings/10.1145/3306618}",
   keywords     = "AIEd [CCME0123];Course Assignment"
 }
 
