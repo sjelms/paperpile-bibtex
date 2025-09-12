@@ -33514,8 +33514,9 @@
                  Road to ``Construction 4.0''",
   author      = "Schober, Kai-Stefan and Hoff, Philipp",
   editor      = "Nölling, Katherine",
-  publisher   = "Roland Berger GmbH Civil Economics, Energy \& Infrastructure
+  affiliation = "Roland Berger GmbH Civil Economics, Energy \& Infrastructure
                  Competence Center",
+  publisher   = "Roland Berger",
   institution = "Roland Berger GmbH",
   year        =  2016,
   keywords    = "Construction 4-0;2\_Upgrade MAY 2023;00\_TO READ;Deloitte -
