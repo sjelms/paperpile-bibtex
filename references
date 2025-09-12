@@ -11352,7 +11352,8 @@
                  South Korea (corresponding author).",
   journal     = "Journal of professional issues in engineering education and
                  practice",
-  publisher   = "American Society of Civil Engineers (ASCE)",
+  publisher   = "American Society of Civil Engineers",
+  address     = "Reston, VA",
   volume      =  142,
   number      =  2,
   pages       =  04015011,
