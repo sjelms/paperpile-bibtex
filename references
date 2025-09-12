@@ -25989,11 +25989,11 @@
   language    = "en"
 }
 
-@BOOK{Oecd2020-fz,
+@BOOK{OECD2020-dl,
   title       = "{OECD} skills studies strengthening the governance of skills
                  systems lessons from six {OECD} countries: Lessons from six
                  {OECD} countries",
-  author      = "{Oecd}",
+  author      = "{OECD}",
   affiliation = "OECD Skills Studies",
   publisher   = "Organization for Economic Co-operation and Development (OECD)",
   address     = "Paris Cedex, France",
