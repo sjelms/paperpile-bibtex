@@ -1913,9 +1913,9 @@
   series    = "Qualitative Research Methods",
   month     =  "1~" # may,
   year      =  2020,
-  keywords  = "00\_TO READ;Theory and Methods;Book (physical);Research
-               Methods;Fieldwork Methodology;\_In ClickUp;\_In Notion;\_In
-               Readwise",
+  keywords  = "00\_TO READ;Theory and Methods;\_BibTex to MD Git;Book
+               (physical);Research Methods;Fieldwork Methodology;\_In
+               ClickUp;\_In Notion;\_In Readwise",
   isbn      =  9781544334820,
   language  = "en"
 }
@@ -1942,7 +1942,8 @@
                credible and valuable way.",
   month     =  "14~" # jul,
   year      =  2000,
-  keywords  = "Theory and Methods;Research Methods;Book (physical)",
+  keywords  = "Theory and Methods;\_BibTex to MD Git;Research Methods;Book
+               (physical)",
   language  = "en"
 }
 
@@ -8550,9 +8551,9 @@
   month       =  "21~" # jan,
   year        =  2021,
   url         = "http://dx.doi.org/10.1017/9781108623568",
-  keywords    = "Rapid Qualitative Research;\_New Literature;\_In Readwise;\_In
-                 Notion;Book (physical);Fieldwork Methodology;Research
-                 Methods;\_In ClickUp",
+  keywords    = "Rapid Qualitative Research;\_BibTex to MD Git;\_New
+                 Literature;\_In Readwise;\_In Notion;Book (physical);Fieldwork
+                 Methodology;Research Methods;\_In ClickUp",
   doi         = "10.1017/9781108623568",
   isbn        = "9781108493369,9781108493369"
 }
@@ -18946,8 +18947,8 @@
   month       =  may,
   year        =  2022,
   url         = "http://dx.doi.org/10.1145/3529163",
-  keywords    = "00\_TO READ;Journal Articles;AEC;\_In Notion;\_In Readwise;Book
-                 (physical);Important",
+  keywords    = "00\_TO READ;Journal Articles;\_BibTex to MD Git;AEC;\_In
+                 Notion;\_In Readwise;Book (physical);Important",
   doi         = "10.1145/3529163",
   issn        = "1072-5520,1558-3449",
   language    = "en"
@@ -32373,7 +32374,7 @@
                changes in both architectural and structural design made possible
                by the computer.",
   year      =  1980,
-  keywords  = "Book (physical)",
+  keywords  = "\_BibTex to MD Git;Book (physical)",
   isbn      =  9780393306767,
   language  = "en"
 }
@@ -33025,7 +33026,7 @@
   address   = "New York, NY",
   month     =  "21~" # apr,
   year      =  2020,
-  keywords  = "Audible;Audiobook;Book (physical)",
+  keywords  = "Audible;\_BibTex to MD Git;Audiobook;Book (physical)",
   isbn      =  9780062955371,
   language  = "en"
 }
@@ -33118,7 +33119,7 @@
   series    = "SUNY series in the sociology of work",
   year      =  1986,
   keywords  = "Building trades -- Social aspects -- United States;Library
-               Borrow;AEC;Book (physical)",
+               Borrow;\_BibTex to MD Git;AEC;Book (physical)",
   lccn      =  85030447,
   isbn      =  9780887063084,
   language  = "eng"
@@ -38303,7 +38304,8 @@
                TA.",
   month     =  "13~" # oct,
   year      =  2021,
-  keywords  = "Research Methods;\_New Literature;Book (physical)",
+  keywords  = "\_BibTex to MD Git;Research Methods;\_New Literature;Book
+               (physical)",
   isbn      =  9781526417305,
   language  = "en"
 }
@@ -40979,7 +40981,8 @@
                pages (with over 100 activities)...",
   month     =  "15~" # dec,
   year      =  2022,
-  keywords  = "PhD Study and Support;Book (physical);PhD Support and Training",
+  keywords  = "PhD Study and Support;\_BibTex to MD Git;Book (physical);PhD
+               Support and Training",
   isbn      =  9781944627072,
   language  = "en"
 }
