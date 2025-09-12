@@ -24550,7 +24550,7 @@
   affiliation = "UCL Knowledge Lab, IOE, UCL's Faculty of Education and Society
                  University College London (UCL) London UK; Meaning Processing
                  Ltds. Helsinki Finland",
-  journal     = "European journal of education",
+  journal     = "European Journal of Education",
   publisher   = "Wiley",
   month       =  "30~" # oct,
   year        =  2022,
@@ -24558,7 +24558,7 @@
   keywords    = "Journal Articles;AIEd;Artificial Intelligence (AI);UCL;\_New
                  Literature",
   doi         = "10.1111/ejed.12533",
-  issn        = "0141-8211,1465-3435",
+  issn        = "2601-8616,2601-8624",
   language    = "en"
 }
 
