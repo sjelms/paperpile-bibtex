@@ -4380,7 +4380,7 @@
 @ARTICLE{Klein2023-sw,
   title    = "The Dystopia We Fear Is Keeping Us from the Utopia We Deserve",
   author   = "Klein, Ezra",
-  journal  = "The New York times",
+  journal  = "The New York Times",
   month    =  "8~" # jan,
   year     =  2023,
   url      = "https://www.nytimes.com/2023/01/08/opinion/nuclear-fusion-flying-cars.html",
@@ -5180,7 +5180,7 @@
 @ARTICLE{Rawsthorn2010-ut,
   title     = "Putting New Tools in Students' Hands",
   author    = "Rawsthorn, Alice",
-  journal   = "The New York times",
+  journal   = "The New York Times",
   publisher = "The New York Times",
   abstract  = "Two young designers from San Francisco have set up an innovative
                design-and-build program at a high school in one of North
@@ -5257,7 +5257,7 @@
   title     = "Skilled Workers Are Scarce, Posing a Challenge for Biden’s
                Infrastructure Plan",
   author    = "Ngo, Madeleine",
-  journal   = "The New York times",
+  journal   = "The New York Times",
   publisher = "The New York Times",
   abstract  = "One estimate says the bill would add \$1.4 trillion to the U.S.
                economy over eight years, but without enough workers, efforts to
@@ -10045,7 +10045,7 @@
               Supply Increased By Labor-saving Machinery;-stage School For
               Operators",
   author   = "Blodgett, W K",
-  journal  = "The New York times",
+  journal  = "The New York Times",
   abstract = "During the coming season motor machinery will be a growing factor
               toward enabling the farmer to maintain production of foodstuffs at
               usual standards. With competent farm hands gone, in fact with help
@@ -10170,7 +10170,7 @@
 }
 
 @ARTICLE{Dubberly2011-yu,
-  title    = "Design as learning—or ``knowledge creation''—the {SECI} model",
+  title    = "Design as learning—or “knowledge creation”—the {SECI} model",
   author   = "Dubberly, Hugh and Evenson, Shelley",
   journal  = "Interactions",
   volume   =  18,
@@ -14550,7 +14550,7 @@
 @ARTICLE{Caron2022-pk,
   title     = "A.{D}.{H}.{D}. Can Strain Relationships. Here’s How Couples Cope",
   author    = "Caron, Christina",
-  journal   = "The New York times",
+  journal   = "The New York Times",
   publisher = "The New York Times",
   abstract  = "The symptoms of attention deficit hyperactivity disorder can push
                couples to their breaking point, but there is hope for those
@@ -19937,7 +19937,7 @@
 @ARTICLE{Krugman2013-ut,
   title    = "An Ubernerd Weighs In",
   author   = "Krugman, Paul",
-  journal  = "The New York times",
+  journal  = "The New York Times",
   abstract = "It’s technically great, so it must be important, right?",
   month    =  "29~" # dec,
   year     =  2013,
@@ -35031,7 +35031,7 @@
 @ARTICLE{Arieff2013-rp,
   title    = "Prefab Lives!",
   author   = "Arieff, Allison",
-  journal  = "The New York times",
+  journal  = "The New York Times",
   abstract = "Modular building, a design approach that once focused on
               single-family homes, is becoming increasingly popular for
               multi-unit residences.",
@@ -40872,7 +40872,7 @@
 @ARTICLE{Klein2023-qs,
   title    = "The Story Construction Tells About America’s Economy Is Disturbing",
   author   = "Klein, Ezra",
-  journal  = "The New York times",
+  journal  = "The New York Times",
   month    =  "5~" # feb,
   year     =  2023,
   url      = "https://www.nytimes.com/2023/02/05/opinion/economy-construction-productivity-mystery.html",
