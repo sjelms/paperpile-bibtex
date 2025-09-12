@@ -18445,9 +18445,9 @@
 }
 
 @PROCEEDINGS{Unknown2019-ql,
-  title     = "Proceedings of the 2019 {AAAI}/{ACM} conference on {AI}, ethics,
-               and society",
-  publisher = "ACM",
+  title     = "Proceedings of the 2019 {AAAI}/{ACM} Conference on {AI}, Ethics,
+               and Society",
+  publisher = "Association for Computing Machinery",
   address   = "New York, NY, USA",
   month     =  "27~" # jan,
   year      =  2019,
