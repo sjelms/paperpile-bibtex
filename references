@@ -25111,7 +25111,7 @@
 @BOOK{Malloch2010-fj,
   title     = "The {SAGE} Handbook of Workplace Learning",
   author    = "Malloch, Margaret",
-  publisher = "SAGE Publications",
+  publisher = "SAGE Publications, Inc.",
   abstract  = "This Handbook provides a state-of –the art overview of the field
                of workplace learning from a global perspective. The authors are
                all well-placed theoreticians, researchers, and practitioners in
@@ -25126,7 +25126,7 @@
                insight into the field and its current state.",
   month     =  "4~" # oct,
   year      =  2010,
-  url       = "https://doi.org/10.4135/9781446200940",
+  url       = "https://sk.sagepub.com/reference/hdbk_workplacelearning",
   keywords  = "SAGE Handbook of Workplace Learning;\_BibTex to MD Git;EPubs
                Books;\_In ClickUp;\_In Notion;\_In Readwise;ePub",
   doi       = "10.4135/9781446200940",
