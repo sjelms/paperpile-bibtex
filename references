@@ -1457,7 +1457,7 @@
 @INCOLLECTION{Robson2016-sn,
   title     = "Fixed designs",
   editor    = "Robson, Colin and McCartan, Kieran",
-  publisher = "John Wiley \& Sons Ltd",
+  publisher = "John Wiley \& Sons",
   address   = "Chichester, West Sussex, United Kingdom",
   edition   = "Fourth edition",
   year      =  2016,
@@ -1694,7 +1694,7 @@
 @BOOK{Robson2022-tm,
   title     = "Real World Research",
   author    = "Robson, Colin and McCartan, Kieran",
-  publisher = "John Wiley \& Sons Inc",
+  publisher = "John Wiley \& Sons",
   address   = "New York",
   month     =  "23~" # sep,
   year      =  2022,
@@ -2852,7 +2852,7 @@
   editor      = "Guile, David and Unwin, Lorna",
   affiliation = "University of Leeds",
   booktitle   = "The Wiley Handbook of Vocational Education and Training",
-  publisher   = "John Wiley \& Sons, Inc.",
+  publisher   = "John Wiley \& Sons",
   address     = "Hoboken, NJ, USA",
   pages       = "165--185",
   abstract    = "Summary This chapter explores the connections between training
@@ -4756,7 +4756,7 @@
   editor      = "Guile, David and Unwin, Lorna",
   affiliation = "Utrecht University",
   booktitle   = "The Wiley Handbook of Vocational Education and Training",
-  publisher   = "John Wiley \& Sons, Inc.",
+  publisher   = "John Wiley \& Sons",
   address     = "Hoboken, NJ, USA",
   pages       = "349--372",
   abstract    = "Summary What is typical of a vocational curriculum is that it
@@ -12336,7 +12336,7 @@
   editor      = "Guile, David and Unwin, Lorna",
   affiliation = "HAN University of Applied Sciences",
   booktitle   = "The Wiley Handbook of Vocational Education and Training",
-  publisher   = "John Wiley \& Sons, Inc.",
+  publisher   = "John Wiley \& Sons",
   address     = "Hoboken, NJ, USA",
   pages       = "415--432",
   abstract    = "Summary This chapter discusses the challenge of increasing the
@@ -14797,7 +14797,7 @@
   affiliation = "UCL Institute of Education; Centre for Learning and Life
                  Chances in Knowledge Economies and Societies (LLAKES)",
   booktitle   = "The Wiley Handbook of Vocational Education and Training",
-  publisher   = "John Wiley \& Sons, Inc.",
+  publisher   = "John Wiley \& Sons",
   address     = "Hoboken, NJ, USA",
   pages       = "17--40",
   abstract    = "Summary This chapter examines the impact of new technologies
@@ -14830,7 +14830,7 @@
   editor      = "Guile, David and Unwin, Lorna",
   affiliation = "Griffith University",
   booktitle   = "The Wiley Handbook of Vocational Education and Training",
-  publisher   = "John Wiley \& Sons, Inc.",
+  publisher   = "John Wiley \& Sons",
   address     = "Hoboken, NJ, USA",
   pages       = "41--62",
   abstract    = "Summary Understanding the purposes, processes, and outcomes of
@@ -14869,7 +14869,7 @@
   editor      = "Guile, David and Unwin, Lorna",
   affiliation = "Illinois Community College Board; University of Washington",
   booktitle   = "The Wiley Handbook of Vocational Education and Training",
-  publisher   = "John Wiley \& Sons, Inc.",
+  publisher   = "John Wiley \& Sons",
   address     = "Hoboken, NJ, USA",
   pages       = "227--250",
   abstract    = "Summary This chapter provides historical context for the
@@ -14898,7 +14898,7 @@
   affiliation = "University of Cologne; German Research Center for Comparative
                  Vocational Education and Training; TU Dresden",
   booktitle   = "The Wiley Handbook of Vocational Education and Training",
-  publisher   = "John Wiley \& Sons, Inc.",
+  publisher   = "John Wiley \& Sons",
   address     = "Hoboken, NJ, USA",
   pages       = "311--327",
   abstract    = "Summary This chapter explores the concepts of duality and
@@ -14932,7 +14932,7 @@
   affiliation = "University of Mannheim; Swiss Federal Institute for Vocational
                  Education and Training (SFIVET)",
   booktitle   = "The Wiley Handbook of Vocational Education and Training",
-  publisher   = "John Wiley \& Sons, Inc.",
+  publisher   = "John Wiley \& Sons",
   address     = "Hoboken, NJ, USA",
   pages       = "373--393",
   abstract    = "Summary Societies and economies all over the world are
@@ -14966,7 +14966,7 @@
   editor      = "Guile, David and Unwin, Lorna",
   affiliation = "UCL Institute of Education",
   booktitle   = "The Wiley Handbook of Vocational Education and Training",
-  publisher   = "John Wiley \& Sons, Inc.",
+  publisher   = "John Wiley \& Sons",
   address     = "Hoboken, NJ, USA",
   pages       = "433--454",
   abstract    = "Summary This chapter explores how vocational teachers?
@@ -15023,7 +15023,7 @@
   editor      = "Guile, David and Unwin, Lorna",
   affiliation = "UCL Institute of Education",
   booktitle   = "The Wiley Handbook of Vocational Education and Training",
-  publisher   = "John Wiley \& Sons, Inc.",
+  publisher   = "John Wiley \& Sons",
   address     = "Hoboken, NJ, USA",
   pages       = "81--96",
   abstract    = "Summary This chapter asks what an occupation means under
@@ -15058,7 +15058,7 @@
   editor      = "Guile, David and Unwin, Lorna",
   affiliation = "University of Technology Sydney",
   booktitle   = "The Wiley Handbook of Vocational Education and Training",
-  publisher   = "John Wiley \& Sons, Inc.",
+  publisher   = "John Wiley \& Sons",
   address     = "Hoboken, NJ, USA",
   pages       = "63--80",
   abstract    = "Summary This chapter focuses on key developments since the
@@ -37052,7 +37052,7 @@
 @BOOK{Emmitt2023-aq,
   title     = "Barry's Advanced Construction of Buildings",
   author    = "Emmitt, Stephen",
-  publisher = "Wiley \& Sons, Incorporated, John",
+  publisher = "John Wiley \& Sons",
   year      =  2023,
   url       = "https://openlibrary.org/books/OL39564099M.opds",
   keywords  = "Barry's Construction (Stephen Emmitt);AEC",
