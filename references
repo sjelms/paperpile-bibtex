@@ -23494,7 +23494,8 @@
   author    = "Kerawalla, Lucinda and Luckin, Rosemary and Seljeflot, Simon and
                Woolard, Adrian",
   journal   = "Virtual reality",
-  publisher = "Springer Science and Business Media LLC",
+  publisher = "Springer Science+Business Media",
+  address   = "New York, NY",
   volume    =  10,
   number    = "3-4",
   pages     = "163--174",
