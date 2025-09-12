@@ -12861,7 +12861,7 @@
                  of Technology, Nagaoka, Niigata, Japan",
   booktitle   = "Proceedings of the Virtual Reality International Conference -
                  Laval Virtual",
-  publisher   = "ACM",
+  publisher   = "Association for Computing Machinery",
   address     = "New York, NY, USA",
   month       =  "4~" # apr,
   year        =  2018,
