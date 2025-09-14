@@ -619,30 +619,6 @@
   language  = "en"
 }
 
-@BOOK{Stake1995-qy,
-  title     = "The Art of Case Study Research",
-  author    = "Stake, Robert E",
-  publisher = "SAGE Publications",
-  abstract  = "This book presents a disciplined, qualitative exploration of case
-               study methods by drawing from naturalistic, holistic,
-               ethnographic, phenomenological and biographic research methods.
-               Robert E. Stake uses and annotates an actual case study to answer
-               such questions as: How is the case selected? How do you select
-               the case which will maximize what can be learned? How can what is
-               learned from one case be applied to another? How can what is
-               learned from a case be interpreted? In addition, the book covers:
-               the differences between quantitative and qualitative approaches;
-               data-gathering including document review; coding, sorting and
-               pattern analysis; the roles of the researcher; triangulation; and
-               reporting.",
-  month     =  "5~" # apr,
-  year      =  1995,
-  url       = "https://play.google.com/store/books/details?id=sIMOAQAAMAAJ",
-  keywords  = "Rapid Qualitative Research;Fieldwork Methodology;Research Methods",
-  isbn      =  9780803957664,
-  language  = "en"
-}
-
 @BOOK{Hamilton2012-vy,
   title     = "Using Case Study in Education Research",
   author    = "Hamilton, Lorna and Corbett-Whittier, Connie",
@@ -1478,52 +1454,6 @@
   issn      = "0004-8658"
 }
 
-@ARTICLE{Harvey2019-fr,
-  title     = "Applying {HRO} and resilience engineering to construction:
-               Barriers and opportunities",
-  author    = "Harvey, Eleanor J and Waterson, Patrick and Dainty, Andrew R J",
-  journal   = "Safety science",
-  publisher = "SAGE Publications",
-  volume    =  117,
-  pages     = "523--533",
-  abstract  = "High reliability organising (HRO) and resilience engineering (RE)
-               have emerged as key concepts in safety management which promise a
-               move away from bureaucracy and a means to manage safety without
-               sacrificing performance. However, attempts to apply these ideas
-               outside the ultra-safe sectors within which they developed have
-               so far been limited. This paper uses the construction industry as
-               a test case to explore the applicability of HRO and RE in a less
-               highly regulated context. Through this discussion the research
-               gaps are highlighted which have prevented the expansion of these
-               new approaches into new sectors. The project-based nature,
-               transient workforce, widespread outsourcing of labour and
-               financial pressure of the construction sector limit opportunities
-               for investment in employees and learning from experience; hence,
-               developing principles advocated by HRO and RE such as management
-               commitment, sensitivity to the frontline, prioritisation of
-               safety, empowerment of employees, and a just culture presents a
-               significant challenge. In spite of these barriers, there are also
-               opportunities to be considered for construction to incorporate
-               aspects of HRO and RE at an employee-centred level rather than
-               organisational: Aspects of mindfulness and imagination; RE’s
-               progressive understanding of accidents; and its holistic approach
-               to cultivating resilience. It is argued that these opportunities
-               offer a useful perspective for reframing safety debates in
-               construction. The paper concludes with a research agenda which
-               puts forward the need to extend and adapt aspects of HRO and RE
-               in order to tackle some of the key characteristics of
-               construction, namely subcontractor networks and temporary
-               projects.",
-  month     =  "1~" # aug,
-  year      =  2019,
-  url       = "https://www.sciencedirect.com/science/article/pii/S0925753516301825",
-  keywords  = "Complex systems; Construction; High reliability organising; Human
-               factors; Resilience engineering;Frontiers import [Aug 11];Journal
-               Articles;Workplace Learning;AEC",
-  doi       = "10.1016/j.ssci.2016.08.019",
-  issn      = "0925-7535"
-}
-
 @BOOK{Wallbank2018-dj,
   title     = "Academic Writing and Dyslexia A Visual Guide to Writing at
                University",
@@ -2204,22 +2134,6 @@
   language  = "en"
 }
 
-@INCOLLECTION{Sawchuk2013-ux,
-  title     = "Researching Workplace Learning: an Overview and Critique",
-  author    = "Sawchuk, Peter H",
-  booktitle = "The SAGE Handbook of Workplace Learning",
-  publisher = "SAGE Publications",
-  address   = "London, England",
-  pages     = "165--180",
-  year      =  2013,
-  url       = "http://dx.doi.org/10.4135/9781446200940.n12",
-  keywords  = "SAGE Handbook of Workplace Learning;EPubs Books;\_BibTex to MD
-               Git;\_New Literature;Workplace Learning;ePub;\_In ClickUp;\_In
-               Notion;\_In Readwise;Cross Ref Chapter",
-  doi       = "10.4135/9781446200940.n12",
-  isbn      = "9781847875891,9781446200940"
-}
-
 @INCOLLECTION{Cheng2013-jx,
   title     = "Technology and Knowledge Management",
   author    = "Cheng, Jingli and Jin Son, Su and Bonk, Curtis J",
@@ -2336,87 +2250,6 @@
   language  = "en"
 }
 
-@INCOLLECTION{Janesick1994-ky,
-  title     = "The Dance of Qualitative Research Design: Metaphor, Methodolatry,
-               and Meaning",
-  author    = "Janesick, Valerie J",
-  editor    = "Denzin, Norman K",
-  booktitle = "Handbook of Qualitative Research",
-  publisher = "SAGE Publications",
-  address   = "London, England",
-  volume    =  643,
-  pages     = "209--219",
-  abstract  = "discuss the essence of qualitative research design [using the
-               metaphor of dance] / the design serves as a foundation for the
-               understanding of the participants' worlds and the meaning of
-               shared experience between the researcher and participants in a
-               given social context / see qualitative research as interpretive
-               qualitative research design as choreography / design decisions at
-               the beginning of the study / the pilot study and ongoing design
-               decisions / design decisions made at the end of study / major
-               considerations in writing the narrative (PsycINFO Database Record
-               (c) 2019 APA, all rights reserved)",
-  year      =  1994,
-  url       = "https://psycnet.apa.org/fulltext/1994-98625-011.pdf",
-  keywords  = "Research Methods"
-}
-
-@INCOLLECTION{Charmaz2001-wf,
-  title     = "Grounded theory in ethnography",
-  author    = "Charmaz, Kathy and Mitchell, Richard G",
-  booktitle = "Handbook of Ethnography",
-  publisher = "SAGE Publications",
-  address   = "1 Oliver's Yard, 55 City Road, London England EC1Y 1SP United
-               Kingdom",
-  pages     = "160--174",
-  year      =  2001,
-  url       = "https://methods.sagepub.com/book/handbook-of-ethnography/n11.xml",
-  keywords  = "Theory and Methods;2\_Upgrade MAY 2023;Grounded Theory;\_BibTex
-               to MD Git;Research Methods",
-  doi       = "10.4135/9781848608337.n11",
-  isbn      = "9780761958246,9781848608337"
-}
-
-@BOOK{Kumar2019-dp,
-  title     = "Research Methodology: A Step-by-Step Guide for Beginners",
-  author    = "Kumar, Ranjit",
-  publisher = "SAGE Publications",
-  abstract  = "Designed with students, for students Eight steps, two pathways,
-               one book. The Fifth Edition of the bestseller Research
-               Methodology has reimagined, redesigned, and fully renovated how a
-               textbook can help students achieve success in their methods
-               course or research project. Eight steps: Foolproof for any
-               beginner researcher, the book breaks the process of designing and
-               doing a research project into achievable stages. It delivers
-               students from research problem to their written research report
-               at the pace they need, with clear explanations, DIY tasks and
-               study skills support. In a new landscape format it presents
-               figures, models and visualizations elegantly, so they don't break
-               over a page, making even complex concepts easier to understand.
-               Two pathways: With an innovative, beautiful design, regular
-               progress checkpoints have been built into the book and its online
-               resources. As students proceed through the 8 steps, each chapter
-               provides regular opportunities for students to check
-               understanding or give themselves a challenge. Each pathway then
-               gives them the resources they need. Confused? Stop, practise with
-               quizzes and flashcards, or use a video to look at a concept a
-               different way. Up for a challenge? Access a wealth of additional
-               material including research articles, readings, case studies,
-               activities, bibliography tools and inspiration to pursue your
-               curiosity, impress your lecturer, and nail your assignments. With
-               this one book, every student gets what they need to succeed. It
-               is the perfect essential text for students and beginner
-               researchers across the social sciences.",
-  month     =  "11~" # feb,
-  year      =  2019,
-  url       = "https://us.sagepub.com/en-us/nam/research-methodology/book257990",
-  keywords  = "Theory and Methods;2\_Upgrade MAY 2023;00\_TO READ;EPubs
-               Books;3\_Upgrade OCT 2023;\_BibTex to MD Git;ePub;Research
-               Methods;\_In Notion;\_In Readwise;Important;Read;Book (physical)",
-  isbn      =  9781526449900,
-  language  = "en"
-}
-
 @BOOK{Atkinson2001-fa,
   title     = "Handbook of ethnography",
   author    = "Atkinson, Paul and Coffey, Amanda and Delamont, Sara and Lofland,
@@ -2450,59 +2283,6 @@
   doi       = "10.1016/j.autcon.2023.104845",
   issn      = "0926-5805,1872-7891",
   language  = "en"
-}
-
-@ARTICLE{Balasubramanian2021-rk,
-  title     = "Construction Industry 4.0 and Sustainability: An Enabling
-               Framework",
-  author    = "Balasubramanian, Sreejith and Shukla, Vinaya and Islam, Nazrul
-               and Manghat, Shalini",
-  journal   = "IEEE Transactions on Engineering Management",
-  publisher = "SAGE Publications",
-  pages     = "1--19",
-  abstract  = "Governments worldwide are taking actions to address the
-               construction sector's sustainability concerns, including high
-               carbon emissions, health and safety risks, low productivity, and
-               increasing costs. Applying Industry 4.0 technologies to
-               construction (also referred to as Construction 4.0) could address
-               some of these concerns. However, current understanding about this
-               is quite limited, with previous work being largely fragmented and
-               limited both in terms of technologies as well as their
-               interrelationships with the triple bottom line of sustainability
-               perspectives. The focus of this article is therefore on
-               addressing these gaps by proposing a comprehensive
-               multi-dimensional Construction 4.0 sustainability framework that
-               identifies and categorizes the key Construction 4.0 technologies
-               and their positive and negative impacts on environmental,
-               economic, and social sustainability, and then establishing its
-               applicability/usefulness through an empirical, multimethodology
-               case study assessment of the UAE's construction sector. The
-               findings indicate Construction 4.0’s positive impacts on
-               environmental and economic sustainability that far outweigh its
-               negative effects, although these impacts are comparable with
-               regards to social sustainability. On Construction 4.0
-               technologies itself, their application was found to be nonuniform
-               with greater application seen for building information modeling
-               and automation vis-à-vis others such as cyber-physical systems
-               and smart materials, with significant growth expected in the
-               future for blockchain- and three-dimensional-printing-related
-               technologies. The proposed novel framework could enable the
-               development of policy interventions and support mechanisms to
-               increase Construction 4.0 deployment while addressing its
-               negative sustainability-related impacts. The framework also has
-               the potential to be adapted and applied to other country and
-               sectoral contexts.",
-  year      =  2021,
-  url       = "https://ieeexplore.ieee.org/document/9566480/",
-  keywords  = "Sustainable
-               development;Collaboration;Systematics;Industries;Buildings;Task
-               analysis;Solid modeling;Construction 4.0;economic
-               sustainability;environmental sustainability;Industry 4.0;social
-               sustainability;sustainability framework;United Arab Emirates
-               (UAE);Construction 4-0;Journal Articles;\_In Notion;\_In
-               Readwise;AEC;\_New Literature",
-  doi       = "10.1109/TEM.2021.3110427",
-  issn      = "0018-9391,1558-0040"
 }
 
 @BOOK{Mayring2021-ud,
@@ -2593,82 +2373,6 @@
                Methods",
   doi       = "10.1068/a300261",
   issn      = "0308-518X"
-}
-
-@ARTICLE{Sal-Moslehian2022-pk,
-  title     = "Diagrammatic Modelling Tools for Grounded Theory Research: The
-               Implementation of a Multi-Representational Approach",
-  author    = "Sal Moslehian, Anahita and Tucker, Richard and Kocaturk, Tuba",
-  journal   = "International Journal of Qualitative Methods",
-  publisher = "SAGE Publications",
-  volume    =  21,
-  pages     =  16094069221127069,
-  abstract  = "Grounded Theory (GT) researchers have an ever-expanding palette
-               of digital tools available to further analyse complex phenomena
-               with interrelated data sets. However, few GT researchers have
-               systematically examined how the use of diagramming tools can
-               enhance analysis. To advance the analytical process of GT, this
-               study develops a multi-representational approach that integrates
-               with research design. After diagrams supportive of GT are
-               identified for their potential improvements to the analytical
-               process, the research focuses on the experience of employing
-               three diagramming tools (Flourish, Observable, and Pajek) in
-               developing two complementary diagrams (Network and Arc diagrams).
-               The use of these tools for analysis is explained in detail for
-               conducting extensive constructivist GT study; illustrated via a
-               case study examining a century of innovation in hospital design.
-               Via this multiple-source case study, this paper demonstrates how
-               the sagacious deployment of diagramming tools, when carefully
-               aligned to research objectives, can complement GT analysis by
-               facilitating systematic thinking and holistic interpretation of
-               hidden patterns.",
-  month     =  "1~" # apr,
-  year      =  2022,
-  url       = "http://dx.doi.org/10.1177/16094069221127069",
-  keywords  = "Grounded Theory;Journal Articles;\_In Notion;\_In Readwise;Design
-               and Design Thinking;Digital Literacies;Research Methods;\_New
-               Literature",
-  doi       = "10.1177/16094069221127069",
-  issn      = "1609-4069"
-}
-
-@ARTICLE{Newton2020-bi,
-  title     = "The case for pragmatic evidence-Based Higher Education: A useful
-               way forward?",
-  author    = "Newton, Philip M and Da Silva, Ana and Berry, Sam",
-  journal   = "Frontiers in education",
-  publisher = "SAGE Publications",
-  volume    =  5,
-  abstract  = "Arguments for and against the idea of evidence-based education
-               have occupied the academic literature for decades. Those arguing
-               in favor plead for greater rigor and clarity to determine “what
-               works.” Those arguing against protest that education is a
-               complex, social endeavor and that for epistemological,
-               theoretical and political reasons it is not possible to state,
-               with any useful degree of generalizable certainty, “what works.”
-               While academics argue, policy and practice in Higher Education
-               are beset with problems. Ineffective methods such as “Learning
-               Styles” persist. Teaching quality and teacher performance are
-               measured using subjective and potentially biased feedback.
-               University educators have limited access to professional
-               development, particularly for practical teaching skills. There is
-               a huge volume of higher education research, but it is
-               disconnected from educational practice. Change is needed. We
-               propose a pragmatic model of Evidence-Based Higher Education,
-               empowering educators and others to make judgements about the
-               application of the most useful evidence, in a particular context,
-               including pragmatic considerations of cost and other resources.
-               Implications of the model include a need to emphasize pragmatic
-               approaches to research in higher education, delivering results
-               that are more obviously useful, and a pragmatic focus on
-               practical teaching skills for the development of educators in
-               Higher Education.",
-  month     =  "23~" # dec,
-  year      =  2020,
-  url       = "http://dx.doi.org/10.3389/feduc.2020.583157",
-  keywords  = "Journal Articles;Research Methods",
-  doi       = "10.3389/feduc.2020.583157",
-  issn      = "2504-284X"
 }
 
 @ARTICLE{Reiter-Palmon2006-cy,
@@ -2956,34 +2660,6 @@
   keywords  = "Theory and Methods;EPubs Books;3\_Upgrade OCT 2023;\_BibTex to MD
                Git;Research Methods;ePub",
   isbn      =  9781529765205,
-  language  = "en"
-}
-
-@BOOK{Creswell2017-uf,
-  title     = "Qualitative Inquiry and Research Design (International Student
-               Edition): Choosing Among Five Approaches",
-  author    = "Creswell, John W and Poth, Cheryl N",
-  publisher = "SAGE Publications",
-  abstract  = "In the Fourth Edition of this bestselling book, John W Creswell
-               and new co-author Cheryl N Poth explore the philosophical
-               underpinnings, history and key elements of each of five
-               qualitative inquiry traditions: narrative research,
-               phenomenology, grounded theory, ethnography and case study -
-               putting them side by side, so that we can see the differences.
-               The authors relate research designs to each of the traditions of
-               enquiry. They compare theoretical frameworks and ways to employ
-               standards of quality, as well as strategies for writing
-               introductions to studies, collecting data, analyzing data,
-               writing a narrative and verifying results. New in this edition:
-               Updated materials on each tradition More on interpretive
-               frameworks and ethics More visual depictions of the five
-               approaches Two new topical articles in Chapter 5, reproduced in
-               full in the appendices.",
-  month     =  "10~" # apr,
-  year      =  2017,
-  url       = "https://play.google.com/store/books/details?id=UgFIMQAACAAJ",
-  keywords  = "Theory and Methods;Research Methods",
-  isbn      =  9781506361178,
   language  = "en"
 }
 
@@ -3481,25 +3157,6 @@
   keywords  = "\_BibTex to MD Git;EPubs Books;ePub;AEC",
   isbn      =  9781118745137,
   language  = "en"
-}
-
-@INCOLLECTION{Hager2013-ey,
-  title     = "Theories of Workplace Learning",
-  author    = "Hager, Paul",
-  editor    = "Malloch, Margaret and Cairns, Len and Evans, Karen and O'Connor,
-               Bridget N",
-  booktitle = "The SAGE Handbook of Workplace Learning",
-  publisher = "SAGE Publications",
-  address   = "London, England",
-  pages     = "17--31",
-  year      =  2013,
-  url       = "http://dx.doi.org/10.4135/9781446200940.n2",
-  keywords  = "SAGE Handbook of Workplace Learning;00\_TO READ;EPubs
-               Books;Upgrade Viva Prep Reading;\_BibTex to MD Git;\_New
-               Literature;Workplace Learning;ePub;Important;\_In ClickUp;\_In
-               Notion;\_In Readwise;Cross Ref Chapter;Readwise Reader",
-  doi       = "10.4135/9781446200940.n2",
-  isbn      = "9781847875891,9781446200940"
 }
 
 @BOOK{Denzin2023-mp,
@@ -9339,6 +8996,53 @@
               Articles;Course Assignment;Economics",
   doi      = "10.1016/j.sheji.2020.12.001",
   issn     = "2405-8726"
+}
+
+@ARTICLE{Harvey2019-fr,
+  title     = "Applying {HRO} and resilience engineering to construction:
+               Barriers and opportunities",
+  author    = "Harvey, Eleanor J and Waterson, Patrick and Dainty, Andrew R J",
+  journal   = "Safety science",
+  publisher = "Elsevier BV",
+  volume    =  117,
+  pages     = "523--533",
+  abstract  = "High reliability organising (HRO) and resilience engineering (RE)
+               have emerged as key concepts in safety management which promise a
+               move away from bureaucracy and a means to manage safety without
+               sacrificing performance. However, attempts to apply these ideas
+               outside the ultra-safe sectors within which they developed have
+               so far been limited. This paper uses the construction industry as
+               a test case to explore the applicability of HRO and RE in a less
+               highly regulated context. Through this discussion the research
+               gaps are highlighted which have prevented the expansion of these
+               new approaches into new sectors. The project-based nature,
+               transient workforce, widespread outsourcing of labour and
+               financial pressure of the construction sector limit opportunities
+               for investment in employees and learning from experience; hence,
+               developing principles advocated by HRO and RE such as management
+               commitment, sensitivity to the frontline, prioritisation of
+               safety, empowerment of employees, and a just culture presents a
+               significant challenge. In spite of these barriers, there are also
+               opportunities to be considered for construction to incorporate
+               aspects of HRO and RE at an employee-centred level rather than
+               organisational: Aspects of mindfulness and imagination; RE’s
+               progressive understanding of accidents; and its holistic approach
+               to cultivating resilience. It is argued that these opportunities
+               offer a useful perspective for reframing safety debates in
+               construction. The paper concludes with a research agenda which
+               puts forward the need to extend and adapt aspects of HRO and RE
+               in order to tackle some of the key characteristics of
+               construction, namely subcontractor networks and temporary
+               projects.",
+  month     =  "1~" # aug,
+  year      =  2019,
+  url       = "https://www.sciencedirect.com/science/article/pii/S0925753516301825",
+  keywords  = "Complex systems; Construction; High reliability organising; Human
+               factors; Resilience engineering;Frontiers import [Aug 11];Journal
+               Articles;Workplace Learning;AEC",
+  doi       = "10.1016/j.ssci.2016.08.019",
+  issn      = "0925-7535,1879-1042",
+  language  = "en"
 }
 
 @ARTICLE{Hirschman2009-cs,
@@ -16992,6 +16696,60 @@
   language  = "en"
 }
 
+@ARTICLE{Balasubramanian2024-wi,
+  title     = "Construction industry 4.0 and sustainability: An enabling
+               framework",
+  author    = "Balasubramanian, Sreejith and Shukla, Vinaya and Islam, Nazrul
+               and Manghat, Shalini",
+  journal   = "IEEE transactions on engineering management",
+  publisher = "Institute of Electrical and Electronics Engineers (IEEE)",
+  volume    =  71,
+  pages     = "1--19",
+  abstract  = "Governments worldwide are taking actions to address the
+               construction sector's sustainability concerns, including high
+               carbon emissions, health and safety risks, low productivity, and
+               increasing costs. Applying Industry 4.0 technologies to
+               construction (also referred to as Construction 4.0) could address
+               some of these concerns. However, current understanding about this
+               is quite limited, with previous work being largely fragmented and
+               limited both in terms of technologies as well as their
+               interrelationships with the triple bottom line of sustainability
+               perspectives. The focus of this article is therefore on
+               addressing these gaps by proposing a comprehensive
+               multi-dimensional Construction 4.0 sustainability framework that
+               identifies and categorizes the key Construction 4.0 technologies
+               and their positive and negative impacts on environmental,
+               economic, and social sustainability, and then establishing its
+               applicability/usefulness through an empirical, multimethodology
+               case study assessment of the UAE's construction sector. The
+               findings indicate Construction 4.0’s positive impacts on
+               environmental and economic sustainability that far outweigh its
+               negative effects, although these impacts are comparable with
+               regards to social sustainability. On Construction 4.0
+               technologies itself, their application was found to be nonuniform
+               with greater application seen for building information modeling
+               and automation vis-à-vis others such as cyber-physical systems
+               and smart materials, with significant growth expected in the
+               future for blockchain- and three-dimensional-printing-related
+               technologies. The proposed novel framework could enable the
+               development of policy interventions and support mechanisms to
+               increase Construction 4.0 deployment while addressing its
+               negative sustainability-related impacts. The framework also has
+               the potential to be adapted and applied to other country and
+               sectoral contexts.",
+  year      =  2024,
+  url       = "https://ieeexplore.ieee.org/document/9566480/",
+  keywords  = "Sustainable
+               development;Collaboration;Systematics;Industries;Buildings;Task
+               analysis;Solid modeling;Construction 4.0;economic
+               sustainability;environmental sustainability;Industry 4.0;social
+               sustainability;sustainability framework;United Arab Emirates
+               (UAE);Construction 4-0;Journal Articles;\_In Notion;\_In
+               Readwise;AEC;\_New Literature",
+  doi       = "10.1109/tem.2021.3110427",
+  issn      = "0018-9391,1558-0040"
+}
+
 @ARTICLE{Shum2022-yx,
   title       = "Framing professional learning analytics as reframing oneself",
   author      = "Shum, Simon Buckingham and Littlejohn, Allison and Kitto,
@@ -21429,6 +21187,44 @@
   issn      = "1609-4069"
 }
 
+@ARTICLE{Sal-Moslehian2022-pk,
+  title     = "Diagrammatic modelling tools for grounded Theory research: The
+               implementation of a multi-representational approach",
+  author    = "Sal Moslehian, Anahita and Tucker, Richard and Kocaturk, Tuba",
+  journal   = "International journal of qualitative methods",
+  publisher = "SAGE Publications",
+  volume    =  21,
+  pages     =  160940692211270,
+  abstract  = "Grounded Theory (GT) researchers have an ever-expanding palette
+               of digital tools available to further analyse complex phenomena
+               with interrelated data sets. However, few GT researchers have
+               systematically examined how the use of diagramming tools can
+               enhance analysis. To advance the analytical process of GT, this
+               study develops a multi-representational approach that integrates
+               with research design. After diagrams supportive of GT are
+               identified for their potential improvements to the analytical
+               process, the research focuses on the experience of employing
+               three diagramming tools (Flourish, Observable, and Pajek) in
+               developing two complementary diagrams (Network and Arc diagrams).
+               The use of these tools for analysis is explained in detail for
+               conducting extensive constructivist GT study; illustrated via a
+               case study examining a century of innovation in hospital design.
+               Via this multiple-source case study, this paper demonstrates how
+               the sagacious deployment of diagramming tools, when carefully
+               aligned to research objectives, can complement GT analysis by
+               facilitating systematic thinking and holistic interpretation of
+               hidden patterns.",
+  month     =  "1~" # apr,
+  year      =  2022,
+  url       = "http://dx.doi.org/10.1177/16094069221127069",
+  keywords  = "Grounded Theory;Journal Articles;\_In Notion;\_In Readwise;Design
+               and Design Thinking;Digital Literacies;Research Methods;\_New
+               Literature",
+  doi       = "10.1177/16094069221127069",
+  issn      = "1609-4069",
+  language  = "en"
+}
+
 @ARTICLE{Armstrong2024-pd,
   title     = "An augmented vision of our medical and surgical future, today?",
   author    = "Armstrong, David G and Bazikian, Sebouh and Armstrong, Alexandria
@@ -25415,6 +25211,45 @@
   issn     = "2504-284X"
 }
 
+@ARTICLE{Newton2020-bi,
+  title     = "The case for pragmatic evidence-Based Higher Education: A useful
+               way forward?",
+  author    = "Newton, Philip M and Da Silva, Ana and Berry, Sam",
+  journal   = "Frontiers in education",
+  publisher = "Frontiers Media SA",
+  volume    =  5,
+  abstract  = "Arguments for and against the idea of evidence-based education
+               have occupied the academic literature for decades. Those arguing
+               in favor plead for greater rigor and clarity to determine “what
+               works.” Those arguing against protest that education is a
+               complex, social endeavor and that for epistemological,
+               theoretical and political reasons it is not possible to state,
+               with any useful degree of generalizable certainty, “what works.”
+               While academics argue, policy and practice in Higher Education
+               are beset with problems. Ineffective methods such as “Learning
+               Styles” persist. Teaching quality and teacher performance are
+               measured using subjective and potentially biased feedback.
+               University educators have limited access to professional
+               development, particularly for practical teaching skills. There is
+               a huge volume of higher education research, but it is
+               disconnected from educational practice. Change is needed. We
+               propose a pragmatic model of Evidence-Based Higher Education,
+               empowering educators and others to make judgements about the
+               application of the most useful evidence, in a particular context,
+               including pragmatic considerations of cost and other resources.
+               Implications of the model include a need to emphasize pragmatic
+               approaches to research in higher education, delivering results
+               that are more obviously useful, and a pragmatic focus on
+               practical teaching skills for the development of educators in
+               Higher Education.",
+  month     =  "23~" # dec,
+  year      =  2020,
+  url       = "http://dx.doi.org/10.3389/feduc.2020.583157",
+  keywords  = "Journal Articles;Research Methods",
+  doi       = "10.3389/feduc.2020.583157",
+  issn      = "2504-284X"
+}
+
 @ARTICLE{Panadero2017-tm,
   title       = "A Review of Self-regulated Learning: Six Models and Four
                  Directions for Research",
@@ -26376,6 +26211,41 @@
   language  = "en"
 }
 
+@INCOLLECTION{Sawchuk2013-ux,
+  title     = "Researching workplace learning: An overview and critique",
+  author    = "Sawchuk, Peter H",
+  booktitle = "The SAGE Handbook of Workplace Learning",
+  publisher = "SAGE Publications Ltd",
+  address   = "1 Oliver's Yard, 55 City Road, London EC1Y 1SP United Kingdom",
+  pages     = "165--180",
+  year      =  2013,
+  url       = "http://dx.doi.org/10.4135/9781446200940.n12",
+  keywords  = "SAGE Handbook of Workplace Learning;EPubs Books;\_BibTex to MD
+               Git;\_New Literature;Workplace Learning;ePub;\_In ClickUp;\_In
+               Notion;\_In Readwise;Cross Ref Chapter",
+  doi       = "10.4135/9781446200940.n12",
+  isbn      = "9781847875891,9781446200940"
+}
+
+@INCOLLECTION{Hager2013-ey,
+  title     = "Theories of workplace learning",
+  author    = "Hager, Paul",
+  editor    = "Malloch, Margaret and Cairns, Len and Evans, Karen and O'Connor,
+               Bridget N",
+  booktitle = "The SAGE Handbook of Workplace Learning",
+  publisher = "SAGE Publications Ltd",
+  address   = "1 Oliver's Yard, 55 City Road, London EC1Y 1SP United Kingdom",
+  pages     = "17--31",
+  year      =  2013,
+  url       = "http://dx.doi.org/10.4135/9781446200940.n2",
+  keywords  = "SAGE Handbook of Workplace Learning;00\_TO READ;EPubs
+               Books;Upgrade Viva Prep Reading;\_BibTex to MD Git;\_New
+               Literature;Workplace Learning;ePub;Important;\_In ClickUp;\_In
+               Notion;\_In Readwise;Cross Ref Chapter;Readwise Reader",
+  doi       = "10.4135/9781446200940.n2",
+  isbn      = "9781847875891,9781446200940"
+}
+
 @INCOLLECTION{Diamond2001-mz,
   title     = "Chapter 8 - From Samples to Populations",
   author    = "Diamond, I and Jefferies, J",
@@ -26405,6 +26275,22 @@
                Methods",
   doi       = "10.4135/9781452218403.n25",
   isbn      = "9781412981644,9781452218403"
+}
+
+@INCOLLECTION{Charmaz2001-wf,
+  title     = "Grounded theory in ethnography",
+  author    = "Charmaz, Kathy and Mitchell, Richard G",
+  booktitle = "Handbook of Ethnography",
+  publisher = "SAGE Publications Ltd",
+  address   = "1 Oliver's Yard, 55 City Road, London England EC1Y 1SP United
+               Kingdom",
+  pages     = "160--174",
+  year      =  2001,
+  url       = "https://methods.sagepub.com/book/handbook-of-ethnography/n11.xml",
+  keywords  = "Theory and Methods;2\_Upgrade MAY 2023;Grounded Theory;\_BibTex
+               to MD Git;Research Methods",
+  doi       = "10.4135/9781848608337.n11",
+  isbn      = "9780761958246,9781848608337"
 }
 
 @ARTICLE{Binega2025-rg,
@@ -31429,6 +31315,30 @@
   language  = "en"
 }
 
+@ARTICLE{Janesick1994-ky,
+  title     = "The dance of qualitative research design: Metaphor, methodolatry,
+               and meaning",
+  author    = "Janesick, Valerie J",
+  editor    = "Denzin, Norman K",
+  publisher = "SAGE Publications",
+  address   = "London, England",
+  volume    =  643,
+  pages     = "209--219",
+  abstract  = "discuss the essence of qualitative research design [using the
+               metaphor of dance] / the design serves as a foundation for the
+               understanding of the participants' worlds and the meaning of
+               shared experience between the researcher and participants in a
+               given social context / see qualitative research as interpretive
+               qualitative research design as choreography / design decisions at
+               the beginning of the study / the pilot study and ongoing design
+               decisions / design decisions made at the end of study / major
+               considerations in writing the narrative (PsycINFO Database Record
+               (c) 2019 APA, all rights reserved)",
+  year      =  1994,
+  url       = "https://psycnet.apa.org/fulltext/1994-98625-011.pdf",
+  keywords  = "Research Methods"
+}
+
 @TECHREPORT{Woetzel2016-gs,
   title       = "A tool kit to close California’s housing gap: 3.5 million homes
                  by 2025",
@@ -35021,6 +34931,36 @@
   language = "en"
 }
 
+@BOOK{Creswell2017-uf,
+  title     = "Qualitative inquiry and research design (international student
+               edition): Choosing among five approaches",
+  author    = "Creswell, John W and Poth, Cheryl N",
+  publisher = "SAGE Publications",
+  address   = "Thousand Oaks, CA",
+  edition   =  4,
+  abstract  = "In the Fourth Edition of this bestselling book, John W Creswell
+               and new co-author Cheryl N Poth explore the philosophical
+               underpinnings, history and key elements of each of five
+               qualitative inquiry traditions: narrative research,
+               phenomenology, grounded theory, ethnography and case study -
+               putting them side by side, so that we can see the differences.
+               The authors relate research designs to each of the traditions of
+               enquiry. They compare theoretical frameworks and ways to employ
+               standards of quality, as well as strategies for writing
+               introductions to studies, collecting data, analyzing data,
+               writing a narrative and verifying results. New in this edition:
+               Updated materials on each tradition More on interpretive
+               frameworks and ethics More visual depictions of the five
+               approaches Two new topical articles in Chapter 5, reproduced in
+               full in the appendices.",
+  month     =  "28~" # mar,
+  year      =  2017,
+  url       = "https://play.google.com/store/books/details?id=UgFIMQAACAAJ",
+  keywords  = "Theory and Methods;Research Methods",
+  isbn      =  9781506361178,
+  language  = "en"
+}
+
 @BOOK{Dewey1916-uh,
   title     = "Democracy and Education: An Introduction to the Philosophy of
                Education",
@@ -36248,6 +36188,31 @@
                  MD Git;Cited for Frontiers;AEC"
 }
 
+@BOOK{Stake1995-qy,
+  title     = "The art of case study research",
+  author    = "Stake, Robert E",
+  publisher = "SAGE Publications",
+  address   = "Thousand Oaks, CA",
+  abstract  = "This book presents a disciplined, qualitative exploration of case
+               study methods by drawing from naturalistic, holistic,
+               ethnographic, phenomenological and biographic research methods.
+               Robert E. Stake uses and annotates an actual case study to answer
+               such questions as: How is the case selected? How do you select
+               the case which will maximize what can be learned? How can what is
+               learned from one case be applied to another? How can what is
+               learned from a case be interpreted? In addition, the book covers:
+               the differences between quantitative and qualitative approaches;
+               data-gathering including document review; coding, sorting and
+               pattern analysis; the roles of the researcher; triangulation; and
+               reporting.",
+  month     =  "18~" # may,
+  year      =  1995,
+  url       = "https://play.google.com/store/books/details?id=sIMOAQAAMAAJ",
+  keywords  = "Rapid Qualitative Research;Fieldwork Methodology;Research Methods",
+  isbn      =  9780803957664,
+  language  = "en"
+}
+
 @MISC{Fong2017-jg,
   title     = "The Big Debate About the Future of Work, Explained",
   author    = "Fong, Joss",
@@ -36669,6 +36634,48 @@
   month       =  "1~" # nov,
   year        =  2012,
   keywords    = "Government Report;Report;Employment;Labor"
+}
+
+@BOOK{Kumar2019-dp,
+  title     = "Research methodology: A step-by-step guide for beginners",
+  author    = "Kumar, Ranjit",
+  publisher = "SAGE Publications",
+  address   = "London, England",
+  edition   =  5,
+  abstract  = "Designed with students, for students Eight steps, two pathways,
+               one book. The Fifth Edition of the bestseller Research
+               Methodology has reimagined, redesigned, and fully renovated how a
+               textbook can help students achieve success in their methods
+               course or research project. Eight steps: Foolproof for any
+               beginner researcher, the book breaks the process of designing and
+               doing a research project into achievable stages. It delivers
+               students from research problem to their written research report
+               at the pace they need, with clear explanations, DIY tasks and
+               study skills support. In a new landscape format it presents
+               figures, models and visualizations elegantly, so they don't break
+               over a page, making even complex concepts easier to understand.
+               Two pathways: With an innovative, beautiful design, regular
+               progress checkpoints have been built into the book and its online
+               resources. As students proceed through the 8 steps, each chapter
+               provides regular opportunities for students to check
+               understanding or give themselves a challenge. Each pathway then
+               gives them the resources they need. Confused? Stop, practise with
+               quizzes and flashcards, or use a video to look at a concept a
+               different way. Up for a challenge? Access a wealth of additional
+               material including research articles, readings, case studies,
+               activities, bibliography tools and inspiration to pursue your
+               curiosity, impress your lecturer, and nail your assignments. With
+               this one book, every student gets what they need to succeed. It
+               is the perfect essential text for students and beginner
+               researchers across the social sciences.",
+  month     =  "30~" # jan,
+  year      =  2019,
+  url       = "https://us.sagepub.com/en-us/nam/research-methodology/book257990",
+  keywords  = "Theory and Methods;2\_Upgrade MAY 2023;00\_TO READ;EPubs
+               Books;3\_Upgrade OCT 2023;\_BibTex to MD Git;ePub;Research
+               Methods;\_In Notion;\_In Readwise;Important;Read;Book (physical)",
+  isbn      =  9781526449900,
+  language  = "en"
 }
 
 @ARTICLE{Auti2019-nb,
