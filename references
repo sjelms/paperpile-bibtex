@@ -35952,7 +35952,7 @@
   author    = "Boblin, Sheryl L and Ireland, Sandra and Kirkpatrick, Helen and
                Robertson, Kim",
   journal   = "Qualitative health research",
-  publisher = "SAGE Publications Inc",
+  publisher = "SAGE Publications",
   volume    =  23,
   number    =  9,
   pages     = "1267--1275",
@@ -35975,7 +35975,7 @@
                rationale for our decisions, and present lessons learned.",
   month     =  "1~" # sep,
   year      =  2013,
-  url       = "https://doi.org/10.1177/1049732313502128",
+  url       = "http://dx.doi.org/10.1177/1049732313502128",
   keywords  = "Rapid Qualitative Research;Fieldwork Methodology;Research Methods",
   doi       = "10.1177/1049732313502128",
   issn      = "1049-7323"
