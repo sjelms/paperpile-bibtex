@@ -41130,12 +41130,16 @@
 }
 
 @ARTICLE{Eccles2025-kq,
-  title   = "Grim times for graduates facing worst jobs market in a generation",
-  author  = "Eccles, Louise and Treanor, Jill",
-  journal = "The Times",
-  month   =  "6~" # sep,
-  year    =  2025,
-  url     = "https://www.thetimes.com/uk/education/article/graduate-worst-jobs-markets-in-generation-czl9gvs5p",
-  annote  = "Education and Early Years Editor: Louise Eccles; City Editor: Jill
-             Treanor. Saturday edition"
+  title    = "Grim Times for Graduates Facing Worst Jobs Market in a Generation",
+  author   = "Eccles, Louise and Treanor, Jill",
+  journal  = "Times (London, England: 1788)",
+  abstract = "PwC has announced it will hire 200 fewer university leavers,
+              blaming the influence of AI and the economic slowdown and other
+              firms are following suit",
+  month    =  "6~" # sep,
+  year     =  2025,
+  url      = "https://www.thetimes.com/uk/education/article/graduate-worst-jobs-markets-in-generation-czl9gvs5p",
+  issn     = "0140-0460,1363-7746",
+  annote   = "Education and Early Years Editor: Louise Eccles; City Editor: Jill
+              Treanor. Saturday edition"
 }
