@@ -1454,19 +1454,6 @@
   issn      = "0004-8658"
 }
 
-@BOOK{Wallbank2018-dj,
-  title     = "Academic Writing and Dyslexia A Visual Guide to Writing at
-               University",
-  author    = "Wallbank, Adrian J",
-  publisher = "SAGE Publications",
-  year      =  2018,
-  url       = "https://openlibrary.org/books/OL37308376M.opds",
-  keywords  = "EPubs Books;PhD Study and Support;Neurodiversity;\_BibTex to MD
-               Git;ePub;Neurodivergent and ADHD",
-  isbn      =  9781351966894,
-  language  = "en"
-}
-
 @ARTICLE{Maravita2004-rz,
   title       = "Tools for the body (schema)",
   author      = "Maravita, Angelo and Iriki, Atsushi",
@@ -1829,33 +1816,6 @@
                Articles;\_New Literature;AEC;\_XR MR VR AR;Training",
   doi       = "10.1016/j.aei.2021.101469",
   issn      = "1474-0346,1873-5320",
-  language  = "en"
-}
-
-@BOOK{Corbin2015-yj,
-  title     = "Basics of Qualitative Research",
-  author    = "Corbin, Juliet and Strauss, Anselm",
-  publisher = "SAGE Publications",
-  abstract  = "Offering immensely practical advice, Basics of Qualitative
-               Research, Fourth Edition presents methods that enable researchers
-               to analyze, interpret, and make sense of their data, and
-               ultimately build theory from it. Authors Juliet Corbin and Anselm
-               Strauss (late of the University of San Francisco and co-creator
-               of grounded theory) walk readers step-by-step through the
-               research process—from the formation of the research question
-               through several approaches to coding, analysis, and reporting.
-               Packed with definitions and illustrative examples, this highly
-               accessible book concludes with chapters that present criteria for
-               evaluating a study, as well as responses to common questions
-               posed by students of qualitative research. New end-of-chapter
-               “Insider Insights” contributed by qualitative researchers give
-               readers a sense of what it’s like to work in the field.
-               Significantly revised, this Fourth Edition remains a landmark
-               volume in the study of qualitative methods.",
-  year      =  2015,
-  url       = "https://play.google.com/store/books/details?id=Dc45DQAAQBAJ",
-  keywords  = "Grounded Theory",
-  isbn      =  9781412997461,
   language  = "en"
 }
 
@@ -2832,22 +2792,6 @@
   isbn      = "9781847875891,9781446200940"
 }
 
-@BOOK{Braun2021-ah,
-  title     = "Thematic Analysis: a Practical Guide",
-  author    = "Braun, Virginia and Clarke, Victoria",
-  publisher = "SAGE Publications",
-  address   = "New Delhi, India",
-  abstract  = "This book is the definitive approach to thematic analysis,
-               offering a highly accessible and practical discussion of doing
-               TA.",
-  month     =  "13~" # oct,
-  year      =  2021,
-  keywords  = "\_BibTex to MD Git;Research Methods;\_New Literature;Book
-               (physical)",
-  isbn      =  9781526417305,
-  language  = "en"
-}
-
 @INCOLLECTION{Hoeve2019-ip,
   title       = "Innovative Work-Based Learning for Responsive Vocational
                  Education and Training ({VET}): Lessons From Dutch Higher {VET}",
@@ -3157,40 +3101,6 @@
   keywords  = "\_BibTex to MD Git;EPubs Books;ePub;AEC",
   isbn      =  9781118745137,
   language  = "en"
-}
-
-@BOOK{Denzin2023-mp,
-  title       = "The {SAGE} Handbook of Qualitative Research",
-  editor      = "Denzin, Norman K and Lincoln, Yvonna S and Giardina, Michael D
-                 and Cannella, Gaile S",
-  affiliation = "University of Illinois, Urbana - Champaign, USA; Texas A\&M
-                 University, USA; Florida State University, USA; Independent
-                 Scholar",
-  publisher   = "SAGE Publications",
-  address     = "Thousand Oaks, CA",
-  edition     =  6,
-  abstract    = "This new edition of the SAGE Handbook of Qualitative Research
-                 represents the sixth generation of the ongoing conversation
-                 about the discipline, practice, and conduct of qualitative
-                 inquiry. As with earlier editions, the Sixth Edition is
-                 virtually a new volume, with 27 of the 34 chapters representing
-                 new topics or approaches not seen in the previous edition,
-                 including intersectionality; critical disability research;
-                 postcolonial and decolonized knowledge; diffraction and
-                 intra-action; social media methodologies; thematic analysis,
-                 collaborative inquiry from the borderlands; qualitative inquiry
-                 and public health science; co-production and the politics of
-                 impact; publishing qualitative research; and academic survival.
-                 Authors in the Sixth Edition engage with questions of ontology
-                 and epistemology, the politics of the research act, the
-                 changing landscape of higher education, and the role
-                 qualitative researchers play in contributing to a more just,
-                 egalitarian society.",
-  month       =  "7~" # apr,
-  year        =  2023,
-  keywords    = "\_BibTex to MD Git;ePub;Research Methods",
-  isbn        =  9781071836743,
-  language    = "en"
 }
 
 @ARTICLE{Legg2007-tc,
@@ -35661,6 +35571,37 @@
   language  = "en"
 }
 
+@BOOK{Corbin2015-yj,
+  title     = "Basics of qualitative research: Techniques and procedures for
+               developing grounded theory",
+  author    = "Corbin, Juliet M and Strauss, Anselm C",
+  publisher = "SAGE Publications",
+  address   = "Thousand Oaks, CA",
+  edition   =  4,
+  abstract  = "Offering immensely practical advice, Basics of Qualitative
+               Research, Fourth Edition presents methods that enable researchers
+               to analyze, interpret, and make sense of their data, and
+               ultimately build theory from it. Authors Juliet Corbin and Anselm
+               Strauss (late of the University of San Francisco and co-creator
+               of grounded theory) walk readers step-by-step through the
+               research process—from the formation of the research question
+               through several approaches to coding, analysis, and reporting.
+               Packed with definitions and illustrative examples, this highly
+               accessible book concludes with chapters that present criteria for
+               evaluating a study, as well as responses to common questions
+               posed by students of qualitative research. New end-of-chapter
+               “Insider Insights” contributed by qualitative researchers give
+               readers a sense of what it’s like to work in the field.
+               Significantly revised, this Fourth Edition remains a landmark
+               volume in the study of qualitative methods.",
+  month     =  "17~" # mar,
+  year      =  2015,
+  url       = "https://play.google.com/store/books/details?id=Dc45DQAAQBAJ",
+  keywords  = "Grounded Theory",
+  isbn      =  9781412997461,
+  language  = "en"
+}
+
 @ARTICLE{Self1998-fu,
   title    = "The defining characteristics of intelligent tutoring systems
               research: {ITSs} care, precisely",
@@ -38473,6 +38414,22 @@
   language  = "en"
 }
 
+@BOOK{Braun2021-ah,
+  title     = "Thematic analysis: A practical guide",
+  author    = "Braun, Virginia and Clarke, Victoria",
+  publisher = "SAGE Publications",
+  address   = "London, England",
+  abstract  = "This book is the definitive approach to thematic analysis,
+               offering a highly accessible and practical discussion of doing
+               TA.",
+  month     =  "13~" # oct,
+  year      =  2021,
+  keywords  = "\_BibTex to MD Git;Research Methods;\_New Literature;Book
+               (physical)",
+  isbn      =  9781526417305,
+  language  = "en"
+}
+
 @BOOK{Childers2017-ps,
   title     = "The riddle of the Sands",
   author    = "Childers, Erskine",
@@ -38773,6 +38730,21 @@
   keywords    = "Notion Catalogued;\_BibTex to MD Git;\_Cataloged",
   isbn        =  9780648857129,
   language    = "en"
+}
+
+@BOOK{Wallbank2018-dj,
+  title     = "Academic writing and dyslexia: A visual guide to writing at
+               university",
+  author    = "Wallbank, Adrian J",
+  publisher = "Routledge",
+  address   = "London, England",
+  month     =  "29~" # jan,
+  year      =  2018,
+  url       = "https://openlibrary.org/books/OL37308376M.opds",
+  keywords  = "EPubs Books;PhD Study and Support;Neurodiversity;\_BibTex to MD
+               Git;ePub;Neurodivergent and ADHD",
+  isbn      =  9781351966894,
+  language  = "en"
 }
 
 @TECHREPORT{Brennan2024-pe,
@@ -39455,6 +39427,40 @@
   howpublished = "\url{http://193.61.4.246/dnl/wp-content/uploads/2019/11/Thomas-Porayska-Pomsta.pdf}",
   note         = "Accessed: 2022-7-4",
   keywords     = "AIEd [CCME0123];Course Assignment"
+}
+
+@BOOK{Denzin2023-mp,
+  title       = "The {SAGE} handbook of qualitative research",
+  editor      = "Denzin, Norman K and Lincoln, Yvonna S and Giardina, Michael D
+                 and Cannella, Gaile S",
+  affiliation = "University of Illinois, Urbana - Champaign, USA; Texas A\&M
+                 University, USA; Florida State University, USA; Independent
+                 Scholar",
+  publisher   = "SAGE Publications",
+  address     = "Thousand Oaks, CA",
+  edition     =  6,
+  abstract    = "This new edition of the SAGE Handbook of Qualitative Research
+                 represents the sixth generation of the ongoing conversation
+                 about the discipline, practice, and conduct of qualitative
+                 inquiry. As with earlier editions, the Sixth Edition is
+                 virtually a new volume, with 27 of the 34 chapters representing
+                 new topics or approaches not seen in the previous edition,
+                 including intersectionality; critical disability research;
+                 postcolonial and decolonized knowledge; diffraction and
+                 intra-action; social media methodologies; thematic analysis,
+                 collaborative inquiry from the borderlands; qualitative inquiry
+                 and public health science; co-production and the politics of
+                 impact; publishing qualitative research; and academic survival.
+                 Authors in the Sixth Edition engage with questions of ontology
+                 and epistemology, the politics of the research act, the
+                 changing landscape of higher education, and the role
+                 qualitative researchers play in contributing to a more just,
+                 egalitarian society.",
+  month       =  "7~" # apr,
+  year        =  2023,
+  keywords    = "\_BibTex to MD Git;ePub;Research Methods",
+  isbn        =  9781071836743,
+  language    = "en"
 }
 
 @ARTICLE{Rawlings2021-tt,
