@@ -34717,7 +34717,8 @@
                University, UK",
   year      =  2018,
   url       = "https://play.google.com/store/books/details?id=BBnJtAEACAAJ",
-  keywords  = "Theory and Methods;00\_TO READ;Important;Research Methods",
+  keywords  = "Theory and Methods;00\_TO READ;\_BibTex to MD
+               Git;Important;Research Methods",
   isbn      =  9780335243389,
   language  = "en"
 }
