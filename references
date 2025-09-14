@@ -41183,6 +41183,7 @@
   edition     =  6,
   month       =  "7~" # apr,
   year        =  2023,
+  keywords    = "ePub;Research Methods",
   isbn        =  9781071836743,
   language    = "en"
 }
