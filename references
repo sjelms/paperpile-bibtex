@@ -7532,7 +7532,7 @@
   author    = "Field, A",
   editor    = "Field, Andy",
   booktitle = "Discovering Statistics Using SPSS",
-  publisher = "SAGE Publications, Inc.",
+  publisher = "SAGE Publications",
   address   = "London",
   edition   = "3rd Revised edition",
   month     =  "1~" # aug,
