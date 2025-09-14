@@ -19722,7 +19722,7 @@
   title     = "The Video Camera Spoiled My Ethnography: A Critical Approach",
   author    = "Gregory, Katherine",
   journal   = "International Journal of Qualitative Methods",
-  publisher = "SAGE Publications Inc",
+  publisher = "SAGE Publications",
   volume    =  19,
   pages     =  1609406920963761,
   abstract  = "As videography and other media technologies are normalized in the
@@ -19738,7 +19738,7 @@
                practitioner.",
   month     =  "1~" # jan,
   year      =  2020,
-  url       = "https://doi.org/10.1177/1609406920963761",
+  url       = "http://dx.doi.org/10.1177/1609406920963761",
   keywords  = "Body-Worn Cameras (BWCs);Fieldwork Methodology",
   doi       = "10.1177/1609406920963761",
   issn      = "1609-4069"
