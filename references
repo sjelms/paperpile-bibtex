@@ -572,6 +572,22 @@
   isbn      = "9781446248645,9781473920156"
 }
 
+@ARTICLE{Finkelstein1982-sv,
+  title     = "What is Not Measurable, Make Measurable",
+  author    = "Finkelstein, Ludwik",
+  journal   = "Measurement and Control",
+  publisher = "SAGE Publications",
+  volume    =  15,
+  number    =  1,
+  pages     = "25--32",
+  month     =  "1~" # jan,
+  year      =  1982,
+  url       = "http://journals.sagepub.com/doi/10.1177/002029408201500104",
+  keywords  = "2\_Upgrade MAY 2023;Journal Articles;\_BibTex to MD Git",
+  doi       = "10.1177/002029408201500104",
+  issn      = "0020-2940"
+}
+
 @BOOK{Rudestam2014-yd,
   title     = "Surviving Your Dissertation: A Comprehensive Guide to Content and
                Process",
@@ -1508,6 +1524,19 @@
   issn      = "0925-7535"
 }
 
+@BOOK{Wallbank2018-dj,
+  title     = "Academic Writing and Dyslexia A Visual Guide to Writing at
+               University",
+  author    = "Wallbank, Adrian J",
+  publisher = "SAGE Publications",
+  year      =  2018,
+  url       = "https://openlibrary.org/books/OL37308376M.opds",
+  keywords  = "EPubs Books;PhD Study and Support;Neurodiversity;\_BibTex to MD
+               Git;ePub;Neurodivergent and ADHD",
+  isbn      =  9781351966894,
+  language  = "en"
+}
+
 @ARTICLE{Maravita2004-rz,
   title       = "Tools for the body (schema)",
   author      = "Maravita, Angelo and Iriki, Atsushi",
@@ -1870,6 +1899,33 @@
                Articles;\_New Literature;AEC;\_XR MR VR AR;Training",
   doi       = "10.1016/j.aei.2021.101469",
   issn      = "1474-0346,1873-5320",
+  language  = "en"
+}
+
+@BOOK{Corbin2015-yj,
+  title     = "Basics of Qualitative Research",
+  author    = "Corbin, Juliet and Strauss, Anselm",
+  publisher = "SAGE Publications",
+  abstract  = "Offering immensely practical advice, Basics of Qualitative
+               Research, Fourth Edition presents methods that enable researchers
+               to analyze, interpret, and make sense of their data, and
+               ultimately build theory from it. Authors Juliet Corbin and Anselm
+               Strauss (late of the University of San Francisco and co-creator
+               of grounded theory) walk readers step-by-step through the
+               research process—from the formation of the research question
+               through several approaches to coding, analysis, and reporting.
+               Packed with definitions and illustrative examples, this highly
+               accessible book concludes with chapters that present criteria for
+               evaluating a study, as well as responses to common questions
+               posed by students of qualitative research. New end-of-chapter
+               “Insider Insights” contributed by qualitative researchers give
+               readers a sense of what it’s like to work in the field.
+               Significantly revised, this Fourth Edition remains a landmark
+               volume in the study of qualitative methods.",
+  year      =  2015,
+  url       = "https://play.google.com/store/books/details?id=Dc45DQAAQBAJ",
+  keywords  = "Grounded Theory",
+  isbn      =  9781412997461,
   language  = "en"
 }
 
@@ -2278,6 +2334,47 @@
                Methods",
   isbn      =  9780761914358,
   language  = "en"
+}
+
+@INCOLLECTION{Janesick1994-ky,
+  title     = "The Dance of Qualitative Research Design: Metaphor, Methodolatry,
+               and Meaning",
+  author    = "Janesick, Valerie J",
+  editor    = "Denzin, Norman K",
+  booktitle = "Handbook of Qualitative Research",
+  publisher = "SAGE Publications",
+  address   = "London, England",
+  volume    =  643,
+  pages     = "209--219",
+  abstract  = "discuss the essence of qualitative research design [using the
+               metaphor of dance] / the design serves as a foundation for the
+               understanding of the participants' worlds and the meaning of
+               shared experience between the researcher and participants in a
+               given social context / see qualitative research as interpretive
+               qualitative research design as choreography / design decisions at
+               the beginning of the study / the pilot study and ongoing design
+               decisions / design decisions made at the end of study / major
+               considerations in writing the narrative (PsycINFO Database Record
+               (c) 2019 APA, all rights reserved)",
+  year      =  1994,
+  url       = "https://psycnet.apa.org/fulltext/1994-98625-011.pdf",
+  keywords  = "Research Methods"
+}
+
+@INCOLLECTION{Charmaz2001-wf,
+  title     = "Grounded theory in ethnography",
+  author    = "Charmaz, Kathy and Mitchell, Richard G",
+  booktitle = "Handbook of Ethnography",
+  publisher = "SAGE Publications",
+  address   = "1 Oliver's Yard, 55 City Road, London England EC1Y 1SP United
+               Kingdom",
+  pages     = "160--174",
+  year      =  2001,
+  url       = "https://methods.sagepub.com/book/handbook-of-ethnography/n11.xml",
+  keywords  = "Theory and Methods;2\_Upgrade MAY 2023;Grounded Theory;\_BibTex
+               to MD Git;Research Methods",
+  doi       = "10.4135/9781848608337.n11",
+  isbn      = "9780761958246,9781848608337"
 }
 
 @BOOK{Kumar2019-dp,
@@ -2962,6 +3059,44 @@
   language  = "en"
 }
 
+@ARTICLE{Wood1978-ls,
+  title     = "An Experimental Evaluation of Four Face-to-Face Teaching
+               Strategies",
+  author    = "Wood, David and Wood, Heather and Middleton, David",
+  journal   = "International journal of behavioral development",
+  publisher = "SAGE Publications",
+  volume    =  1,
+  number    =  2,
+  pages     = "131--147",
+  abstract  = "This study tests a number of predictions about the effectiveness
+               of four different strategies for teaching three to four year old
+               children how to master a difficult construction task. These
+               strategies were derived from previous studies of mother-child and
+               experimenter-child interactions in an assisted learning
+               situation. One strategy the 'contingent approach' was based
+               primarily on theoretical considerations and when used in earlier
+               work as a basis for describing and evaluating maternal teaching
+               it enabled us to predict how well children taught by their
+               mothers would do with a task after instruction. The three other
+               strategies are idealised versions of the teaching methods used by
+               less successful mothers-as-teachers. On the basis of our analysis
+               of effective instruction it is possible to predict how well
+               children taught by these four different techniques by a trained
+               instructor should perform after instruction.The present study
+               largely confirms these predictions. In so doing, it strengthens
+               the supposition that it was maternal behaviour in the earlier
+               work which influenced the children's task abilities and it also
+               corroborates various hypotheses about the essential nature of
+               effective face-to-face instruction.",
+  month     =  "1~" # apr,
+  year      =  1978,
+  url       = "https://doi.org/10.1177/016502547800100203",
+  keywords  = "Notion Catalogued;Journal Articles;\_BibTex to MD
+               Git;Scaffolding;Knowledge - Skill Acquisition;\_Cataloged",
+  doi       = "10.1177/016502547800100203",
+  issn      = "0165-0254"
+}
+
 @ARTICLE{Nassereddine2019-ox,
   title     = "Augmented reality-enabled production strategy process",
   author    = "Nassereddine, Hala and Veeramani, Dharmaraj and Hanna, Awad",
@@ -3019,6 +3154,22 @@
                Literature",
   doi       = "10.4135/9781446200940.n7",
   isbn      = "9781847875891,9781446200940"
+}
+
+@BOOK{Braun2021-ah,
+  title     = "Thematic Analysis: a Practical Guide",
+  author    = "Braun, Virginia and Clarke, Victoria",
+  publisher = "SAGE Publications",
+  address   = "New Delhi, India",
+  abstract  = "This book is the definitive approach to thematic analysis,
+               offering a highly accessible and practical discussion of doing
+               TA.",
+  month     =  "13~" # oct,
+  year      =  2021,
+  keywords  = "\_BibTex to MD Git;Research Methods;\_New Literature;Book
+               (physical)",
+  isbn      =  9781526417305,
+  language  = "en"
 }
 
 @INCOLLECTION{Hoeve2019-ip,
@@ -20369,22 +20520,6 @@
   issn      = "0019-7939"
 }
 
-@ARTICLE{Finkelstein1982-sv,
-  title     = "What is Not Measurable, Make Measurable",
-  author    = "Finkelstein, Ludwik",
-  journal   = "Measurement and Control",
-  publisher = "SAGE Publications Ltd",
-  volume    =  15,
-  number    =  1,
-  pages     = "25--32",
-  month     =  "1~" # jan,
-  year      =  1982,
-  url       = "http://journals.sagepub.com/doi/10.1177/002029408201500104",
-  keywords  = "2\_Upgrade MAY 2023;Journal Articles;\_BibTex to MD Git",
-  doi       = "10.1177/002029408201500104",
-  issn      = "0020-2940"
-}
-
 @ARTICLE{Von_Karolyi2001-ee,
   title       = "Visual-spatial strength in dyslexia: rapid discrimination of
                  impossible figures",
@@ -20577,44 +20712,6 @@
   doi         = "10.1177/0162643416660835",
   issn        = "0162-6434,2381-3121",
   language    = "en"
-}
-
-@ARTICLE{Wood1978-ls,
-  title     = "An Experimental Evaluation of Four Face-to-Face Teaching
-               Strategies",
-  author    = "Wood, David and Wood, Heather and Middleton, David",
-  journal   = "International journal of behavioral development",
-  publisher = "SAGE Publications Ltd",
-  volume    =  1,
-  number    =  2,
-  pages     = "131--147",
-  abstract  = "This study tests a number of predictions about the effectiveness
-               of four different strategies for teaching three to four year old
-               children how to master a difficult construction task. These
-               strategies were derived from previous studies of mother-child and
-               experimenter-child interactions in an assisted learning
-               situation. One strategy the 'contingent approach' was based
-               primarily on theoretical considerations and when used in earlier
-               work as a basis for describing and evaluating maternal teaching
-               it enabled us to predict how well children taught by their
-               mothers would do with a task after instruction. The three other
-               strategies are idealised versions of the teaching methods used by
-               less successful mothers-as-teachers. On the basis of our analysis
-               of effective instruction it is possible to predict how well
-               children taught by these four different techniques by a trained
-               instructor should perform after instruction.The present study
-               largely confirms these predictions. In so doing, it strengthens
-               the supposition that it was maternal behaviour in the earlier
-               work which influenced the children's task abilities and it also
-               corroborates various hypotheses about the essential nature of
-               effective face-to-face instruction.",
-  month     =  "1~" # apr,
-  year      =  1978,
-  url       = "https://doi.org/10.1177/016502547800100203",
-  keywords  = "Notion Catalogued;Journal Articles;\_BibTex to MD
-               Git;Scaffolding;Knowledge - Skill Acquisition;\_Cataloged",
-  doi       = "10.1177/016502547800100203",
-  issn      = "0165-0254"
 }
 
 @ARTICLE{Dreyfus2004-ip,
