@@ -35773,12 +35773,12 @@
   isbn      =  9789087908133
 }
 
-@ARTICLE{Sal_Moslehian2022-bt,
+@ARTICLE{Sal-Moslehian2022-pk,
   title     = "Diagrammatic Modelling Tools for Grounded Theory Research: The
                Implementation of a Multi-Representational Approach",
   author    = "Sal Moslehian, Anahita and Tucker, Richard and Kocaturk, Tuba",
   journal   = "International Journal of Qualitative Methods",
-  publisher = "SAGE Publications Inc",
+  publisher = "SAGE Publications",
   volume    =  21,
   pages     =  16094069221127069,
   abstract  = "Grounded Theory (GT) researchers have an ever-expanding palette
@@ -35802,7 +35802,7 @@
                hidden patterns.",
   month     =  "1~" # apr,
   year      =  2022,
-  url       = "https://doi.org/10.1177/16094069221127069",
+  url       = "http://dx.doi.org/10.1177/16094069221127069",
   keywords  = "Grounded Theory;Journal Articles;\_In Notion;\_In Readwise;Design
                and Design Thinking;Digital Literacies;Research Methods;\_New
                Literature",
