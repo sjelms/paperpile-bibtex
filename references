@@ -13712,6 +13712,17 @@
   language  = "en"
 }
 
+@BOOK{Frey2025-re,
+  title     = "How progress ends",
+  author    = "Frey, Carl Benedikt",
+  publisher = "Princeton University Press",
+  address   = "Princeton, NJ",
+  month     =  "16~" # sep,
+  year      =  2025,
+  isbn      =  9780691235073,
+  language  = "en"
+}
+
 @BOOK{Olson1982-xs,
   title     = "The Rise and Decline of Nations: Economic Growth, Stagflation,
                and Social Rigidities",
