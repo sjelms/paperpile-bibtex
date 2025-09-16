@@ -40418,7 +40418,7 @@
   edition   =  1,
   month     =  "16~" # sep,
   year      =  2025,
-  keywords  = "Audiobook;ePub;Economics",
+  keywords  = "EPubs Books;Audible;\_BibTex to MD Git;Audiobook;ePub;Economics",
   isbn      =  9780691235073,
   language  = "en"
 }
