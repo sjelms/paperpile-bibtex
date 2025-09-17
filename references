@@ -41298,6 +41298,7 @@
                and software is increasing faster than the rate of employment.",
   month     =  "23~" # jan,
   year      =  2012,
+  keywords  = "Book (physical)",
   isbn      =  9780984725113
 }
 
@@ -41362,6 +41363,7 @@
                increasingly interdependent global Collaborative Commons.",
   month     =  "1~" # apr,
   year      =  2014,
+  keywords  = "Book (physical)",
   isbn      =  9781137437761
 }
 
