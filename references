@@ -41616,9 +41616,11 @@
 }
 
 @BOOK{Smith2012-oh,
-  title    = "Instructional design",
-  author   = "Smith, Patricia Lucille and Ragan, Tillman J",
-  year     =  2012,
-  isbn     =  9781118520734,
-  language = "en"
+  title     = "Instructional design",
+  author    = "Smith, Patricia Lucille and Ragan, Tillman J",
+  publisher = "John Wiley and Sons",
+  edition   =  3,
+  year      =  2012,
+  isbn      =  9781118520734,
+  language  = "en"
 }
