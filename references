@@ -2268,24 +2268,6 @@
   annote      = "Research Brief"
 }
 
-@ARTICLE{Susskind2017-gs,
-  title     = "The Future of the Professions: How Technology Will Transform the
-               Work of Human Experts",
-  author    = "Susskind, Richard and Susskind, Daniel",
-  journal   = "Journal of nursing regulation",
-  publisher = "Elsevier",
-  volume    =  8,
-  number    =  2,
-  pages     =  52,
-  month     =  "1~" # jul,
-  year      =  2017,
-  url       = "https://doi.org/10.1016/S2155-8256(17)30099-6",
-  keywords  = "marlin\_jnr8;Future of Work",
-  doi       = "10.1016/S2155-8256(17)30099-6",
-  issn      = "2155-8256,2155-8264",
-  annote    = "doi: 10.1016/S2155-8256(17)30099-6"
-}
-
 @INCOLLECTION{Littlejohn2022-wy,
   title     = "Challenges of digital professional learning: Digital technology
                systems are no substitute for human agency",
