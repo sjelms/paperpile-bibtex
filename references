@@ -41614,3 +41614,11 @@
   keywords  = "\_BibTex to MD Git;EPubs Books;ePub;Labor",
   isbn      =  9781135095956
 }
+
+@BOOK{Smith2012-oh,
+  title    = "Instructional design",
+  author   = "Smith, Patricia Lucille and Ragan, Tillman J",
+  year     =  2012,
+  isbn     =  9781118520734,
+  language = "en"
+}
