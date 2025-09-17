@@ -9070,7 +9070,8 @@
   url       = "https://www.sciencedirect.com/science/article/pii/S0925527397000923#bBIB1",
   doi       = "10.1016/s0925-5273(97)00092-3",
   issn      = "0925-5273,1873-7579",
-  language  = "en"
+  language  = "en",
+  annote    = "See also:"
 }
 
 @BOOK{Vindrola-Padros2021-by,
