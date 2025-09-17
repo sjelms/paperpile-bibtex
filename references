@@ -41436,3 +41436,15 @@
   keywords  = "EPubs Books;\_BibTex to MD Git;ePub",
   isbn      =  9780349415871
 }
+
+@MISC{Brynjolfsson2012-jw,
+  title       = "Race Against The Machine: How The Digital Revolution Is
+                 Accelerating Innovation, Driving Productivity, and Irreversibly
+                 Transforming Employment and The Economy",
+  author      = "Brynjolfsson, Erik and McAfee, Andrew",
+  publisher   = "MIT Sloan School of Management",
+  institution = "MIT Center for Digital Business",
+  month       =  jan,
+  year        =  2012,
+  annote      = "Research Brief"
+}
