@@ -6694,22 +6694,6 @@
   language  = "en"
 }
 
-@BOOK{Goulding2019-wb,
-  title    = "**Offsite production and manufacturing for innovative
-              Construction: People, process and technology",
-  author   = "Goulding, Jack and Rahimian, Farzad Pour",
-  abstract = "This book builds on the success of a number of initiatives,
-              including formative findings from literature, research and
-              development, and practice-based evidence (success stories). It
-              also develops thinking and trajectories from a roadmap produced
-              from CIB Task Group TG74 (New Production and Business Models in
-              Construction).",
-  year     =  2019,
-  keywords = "AEC",
-  isbn     =  9781138550711,
-  language = "en"
-}
-
 @ARTICLE{Blake2009-en,
   title     = "Me and my shadow: Observation, documentation, and analysis of
                serials and electronic resources workflow",
