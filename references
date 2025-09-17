@@ -41437,7 +41437,7 @@
   isbn      =  9780349415871
 }
 
-@MISC{Brynjolfsson2012-jw,
+@TECHREPORT{Brynjolfsson2012-jw,
   title       = "Race Against The Machine: How The Digital Revolution Is
                  Accelerating Innovation, Driving Productivity, and Irreversibly
                  Transforming Employment and The Economy",
