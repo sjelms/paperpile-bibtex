@@ -41315,3 +41315,12 @@
   year      =  2012,
   isbn      =  9780984725113
 }
+
+@BOOK{Rifkin2014-lx,
+  title     = "The zero marginal cost society",
+  author    = "Rifkin, Jeremy",
+  publisher = "St. Martin's Press",
+  month     =  "1~" # apr,
+  year      =  2014,
+  isbn      =  9781137437761
+}
