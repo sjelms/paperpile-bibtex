@@ -39001,6 +39001,16 @@
   doi         = "10.1145/3501712.3535298"
 }
 
+@BOOK{Newport2016-ye,
+  title     = "So good they can't ignore you",
+  author    = "Newport, Cal",
+  publisher = "Piatkus Books",
+  address   = "London, England",
+  month     =  "1~" # dec,
+  year      =  2016,
+  isbn      =  9780349415871
+}
+
 @ARTICLE{Hazelett2025-hc,
   title       = "An open letter to graduate students and other procrastinators:
                  it's time to write",
