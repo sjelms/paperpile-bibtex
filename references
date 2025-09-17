@@ -2280,7 +2280,7 @@
   month     =  "1~" # jul,
   year      =  2017,
   url       = "https://doi.org/10.1016/S2155-8256(17)30099-6",
-  keywords  = "marlin\_jnr8",
+  keywords  = "marlin\_jnr8;Future of Work",
   doi       = "10.1016/S2155-8256(17)30099-6",
   issn      = "2155-8256,2155-8264",
   annote    = "doi: 10.1016/S2155-8256(17)30099-6"
