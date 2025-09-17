@@ -2097,7 +2097,7 @@
   month     =  "31~" # oct,
   year      =  1997,
   url       = "https://www.sciencedirect.com/science/article/pii/S0925527397000923#bBIB1",
-  keywords  = "Workplace Learning;VET;Labor",
+  keywords  = "\_BibTex to MD Git;Workplace Learning;VET;Labor",
   doi       = "10.1016/s0925-5273(97)00092-3",
   issn      = "0925-5273,1873-7579",
   language  = "en",
@@ -40005,7 +40005,7 @@
   month       =  aug,
   year        =  1987,
   url         = "http://dx.doi.org/10.1177/0730888487014003001",
-  keywords    = "Future of Work;Workplace Learning;VET;Labor",
+  keywords    = "\_BibTex to MD Git;Future of Work;Workplace Learning;VET;Labor",
   doi         = "10.1177/0730888487014003001",
   issn        = "0730-8884,1552-8464",
   language    = "en"
