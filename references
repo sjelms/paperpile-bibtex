@@ -26709,7 +26709,8 @@
   month     =  "1~" # jan,
   year      =  2009,
   url       = "https://doi.org/10.3763/aedm.2008.0094",
-  keywords  = "Journal Articles;AEC;Workplace Learning;\_New Literature",
+  keywords  = "Journal Articles;\_BibTex to MD Git;AEC;Workplace Learning;\_New
+               Literature",
   doi       = "10.3763/aedm.2008.0094",
   issn      = "1745-2007"
 }
@@ -26755,8 +26756,8 @@
                chapter discusses the development, testing, and validation of
                this prototype.",
   year      =  2009,
-  keywords  = "Open Building Manufacturing [Book];\_XR MR VR AR;AEC;Workplace
-               Learning",
+  keywords  = "Open Building Manufacturing [Book];\_BibTex to MD Git;\_XR MR VR
+               AR;AEC;Workplace Learning",
   isbn      =  9789513871468,
   annote    = "PDF is attached to BOOK Kazi2009-eh"
 }
