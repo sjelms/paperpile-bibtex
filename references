@@ -41298,7 +41298,7 @@
                and software is increasing faster than the rate of employment.",
   month     =  "23~" # jan,
   year      =  2012,
-  keywords  = "Book (physical)",
+  keywords  = "\_BibTex to MD Git;Book (physical)",
   isbn      =  9780984725113
 }
 
@@ -41363,7 +41363,7 @@
                increasingly interdependent global Collaborative Commons.",
   month     =  "1~" # apr,
   year      =  2014,
-  keywords  = "Book (physical)",
+  keywords  = "\_BibTex to MD Git;Book (physical)",
   isbn      =  9781137437761
 }
 
@@ -41400,7 +41400,7 @@
                an increasingly distracted world. This book will point the way.",
   month     =  "5~" # jan,
   year      =  2016,
-  keywords  = "EPubs Books;ePub",
+  keywords  = "EPubs Books;\_BibTex to MD Git;ePub",
   isbn      =  9780349411910
 }
 
@@ -41433,6 +41433,6 @@
                that direction.",
   month     =  "1~" # dec,
   year      =  2016,
-  keywords  = "EPubs Books;ePub",
+  keywords  = "EPubs Books;\_BibTex to MD Git;ePub",
   isbn      =  9780349415871
 }
