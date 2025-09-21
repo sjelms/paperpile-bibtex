@@ -35543,7 +35543,8 @@
               the extent of the illusion that the observer is present within
               that world?'').",
   month    =  dec,
-  year     =  1994
+  year     =  1994,
+  keywords = "Spatial Computing XR MR VR"
 }
 
 @TECHREPORT{Kamm2015-ea,
