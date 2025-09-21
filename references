@@ -3225,22 +3225,6 @@
   issn      = "2210-5549,2210-5557"
 }
 
-@BOOK{Polanyi1966-zb,
-  title     = "The Tacit Dimension",
-  author    = "Polanyi, Michael",
-  publisher = "University of Chicago Press",
-  address   = "Chicago, IL",
-  abstract  = "``I shall reconsider human knowledge by starting from the fact
-               that we can know more than we can tell,'' writes Michael Polanyi,
-               whose work paved the way for the likes of Thomas Kuhn and Karl
-               Popper. The Tacit Dimension argues that tacit
-               knowledge--tradition, inherited practices, implied values, and
-               prejudgments--is a crucial part of scientific knowledge. --From
-               publisher's description.",
-  year      =  1966,
-  language  = "en"
-}
-
 @ARTICLE{Vasquez2012-ld,
   title     = "Notes from the field on organizational shadowing as framing",
   author    = "Vásquez, Consuelo and Brummans, Boris H J M and Groleau, Carole",
@@ -15966,6 +15950,23 @@
   year        =  2018,
   keywords    = "Construction 4-0;2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;AEC
                  Cited Lit for Jacqui;\_BibTex to MD Git;AEC;\_New Literature"
+}
+
+@BOOK{Polanyi1966-zb,
+  title     = "The Tacit Dimension",
+  author    = "Polanyi, Michael",
+  publisher = "University of Chicago Press",
+  address   = "Chicago, IL",
+  abstract  = "``I shall reconsider human knowledge by starting from the fact
+               that we can know more than we can tell,'' writes Michael Polanyi,
+               whose work paved the way for the likes of Thomas Kuhn and Karl
+               Popper. The Tacit Dimension argues that tacit
+               knowledge--tradition, inherited practices, implied values, and
+               prejudgments--is a crucial part of scientific knowledge. --From
+               publisher's description.",
+  year      =  1966,
+  keywords  = "\_BibTex to MD Git",
+  language  = "en"
 }
 
 @TECHREPORT{Cameron2020-wn,
