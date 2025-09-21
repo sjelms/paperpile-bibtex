@@ -3246,9 +3246,9 @@
 }
 
 @BOOK{Terra2023-js,
-  title     = "The economics of John Maynard Keynes",
+  title     = "The Economics of John Maynard Keynes",
   author    = "Terra, Fabio",
-  publisher = "Routledge",
+  publisher = "Taylor and Francis",
   address   = "London, England",
   month     =  "3~" # apr,
   year      =  2023,
