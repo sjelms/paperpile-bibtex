@@ -39557,25 +39557,6 @@
   language  = "en"
 }
 
-@TECHREPORT{New-Towns-Taskforce2025-cy,
-  title       = "New Towns Taskforce: Report to Government",
-  author      = "{New Towns Taskforce}",
-  editor      = "Lyons, Michael and Barker, Kate and Hughes, Bill and Coyle,
-                 Diane and Garner, Lyn and Gordon, Helen and Henderson, Kate and
-                 Raynsford, Nick and Parthasarathy, Sowmya and Yang, Wei",
-  publisher   = "HM Government",
-  institution = "Ministry of Housing, Communities and Local Government",
-  pages       =  135,
-  abstract    = "This report by the New Towns Taskforce, published by the
-                 Ministry of Housing, Communities and Local Government, provides
-                 analysis and recommendations for government on the future of
-                 new towns in the UK. It includes contributions from a taskforce
-                 of experts chaired by Sir Michael Lyons.",
-  month       =  "28~" # sep,
-  year        =  2025,
-  url         = "https://www.gov.uk/mhclg"
-}
-
 @ARTICLE{Kadlub1997-es,
   title     = "Shortage of workers slams area contractors",
   author    = "Kadlub, Luanne",
@@ -41081,6 +41062,23 @@
   keywords    = "Construction 4-0;2\_Upgrade MAY 2023;Deloitte - McKinsey - EY -
                  PWC;AEC Cited Lit for Jacqui;\_BibTex to MD Git;\_In
                  Notion;\_In Readwise;AEC;Report;\_New Literature"
+}
+
+@TECHREPORT{Lyons2025-oc,
+  title       = "New Towns Taskforce: Report to Government",
+  author      = "Lyons, Michael and Barker, Kate and Hughes, Bill and Coyle,
+                 Diane and Garner, Lyn and Gordon, Helen and Henderson, Kate and
+                 Raynsford, Nick and Parthasarathy, Sowmya and Yang, Wei",
+  publisher   = "HM Government",
+  institution = "Ministry of Housing, Communities and Local Government",
+  abstract    = "This report by the New Towns Taskforce, published by the
+                 Ministry of Housing, Communities and Local Government, provides
+                 analysis and recommendations for government on the future of
+                 new towns in the UK. It includes contributions from a taskforce
+                 of experts chaired by Sir Michael Lyons.",
+  month       =  "28~" # sep,
+  year        =  2025,
+  url         = "https://www.gov.uk/mhclg"
 }
 
 @INCOLLECTION{Bhattacherjee2012-ho,
