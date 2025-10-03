@@ -28845,7 +28845,7 @@
                benefit of all.",
   month     =  "1~" # apr,
   year      =  2025,
-  keywords  = "EPubs Books;ePub;Economics",
+  keywords  = "EPubs Books;\_BibTex to MD Git;ePub;Economics",
   isbn      =  9780691271286,
   language  = "en"
 }
