@@ -2311,7 +2311,7 @@
   month       =  nov,
   year        =  2024,
   url         = "http://dx.doi.org/10.1332/27324176y2024d000000025",
-  keywords    = "Labor;Economics",
+  keywords    = "\_BibTex to MD Git;Labor;Economics",
   doi         = "10.1332/27324176y2024d000000025",
   issn        = "2732-4176",
   annote      = "cross-reference: [[@Braverman1974-tr]]"
