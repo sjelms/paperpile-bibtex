@@ -14357,27 +14357,6 @@
   isbn      =  9781135095956
 }
 
-@ARTICLE{Drake2025-nv,
-  title       = "How to write a scientific paper in fifteen steps",
-  author      = "Drake, John M and Han, Barbara A",
-  affiliation = "Odum School of Ecology, University of Georgia, Athens, Georgia,
-                 United States of America.; Cary Institute of Ecosystem Studies,
-                 Millbrook, New York, United States of America.",
-  journal     = "PLoS computational biology",
-  volume      =  21,
-  number      =  9,
-  pages       = "e1013505",
-  month       =  sep,
-  year        =  2025,
-  url         = "http://dx.doi.org/10.1371/journal.pcbi.1013505",
-  keywords    = "PhD Study and Support;PhD Support and Training",
-  doi         = "10.1371/journal.pcbi.1013505",
-  pmc         = "PMC12459795",
-  pmid        =  40991585,
-  issn        = "1553-734X,1553-7358",
-  language    = "en"
-}
-
 @MISC{HUD-User2022-ip,
   title        = "Operation Breakthrough: Striving through struggles for success
                   by teaming",
@@ -41942,6 +41921,28 @@
   pmid      =  34542489,
   issn      = "2174-8144,2254-9625",
   language  = "en"
+}
+
+@ARTICLE{Drake2025-nv,
+  title       = "How to write a scientific paper in fifteen steps",
+  author      = "Drake, John M and Han, Barbara A",
+  affiliation = "Odum School of Ecology, University of Georgia, Athens, Georgia,
+                 United States of America.; Cary Institute of Ecosystem Studies,
+                 Millbrook, New York, United States of America.",
+  journal     = "PLoS computational biology",
+  volume      =  21,
+  number      =  9,
+  pages       = "e1013505",
+  month       =  sep,
+  year        =  2025,
+  url         = "http://dx.doi.org/10.1371/journal.pcbi.1013505",
+  keywords    = "PhD Study and Support;\_BibTex to MD Git;PhD Support and
+                 Training",
+  doi         = "10.1371/journal.pcbi.1013505",
+  pmc         = "PMC12459795",
+  pmid        =  40991585,
+  issn        = "1553-734X,1553-7358",
+  language    = "en"
 }
 
 @TECHREPORT{Lyons2025-oc,
