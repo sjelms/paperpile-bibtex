@@ -2314,7 +2314,7 @@
   keywords    = "Labor;Economics",
   doi         = "10.1332/27324176y2024d000000025",
   issn        = "2732-4176",
-  annote      = "cross-reference: Braverman1974-tr"
+  annote      = "cross-reference: [[@Braverman1974-tr]]"
 }
 
 @INCOLLECTION{Littlejohn2022-wy,
