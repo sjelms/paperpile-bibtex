@@ -14546,7 +14546,8 @@
   month     =  "27~" # mar,
   year      =  2014,
   url       = "http://dx.doi.org/10.1007/978-3-319-04286-2",
-  keywords  = "PhD Study and Support;EPubs Books;PhD Support and Training;ePub",
+  keywords  = "PhD Study and Support;EPubs Books;\_BibTex to MD Git;PhD Support
+               and Training;ePub",
   doi       = "10.1007/978-3-319-04286-2",
   isbn      = "9783319042855,9783319042862",
   language  = "en"
