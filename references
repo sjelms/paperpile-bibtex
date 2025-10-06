@@ -2383,6 +2383,28 @@
   keywords = "Construction 4-0;AEC;\_New Literature"
 }
 
+@BOOK{MacCarthy2019-gn,
+  title     = "Walter Gropius: Visionary Founder of the Bauhaus",
+  author    = "MacCarthy, Fiona",
+  publisher = "Faber \& Faber",
+  address   = "London, England",
+  abstract  = "From 1910 to 1930 Gropius was at the very centre of European
+               modern art and design, as the founder of the German art school,
+               the Bauhaus. Yet Gropius's beliefs and affiliations left him
+               little choice but to leave Germany when Hitler came to power. In
+               this riveting book, Fiona MacCarthy draws on new research to
+               re-evaluate Gropius's work and life. From his shattering
+               experiences in the First World War to his turbulent marriage to
+               the notorious Alma Mahler and the tragic early death of their
+               daughter, MacCarthy leads us through his disorientating years in
+               London, to his final peaceful and productive life in America.
+               This is biography at its finest and most vivid.",
+  month     =  "5~" # mar,
+  year      =  2019,
+  isbn      =  9780571295159,
+  language  = "en"
+}
+
 @BOOK{Thompson2017-ps,
   title     = "Hit Makers: How Things Become Popular",
   author    = "Thompson, Derek",
@@ -41852,17 +41874,6 @@
   year      =  2012,
   keywords  = "EPubs Books;\_BibTex to MD Git;ePub;Economics",
   isbn      =  9781448136803,
-  language  = "en"
-}
-
-@BOOK{MacCarthy2019-gn,
-  title     = "Walter Gropius",
-  author    = "MacCarthy, Fiona",
-  publisher = "Faber \& Faber",
-  address   = "London, England",
-  month     =  "5~" # mar,
-  year      =  2019,
-  isbn      =  9780571295159,
   language  = "en"
 }
 
