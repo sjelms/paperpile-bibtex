@@ -40330,6 +40330,28 @@
   language  = "eng"
 }
 
+@INCOLLECTION{Armstrong2008-wr,
+  title     = "From Bauhaus to m-[h]ouse: The Concept of the Ready-Made and the
+               Kit-Built House",
+  author    = "Armstrong, Paul J",
+  booktitle = "Without a Hitch: New Directions in Prefabricated Architecture",
+  publisher = "University of Illinois Urbana-Champaign",
+  pages     = "72--80",
+  abstract  = "This paper addresses the concept of the readymade—the
+               off-the-shelf industrial artifact—and the development of the
+               kit-built house. It argues that the popularity of prefabrication
+               stems from its economic benefits and the degree of control
+               afforded by factory manufacturing, but its aesthetic expression
+               does not have to be compromised by cost alone. Prefabrication can
+               combine traditional materials with contemporary aesthetics to
+               create innovative solutions and still be affordable. It traces
+               the ready-made from its inception in modernism to today’s
+               kit-built and prefabricated houses.",
+  month     =  "26~" # sep,
+  year      =  2008,
+  url       = "https://hdl.handle.net/20.500.14394/50532"
+}
+
 @ARTICLE{Tomlinson2025-ou,
   title         = "Working with {AI}: Measuring the occupational implications of
                    generative {AI}",
