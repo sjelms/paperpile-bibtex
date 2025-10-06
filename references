@@ -41855,6 +41855,17 @@
   language  = "en"
 }
 
+@BOOK{MacCarthy2019-gn,
+  title     = "Walter Gropius",
+  author    = "MacCarthy, Fiona",
+  publisher = "Faber \& Faber",
+  address   = "London, England",
+  month     =  "5~" # mar,
+  year      =  2019,
+  isbn      =  9780571295159,
+  language  = "en"
+}
+
 @BOOK{Coyle2025-yv,
   title     = "The Measure of Progress: Counting What Really Matters",
   author    = "Coyle, Diane",
