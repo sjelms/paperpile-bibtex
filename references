@@ -2401,7 +2401,7 @@
                This is biography at its finest and most vivid.",
   month     =  "5~" # mar,
   year      =  2019,
-  keywords  = "EPubs Books;AEC;ePub",
+  keywords  = "EPubs Books;\_BibTex to MD Git;AEC;ePub",
   isbn      =  9780571295159,
   language  = "en"
 }
@@ -15070,7 +15070,7 @@
                International License via link.springer.com.",
   month     =  "29~" # jan,
   year      =  2024,
-  keywords  = "EPubs Books;AEC;ePub",
+  keywords  = "EPubs Books;\_BibTex to MD Git;AEC;ePub",
   isbn      =  9783031401886,
   language  = "en"
 }
@@ -40397,7 +40397,7 @@
   month     =  "26~" # sep,
   year      =  2008,
   url       = "https://hdl.handle.net/20.500.14394/50532",
-  keywords  = "AEC"
+  keywords  = "\_BibTex to MD Git;AEC"
 }
 
 @ARTICLE{Tomlinson2025-ou,
@@ -40713,7 +40713,7 @@
                new ways of thinking.",
   month     =  "11~" # oct,
   year      =  2018,
-  keywords  = "EPubs Books;AEC;ePub",
+  keywords  = "EPubs Books;\_BibTex to MD Git;AEC;ePub",
   isbn      =  9781781576588,
   language  = "en"
 }
@@ -42129,7 +42129,7 @@
                within the New European Bauhaus initiative.",
   month     =  "27~" # dec,
   year      =  2024,
-  keywords  = "EPubs Books;AEC;ePub",
+  keywords  = "EPubs Books;\_BibTex to MD Git;AEC;ePub",
   isbn      =  9783031760594,
   language  = "en"
 }
