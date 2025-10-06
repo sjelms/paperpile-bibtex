@@ -7016,6 +7016,29 @@
   keywords     = "Workplace Learning;AEC"
 }
 
+@BOOK{Lage2024-kt,
+  title     = "Towards a New European {Bauhaus—Challenges} in Design Education:
+               {EAAE} annual conference—Madrid 2022",
+  author    = "Lage, Manuel Blanco and Franck, Oya Atalay and Marine, Nicolas
+               and de la O Cabrera, Manuel Rodrigo",
+  publisher = "Springer Nature",
+  address   = "Cham, Switzerland",
+  abstract  = "This book gathers the latest advances and innovations in the
+               field of architectural and design education, as presented at the
+               2022 annual conference of the European Association for
+               Architectural Education (EAAE AC), “Towards a New European
+               Bauhaus - Challenges in Design Education”, hosted by ETSAM Madrid
+               School of Architecture of the Universidad Politécnica de Madrid,
+               in Madrid, Spain, on August 31–September 2, 2022. Chapter
+               “Towards a Future Past: The New and the European in the Bauhaus”
+               is available open access under a Creative Commons Attribution 4.0
+               International License via link.springer.com.",
+  month     =  "29~" # jan,
+  year      =  2024,
+  isbn      =  9783031401886,
+  language  = "en"
+}
+
 @MISC{UNESCO-UNEVOC2015-ge,
   title        = "What is {TVET}?",
   author       = "{UNESCO-UNEVOC}",
