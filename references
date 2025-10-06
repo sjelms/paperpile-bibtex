@@ -40349,7 +40349,8 @@
                kit-built and prefabricated houses.",
   month     =  "26~" # sep,
   year      =  2008,
-  url       = "https://hdl.handle.net/20.500.14394/50532"
+  url       = "https://hdl.handle.net/20.500.14394/50532",
+  keywords  = "AEC"
 }
 
 @ARTICLE{Tomlinson2025-ou,
