@@ -13398,7 +13398,8 @@
   location  = {Poole, England},
   date      = {2014-02-10},
   pagetotal = {2},
-  isbn      = {9781858992969}
+  isbn      = {9781858992969},
+  keywords  = {PhD Support and Training}
 }
 
 @BOOK{Bronin2024-xp,
@@ -41905,4 +41906,16 @@
   keywords  = {PhD Study and Support;EPubs Books;\_BibTex to MD Git;PhD Support
                and Training;ePub},
   language  = {en}
+}
+
+@BOOK{Arnold2014-fm,
+  title     = {A six step guide to using recursive abstraction applied to the
+               qualitative analysis of interview data},
+  author    = {Arnold, Amy and Polkinghorne, Martyn},
+  publisher = {Bournemouth University},
+  location  = {Poole, England},
+  date      = {2014-02-10},
+  pagetotal = {2},
+  isbn      = {9781858992969},
+  keywords  = {PhD Study and Support;PhD Support and Training}
 }
