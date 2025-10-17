@@ -6999,26 +6999,6 @@
   language  = {en}
 }
 
-@LEGISLATION{Rayner2025-ea,
-  title    = {Planning and Infrastructure Bill},
-  author   = {Rayner, Angela and {Baroness Taylor of Stevenage} and {Ministry of
-              Housing, Communities and Local Government}},
-  number   = {110},
-  date     = {2025-06-12},
-  pubstate = {Report stage},
-  abstract = {A Bill to make provision about infrastructure; to make provision
-              about town and country planning; to make provision for a scheme,
-              administered by Natural England, for a nature restoration levy
-              payable by developers; to make provision about development
-              corporations; to make provision about the compulsory purchase of
-              land; to make provision about environmental outcomes reports; and
-              for connected purposes.},
-  url      = {https://bills.parliament.uk/bills/3946},
-  urldate  = {2025-08-17},
-  note     = {Explanatory Notes prepared by the Ministry of Housing, Communities
-              and Local Government. Ordered to be printed 12 June 2025.}
-}
-
 @ARTICLE{Ord2012-tv,
   title        = {John Dewey and Experiential Learning: Developing the Theory of
                   Youth Work},
@@ -42020,4 +42000,25 @@
                skill formation.},
   keywords  = {EPubs Books;\_BibTex to MD Git;VET;ePub},
   language  = {en}
+}
+
+@LEGISLATION{Rayner2025-ea,
+  title    = {Planning and Infrastructure Bill},
+  author   = {Rayner, Angela and {Baroness Taylor of Stevenage} and {Ministry of
+              Housing, Communities and Local Government}},
+  number   = {110},
+  date     = {2025-06-12},
+  pubstate = {Report stage},
+  abstract = {A Bill to make provision about infrastructure; to make provision
+              about town and country planning; to make provision for a scheme,
+              administered by Natural England, for a nature restoration levy
+              payable by developers; to make provision about development
+              corporations; to make provision about the compulsory purchase of
+              land; to make provision about environmental outcomes reports; and
+              for connected purposes.},
+  url      = {https://bills.parliament.uk/bills/3946},
+  urldate  = {2025-08-17},
+  note     = {Explanatory Notes prepared by the Ministry of Housing, Communities
+              and Local Government. Ordered to be printed 12 June 2025.},
+  keywords = {Government Report}
 }
