@@ -773,14 +773,22 @@
   language  = {en}
 }
 
-@LEGISLATION{UK-Parliament2025-vy,
-  title  = {Planning and Infrastructure Bill: {HL} Bill 110},
-  author = {{UK Parliament}},
-  number = {110},
-  date   = {2025-06-12},
-  url    = {https://www.parliament.uk/site-information/copyright},
-  note   = {Explanatory Notes prepared by the Ministry of Housing, Communities
-            and Local Government. Ordered to be printed 12 June 2025.}
+@LEGISLATION{Rayner2025-ea,
+  title    = {Planning and Infrastructure Bill},
+  author   = {Rayner, Angela and {Baroness Taylor of Stevenage}},
+  number   = {110},
+  date     = {2025-06-12},
+  pubstate = {Report stage},
+  abstract = {A Bill to make provision about infrastructure; to make provision
+              about town and country planning; to make provision for a scheme,
+              administered by Natural England, for a nature restoration levy
+              payable by developers; to make provision about development
+              corporations; to make provision about the compulsory purchase of
+              land; to make provision about environmental outcomes reports; and
+              for connected purposes.},
+  url      = {https://bills.parliament.uk/bills/3946},
+  note     = {Explanatory Notes prepared by the Ministry of Housing, Communities
+              and Local Government. Ordered to be printed 12 June 2025.}
 }
 
 @ARTICLE{Armstrong2024-pd,
