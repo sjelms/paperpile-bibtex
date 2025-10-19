@@ -35956,8 +35956,7 @@
                  for Jacqui;\_BibTex to MD Git;Cited for Frontiers;AEC}
 }
 
-@PHDTHESIS{Elms2023-am,
-  type        = {phdthesis},
+@THESIS{Elms2023-am,
   title       = {Crafting a {21st}-Century Workforce: Vocational Education and
                  Training for the Changing Landscape of Offsite Construction in
                  the Digital Age},
