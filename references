@@ -38949,6 +38949,16 @@
   keywords   = {JR Research Group Readings}
 }
 
+@BOOK{Clear2018-uq,
+  title     = {Atomic habits},
+  author    = {Clear, James},
+  publisher = {Cornerstone Digital},
+  location  = {London, England},
+  date      = {2018-10-18},
+  pagetotal = {320},
+  isbn      = {9781473537804}
+}
+
 @ARTICLE{Hazelett2025-hc,
   title        = {An open letter to graduate students and other procrastinators:
                   it's time to write},
