@@ -13473,6 +13473,19 @@
   language  = {en}
 }
 
+@BOOK{Bryson2004-sn,
+  title     = {A short history of nearly everything},
+  author    = {Bryson, Bill},
+  publisher = {Black Swan},
+  location  = {London, England},
+  date      = {2004-06-01},
+  pagetotal = {672},
+  isbn      = {9780552997041},
+  series    = {Bryson},
+  keywords  = {Book (physical)},
+  language  = {en}
+}
+
 @BOOK{Bronin2024-xp,
   title     = {Key to the city: How zoning shapes our world},
   author    = {Bronin, Sara C},
