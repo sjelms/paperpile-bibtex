@@ -42197,3 +42197,16 @@
   keywords    = {Government Report;\_BibTex to MD Git;Report},
   language    = {en}
 }
+
+@ONLINE{Stone2003-jo,
+  title     = {Where Is Appalachia?},
+  author    = {Stone, Lyman},
+  publisher = {Medium},
+  date      = {2003},
+  abstract  = {An exploration of how regional definitions of Appalachia vary
+               geographically and culturally, discussing mapping efforts,
+               sub-regions, and the social and economic factors that shape
+               Appalachian identity.},
+  url       = {https://medium.com/migration-issues/where-is-appalachia-2d240d74161b},
+  note      = {Accessed 2025-10-22}
+}
