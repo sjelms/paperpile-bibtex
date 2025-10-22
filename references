@@ -31333,12 +31333,14 @@
   language     = {en}
 }
 
-@MISC{UNESCO-UNEVOC2015-rd,
+@REPORT{UNESCO-UNEVOC2015-rd,
+  type      = {resreport},
   title     = {Recommendation concerning Technical and Vocational Education and
                Training ({TVET})},
   author    = {{UNESCO-UNEVOC}},
   publisher = {United Nation Educational Scientific and Cultural Organisation},
   date      = {2015},
+  pagetotal = {15},
   abstract  = {According to the UNESCO’s general principles, technical
                vocational education and training (TVET) is part of both the
                universal right to education and the right to work. In this
@@ -31351,8 +31353,7 @@
                responsible citizenship, and sustainable development.},
   url       = {https://unesdoc.unesco.org/ark:/48223/pf0000245178},
   note      = {ED.2016/WS/11},
-  language  = {en},
-  version   = {Revised Recommendation 2015}
+  language  = {en}
 }
 
 @BOOK{Ambler2018-ep,
