@@ -42021,7 +42021,7 @@
   urldate  = {2025-10-07},
   note     = {Explanatory Notes prepared by the Ministry of Housing, Communities
               and Local Government. Ordered to be printed 12 June 2025.},
-  keywords = {Government Report;\_BibTex to MD Git}
+  keywords = {Government Report;\_BibTex to MD Git;Report}
 }
 
 @THESIS{Elms2023-am,
@@ -42179,5 +42179,6 @@
   pagetotal   = {21},
   url         = {https://www.gov.uk/government/publications/modern-methods-of-construction-working-group-developing-a-definition-framework},
   note        = {Produced by the MHCLG Joint Industry Working Group on MMC.},
+  keywords    = {Report},
   language    = {en}
 }
