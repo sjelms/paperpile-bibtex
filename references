@@ -31333,6 +31333,28 @@
   language     = {en}
 }
 
+@MISC{UNESCO-UNEVOC2015-rd,
+  title     = {Recommendation concerning Technical and Vocational Education and
+               Training ({TVET})},
+  author    = {{UNESCO-UNEVOC}},
+  publisher = {UNESCO},
+  date      = {2015},
+  abstract  = {According to the UNESCO’s general principles, technical
+               vocational education and training (TVET) is part of both the
+               universal right to education and the right to work. In this
+               respect, TVET is understood as contributing toward the promotion
+               of understanding and respect for human rights; inclusion and
+               social equity; gender equality and cultural diversity.
+               Furthermore, TVET plays a role in fostering lifelong learning and
+               a sense of community thus contributing to social and economic
+               participation and to the realization of lasting peace,
+               responsible citizenship, and sustainable development.},
+  url       = {https://unesdoc.unesco.org/ark:/48223/pf0000245178},
+  note      = {ED.2016/WS/11},
+  language  = {en},
+  version   = {Revised Recommendation 2015}
+}
+
 @BOOK{Ambler2018-ep,
   title     = {The Story of the Bauhaus: The Art and Design School That Changed
                Everything},
@@ -37128,28 +37150,6 @@
                Teachers College Press in 2012.},
   url       = {https://youtu.be/ynoqKCHKbQg},
   keywords  = {\_XR MR VR AR}
-}
-
-@MISC{UNESCO2015-nf,
-  title     = {Recommendation concerning Technical and Vocational Education and
-               Training ({TVET})},
-  author    = {{UNESCO}},
-  publisher = {UNESCO},
-  date      = {2015},
-  abstract  = {According to the UNESCO’s general principles, technical
-               vocational education and training (TVET) is part of both the
-               universal right to education and the right to work. In this
-               respect, TVET is understood as contributing toward the promotion
-               of understanding and respect for human rights; inclusion and
-               social equity; gender equality and cultural diversity.
-               Furthermore, TVET plays a role in fostering lifelong learning and
-               a sense of community thus contributing to social and economic
-               participation and to the realization of lasting peace,
-               responsible citizenship, and sustainable development.},
-  url       = {https://unesdoc.unesco.org/ark:/48223/pf0000245178},
-  note      = {ED.2016/WS/11},
-  language  = {en},
-  version   = {Revised Recommendation 2015}
 }
 
 @VIDEO{Lizop2020-cx,
