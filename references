@@ -657,8 +657,8 @@
 
 @ONLINE{Ministry-of-Housing-Communities-and-Local-Government2023-wz,
   title     = {National Planning Policy Framework},
-  author    = {{Ministry of Housing, Communities and Local Government}},
-  booktitle = {Ministry of Housing, Communities and Local Government},
+  author    = {{Ministry of Housing, Communities, and Local Government}},
+  booktitle = {Ministry of Housing, Communities, and Local Government},
   location  = {Fry Building, 2 Marsham Street, London, SW1P 4DF},
   date      = {2023-12},
   url       = {https://www.gov.uk/mhclg},
@@ -14666,54 +14666,6 @@
   series    = {Bryson},
   keywords  = {\_BibTex to MD Git;Book (physical)},
   language  = {en}
-}
-
-@ARTICLE{Rojas-Herrera2025-qj,
-  title        = {Industrialized Construction: A Systematic Review of Its
-                  Benefits and Guidelines for the Development of New
-                  Constructive Solutions Applied in Sustainable Projects},
-  author       = {Rojas-Herrera, Carlos and Martínez-Soto, Aner and
-                  Avendaño-Vera, Constanza and Carrasco, Rodrigo Cancino and
-                  Barbato, Natalia Reyes},
-  journaltitle = {Applied sciences (Basel, Switzerland)},
-  publisher    = {MDPI AG},
-  volume       = {15},
-  issue        = {5},
-  pages        = {2308},
-  date         = {2025-02-21},
-  doi          = {10.3390/app15052308},
-  issn         = {2076-3417},
-  abstract     = {In the scientific literature, it is highlighted that
-                  industrialized construction has significant comparative
-                  advantages over traditional construction, primarily in four
-                  indicators: (i) cost reduction, (ii) time reduction, (iii)
-                  increased energy performance, and (iv) reduced environmental
-                  impacts. However, there is no certainty about the range of
-                  variation of these indicators for these comparative
-                  advantages, creating uncertainty about the real impact of
-                  industrialized construction. In this work, through a
-                  systematic literature review based on PRISMA, 90 articles that
-                  met the selection criteria related to the four mentioned
-                  indicators were selected and analyzed. The results show that
-                  industrialized construction has comparative advantages over
-                  traditional construction but with a wide spectrum of variation
-                  in each of the indicators. In the cost indicator, reductions
-                  between 7\% and 50\% and increases between 26\% and 72\% are
-                  observed; in time, reductions between 9\% and 50\% and
-                  increases up to 32\% are recorded, and reductions in energy
-                  demand between 20\% and 90\% are also reported. For the
-                  environmental indicators, data were only provided for projects
-                  in the design stage or for construction solutions on a scale,
-                  demonstrating the need to obtain indicators in the operational
-                  stage. It is concluded that although industrialized
-                  construction offers significant advantages, it is essential
-                  that new construction solutions consider contextual
-                  variations, initial investment, logistical challenges, and
-                  specialized labor to maximize their benefits.},
-  url          = {http://dx.doi.org/10.3390/app15052308},
-  keywords     = {Construction 4-0;\_BibTex to MD
-                  Git;AEC;Automation;Essential;Robots},
-  language     = {en}
 }
 
 @REPORT{Felstead2011-az,
@@ -42166,5 +42118,53 @@
   issn         = {1363-6820,1747-5090},
   url          = {http://dx.doi.org/10.1080/13636820.2025.2481721},
   keywords     = {UCL},
+  language     = {en}
+}
+
+@ARTICLE{Rojas-Herrera2025-qj,
+  title        = {Industrialized Construction: A Systematic Review of Its
+                  Benefits and Guidelines for the Development of New
+                  Constructive Solutions Applied in Sustainable Projects},
+  author       = {Rojas-Herrera, Carlos and Martínez-Soto, Aner and
+                  Avendaño-Vera, Constanza and Carrasco, Rodrigo Cancino and
+                  Barbato, Natalia Reyes},
+  journaltitle = {Applied sciences (Basel, Switzerland)},
+  publisher    = {MDPI AG},
+  volume       = {15},
+  issue        = {5},
+  pages        = {2308},
+  date         = {2025-02-21},
+  doi          = {10.3390/app15052308},
+  issn         = {2076-3417},
+  abstract     = {In the scientific literature, it is highlighted that
+                  industrialized construction has significant comparative
+                  advantages over traditional construction, primarily in four
+                  indicators: (i) cost reduction, (ii) time reduction, (iii)
+                  increased energy performance, and (iv) reduced environmental
+                  impacts. However, there is no certainty about the range of
+                  variation of these indicators for these comparative
+                  advantages, creating uncertainty about the real impact of
+                  industrialized construction. In this work, through a
+                  systematic literature review based on PRISMA, 90 articles that
+                  met the selection criteria related to the four mentioned
+                  indicators were selected and analyzed. The results show that
+                  industrialized construction has comparative advantages over
+                  traditional construction but with a wide spectrum of variation
+                  in each of the indicators. In the cost indicator, reductions
+                  between 7\% and 50\% and increases between 26\% and 72\% are
+                  observed; in time, reductions between 9\% and 50\% and
+                  increases up to 32\% are recorded, and reductions in energy
+                  demand between 20\% and 90\% are also reported. For the
+                  environmental indicators, data were only provided for projects
+                  in the design stage or for construction solutions on a scale,
+                  demonstrating the need to obtain indicators in the operational
+                  stage. It is concluded that although industrialized
+                  construction offers significant advantages, it is essential
+                  that new construction solutions consider contextual
+                  variations, initial investment, logistical challenges, and
+                  specialized labor to maximize their benefits.},
+  url          = {http://dx.doi.org/10.3390/app15052308},
+  keywords     = {Construction 4-0;\_BibTex to MD
+                  Git;AEC;Automation;Essential;Robots},
   language     = {en}
 }
