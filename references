@@ -2438,6 +2438,16 @@
   keywords  = {\_BibTex to MD Git;Readwise Reader;Economics}
 }
 
+@MISC{Unknown2016-kj,
+  title     = {Recommendation concerning Technical and Vocational Education and
+               Training ({TVET}), 2015},
+  publisher = {2016},
+  date      = {2016},
+  url       = {https://unesdoc.unesco.org/ark:/48223/pf0000245178},
+  note      = {ED.2016/WS/11},
+  language  = {English}
+}
+
 @INBOOK{Littlejohn2022-wy,
   title     = {Challenges of digital professional learning: Digital technology
                systems are no substitute for human agency},
