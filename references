@@ -42342,12 +42342,14 @@
   language  = {en}
 }
 
-@BOOK{Stuart2017-vq,
-  title     = {Unions, the skills agenda, and workforce development},
+@INBOOK{Stuart2017-vq,
+  title     = {Unions, the Skills Agenda, and Workforce Development},
   author    = {Stuart, Mark and Huzzard, Tony},
   editor    = {Buchanan, John and Finegold, David and Mayhew, Ken and Warhurst,
                Chris},
+  booktitle = {Oxford Handbooks Online},
   publisher = {Oxford University Press},
+  pages     = {241--260},
   date      = {2017-03-06},
   doi       = {10.1093/oxfordhb/9780199655366.013.12},
   abstract  = {This chapter explores the relationship between unions and skills
@@ -42366,7 +42368,7 @@
                base. We also argue that different approaches by unions to skills
                can be explained not only by national and sectoral factors but
                also by agency and voice mechanisms.},
-  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199655366.013.12},
+  url       = {https://academic.oup.com/edited-volume/27995/chapter/211712877},
   urldate   = {2025-10-23},
   keywords  = {Oxford Handbook of Skills and Training},
   language  = {en}
