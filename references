@@ -14777,11 +14777,13 @@
   keywords  = {Oxford Handbook of Skills and Training}
 }
 
-@BOOK{Wheelahan2017-ln,
-  title     = {Rethinking skills development},
+@INBOOK{Wheelahan2017-ln,
+  title     = {Rethinking Skills Development: Moving Beyond Competency-Based
+               Training},
   author    = {Wheelahan, Leesa},
   editor    = {Buchanan, John and Finegold, David and Mayhew, Ken and Warhurst,
                Chris},
+  booktitle = {Oxford Handbooks Online},
   publisher = {Oxford University Press},
   date      = {2017-03-06},
   doi       = {10.1093/oxfordhb/9780199655366.013.30},
@@ -14801,7 +14803,7 @@
                generic skills are not the alternative, and it uses a ‘modified’
                version of the capabilities approach as the conceptual basis for
                qualifications.},
-  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199655366.013.30},
+  url       = {https://academic.oup.com/edited-volume/27995/chapter/211724231},
   urldate   = {2025-10-23},
   keywords  = {Oxford Handbook of Skills and Training},
   language  = {en}
