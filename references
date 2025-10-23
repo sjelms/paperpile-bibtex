@@ -14749,12 +14749,14 @@
   language  = {en}
 }
 
-@BOOK{Unwin2017-vo,
+@INBOOK{Unwin2017-vo,
   title     = {Employer-Led In-Work Training and Skill Formation},
   author    = {Unwin, Lorna},
   editor    = {Buchanan, John and Finegold, David and Mayhew, Ken and Warhurst,
                Chris},
+  booktitle = {The Oxford Handbook of Skills and Training},
   publisher = {Oxford University Press},
+  pages     = {221--240},
   date      = {2017-03-06},
   doi       = {10.1093/oxfordhb/9780199655366.013.11},
   abstract  = {This chapter examines skill formation organized by employers in
