@@ -14777,38 +14777,6 @@
   keywords  = {Oxford Handbook of Skills and Training}
 }
 
-@INBOOK{Wheelahan2017-ln,
-  title     = {Rethinking Skills Development: Moving Beyond Competency-Based
-               Training},
-  author    = {Wheelahan, Leesa},
-  editor    = {Buchanan, John and Finegold, David and Mayhew, Ken and Warhurst,
-               Chris},
-  booktitle = {Oxford Handbooks Online},
-  publisher = {Oxford University Press},
-  date      = {2017-03-06},
-  doi       = {10.1093/oxfordhb/9780199655366.013.30},
-  abstract  = {This article critiques models of competency-based training in
-               vocational education and training in Anglophone countries and
-               contrasts it to ‘kompetenz’ in Germanic countries. It identifies
-               six key problems with Competency-Based Training (CBT): first, CBT
-               is tied to specific ensembles of workplace roles and
-               requirements; second, the outcomes of learning are tied to
-               descriptions of work as it currently exists; third, CBT does not
-               provide adequate access to underpinning knowledge; fourth, CBT is
-               based on the simplistic and behaviourist notion that processes of
-               learning are identical with the skills that are to be learnt;
-               fifth, the credibility of a qualification is based on trust, not
-               what it says a person can do; and sixth, CBT is based on a notion
-               of the human actor as the supervised worker. The article argues
-               generic skills are not the alternative, and it uses a ‘modified’
-               version of the capabilities approach as the conceptual basis for
-               qualifications.},
-  url       = {https://academic.oup.com/edited-volume/27995/chapter/211724231},
-  urldate   = {2025-10-23},
-  keywords  = {Oxford Handbook of Skills and Training},
-  language  = {en}
-}
-
 @REPORT{Felstead2011-az,
   type        = {resreport},
   title       = {Praxis: Working to Learn, Learning to Work},
@@ -42308,4 +42276,36 @@
   keywords     = {Construction 4-0;\_BibTex to MD
                   Git;AEC;Automation;Essential;Robots},
   language     = {en}
+}
+
+@INBOOK{Wheelahan2017-ln,
+  title     = {Rethinking Skills Development: Moving Beyond Competency-Based
+               Training},
+  author    = {Wheelahan, Leesa},
+  editor    = {Buchanan, John and Finegold, David and Mayhew, Ken and Warhurst,
+               Chris},
+  booktitle = {Oxford Handbooks Online},
+  publisher = {Oxford University Press},
+  date      = {2017-03-06},
+  doi       = {10.1093/oxfordhb/9780199655366.013.30},
+  abstract  = {This article critiques models of competency-based training in
+               vocational education and training in Anglophone countries and
+               contrasts it to ‘kompetenz’ in Germanic countries. It identifies
+               six key problems with Competency-Based Training (CBT): first, CBT
+               is tied to specific ensembles of workplace roles and
+               requirements; second, the outcomes of learning are tied to
+               descriptions of work as it currently exists; third, CBT does not
+               provide adequate access to underpinning knowledge; fourth, CBT is
+               based on the simplistic and behaviourist notion that processes of
+               learning are identical with the skills that are to be learnt;
+               fifth, the credibility of a qualification is based on trust, not
+               what it says a person can do; and sixth, CBT is based on a notion
+               of the human actor as the supervised worker. The article argues
+               generic skills are not the alternative, and it uses a ‘modified’
+               version of the capabilities approach as the conceptual basis for
+               qualifications.},
+  url       = {https://academic.oup.com/edited-volume/27995/chapter/211724231},
+  urldate   = {2025-10-23},
+  keywords  = {Oxford Handbook of Skills and Training},
+  language  = {en}
 }
