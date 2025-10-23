@@ -14778,11 +14778,12 @@
   keywords  = {Oxford Handbook of Skills and Training}
 }
 
-@BOOK{Felstead2017-or,
+@INBOOK{Felstead2017-or,
   title     = {Measuring skills stock, job skills, and skills mismatch},
   author    = {Felstead, Alan and Gallie, Duncan and Green, Francis},
   editor    = {Buchanan, John and Finegold, David and Mayhew, Ken and Warhurst,
                Chris},
+  booktitle = {Oxford Handbooks Online},
   publisher = {Oxford University Press},
   date      = {2017-03-06},
   doi       = {10.1093/oxfordhb/9780199655366.013.16},
@@ -14800,7 +14801,7 @@
                emerged. The chapter therefore equips readers with the necessary
                tools to navigate their own way through the myriad of datasets
                available and the measures they use.},
-  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199655366.013.16},
+  url       = {https://academic.oup.com/edited-volume/27995/chapter/211715686},
   urldate   = {2025-10-23},
   keywords  = {Oxford Handbook of Skills and Training},
   language  = {en}
