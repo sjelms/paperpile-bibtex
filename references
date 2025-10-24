@@ -42458,7 +42458,7 @@
   language    = {en}
 }
 
-@UNPUBLISHED{Derrick2017-wj,
+@MISC{Derrick2017-wj,
   title      = {What features of workplaces support practitioners and teams to
                 learn and innovate?},
   author     = {Derrick, Jay},
@@ -42474,5 +42474,5 @@
                 and Unwin (2004). Links are drawn to broader UCL initiatives on
                 innovation and public value.},
   note       = {Presentation slides. Supervisor: Alison Fuller},
-  language   = {English}
+  language   = {en}
 }
