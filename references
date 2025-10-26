@@ -4274,19 +4274,6 @@
   language  = {en}
 }
 
-@INBOOK{King2018-ix,
-  title     = {Template analysis in business and management research},
-  author    = {King, Nigel and Brooks, Joanna and Tabari, Saloomeh},
-  booktitle = {Qualitative Methodologies in Organization Studies},
-  publisher = {Springer International Publishing},
-  location  = {Cham},
-  pages     = {179--206},
-  date      = {2018},
-  doi       = {10.1007/978-3-319-65442-3_8},
-  isbn      = {9783319654416,9783319654423},
-  url       = {http://dx.doi.org/10.1007/978-3-319-65442-3_8}
-}
-
 @INBOOK{Cukurova2017-fr,
   title     = {Machine and Human Observable Differences in Groups’ Collaborative
                Problem-Solving Behaviours},
