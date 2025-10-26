@@ -33112,14 +33112,22 @@
                   Git;Readwise Reader;Website;Labor;Statistics;\_Mark Up;AEC}
 }
 
-@BOOK{King2016-gz,
-  title     = {Template analysis for business and management students},
+@BOOK{King2019-nk,
+  title     = {Template Analysis for Business and Management Students},
   author    = {King, Nigel and Brooks, Joanna},
   publisher = {Sage Publications},
   location  = {Christchurch, New Zealand},
-  date      = {2016-11-10},
+  edition   = {1},
+  date      = {2019-01-02},
   pagetotal = {120},
   isbn      = {9781473952867},
+  abstract  = {In Template Analysis for Business and Management Students Nigel
+               King and Joanna Brookes guide you through the origins of template
+               analysis and its place in qualitative research, its basic
+               components, and the main strengths and limitations of this
+               method. Practical case studies and examples from published
+               research then guide you through how to use it in your own
+               research project.},
   series    = {Mastering Business Research Methods}
 }
 
