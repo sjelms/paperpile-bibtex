@@ -4274,6 +4274,38 @@
   language  = {en}
 }
 
+@INBOOK{King2018-ed,
+  title     = {Template Analysis in Business and Management Research},
+  author    = {King, Nigel and Brooks, Joanna and Tabari, Saloomeh},
+  editor    = {Ciesielska, Malgorzata and Jemielniak, Dariusz},
+  booktitle = {Qualitative Methodologies in Organization Studies: Volume II:
+               Methods and Possibilities},
+  publisher = {Springer International Publishing},
+  location  = {Cham},
+  pages     = {179--206},
+  date      = {2018},
+  doi       = {10.1007/978-3-319-65442-3_8},
+  isbn      = {9783319654423},
+  abstract  = {Thematic methods of data analysis are widely used in qualitative
+               organizational research. In this chapter, we will introduce you
+               to Template Analysis (King and Brooks, Template Analysis for
+               Business and Management Students. London: Sage, 2017), a
+               particular style of thematic analysis that has been widely used
+               in organizational and management research as well as in many
+               other disciplines. We will begin by explaining how thematic
+               approaches to data analysis are commonly used in qualitative
+               organizational research, before moving on to present Template
+               Analysis as an approach with particular utility in this field. We
+               will then present a case study example to illustrate how Template
+               Analysis is used by qualitative organizational researchers. In
+               our conclusion, we will consider the overall strengths and
+               weaknesses of the method and reflect on further developments
+               which may extend the use of Template Analysis as a flexible form
+               of thematic analysis with wide utility in qualitative
+               organizational research.},
+  url       = {https://doi.org/10.1007/978-3-319-65442-3_8}
+}
+
 @INBOOK{Cukurova2017-fr,
   title     = {Machine and Human Observable Differences in Groups’ Collaborative
                Problem-Solving Behaviours},
