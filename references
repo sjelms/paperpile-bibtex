@@ -33112,6 +33112,17 @@
                   Git;Readwise Reader;Website;Labor;Statistics;\_Mark Up;AEC}
 }
 
+@BOOK{King2016-gz,
+  title     = {Template analysis for business and management students},
+  author    = {King, Nigel and Brooks, Joanna},
+  publisher = {Sage Publications},
+  location  = {Christchurch, New Zealand},
+  date      = {2016-11-10},
+  pagetotal = {120},
+  isbn      = {9781473952867},
+  series    = {Mastering Business Research Methods}
+}
+
 @THESIS{Floren2021-av,
   title    = {Multimodal Text and Assessment: Norms Guiding Teachers’
               Recognition of Quality in Multimodal Text in Higher Education in
