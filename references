@@ -27963,6 +27963,19 @@
                Literature}
 }
 
+@ARTICLE{Hossan2025-ms,
+  title        = {Bridging Theory and Practice: Theoretical, Conceptual, and
+                  Research Frameworks},
+  author       = {Hossan, Dalowar and Wolfs, Bert and Mansor, Zuraina and
+                  Jesmin, Noor-E-Medina and Petkovic, Milos},
+  journaltitle = {International Journal of Business and Technopreneurship (IJBT)},
+  volume       = {15},
+  pages        = {267--278},
+  date         = {2025},
+  doi          = {10.58915/ijbt.v15i3.1652},
+  url          = {http://dx.doi.org/10.58915/ijbt.v15i3.1652}
+}
+
 @ARTICLE{Mishina1999-sb,
   title        = {Learning by new experiences: Revisiting the flying fortress
                   learning curve},
