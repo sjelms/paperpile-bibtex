@@ -14966,18 +14966,6 @@
   language  = {en}
 }
 
-@BOOK{Giroux2022-hi,
-  title     = {Pedagogy of Resistance: Against Manufactured Ignorance},
-  author    = {Giroux, Henry A},
-  publisher = {Bloomsbury Academic},
-  location  = {London, England},
-  date      = {2022-03-24},
-  pagetotal = {288},
-  isbn      = {9781350269514},
-  keywords  = {RNIB},
-  language  = {en}
-}
-
 @BOOK{Freire2014-dj,
   title     = {Pedagogy of Hope: Reliving Pedagogy of the Oppressed},
   author    = {Freire, Paulo},
@@ -14998,6 +14986,28 @@
                social justice.},
   series    = {Bloomsbury Revelations},
   keywords  = {RNIB}
+}
+
+@BOOK{Giroux2022-hi,
+  title     = {Pedagogy of Resistance: Against Manufactured Ignorance},
+  author    = {Giroux, Henry A},
+  publisher = {Bloomsbury Academic},
+  location  = {London, England},
+  date      = {2022-03-24},
+  pagetotal = {288},
+  isbn      = {9781350269514},
+  abstract  = {Giroux’s Pedagogy of Resistance: Against Manufactured Ignorance
+               (2022) offers a compelling argument about the growing threat of
+               fascism under neoliberal capitalist regimes, building on his
+               lifetime’s work as an educator, theorist and activist. He offers
+               a detailed analysis of how the current economic, political and
+               social climate of neoliberalism has been exacerbated by the
+               political regime of Trump’s presidency and the continued rise of
+               gangster capitalism. The book focuses primarily on the context
+               and events in North America but has widespread relevance due to
+               the global impact of capitalism.},
+  keywords  = {RNIB},
+  language  = {en}
 }
 
 @REPORT{Felstead2011-az,
