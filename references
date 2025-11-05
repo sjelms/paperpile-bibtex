@@ -14957,7 +14957,8 @@
                always systems of power. This is an urgent account of what is at
                stake as technology companies use artificial intelligence to
                reshape the world.},
-  keywords  = {EPubs Books;Artificial Intelligence (AI);ePub;RNIB},
+  keywords  = {EPubs Books;\_BibTex to MD Git;Artificial Intelligence
+               (AI);ePub;RNIB},
   language  = {en}
 }
 
@@ -14980,7 +14981,7 @@
                transform oppressive conditions, expanding possibilities for
                social justice.},
   series    = {Bloomsbury Revelations},
-  keywords  = {RNIB}
+  keywords  = {\_BibTex to MD Git;RNIB}
 }
 
 @BOOK{Giroux2022-hi,
@@ -15001,7 +15002,7 @@
                gangster capitalism. The book focuses primarily on the context
                and events in North America but has widespread relevance due to
                the global impact of capitalism.},
-  keywords  = {RNIB},
+  keywords  = {\_BibTex to MD Git;RNIB},
   language  = {en}
 }
 
@@ -15023,7 +15024,7 @@
                approach encourages students to become critically engaged agents
                who can question authority and work toward a more democratic and
                just society.},
-  keywords  = {EPubs Books;RNIB;ePub},
+  keywords  = {EPubs Books;\_BibTex to MD Git;RNIB;ePub},
   language  = {en}
 }
 
@@ -42631,7 +42632,7 @@
                as a practice of freedom and a tool for liberation from systems
                of oppression such as racism, sexism, and classism.},
   url       = {http://dx.doi.org/10.4324/9780203700280},
-  keywords  = {RNIB}
+  keywords  = {\_BibTex to MD Git;RNIB}
 }
 
 @ARTICLE{Hossan2025-ms,
@@ -42678,6 +42679,6 @@
                   governance and ethics, human resource and project management,
                   and entrepreneurship.},
   url          = {http://dx.doi.org/10.58915/ijbt.v15i3.1652},
-  keywords     = {PhD Study and Support;Research Methods;PhD Support and
-                  Training}
+  keywords     = {PhD Study and Support;\_BibTex to MD Git;Research Methods;PhD
+                  Support and Training}
 }
