@@ -14922,6 +14922,18 @@
   language  = {en}
 }
 
+@BOOK{Giroux2020-sp,
+  title     = {On critical pedagogy},
+  author    = {Giroux, Henry A},
+  publisher = {Bloomsbury Academic},
+  location  = {London, England},
+  edition   = {2},
+  date      = {2020-03-19},
+  pagetotal = {280},
+  isbn      = {9781350145009},
+  language  = {en}
+}
+
 @BOOK{Crawford2021-ae,
   title     = {The Atlas of {AI}: Power, Politics, and the Planetary Costs of
                Artificial Intelligence},
