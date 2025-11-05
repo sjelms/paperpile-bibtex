@@ -42567,3 +42567,14 @@
   isbn      = {9781135200015,9781135200015},
   url       = {http://dx.doi.org/10.4324/9780203700280}
 }
+
+@BOOK{Freire2014-dj,
+  title     = {Pedagogy of hope},
+  author    = {Freire, Paulo},
+  publisher = {Bloomsbury Academic},
+  location  = {London, England},
+  date      = {2014-04-24},
+  pagetotal = {240},
+  isbn      = {9781472532619},
+  series    = {Bloomsbury Revelations}
+}
