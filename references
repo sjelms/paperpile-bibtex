@@ -14966,18 +14966,6 @@
   language  = {en}
 }
 
-@BOOK{Freire2014-dj,
-  title     = {Pedagogy of Hope: Reliving Pedagogy of the Oppressed},
-  author    = {Freire, Paulo},
-  publisher = {Bloomsbury Academic},
-  location  = {London, England},
-  date      = {2014-04-24},
-  pagetotal = {240},
-  isbn      = {9781472532619},
-  series    = {Bloomsbury Revelations},
-  keywords  = {RNIB}
-}
-
 @BOOK{Giroux2022-hi,
   title     = {Pedagogy of Resistance: Against Manufactured Ignorance},
   author    = {Giroux, Henry A},
@@ -14988,6 +14976,28 @@
   isbn      = {9781350269514},
   keywords  = {RNIB},
   language  = {en}
+}
+
+@BOOK{Freire2014-dj,
+  title     = {Pedagogy of Hope: Reliving Pedagogy of the Oppressed},
+  author    = {Freire, Paulo},
+  publisher = {Bloomsbury Academic},
+  location  = {London, England},
+  date      = {2014-04-24},
+  pagetotal = {240},
+  isbn      = {9781472532619},
+  abstract  = {In his earliest work, Freire critiques the banking model of
+               education, whereby the educator deposits information in the
+               learners’ minds under the assumption that there is nothing to
+               learn from the learners themselves. This model resonates with
+               education under colonialism and neoliberalism, where some types
+               of knowledge are deemed more valid than others. In Pedagogy of
+               Hope, Freire invites us to overcome this model through hope, in a
+               non-idealistic but ontological manner, acting in the world to
+               transform oppressive conditions, expanding possibilities for
+               social justice.},
+  series    = {Bloomsbury Revelations},
+  keywords  = {RNIB}
 }
 
 @REPORT{Felstead2011-az,
