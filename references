@@ -14922,19 +14922,6 @@
   language  = {en}
 }
 
-@BOOK{Giroux2020-sp,
-  title     = {On Critical Pedagogy},
-  author    = {Giroux, Henry A},
-  publisher = {Bloomsbury Academic},
-  location  = {London, England},
-  edition   = {2},
-  date      = {2020-03-19},
-  pagetotal = {280},
-  isbn      = {9781350145009},
-  keywords  = {EPubs Books;RNIB;ePub},
-  language  = {en}
-}
-
 @BOOK{Crawford2021-ae,
   title     = {The Atlas of {AI}: Power, Politics, and the Planetary Costs of
                Artificial Intelligence},
@@ -15007,6 +14994,28 @@
                and events in North America but has widespread relevance due to
                the global impact of capitalism.},
   keywords  = {RNIB},
+  language  = {en}
+}
+
+@BOOK{Giroux2020-sp,
+  title     = {On Critical Pedagogy},
+  author    = {Giroux, Henry A},
+  publisher = {Bloomsbury Academic},
+  location  = {London, England},
+  edition   = {2},
+  date      = {2020-03-19},
+  pagetotal = {280},
+  isbn      = {9781350145009},
+  abstract  = {On Critical Pedagogy, Henry Giroux argues that education is
+               inherently political and should be a site for social change, not
+               just a reflection of existing power structures. The summary of
+               his work highlights the need to develop students' critical
+               consciousness through dialogue, to challenge inequalities, and to
+               move beyond merely being passive recipients of knowledge. His
+               approach encourages students to become critically engaged agents
+               who can question authority and work toward a more democratic and
+               just society.},
+  keywords  = {EPubs Books;RNIB;ePub},
   language  = {en}
 }
 
