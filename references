@@ -14966,19 +14966,6 @@
   language  = {en}
 }
 
-@BOOK{Hooks2014-xi,
-  title     = {Teaching to Transgress},
-  author    = {Hooks, Bell},
-  publisher = {Routledge},
-  location  = {London, England},
-  date      = {2014-03-18},
-  pagetotal = {200},
-  doi       = {10.4324/9780203700280},
-  isbn      = {9781135200015,9781135200015},
-  url       = {http://dx.doi.org/10.4324/9780203700280},
-  keywords  = {RNIB}
-}
-
 @BOOK{Freire2014-dj,
   title     = {Pedagogy of Hope: Reliving Pedagogy of the Oppressed},
   author    = {Freire, Paulo},
@@ -42604,4 +42591,23 @@
   url       = {https://play.google.com/store/books/details?id=Zy_EzgEACAAJ},
   keywords  = {Occupational choice},
   language  = {en}
+}
+
+@BOOK{Hooks2014-xi,
+  title     = {Teaching to Transgress: Education as the Practice of Freedom},
+  author    = {Hooks, Bell},
+  publisher = {Routledge},
+  location  = {London, England},
+  date      = {2014-03-18},
+  pagetotal = {200},
+  doi       = {10.4324/9780203700280},
+  isbn      = {9781135200015,9781135200015},
+  abstract  = {In Teaching to Transgress: Education as the Practice of Freedom
+               (1994), bell hooks argues for a holistic, "engaged pedagogy" that
+               challenges traditional, hierarchical "banking" models of
+               education. Drawing on Paulo Freire's work, she presents education
+               as a practice of freedom and a tool for liberation from systems
+               of oppression such as racism, sexism, and classism.},
+  url       = {http://dx.doi.org/10.4324/9780203700280},
+  keywords  = {RNIB}
 }
