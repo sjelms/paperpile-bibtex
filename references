@@ -2602,7 +2602,7 @@
   note      = {See Also: Nguyen-Trung2025-au},
   keywords  = {PhD Study and Support;\_BibTex to MD Git;EPubs
                Books;ePub;Research Methods;Fieldwork Methodology;PhD Support and
-               Training}
+               Training;RNIB}
 }
 
 @INBOOK{Littlejohn2022-wy,
@@ -14931,6 +14931,7 @@
   date      = {2020-03-19},
   pagetotal = {280},
   isbn      = {9781350145009},
+  keywords  = {RNIB},
   language  = {en}
 }
 
@@ -14961,7 +14962,7 @@
                always systems of power. This is an urgent account of what is at
                stake as technology companies use artificial intelligence to
                reshape the world.},
-  keywords  = {EPubs Books;Artificial Intelligence (AI);ePub},
+  keywords  = {EPubs Books;Artificial Intelligence (AI);ePub;RNIB},
   language  = {en}
 }
 
@@ -14974,7 +14975,8 @@
   pagetotal = {200},
   doi       = {10.4324/9780203700280},
   isbn      = {9781135200015,9781135200015},
-  url       = {http://dx.doi.org/10.4324/9780203700280}
+  url       = {http://dx.doi.org/10.4324/9780203700280},
+  keywords  = {RNIB}
 }
 
 @BOOK{Freire2014-dj,
@@ -14985,7 +14987,8 @@
   date      = {2014-04-24},
   pagetotal = {240},
   isbn      = {9781472532619},
-  series    = {Bloomsbury Revelations}
+  series    = {Bloomsbury Revelations},
+  keywords  = {RNIB}
 }
 
 @BOOK{Giroux2022-hi,
@@ -14996,6 +14999,7 @@
   date      = {2022-03-24},
   pagetotal = {288},
   isbn      = {9781350269514},
+  keywords  = {RNIB},
   language  = {en}
 }
 
