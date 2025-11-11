@@ -14985,13 +14985,30 @@
 }
 
 @BOOK{Crosby1973-fs,
-  title     = {How to play the environment game},
+  title     = {How to Play the Environment Game},
   author    = {Crosby, Theo},
   publisher = {Penguin Books},
   location  = {Harlow, England},
   date      = {1973-03-29},
   pagetotal = {268},
   isbn      = {9780140523041},
+  abstract  = {Theo Crosby’s How to Play the Environment Game (1973), produced
+               alongside his Hayward Gallery exhibition of the same name,
+               presents a critical and accessible exploration of the forces
+               shaping the built environment. Combining social critique, design
+               theory, and political commentary, the book reframes town planning
+               as a participatory “game” of competing interests, constraints,
+               and opportunities. Through vivid graphics, collages, and essays
+               from contemporaries like Archigram and Buckminster Fuller, Crosby
+               exposes the failures of postwar planning—its inhuman scale, car
+               dependency, and profit-driven development—while urging readers to
+               question and engage with the system shaping their surroundings.
+               Blending radical technological optimism with traditionalist
+               concern for craftsmanship and meaning, the book captures a
+               pivotal shift in Crosby’s thinking from avant-garde modernism
+               toward populist and heritage-based approaches to urban design.
+               Its warnings about unsustainable growth, social division, and the
+               erosion of civic life remain prescient today.},
   series    = {A Penguin special},
   language  = {en}
 }
