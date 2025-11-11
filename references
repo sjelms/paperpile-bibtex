@@ -14984,6 +14984,18 @@
   language  = {en}
 }
 
+@BOOK{Crosby1973-fs,
+  title     = {How to play the environment game},
+  author    = {Crosby, Theo},
+  publisher = {Penguin Books},
+  location  = {Harlow, England},
+  date      = {1973-03-29},
+  pagetotal = {268},
+  isbn      = {9780140523041},
+  series    = {A Penguin special},
+  language  = {en}
+}
+
 @REPORT{Felstead2011-az,
   type        = {resreport},
   title       = {Praxis: Working to Learn, Learning to Work},
