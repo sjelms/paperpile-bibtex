@@ -42791,7 +42791,7 @@
   journaltitle = {San Francisco Chronicle},
   date         = {2022},
   url          = {https://www.sfchronicle.com/sf/bayarea/heatherknight/article/Heres-how-to-build-affordable-housing-in-SF-16823736.php},
-  keywords     = {Abundance-Footnotes}
+  keywords     = {Abundance-Footnotes;\_BibTex to MD Git}
 }
 
 @ONLINE{Tipping-Point-Community2020-uy,
@@ -42804,5 +42804,5 @@
               and More Cost-Effectively; Second and Third Projects Underway,
               Adding over 500 Units to City’s Stock of Supportive Housing.},
   url      = {https://tippingpoint.org/press/press-releases/charles-and-helen-schwab-invest-65m-in-groundbreaking-homelessness-solutions-in-sf/},
-  keywords = {Abundance-Footnotes}
+  keywords = {Abundance-Footnotes;\_BibTex to MD Git}
 }
