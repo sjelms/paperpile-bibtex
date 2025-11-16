@@ -15045,8 +15045,9 @@
 @MISC{Klein2023-sa,
   title        = {The Problem With Everything-Bagel Liberalism},
   author       = {Klein, Ezra},
-  journaltitle = {The New York Times},
+  journaltitle = {The New York times},
   date         = {2023},
+  issn         = {0362-4331,1553-8095},
   abstract     = {Trouble comes when Democrats try to do everything everywhere
                   all at once. Government projects often become slow and
                   expensive because too many rules and goals are added. These
