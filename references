@@ -15060,6 +15060,17 @@
                   Reader;Economics;\_Mark Up}
 }
 
+@BOOK{Rubin2023-ij,
+  title     = {The creative act},
+  author    = {Rubin, Rick},
+  publisher = {Canongate Books},
+  location  = {Prestonpans, Scotland},
+  date      = {2023-01-17},
+  pagetotal = {432},
+  isbn      = {9781838858643},
+  language  = {en}
+}
+
 @REPORT{Felstead2011-az,
   type        = {resreport},
   title       = {Praxis: Working to Learn, Learning to Work},
