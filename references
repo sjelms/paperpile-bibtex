@@ -42755,8 +42755,8 @@
                   in the U.S. struggle to compete and solve big problems
                   quickly.},
   url          = {https://www.nytimes.com/2023/04/02/opinion/democrats-liberalism.html},
-  keywords     = {Abundance – How We Build a Better Future Footnotes;Readwise
-                  Reader;Economics;\_Mark Up}
+  keywords     = {Abundance – How We Build a Better Future Footnotes;\_BibTex to
+                  MD Git;Readwise Reader;Economics;\_Mark Up}
 }
 
 @BOOK{Rubin2023-ij,
@@ -42767,7 +42767,7 @@
   date      = {2023-01-17},
   pagetotal = {432},
   isbn      = {9781838858643},
-  keywords  = {EPubs Books;ePub;RNIB},
+  keywords  = {EPubs Books;\_BibTex to MD Git;ePub;RNIB},
   language  = {en}
 }
 
@@ -42791,5 +42791,6 @@
                creative potential in our work lives, and in our personal lives,
                allow us to think outside the box in terms of how we approach and
                solve problems.},
-  keywords  = {EPubs Books;ePub;RNIB;Design and Design Thinking}
+  keywords  = {EPubs Books;\_BibTex to MD Git;ePub;RNIB;Design and Design
+               Thinking}
 }
