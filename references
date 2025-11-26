@@ -1,4 +1,4 @@
-@REPORT{Francis-Devine2025-tu,
+@REPORT{UnknownUnknown-gk,
   type        = {resreport},
   title       = {Youth Unemployment Statistics},
   author      = {Francis-Devine, Brigid and Powell, Andrew B and Brooks,
@@ -10,7 +10,8 @@
                  unemployment in the UK as well as comparisons with other OECD
                  countries. The House of Commons Library is a research and
                  information service based in the UK Parliament.},
-  url         = {https://researchbriefings.files.parliament.uk/documents/SN05871/SN05871.pdf}
+  url         = {https://researchbriefings.files.parliament.uk/documents/SN05871/SN05871.pdf},
+  keywords    = {Government Report}
 }
 
 @REPORT{Egan1998-eu,
@@ -42820,10 +42821,4 @@
   url          = {http://dx.doi.org/10.58915/ijbt.v15i3.1652},
   keywords     = {PhD Study and Support;\_BibTex to MD Git;Research Methods;PhD
                   Support and Training}
-}
-
-@ARTICLE{UnknownUnknown-gk,
-  title    = {Youth unemployment statistics},
-  url      = {https://researchbriefings.files.parliament.uk/documents/SN05871/SN05871.pdf},
-  keywords = {Government Report}
 }
