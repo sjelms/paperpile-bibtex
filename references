@@ -42807,6 +42807,10 @@
   keywords = {Abundance-Footnotes;\_BibTex to MD Git}
 }
 
-@MISC{UnknownUnknown-mw,
-  url = {https://researchbriefings.files.parliament.uk/documents/SN05871/SN05871.pdf}
+@ARTICLE{Davies2016-tw,
+  title    = {Youth unemployment statistics},
+  author   = {Davies, J and Oneill, M},
+  date     = {2016-12-14},
+  url      = {https://researchbriefings.files.parliament.uk/documents/SN05871/SN05871.pdf},
+  keywords = {Government Report}
 }
