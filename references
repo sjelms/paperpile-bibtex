@@ -37357,18 +37357,6 @@
   language  = {en}
 }
 
-@BOOK{Williams2023-bn,
-  title     = {Planning Your Dissertation},
-  author    = {Williams, Kate and Reid, Michelle},
-  publisher = {Bloomsbury Academic},
-  location  = {London, England},
-  edition   = {3},
-  date      = {2023-06-15},
-  pagetotal = {200},
-  isbn      = {9781350374263},
-  language  = {en}
-}
-
 @BOOK{LeCompte2010-gu,
   title     = {Designing \& Conducting Ethnographic Research: An introduction},
   author    = {LeCompte, Margaret Diane and Schensul, Jean J},
@@ -42893,5 +42881,28 @@
                qualities in their work. It will be particularly useful to
                students writing reflective logs on placements.},
   series    = {Pocket Study Skills},
+  language  = {en}
+}
+
+@BOOK{Williams2023-bn,
+  title     = {Planning Your Dissertation},
+  author    = {Williams, Kate and Reid, Michelle},
+  publisher = {Bloomsbury Academic},
+  location  = {London, England},
+  edition   = {3},
+  date      = {2023-06-15},
+  pagetotal = {200},
+  isbn      = {9781350374263},
+  abstract  = {This essential guide takes students through the planning for each
+               stage of their dissertation, from hatching an idea to handing in
+               their finished project. Short, succinct chapters cover everything
+               from devising a research question and engaging with the
+               literature to choosing a methodology and structuring an argument.
+               It features ten sample dissertations from a range of subject
+               areas, so that students can better anticipate what lies ahead,
+               practical advice at every step and action plans to keep students
+               on track.This book is the ideal companion to all students
+               completing a dissertation as part of their undergraduate or
+               postgraduate studies, whatever their subject area.},
   language  = {en}
 }
