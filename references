@@ -93,7 +93,7 @@
 }
 
 @BOOK{Williams2011-ov,
-  title     = {Completing your {PhD}},
+  title     = {Completing Your {PhD}},
   author    = {Williams, Kate and Bethell, Emily and Lawton, Judith and
                Parfitt-Brown, Clare and Richardson, Mary and Rowe, Victoria},
   publisher = {Red Globe Press},
@@ -102,6 +102,11 @@
   pagetotal = {136},
   doi       = {10.1007/978-0-230-35681-8},
   isbn      = {9780230292819,9780230356818},
+  abstract  = {Concise and well-presented, this guide will be invaluable to any
+               PhD student seeking to successfully complete their thesis. Based
+               on students' direct experiences, the topics include developing
+               your argument, planning your time, editing, what examiners are
+               looking for, talking about your research, and the viva.},
   series    = {Pocket Study Skills},
   url       = {http://dx.doi.org/10.1007/978-0-230-35681-8},
   language  = {en}
