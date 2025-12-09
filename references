@@ -37206,19 +37206,6 @@
   language  = {en}
 }
 
-@BOOK{Williams2020-ck,
-  title     = {Reflective Writing},
-  author    = {Williams, Kate and Woolliams, Mary and Spiro, Jane},
-  publisher = {Bloomsbury Academic},
-  location  = {London, England},
-  edition   = {2},
-  date      = {2020-05-28},
-  pagetotal = {160},
-  isbn      = {9781352010084},
-  series    = {Pocket Study Skills},
-  language  = {en}
-}
-
 @ARTICLE{Noetel2024-xb,
   title        = {Effect of exercise for depression: systematic review and
                   network meta-analysis of randomised controlled trials},
@@ -42882,4 +42869,29 @@
 @ONLINE{noauthor_undated-iz,
   url     = {https://www.researchgate.net/profile/Hani-El-Chaarani/publication/366781144_HOW_TO_WRITE_YOUR_Phd_THESIS_THE_EASY_HANDBOOK/links/63b1e7dc03aad5368e58e59e/HOW-TO-WRITE-YOUR-Phd-THESIS-THE-EASY-HANDBOOK.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicHVibGljYXRpb24ifX0},
   urldate = {2025-12-07}
+}
+
+@BOOK{Williams2020-ck,
+  title     = {Reflective Writing},
+  author    = {Williams, Kate and Woolliams, Mary and Spiro, Jane},
+  publisher = {Bloomsbury Academic},
+  location  = {London, England},
+  edition   = {2},
+  date      = {2020-05-28},
+  pagetotal = {160},
+  isbn      = {9781352010084},
+  abstract  = {Packed with practical advice, this concise guide explains what
+               reflective writing is and how to approach it. It equips students
+               with all the key information and strategies they need to develop
+               an appropriate reflective writing style, whatever their subject
+               area. Annotated examples from a range of disciplines and contexts
+               show students how to put these tips into practice. It concludes
+               with a section on applying reflective practices to personal
+               development and career planning. This handy guide is an
+               indispensable resource for students of all disciplines and
+               levels, who are required to develop and demonstrate reflective
+               qualities in their work. It will be particularly useful to
+               students writing reflective logs on placements.},
+  series    = {Pocket Study Skills},
+  language  = {en}
 }
