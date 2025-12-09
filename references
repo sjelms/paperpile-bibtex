@@ -37206,6 +37206,19 @@
   language  = {en}
 }
 
+@BOOK{Williams2020-ck,
+  title     = {Reflective writing},
+  author    = {Williams, Kate and Woolliams, Mary and Spiro, Jane},
+  publisher = {Bloomsbury Academic},
+  location  = {London, England},
+  edition   = {2},
+  date      = {2020-05-28},
+  pagetotal = {160},
+  isbn      = {9781352010084},
+  series    = {Pocket Study Skills},
+  language  = {en}
+}
+
 @ARTICLE{Noetel2024-xb,
   title        = {Effect of exercise for depression: systematic review and
                   network meta-analysis of randomised controlled trials},
