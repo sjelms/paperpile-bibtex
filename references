@@ -141,13 +141,34 @@
 }
 
 @BOOK{Boughton2022-im,
-  title     = {A history of council housing in 100 estates},
+  title     = {A History of Council Housing in 100 Estates},
   author    = {Boughton, John},
   publisher = {Taylor \& Francis},
   location  = {London, England},
   date      = {2022-11-01},
   pagetotal = {272},
   isbn      = {9781000786781},
+  abstract  = {In 1980, there were well over 5 million council homes in Britain,
+               housing around one third of the population. The right of all to
+               adequate housing had been recognised in the 1948 Universal
+               Declaration of Human Rights, but, long before that, popular
+               notions of what constituted a ‘moral economy’ had advanced the
+               idea that everyone was entitled to adequate shelter. At its best,
+               council housing has been at the vanguard of housing progress – an
+               example to the private sector and a lifeline for working-class
+               and vulnerable people. However, with the emergence of
+               Thatcherism, the veneration of the free market and a desire to
+               curtail public spending, council housing became seen as a
+               problem, not a solution. We are now in the midst of a housing
+               crisis, with 1.4 million fewer social homes at affordable rent
+               than in 1980. In this highly illustrated survey, eminent social
+               historian John Boughton, author of Municipal Dreams, examines the
+               remarkable history of social housing in the UK. He presents 100
+               examples, from the almshouses of the 16th century to Goldsmith
+               Street, the 2019 winner of the RIBA Stirling Prize. Through the
+               various political, aesthetic and ideological changes, the
+               well-being of community and environment demands that good housing
+               for all must prevail.},
   language  = {en}
 }
 
