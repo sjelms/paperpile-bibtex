@@ -140,6 +140,17 @@
   language  = {en}
 }
 
+@BOOK{Boughton2022-im,
+  title     = {A history of council housing in 100 estates},
+  author    = {Boughton, John},
+  publisher = {Taylor \& Francis},
+  location  = {London, England},
+  date      = {2022-11-01},
+  pagetotal = {272},
+  isbn      = {9781000786781},
+  language  = {en}
+}
+
 @REPORT{Egan1998-eu,
   type      = {resreport},
   title     = {Rethinking Construction: The Report of the Construction Task
