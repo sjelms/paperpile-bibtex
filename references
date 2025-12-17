@@ -246,6 +246,19 @@
                Methodology;PhD Support and Training;UCL;ePub;RNIB}
 }
 
+@BOOK{Danermark2019-uv,
+  title     = {Explaining society},
+  author    = {Danermark, Berth and Ekström, Mats and Karlsson, Jan Ch},
+  publisher = {Routledge},
+  location  = {London, England},
+  edition   = {2},
+  date      = {2019-04-08},
+  pagetotal = {228},
+  isbn      = {9781351017817},
+  series    = {Routledge Studies in Critical Realism},
+  language  = {en}
+}
+
 @REPORT{Egan1998-eu,
   type      = {resreport},
   title     = {Rethinking Construction: The Report of the Construction Task
