@@ -270,7 +270,8 @@
                scholars of sociology, philosophy, and the social sciences more
                broadly.},
   series    = {Routledge Studies in Critical Realism},
-  keywords  = {EPubs Books;Theory and Methods;ePub;RNIB;Research Methods},
+  keywords  = {EPubs Books;Theory and Methods;\_BibTex to MD
+               Git;ePub;RNIB;Research Methods},
   language  = {en}
 }
 
@@ -291,7 +292,8 @@
                innovative picture of what society and social science is, along
                with the methods used to study and explain social phenomena.},
   series    = {Critical realism--interventions},
-  keywords  = {EPubs Books;Theory and Methods;ePub;RNIB;Research Methods},
+  keywords  = {EPubs Books;Theory and Methods;\_BibTex to MD
+               Git;ePub;RNIB;Research Methods},
   language  = {en}
 }
 
