@@ -246,6 +246,13 @@
                Methodology;PhD Support and Training;UCL;ePub;RNIB}
 }
 
+@BOOK{Abiad2023-gb,
+  title  = {{HOW} {TO} {WRITE} {YOUR} Phd {THESIS}: {THE} {EASY} {HANDBOOK}},
+  author = {Abiad, Zouhour and El-Chaarani, Hani},
+  date   = {2023},
+  isbn   = {9789390620005}
+}
+
 @BOOK{Danermark2019-uv,
   title     = {Explaining Society: Critical Realism in the Social Sciences},
   author    = {Danermark, Berth and Ekström, Mats and Karlsson, Jan Ch},
