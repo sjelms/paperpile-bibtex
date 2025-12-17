@@ -246,6 +246,19 @@
                Methodology;PhD Support and Training;UCL;ePub;RNIB}
 }
 
+@BOOK{Danermark2005-wo,
+  title     = {Explaining society},
+  author    = {Danermark, Berth and Ekstrom, Mats and Jakobsen, Liselotte and
+               Karlsson, Jan ch},
+  publisher = {Routledge},
+  location  = {London, England},
+  date      = {2005-06-29},
+  pagetotal = {240},
+  isbn      = {9781134737482},
+  series    = {Critical realism--interventions},
+  language  = {en}
+}
+
 @BOOK{Danermark2019-uv,
   title     = {Explaining Society: Critical Realism in the Social Sciences},
   author    = {Danermark, Berth and Ekström, Mats and Karlsson, Jan Ch},
