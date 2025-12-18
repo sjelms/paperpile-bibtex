@@ -20265,7 +20265,7 @@
   date         = {2020-05-03},
   doi          = {10.1080/08956308.2020.1733890},
   url          = {https://doi.org/10.1080/08956308.2020.1733890},
-  keywords     = {Notion Catalogued;\_BibTex to MD Git;\_Cataloged}
+  keywords     = {Notion Catalogued;\_BibTex to MD Git;\_Cataloged;Interview}
 }
 
 @BOOK{Wallbank2018-dj,
@@ -21363,7 +21363,7 @@
                   ever. What do we know now about the power of disruption and
                   where it's taking us?},
   url          = {https://www.proquest.com/scholarly-journals/disruption-2020-interview-with-clayton-m/docview/2381632425/se-2?accountid=14511},
-  keywords     = {Notion Catalogued;\_BibTex to MD Git;\_Cataloged}
+  keywords     = {Notion Catalogued;\_BibTex to MD Git;\_Cataloged;Interview}
 }
 
 @ARTICLE{Gavish2015-mv,
@@ -27024,7 +27024,7 @@
   keywords   = {O'Reilly Media (Publisher); O'Reilly; OReilly; OReilly Media;
                 design; multimodal design; Internet of Things; Web design; Web
                 development;Notion Catalogued;\_BibTex to MD
-                Git;YouTube;HCI;\_Cataloged}
+                Git;YouTube;HCI;\_Cataloged;Interview}
 }
 
 @MISC{Florida2018-xv,
@@ -43164,6 +43164,6 @@
                   conducted by Professor Jamie Morgan for Journal of Critical
                   Realism.},
   url          = {http://dx.doi.org/10.1080/14767430.2023.2188710},
-  keywords     = {Theory and Methods;Research Methods},
+  keywords     = {Theory and Methods;Research Methods;Interview},
   language     = {en}
 }
