@@ -42466,6 +42466,17 @@
                   Literature;Recommended}
 }
 
+@BOOK{Dehaene2020-vn,
+  title     = {How we learn},
+  author    = {Dehaene, Stanislas},
+  publisher = {Penguin Books},
+  location  = {Harlow, England},
+  date      = {2020-01-28},
+  pagetotal = {336},
+  isbn      = {9780241366479},
+  language  = {en}
+}
+
 @PERIODICAL{Khanna2014-mw,
   title     = {Contextual Intelligence},
   editor    = {Khanna, Tarun},
