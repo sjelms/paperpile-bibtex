@@ -450,6 +450,32 @@
   language  = {en}
 }
 
+@BOOK{Berne1973-ik,
+  title     = {Games People Play: The psychology of human relationships},
+  author    = {Berne, Eric},
+  publisher = {Penguin UK},
+  date      = {1973-07-26},
+  pagetotal = {214},
+  isbn      = {9780141938363},
+  abstract  = {'If you're going to read one psychology book in your lifetime...
+               it should be his one' - Neil Hunter, Amazon Review Fed up of
+               feeling controlled at work? Feel trapped in a toxic relationship
+               but don't know how to escape? Always feel like you lose the
+               argument even if you know deep down you're right? Widely
+               recognised as the most original and influential psychology book
+               of our time, Games People Play has helped millions of people
+               better understand human basic social interactions and
+               relationships. We play games all the time; relationship games;
+               power games with our bosses and competitive games with our
+               friends. In this book, Berne reveals the secret ploys and
+               manoeuvres that rule our lives and how to combat them. Giving you
+               the keys to unlock the psychology of others and yourself, this
+               classic, entertaining and life-changing book will open up the
+               door to honest communication and teach you how to get the most
+               out of life.},
+  language  = {en}
+}
+
 @REPORT{Egan1998-eu,
   type      = {resreport},
   title     = {Rethinking Construction: The Report of the Construction Task
