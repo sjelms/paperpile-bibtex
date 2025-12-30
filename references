@@ -413,7 +413,8 @@
                large-scale cooperation, shaping our cultures, societies, and
                future, while questioning the true meaning of "progress" and our
                impact on the planet.},
-  keywords  = {EPubs Books;Politics and Society;RNIB;Politics and Society;ePub}
+  keywords  = {EPubs Books;Politics and Society;\_BibTex to MD Git;RNIB;Politics
+               and Society;ePub}
 }
 
 @BOOK{Dehaene2020-vn,
@@ -446,7 +447,8 @@
                explain how learning really works and how to make the best use of
                the brain's learning algorithms—and even improve them—in our
                schools and universities as well as in everyday life.},
-  keywords  = {EPubs Books;ePub;RNIB;Education;Philosophy of Education},
+  keywords  = {EPubs Books;\_BibTex to MD Git;ePub;RNIB;Education;Philosophy of
+               Education},
   language  = {en}
 }
 
@@ -468,7 +470,7 @@
                also an accessible and fascinating read. It is a wise, original,
                witty and very sensible analysis of the games we play in order to
                live with one another – and with ourselves.},
-  keywords  = {EPubs Books;ePub;RNIB;Psychology},
+  keywords  = {EPubs Books;\_BibTex to MD Git;ePub;RNIB;Psychology},
   language  = {en}
 }
 
