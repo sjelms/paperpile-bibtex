@@ -388,8 +388,8 @@
   language  = {en}
 }
 
-@MISC{von-Bergmann2025-qb,
-  title  = {Demand Based Zoning},
+@ONLINE{von-Bergmann2025-qb,
+  title  = {Demand-Based Zoning},
   author = {von Bergmann, Jens and Lauster, Nathan},
   date   = {2025-08-04},
   url    = {https://doodles.mountainmath.ca/posts/2025-08-04-demand-based-zoning/}
