@@ -23,7 +23,7 @@
                he traces the feedback loops between polarized political
                identities and polarized political institutions that are driving
                our system toward crisis.},
-  keywords  = {Audible;Audiobook;Politics and Society},
+  keywords  = {Audible;\_BibTex to MD Git;Audiobook;Politics and Society},
   language  = {en}
 }
 
@@ -295,7 +295,7 @@
                divided to 6 main sections to present the different phases that
                any PhD’s student should follow to accomplish his/her research
                work in professional and successful way.},
-  keywords  = {PhD Study and Support;PhD Support and Training}
+  keywords  = {PhD Study and Support;\_BibTex to MD Git;PhD Support and Training}
 }
 
 @BOOK{Danermark2019-uv,
@@ -383,7 +383,8 @@
                   conducted by Professor Jamie Morgan for Journal of Critical
                   Realism.},
   url          = {http://dx.doi.org/10.1080/14767430.2023.2188710},
-  keywords     = {Theory and Methods;Research Methods;Interview},
+  keywords     = {Theory and Methods;\_BibTex to MD Git;Research
+                  Methods;Interview},
   language     = {en}
 }
 
