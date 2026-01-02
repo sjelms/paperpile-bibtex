@@ -40052,6 +40052,16 @@
   language  = {en}
 }
 
+@BOOK{Klein2020-xn,
+  title     = {Why We'Re polarized},
+  author    = {Klein, Ezra},
+  publisher = {Avid Reader Press/Simon \& Schuster},
+  date      = {2020-01-28},
+  pagetotal = {336},
+  isbn      = {9781476700328},
+  language  = {en}
+}
+
 @INBOOK{Grugulis2004-ym,
   title     = {What’s happening to ‘skill’?},
   author    = {Grugulis, Irena and Warhurst, Chris and Keep, Ewart},
