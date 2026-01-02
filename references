@@ -29952,7 +29952,7 @@
                into our collective future-while reminding readers that,
                ultimately, humankind remains the author of its destiny.},
   url       = {https://play.google.com/store/books/details?id=tUASEAAAQBAJ},
-  keywords  = {2\_Upgrade MAY 2023;\_BibTex to MD Git;EPubs Books;Book
+  keywords  = {2\_Upgrade MAY 2023;\_BibTex to MD Git;EPubs Books;Audible;Book
                (physical);Artificial Intelligence (AI);ePub;Audiobook},
   language  = {en}
 }
@@ -30951,7 +30951,7 @@
                stories of Olympic gold medalists, leading CEOs, and
                distinguished scientists who have used the science of tiny habits
                to stay productive, motivated, and happy.},
-  keywords  = {\_BibTex to MD Git;Book (physical);Audiobook}
+  keywords  = {\_BibTex to MD Git;Audible;Book (physical);Audiobook}
 }
 
 @BOOK{Hyde2021-ai,
@@ -35893,7 +35893,7 @@
   date      = {2014-03-13},
   pagetotal = {368},
   isbn      = {9781408826690},
-  keywords  = {EPubs Books;ePub;Audiobook}
+  keywords  = {EPubs Books;Audible;ePub;Audiobook}
 }
 
 @INPROCEEDINGS{Luckin2001-ue,
@@ -37974,7 +37974,7 @@
   date      = {2011-08-31},
   pagetotal = {416},
   isbn      = {9781446490594},
-  keywords  = {EPubs Books;ePub;Audiobook;RNIB},
+  keywords  = {EPubs Books;Audible;ePub;Audiobook;RNIB},
   language  = {en}
 }
 
