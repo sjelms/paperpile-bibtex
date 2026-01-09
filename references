@@ -2647,7 +2647,8 @@
                  Consultation Team, Ministry of Housing, Communities and Local
                  Government. 123 pages.},
   keywords    = {Government Report; Planning; Policy; Consultation; UK
-                 Parliament;Government Report;Report;AEC}
+                 Parliament;Government Report;BSSC Seed Fund for AI
+                 Research;Report;AEC}
 }
 
 @BOOK{Polanyi1966-zb,
@@ -13827,7 +13828,8 @@
                  Consultation Team, Ministry of Housing, Communities and Local
                  Government.},
   keywords    = {Government Report; Planning; Policy; Consultation; UK
-                 Parliament;Government Report;AEC;Report}
+                 Parliament;Government Report;BSSC Seed Fund for AI
+                 Research;AEC;Report}
 }
 
 @REPORT{Barua2020-br,
@@ -43421,8 +43423,8 @@
                   scalable, and aligned with the discipline-specific demands of
                   engineering education.},
   url          = {http://dx.doi.org/10.1109/access.2025.3626473},
-  keywords     = {Intelligent Tutoring Systems (ITS);AIEd;Artificial
-                  Intelligence (AI)}
+  keywords     = {Intelligent Tutoring Systems (ITS);BSSC Seed Fund for AI
+                  Research;AIEd;Artificial Intelligence (AI)}
 }
 
 @ARTICLE{Darlow2022-gi,
@@ -43467,5 +43469,6 @@
                   been paid to investigating the uptake of automation for OSC
                   sub-sector of construction industry in New Zealand context.},
   url          = {http://dx.doi.org/10.1108/bepam-11-2020-0174},
+  keywords     = {BSSC Seed Fund for AI Research},
   language     = {en}
 }
