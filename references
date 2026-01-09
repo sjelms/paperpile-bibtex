@@ -2632,6 +2632,21 @@
   keywords     = {Spatial Computing XR MR VR;\_BibTex to MD Git;\_XR MR VR AR}
 }
 
+@ONLINE{Ministry-of-Housing-Communities-and-Local-Government2025-cf,
+  title     = {Proposed Reforms to the National Planning Policy Framework and
+               Other Changes to the Planning System},
+  author    = {{Ministry of Housing, Communities, and Local Government}},
+  booktitle = {Planning Policy Consultation Team, Ministry of Housing,
+               Communities, and Local Government},
+  location  = {Fry Building, 2 Marsham Street, London, SW1P 4DF},
+  date      = {2025-12},
+  note      = {© Crown copyright 2025. Prepared by the Planning Policy
+               Consultation Team, Ministry of Housing, Communities and Local
+               Government. 123 pages.},
+  keywords  = {Government Report; Planning; Policy; Consultation; UK
+               Parliament;Government Report;Report;AEC}
+}
+
 @BOOK{Polanyi1966-zb,
   title     = {The Tacit Dimension},
   author    = {Polanyi, Michael},
@@ -15077,21 +15092,6 @@
   url       = {https://www.reed.co.uk/courses/building-construction-course/315859#/courses/construction-training},
   urldate   = {2021-09-09},
   keywords  = {Workplace Learning;AEC}
-}
-
-@ONLINE{Ministry-of-Housing-Communities-and-Local-Government2025-cf,
-  title     = {Proposed Reforms to the National Planning Policy Framework and
-               Other Changes to the Planning System},
-  author    = {{Ministry of Housing, Communities, and Local Government}},
-  booktitle = {Planning Policy Consultation Team, Ministry of Housing,
-               Communities, and Local Government},
-  location  = {Fry Building, 2 Marsham Street, London, SW1P 4DF},
-  date      = {2025-12},
-  note      = {© Crown copyright 2025. Prepared by the Planning Policy
-               Consultation Team, Ministry of Housing, Communities and Local
-               Government. 123 pages.},
-  keywords  = {Government Report; Planning; Policy; Consultation; UK
-               Parliament;Government Report}
 }
 
 @ARTICLE{Wiesen2018-aa,
