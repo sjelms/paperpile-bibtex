@@ -571,7 +571,8 @@
                   ITS platforms that are pedagogically robust, technically
                   scalable, and aligned with the discipline-specific demands of
                   engineering education.},
-  url          = {http://dx.doi.org/10.1109/access.2025.3626473}
+  url          = {http://dx.doi.org/10.1109/access.2025.3626473},
+  keywords     = {AIEd}
 }
 
 @REPORT{Egan1998-eu,
