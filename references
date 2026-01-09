@@ -35639,19 +35639,18 @@
   language  = {en}
 }
 
-@ONLINE{Ministry-of-Housing-Communities-and-Local-Government2025-bf,
-  title     = {National Planning Policy Framework: Plan-Making and National
-               Decision-Making Policies},
-  author    = {{Ministry of Housing, Communities, and Local Government}},
-  booktitle = {Planning Policy Consultation Team, Ministry of Housing,
-               Communities, and Local Government},
-  location  = {Fry Building, 2 Marsham Street, London, SW1P 4DF},
-  date      = {2025-12},
-  note      = {© Crown copyright 2025. Prepared by the Planning Policy
-               Consultation Team, Ministry of Housing, Communities and Local
-               Government.},
-  keywords  = {Government Report; Planning; Policy; Consultation; UK
-               Parliament;Government Report;AEC;Report}
+@REPORT{Ministry-of-Housing-Communities-and-Local-Government2025-bf,
+  type     = {resreport},
+  title    = {National Planning Policy Framework: Plan-Making and National
+              Decision-Making Policies},
+  author   = {{Ministry of Housing, Communities, and Local Government}},
+  location = {Fry Building, 2 Marsham Street, London, SW1P 4DF},
+  date     = {2025-12},
+  note     = {© Crown copyright 2025. Prepared by the Planning Policy
+              Consultation Team, Ministry of Housing, Communities and Local
+              Government.},
+  keywords = {Government Report; Planning; Policy; Consultation; UK
+              Parliament;Government Report;AEC;Report}
 }
 
 @BOOK{Sangaramoorthy2020-hi,
