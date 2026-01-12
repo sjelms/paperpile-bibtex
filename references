@@ -41170,7 +41170,7 @@
                creates wealth, hence capitalism is exploitive and antithetical
                to freedom.},
   series    = {Penguin Pocket Hardbacks},
-  keywords  = {EPubs Books;ePub;RNIB;Politics and Society},
+  keywords  = {EPubs Books;\_BibTex to MD Git;ePub;RNIB;Politics and Society},
   language  = {en}
 }
 
@@ -43536,7 +43536,7 @@
                project, infrastructure and engineering management,
                organisational science, economics, and business management.},
   keywords  = {Procurement Supply Chain Management (BSSC0053);EPubs
-               Books;RNIB;PGTA;ePub;AEC;UCL},
+               Books;\_BibTex to MD Git;RNIB;PGTA;ePub;AEC;UCL},
   language  = {en}
 }
 
@@ -43557,6 +43557,6 @@
                infrastructure, the book expands upon the detailed coverage of
                integrated project delivery and new lean tools and techniques.},
   keywords  = {Procurement Supply Chain Management (BSSC0053);EPubs
-               Books;RNIB;PGTA;ePub;AEC},
+               Books;\_BibTex to MD Git;RNIB;PGTA;ePub;AEC},
   language  = {en}
 }
