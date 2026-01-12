@@ -39324,6 +39324,19 @@
   language    = {en}
 }
 
+@BOOK{Forbes2020-sw,
+  title     = {Lean project delivery and integrated practices in modern
+               construction},
+  author    = {Forbes, Lincoln H and Ahmed, Syed M},
+  publisher = {Routledge},
+  location  = {London, England},
+  edition   = {2},
+  date      = {2020-04-01},
+  pagetotal = {502},
+  isbn      = {9780429859342},
+  language  = {en}
+}
+
 @ARTICLE{Agolla2018-uw,
   title        = {Human capital in the smart manufacturing and industry 4.0
                   revolution},
