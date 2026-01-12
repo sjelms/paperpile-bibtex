@@ -39325,8 +39325,8 @@
 }
 
 @BOOK{Forbes2020-sw,
-  title     = {Lean project delivery and integrated practices in modern
-               construction},
+  title     = {Lean Project Delivery and Integrated Practices in Modern
+               Construction},
   author    = {Forbes, Lincoln H and Ahmed, Syed M},
   publisher = {Routledge},
   location  = {London, England},
@@ -39334,6 +39334,12 @@
   date      = {2020-04-01},
   pagetotal = {502},
   isbn      = {9780429859342},
+  abstract  = {This book provides a multi-faceted approach for applying lean
+               methodologies to improve design and construction processes.
+               Recognizing the wide diversity in the landscape of projects, and
+               encompassing private and public sector activity, buildings and
+               infrastructure, the book expands upon the detailed coverage of
+               integrated project delivery and new lean tools and techniques.},
   language  = {en}
 }
 
