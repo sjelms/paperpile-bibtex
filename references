@@ -30972,29 +30972,6 @@
                  Readwise;AEC;\_New Literature}
 }
 
-@BOOK{Feynman2007-tl,
-  title     = {'what do you care what other people think?': Further adventures
-               of a curious character},
-  author    = {Feynman, Richard P},
-  publisher = {Penguin UK},
-  date      = {2007-09-06},
-  pagetotal = {320},
-  isbn      = {9780141937588},
-  abstract  = {Richard Feynman – Nobel Laureate, teacher, icon and genius –
-               possessed an unquenchable thirst for adventure and an
-               unparalleled gift for telling the extraordinary stories of his
-               life. In this collection of short pieces and reminiscences he
-               describes everything from his love of beauty to college pranks to
-               how his father taught him to think. He takes us behind the scenes
-               of the space shuttle Challenger investigation, where he
-               dramatically revealed the cause of the disaster with a simple
-               experiment. And he tells us of how he met his beloved first wife
-               Arlene, and their brief time together before her death. Sometimes
-               intensely moving, sometimes funny, these writings are infused
-               with Feynman’s curiosity and passion for life.},
-  language  = {en}
-}
-
 @REPORT{Jones2021-bu,
   type      = {resreport},
   title     = {The Role of Industry – University Collaboration in Construction},
@@ -38326,6 +38303,29 @@
   url      = {https://www.wsj.com/amp/articles/big-brains-new-books-on-artificial-intelligence-11621607063},
   keywords = {Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;\_BibTex to
               MD Git}
+}
+
+@BOOK{Feynman2007-tl,
+  title     = {'What Do You Care What Other People Think?'Further Adventures of
+               a Curious Character},
+  author    = {Feynman, Richard P},
+  publisher = {Penguin UK},
+  date      = {2007-09-06},
+  pagetotal = {320},
+  isbn      = {9780141937588},
+  abstract  = {Richard Feynman – Nobel Laureate, teacher, icon and genius –
+               possessed an unquenchable thirst for adventure and an
+               unparalleled gift for telling the extraordinary stories of his
+               life. In this collection of short pieces and reminiscences he
+               describes everything from his love of beauty to college pranks to
+               how his father taught him to think. He takes us behind the scenes
+               of the space shuttle Challenger investigation, where he
+               dramatically revealed the cause of the disaster with a simple
+               experiment. And he tells us of how he met his beloved first wife
+               Arlene, and their brief time together before her death. Sometimes
+               intensely moving, sometimes funny, these writings are infused
+               with Feynman’s curiosity and passion for life.},
+  language  = {en}
 }
 
 @ONLINE{WTF-Happened-In-19712019-ha,
