@@ -862,6 +862,17 @@
   language  = {en}
 }
 
+@BOOK{Feynman2022-uv,
+  title     = {Surely you're joking Mr Feynman},
+  author    = {Feynman, Richard P},
+  publisher = {Vintage Classics},
+  location  = {London, England},
+  date      = {2022-06-16},
+  pagetotal = {368},
+  isbn      = {9781784877798},
+  language  = {en}
+}
+
 @REPORT{Egan1998-eu,
   type      = {resreport},
   title     = {Rethinking Construction: The Report of the Construction Task
