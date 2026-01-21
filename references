@@ -43801,8 +43801,10 @@
 }
 
 @BOOK{Feynman2011-tz,
-  title     = {Six easy pieces},
-  author    = {Feynman, Richard P and Leighton, Robert B and Sands, Matthew},
+  title     = {Six Easy Pieces: Essentials of Physics Explained by Its Most
+               Brilliant Teacher},
+  author    = {Feynman, Richard Phillips and Leighton, Robert B and Sands,
+               Matthew},
   publisher = {Basic Books},
   location  = {New York, NY},
   edition   = {4},
