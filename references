@@ -760,6 +760,21 @@
   language  = {en}
 }
 
+@BOOK{Feynman2011-tz,
+  title     = {Six Easy Pieces: Essentials of Physics Explained by Its Most
+               Brilliant Teacher},
+  author    = {Feynman, Richard Phillips and Leighton, Robert B and Sands,
+               Matthew},
+  publisher = {Basic Books},
+  location  = {New York, NY},
+  edition   = {4},
+  date      = {2011-03-22},
+  pagetotal = {176},
+  isbn      = {9780465025299},
+  keywords  = {Misc;EPubs Books;\_BibTex to MD Git;RNIB;ePub;Knowledge - Skill
+               Acquisition}
+}
+
 @BOOK{Feynman2025-po,
   title     = {The Quotable Feynman},
   author    = {Feynman, Richard Phillips},
@@ -818,22 +833,9 @@
                pay you to do what you want to do anyway.""I'd hate to die twice.
                It's so boring."},
   url       = {http://dx.doi.org/10.1515/9781400874231},
-  keywords  = {Misc;EPubs Books;RNIB;ePub;Knowledge - Skill Acquisition},
+  keywords  = {Misc;EPubs Books;\_BibTex to MD Git;RNIB;ePub;Knowledge - Skill
+               Acquisition},
   language  = {en}
-}
-
-@BOOK{Feynman2011-tz,
-  title     = {Six Easy Pieces: Essentials of Physics Explained by Its Most
-               Brilliant Teacher},
-  author    = {Feynman, Richard Phillips and Leighton, Robert B and Sands,
-               Matthew},
-  publisher = {Basic Books},
-  location  = {New York, NY},
-  edition   = {4},
-  date      = {2011-03-22},
-  pagetotal = {176},
-  isbn      = {9780465025299},
-  keywords  = {Misc;EPubs Books;RNIB;ePub;Knowledge - Skill Acquisition}
 }
 
 @REPORT{Egan1998-eu,
