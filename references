@@ -759,20 +759,6 @@
   language  = {en}
 }
 
-@BOOK{Aldrich2021-ru,
-  title     = {The {UCL} institute of education},
-  author    = {Aldrich, Richard and Woodin, Tom},
-  publisher = {UCL Press},
-  location  = {London, England},
-  edition   = {2},
-  date      = {2021-06-08},
-  pagetotal = {370},
-  doi       = {10.14324/111.9781787359512},
-  isbn      = {9781787359512},
-  url       = {http://dx.doi.org/10.14324/111.9781787359512},
-  language  = {en}
-}
-
 @BOOK{Feynman2011-tz,
   title     = {Six Easy Pieces: Essentials of Physics Explained by Its Most
                Brilliant Teacher},
@@ -1077,6 +1063,44 @@
                attitudes to class, race, gender, sex and sexuality across two
                centuries.},
   url       = {http://dx.doi.org/10.14324/111.9781806550166},
+  language  = {en}
+}
+
+@BOOK{Aldrich2021-ru,
+  title     = {The {UCL} Institute of Education: From Training College To Global
+               Institution},
+  author    = {Aldrich, Richard and Woodin, Tom},
+  publisher = {UCL Press},
+  location  = {London, England},
+  edition   = {2},
+  date      = {2021-06-08},
+  pagetotal = {373},
+  doi       = {10.14324/111.9781787359512},
+  isbn      = {9781787359512},
+  abstract  = {The history of the UCL Institute of Education is one of
+               persistent renewal. Since its founding in 1902 as the London Day
+               Training College, through its establishment as a university
+               institute and merger with UCL, the IOE has constantly grown into
+               new areas of learning and social research. As a locus for
+               leadership, it has exerted influence upon the nature and
+               direction of education nationally and internationally. Drawing
+               upon a wide range of sources, the connections between internal
+               history and external historical developments are sensitively
+               teased out. The result is an elegantly written history,
+               characterised by substantial scholarship and analysis, and
+               enlivened by illustrations and anecdote. The pages of this book
+               are peopled with some of the most influential, and at times
+               controversial, figures of education, including Sidney Webb, Cyril
+               Burt, Susan Isaacs, Sophie Bryant, Richard Peters, Basil
+               Bernstein, Ann Oakley, Celia Hoyles and Stephen Ball. Two new
+               chapters extend Richard Aldrich’s text to 2020. These examine the
+               extraordinary years of growth in the early 2000s, followed by a
+               period of consolidation, merger with UCL and subsequent
+               expansion. The IOE is unique in successfully pursuing a
+               world-leading research agenda while also supporting a wide range
+               of teacher education, having an impact in London, across Britain
+               and the world.},
+  url       = {http://dx.doi.org/10.14324/111.9781787359512},
   language  = {en}
 }
 
