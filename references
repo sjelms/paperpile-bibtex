@@ -759,6 +759,18 @@
   language  = {en}
 }
 
+@BOOK{Brewis2026-wd,
+  title     = {Student London},
+  author    = {Brewis, Georgina and Blaxland, Sam},
+  publisher = {UCL Press},
+  location  = {London, England},
+  date      = {2026-02-11},
+  doi       = {10.14324/111.9781806550166},
+  isbn      = {9781806550166},
+  url       = {http://dx.doi.org/10.14324/111.9781806550166},
+  language  = {en}
+}
+
 @BOOK{Feynman2011-tz,
   title     = {Six Easy Pieces: Essentials of Physics Explained by Its Most
                Brilliant Teacher},
