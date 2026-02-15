@@ -14310,7 +14310,8 @@
                institutions that no longer deliver on big ideas. It's time for
                change.},
   url       = {https://books.google.com/books/about/Abundance.html?id=pskwEQAAQBAJ},
-  keywords  = {\_BibTex to MD Git;Audible;Economics;Audiobook;Book (physical)},
+  keywords  = {\_BibTex to MD Git;Audible;Economics;Audiobook;Book
+               (physical);ePub},
   language  = {en}
 }
 
@@ -16022,7 +16023,7 @@
                stories of Olympic gold medalists, leading CEOs, and
                distinguished scientists who have used the science of tiny habits
                to stay productive, motivated, and happy.},
-  keywords  = {\_BibTex to MD Git;Audible;Book (physical);Audiobook}
+  keywords  = {\_BibTex to MD Git;Audible;Book (physical);Audiobook;ePub}
 }
 
 @BOOK{Bryson2004-sn,
