@@ -1106,6 +1106,16 @@
   language  = {en}
 }
 
+@BOOK{Wing2009-xb,
+  title     = {The visual handbook of building and remodeling},
+  author    = {Wing, Charlie},
+  publisher = {Taunton Press},
+  edition   = {3},
+  date      = {2009-12-01},
+  pagetotal = {632},
+  isbn      = {9781600852466}
+}
+
 @REPORT{Egan1998-eu,
   type      = {resreport},
   title     = {Rethinking Construction: The Report of the Construction Task
