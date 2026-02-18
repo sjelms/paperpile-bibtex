@@ -37125,15 +37125,22 @@
   language     = {en}
 }
 
-@BOOK{Brynjolfsson2024-gd,
+@BOOK{Beato2024-nt,
   title     = {The Digitalist Papers: Artificial Intelligence and Democracy in
                America},
-  author    = {Brynjolfsson, Erik and Pentland, Alex and Persily, Nathaniel and
+  author    = {Beato, Greg and Bisesto, Laura and Cochrane, John and Friar,
+               Sarah and Hamdy, Mona and Hoffman, Reid and Huang, Saffron and
+               Lessig, Lawrence and Manyika, James and Moore, Johnnie and
+               Pahlka, Jennifer and Pentland, Alex and Persily, Nathaniel and
+               Schmidt, Eric and Siddarth, Divya and Tang, Audrey and Tsai, Lily
+               L and Volokh, Eugene and Weyl, E Glen},
+  editor    = {Brynjolfsson, Erik and Pentland, Alex and Persily, Nathaniel and
                Rice, Condoleezza and Aristidou, Angela},
   publisher = {Stanford Digital Economy Lab},
   location  = {Stanford, CA},
-  edition   = {First Edition},
-  date      = {2024},
+  volume    = {1},
+  date      = {2024-09-24},
+  pagetotal = {252},
   abstract  = {Rapid advances in AI are reshaping how we govern ourselves.
                Inspired by The Federalist Papers, which promoted the idea of a
                nation designed by intent rather than by accident, The Digitalist
