@@ -1253,6 +1253,17 @@
   origtitle = {<i>Flickan som lekte med elden</i>}
 }
 
+@BOOK{Larsson2015-kq,
+  title     = {The girl with the dragon tattoo},
+  author    = {Larsson, Stieg},
+  publisher = {MacLehose Press},
+  location  = {London, England},
+  date      = {2015-06-04},
+  pagetotal = {544},
+  isbn      = {9780857054036},
+  series    = {a Dragon Tattoo story}
+}
+
 @REPORT{Egan1998-eu,
   type      = {resreport},
   title     = {Rethinking Construction: The Report of the Construction Task
