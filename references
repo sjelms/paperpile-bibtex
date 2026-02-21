@@ -1241,18 +1241,6 @@
   origtitle = {<i>Luftslottet som sprängdes</i>}
 }
 
-@BOOK{Larsson2006-cl,
-  title     = {\textit{The Girl Who Played with Fire}},
-  author    = {Larsson, Stieg},
-  publisher = {MacLehose Press},
-  location  = {London, England},
-  date      = {2006-06},
-  pagetotal = {576},
-  isbn      = {9780857054043},
-  series    = {Millennium},
-  origtitle = {<i>Flickan som lekte med elden</i>}
-}
-
 @BOOK{Larsson2005-qy,
   title     = {\textit{The Girl with the Dragon Tattoo}},
   author    = {Larsson, Stieg},
@@ -1273,6 +1261,30 @@
                family history.},
   series    = {Millennium},
   origtitle = {<i>Män som hatar kvinnor</i>}
+}
+
+@BOOK{Larsson2006-cl,
+  title     = {\textit{The Girl Who Played with Fire}},
+  author    = {Larsson, Stieg},
+  publisher = {MacLehose Press},
+  location  = {London, England},
+  date      = {2006-06},
+  pagetotal = {576},
+  isbn      = {9780857054043},
+  abstract  = {Lisbeth Salander is a wanted woman. Two Millennium journalists
+               about to expose the truth about sex trafficking in Sweden are
+               murdered, and Salander's prints are on the weapon. Her history of
+               unpredictable and vengeful behaviour makes her an official danger
+               to society - but no-one can find her. Mikael Blomkvist,
+               Millennium magazine's legendary star reporter, does not believe
+               the police. Using all his magazine staff and resources to prove
+               Salander's innocence, Blomkvist also uncovers her terrible past,
+               spent in criminally corrupt institutions. Yet Salander is more
+               avenging angel than helpless victim. She may be an expert at
+               staying out of sight - but she has ways of tracking down her most
+               elusive enemies.},
+  series    = {Millennium},
+  origtitle = {<i>Flickan som lekte med elden</i>}
 }
 
 @REPORT{Egan1998-eu,
