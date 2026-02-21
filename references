@@ -1225,7 +1225,7 @@
                abuse and violence. Once a victim herself, Salander is now ready
                to fight back.},
   series    = {Millennium},
-  keywords  = {Fiction;Book (physical)},
+  keywords  = {Novels;Fiction;Book (physical)},
   origtitle = {<i>Luftslottet som sprängdes</i>}
 }
 
@@ -1248,7 +1248,7 @@
                from forty years ago, they begin to unravel a dark and appalling
                family history.},
   series    = {Millennium},
-  keywords  = {Fiction;Book (physical)},
+  keywords  = {Novels;Fiction;Book (physical)},
   origtitle = {<i>Män som hatar kvinnor</i>}
 }
 
@@ -1273,7 +1273,7 @@
                staying out of sight - but she has ways of tracking down her most
                elusive enemies.},
   series    = {Millennium},
-  keywords  = {Fiction;Book (physical)},
+  keywords  = {Novels;Fiction;Book (physical)},
   origtitle = {<i>Flickan som lekte med elden</i>}
 }
 
@@ -1299,7 +1299,7 @@
                 streets of Stockholm, to the Millennium team, and to Blomkvist
                 and Salander themselves.},
   series     = {Millennium},
-  keywords   = {Fiction;Book (physical)},
+  keywords   = {Novels;Fiction;Book (physical)},
   language   = {en},
   origtitle  = {<i>Det som inte dödar oss</i>}
 }
@@ -1323,7 +1323,7 @@
                the threat of the Jackal puts in jeopardy all possibility of
                peace...},
   series    = {Bourne Trilogy},
-  keywords  = {Fiction;Book (physical)},
+  keywords  = {Novels;Fiction;Book (physical)},
   language  = {en}
 }
 
@@ -14736,7 +14736,7 @@
                up feeling like a rich and plausible picture of future
                friendships in a world not too distant from our own.”—iO9},
   url       = {https://books.google.com/books?id=FY_HWAcm10MC&newbks=1},
-  keywords  = {EPubs Books;\_BibTex to MD Git;Audible;ePub;\_XR MR VR
+  keywords  = {EPubs Books;\_BibTex to MD Git;Audible;Novels;ePub;\_XR MR VR
                AR;Audiobook;Fiction},
   language  = {en}
 }
@@ -16306,7 +16306,7 @@
                atmosphere of mutual suspicion and intrigue that was soon to lead
                to war.},
   series    = {Macmillan Collector's Library},
-  keywords  = {EPubs Books;\_BibTex to MD Git;ePub;Fiction},
+  keywords  = {EPubs Books;\_BibTex to MD Git;Novels;ePub;Fiction},
   language  = {en}
 }
 
