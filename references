@@ -1217,12 +1217,12 @@
   language   = {en}
 }
 
-@BOOK{Larsson2015-lo,
+@BOOK{Larsson2007-nn,
   title     = {The Girl Who Kicked the Hornets' Nest},
   author    = {Larsson, Stieg},
   publisher = {MacLehose Press},
   location  = {London, England},
-  date      = {2015-06-04},
+  date      = {2007-05},
   pagetotal = {720},
   isbn      = {9780857054050},
   abstract  = {Salander is plotting her revenge - against the man who tried to
