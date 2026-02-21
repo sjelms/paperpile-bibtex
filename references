@@ -1204,16 +1204,6 @@
                  Society;Economics;AEC}
 }
 
-@BOOK{MacAlister2025-ye,
-  title     = {The dragon with A girl tattoo},
-  author    = {MacAlister, Katie},
-  publisher = {Fat Cat Books},
-  date      = {2025-10-14},
-  pagetotal = {292},
-  isbn      = {9781960118615},
-  language  = {en}
-}
-
 @BOOK{Lagercrantz2015-ql,
   title      = {The girl in the spider's web},
   author     = {Lagercrantz, David},
