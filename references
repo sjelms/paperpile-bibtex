@@ -61,18 +61,6 @@
   language  = {en}
 }
 
-@BOOK{Ludlum2010-jh,
-  title     = {The Bourne Ultimatum},
-  author    = {Ludlum, Robert},
-  publisher = {Orion},
-  location  = {London, England},
-  date      = {2010-02-04},
-  pagetotal = {736},
-  isbn      = {9781409117711},
-  series    = {JASON BOURNE},
-  language  = {en}
-}
-
 @ARTICLE{Rankin2024-wd,
   title        = {Embodied {GHG} of missing middle: Residential building form
                   and strategies for more efficient housing},
@@ -1310,6 +1298,28 @@
   series     = {Millennium},
   language   = {en},
   origtitle  = {<i>Det som inte dödar oss</i>}
+}
+
+@BOOK{Ludlum1990-gk,
+  title     = {The Bourne Ultimatum},
+  author    = {Ludlum, Robert},
+  publisher = {Orion},
+  location  = {London, England},
+  date      = {1990-02-25},
+  pagetotal = {736},
+  isbn      = {9781409117711},
+  abstract  = {It all starts with a cat-and-mouse chase to the death in a
+               Baltimore funfair: the Jackal, Bourne's age-old antagonist, is
+               back and Bourne is forced from his idyllic retirement with his
+               wife and children to confront his enemy. In Europe and America
+               there are men and women whose lust for power is disguised by
+               their positions and respectability. Their aim: to gain control at
+               the highest level, to avenge, to destroy. Jason Bourne has been
+               the assassin before: now he longs for peace with his family, but
+               the threat of the Jackal puts in jeopardy all possibility of
+               peace...},
+  series    = {Bourne Trilogy},
+  language  = {en}
 }
 
 @REPORT{Egan1998-eu,
