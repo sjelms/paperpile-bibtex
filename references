@@ -1248,7 +1248,8 @@
   date      = {2006-06},
   pagetotal = {576},
   isbn      = {9780857054043},
-  series    = {a Dragon Tattoo story}
+  series    = {a Dragon Tattoo story},
+  origtitle = {<i>Flickan som lekte med elden</i>}
 }
 
 @REPORT{Egan1998-eu,
