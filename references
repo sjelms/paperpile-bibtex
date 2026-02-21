@@ -1204,19 +1204,6 @@
                  Society;Economics;AEC}
 }
 
-@BOOK{Lagercrantz2015-ql,
-  title      = {The Girl in the Spider's Web},
-  author     = {Lagercrantz, David},
-  translator = {Goulding, George},
-  publisher  = {MacLehose Press},
-  location   = {London, England},
-  date       = {2015-08-27},
-  pagetotal  = {448},
-  isbn       = {9780857059994},
-  series     = {a Dragon Tattoo story},
-  language   = {en}
-}
-
 @BOOK{Larsson2007-nn,
   title     = {The Girl Who Kicked the Hornets' Nest},
   author    = {Larsson, Stieg},
@@ -1285,6 +1272,32 @@
                elusive enemies.},
   series    = {Millennium},
   origtitle = {<i>Flickan som lekte med elden</i>}
+}
+
+@BOOK{Lagercrantz2015-ql,
+  title      = {The Girl in the Spider's Web},
+  author     = {Lagercrantz, David},
+  translator = {Goulding, George},
+  publisher  = {MacLehose Press},
+  location   = {London, England},
+  date       = {2015-08-27},
+  pagetotal  = {448},
+  isbn       = {9780857059994},
+  abstract   = {Lisbeth Salander and Mikael Blomkvist have not been in touch for
+                some time. Then Blomkvist is contacted by renowned Swedish
+                scientist Professor Balder. Warned that his life is in danger,
+                but more concerned for his son's well-being, Balder wants
+                Millennium to publish his story - and it is a terrifying one.
+                More interesting to Blomkvist than Balder's world-leading
+                advances in Artificial Intelligence, is his connection with a
+                certain female superhacker. It seems that Salander, like Balder,
+                is a target of ruthless cyber gangsters - and a violent criminal
+                conspiracy that will very soon bring terror to the snowbound
+                streets of Stockholm, to the Millennium team, and to Blomkvist
+                and Salander themselves.},
+  series     = {Millennium},
+  language   = {en},
+  origtitle  = {<i>Det som inte dödar oss</i>}
 }
 
 @REPORT{Egan1998-eu,
