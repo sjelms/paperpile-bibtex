@@ -1240,12 +1240,12 @@
   series    = {a Dragon Tattoo story}
 }
 
-@BOOK{Larsson2015-ok,
-  title     = {The girl who played with fire},
+@BOOK{Larsson2006-cl,
+  title     = {\textit{The Girl Who Played with Fire}},
   author    = {Larsson, Stieg},
   publisher = {MacLehose Press},
   location  = {London, England},
-  date      = {2015-06-04},
+  date      = {2006-06},
   pagetotal = {576},
   isbn      = {9780857054043},
   series    = {a Dragon Tattoo story}
