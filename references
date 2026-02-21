@@ -1214,6 +1214,19 @@
   language  = {en}
 }
 
+@BOOK{Lagercrantz2015-ql,
+  title      = {The girl in the spider's web},
+  author     = {Lagercrantz, David},
+  translator = {Goulding, George},
+  publisher  = {MacLehose Press},
+  location   = {London, England},
+  date       = {2015-08-27},
+  pagetotal  = {448},
+  isbn       = {9780857059994},
+  series     = {a Dragon Tattoo story},
+  language   = {en}
+}
+
 @REPORT{Egan1998-eu,
   type      = {resreport},
   title     = {Rethinking Construction: The Report of the Construction Task
