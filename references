@@ -1327,6 +1327,23 @@
   language  = {en}
 }
 
+@ARTICLE{Golan2023-nk,
+  title        = {Artificial intelligence in academic writing: a
+                  paradigm-shifting technological advance},
+  author       = {Golan, Roei and Reddy, Rohit and Muthigi, Akhil and Ramasamy,
+                  Ranjith},
+  journaltitle = {Nature Reviews. Urology},
+  volume       = {20},
+  issue        = {6},
+  pages        = {327--328},
+  date         = {2023-06},
+  doi          = {10.1038/s41585-023-00746-x},
+  pmid         = {36829078},
+  issn         = {1759-4812,1759-4820},
+  url          = {http://dx.doi.org/10.1038/s41585-023-00746-x},
+  language     = {en}
+}
+
 @REPORT{Egan1998-eu,
   type      = {resreport},
   title     = {Rethinking Construction: The Report of the Construction Task
