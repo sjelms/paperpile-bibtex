@@ -1340,6 +1340,14 @@
   doi          = {10.1038/s41585-023-00746-x},
   pmid         = {36829078},
   issn         = {1759-4812,1759-4820},
+  abstract     = {Artificial intelligence (AI) has rapidly become one of the
+                  most important and transformative technologies of our time,
+                  with applications in virtually every field and industry. Among
+                  these applications, academic writing is one of the areas that
+                  has experienced perhaps the most rapid development and uptake
+                  of AI-based tools and methodologies. We argue that use of
+                  AI-based tools for scientific writing should widely be
+                  adopted.},
   url          = {http://dx.doi.org/10.1038/s41585-023-00746-x},
   keywords     = {PhD Study and Support;Artificial Intelligence (AI);Research
                   Methods},
