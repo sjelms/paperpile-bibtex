@@ -45118,3 +45118,21 @@
   keywords  = {AIEd;Artificial Intelligence (AI);Intelligent Tutoring Systems
                (ITS)}
 }
+
+@BOOK{Bartneck2020-al,
+  title     = {An introduction to ethics in robotics and {AI}},
+  author    = {Bartneck, Christoph and Lütge, Christoph and Wagner, Alan and
+               Welsh, Sean},
+  publisher = {Springer Nature},
+  location  = {Cham, Switzerland},
+  edition   = {1},
+  date      = {2020-08-12},
+  pagetotal = {117},
+  doi       = {10.1007/978-3-030-51110-4},
+  issn      = {2211-8101,2211-811X},
+  isbn      = {9783030511098,9783030511104},
+  series    = {SpringerBriefs in Ethics},
+  url       = {http://dx.doi.org/10.1007/978-3-030-51110-4},
+  keywords  = {Artificial Intelligence (AI)},
+  language  = {en}
+}
