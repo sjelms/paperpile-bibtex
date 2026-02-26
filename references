@@ -26932,6 +26932,24 @@
                   Up;Knowledge - Skill Acquisition;Cited for Frontiers}
 }
 
+@INBOOK{Guo2023-nr,
+  title     = {A conceptual framework for behaviour-based safety in the digital
+               era},
+  author    = {Guo, Brian H W and Goh, Yang Miang},
+  booktitle = {Handbook of Construction Safety, Health and Well-being in the
+               Industry 4.0 Era},
+  publisher = {Routledge},
+  location  = {London},
+  pages     = {142--153},
+  date      = {2023-04-12},
+  doi       = {10.1201/9781003213796-14},
+  isbn      = {9781003213796},
+  url       = {http://dx.doi.org/10.1201/9781003213796-14},
+  keywords  = {Handbook of Construction Safety, Health and Well-being in the
+               Industry 4.0 Era},
+  language  = {en}
+}
+
 @INBOOK{Guo2023-wc,
   title     = {Computer vision–based management of construction workers' unsafe
                behaviour},
