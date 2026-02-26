@@ -26932,6 +26932,27 @@
                   Up;Knowledge - Skill Acquisition;Cited for Frontiers}
 }
 
+@INBOOK{Perera2023-mp,
+  title     = {Artificial intelligence for occupational health and safety
+               management in construction},
+  author    = {Perera, Savindi and Paton-Cole, Vidal and Gao, Shang and Francis,
+               Valerie and Urhal, Pinar and Manu, Patrick and Da Silva Bartolo,
+               Paulo Jorge and Cheung, Clara and Yunusa-Kaltungo, Akilu and
+               Babalola, Akinloluwa},
+  booktitle = {Handbook of Construction Safety, Health and Well-being in the
+               Industry 4.0 Era},
+  publisher = {Routledge},
+  location  = {London},
+  pages     = {154--168},
+  date      = {2023-04-12},
+  doi       = {10.1201/9781003213796-15},
+  isbn      = {9781003213796},
+  url       = {http://dx.doi.org/10.1201/9781003213796-15},
+  keywords  = {Handbook of Construction Safety, Health and Well-being in the
+               Industry 4.0 Era},
+  language  = {en}
+}
+
 @INBOOK{Guo2023-nr,
   title     = {A conceptual framework for behaviour-based safety in the digital
                era},
