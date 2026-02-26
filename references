@@ -26932,6 +26932,24 @@
                   Up;Knowledge - Skill Acquisition;Cited for Frontiers}
 }
 
+@INBOOK{Anwar2023-mm,
+  title     = {Using digital technology to support employees' mental health in
+               the construction industry},
+  author    = {Anwar, Zoya and Cheung, Clara and Yeow, Jillian},
+  booktitle = {Handbook of Construction Safety, Health and Well-being in the
+               Industry 4.0 Era},
+  publisher = {Routledge},
+  location  = {London},
+  pages     = {198--210},
+  date      = {2023-04-12},
+  doi       = {10.1201/9781003213796-18},
+  isbn      = {9781003213796},
+  url       = {http://dx.doi.org/10.1201/9781003213796-18},
+  keywords  = {Handbook of Construction Safety, Health and Well-being in the
+               Industry 4.0 Era},
+  language  = {en}
+}
+
 @INBOOK{Manase2023-qg,
   title     = {{GIS}-based health and safety information analysis},
   author    = {Manase, David},
