@@ -52,6 +52,50 @@
   language  = {en}
 }
 
+@INBOOK{Umeokafor2023-qq,
+  title     = {Barriers to big data techniques application in construction
+               safety, health, and well-being},
+  author    = {Umeokafor, Nnedinma and Umar, Tariq},
+  editor    = {Manu, Patrick and Shang, Gao and Bartolo, Paulo Jorge Silva and
+               Francis, Valerie and Sawhney, Anil},
+  booktitle = {Handbook of Construction Safety, Health and Well-being in the
+               Industry 4.0 Era},
+  publisher = {Routledge},
+  location  = {London},
+  pages     = {169--178},
+  date      = {2023-04-12},
+  doi       = {10.1201/9781003213796-16},
+  isbn      = {9781003213796},
+  abstract  = {The adoption of digital technologies such as big data analytics
+               (BDA) for health, safety, and well-being (HSW) improvement in
+               construction has increased but continues to experience
+               challenges. Reviewing extant literature, this chapter identifies
+               and discusses the barriers to HSW improvement using BDA. The
+               barriers include technical issues such as the inability of
+               existing machine learning techniques such as the fuzzy-neural
+               method to predict HSW risks by analysing incident data and the
+               large size, heterogeneous and dynamic nature of construction
+               accident data. While the socio-technical barriers include BDA
+               skills shortage, the financial ones cover the high cost
+               associated with BDA. Data dispute among companies, organisational
+               culture, and ignorance of the potential of BDA in improving HSW,
+               which results in its limited acceptance and implementation in
+               HSW, are identified. There are also operational barriers in terms
+               of digital poverty in construction and supply chain issues where
+               the fragmented supply chain of the industry and the uniqueness of
+               projects do not facilitate a collaborative environment, which is
+               a prerequisite for digital solutions. The implications of the
+               findings include the need for an adequate legal framework and
+               international standards to settle the dispute between countries
+               arising from data issues. Empirical studies to assess the
+               barriers are recommended.},
+  url       = {http://dx.doi.org/10.1201/9781003213796-16},
+  keywords  = {Handbook of Construction Safety, Health and Well-being in the
+               Industry 4.0 Era;AEC;Cross Ref Chapter;ePub;Artificial
+               Intelligence (AI)},
+  language  = {en}
+}
+
 @REPORT{Ministry-of-Housing-Communities-and-Local-Government2025-bf,
   type        = {resreport},
   title       = {National Planning Policy Framework: Plan-Making and National
@@ -67,27 +111,6 @@
   keywords    = {Government Report; Planning; Policy; Consultation; UK
                  Parliament;Government Report;BSSC Seed Fund for AI
                  Research;\_BibTex to MD Git;AEC;Report}
-}
-
-@INBOOK{Umeokafor2023-qq,
-  title     = {Barriers to big data techniques application in construction
-               safety, health, and well-being},
-  author    = {Umeokafor, Nnedinma and Umar, Tariq},
-  editor    = {Manu, Patrick and Shang, Gao and Bartolo, Paulo Jorge Silva and
-               Francis, Valerie and Sawhney, Anil},
-  booktitle = {Handbook of Construction Safety, Health and Well-being in the
-               Industry 4.0 Era},
-  publisher = {Routledge},
-  location  = {London},
-  pages     = {169--178},
-  date      = {2023-04-12},
-  doi       = {10.1201/9781003213796-16},
-  isbn      = {9781003213796},
-  url       = {http://dx.doi.org/10.1201/9781003213796-16},
-  keywords  = {Handbook of Construction Safety, Health and Well-being in the
-               Industry 4.0 Era;AEC;Cross Ref Chapter;ePub;Artificial
-               Intelligence (AI)},
-  language  = {en}
 }
 
 @BOOK{Klein2020-xn,
