@@ -45120,8 +45120,8 @@
                limitations of AI and the influence the media has on our
                preconceptions of AI.},
   url       = {http://dx.doi.org/10.1007/978-3-030-51110-4_2},
-  keywords  = {AIEd;Artificial Intelligence (AI);Intelligent Tutoring Systems
-               (ITS)}
+  keywords  = {\_BibTex to MD Git;AIEd;Artificial Intelligence (AI);Intelligent
+               Tutoring Systems (ITS)}
 }
 
 @BOOK{Bartneck2020-al,
@@ -45150,6 +45150,6 @@
                willing to explore the topic further.},
   series    = {SpringerBriefs in Ethics},
   url       = {http://dx.doi.org/10.1007/978-3-030-51110-4},
-  keywords  = {Artificial Intelligence (AI)},
+  keywords  = {\_BibTex to MD Git;Artificial Intelligence (AI)},
   language  = {en}
 }
