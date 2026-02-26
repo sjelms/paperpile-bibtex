@@ -26932,6 +26932,24 @@
                   Up;Knowledge - Skill Acquisition;Cited for Frontiers}
 }
 
+@INBOOK{Umeokafor2023-qq,
+  title     = {Barriers to big data techniques application in construction
+               safety, health, and well-being},
+  author    = {Umeokafor, Nnedinma and Umar, Tariq},
+  booktitle = {Handbook of Construction Safety, Health and Well-being in the
+               Industry 4.0 Era},
+  publisher = {Routledge},
+  location  = {London},
+  pages     = {169--178},
+  date      = {2023-04-12},
+  doi       = {10.1201/9781003213796-16},
+  isbn      = {9781003213796},
+  url       = {http://dx.doi.org/10.1201/9781003213796-16},
+  keywords  = {Handbook of Construction Safety, Health and Well-being in the
+               Industry 4.0 Era},
+  language  = {en}
+}
+
 @INBOOK{Perera2023-mp,
   title     = {Artificial intelligence for occupational health and safety
                management in construction},
