@@ -11245,6 +11245,39 @@
                   MD Git;AEC;Cited for Frontiers}
 }
 
+@MISC{O-Malley2005-ae,
+  title    = {Guidelines for learning/teaching/tutoring in a mobile environment},
+  author   = {O'Malley, Claire and Vavoula, Giasemi and Glew, Jp and Taylor,
+              Josie and Sharples, Mike and Lefrere, Paul and Lonsdale, Peter and
+              Naismith, Laura and Waycott, Jenny},
+  date     = {2005},
+  abstract = {Mobile learning is an emergent paradigm in a state of intense
+              development fuelled by the confluence of three technological
+              streams, ambient computing power, ambient communication and
+              development of intelligent user interfaces (Sharples et al.,
+              2002). A consequence of this rapid development is that the
+              pedagogy of mobile learning has yet to become clearly established.
+              The purpose of this report is: 1.To attempt to define mobile
+              learning in terms of a flexible model that will enable developers,
+              tutors and learners to identify learning practices and effective
+              pedagogies incorporated in a particular learning space. 2.To
+              identify key elements that are unique to mobile learning, and
+              provide initial check list indicating pedagogically useful
+              learning activities that can be supported by the technologies.
+              3.To look at the current literature on the pedagogy of mobile
+              learning and thereby assist designers in developing a user-centred
+              approach that is driven by learner pull rather than
+              technological push and to provide sign posts for tutoring,
+              teaching and learning with mobile devices. In addition literature
+              from other paradigms, such as e-learning and online communities,
+              is included where the results are thought likely to contribute to
+              the mobile pedagogical paradigm. 4.To begin compiling a database
+              of guidelines which capture this expertise.},
+  url      = {https://hal.science/hal-00696244},
+  note     = {Public deliverable from the MOBILearn project (D.4.1)},
+  keywords = {Intelligent Tutoring Systems (ITS)}
+}
+
 @BOOK{Kirby2021-nb,
   title     = {Neurodiversity at Work: Drive Innovation, Performance, and
                Productivity with a Neurodiverse Workforce},
@@ -28155,17 +28188,6 @@
   date         = {2004},
   url          = {https://pdfs.semanticscholar.org/cbe6/70d35e449ceed731466c316cd273032b28ca.pdf},
   keywords     = {RDL [CCME0041];Journal Articles}
-}
-
-@MISC{O-Malley2005-ae,
-  title    = {Guidelines for learning/teaching/tutoring in a mobile environment},
-  author   = {O'Malley, Claire and Vavoula, Giasemi and Glew, Jp and Taylor,
-              Josie and Sharples, Mike and Lefrere, Paul and Lonsdale, Peter and
-              Naismith, Laura and Waycott, Jenny},
-  date     = {2005},
-  url      = {https://hal.science/hal-00696244},
-  note     = {Public deliverable from the MOBILearn project (D.4.1)},
-  keywords = {mobile learning;Intelligent Tutoring Systems (ITS)}
 }
 
 @BOOK{Larsson2005-qy,
