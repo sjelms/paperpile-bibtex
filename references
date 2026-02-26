@@ -16826,9 +16826,8 @@
 @BOOK{Manu2023-mr,
   title     = {Handbook of Construction Safety, Health and Well-being in the
                Industry 4.0 Era},
-  author    = {Manu, Patrick and {Shang Gao (Lecturer in construction
-               management)} and Bártolo, Paulo and {Valerie Francis (Professor
-               in construction management)} and Sawhney, Anil},
+  editor    = {Manu, Patrick and Shang, Gao and Bartolo, Paulo Jorge Silva and
+               Francis, Valerie and Sawhney, Anil},
   publisher = {Routledge},
   date      = {2023},
   pagetotal = {320},
