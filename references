@@ -26932,6 +26932,23 @@
                   Up;Knowledge - Skill Acquisition;Cited for Frontiers}
 }
 
+@INBOOK{Hon2023-eu,
+  title     = {Machine learning for safety hazard identification in construction},
+  author    = {Hon, Carol K H and Sun, Chenjunyan and Nayak, Richi},
+  booktitle = {Handbook of Construction Safety, Health and Well-being in the
+               Industry 4.0 Era},
+  publisher = {Routledge},
+  location  = {London},
+  pages     = {124--134},
+  date      = {2023-04-12},
+  doi       = {10.1201/9781003213796-12},
+  isbn      = {9781003213796},
+  url       = {http://dx.doi.org/10.1201/9781003213796-12},
+  keywords  = {Handbook of Construction Safety, Health and Well-being in the
+               Industry 4.0 Era},
+  language  = {en}
+}
+
 @ARTICLE{Rankin2024-wd,
   title        = {Embodied {GHG} of missing middle: Residential building form
                   and strategies for more efficient housing},
