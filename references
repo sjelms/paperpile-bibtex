@@ -26932,6 +26932,23 @@
                   Up;Knowledge - Skill Acquisition;Cited for Frontiers}
 }
 
+@INBOOK{Manase2023-qg,
+  title     = {{GIS}-based health and safety information analysis},
+  author    = {Manase, David},
+  booktitle = {Handbook of Construction Safety, Health and Well-being in the
+               Industry 4.0 Era},
+  publisher = {Routledge},
+  location  = {London},
+  pages     = {179--197},
+  date      = {2023-04-12},
+  doi       = {10.1201/9781003213796-17},
+  isbn      = {9781003213796},
+  url       = {http://dx.doi.org/10.1201/9781003213796-17},
+  keywords  = {Handbook of Construction Safety, Health and Well-being in the
+               Industry 4.0 Era},
+  language  = {en}
+}
+
 @INBOOK{Umeokafor2023-qq,
   title     = {Barriers to big data techniques application in construction
                safety, health, and well-being},
