@@ -47,7 +47,7 @@
                the Construction Industry 4.0 environment.},
   url       = {http://dx.doi.org/10.1201/9781003213796-12},
   keywords  = {Handbook of Construction Safety, Health and Well-being in the
-               Industry 4.0 Era},
+               Industry 4.0 Era;AEC;Cross Ref Chapter;ePub},
   language  = {en}
 }
 
@@ -67,7 +67,7 @@
   isbn      = {9781003213796},
   url       = {http://dx.doi.org/10.1201/9781003213796-20},
   keywords  = {Handbook of Construction Safety, Health and Well-being in the
-               Industry 4.0 Era},
+               Industry 4.0 Era;AEC;Cross Ref Chapter;ePub},
   language  = {en}
 }
 
@@ -104,7 +104,7 @@
   isbn      = {9781003213796},
   url       = {http://dx.doi.org/10.1201/9781003213796-16},
   keywords  = {Handbook of Construction Safety, Health and Well-being in the
-               Industry 4.0 Era},
+               Industry 4.0 Era;AEC;Cross Ref Chapter;ePub},
   language  = {en}
 }
 
@@ -152,7 +152,7 @@
   isbn      = {9781003213796},
   url       = {http://dx.doi.org/10.1201/9781003213796-17},
   keywords  = {Handbook of Construction Safety, Health and Well-being in the
-               Industry 4.0 Era},
+               Industry 4.0 Era;AEC;Cross Ref Chapter;ePub},
   language  = {en}
 }
 
@@ -1121,7 +1121,7 @@
                management on construction sites.},
   url       = {http://dx.doi.org/10.1201/9781003213796-13},
   keywords  = {Handbook of Construction Safety, Health and Well-being in the
-               Industry 4.0 Era},
+               Industry 4.0 Era;AEC;Cross Ref Chapter;ePub},
   language  = {en}
 }
 
@@ -1616,7 +1616,7 @@
                research directions were proposed.},
   url       = {http://dx.doi.org/10.1201/9781003213796-14},
   keywords  = {Handbook of Construction Safety, Health and Well-being in the
-               Industry 4.0 Era},
+               Industry 4.0 Era;AEC;Cross Ref Chapter;ePub},
   language  = {en}
 }
 
@@ -1639,7 +1639,7 @@
   isbn      = {9781003213796},
   url       = {http://dx.doi.org/10.1201/9781003213796-15},
   keywords  = {Handbook of Construction Safety, Health and Well-being in the
-               Industry 4.0 Era},
+               Industry 4.0 Era;AEC;Cross Ref Chapter;ePub},
   language  = {en}
 }
 
@@ -1659,7 +1659,7 @@
   isbn      = {9781003213796},
   url       = {http://dx.doi.org/10.1201/9781003213796-18},
   keywords  = {Handbook of Construction Safety, Health and Well-being in the
-               Industry 4.0 Era},
+               Industry 4.0 Era;AEC;Cross Ref Chapter;ePub},
   language  = {en}
 }
 
@@ -16888,7 +16888,8 @@
                resulting OSH benefits as well as potential drawbacks.},
   keywords  = {Handbook of Construction Safety, Health and Well-being in the
                Industry 4.0 Era;EPubs Books;\_BibTex to MD Git;\_In Notion;\_In
-               Readwise;AEC;ePub;Workplace Learning;\_New Literature},
+               Readwise;AEC;ePub;Workplace Learning;\_New Literature;Cross Ref
+               Chapter},
   language  = {en}
 }
 
