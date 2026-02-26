@@ -28157,6 +28157,17 @@
   keywords     = {RDL [CCME0041];Journal Articles}
 }
 
+@MISC{O-Malley2005-ae,
+  title    = {Guidelines for learning/teaching/tutoring in a mobile environment},
+  author   = {O'Malley, Claire and Vavoula, Giasemi and Glew, Jp and Taylor,
+              Josie and Sharples, Mike and Lefrere, Paul and Lonsdale, Peter and
+              Naismith, Laura and Waycott, Jenny},
+  date     = {2005},
+  url      = {https://hal.science/hal-00696244},
+  note     = {Public deliverable from the MOBILearn project (D.4.1)},
+  keywords = {mobile learning}
+}
+
 @BOOK{Larsson2005-qy,
   title     = {\textit{The Girl with the Dragon Tattoo}},
   author    = {Larsson, Stieg},
