@@ -1856,6 +1856,24 @@
   language  = {en}
 }
 
+@INPROCEEDINGS{Souza2024-ef,
+  title      = {Towards role definition in agile {AI}-based system development:
+                Perspectives and reflections},
+  author     = {Souza, Francisco Carlos Monteiro and Souza, Alinne Cristinne
+                Corrêa and Amorim, Bruno Faustino and Cordeiro, Thiago Damasceno},
+  booktitle  = {Proceedings of the XXIII Brazilian Symposium on Software Quality},
+  publisher  = {ACM},
+  location   = {New York, NY, USA},
+  eventtitle = {SBQS 2024: XXIII Brazilian Symposium on Software Quality},
+  venue      = {Salvador Bahia Brazil},
+  pages      = {220--230},
+  date       = {2024-11-05},
+  doi        = {10.1145/3701625.3701661},
+  url        = {http://dx.doi.org/10.1145/3701625.3701661},
+  urldate    = {2026-02-27},
+  language   = {en}
+}
+
 @REPORT{Egan1998-eu,
   type      = {resreport},
   title     = {Rethinking Construction: The Report of the Construction Task
