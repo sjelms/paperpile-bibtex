@@ -1847,11 +1847,13 @@
 }
 
 @INPROCEEDINGS{du-Boulay2008-fn,
-  title  = {Motivationally Intelligent Systems: Three Questions},
-  author = {du Boulay, Benedict and Rebolledo-Méndez, Genaro and Luckin,
-            Rosemary and Martínez-Mirón, Erika and Harris, Amanda},
-  pages  = {1--10},
-  date   = {2008}
+  title    = {Motivationally Intelligent Systems: Three Questions},
+  author   = {du Boulay, Benedict and Rebolledo-Méndez, Genaro and Luckin,
+              Rosemary and Martínez-Mirón, Erika and Harris, Amanda},
+  pages    = {1--10},
+  date     = {2008},
+  keywords = {Intelligent Tutoring Systems (ITS);Artificial Intelligence
+              (AI);AIEd}
 }
 
 @REPORT{Egan1998-eu,
