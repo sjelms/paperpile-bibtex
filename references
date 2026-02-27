@@ -1238,6 +1238,16 @@
                   Git;Research Methods}
 }
 
+@INPROCEEDINGS{du-Boulay2008-fn,
+  title    = {Motivationally Intelligent Systems: Three Questions},
+  author   = {du Boulay, Benedict and Rebolledo-Méndez, Genaro and Luckin,
+              Rosemary and Martínez-Mirón, Erika and Harris, Amanda},
+  pages    = {1--10},
+  date     = {2008},
+  keywords = {BSSC Seed Fund for AI Research;Intelligent Tutoring Systems
+              (ITS);Artificial Intelligence (AI);AIEd}
+}
+
 @ARTICLE{Unknown2025-fw,
   title        = {What makes {PhD} students happy? Good supervision},
   journaltitle = {Nature},
@@ -1844,16 +1854,6 @@
   keywords  = {\_BibTex to MD Git;BSSC Seed Fund for AI Research;Artificial
                Intelligence (AI)},
   language  = {en}
-}
-
-@INPROCEEDINGS{du-Boulay2008-fn,
-  title    = {Motivationally Intelligent Systems: Three Questions},
-  author   = {du Boulay, Benedict and Rebolledo-Méndez, Genaro and Luckin,
-              Rosemary and Martínez-Mirón, Erika and Harris, Amanda},
-  pages    = {1--10},
-  date     = {2008},
-  keywords = {Intelligent Tutoring Systems (ITS);Artificial Intelligence
-              (AI);AIEd}
 }
 
 @REPORT{Egan1998-eu,
