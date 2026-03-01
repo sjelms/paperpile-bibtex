@@ -1877,9 +1877,10 @@
   language   = {en}
 }
 
-@REPORT{Unknown2018-pz,
+@REPORT{Leiden-University-Study-Support2018-la,
   type        = {resreport},
   title       = {Thesis Writing for Students with {AD}({H}){D}},
+  author      = {{Leiden University Study Support}},
   institution = {Leiden University},
   date        = {2018-09},
   pagetotal   = {21},
