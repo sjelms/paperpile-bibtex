@@ -8765,22 +8765,6 @@
   language  = {en}
 }
 
-@INBOOK{Hahm2021-ee,
-  title     = {Augmenting human designers and builders: Augmentation discussed
-               in architectural design research},
-  author    = {Hahm, Soomeen},
-  editor    = {Hyde, Rob and Filippidis, Filippos},
-  booktitle = {Design Studio Vol. 2: Intelligent Control, Disruptive
-               Technologies},
-  publisher = {RIBA Publishing},
-  location  = {London},
-  pages     = {68--77},
-  date      = {2021-08-31},
-  doi       = {10.4324/9781003212751-7},
-  url       = {http://dx.doi.org/10.4324/9781003212751-7},
-  keywords  = {Book\_Intelligent Control: Disruptive Technologies;AEC}
-}
-
 @BOOK{Littlejohn2013-gj,
   title     = {Technology-enhanced Professional Learning: Processes, Practices,
                and Tools},
@@ -17360,6 +17344,40 @@
                earlier ‘digital' work where variation in size of parts results
                in significant material waste.},
   url       = {http://dx.doi.org/10.4324/9781003212751-6},
+  keywords  = {Book\_Intelligent Control: Disruptive Technologies;AEC}
+}
+
+@INBOOK{Hahm2021-ee,
+  title     = {Augmenting Human Designers and Builders: Augmentation Discussed
+               in Architectural Design Research},
+  author    = {Hahm, Soomeen},
+  editor    = {Hyde, Rob and Filippidis, Filippos},
+  booktitle = {Design Studio Vol. 2: Intelligent Control, Disruptive
+               Technologies},
+  publisher = {RIBA Publishing},
+  location  = {London},
+  pages     = {68--77},
+  date      = {2021-08-31},
+  doi       = {10.4324/9781003212751-7},
+  abstract  = {Rapid developments in Artificial Intelligence and Augmented
+               Reality (AR) are opening the possibilities for a closer
+               relationship between humans, computers and machines, requiring
+               multiple fields and industries to rethink the role of humans in
+               the production chain. This chapter presents several research
+               projects as case studies to discuss the issue and pose further
+               questions on how architects should respond. With the
+               commercialisation of various devices, Virtual Reality and AR are
+               becoming increasingly popular topics in numerous industries,
+               including design and architecture. The structure is a prototype
+               for an adaptive design and fabrication system, resilient to wide
+               tolerances in material behaviour and fabrication accuracy while
+               being the largest structure to date built on the principles of
+               AR-assisted fabrication. The design is inspired by a traditional
+               Métis sash, which is made with the art of finger weaving, and
+               draped across one's shoulder or tied around one's waist. The aim
+               is to develop an adaptable workflow and toolset, applicable to
+               various design-to-fabrication scenarios.},
+  url       = {http://dx.doi.org/10.4324/9781003212751-7},
   keywords  = {Book\_Intelligent Control: Disruptive Technologies;AEC}
 }
 
