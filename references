@@ -8744,7 +8744,7 @@
                trajectories. In doing so it speculates upon future urban,
                spatial, aesthetic and formal possibilities within architecture.},
   url       = {https://play.google.com/store/books/details?id=jXRkzgEACAAJ},
-  keywords  = {Book\_Intelligent Control: Disruptive Technologies;EPubs
+  keywords  = {Book\_Intelligent Control - Disruptive Technologies;EPubs
                Books;\_BibTex to MD Git;AEC;ePub;Book (physical)},
   language  = {en}
 }
@@ -17263,7 +17263,8 @@
                controlled using a single spreadsheet of editable design
                parameters for each structure.},
   url       = {https://www.taylorfrancis.com/books/9781003212751/chapters/10.4324/9781003212751-12},
-  keywords  = {Book\_Intelligent Control: Disruptive Technologies;AEC}
+  keywords  = {Book\_Intelligent Control - Disruptive Technologies;\_BibTex to
+               MD Git;AEC}
 }
 
 @INBOOK{Hyde2021-wa,
@@ -17296,7 +17297,8 @@
                robotic terms would require either a large robot or an extra axis
                of freedom.},
   url       = {http://dx.doi.org/10.4324/9781003212751-10},
-  keywords  = {Book\_Intelligent Control: Disruptive Technologies;AEC}
+  keywords  = {Book\_Intelligent Control - Disruptive Technologies;\_BibTex to
+               MD Git;AEC}
 }
 
 @INBOOK{Claypool2021-wg,
@@ -17328,7 +17330,8 @@
                earlier ‘digital' work where variation in size of parts results
                in significant material waste.},
   url       = {http://dx.doi.org/10.4324/9781003212751-6},
-  keywords  = {Book\_Intelligent Control: Disruptive Technologies;AEC}
+  keywords  = {Book\_Intelligent Control - Disruptive Technologies;\_BibTex to
+               MD Git;AEC}
 }
 
 @INBOOK{Hahm2021-ee,
@@ -17362,7 +17365,8 @@
                is to develop an adaptable workflow and toolset, applicable to
                various design-to-fabrication scenarios.},
   url       = {http://dx.doi.org/10.4324/9781003212751-7},
-  keywords  = {Book\_Intelligent Control: Disruptive Technologies;AEC}
+  keywords  = {Book\_Intelligent Control - Disruptive Technologies;\_BibTex to
+               MD Git;AEC}
 }
 
 @INBOOK{Youkhana2021-sm,
@@ -17394,7 +17398,8 @@
                boundaries are so fluid that our distinction between projects
                realised physically or virtually disappears.},
   url       = {http://dx.doi.org/10.4324/9781003212751-2},
-  keywords  = {Book\_Intelligent Control: Disruptive Technologies;AEC}
+  keywords  = {Book\_Intelligent Control - Disruptive Technologies;\_BibTex to
+               MD Git;AEC}
 }
 
 @REPORT{Felstead2011-az,
