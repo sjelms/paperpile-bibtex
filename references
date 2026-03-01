@@ -1877,6 +1877,21 @@
   language   = {en}
 }
 
+@REPORT{Unknown2018-pz,
+  type        = {resreport},
+  title       = {Thesis Writing for Students with {AD}({H}){D}},
+  institution = {Leiden University},
+  date        = {2018-09},
+  pagetotal   = {21},
+  abstract    = {The symptoms of ADHD and ADD include issues with organisation
+                 or maintaining concentration and hyperfocus. This means that
+                 studying with ADHD and ADD may require additional time and
+                 effort. Writing a thesis is a lot of work. The more structured
+                 you are, the better. Unfortunately, if you have AD(H)D that can
+                 be quite a challenge. However, by taking a phased approach to
+                 the thesis process, you can avoid a lot of difficulties.}
+}
+
 @REPORT{Egan1998-eu,
   type      = {resreport},
   title     = {Rethinking Construction: The Report of the Construction Task
