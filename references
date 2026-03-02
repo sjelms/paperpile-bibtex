@@ -398,6 +398,22 @@
   language  = {en}
 }
 
+@ARTICLE{van-Niekerk2025-hb,
+  title        = {Addressing the use of generative {AI} in academic writing},
+  author       = {van Niekerk, Johan and Delport, Petrus M J and Sutherland,
+                  Iain},
+  journaltitle = {Computers and Education: Artificial Intelligence},
+  publisher    = {Elsevier BV},
+  volume       = {8},
+  issue        = {100342},
+  pages        = {100342},
+  date         = {2025-06},
+  doi          = {10.1016/j.caeai.2024.100342},
+  issn         = {2666-920X},
+  url          = {http://dx.doi.org/10.1016/j.caeai.2024.100342},
+  language     = {en}
+}
+
 @REPORT{Francis-Devine2025-kg,
   type        = {resreport},
   title       = {Youth Unemployment Statistics},
