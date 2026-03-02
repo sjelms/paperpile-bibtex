@@ -411,6 +411,8 @@
   doi          = {10.1016/j.caeai.2024.100342},
   issn         = {2666-920X},
   url          = {http://dx.doi.org/10.1016/j.caeai.2024.100342},
+  keywords     = {AIEd;Artificial Intelligence (AI);Intelligent Tutoring Systems
+                  (ITS)},
   language     = {en}
 }
 
