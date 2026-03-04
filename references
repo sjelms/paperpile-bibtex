@@ -45490,11 +45490,11 @@
   language     = {en}
 }
 
-@REPORT{PullenUnknown-eq,
+@REPORT{HawkeUnknown-ml,
   type        = {resreport},
   title       = {Potential Pathways to Scale Innovative Construction Methods in
                  California},
-  author      = {Pullen, Stephanie Hawke, Julie Aguilar,},
+  author      = {Hawke, Stephanie and Aguilar, Julie and Pullen, Tyler},
   institution = {Terner Center}
 }
 
