@@ -19,8 +19,8 @@
                   m-ary trees are discussed, as are some problems in
                   discretization when alphanumeric output devices are used.},
   url          = {http://dx.doi.org/10.1109/tse.1981.234519},
-  keywords     = {Technological change;Artificial Intelligence (AI);PhD Support
-                  and Training}
+  keywords     = {\_BibTex to MD Git;Technological change;Artificial
+                  Intelligence (AI);PhD Support and Training}
 }
 
 @BOOK{Kuckartz2023-rj,
@@ -45,8 +45,8 @@
                understanding of the principles behind QCA, a step-by-step guide
                to three types of QCA, guidance on how you can use software to
                enhance your analysis.},
-  keywords  = {EPubs Books;PhD Study and Support;ePub;RNIB;PhD Support and
-               Training},
+  keywords  = {EPubs Books;PhD Study and Support;\_BibTex to MD
+               Git;ePub;RNIB;PhD Support and Training},
   language  = {en}
 }
 
@@ -1295,8 +1295,8 @@
                software, from transcribing the verbal data to presenting and
                visualizing the results.},
   url       = {http://dx.doi.org/10.4135/9781446288719},
-  keywords  = {EPubs Books;PhD Study and Support;ePub;RNIB;PhD Support and
-               Training}
+  keywords  = {EPubs Books;PhD Study and Support;\_BibTex to MD
+               Git;ePub;RNIB;PhD Support and Training}
 }
 
 @ARTICLE{Goldsmith2021-pd,
@@ -2074,7 +2074,7 @@
                challenging aspect of qualitative research. Information on
                writing habits now addresses co-authorship and provides more
                context and variation from the two authors.},
-  keywords  = {PhD Study and Support;PhD Support and Training},
+  keywords  = {PhD Study and Support;\_BibTex to MD Git;PhD Support and Training},
   language  = {en}
 }
 
