@@ -18,7 +18,9 @@
                   that produces tidier drawings. Generalizations to forests and
                   m-ary trees are discussed, as are some problems in
                   discretization when alphanumeric output devices are used.},
-  url          = {http://dx.doi.org/10.1109/tse.1981.234519}
+  url          = {http://dx.doi.org/10.1109/tse.1981.234519},
+  keywords     = {Technological change;Artificial Intelligence (AI);PhD Support
+                  and Training}
 }
 
 @BOOK{Kuckartz2023-rj,
