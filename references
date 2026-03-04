@@ -44142,6 +44142,18 @@
               Tutoring Systems (ITS);Artificial Intelligence (AI);AIEd}
 }
 
+@BOOK{Miles2013-dz,
+  title     = {Qualitative Data Analysis},
+  author    = {Miles, Matthew B and Huberman, A Michael and Saldana, Johnny M},
+  publisher = {SAGE Publications},
+  location  = {Thousand Oaks, CA},
+  edition   = {3},
+  date      = {2013-06-11},
+  pagetotal = {408},
+  isbn      = {9781452257877},
+  language  = {en}
+}
+
 @ARTICLE{Unknown2025-fw,
   title        = {What makes {PhD} students happy? Good supervision},
   journaltitle = {Nature},
