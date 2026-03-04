@@ -45562,12 +45562,15 @@
   language  = {en}
 }
 
-@REPORT{HawkeUnknown-ml,
+@REPORT{Hawke2026-wb,
   type        = {resreport},
   title       = {Potential Pathways to Scale Innovative Construction Methods in
                  California},
   author      = {Hawke, Stephanie and Aguilar, Julie and Pullen, Tyler},
-  institution = {Terner Center},
+  institution = {Terner Center for Housing and Innovation},
+  number      = {1},
+  date        = {2026-03-02},
+  pagetotal   = {41},
   abstract    = {Amid a deepening housing crisis, innovation in housing
                  construction has emerged as a promising pathway to lower costs,
                  shorten development timelines, and increase housing production.
@@ -45586,5 +45589,6 @@
                  actions that stakeholders suggested across seven broad themes
                  to guide the legislative agenda, including stakeholder
                  perspectives on their impact and relative cost to the State. It
-                 also highlights areas for future research.}
+                 also highlights areas for future research.},
+  url         = {https://ternercenter.berkeley.edu/blog/potential-pathways-to-scale-innovative-construction-methods-in-california/}
 }
