@@ -1220,6 +1220,18 @@
   language     = {en}
 }
 
+@BOOK{Creswell2020-su,
+  title     = {30 essential skills for the qualitative researcher},
+  author    = {Creswell, John W and Creswell Baez, Johanna},
+  publisher = {SAGE Publications},
+  location  = {Thousand Oaks, CA},
+  edition   = {2},
+  date      = {2020-08-06},
+  pagetotal = {336},
+  isbn      = {9781544355702},
+  language  = {en}
+}
+
 @ARTICLE{Goldsmith2021-pd,
   title        = {Using Framework Analysis in Applied Qualitative Research},
   author       = {Goldsmith, Laurie J},
