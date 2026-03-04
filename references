@@ -1220,6 +1220,18 @@
   language     = {en}
 }
 
+@BOOK{Kuckartz2014-st,
+  title     = {Qualitative text analysis},
+  author    = {Kuckartz, Udo},
+  publisher = {SAGE Publications},
+  location  = {London, England},
+  date      = {2014-01-23},
+  pagetotal = {192},
+  doi       = {10.4135/9781446288719},
+  isbn      = {9781446267745,9781446288719},
+  url       = {http://dx.doi.org/10.4135/9781446288719}
+}
+
 @ARTICLE{Goldsmith2021-pd,
   title        = {Using Framework Analysis in Applied Qualitative Research},
   author       = {Goldsmith, Laurie J},
