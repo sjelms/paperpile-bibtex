@@ -43398,7 +43398,8 @@
                when researchers "think display," their analyses of social life
                capture the complex and vivid processes of the people and
                institutions studied.},
-  keywords  = {\_BibTex to MD Git;Theory and Methods;RNIB;Research Methods}
+  keywords  = {\_BibTex to MD Git;Theory and Methods;PhD Study and
+               Support;RNIB;Research Methods}
 }
 
 @MISC{Danermark2023-ve,
@@ -44140,36 +44141,6 @@
   date     = {2008},
   keywords = {BSSC Seed Fund for AI Research;\_BibTex to MD Git;Intelligent
               Tutoring Systems (ITS);Artificial Intelligence (AI);AIEd}
-}
-
-@BOOK{Miles2013-dz,
-  title     = {Qualitative Data Analysis: A Methods Sourcebook},
-  author    = {Miles, Matthew B and Huberman, A Michael and Saldana, Johnny M},
-  publisher = {SAGE Publications},
-  location  = {Thousand Oaks, CA},
-  edition   = {3},
-  date      = {2013-06-11},
-  pagetotal = {408},
-  isbn      = {9781452257877},
-  abstract  = {The Third Edition of Miles \& Huberman's classic research methods
-               text is updated and streamlined by Johnny Saldaña, author of The
-               Coding Manual for Qualitative Researchers. Several of the data
-               display strategies from previous editions are now presented in
-               re-envisioned and reorganized formats to enhance reader
-               accessibility and comprehension. The Third Edition’s presentation
-               of the fundamentals of research design and data management is
-               followed by five distinct methods of analysis: exploring,
-               describing, ordering, explaining, and predicting. Miles and
-               Huberman's original research studies are profiled and accompanied
-               with new examples from Saldaña's recent qualitative work. The
-               book's most celebrated chapter, "Drawing and Verifying
-               Conclusions," is retained and revised, and the chapter on report
-               writing has been greatly expanded, and is now called “Writing
-               About Qualitative Research.” Comprehensive and authoritative,
-               Qualitative Data Analysis has been elegantly revised for a new
-               generation of qualitative researchers.},
-  keywords  = {EPubs Books;RNIB;ePub;Research Methods},
-  language  = {en}
 }
 
 @ARTICLE{Unknown2025-fw,
@@ -45557,5 +45528,36 @@
                writing habits now addresses co-authorship and provides more
                context and variation from the two authors.},
   keywords  = {PhD Study and Support;\_BibTex to MD Git;PhD Support and Training},
+  language  = {en}
+}
+
+@BOOK{Miles2013-dz,
+  title     = {Qualitative Data Analysis: A Methods Sourcebook},
+  author    = {Miles, Matthew B and Huberman, A Michael and Saldana, Johnny M},
+  publisher = {SAGE Publications},
+  location  = {Thousand Oaks, CA},
+  edition   = {3},
+  date      = {2013-06-11},
+  pagetotal = {408},
+  isbn      = {9781452257877},
+  abstract  = {The Third Edition of Miles \& Huberman's classic research methods
+               text is updated and streamlined by Johnny Saldaña, author of The
+               Coding Manual for Qualitative Researchers. Several of the data
+               display strategies from previous editions are now presented in
+               re-envisioned and reorganized formats to enhance reader
+               accessibility and comprehension. The Third Edition’s presentation
+               of the fundamentals of research design and data management is
+               followed by five distinct methods of analysis: exploring,
+               describing, ordering, explaining, and predicting. Miles and
+               Huberman's original research studies are profiled and accompanied
+               with new examples from Saldaña's recent qualitative work. The
+               book's most celebrated chapter, "Drawing and Verifying
+               Conclusions," is retained and revised, and the chapter on report
+               writing has been greatly expanded, and is now called “Writing
+               About Qualitative Research.” Comprehensive and authoritative,
+               Qualitative Data Analysis has been elegantly revised for a new
+               generation of qualitative researchers.},
+  keywords  = {EPubs Books;Theory and Methods;PhD Study and
+               Support;RNIB;ePub;Research Methods},
   language  = {en}
 }
