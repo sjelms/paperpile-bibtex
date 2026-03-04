@@ -1292,6 +1292,18 @@
               Tutoring Systems (ITS);Artificial Intelligence (AI);AIEd}
 }
 
+@BOOK{Kuckartz2023-rj,
+  title     = {Qualitative content analysis},
+  author    = {Kuckartz, Udo and Rädiker, Stefan},
+  publisher = {SAGE Publications},
+  location  = {London, England},
+  edition   = {2},
+  date      = {2023-02-01},
+  pagetotal = {256},
+  isbn      = {9781529613070},
+  language  = {en}
+}
+
 @ARTICLE{Unknown2025-fw,
   title        = {What makes {PhD} students happy? Good supervision},
   journaltitle = {Nature},
