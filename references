@@ -45490,14 +45490,6 @@
   language     = {en}
 }
 
-@REPORT{HawkeUnknown-ml,
-  type        = {resreport},
-  title       = {Potential Pathways to Scale Innovative Construction Methods in
-                 California},
-  author      = {Hawke, Stephanie and Aguilar, Julie and Pullen, Tyler},
-  institution = {Terner Center}
-}
-
 @BOOK{Creswell2020-su,
   title     = {30 Essential Skills for the Qualitative Researcher},
   author    = {Creswell, John W and Creswell Baez, Johanna},
@@ -45568,4 +45560,31 @@
   keywords  = {EPubs Books;Theory and Methods;PhD Study and
                Support;RNIB;ePub;Research Methods},
   language  = {en}
+}
+
+@REPORT{HawkeUnknown-ml,
+  type        = {resreport},
+  title       = {Potential Pathways to Scale Innovative Construction Methods in
+                 California},
+  author      = {Hawke, Stephanie and Aguilar, Julie and Pullen, Tyler},
+  institution = {Terner Center},
+  abstract    = {Amid a deepening housing crisis, innovation in housing
+                 construction has emerged as a promising pathway to lower costs,
+                 shorten development timelines, and increase housing production.
+                 Industrialized construction (IC) applies practices from
+                 manufacturing to housing design and construction—including
+                 prefabricated building elements assembled off-site and other
+                 advanced construction methods. Despite the potential to deliver
+                 predictability, enhanced quality control, and economies of
+                 scale, the industry has struggled to scale in California. A
+                 Terner Center report focuses on the role the State of
+                 California can play in supporting construction innovation and
+                 reducing barriers that prevent promising methods from achieving
+                 scale and increasing housing production. The report provides
+                 evidence-backed research to support legislative efforts of the
+                 California Assembly. This report highlights 40 potential policy
+                 actions that stakeholders suggested across seven broad themes
+                 to guide the legislative agenda, including stakeholder
+                 perspectives on their impact and relative cost to the State. It
+                 also highlights areas for future research.}
 }
