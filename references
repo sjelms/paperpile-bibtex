@@ -20,6 +20,7 @@
                understanding of the principles behind QCA, a step-by-step guide
                to three types of QCA, guidance on how you can use software to
                enhance your analysis.},
+  keywords  = {EPubs Books},
   language  = {en}
 }
 
@@ -1267,7 +1268,8 @@
                and more accurate analysis. The book shows in detail how to use
                software, from transcribing the verbal data to presenting and
                visualizing the results.},
-  url       = {http://dx.doi.org/10.4135/9781446288719}
+  url       = {http://dx.doi.org/10.4135/9781446288719},
+  keywords  = {EPubs Books}
 }
 
 @ARTICLE{Goldsmith2021-pd,
