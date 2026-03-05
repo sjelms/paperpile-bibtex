@@ -45493,16 +45493,6 @@
   language     = {en}
 }
 
-@ARTICLE{Friese2025-yh,
-  title    = {We reject the use of generative artificial intelligence for
-              reflexive qualitative research - response},
-  author   = {Friese, Susanne},
-  date     = {2025},
-  doi      = {10.2139/ssrn.5690262},
-  url      = {http://dx.doi.org/10.2139/ssrn.5690262},
-  keywords = {Artificial Intelligence (AI);QDA}
-}
-
 @BOOK{Creswell2018-hv,
   title     = {Research Design: Qualitative, Quantitative, and Mixed Methods
                Approaches},
@@ -45725,4 +45715,40 @@
   url          = {http://dx.doi.org/10.1177/10778004251412871},
   keywords     = {\_BibTex to MD Git;Artificial Intelligence (AI);QDA},
   language     = {en}
+}
+
+@ARTICLE{Friese2025-yh,
+  title    = {We reject the use of generative artificial intelligence for
+              reflexive qualitative research - response},
+  author   = {Friese, Susanne},
+  date     = {2025},
+  doi      = {10.2139/ssrn.5690262},
+  abstract = {This article responds to the commentary by Tanisha Jowsey and
+              colleagues that rejects the use of generative AI in reflexive
+              qualitative research. Their argument rests on three ideas. First,
+              that simulated intelligence cannot take part in meaning making.
+              Second, that qualitative analysis must remain an entirely human
+              practice. Third, that the social and environmental harms tied to
+              AI systems are reason enough for refusal. I argue that these
+              claims rest on misunderstandings about how AI is actually used
+              when a researcher remains firmly in charge. Generative models do
+              not replace interpretation. They serve as a thinking companion,
+              helping researchers ask better questions of their data. This keeps
+              the core of reflexive work intact. The worry that AI shortens the
+              journey of discovery misunderstands the way researchers work with
+              the technology. The process remains iterative, reflective and
+              embodied. AI simply provides external scaffolding, much like
+              notes, diagrams or peer discussion. Environmental and labour
+              concerns are real, but the conclusion that abstinence is the only
+              ethical response does not follow. Responsible use and stronger
+              regulation are more realistic. The article draws on methodological
+              expertise and practical experience working with AI in qualitative
+              research. The central claim is simple. AI does not make meaning.
+              Humans do. Meaning emerges through the cooperation of researcher,
+              data and machine, with the researcher holding interpretive
+              authority. When researchers stay in control, AI can support deeper
+              engagement with qualitative data and broaden methodological
+              possibilities rather than diminish them.},
+  url      = {http://dx.doi.org/10.2139/ssrn.5690262},
+  keywords = {Artificial Intelligence (AI);QDA}
 }
