@@ -45494,12 +45494,13 @@
 }
 
 @ARTICLE{Friese2025-yh,
-  title  = {We reject the use of generative artificial intelligence for
-            reflexive qualitative research - response},
-  author = {Friese, Susanne},
-  date   = {2025},
-  doi    = {10.2139/ssrn.5690262},
-  url    = {http://dx.doi.org/10.2139/ssrn.5690262}
+  title    = {We reject the use of generative artificial intelligence for
+              reflexive qualitative research - response},
+  author   = {Friese, Susanne},
+  date     = {2025},
+  doi      = {10.2139/ssrn.5690262},
+  url      = {http://dx.doi.org/10.2139/ssrn.5690262},
+  keywords = {Artificial Intelligence (AI);QDA}
 }
 
 @BOOK{Creswell2018-hv,
