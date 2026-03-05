@@ -2071,7 +2071,8 @@
   edition   = {5},
   date      = {2018-12-22},
   isbn      = {9781506386768},
-  keywords  = {Theory and Methods;Book (physical);Research Methods},
+  keywords  = {Theory and Methods;\_BibTex to MD Git;Book (physical);Research
+               Methods},
   language  = {en}
 }
 
