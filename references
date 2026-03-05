@@ -17414,7 +17414,7 @@
   title    = {Qualitative Analysis of Video Data: Standards and Heuristics},
   author   = {Ramey, K E R and Hilppö, J and Dyer, E and Villanosa, K},
   url      = {https://www.researchgate.net/publication/319965247_Qualitative_Analysis_of_Video_Data_Standards_and_Heuristics/citations},
-  keywords = {RDL [CCME0041];QDA}
+  keywords = {RDL [CCME0041];\_BibTex to MD Git;QDA}
 }
 
 @INBOOK{Fife-SchawUnknown-ik,
@@ -37009,7 +37009,7 @@
                   exploring the impact of robotics and artificial intelligence
                   in AEC.},
   url          = {http://dx.doi.org/10.1007/s41693-024-00115-z},
-  keywords     = {Construction 4-0;AEC;\_New Literature;QDA},
+  keywords     = {Construction 4-0;\_BibTex to MD Git;AEC;\_New Literature;QDA},
   language     = {en}
 }
 
@@ -45575,8 +45575,8 @@
                About Qualitative Research.” Comprehensive and authoritative,
                Qualitative Data Analysis has been elegantly revised for a new
                generation of qualitative researchers.},
-  keywords  = {EPubs Books;Theory and Methods;PhD Study and
-               Support;RNIB;ePub;Research Methods;QDA},
+  keywords  = {EPubs Books;Theory and Methods;PhD Study and Support;\_BibTex to
+               MD Git;RNIB;ePub;Research Methods;QDA},
   language  = {en}
 }
 
@@ -45713,6 +45713,6 @@
                   analytic access, and expand the epistemic horizons of
                   qualitative research in the age of AI.},
   url          = {http://dx.doi.org/10.1177/10778004251412871},
-  keywords     = {Artificial Intelligence (AI);QDA},
+  keywords     = {\_BibTex to MD Git;Artificial Intelligence (AI);QDA},
   language     = {en}
 }
