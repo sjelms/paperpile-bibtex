@@ -2340,7 +2340,7 @@
                to three types of QCA, guidance on how you can use software to
                enhance your analysis.},
   keywords  = {EPubs Books;PhD Study and Support;\_BibTex to MD
-               Git;ePub;RNIB;PhD Support and Training},
+               Git;ePub;RNIB;PhD Support and Training;QDA},
   language  = {en}
 }
 
@@ -2678,7 +2678,7 @@
   note         = {See Also: King2019-nk},
   keywords     = {PhD Study and Support;\_BibTex to MD Git;Speechify;Artificial
                   Intelligence (AI);PhD Support and Training;Research
-                  Methods;Fieldwork Methodology},
+                  Methods;Fieldwork Methodology;QDA},
   language     = {en}
 }
 
@@ -4073,7 +4073,7 @@
   keywords  = {interviews; surveys; telephone interviewing; telephone
                interviewing; knowledge; knowledge; surveying;Theory and
                Methods;2\_Upgrade MAY 2023;Grounded Theory;\_BibTex to MD
-               Git;Research Methods},
+               Git;Research Methods;QDA},
   language  = {en}
 }
 
@@ -17414,7 +17414,7 @@
   title    = {Qualitative Analysis of Video Data: Standards and Heuristics},
   author   = {Ramey, K E R and Hilppö, J and Dyer, E and Villanosa, K},
   url      = {https://www.researchgate.net/publication/319965247_Qualitative_Analysis_of_Video_Data_Standards_and_Heuristics/citations},
-  keywords = {RDL [CCME0041]}
+  keywords = {RDL [CCME0041];QDA}
 }
 
 @INBOOK{Fife-SchawUnknown-ik,
@@ -20003,7 +20003,7 @@
   date      = {1994-12-08},
   pagetotal = {267},
   isbn      = {9780534247805},
-  keywords  = {Theory and Methods;\_BibTex to MD Git;Fieldwork Methodology},
+  keywords  = {Theory and Methods;\_BibTex to MD Git;Fieldwork Methodology;QDA},
   language  = {en}
 }
 
@@ -26515,7 +26515,7 @@
   isbn      = {9781412981644,9781452218403},
   url       = {https://methods.sagepub.com/book/handbook-of-interview-research-2e/n25.xml},
   keywords  = {Theory and Methods;Grounded Theory;\_BibTex to MD Git;Research
-               Methods}
+               Methods;QDA}
 }
 
 @INBOOK{Menacere2016-fn,
@@ -31991,7 +31991,7 @@
                step-by-step approach.},
   url       = {https://play.google.com/store/books/details?id=hCdLEAAAQBAJ},
   keywords  = {Theory and Methods;EPubs Books;\_BibTex to MD Git;Research
-               Methods;\_New Literature;ePub;\_In Notion;\_In Readwise},
+               Methods;\_New Literature;ePub;\_In Notion;\_In Readwise;QDA},
   language  = {en}
 }
 
@@ -32052,7 +32052,7 @@
   url       = {https://nbn-resolving.org/urn:nbn:de:0168-ssoar-395173},
   urldate   = {2023-04-28},
   keywords  = {Theory and Methods;Grounded Theory;\_BibTex to MD Git;Research
-               Methods;\_New Literature},
+               Methods;\_New Literature;QDA},
   language  = {en}
 }
 
@@ -37009,7 +37009,7 @@
                   exploring the impact of robotics and artificial intelligence
                   in AEC.},
   url          = {http://dx.doi.org/10.1007/s41693-024-00115-z},
-  keywords     = {Construction 4-0;AEC;\_New Literature},
+  keywords     = {Construction 4-0;AEC;\_New Literature;QDA},
   language     = {en}
 }
 
@@ -42031,7 +42031,8 @@
   date      = {2014-02-10},
   pagetotal = {2},
   isbn      = {9781858992969},
-  keywords  = {PhD Study and Support;\_BibTex to MD Git;PhD Support and Training}
+  keywords  = {PhD Study and Support;\_BibTex to MD Git;PhD Support and
+               Training;QDA}
 }
 
 @BOOK{Coyle2025-yv,
@@ -43401,7 +43402,7 @@
                capture the complex and vivid processes of the people and
                institutions studied.},
   keywords  = {\_BibTex to MD Git;Theory and Methods;PhD Study and
-               Support;RNIB;Research Methods}
+               Support;RNIB;Research Methods;QDA}
 }
 
 @MISC{Danermark2023-ve,
@@ -44095,7 +44096,7 @@
                visualizing the results.},
   url       = {http://dx.doi.org/10.4135/9781446288719},
   keywords  = {EPubs Books;PhD Study and Support;\_BibTex to MD
-               Git;ePub;RNIB;PhD Support and Training}
+               Git;ePub;RNIB;PhD Support and Training;QDA}
 }
 
 @ARTICLE{Goldsmith2021-pd,
@@ -44132,7 +44133,7 @@
                   applied research.},
   url          = {http://dx.doi.org/10.46743/2160-3715/2021.5011},
   keywords     = {PhD Study and Support;Theory and Methods;\_BibTex to MD
-                  Git;Research Methods}
+                  Git;Research Methods;QDA}
 }
 
 @INPROCEEDINGS{du-Boulay2008-fn,
@@ -45575,7 +45576,7 @@
                Qualitative Data Analysis has been elegantly revised for a new
                generation of qualitative researchers.},
   keywords  = {EPubs Books;Theory and Methods;PhD Study and
-               Support;RNIB;ePub;Research Methods},
+               Support;RNIB;ePub;Research Methods;QDA},
   language  = {en}
 }
 
@@ -45712,6 +45713,6 @@
                   analytic access, and expand the epistemic horizons of
                   qualitative research in the age of AI.},
   url          = {http://dx.doi.org/10.1177/10778004251412871},
-  keywords     = {Artificial Intelligence (AI)},
+  keywords     = {Artificial Intelligence (AI);QDA},
   language     = {en}
 }
