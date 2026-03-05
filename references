@@ -2076,6 +2076,18 @@
   language  = {en}
 }
 
+@INBOOK{Geertz1973-vm,
+  title     = {Thick Description: Towards an Interpretive Theory of Culture},
+  author    = {Geertz, Clifford},
+  booktitle = {The Interpretation of Cultures},
+  publisher = {Basic Books},
+  location  = {New York},
+  pages     = {3--32},
+  date      = {1973},
+  chapter   = {1},
+  keywords  = {anthropology culture hermeneutics interpretive}
+}
+
 @BOOK{Creswell2020-su,
   title     = {30 Essential Skills for the Qualitative Researcher},
   author    = {Creswell, John W and Creswell Baez, Johanna},
