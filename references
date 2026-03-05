@@ -45779,3 +45779,19 @@
   keywords     = {Qualitative Analysis QDA;\_BibTex to MD Git;QDA},
   language     = {en}
 }
+
+@ARTICLE{Yang2016-of,
+  title        = {拓展性—限制性学习：一种工作场所学习的研究框架},
+  author       = {Yang, Zizhou and Xun, Guanyu},
+  journaltitle = {开放教育研究},
+  volume       = {22},
+  issue        = {4},
+  pages        = {114--120},
+  date         = {2016-08},
+  doi          = {10.13966/j.cnki.kfjyjj.2016.04.014},
+  url          = {http://dx.doi.org/10.13966/j.cnki.kfjyjj.2016.04.014},
+  note         = {Qujing Normal College, School of Economics and Management. DOI
+                  may not resolve via doi.org; search by DOI string or Chinese
+                  title in CNKI.},
+  language     = {Chinese}
+}
