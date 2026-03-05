@@ -2076,18 +2076,6 @@
   language  = {en}
 }
 
-@INBOOK{Geertz1973-vm,
-  title     = {Thick Description: Towards an Interpretive Theory of Culture},
-  author    = {Geertz, Clifford},
-  booktitle = {The Interpretation of Cultures},
-  publisher = {Basic Books},
-  location  = {New York},
-  pages     = {3--32},
-  date      = {1973},
-  chapter   = {1},
-  keywords  = {anthropology culture hermeneutics interpretive}
-}
-
 @BOOK{Creswell2020-su,
   title     = {30 Essential Skills for the Qualitative Researcher},
   author    = {Creswell, John W and Creswell Baez, Johanna},
@@ -2223,6 +2211,42 @@
   url          = {https://www.nytimes.com/2023/12/18/opinion/editorials/housing-costs-modular-homes.html},
   keywords     = {\_BibTex to MD Git;Economics;AEC;Readwise Reader;\_In
                   Readwise;Important}
+}
+
+@INBOOK{Geertz1973-vm,
+  title     = {Thick Description: Towards an Interpretive Theory of Culture},
+  author    = {Geertz, Clifford},
+  booktitle = {The Interpretation of Cultures},
+  publisher = {Basic Books},
+  location  = {New York},
+  pages     = {3--32},
+  date      = {1973},
+  abstract  = {In this chapter, Clifford Geertz develops a foundational argument
+               for interpretive anthropology by redefining culture as a system
+               of publicly shared meanings expressed through symbolic action.
+               Rejecting both reductionist behavioral explanations and purely
+               psychological accounts of culture, Geertz proposes a semiotic
+               conception of culture, drawing on Max Weber’s notion that humans
+               are suspended in “webs of significance” they themselves have
+               spun. Anthropological inquiry, therefore, should not seek
+               universal laws but instead pursue interpretive understanding of
+               meaning within specific social contexts. Central to this approach
+               is the methodological concept of “thick description,” which
+               distinguishes between superficial observation of behavior and the
+               interpretation of its layered social meanings. Through
+               illustrative examples—including Gilbert Ryle’s famous “wink
+               versus twitch” analogy and a detailed ethnographic narrative from
+               Morocco—Geertz demonstrates how ethnographic analysis involves
+               interpreting multiple overlapping structures of signification.
+               Ethnography, he argues, is fundamentally an interpretive act: a
+               process of inscribing social discourse and rendering it
+               analytically accessible. Geertz concludes that cultural analysis
+               operates through interpretive inference rather than predictive
+               theory, aiming to illuminate how symbolic forms organize human
+               experience. The broader contribution of interpretive
+               anthropology, therefore, lies in expanding the scope of human
+               discourse by making diverse systems of meaning intelligible.},
+  chapter   = {1}
 }
 
 @REPORT{Egan1998-eu,
