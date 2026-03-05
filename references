@@ -45781,7 +45781,8 @@
 }
 
 @ARTICLE{Yang2016-of,
-  title        = {拓展性—限制性学习：一种工作场所学习的研究框架},
+  title        = {Extended-Restricted Learning: A Research Framework for
+                  Workplace Learning},
   author       = {Yang, Zizhou and Xun, Guanyu},
   journaltitle = {开放教育研究},
   volume       = {22},
@@ -45843,5 +45844,5 @@
   note         = {Qujing Normal College, School of Economics and Management. DOI
                   may not resolve via doi.org; search by DOI string or Chinese
                   title in CNKI.},
-  language     = {Chinese}
+  language     = {zh}
 }
