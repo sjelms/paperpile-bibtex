@@ -2071,7 +2071,7 @@
   edition   = {5},
   date      = {2018-12-22},
   isbn      = {9781506386768},
-  keywords  = {Book (physical);Research Methods},
+  keywords  = {Theory and Methods;Book (physical);Research Methods},
   language  = {en}
 }
 
@@ -2112,8 +2112,8 @@
                challenging aspect of qualitative research. Information on
                writing habits now addresses co-authorship and provides more
                context and variation from the two authors.},
-  keywords  = {PhD Study and Support;\_BibTex to MD Git;PhD Support and
-               Training;Research Methods},
+  keywords  = {PhD Study and Support;\_BibTex to MD Git;Theory and Methods;PhD
+               Support and Training;Research Methods},
   language  = {en}
 }
 
@@ -28580,7 +28580,8 @@
                   program in educational leadership is used to illustrate the
                   methodological discussion.},
   url          = {https://assets.ctfassets.net/hk7rjv5qs0cy/2aIyf1gDPKAUGke04uCICm/13a40dd3da1a956906aa879abd1a407d/Ivankova_etal_2006_mixed_methods_sequential_design.pdf},
-  keywords     = {RDL [CCME0041];Journal Articles;Research Methods},
+  keywords     = {RDL [CCME0041];Journal Articles;Theory and Methods;Research
+                  Methods},
   language     = {en}
 }
 
@@ -28631,7 +28632,8 @@
                   and editors in the process of reviewing research. (PsycINFO
                   Database Record},
   url          = {http://dx.doi.org/10.1037/amp0000151},
-  keywords     = {RDL [CCME0041];Journal Articles;Research Methods},
+  keywords     = {RDL [CCME0041];Journal Articles;Theory and Methods;Research
+                  Methods},
   language     = {en}
 }
 
