@@ -3681,6 +3681,22 @@
   language     = {en}
 }
 
+@ARTICLE{Pan2022-rw,
+  title        = {Artificial intelligence and robotics for prefabricated and
+                  modular construction: A systematic literature review},
+  author       = {Pan, Mi and Yang, Yi and Zheng, Zhenjie and Pan, Wei},
+  journaltitle = {Journal of Construction Engineering and Management},
+  publisher    = {American Society of Civil Engineers (ASCE)},
+  volume       = {148},
+  issue        = {9},
+  date         = {2022-09},
+  doi          = {10.1061/(asce)co.1943-7862.0002324},
+  issn         = {0733-9364,1943-7862},
+  url          = {http://dx.doi.org/10.1061/(asce)co.1943-7862.0002324},
+  keywords     = {JG\_Recommended},
+  language     = {en}
+}
+
 @REPORT{Egan1998-eu,
   type      = {resreport},
   title     = {Rethinking Construction: The Report of the Construction Task
