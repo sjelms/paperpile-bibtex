@@ -12144,7 +12144,8 @@
 }
 
 @BOOK{Bock2015-ds,
-  title     = {Robot-oriented design},
+  title     = {Robot-Oriented Design: Design and Management Tools for the
+               Deployment of Automation and Robotics in Construction},
   author    = {Bock, Thomas and Linner, Thomas},
   publisher = {Cambridge University Press},
   location  = {Cambridge, England},
