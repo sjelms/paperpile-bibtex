@@ -3664,6 +3664,23 @@
   keywords     = {JG\_Recommended}
 }
 
+@ARTICLE{Pan2020-aw,
+  title        = {Understanding the determinants of construction robot adoption:
+                  Perspective of building contractors},
+  author       = {Pan, Mi and Pan, Wei},
+  journaltitle = {Journal of Construction Engineering and Management},
+  publisher    = {American Society of Civil Engineers (ASCE)},
+  volume       = {146},
+  issue        = {5},
+  pages        = {04020040},
+  date         = {2020-05},
+  doi          = {10.1061/(asce)co.1943-7862.0001821},
+  issn         = {0733-9364,1943-7862},
+  url          = {http://dx.doi.org/10.1061/(asce)co.1943-7862.0001821},
+  keywords     = {JG\_Recommended},
+  language     = {en}
+}
+
 @REPORT{Egan1998-eu,
   type      = {resreport},
   title     = {Rethinking Construction: The Report of the Construction Task
