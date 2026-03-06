@@ -2079,17 +2079,6 @@
   keywords  = {Robot-Oriented Design}
 }
 
-@INBOOK{Bock2015-bx,
-  title     = {Introduction of Relevant Terms, Concepts, and Technologies},
-  author    = {Bock, Thomas and Linner, Thomas},
-  booktitle = {Robot-Oriented Design: Design and Management Tools for the
-               Deployment of Automation and Robotics in Construction},
-  publisher = {Cambridge University Press},
-  pages     = {49--124},
-  date      = {2015},
-  keywords  = {Robot-Oriented Design}
-}
-
 @INBOOK{Bock2015-qs,
   title     = {Synchronization of Organization, Building Structure, and
                Manufacturing Technology by Robot-Oriented Design},
@@ -2127,6 +2116,21 @@
                innovation management are becoming key topics in his research.
                Linner is a frequently invited speaker at universities such as
                the University of Tokyo and Cambridge University.},
+  keywords  = {Robot-Oriented Design}
+}
+
+@INBOOK{Bock2015-bx,
+  title     = {Introduction of Relevant Terms, Concepts, and Technologies},
+  author    = {Bock, Thomas and Linner, Thomas},
+  booktitle = {Robot-Oriented Design: Design and Management Tools for the
+               Deployment of Automation and Robotics in Construction},
+  publisher = {Cambridge University Press},
+  pages     = {49--124},
+  date      = {2015},
+  abstract  = {In this chapter, concepts and technologies relevant to
+               understanding approaches discussed in the following chapters and
+               volumes and the evaluation of related technical, organizational,
+               and economical concepts and parameters are introduced.},
   keywords  = {Robot-Oriented Design}
 }
 
