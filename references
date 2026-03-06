@@ -4663,6 +4663,41 @@
   language     = {en}
 }
 
+@ARTICLE{Guile2017-qd,
+  title        = {Apprenticeship for ‘liquid life’: Learning in contingent work
+                  conditions for contingent employment},
+  author       = {Guile, David and Lahiff, Ann},
+  journaltitle = {Vocations and Learning},
+  publisher    = {Springer Science and Business Media LLC},
+  volume       = {10},
+  issue        = {2},
+  pages        = {157--175},
+  date         = {2017-07},
+  doi          = {10.1007/s12186-016-9166-3},
+  issn         = {1874-785X,1874-7868},
+  abstract     = {Taking the distinction between the Institution of
+                  Apprenticeship, that is, the social partnership arrangements
+                  which underpin its organisation, and Apprenticeship as a
+                  Social Model of Learning, in other words, he configuration of
+                  pedagogic and occupational etc. dimensions which constitute
+                  the model, as its starting point the paper: (i) argues the
+                  emergence of de-centred, distributed and discontinuous
+                  conditions associated with project-work present challenges for
+                  extant ideas about apprenticeship as a social model of
+                  learning; (ii) explores this claim in relation to Fuller and
+                  Unwin’s four inter-connected dimensions of apprenticeship as a
+                  social model of learning by considering a case study of
+                  apprenticeship designed to prepare apprentices to work in the
+                  above conditions; (iii) relates issues arising from the case
+                  study to research on project work from the fields of
+                  Organisational and Cultural Studies; and (iv) based on this
+                  evidence base introduces a typology of ‘Apprenticeship for
+                  Liquid Life’.},
+  url          = {http://dx.doi.org/10.1007/s12186-016-9166-3},
+  keywords     = {Expansive–restrictive continuum ERC;VET;Workplace Learning},
+  language     = {en}
+}
+
 @ARTICLE{Doroftei2018-sz,
   title        = {Perspectives of Young People Enrolled in Apprenticeship
                   Courses in Portugal About Learning in Work Contexts},
@@ -46279,23 +46314,6 @@
   url          = {http://dx.doi.org/10.1108/jwl-07-2019-0094},
   keywords     = {UCL PhD Research Proposals and Thesis;\_BibTex to MD
                   Git;Expansive–restrictive continuum ERC;UCL;Workplace Learning},
-  language     = {en}
-}
-
-@ARTICLE{Guile2017-qd,
-  title        = {Apprenticeship for ‘liquid life’: Learning in contingent work
-                  conditions for contingent employment},
-  author       = {Guile, David and Lahiff, Ann},
-  journaltitle = {Vocations and Learning},
-  publisher    = {Springer Science and Business Media LLC},
-  volume       = {10},
-  issue        = {2},
-  pages        = {157--175},
-  date         = {2017-07},
-  doi          = {10.1007/s12186-016-9166-3},
-  issn         = {1874-785X,1874-7868},
-  url          = {http://dx.doi.org/10.1007/s12186-016-9166-3},
-  keywords     = {Expansive–restrictive continuum ERC;VET;Workplace Learning},
   language     = {en}
 }
 
