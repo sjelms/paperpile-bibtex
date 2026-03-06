@@ -39043,6 +39043,10 @@
   publisher = {Cambridge University Press},
   pages     = {18--20},
   date      = {2015},
+  abstract  = {In this volume, design, innovation, and management methodologies
+               are explained that are keys for the realization and
+               implementation of the advanced concepts and technologies
+               presented in Volumes 2, 3, 4, and 5.},
   keywords  = {Robot-Oriented Design}
 }
 
