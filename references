@@ -2926,18 +2926,6 @@
   keywords  = {Robot-Oriented Design}
 }
 
-@INBOOK{Bock2015-xy,
-  title     = {Complex Products in Other Industries and Relevance of
-               Fixed-Site/On-Site Manufacturing Technology},
-  author    = {Bock, Thomas and Linner, Thomas},
-  booktitle = {Robot-Oriented Design: Design and Management Tools for the
-               Deployment of Automation and Robotics in Construction},
-  publisher = {Cambridge University Press},
-  pages     = {125--155},
-  date      = {2015},
-  keywords  = {Robot-Oriented Design}
-}
-
 @INBOOK{Bock2015-yo,
   title     = {References},
   author    = {Bock, Thomas and Linner, Thomas},
@@ -3519,6 +3507,50 @@
                way out of our impasse to a more optimistic future.},
   keywords  = {EPubs Books;\_BibTex to MD Git;RNIB;ePub;UCL;Economics},
   language  = {en}
+}
+
+@INBOOK{Bock2015-xy,
+  title     = {Complex Products in Other Industries and Relevance of
+               Fixed-Site/On-Site Manufacturing Technology},
+  author    = {Bock, Thomas and Linner, Thomas},
+  booktitle = {Robot-Oriented Design: Design and Management Tools for the
+               Deployment of Automation and Robotics in Construction},
+  publisher = {Cambridge University Press},
+  pages     = {125--155},
+  date      = {2015},
+  abstract  = {Tunnelling by tunnel boring machine (TBM), shipbuilding and
+               aircraft manufacturing, the automotive industry, and automated
+               construction sites represent the overcoming of arts and crafts
+               based construction by building on Tayloristic ideas, leading to
+               mechanization, automation, and finally the use of robotic
+               systems. Tunnelling, shipbuilding, and aircraft manufacturing
+               have significant similarities in terms of product structure,
+               manufacturing strategy, and manufacturing systems to construction
+               by single-task construction robots (STCRs) and/or integrated
+               automated construction sites. Also, significant similarities
+               between large-scale prefabrication (LSP; e.g., Sekisui Heim \&
+               Toyota Home types, analysed and discussed in detail in Volume 2)
+               and the automotive industry can be identified. Tunnelling,
+               shipbuilding, aircraft manufacturing, and the automotive industry
+               deliver complex customized products consisting of in most cases
+               far beyond 10,000 parts, and are required to produce more-or-less
+               individual solutions of those complex products with mass
+               production like efficiency to reasonable cost and within
+               reasonable and predictable time frames. In the following
+               sections, therefore, those industries are analysed according to a
+               variety of parameters (product structure, manufacturing strategy,
+               manufacturing system, subsystems, end-effectors, robot-oriented
+               design (ROD), performance multiplication, and
+               productivity/efficiency). Those parameters are throughout the
+               series similarly used to analyse building component manufacturing
+               (BCM; see Volume 2), LSP (see Volume 2), STCRs (Volume 3), and
+               automated/robotic on-site factories (see Volume 4). In the
+               following sections, it is shown that, in particular,
+               shipbuilding, tunnelling, and the aircraft industry have
+               developed methods to systemize and automate the manufacturing of
+               customized large-sized complex products by a combination of
+               off-site and on-site/fixed-site manufacturing methodology.},
+  keywords  = {Robot-Oriented Design}
 }
 
 @REPORT{Egan1998-eu,
