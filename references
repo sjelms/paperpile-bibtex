@@ -424,6 +424,16 @@
   language     = {en}
 }
 
+@INBOOK{Bock2015-tt,
+  author    = {Bock, Thomas and Linner, Thomas},
+  booktitle = {Robot-Oriented Design: Design and Management Tools for the
+               Deployment of Automation and Robotics in Construction},
+  publisher = {Cambridge University Press},
+  pages     = {i--ii},
+  date      = {2015},
+  keywords  = {Robot-Oriented Design}
+}
+
 @ARTICLE{Adami2023-ai,
   title        = {Participants matter: Effectiveness of {VR}-based training on
                   the knowledge, trust in the robot, and self-efficacy of
@@ -3424,6 +3434,17 @@
                Industry 4.0 Era;\_BibTex to MD Git;BSSC Seed Fund for AI
                Research;AEC;Cross Ref Chapter;ePub;Artificial Intelligence (AI)},
   language  = {en}
+}
+
+@INBOOK{Bock2015-xs,
+  author    = {Bock, Thomas and Linner, Thomas and Bock, Thomas and Linner,
+               Thomas},
+  booktitle = {Robot-Oriented Design: Design and Management Tools for the
+               Deployment of Automation and Robotics in Construction},
+  publisher = {Cambridge University Press},
+  pages     = {iii--iii},
+  date      = {2015},
+  keywords  = {Robot-Oriented Design}
 }
 
 @INBOOK{Serra2023-dh,
@@ -31457,6 +31478,18 @@
   keywords     = {Notion Catalogued;\_BibTex to MD Git;\_Cataloged;Interview}
 }
 
+@INBOOK{Bock2015-fn,
+  title     = {Utilizing Innovation Science to Develop and Deploy
+               Automated/Robotic Systems in Construction},
+  author    = {Bock, Thomas and Linner, Thomas},
+  booktitle = {Robot-Oriented Design: Design and Management Tools for the
+               Deployment of Automation and Robotics in Construction},
+  publisher = {Cambridge University Press},
+  pages     = {231--255},
+  date      = {2015},
+  keywords  = {Robot-Oriented Design}
+}
+
 @INPROCEEDINGS{LaViola2015-bg,
   title     = {Using augmented reality to tutor military tasks in the wild},
   author    = {LaViola, Joseph J and Williamson, Brian M and Brooks, Conner and
@@ -33687,6 +33720,18 @@
                   Reader;Economics;\_Mark Up}
 }
 
+@INBOOK{Bock2015-qs,
+  title     = {Synchronization of Organization, Building Structure, and
+               Manufacturing Technology by Robot-Oriented Design},
+  author    = {Bock, Thomas and Linner, Thomas},
+  booktitle = {Robot-Oriented Design: Design and Management Tools for the
+               Deployment of Automation and Robotics in Construction},
+  publisher = {Cambridge University Press},
+  pages     = {156--230},
+  date      = {2015},
+  keywords  = {Robot-Oriented Design}
+}
+
 @BOOK{Maddow2020-tg,
   title     = {Blowout: Corrupted Democracy, Rogue State Russia, and the
                Richest, Most Destructive Industry on Earth},
@@ -33758,6 +33803,17 @@
                skill formation.},
   keywords  = {EPubs Books;\_BibTex to MD Git;VET;ePub;RNIB},
   language  = {en}
+}
+
+@INBOOK{Bock2015-am,
+  title     = {Acknowledgements},
+  author    = {Bock, Thomas and Linner, Thomas},
+  booktitle = {Robot-Oriented Design: Design and Management Tools for the
+               Deployment of Automation and Robotics in Construction},
+  publisher = {Cambridge University Press},
+  pages     = {ix--xii},
+  date      = {2015},
+  keywords  = {Robot-Oriented Design}
 }
 
 @ARTICLE{Wang2007-gk,
@@ -36765,6 +36821,17 @@
   keywords  = {Abundance-Footnotes;\_BibTex to MD Git}
 }
 
+@INBOOK{Bock2015-yo,
+  title     = {References},
+  author    = {Bock, Thomas and Linner, Thomas},
+  booktitle = {Robot-Oriented Design: Design and Management Tools for the
+               Deployment of Automation and Robotics in Construction},
+  publisher = {Cambridge University Press},
+  pages     = {261--274},
+  date      = {2015},
+  keywords  = {Robot-Oriented Design}
+}
+
 @REPORT{Pothier2019-fn,
   type        = {resreport},
   title       = {Industrialized Construction in Academia},
@@ -36982,6 +37049,17 @@
                  Cited Lit for Jacqui;\_BibTex to MD Git;Cited for Frontiers;AEC}
 }
 
+@INBOOK{Bock2015-tj,
+  title     = {Index},
+  author    = {Bock, Thomas and Linner, Thomas},
+  booktitle = {Robot-Oriented Design: Design and Management Tools for the
+               Deployment of Automation and Robotics in Construction},
+  publisher = {Cambridge University Press},
+  pages     = {275--283},
+  date      = {2015},
+  keywords  = {Robot-Oriented Design}
+}
+
 @REPORT{USG_Corporation2019-me,
   type        = {resreport},
   title       = {{Q4} 2019 Commercial Construction Index},
@@ -37075,6 +37153,17 @@
                   a vital role in the development of …},
   url          = {https://www.ijicc.net/images/vol8iss12/81209_Yunus_2019_E_R.pdf},
   keywords     = {Journal Articles;\_New Literature}
+}
+
+@INBOOK{Bock2015-th,
+  title     = {Advanced Construction and Building Technology},
+  author    = {Bock, Thomas and Linner, Thomas},
+  booktitle = {Robot-Oriented Design: Design and Management Tools for the
+               Deployment of Automation and Robotics in Construction},
+  publisher = {Cambridge University Press},
+  pages     = {1--17},
+  date      = {2015},
+  keywords  = {Robot-Oriented Design}
 }
 
 @BOOK{Abraham2025-or,
@@ -38884,6 +38973,17 @@
                  Readwise;AEC;UCL;VET;Workplace Learning;\_New Literature}
 }
 
+@INBOOK{Bock2015-ef,
+  title     = {The Structure of this Volume},
+  author    = {Bock, Thomas and Linner, Thomas},
+  booktitle = {Robot-Oriented Design: Design and Management Tools for the
+               Deployment of Automation and Robotics in Construction},
+  publisher = {Cambridge University Press},
+  pages     = {18--20},
+  date      = {2015},
+  keywords  = {Robot-Oriented Design}
+}
+
 @ARTICLE{Knowles2002-ic,
   title        = {Malcolm Knowles, informal adult education, self-direction, and
                   andragogy},
@@ -39441,6 +39541,17 @@
                world of work, but an exploration of the effects of contemporary
                practices of work on the self.},
   keywords  = {\_BibTex to MD Git;EPubs Books;ePub;Labor}
+}
+
+@INBOOK{Bock2015-bx,
+  title     = {Introduction of Relevant Terms, Concepts, and Technologies},
+  author    = {Bock, Thomas and Linner, Thomas},
+  booktitle = {Robot-Oriented Design: Design and Management Tools for the
+               Deployment of Automation and Robotics in Construction},
+  publisher = {Cambridge University Press},
+  pages     = {49--124},
+  date      = {2015},
+  keywords  = {Robot-Oriented Design}
 }
 
 @REPORT{Green2020-gb,
@@ -40343,6 +40454,18 @@
                  MD Git;Cited for Frontiers;AEC}
 }
 
+@INBOOK{Bock2015-mt,
+  title     = {The Role of Complementarity of Products, Organization,
+               Information, and Machine Technology},
+  author    = {Bock, Thomas and Linner, Thomas},
+  booktitle = {Robot-Oriented Design: Design and Management Tools for the
+               Deployment of Automation and Robotics in Construction},
+  publisher = {Cambridge University Press},
+  pages     = {21--48},
+  date      = {2015},
+  keywords  = {Robot-Oriented Design}
+}
+
 @BOOK{Boughton2022-im,
   title     = {A History of Council Housing in 100 Estates},
   author    = {Boughton, John},
@@ -41134,6 +41257,17 @@
                This is biography at its finest and most vivid.},
   keywords  = {EPubs Books;\_BibTex to MD Git;AEC;ePub},
   language  = {en}
+}
+
+@INBOOK{Bock2015-gm,
+  title     = {Glossary},
+  author    = {Bock, Thomas and Linner, Thomas},
+  booktitle = {Robot-Oriented Design: Design and Management Tools for the
+               Deployment of Automation and Robotics in Construction},
+  publisher = {Cambridge University Press},
+  pages     = {xiii--xxiv},
+  date      = {2015},
+  keywords  = {Robot-Oriented Design}
 }
 
 @BOOK{Knapp2018-ku,
@@ -42172,6 +42306,17 @@
   language  = {en}
 }
 
+@INBOOK{Bock2015-sb,
+  title     = {Contents},
+  author    = {Bock, Thomas and Linner, Thomas},
+  booktitle = {Robot-Oriented Design: Design and Management Tools for the
+               Deployment of Automation and Robotics in Construction},
+  publisher = {Cambridge University Press},
+  pages     = {v--viii},
+  date      = {2015},
+  keywords  = {Robot-Oriented Design}
+}
+
 @ARTICLE{Agolla2018-uw,
   title        = {Human capital in the smart manufacturing and industry 4.0
                   revolution},
@@ -42281,6 +42426,17 @@
   url       = {https://play.google.com/store/books/details?id=LWseAQAAIAAJ},
   keywords  = {Notion Catalogued;\_BibTex to MD Git;AEC;\_Cataloged},
   language  = {en}
+}
+
+@INBOOK{Bock2015-dx,
+  title     = {Copyright page},
+  author    = {Bock, Thomas and Linner, Thomas},
+  booktitle = {Robot-Oriented Design: Design and Management Tools for the
+               Deployment of Automation and Robotics in Construction},
+  publisher = {Cambridge University Press},
+  pages     = {iv--iv},
+  date      = {2015},
+  keywords  = {Robot-Oriented Design}
 }
 
 @ARTICLE{Lee2006-ll,
@@ -42565,6 +42721,18 @@
   url        = {https://openlibrary.org/books/OL35891356M/On_Justification},
   keywords   = {\_BibTex to MD Git;EPubs Books;Economics;ePub;Labor},
   language   = {fr, en}
+}
+
+@INBOOK{Bock2015-gj,
+  title     = {Competitive Advantage by Co-adapted Expansion of Products and
+               Manufacturing Systems},
+  author    = {Bock, Thomas and Linner, Thomas},
+  booktitle = {Robot-Oriented Design: Design and Management Tools for the
+               Deployment of Automation and Robotics in Construction},
+  publisher = {Cambridge University Press},
+  pages     = {256--260},
+  date      = {2015},
+  keywords  = {Robot-Oriented Design}
 }
 
 @REPORT{Fuller2017-dj,
@@ -44849,6 +45017,18 @@
   url       = {https://www.salesforce.com/blog/what-is-the-fourth-industrial-revolution-4ir/},
   keywords  = {Frontiers [2022];2\_Upgrade MAY 2023;\_BibTex to MD Git;Cited for
                Frontiers;\_In Notion}
+}
+
+@INBOOK{Bock2015-xy,
+  title     = {Complex Products in Other Industries and Relevance of
+               Fixed-Site/On-Site Manufacturing Technology},
+  author    = {Bock, Thomas and Linner, Thomas},
+  booktitle = {Robot-Oriented Design: Design and Management Tools for the
+               Deployment of Automation and Robotics in Construction},
+  publisher = {Cambridge University Press},
+  pages     = {125--155},
+  date      = {2015},
+  keywords  = {Robot-Oriented Design}
 }
 
 @ONLINE{Stone2003-jo,
