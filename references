@@ -424,16 +424,6 @@
   language     = {en}
 }
 
-@INBOOK{Bock2015-tt,
-  author    = {Bock, Thomas and Linner, Thomas},
-  booktitle = {Robot-Oriented Design: Design and Management Tools for the
-               Deployment of Automation and Robotics in Construction},
-  publisher = {Cambridge University Press},
-  pages     = {i--ii},
-  date      = {2015},
-  keywords  = {Robot-Oriented Design}
-}
-
 @ARTICLE{Adami2023-ai,
   title        = {Participants matter: Effectiveness of {VR}-based training on
                   the knowledge, trust in the robot, and self-efficacy of
@@ -34429,6 +34419,17 @@
                Fear and Do It Anyway},
   keywords  = {EPubs Books;\_BibTex to MD Git;Audible;ePub;Audiobook},
   language  = {en}
+}
+
+@INBOOK{Bock2015-tt,
+  title     = {Half Title Page},
+  author    = {Bock, Thomas and Linner, Thomas},
+  booktitle = {Robot-Oriented Design: Design and Management Tools for the
+               Deployment of Automation and Robotics in Construction},
+  publisher = {Cambridge University Press},
+  pages     = {i--ii},
+  date      = {2015},
+  keywords  = {Robot-Oriented Design}
 }
 
 @BOOK{Halttunen2014-de,
