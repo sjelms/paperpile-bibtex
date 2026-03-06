@@ -3697,6 +3697,46 @@
   language     = {en}
 }
 
+@ARTICLE{Chan2007-ad,
+  title        = {Productivity improvements: understand the workforce
+                  perceptions of productivity first},
+  author       = {Chan, Paul W and Kaka, Ammar},
+  journaltitle = {Personnel Review},
+  publisher    = {Emerald},
+  volume       = {36},
+  issue        = {4},
+  pages        = {564--584},
+  date         = {2007-06-12},
+  doi          = {10.1108/00483480710752803},
+  issn         = {0048-3486,1758-6933},
+  abstract     = {PurposeTo establish the differences between the perceptions of
+                  white‐collar managers and blue‐collar workers with respect to
+                  the factors that affect construction labour productivity, and
+                  to show that integrating the differences could lead to
+                  productivity improvements.Design/methodology/approachA
+                  questionnaire survey administered to a purposive sample of 400
+                  project managers and a convenience sample of 152 construction
+                  workers, eliciting current trends of their perceptions towards
+                  59 factors that were extracted from an extensive literature
+                  review and exploratory study. This was followed by the
+                  identification of good practice examples from site
+                  observations across two project sites.FindingsThe study found
+                  distinct differences between the two groups, with white‐collar
+                  managers being more concerned with resource planning issues
+                  and the blue‐collar workers placing more value on the
+                  utilisation of resources. Furthermore, the site observations
+                  demonstrated that integrating these differences through
+                  employee involvement could lead to productivity
+                  improvements.Originality/valueThe study should extend previous
+                  productivity research, which had hitherto focussed on
+                  shorter‐term work content and work environment factors from a
+                  managerial perspective, with relatively lesser focus on the
+                  perspective of the general workforce.},
+  url          = {http://dx.doi.org/10.1108/00483480710752803},
+  keywords     = {JG\_Recommended},
+  language     = {en}
+}
+
 @REPORT{Egan1998-eu,
   type      = {resreport},
   title     = {Rethinking Construction: The Report of the Construction Task
