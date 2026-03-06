@@ -3436,17 +3436,6 @@
   language  = {en}
 }
 
-@INBOOK{Bock2015-xs,
-  author    = {Bock, Thomas and Linner, Thomas and Bock, Thomas and Linner,
-               Thomas},
-  booktitle = {Robot-Oriented Design: Design and Management Tools for the
-               Deployment of Automation and Robotics in Construction},
-  publisher = {Cambridge University Press},
-  pages     = {iii--iii},
-  date      = {2015},
-  keywords  = {Robot-Oriented Design}
-}
-
 @INBOOK{Serra2023-dh,
   title     = {Educational game evaluation on smartphones for occupational
                safety training},
@@ -42076,6 +42065,18 @@
                Notion;\_In Readwise;ePub;VET;Workplace Learning;\_New
                Literature;\_In ClickUp},
   language  = {en}
+}
+
+@INBOOK{Bock2015-xs,
+  title     = {Title Page},
+  author    = {Bock, Thomas and Linner, Thomas and Bock, Thomas and Linner,
+               Thomas},
+  booktitle = {Robot-Oriented Design: Design and Management Tools for the
+               Deployment of Automation and Robotics in Construction},
+  publisher = {Cambridge University Press},
+  pages     = {iii--iii},
+  date      = {2015},
+  keywords  = {Robot-Oriented Design}
 }
 
 @BOOK{Brown2014-ri,
