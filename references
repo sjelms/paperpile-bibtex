@@ -1045,6 +1045,35 @@
   language  = {en}
 }
 
+@INBOOK{Bock2015-gj,
+  title     = {Competitive Advantage by Co-adapted Expansion of Products and
+               Manufacturing Systems},
+  author    = {Bock, Thomas and Linner, Thomas},
+  booktitle = {Robot-Oriented Design: Design and Management Tools for the
+               Deployment of Automation and Robotics in Construction},
+  publisher = {Cambridge University Press},
+  pages     = {256--260},
+  date      = {2015},
+  abstract  = {For a long time the focus of innovation in the area of automation
+               and robotics in construction has been solely on industrialized
+               and rationalized off-site or on-site construction as well as on
+               related processes, building systems, management and/or logistic
+               tools, and high-tech construction/prefabrication by robotic
+               equipment. Yet, today, the complexity of buildings continues to
+               increase rapidly owing to new paradigms such as ubiquitous
+               computing, the diffusion of robot technology in many areas of
+               life (see also Chapter 1) and the demand for energy efficiency
+               and emerging assistance technologies. Buildings become integrated
+               with a multitude of new “passive” and “active” subsystems and
+               extend their performance to areas which had formerly not been
+               considered part of the construction and building industry, yet
+               that now gradually merge with our built environment (see in
+               particular Volume 5). In short: buildings become advanced
+               products and might in the future themselves become even kind of
+               robots.},
+  keywords  = {Robot-Oriented Design}
+}
+
 @ARTICLE{Rankin2024-wd,
   title        = {Embodied {GHG} of missing middle: Residential building form
                   and strategies for more efficient housing},
@@ -2057,18 +2086,6 @@
                Deployment of Automation and Robotics in Construction},
   publisher = {Cambridge University Press},
   pages     = {49--124},
-  date      = {2015},
-  keywords  = {Robot-Oriented Design}
-}
-
-@INBOOK{Bock2015-gj,
-  title     = {Competitive Advantage by Co-adapted Expansion of Products and
-               Manufacturing Systems},
-  author    = {Bock, Thomas and Linner, Thomas},
-  booktitle = {Robot-Oriented Design: Design and Management Tools for the
-               Deployment of Automation and Robotics in Construction},
-  publisher = {Cambridge University Press},
-  pages     = {256--260},
   date      = {2015},
   keywords  = {Robot-Oriented Design}
 }
