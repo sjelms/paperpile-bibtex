@@ -4641,6 +4641,26 @@
                  Apprentices in England}
 }
 
+@ARTICLE{Avis2022-yt,
+  title        = {Anti-work, {TVET} and employer engagement},
+  author       = {Avis, James},
+  journaltitle = {Journal of Education and Work},
+  publisher    = {Informa UK Limited},
+  volume       = {35},
+  issue        = {5},
+  pages        = {585--598},
+  date         = {2022-07-04},
+  doi          = {10.1080/13639080.2022.2092606},
+  issn         = {1363-9080,1469-9435},
+  abstract     = {The paper seeks to bring together a range of debates on the
+                  left that address TVET’s1 future in the light of different
+                  tendencies within capitalism. At the heart of these debates
+                  rest two issues. T...},
+  url          = {http://dx.doi.org/10.1080/13639080.2022.2092606},
+  urldate      = {2026-03-06},
+  language     = {en}
+}
+
 @ARTICLE{Rintala2020-on,
   title        = {Vocational education and learners’ experienced workplace
                   curriculum},
