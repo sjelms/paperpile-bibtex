@@ -12143,6 +12143,32 @@
                Learning;\_New Literature}
 }
 
+@BOOK{Bock2015-ds,
+  title     = {Robot-oriented design},
+  author    = {Bock, Thomas and Linner, Thomas},
+  publisher = {Cambridge University Press},
+  location  = {Cambridge, England},
+  date      = {2015-05-05},
+  pagetotal = {352},
+  doi       = {10.1017/cbo9781139924146},
+  isbn      = {9781107076389,9781107076389},
+  abstract  = {Robot-Oriented Design introduces the design, innovation, and
+               management methodologies that are key to the realization and
+               implementation of the advanced concepts and technologies
+               presented in the subsequent volumes of the Cambridge Handbooks on
+               Construction Robotics series. This book describes the efficient
+               deployment of advanced construction and building technology. It
+               is concerned with the co-adaptation of construction products,
+               processes, organization, and management, and with
+               automated/robotic technology, so that the implementation of
+               modern technology becomes easier and more efficient. It is also
+               concerned with technology and innovation management methodologies
+               and the generation of life cycle-oriented views related to the
+               use of advanced technologies in construction.},
+  url       = {http://dx.doi.org/10.1017/cbo9781139924146},
+  keywords  = {JG\_Recommended}
+}
+
 @ARTICLE{Pylyshyn1999-ri,
   title        = {Is vision continuous with cognition? The case for cognitive
                   impenetrability of visual perception},
