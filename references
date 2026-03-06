@@ -3737,6 +3737,19 @@
   language     = {en}
 }
 
+@BOOK{Loosemore2003-kd,
+  title     = {Human resource management in construction projects},
+  author    = {Loosemore, Martin},
+  publisher = {Routledge},
+  location  = {London, England},
+  date      = {2003-09-01},
+  pagetotal = {360},
+  doi       = {10.4324/9780203417881},
+  isbn      = {9780203417881,9780203417881},
+  url       = {http://dx.doi.org/10.4324/9780203417881},
+  keywords  = {JG\_Recommended}
+}
+
 @REPORT{Egan1998-eu,
   type      = {resreport},
   title     = {Rethinking Construction: The Report of the Construction Task
