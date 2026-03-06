@@ -3778,7 +3778,7 @@
                practitioners who are interested in theoretically informed
                insights into industry practice and its implications.},
   url       = {http://dx.doi.org/10.4324/9780203417881},
-  keywords  = {JG\_Recommended;EPubs Books;RNIB;ePub}
+  keywords  = {JG\_Recommended;EPubs Books;\_BibTex to MD Git;RNIB;ePub}
 }
 
 @REPORT{Egan1998-eu,
@@ -31343,7 +31343,7 @@
   url          = {https://www.sciencedirect.com/science/article/pii/S0925753516301825},
   keywords     = {Complex systems; Construction; High reliability organising;
                   Human factors; Resilience engineering;Frontiers import [Aug
-                  11];Journal Articles;Workplace Learning;AEC},
+                  11];Journal Articles;\_BibTex to MD Git;Workplace Learning;AEC},
   language     = {en}
 }
 
