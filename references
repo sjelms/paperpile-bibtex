@@ -165,6 +165,22 @@
                  Research;\_BibTex to MD Git;AEC;Report}
 }
 
+@ARTICLE{Guile2017-qd,
+  title        = {Apprenticeship for ‘liquid life’: Learning in contingent work
+                  conditions for contingent employment},
+  author       = {Guile, David and Lahiff, Ann},
+  journaltitle = {Vocations and Learning},
+  publisher    = {Springer Science and Business Media LLC},
+  volume       = {10},
+  issue        = {2},
+  pages        = {157--175},
+  date         = {2017-07},
+  doi          = {10.1007/s12186-016-9166-3},
+  issn         = {1874-785X,1874-7868},
+  url          = {http://dx.doi.org/10.1007/s12186-016-9166-3},
+  language     = {en}
+}
+
 @BOOK{Klein2020-xn,
   title     = {Why We're Polarized},
   author    = {Klein, Ezra},
