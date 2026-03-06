@@ -1082,7 +1082,8 @@
   url       = {https://onlinelibrary.wiley.com/doi/10.1002/9781119098713.ch3},
   keywords  = {Handbook of Vocational Education and Training-Wiley 2019;EPubs
                Books;\_BibTex to MD Git;\_In ClickUp;\_In Notion;\_In
-               Readwise;ePub;Workplace Learning;\_Mark Up;VET;Cross Ref Chapter}
+               Readwise;ePub;Workplace Learning;\_Mark Up;VET;Cross Ref
+               Chapter;UCL}
 }
 
 @INBOOK{Durham2019-js,
@@ -1108,7 +1109,7 @@
   keywords  = {Handbook of Vocational Education and Training-Wiley 2019;EPubs
                Books;\_BibTex to MD Git;\_In ClickUp;\_In Notion;\_In
                Readwise;ePub;Workplace Learning;\_New Literature;VET;Cross Ref
-               Chapter}
+               Chapter;UCL}
 }
 
 @INBOOK{Pilz2019-py,
@@ -1138,7 +1139,7 @@
   keywords  = {Handbook of Vocational Education and Training-Wiley 2019;EPubs
                Books;\_BibTex to MD Git;\_In ClickUp;\_In Notion;\_In
                Readwise;ePub;Workplace Learning;\_New Literature;VET;Cross Ref
-               Chapter}
+               Chapter;UCL}
 }
 
 @INBOOK{Aprea2019-rf,
@@ -1169,7 +1170,8 @@
   url       = {https://onlinelibrary.wiley.com/doi/10.1002/9781119098713.ch19},
   keywords  = {Handbook of Vocational Education and Training-Wiley 2019;EPubs
                Books;\_BibTex to MD Git;\_In ClickUp;\_In Notion;\_In
-               Readwise;ePub;Workplace Learning;VET;\_Mark Up;Cross Ref Chapter}
+               Readwise;ePub;Workplace Learning;VET;\_Mark Up;Cross Ref
+               Chapter;UCL}
 }
 
 @INBOOK{Broad2019-rn,
@@ -1202,7 +1204,7 @@
   keywords  = {Handbook of Vocational Education and Training-Wiley 2019;EPubs
                Books;\_BibTex to MD Git;\_In ClickUp;\_In Notion;\_In
                Readwise;ePub;Workplace Learning;\_New Literature;VET;Cross Ref
-               Chapter}
+               Chapter;UCL}
 }
 
 @INBOOK{Guile2019-mh,
@@ -1287,7 +1289,7 @@
   url       = {https://onlinelibrary.wiley.com/doi/10.1002/9781119098713.ch4},
   keywords  = {Handbook of Vocational Education and Training-Wiley 2019;\_In
                ClickUp;\_In Notion;\_In Readwise;VET;Workplace Learning;\_New
-               Literature;Cross Ref Chapter}
+               Literature;Cross Ref Chapter;UCL}
 }
 
 @INBOOK{Sawhney2020-gd,
@@ -2038,7 +2040,7 @@
   url       = {https://doi.org/10.1007/978-94-6091-915-2_3},
   keywords  = {The Knowledge Economy and Lifelong Learning 2012;\_In Notion;\_In
                Readwise;VET;Workplace Learning;\_New Literature;Cross Ref
-               Chapter}
+               Chapter;UCL}
 }
 
 @INBOOK{Duguid2012-ff,
@@ -2067,7 +2069,7 @@
   url       = {https://doi.org/10.1007/978-94-6091-915-2_7},
   keywords  = {The Knowledge Economy and Lifelong Learning 2012;\_In Notion;\_In
                Readwise;VET;Workplace Learning;\_New Literature;Cross Ref
-               Chapter}
+               Chapter;UCL}
 }
 
 @ARTICLE{Lahiff2019-dw,
@@ -4694,7 +4696,7 @@
                   evidence base introduces a typology of ‘Apprenticeship for
                   Liquid Life’.},
   url          = {http://dx.doi.org/10.1007/s12186-016-9166-3},
-  keywords     = {Expansive–restrictive continuum ERC;VET;Workplace Learning},
+  keywords     = {Expansive–restrictive continuum ERC;VET;Workplace Learning;UCL},
   language     = {en}
 }
 
@@ -7818,7 +7820,7 @@
   url       = {https://onlinelibrary.wiley.com/doi/10.1002/9781119098713.ch18},
   keywords  = {Supplement Feedback Document;Handbook of Vocational Education and
                Training-Wiley 2019;\_BibTex to MD Git;EPubs Books;Cross Ref
-               Chapter;ePub}
+               Chapter;ePub;UCL}
 }
 
 @INBOOK{Goller2017-zg,
@@ -36928,7 +36930,7 @@
   issn         = {1363-6820,1747-5090},
   url          = {http://dx.doi.org/10.1080/13636829800200044},
   keywords     = {VET;VET;\_In Notion;\_In Readwise;\_New Literature;Workplace
-                  Learning},
+                  Learning;UCL},
   language     = {en}
 }
 
@@ -37095,7 +37097,7 @@
   keywords  = {Handbook of Vocational Education and Training-Wiley 2019;EPubs
                Books;\_BibTex to MD Git;\_In Notion;\_In
                Readwise;ePub;VET;Workplace Learning;\_New Literature;Cross Ref
-               Chapter}
+               Chapter;UCL}
 }
 
 @ARTICLE{Fuller2006-ki,
