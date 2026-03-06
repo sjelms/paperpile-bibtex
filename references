@@ -34429,6 +34429,37 @@
   publisher = {Cambridge University Press},
   pages     = {i--ii},
   date      = {2015},
+  abstract  = {The Cambridge Handbooks on Construction Robotics series focuses
+               on the implementation of automation and robot technology to renew
+               the construction industry and to arrest its declining
+               productivity. The series is intended to give professionals,
+               researchers, lecturers, and students basic conceptual and
+               technical skills and implementation strategies to manage,
+               research, or teach the implementation of advanced automation and
+               robot-technology–based processes and technologies in
+               construction. Currently, the implementation of modern
+               developments in product structures (modularity and design for
+               manufacturing), organizational strategies (just in time, just in
+               sequence, and pulling production), and informational aspects
+               (computer-aided design/manufacturing or computer-integrated
+               manufacturing) are lagging because of the lack of modern
+               integrated machine technology in construction. The Cambridge
+               Handbooks on Construction Robotics discuss progress in robot
+               systems theory and demonstrate their integration using real
+               systematic applications and projections for off-site as well as
+               on-site building production. Robot-Oriented Design introduces the
+               design, innovation, and management methodologies that are key to
+               the realization and implementation of the advanced concepts and
+               technologies presented in the subsequent volumes in the series.
+               This book describes the efficient deployment of advanced
+               construction and building technology. It is concerned with the
+               co-adaptation of construction products, processes, organization,
+               management, and automated/robotic technology, so that the
+               implementation of modern technology becomes easier and more
+               efficient. It is also concerned with technology and innovation
+               management methodologies and the generation of
+               life-cycle–oriented views related to the use of advanced
+               technologies in construction.},
   keywords  = {Robot-Oriented Design}
 }
 
