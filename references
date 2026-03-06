@@ -14911,6 +14911,28 @@
   language     = {en}
 }
 
+@ARTICLE{Felder2021-hm,
+  title        = {Restrictive and expansive participation in companies’
+                  activities: A case study of bricklaying and automation
+                  technology apprentices in Switzerland},
+  author       = {Felder, Alexandra and Duemmler, Kerstin and Caprani, Isabelle},
+  journaltitle = {Journal of Education and Work},
+  publisher    = {Informa UK Limited},
+  volume       = {34},
+  issue        = {1},
+  pages        = {53--66},
+  date         = {2021-01-02},
+  doi          = {10.1080/13639080.2020.1858231},
+  issn         = {1363-9080,1469-9435},
+  abstract     = {Vocational education and training (VET) is popular in
+                  Switzerland, where it is appreciated for its ability to
+                  integrate young people into the labour market quickly (Korber
+                  and Oesch 2016). Two-thir...},
+  url          = {http://dx.doi.org/10.1080/13639080.2020.1858231},
+  urldate      = {2026-03-06},
+  language     = {en}
+}
+
 @ARTICLE{Guile2001-af,
   title        = {Learning Through Work Experience},
   author       = {Guile, David and Griffiths, Toni},
