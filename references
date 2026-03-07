@@ -47346,6 +47346,17 @@
   language     = {en}
 }
 
+@BOOK{Boughton2019-vx,
+  title     = {Municipal dreams},
+  author    = {Boughton, John},
+  publisher = {Verso Books},
+  location  = {London, England},
+  date      = {2019-04-16},
+  pagetotal = {336},
+  isbn      = {9781784787400},
+  language  = {en}
+}
+
 @BOOK{Mazzucato2018-em,
   title     = {The Entrepreneurial State: Debunking Public vs. Private Sector
                Myths},
