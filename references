@@ -47346,17 +47346,6 @@
   language     = {en}
 }
 
-@BOOK{Boughton2019-vx,
-  title     = {Municipal dreams},
-  author    = {Boughton, John},
-  publisher = {Verso Books},
-  location  = {London, England},
-  date      = {2019-04-16},
-  pagetotal = {336},
-  isbn      = {9781784787400},
-  language  = {en}
-}
-
 @BOOK{Mazzucato2018-em,
   title     = {The Entrepreneurial State: Debunking Public vs. Private Sector
                Myths},
@@ -47391,5 +47380,39 @@
                dysfunctional dynamic so that economic growth can be not only
                ‘smart’ but also ‘inclusive’.},
   keywords  = {UCL;Economics},
+  language  = {en}
+}
+
+@BOOK{Boughton2019-vx,
+  title     = {Municipal Dreams: The Rise and Fall of Council Housing},
+  author    = {Boughton, John},
+  publisher = {Verso Books},
+  location  = {London, England},
+  date      = {2019-04-16},
+  pagetotal = {336},
+  isbn      = {9781784787400},
+  abstract  = {A narrative history of council housing--from slums to the
+               Grenfell Tower Urgent, timely and compelling, Municipal Dreams
+               brilliantly brings the national story of housing to life. In this
+               landmark reappraisal of council housing, historian John Boughton
+               presents an alternative history of Britain. Rooted in the
+               ambition to end slum living, and the ideals of those who would
+               build a new society, Municipal Dreams looks at how the state's
+               duty to house its people decently became central to our politics.
+               The book makes it clear why that legacy and its promise should be
+               defended. Traversing the nation in this comprehensive social,
+               political and architectural history of council housing, Boughton
+               offers a tour of some of the best and most remarkable of our
+               housing estates--some happily ordinary, some judged notorious. He
+               asks us to understand their complex story and to rethink our
+               prejudices. His accounts include extraordinary planners and
+               architects who wished to elevate working men and women through
+               design; the competing ideologies that have promoted state housing
+               and condemned it; the economic factors that have always
+               constrained our housing ideals; the crisis wrought by Right to
+               Buy; and the evolving controversies around regeneration. Boughton
+               shows how losing the dream of good housing has weakened our
+               community and hurt its most vulnerable--as was seen most
+               catastrophically in the fire at Grenfell Tower.},
   language  = {en}
 }
