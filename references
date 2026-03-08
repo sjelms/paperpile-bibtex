@@ -47456,7 +47456,20 @@
                  Oliver},
   institution = {Porsche Consulting GmbH and Autodesk},
   location    = {Stuttgart},
-  date        = {2025},
+  date        = {2025-06},
+  pagetotal   = {31},
+  abstract    = {This white paper examines the concept of industrialized
+                 construction and its potential to transform the architecture,
+                 engineering, and construction (AEC) industry. It outlines
+                 current productivity challenges, explores the role of
+                 productization, design for manufacturing and assembly (DfMA),
+                 and prefabrication, and proposes a framework for shifting the
+                 construction value chain toward more integrated,
+                 technology-driven processes. The report highlights
+                 opportunities for improved efficiency, sustainability, and
+                 scalability while also discussing barriers to adoption and the
+                 role of digital technologies in enabling industrialized
+                 construction approaches.},
   url         = {https://www.porsche-consulting.com},
   note        = {Co-authors from Autodesk: Az Jasat and Cristina Pisciuneri},
   keywords    = {Construction 4-0;AEC}
