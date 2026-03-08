@@ -47447,3 +47447,16 @@
   url          = {http://dx.doi.org/10.1093/scipol/scs106},
   keywords     = {\_BibTex to MD Git;Economics}
 }
+
+@REPORT{Sitzberger2025-nj,
+  type        = {resreport},
+  title       = {Industrialized Construction: The Blueprint to Disrupt and
+                 Transform the Construction Industry},
+  author      = {Sitzberger, Roland and Bücker, Christian and Markschläger,
+                 Oliver},
+  institution = {Porsche Consulting GmbH and Autodesk},
+  location    = {Stuttgart},
+  date        = {2025},
+  url         = {https://www.porsche-consulting.com},
+  note        = {Co-authors from Autodesk: Az Jasat and Cristina Pisciuneri}
+}
