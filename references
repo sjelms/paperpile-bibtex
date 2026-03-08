@@ -47447,26 +47447,3 @@
   url          = {http://dx.doi.org/10.1093/scipol/scs106},
   keywords     = {\_BibTex to MD Git;Economics}
 }
-
-@REPORT{Porsche-Consulting2025-vj,
-  type        = {resreport},
-  title       = {Industrialized Construction: The Blueprint to Disrupt and
-                 Transform the Construction Industry},
-  author      = {{Porsche Consulting} and {Autodesk}},
-  institution = {Porsche Consulting GmbH and Autodesk},
-  location    = {Stuttgart},
-  date        = {2025},
-  abstract    = {This white paper examines the concept of industrialized
-                 construction and its potential to transform the architecture,
-                 engineering, and construction (AEC) industry. It outlines
-                 current productivity challenges, explores the role of
-                 productization, design for manufacturing and assembly (DfMA),
-                 and prefabrication, and proposes a framework for shifting the
-                 construction value chain toward more integrated,
-                 technology-driven processes. The report highlights
-                 opportunities for improved efficiency, sustainability, and
-                 scalability while also discussing barriers to adoption and the
-                 role of digital technologies in enabling industrialized
-                 construction approaches.},
-  url         = {https://www.porsche-consulting.com}
-}
