@@ -2375,11 +2375,6 @@
                (AI);Economics;Future of Work}
 }
 
-@ONLINE{UnknownUnknown-po,
-  url     = {https://www.jstor.org/stable/41721324},
-  urldate = {2026-03-09}
-}
-
 @REPORT{European-Commission2025-nz,
   type        = {resreport},
   title       = {The European Strategy for Housing Construction: A More
@@ -3929,6 +3924,36 @@
   url         = {https://www.porsche-consulting.com},
   note        = {Co-authors from Autodesk: Az Jasat and Cristina Pisciuneri},
   keywords    = {Construction 4-0;AEC}
+}
+
+@ARTICLE{Vertesi2012-qa,
+  title        = {Seeing like a Rover: Visualization, embodiment, and
+                  interaction on the Mars Exploration Rover Mission},
+  author       = {Vertesi, Janet},
+  journaltitle = {Social Studies of Science},
+  publisher    = {SAGE Publications},
+  volume       = {42},
+  issue        = {3},
+  pages        = {393--414},
+  date         = {2012-06},
+  doi          = {10.1177/0306312712444645},
+  issn         = {0306-3127,1460-3659},
+  abstract     = {Based on more than 2 years of ethnographic immersion with the
+                  Mars Exploration Rover mission, this paper examines the
+                  representational work and associated embodied practices
+                  through which the science and engineering team makes decisions
+                  about how and where to move their robots. Building on prior
+                  work in Science and Technology Studies on the importance of
+                  embodiment to visualization, the paper posits that such
+                  practices also contribute to the production and maintenance of
+                  social order within the organizational context of the
+                  laboratory. It thus places visualization technologies and
+                  techniques in the context of the social organization of
+                  scientific work, contributing to our understanding of
+                  representation in scientific practice.},
+  url          = {https://www.jstor.org/stable/41721324},
+  urldate      = {2026-03-09},
+  language     = {en}
 }
 
 @REPORT{Egan1998-eu,
