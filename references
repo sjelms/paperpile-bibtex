@@ -308,7 +308,8 @@
                revised version of the book that carries the same intellectual
                energy as the original but is accessible to a much wider
                audience.},
-  series    = {The MIT Press}
+  series    = {The MIT Press},
+  keywords  = {\_BibTex to MD Git}
 }
 
 @INBOOK{Hon2023-eu,
