@@ -8884,17 +8884,6 @@
   keywords   = {VET;VET}
 }
 
-@BOOK{Terkel1972-sg,
-  title     = {Working},
-  author    = {Terkel, Studs},
-  publisher = {New Press},
-  location  = {New York, NY},
-  date      = {1972-01-01},
-  pagetotal = {640},
-  isbn      = {9781565843424},
-  language  = {en}
-}
-
 @ARTICLE{Armstrong2024-pd,
   title        = {An augmented vision of our medical and surgical future, today?},
   author       = {Armstrong, David G and Bazikian, Sebouh and Armstrong,
@@ -15855,6 +15844,30 @@
                   pottery culture (LBK); Water well;2\_Upgrade MAY 2023;Journal
                   Articles;AEC Cited Lit for Jacqui;\_BibTex to MD Git;AEC;Cited
                   for Frontiers;\_In Notion}
+}
+
+@BOOK{Terkel1972-sg,
+  title     = {Working: People Talk About What They Do All Day and How They Feel
+               About What They Do},
+  author    = {Terkel, Studs},
+  publisher = {New Press},
+  location  = {New York, NY},
+  date      = {1972-01-01},
+  pagetotal = {640},
+  isbn      = {9781565843424},
+  abstract  = {Working: People Talk About What They Do All Day and How They Feel
+               About What They Do is a 1974 nonfiction book by the oral
+               historian and radio broadcaster Studs Terkel. Working
+               investigates the meaning of work for different people under
+               different circumstances, showing it can vary in importance. The
+               book also reflects Terkel's general idea that work can be
+               difficult but still provides meaning for workers. It is an
+               exploration of what makes work meaningful for people in all walks
+               of life, from Lovin' Al the parking valet, Dolores the waitress,
+               the fireman, to the business executive. The narrative moves
+               through mundane details, emotional truths, and existential
+               questioning.},
+  language  = {en}
 }
 
 @ARTICLE{Brandner2016-wd,
