@@ -31562,6 +31562,28 @@
   language  = {en}
 }
 
+@AUDIO{Lynch2024-aq,
+  title    = {Building a Tiny Solution to a Big Problem with Travis Pyke},
+  author   = {Lynch, Laura and Pyke, Travis},
+  date     = {2024-03-14},
+  abstract = {In this episode of the Less House More Moola podcast, host Laura
+              Lynch speaks with Travis Pyke, founder of Wind River Tiny Homes,
+              about the motivations, experiences, and opportunities surrounding
+              tiny house living. Pyke reflects on his personal journey into the
+              tiny home movement and the values that shaped his approach to
+              housing, including simplicity, sustainability, and financial
+              independence. The discussion explores how tiny homes can address
+              broader housing challenges, including affordability and
+              environmental impact. Pyke also describes the development of Wind
+              River Tiny Homes and the evolving tiny house industry,
+              highlighting trends such as the growth of tiny home villages and
+              innovative design approaches aimed at supporting
+              community-oriented and sustainable living.},
+  series   = {Less House More Moola Podcast},
+  url      = {https://www.thetinyhouseadviser.com/less-house-more-moola/podcast/episode-42},
+  keywords = {Podcast;YouTube;AEC;Fieldwork Methodology}
+}
+
 @BOOK{Klein2025-yx,
   title     = {Abundance: How We Build a Better Future},
   author    = {Klein, Ezra and Thompson, Derek},
@@ -38889,28 +38911,6 @@
   keywords  = {EPubs Books;Theory and Methods;\_BibTex to MD
                Git;ePub;RNIB;Research Methods},
   language  = {en}
-}
-
-@AUDIO{Lynch2024-aq,
-  title    = {Building a Tiny Solution to a Big Problem with Travis Pyke},
-  author   = {Lynch, Laura},
-  date     = {2024-03-14},
-  abstract = {In this episode of the Less House More Moola podcast, host Laura
-              Lynch speaks with Travis Pyke, founder of Wind River Tiny Homes,
-              about the motivations, experiences, and opportunities surrounding
-              tiny house living. Pyke reflects on his personal journey into the
-              tiny home movement and the values that shaped his approach to
-              housing, including simplicity, sustainability, and financial
-              independence. The discussion explores how tiny homes can address
-              broader housing challenges, including affordability and
-              environmental impact. Pyke also describes the development of Wind
-              River Tiny Homes and the evolving tiny house industry,
-              highlighting trends such as the growth of tiny home villages and
-              innovative design approaches aimed at supporting
-              community-oriented and sustainable living.},
-  series   = {Less House More Moola Podcast},
-  url      = {https://www.thetinyhouseadviser.com/less-house-more-moola/podcast/episode-42},
-  keywords = {Podcast;YouTube;AEC;Fieldwork Methodology}
 }
 
 @BOOK{Adepoju2022-bj,
