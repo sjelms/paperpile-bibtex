@@ -2193,7 +2193,8 @@
                business world. We have entered a new age. And this age will
                transform how we achieve great things, now and into the future.
                The future is geek.},
-  keywords  = {EPubs Books;Audible;Audiobook;ePub;RNIB;Economics},
+  keywords  = {EPubs Books;Audible;\_BibTex to MD
+               Git;Audiobook;ePub;RNIB;Economics},
   language  = {en}
 }
 
