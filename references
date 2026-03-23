@@ -2162,6 +2162,17 @@
   language  = {en}
 }
 
+@BOOK{McAfee2024-nd,
+  title     = {The geek way},
+  author    = {McAfee, Andrew},
+  publisher = {Pan Macmillan},
+  location  = {Basingstoke, England},
+  date      = {2024-11-14},
+  pagetotal = {336},
+  isbn      = {9781035026197},
+  language  = {en}
+}
+
 @ARTICLE{Reingold1981-cb,
   title        = {Tidier Drawings of Trees},
   author       = {Reingold, E M and Tilford, J S},
