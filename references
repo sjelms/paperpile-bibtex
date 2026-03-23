@@ -217,6 +217,27 @@
                  Research;\_BibTex to MD Git;Report;AEC}
 }
 
+@REPORT{Rupnik2026-qd,
+  type        = {resreport},
+  title       = {{HUD}'s Past, Present, and Future Role in Accelerating {U}.{S}.
+                 Offsite Construction for Housing: A Comparative Study and
+                 Action Plan},
+  author      = {Rupnik, Ivan and Smith, Ryan E and Schmetterer, Tyler and
+                 Barry, Kyle},
+  institution = {U.S. Department of Housing and Urban Development},
+  date        = {2026-03},
+  pagetotal   = {87},
+  abstract    = {This report examines how HUD has historically influenced
+                 offsite construction and identifies pathways to support
+                 innovation in housing delivery today. Through a comparative
+                 analysis of peer efforts in Japan, Sweden, and the United
+                 Kingdom, the research explores how government action,
+                 particularly around regulation, demand aggregation, and systems
+                 certification, can support the development of a
+                 high-performance, technologically advanced housing sector in
+                 the United States.}
+}
+
 @ARTICLE{Bock2015-tf,
   title        = {The Future of Construction Automation: Technological
                   Disruption and the Upcoming Ubiquity of Robotics},
