@@ -2306,17 +2306,6 @@
   keywords     = {Brain and Space [Coursera];Journal Articles}
 }
 
-@BOOK{Schmidt2025-hq,
-  title     = {Genesis},
-  author    = {Schmidt, Eric and Kissinger, Henry A and Mundie, Craig},
-  publisher = {John Murray},
-  location  = {London, England},
-  date      = {2025-07-03},
-  pagetotal = {288},
-  isbn      = {9781399819138},
-  language  = {en}
-}
-
 @INPROCEEDINGS{Steinicke2014-vp,
   title      = {A self-experimentation report about long-term use of
                 fully-immersive technology},
@@ -2513,6 +2502,31 @@
   pagetotal   = {228},
   isbn        = {9781908418296},
   keywords    = {Government Report;Report;Employment;Labor}
+}
+
+@BOOK{Schmidt2025-hq,
+  title     = {Genesis: Artificial Intelligence, Hope, and the Human Spirit},
+  author    = {Schmidt, Eric and Kissinger, Henry A and Mundie, Craig},
+  publisher = {John Murray},
+  location  = {London, England},
+  date      = {2025-07-03},
+  pagetotal = {288},
+  isbn      = {9781399819138},
+  abstract  = {As it absorbs data, gains agency, and intermediates between
+               humans and reality, AI (Artificial Intelligence) will help us to
+               address enormous crises, from climate change to geopolitical
+               conflicts to income inequality. It might well solve some of the
+               greatest mysteries of our universe and elevate the human spirit
+               to unimaginable heights. But it will also pose challenges on a
+               scale and of an intensity that we have never seen - usurping our
+               power of independent judgment and action, testing our
+               relationship with the divine, and perhaps even spurring a new
+               phase in human evolution. The last book of elder statesman Henry
+               Kissinger, written with technologists Craig Mundie and Eric
+               Schmidt, Genesis charts a course between blind faith and
+               unjustified fear as it outlines an effective strategy for
+               navigating the age of AI.},
+  language  = {en}
 }
 
 @BOOK{Kuckartz2023-rj,
