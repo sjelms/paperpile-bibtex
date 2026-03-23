@@ -2306,6 +2306,17 @@
   keywords     = {Brain and Space [Coursera];Journal Articles}
 }
 
+@BOOK{Schmidt2025-hq,
+  title     = {Genesis},
+  author    = {Schmidt, Eric and Kissinger, Henry A and Mundie, Craig},
+  publisher = {John Murray},
+  location  = {London, England},
+  date      = {2025-07-03},
+  pagetotal = {288},
+  isbn      = {9781399819138},
+  language  = {en}
+}
+
 @INPROCEEDINGS{Steinicke2014-vp,
   title      = {A self-experimentation report about long-term use of
                 fully-immersive technology},
