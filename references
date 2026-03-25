@@ -4208,10 +4208,11 @@
 
 @PHDTHESIS{Jones2019-ks,
   type        = {phdthesis},
-  title       = {A framework for assessing interventions to promote the
-                 implementation of material innovations on construction projects},
+  title       = {A Framework for Assessing Interventions to Promote the
+                 Implementation of Material Innovations on Construction Projects},
   author      = {Jones, Kell},
-  institution = {ProQuest Dissertations \& Theses},
+  institution = {University College London},
+  location    = {London},
   date        = {2019-01-01},
   abstract    = {Recent research has highlighted that the UK construction
                  industry must accelerate the implementation of novel material
@@ -4240,7 +4241,7 @@
                  decisions, the availability of sufficient project resources,
                  and the client's project performance objectives on successful
                  NMS implementation on projects.},
-  url         = {https://ucl.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_proquest_journals_2343512126&context=PC&vid=44UCL_INST:UCL_VU2&lang=en&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=Everything&query=any,contains,kell%20jones&facet=rtype,include,dissertations&offset=0}
+  url         = {https://discovery.ucl.ac.uk/id/eprint/10065623/}
 }
 
 @ARTICLE{De_Jong2013-st,
