@@ -4206,6 +4206,43 @@
   keywords    = {Construction 4-0;\_BibTex to MD Git;AEC;Report;Essential}
 }
 
+@PHDTHESIS{Jones2019-ks,
+  type        = {phdthesis},
+  title       = {A framework for assessing interventions to promote the
+                 implementation of material innovations on construction projects},
+  author      = {Jones, Kell},
+  institution = {ProQuest Dissertations \& Theses},
+  date        = {2019-01-01},
+  abstract    = {Recent research has highlighted that the UK construction
+                 industry must accelerate the implementation of novel material
+                 solutions (NMS) with low embodied greenhouse gases (GHG) onto
+                 projects to decouple growth in construction activity from
+                 embodied GHG emissions. To reduce the risks in this process of
+                 transition, there is a need to examine the unsystematic
+                 promotion of interventions to encourage NMS implementation.
+                 Autoethnography was used with constructivist grounded theory in
+                 an abductive exploration of construction NMS
+                 (non-)implementation, synthesising qualitative data from
+                 interviews, surveys, participatory and non-participatory
+                 observations with the existing literature. Adopting the
+                 specification decision as the appropriate unit of analysis, the
+                 research applied a novel morphogenetic perspective of structure
+                 and agency to develop a new framework in which the NMS
+                 specification decision could be located and assessed. The
+                 framework contributes to both theory and practice by allowing a
+                 systematic exploration of the specification decision and its
+                 elaborating impacts enabling the selection of case-appropriate
+                 interventions to influence project actors' capability,
+                 opportunity and motivations to implement NMS on projects. The
+                 research provides insights for policy makers, practitioners and
+                 researchers wishing to promote NMS. The model highlights the
+                 critical influence of the timing of sanctionable project
+                 decisions, the availability of sufficient project resources,
+                 and the client's project performance objectives on successful
+                 NMS implementation on projects.},
+  url         = {https://ucl.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_proquest_journals_2343512126&context=PC&vid=44UCL_INST:UCL_VU2&lang=en&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=Everything&query=any,contains,kell%20jones&facet=rtype,include,dissertations&offset=0}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
