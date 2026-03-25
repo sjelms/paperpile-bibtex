@@ -280,6 +280,16 @@
                  Research;\_BibTex to MD Git;Report;AEC}
 }
 
+@MISC{The-Bartlett-School-of-Sustainable-Construction-University-College-London2025-fh,
+  title       = {{BCPM0088}: Integration, Modularisation and Platforms -- Module
+                 Guide 2025--26},
+  author      = {{The Bartlett School of Sustainable Construction, University
+                 College London}},
+  institution = {University College London},
+  date        = {2025},
+  note        = {MSc module handbook}
+}
+
 @REPORT{Rupnik2026-qd,
   type        = {resreport},
   title       = {{HUD}'s Past, Present, and Future Role in Accelerating {U}.{S}.
