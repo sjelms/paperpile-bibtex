@@ -4245,6 +4245,59 @@
   keywords    = {BSSC Thesis;UCL;Thesis}
 }
 
+@ARTICLE{Polat2025-ad,
+  title        = {Thematic analysis in qualitative research: Common pitfalls and
+                  practical insights for academic writing},
+  author       = {Polat, Ayşe},
+  journaltitle = {International Journal of Qualitative Methods},
+  publisher    = {SAGE Publications},
+  volume       = {24},
+  issue        = {16094069251372835},
+  date         = {2025-08},
+  doi          = {10.1177/16094069251372835},
+  issn         = {1609-4069},
+  abstract     = {This article addresses common pitfalls in the production and
+                  presentation of findings in qualitative research, with a focus
+                  on thematic analysis. It offers a practical guidance grounded
+                  in the theoretical and epistemological foundations of
+                  qualitative inquiry, illustrated with concrete examples drawn
+                  from the author’s experience mentoring students and reviewing
+                  qualitative reports. These examples are used not only to
+                  clarify reporting challenges, but also to explain the
+                  underlying reasoning behind them. The article advocates a
+                  holistic and comprehensive approach to presenting the studied
+                  phenomenon, emphasizing the importance of interconnected
+                  analysis that goes beyond isolated interview questions. It
+                  highlights the significance of context-specific analytical
+                  themes that do not resemble generic labels, topic summaries,
+                  or mere subtitles. Effective themes are characteristically
+                  specific and revealing, capturing nuances, shared meanings,
+                  and divergences in participants’ accounts. They function as
+                  analytic constructs that link participants’ lived experiences
+                  with the abstract concepts and categories of academic
+                  analysis. The article also examines the use of participant
+                  quotations, emphasizing that quotations are not to be treated
+                  as isolated data fragments but as carefully selected and
+                  interpreted material embedded in the researcher’s analytic
+                  narrative. It explores quotation length, placement, and
+                  integration with commentary that reflects the researcher’s
+                  interpretive framework. In addition, the article discusses the
+                  risk of quantitative overshadowing in qualitative reporting,
+                  asserting that meaning takes precedence over numerical
+                  proportions. While acknowledging that numbers can support
+                  thematic claims, it emphasizes that analytical strength lies
+                  in revealing complexities, shared meanings, and variations
+                  across experiences. By outlining key principles for
+                  systematic, transparent, and reflexive reporting, the article
+                  offers a practical roadmap for producing rigorous qualitative
+                  outputs. It aims to support researchers in crafting analyses
+                  that remain faithful to the meanings co-constructed by
+                  participants and researchers and that communicate the depth
+                  and complexity of the social phenomena under study.},
+  url          = {http://dx.doi.org/10.1177/16094069251372835},
+  language     = {en}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
