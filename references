@@ -47980,3 +47980,20 @@
                2022, Volume 33;VET-TVET;\_BibTex to MD Git;Workplace
                Learning;VET;ePub}
 }
+
+@BOOK{Goller2022-gc,
+  title     = {Methods for researching professional learning and development},
+  editor    = {Goller, Michael and Kyndt, Eva and Paloniemi, Susanna and Damşa,
+               Crina},
+  publisher = {Springer International Publishing},
+  location  = {Cham, Switzerland},
+  edition   = {2022},
+  date      = {2022-08-31},
+  pagetotal = {627},
+  doi       = {10.1007/978-3-031-08518-5},
+  issn      = {2210-5549,2210-5557},
+  isbn      = {9783031085178,9783031085185},
+  series    = {Professional and Practice-based Learning},
+  url       = {http://dx.doi.org/10.1007/978-3-031-08518-5},
+  language  = {en}
+}
