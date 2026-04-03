@@ -546,7 +546,7 @@
   isbn      = {9783031085178,9783031085185},
   url       = {http://dx.doi.org/10.1007/978-3-031-08518-5_28},
   keywords  = {Methods for Researching Professional Learning and Development
-               2022, Volume 33;Workplace Learning}
+               2022, Volume 33;Workplace Learning;ePub}
 }
 
 @ARTICLE{Unwin2008-pi,
@@ -13242,7 +13242,7 @@
   isbn      = {9783031085178,9783031085185},
   url       = {http://dx.doi.org/10.1007/978-3-031-08518-5_25},
   keywords  = {Methods for Researching Professional Learning and Development
-               2022, Volume 33;UCL;Workplace Learning}
+               2022, Volume 33;UCL;Workplace Learning;ePub}
 }
 
 @ARTICLE{Bernery2022-ap,
@@ -47978,5 +47978,5 @@
   url       = {http://dx.doi.org/10.1007/978-3-031-08518-5_23},
   keywords  = {Methods for Researching Professional Learning and Development
                2022, Volume 33;VET-TVET;\_BibTex to MD Git;Workplace
-               Learning;VET}
+               Learning;VET;ePub}
 }
