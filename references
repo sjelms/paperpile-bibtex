@@ -10748,8 +10748,8 @@
                Spring 2009.},
   url       = {https://boris.unibe.ch/9563/},
   urldate   = {2022-08-11},
-  keywords  = {VET-TVET;Knowledge - Skill Acquisition;Workplace
-               Learning;VET;Economics},
+  keywords  = {VET-TVET;\_BibTex to MD Git;Knowledge - Skill
+               Acquisition;Workplace Learning;VET;Economics},
   language  = {en}
 }
 
@@ -11034,7 +11034,8 @@
   isbn      = {9783031085178,9783031085185},
   url       = {http://dx.doi.org/10.1007/978-3-031-08518-5_23},
   keywords  = {Methods for Researching Professional Learning and Development
-               2022, Volume 33;VET-TVET;Workplace Learning;VET}
+               2022, Volume 33;VET-TVET;\_BibTex to MD Git;Workplace
+               Learning;VET}
 }
 
 @VIDEO{Scott2022-fi,
@@ -12472,8 +12473,8 @@
                Using technology.},
   url       = {https://www.voced.edu.au/content/ngv%3A28045},
   urldate   = {2022-11-17},
-  keywords  = {VET-TVET;Workplace Learning;Knowledge - Skill Acquisition;\_New
-               Literature;VET}
+  keywords  = {VET-TVET;\_BibTex to MD Git;Workplace Learning;Knowledge - Skill
+               Acquisition;\_New Literature;VET}
 }
 
 @MISC{Park2016-wq,
@@ -20683,7 +20684,8 @@
                technical education programmes, and speculates on emerging
                trends. Diagrams and references.},
   url       = {https://play.google.com/store/books/details?id=zdtPAQAAIAAJ},
-  keywords  = {VET-TVET;Occupational choice;VET;Workplace Learning},
+  keywords  = {VET-TVET;\_BibTex to MD Git;Occupational choice;VET;Workplace
+               Learning},
   language  = {en}
 }
 
@@ -21127,7 +21129,7 @@
   url          = {https://www.sciencedirect.com/science/article/pii/S1877705815033305},
   keywords     = {learning/training model; occupational safety and health;
                   industrial-based;Healthcare and CME;Journal
-                  Articles;VET-TVET;AEC;VET}
+                  Articles;VET-TVET;\_BibTex to MD Git;AEC;VET}
 }
 
 @INPROCEEDINGS{Olsen2012-bm,
@@ -23645,9 +23647,10 @@
   doi          = {10.5328/jver26.1.4},
   issn         = {0739-3369},
   url          = {http://dx.doi.org/10.5328/jver26.1.4},
-  keywords     = {Theory and Methods;00\_TO READ;Journal Articles;VET-TVET;\_In
-                  Notion;\_In Readwise;\_New Literature;Research
-                  Methods;Read;\_In ClickUp;VET}
+  keywords     = {Theory and Methods;00\_TO READ;Journal
+                  Articles;VET-TVET;\_BibTex to MD Git;\_In Notion;\_In
+                  Readwise;\_New Literature;Research Methods;Read;\_In
+                  ClickUp;VET}
 }
 
 @ARTICLE{Schrepp2017-ts,
@@ -24185,8 +24188,8 @@
   urldate      = {2022-04-18},
   keywords     = {Electronic Learning; Vocational Education; Literature Reviews;
                   Definitions; Conventional Instruction; Educational
-                  Benefits;Journal Articles;VET-TVET;Workplace
-                  Learning;Knowledge - Skill Acquisition;VET},
+                  Benefits;Journal Articles;VET-TVET;\_BibTex to MD
+                  Git;Workplace Learning;Knowledge - Skill Acquisition;VET},
   language     = {en}
 }
 
@@ -24587,8 +24590,8 @@
                   specialist variants could be highly allocation efficient.},
   url          = {https://ervet-journal.springeropen.com/articles/10.1186/s40461-015-0020-x},
   urldate      = {2022-04-26},
-  keywords     = {Journal Articles;VET-TVET;Workplace Learning;Knowledge - Skill
-                  Acquisition;VET},
+  keywords     = {Journal Articles;VET-TVET;\_BibTex to MD Git;Workplace
+                  Learning;Knowledge - Skill Acquisition;VET},
   language     = {en}
 }
 
@@ -24655,8 +24658,8 @@
                   behavioural changes that counter overall policy objectives.},
   url          = {https://ervet-journal.springeropen.com/articles/10.1186/s40461-017-0060-5},
   urldate      = {2022-04-26},
-  keywords     = {Journal Articles;VET-TVET;Workplace Learning;Knowledge - Skill
-                  Acquisition;VET;Economics},
+  keywords     = {Journal Articles;VET-TVET;\_BibTex to MD Git;Workplace
+                  Learning;Knowledge - Skill Acquisition;VET;Economics},
   language     = {en}
 }
 
@@ -26961,8 +26964,8 @@
                   prison settings to address the specific needs of individuals
                   and expectation of the wider community.},
   url          = {https://doi.org/10.1177/0004865818779418},
-  keywords     = {Frontiers import [Aug 11];Journal Articles;VET-TVET;Knowledge
-                  - Skill Acquisition;Training;VET}
+  keywords     = {Frontiers import [Aug 11];Journal Articles;VET-TVET;\_BibTex
+                  to MD Git;Knowledge - Skill Acquisition;Training;VET}
 }
 
 @ARTICLE{Vie2018-kx,
@@ -28704,8 +28707,8 @@
                   medicine; head-mounted display; immersive media; presence
                   experience; simulation training; training effectiveness;
                   virtual emergency scenario; virtual patient simulation;
-                  virtual reality;Journal Articles;VET-TVET;\_XR MR VR AR;\_New
-                  Literature;Workplace Learning;VET},
+                  virtual reality;Journal Articles;VET-TVET;\_BibTex to MD
+                  Git;\_XR MR VR AR;\_New Literature;Workplace Learning;VET},
   language     = {en}
 }
 
@@ -34390,9 +34393,9 @@
                   beyond the current state of affairs that I can envision at the
                   present time.},
   url          = {https://doi.org/10.1207/s15327884mca0303_2},
-  keywords     = {Theory and Methods;Journal Articles;VET-TVET;Research
-                  Methods;\_New Literature;\_In Notion;\_In Readwise;Workplace
-                  Learning}
+  keywords     = {Theory and Methods;Journal Articles;VET-TVET;\_BibTex to MD
+                  Git;Research Methods;\_New Literature;\_In Notion;\_In
+                  Readwise;Workplace Learning}
 }
 
 @ARTICLE{Bleakley2006-zo,
@@ -35666,7 +35669,7 @@
   doi        = {10.2991/essd-19.2019.8},
   isbn       = {9789462527584},
   url        = {https://www.atlantis-press.com/article/125912958},
-  keywords   = {VET-TVET;Sensory Processing;VET}
+  keywords   = {VET-TVET;\_BibTex to MD Git;Sensory Processing;VET}
 }
 
 @THESIS{Jean_undated-ts,
@@ -37671,7 +37674,7 @@
   urldate      = {2023-06-04},
   keywords     = {HR Review; Human Resources; Labor Market; Globalization;
                   Training; Workforce; Staffing; article;SGAM Ref Materials
-                  ;Journal Articles;VET-TVET;VET},
+                  ;Journal Articles;VET-TVET;\_BibTex to MD Git;VET},
   language     = {en}
 }
 
@@ -39559,7 +39562,8 @@
                   influence the outcomes of apprentice training for craftspeople
                   in the construction sector.},
   url          = {http://dx.doi.org/10.1108/et-02-2019-0041},
-  keywords     = {VET-TVET;\_In Readwise;AEC;Workplace Learning;VET},
+  keywords     = {VET-TVET;\_BibTex to MD Git;\_In Readwise;AEC;Workplace
+                  Learning;VET},
   language     = {en}
 }
 
@@ -39765,8 +39769,8 @@
                   handle complexity. It raises intriguing questions and
                   discusses implications for medical education.},
   url          = {http://dx.doi.org/10.1111/medu.14294},
-  keywords     = {VET-TVET;\_In Notion;\_In Readwise;VET;Workplace
-                  Learning;\_New Literature},
+  keywords     = {VET-TVET;\_BibTex to MD Git;\_In Notion;\_In
+                  Readwise;VET;Workplace Learning;\_New Literature},
   language     = {en}
 }
 
@@ -42124,7 +42128,7 @@
   institution = {Washington, DC: Embassy of the Federal Republic of Germany},
   date        = {2015},
   pagetotal   = {40},
-  keywords    = {VET-TVET;VET}
+  keywords    = {VET-TVET;\_BibTex to MD Git;VET}
 }
 
 @INBOOK{Guile2010-iq,
@@ -47948,5 +47952,5 @@
                 structure, with aim to produce the technical graduates that are
                 capable to work in the Industry 4.0 work environment.},
   url        = {http://dx.doi.org/10.15405/epsbs.2018.05.84},
-  keywords   = {VET-TVET;VET}
+  keywords   = {VET-TVET;\_BibTex to MD Git;VET}
 }
