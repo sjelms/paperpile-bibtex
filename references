@@ -4387,7 +4387,7 @@
   series    = {Professional and Practice-based Learning},
   url       = {http://dx.doi.org/10.1007/978-3-031-08518-5},
   keywords  = {Methods for Researching Professional Learning and Development
-               2022, Volume 33;ePub},
+               2022, Volume 33;\_BibTex to MD Git;ePub},
   language  = {en}
 }
 
@@ -7316,7 +7316,7 @@
   isbn      = {9783031085178,9783031085185},
   url       = {http://dx.doi.org/10.1007/978-3-031-08518-5_28},
   keywords  = {Methods for Researching Professional Learning and Development
-               2022, Volume 33;Workplace Learning;ePub}
+               2022, Volume 33;\_BibTex to MD Git;Workplace Learning;ePub}
 }
 
 @BOOK{Keynes1926-ee,
@@ -11036,7 +11036,7 @@
   isbn      = {9783031085178,9783031085185},
   url       = {http://dx.doi.org/10.1007/978-3-031-08518-5_25},
   keywords  = {Methods for Researching Professional Learning and Development
-               2022, Volume 33;UCL;Workplace Learning;ePub}
+               2022, Volume 33;\_BibTex to MD Git;UCL;Workplace Learning;ePub}
 }
 
 @VIDEO{Scott2022-fi,
