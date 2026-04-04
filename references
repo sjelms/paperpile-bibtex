@@ -4410,6 +4410,46 @@
   language     = {en}
 }
 
+@ARTICLE{Giray2023-lf,
+  title        = {Prompt engineering with {ChatGPT}: A guide for academic
+                  writers},
+  author       = {Giray, Louie},
+  journaltitle = {Annals of Biomedical Engineering},
+  publisher    = {Springer Science and Business Media LLC},
+  volume       = {51},
+  issue        = {12},
+  pages        = {2629--2633},
+  date         = {2023-12},
+  doi          = {10.1007/s10439-023-03272-4},
+  pmid         = {37284994},
+  issn         = {0090-6964,1573-9686},
+  abstract     = {Prompt engineering is a relatively new discipline that refers
+                  to the practice of developing and optimizing prompts to
+                  effectively utilize large language models, particularly in
+                  natural language processing tasks. However, not many writers
+                  and researchers are familiar about this discipline. Hence, in
+                  this paper, I aim to highlight the significance of prompt
+                  engineering for academic writers and researchers, particularly
+                  the fledgling, in the rapidly evolving world of artificial
+                  intelligence. I also discuss the concepts of prompt
+                  engineering, large language models, and the techniques and
+                  pitfalls of writing prompts. Here, I contend that by acquiring
+                  prompt engineering skills, academic writers can navigate the
+                  changing landscape and leverage large language models to
+                  enhance their writing process. As artificial intelligence
+                  continues to advance and penetrate the arena of academic
+                  writing, prompt engineering equips writers and researchers
+                  with the essential skills to effectively harness the power of
+                  language models. This enables them to confidently explore new
+                  opportunities, enhance their writing endeavors, and remain at
+                  the forefront of utilizing cutting-edge technologies in their
+                  academic pursuits.},
+  url          = {http://dx.doi.org/10.1007/s10439-023-03272-4},
+  keywords     = {Academic writing; ChatGPT; Large language models; Natural
+                  language processing; Prompt engineering; Prompts},
+  language     = {en}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
