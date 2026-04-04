@@ -4391,6 +4391,23 @@
   language  = {en}
 }
 
+@ARTICLE{Sidra2026-cq,
+  title        = {Generative {AI} in human-{AI} collaboration: Validation of the
+                  collaborative {AI} literacy and collaborative {AI}
+                  metacognition scales for effective use},
+  author       = {Sidra, Sidra and Mason, Claire},
+  journaltitle = {International Journal of Human-Computer Interaction},
+  publisher    = {Informa UK Limited},
+  volume       = {42},
+  issue        = {7},
+  pages        = {5084--5108},
+  date         = {2026-04-03},
+  doi          = {10.1080/10447318.2025.2543997},
+  issn         = {1044-7318,1532-7590},
+  url          = {http://dx.doi.org/10.1080/10447318.2025.2543997},
+  language     = {en}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
