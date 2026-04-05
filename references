@@ -48193,3 +48193,13 @@
   keywords  = {EPubs Books;ePub;RNIB;Fieldwork Methodology},
   language  = {en}
 }
+
+@BOOK{Saunders2019-gm,
+  title     = {Research Methods for Business Students ebook},
+  author    = {Saunders, Mark and Thornhill, Adrian and Lewis, Philip},
+  publisher = {Pearson Education},
+  location  = {London, England},
+  edition   = {8},
+  date      = {2019-05-17},
+  isbn      = {9781292208794}
+}
