@@ -48173,14 +48173,22 @@
 }
 
 @BOOK{Lee2017-tr,
-  title     = {Conducting case study research for business and management
-               students},
+  title     = {Conducting Case Study Research for Business and Management
+               Students},
   author    = {Lee, Bill and Saunders, Mark N K},
   publisher = {Sage Publications},
   location  = {Christchurch, New Zealand},
   date      = {2017-10-23},
   pagetotal = {136},
   isbn      = {9781473934399},
+  abstract  = {In Case Study Research, Bill Lee and Mark Saunders describe the
+               properties of case study designs in organizational research,
+               exploring the uses, advantages and limitations of case research.
+               They also demonstrate the flexibility that case designs offer,
+               and challenges the myths surrounding this approach. Ideal for
+               Business and Management students reading for a Master’s degree,
+               each book in the series may also serve as reference books for
+               doctoral students and faculty members interested in the method.},
   series    = {Mastering Business Research Methods},
   language  = {en}
 }
