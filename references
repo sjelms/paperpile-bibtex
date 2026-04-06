@@ -29382,21 +29382,6 @@
   language  = {en}
 }
 
-@REPORT{Brynjolfsson2023-wk,
-  type      = {resreport},
-  title     = {The Characteristics and Geographic Distribution of Robot Hubs in
-               {U}.{S}. Manufacturing Establishments},
-  author    = {Brynjolfsson, Erik and Buffington, Cathy and Goldschlag, Nathan
-               and Li, J Frank and Miranda, Javier and Seamans, Robert},
-  publisher = {National Bureau of Economic Research},
-  location  = {Cambridge, MA},
-  date      = {2023-03},
-  doi       = {10.3386/w31062},
-  url       = {http://dx.doi.org/10.3386/w31062},
-  keywords  = {Future of Work;\_In Notion;\_In Readwise;\_New
-               Literature;Automation;Robots}
-}
-
 @INBOOK{Hoeve2019-ip,
   title     = {Innovative Work-Based Learning for Responsive Vocational
                Education and Training ({VET}): Lessons From Dutch Higher {VET}},
@@ -48190,6 +48175,41 @@
                undertake business and management research.},
   keywords  = {PhD Study and Support;Theory and Methods;\_BibTex to MD
                Git;RNIB;Research Methods}
+}
+
+@REPORT{Brynjolfsson2023-wk,
+  type        = {resreport},
+  title       = {The Characteristics and Geographic Distribution of Robot Hubs
+                 in {U}.{S}. Manufacturing Establishments},
+  author      = {Brynjolfsson, Erik and Buffington, Cathy and Goldschlag, Nathan
+                 and Li, J Frank and Miranda, Javier and Seamans, Robert},
+  publisher   = {National Bureau of Economic Research},
+  institution = {National Bureau of Economic Research},
+  location    = {Cambridge, MA},
+  date        = {2023-03},
+  doi         = {10.3386/w31062},
+  abstract    = {We use data from the Annual Survey of Manufactures to study the
+                 characteristics and geography of investments in robots across
+                 U.S. manufacturing establishments. We find that robotics
+                 adoption and robot intensity (the number of robots per
+                 employee) is much more strongly related to establishment size
+                 than age. We find that establishments that report having
+                 robotics have higher capital expenditures, including higher
+                 information technology (IT) capital expenditures. Also,
+                 establishments are more likely to have robotics if other
+                 establishments in the same Core-Based Statistical Area (CBSA)
+                 and industry also report having robotics. The distribution of
+                 robots is highly skewed across establishments’ locations. Some
+                 locations, which we call Robot Hubs, have far more robots than
+                 one would expect even after accounting for industry and
+                 manufacturing employment. We characterize these Robot Hubs
+                 along several industry, demographic, and institutional
+                 dimensions. The presence of robot integrators and higher levels
+                 of union membership are positively correlated with being a
+                 Robot Hub.},
+  url         = {http://dx.doi.org/10.3386/w31062},
+  keywords    = {Future of Work;\_In Notion;\_In Readwise;\_New
+                 Literature;Automation;Robots}
 }
 
 @BOOK{McAfee2017-zh,
