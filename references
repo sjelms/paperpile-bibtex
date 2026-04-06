@@ -37738,23 +37738,6 @@
   language     = {en}
 }
 
-@REPORT{Maslej2024-so,
-  type        = {resreport},
-  title       = {The {AI} Index 2024 Annual Report},
-  author      = {Maslej, Nestor and Fattorini, Loredana and Perrault, Raymond
-                 and Parli, Vanessa and Reuel, Anka and Brynjolfsson, Erik and
-                 Etchemendy, John and Ligett, Katrina and Lyons, Terah and
-                 Manyika, James and Niebles, Juan Carlos and Shoham, Yoav and
-                 Wald, Russell and Clark, Jack},
-  institution = {AI Index Steering Committee, Institute for Human-Centered AI,
-                 Stanford University},
-  location    = {Stanford, CA},
-  date        = {2024-04},
-  url         = {https://aiindex.stanford.edu/report/},
-  note        = {April 2024},
-  keywords    = {Future of Work;Artificial Intelligence (AI);Future of Work}
-}
-
 @ARTICLE{Bergvall2024-qx,
   title    = {The impact of {PhD} studies on mental health-A longitudinal
               population study},
@@ -48286,4 +48269,27 @@
   url         = {http://dx.doi.org/10.3386/w31161},
   keywords    = {Future of Work;Artificial Intelligence (AI);\_New
                  Literature;Technological change;Labor}
+}
+
+@REPORT{Maslej2024-so,
+  type        = {resreport},
+  title       = {The {AI} Index 2024 Annual Report},
+  author      = {Maslej, Nestor and Fattorini, Loredana and Perrault, Raymond
+                 and Parli, Vanessa and Reuel, Anka and Brynjolfsson, Erik and
+                 Etchemendy, John and Ligett, Katrina and Lyons, Terah and
+                 Manyika, James and Niebles, Juan Carlos and Shoham, Yoav and
+                 Wald, Russell and Clark, Jack},
+  institution = {AI Index Steering Committee, Institute for Human-Centered AI,
+                 Stanford University},
+  location    = {Stanford, CA},
+  date        = {2024-04},
+  abstract    = {The AI Index report tracks, collates, distills, and visualizes
+                 data related to artificial intelligence (AI). Our mission is to
+                 provide unbiased, rigorously vetted, broadly sourced data in
+                 order for policymakers, researchers, executives, journalists,
+                 and the general public to develop a more thorough and nuanced
+                 understanding of the complex field of AI.},
+  url         = {https://aiindex.stanford.edu/report/},
+  note        = {April 2024},
+  keywords    = {Future of Work;Artificial Intelligence (AI);Future of Work}
 }
