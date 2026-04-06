@@ -10337,8 +10337,8 @@
   isbn      = {9780762312665},
   series    = {Advances in Bioethics},
   url       = {http://dx.doi.org/10.1016/s1479-3709(07)11003-7},
-  keywords  = {Qualitative Analysis QDA;Theory and Methods;QDA;Research
-               Methods;Fieldwork Methodology}
+  keywords  = {Qualitative Analysis QDA;Theory and Methods;\_BibTex to MD
+               Git;QDA;Research Methods;Fieldwork Methodology}
 }
 
 @BOOK{Vindrola-Padros2021-by,
