@@ -16859,19 +16859,6 @@
               Readwise;AEC;Labor;Skill demand}
 }
 
-@REPORT{Brynjolfsson2023-oz,
-  type      = {resreport},
-  title     = {Generative {AI} at Work},
-  author    = {Brynjolfsson, Erik and Li, Danielle and Raymond, Lindsey},
-  publisher = {National Bureau of Economic Research},
-  location  = {Cambridge, MA},
-  date      = {2023-04},
-  doi       = {10.3386/w31161},
-  url       = {http://dx.doi.org/10.3386/w31161},
-  keywords  = {Future of Work;Artificial Intelligence (AI);\_New
-               Literature;Technological change;Labor}
-}
-
 @MISC{The_Economist2023-vd,
   title        = {Was your degree really worth it?},
   author       = {{The Economist}},
@@ -48269,4 +48256,34 @@
                  faster than the rate of employment.},
   note        = {Research Brief},
   keywords    = {\_BibTex to MD Git}
+}
+
+@REPORT{Brynjolfsson2023-oz,
+  type        = {resreport},
+  title       = {Generative {AI} at Work},
+  author      = {Brynjolfsson, Erik and Li, Danielle and Raymond, Lindsey},
+  publisher   = {National Bureau of Economic Research},
+  institution = {National Bureau of Economic Research},
+  location    = {Cambridge, MA},
+  date        = {2023-04},
+  doi         = {10.3386/w31161},
+  abstract    = {New AI tools have the potential to change the way workers
+                 perform and learn, but little is known about their impacts on
+                 the job. In this paper, we study the staggered introduction of
+                 a generative AI-based conversational assistant using data from
+                 5,179 customer support agents. Access to the tool increases
+                 productivity, as measured by issues resolved per hour, by 14\%
+                 on average, including a 34\% improvement for novice and
+                 low-skilled workers but with minimal impact on experienced and
+                 highly skilled workers. We provide suggestive evidence that the
+                 AI model disseminates the best practices of more able workers
+                 and helps newer workers move down the experience curve. In
+                 addition, we find that AI assistance improves customer
+                 sentiment, increases employee retention, and may lead to worker
+                 learning. Our results suggest that access to generative AI can
+                 increase productivity, with large heterogeneity in effects
+                 across workers.},
+  url         = {http://dx.doi.org/10.3386/w31161},
+  keywords    = {Future of Work;Artificial Intelligence (AI);\_New
+                 Literature;Technological change;Labor}
 }
