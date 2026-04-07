@@ -34390,15 +34390,6 @@
                   Training;Research Methods;Readwise Reader}
 }
 
-@BOOK{Unknown2006-hu,
-  title     = {Knowledge, curriculum and qualifications for south African
-               further education},
-  publisher = {HSRC Press},
-  location  = {Cape Town, South Africa},
-  date      = {2006-12-15},
-  isbn      = {9780796921543}
-}
-
 @INBOOK{Smith2019-lv,
   title     = {Productivity, Innovation and Disruption : A Study of Offsite
                Construction in the United States},
@@ -48517,4 +48508,26 @@
   pages        = {87--103},
   date         = {2006},
   url          = {https://scholar.google.com/citations?view_op=view_citation&hl=en&citation_for_view=RtPv0_gAAAAJ:d1gkVwhDpl0C}
+}
+
+@BOOK{Young2006-fl,
+  title     = {Knowledge, curriculum and qualifications for South African
+               Further Education},
+  editor    = {Young, Michael and Gamble, Jeanne},
+  publisher = {HSRC Press},
+  location  = {Cape Town, South Africa},
+  date      = {2006-12-15},
+  isbn      = {9780796921543},
+  abstract  = {All countries, and South Africa is no exception, face acute
+               dilemmas in modernising their systems of upper secondary and
+               further education and training. Faced with pressures from the
+               fast changing world of work, this education sector has become
+               characterized by political slogans stressing skill development,
+               improved access and participation, and the accountability of
+               providers through some form of market. On the other hand, the
+               phenomenon of academic drift reveals that students increasingly
+               see their future as progressing to higher education. Policymakers
+               attempt to resolve these competing demands by calling for
+               transferable, portable outcomes and qualifications as the new
+               currency of an increasingly market-type system.}
 }
