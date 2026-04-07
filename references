@@ -30820,12 +30820,15 @@
                Git;Cross Ref Chapter}
 }
 
-@ARTICLE{Guile2014-jw,
+@INBOOK{Guile2014-jw,
   title     = {Professional knowledge and professional practice as continuous
                recontextualisation: A social practice perspective},
-  author    = {Guile, D},
+  author    = {Guile, David},
+  editor    = {Michael Young, Johan Muller},
+  booktitle = {Knowledge, Expertise and the Professions},
   publisher = {Routledge},
   location  = {London, England},
+  edition   = {1st Edition},
   pages     = {88--102},
   date      = {2014-04-24},
   doi       = {10.4324/9781315883083-14},
@@ -30846,7 +30849,7 @@
                increase in professional agreement about academic classifications
                can only strengthen the jurisdiction and legitimacy of the
                teaching profession.},
-  url       = {http://dx.doi.org/10.4324/9781315883083-14},
+  url       = {https://www.taylorfrancis.com/chapters/edit/10.4324/9781315883083-8/professional-knowledge-professional-practice-continuous-recontextualisation-david-guile},
   urldate   = {2026-04-07}
 }
 
