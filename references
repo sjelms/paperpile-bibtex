@@ -4798,15 +4798,6 @@
   keywords  = {EPubs Books;\_BibTex to MD Git;ePub;RNIB;Research Methods;VET}
 }
 
-@ARTICLE{Gamble2006-ah,
-  title        = {Theory and practice in the vocational curriculum},
-  author       = {Gamble, Jeanne},
-  journaltitle = {Knowledge, curriculum and qualifications for South African
-                  further education},
-  pages        = {87--103},
-  date         = {2006}
-}
-
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
