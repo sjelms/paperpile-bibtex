@@ -34390,6 +34390,15 @@
                   Training;Research Methods;Readwise Reader}
 }
 
+@BOOK{Unknown2006-hu,
+  title     = {Knowledge, curriculum and qualifications for south African
+               further education},
+  publisher = {HSRC Press},
+  location  = {Cape Town, South Africa},
+  date      = {2006-12-15},
+  isbn      = {9780796921543}
+}
+
 @INBOOK{Smith2019-lv,
   title     = {Productivity, Innovation and Disruption : A Study of Offsite
                Construction in the United States},
