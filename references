@@ -5518,6 +5518,35 @@
   keywords    = {\_BibTex to MD Git;VET;Workplace Learning;UCL}
 }
 
+@BOOK{Gallant2026-td,
+  title     = {Academic integrity in the age of {AI}},
+  author    = {Gallant, Tricia Bertram and Davis, Mary and Khan, Zeenath Reza},
+  publisher = {Cambridge University Press},
+  location  = {Cambridge, England},
+  date      = {2026-04-30},
+  doi       = {10.1017/9781009672078},
+  isbn      = {9781009672061,9781009672061},
+  abstract  = {GenAI has rapidly and universally disrupted teaching, learning,
+               and assessing with integrity. In this Element, the authors first
+               orient readers to the academic integrity landscape and then
+               examine historical technological disruptions to academic
+               integrity for lessons learned. Readers are then transported to
+               2045 with a fictional depiction of the type of university that
+               will unfortunately emerge if we continue our historical practice
+               of layering technology onto a 20th century educational platform
+               rather than reenvisioning academic integrity. After analyzing
+               this possible future, the authors offer a multi-layered and
+               balanced approach to the problem through developing guidelines,
+               policies and procedures, rethinking assessment design, and
+               cultivating humans who will act ethically, in the age of AI.
+               Overall, this Element offers evidence-based strategies that
+               instructors and institutions can adapt to their contexts,
+               emphasizing that as humans, we have the agency to shape the
+               integrity we want and deserve.},
+  url       = {http://dx.doi.org/10.1017/9781009672078},
+  language  = {en}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
