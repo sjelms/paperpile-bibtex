@@ -5121,6 +5121,34 @@
   url       = {http://dx.doi.org/10.1037/10788-007}
 }
 
+@INBOOK{Rotter2006-mx,
+  title     = {The clinical measurement of personality},
+  author    = {Rotter, Julian B},
+  booktitle = {Social learning and clinical psychology},
+  publisher = {Prentice-Hall, Inc},
+  location  = {Englewood Cliffs},
+  pages     = {243--334},
+  date      = {2006},
+  doi       = {10.1037/10788-008},
+  abstract  = {This chapter discusses the clinical measurement of personality.
+               Although the measurement of personality is one of the more highly
+               developed clinical psychological skills, it may be said that
+               clinical psychologists are only now reaching the stage where they
+               are able to identify the problems involved in such measurement.
+               We are still a long way from solving them. The measurement of
+               personal attributes is perhaps the chief characteristic of the
+               clinical psychologist's profession as distinguished from the
+               other professions in the field of mental health. Topics covered
+               in this chapter include (1) problems in devising useful tests,
+               (2) techniques of personality measurement, (3) the interview, (4)
+               questionnaire methods, (5) controlled projective methods, (6)
+               controlled behavioral tests, (7) uncontrolled or informal
+               behavioral observation, and (8) overall evaluation of personality
+               measures. (PsycInfo Database Record (c) 2025 APA, all rights
+               reserved)},
+  url       = {http://dx.doi.org/10.1037/10788-008}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
