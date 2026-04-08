@@ -8966,6 +8966,18 @@
                   Git;\_In Notion;\_In Readwise;AEC;\_New Literature;Economics}
 }
 
+@INBOOK{Fuller2015-fh,
+  title     = {Vocational Education},
+  author    = {Fuller, Alison},
+  booktitle = {International Encyclopedia of the Social \& Behavioral Sciences},
+  publisher = {Elsevier},
+  pages     = {232--238},
+  date      = {2015},
+  doi       = {10.1016/b978-0-08-097086-8.92091-9},
+  isbn      = {9780080970875},
+  url       = {http://dx.doi.org/10.1016/b978-0-08-097086-8.92091-9}
+}
+
 @ARTICLE{Kaklauskas2016-uk,
   title        = {Intelligent decision-support systems and the Internet of
                   Things for the smart built environment},
