@@ -5085,6 +5085,42 @@
   url       = {http://dx.doi.org/10.1037/10788-006}
 }
 
+@INBOOK{Rotter2006-ob,
+  title     = {Relationships to other theoretical approaches},
+  author    = {Rotter, Julian B},
+  booktitle = {Social learning and clinical psychology},
+  publisher = {Prentice-Hall, Inc},
+  location  = {Englewood Cliffs},
+  pages     = {223--242},
+  date      = {2006},
+  doi       = {10.1037/10788-007},
+  abstract  = {The psychologist, trained to think along eclectic or some
+               specific theoretical lines, generally finds it difficult to fully
+               grasp a different theoretical approach unless he can think of it
+               in terms of the constructs he already utilizes. If he is
+               psychoanalytically oriented, he asks of a new theory "What do
+               they do with the unconscious? What happens to repression in this
+               point of view? How can they handle masochism?" If more
+               eclectically oriented, he might ask "What happens to emotions?"
+               or "How do they define a neurotic?" It is not possible to answer
+               all such questions in a book whose main purpose is the exposition
+               of a particular point of view. It may help many toward a better
+               understanding of this point of view, however, to discuss some
+               selected concepts as illustrations of how this theory deals with
+               the same problems that have been tackled by other theoretical
+               formulations. For this purpose we have selected some seven terms
+               that are key terms in various other orientations. These are:
+               maladjustment, neurotic, the unconscious, psychosomatic illness,
+               anxiety, the self, and conflict. In the following sections we
+               shall discuss how social learning theory deals with the problems
+               these constructs were developed to deal with. It should be
+               emphasized that we are concerned with dealing with the problems
+               or purposes for which these constructs were developed, not merely
+               translating these constructs into social learning terms.
+               (PsycInfo Database Record (c) 2025 APA, all rights reserved)},
+  url       = {http://dx.doi.org/10.1037/10788-007}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
