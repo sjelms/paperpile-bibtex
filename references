@@ -12559,23 +12559,6 @@
   language     = {en}
 }
 
-@ARTICLE{Rotter1966-fi,
-  title        = {Generalized expectancies for internal versus external control
-                  of reinforcement},
-  author       = {Rotter, J B},
-  journaltitle = {Psychological Monographs},
-  publisher    = {American Psychological Association (APA)},
-  volume       = {80},
-  issue        = {1},
-  pages        = {1--28},
-  date         = {1966},
-  doi          = {10.1037/h0092976},
-  pmid         = {5340840},
-  issn         = {0096-9753},
-  url          = {http://dx.doi.org/10.1037/h0092976},
-  language     = {en}
-}
-
 @ARTICLE{Bog-Petersen2022-gk,
   title        = {Pipetting in virtual reality can predict real-life pipetting
                   performance},
