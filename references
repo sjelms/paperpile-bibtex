@@ -12474,6 +12474,16 @@
   language     = {en}
 }
 
+@BOOK{Rotter1954-ua,
+  title     = {Social learning and clinical psychology},
+  author    = {Rotter, Julian B},
+  publisher = {Prentice-Hall, Inc},
+  location  = {Englewood Cliffs},
+  date      = {1954},
+  doi       = {10.1037/10788-000},
+  url       = {http://dx.doi.org/10.1037/10788-000}
+}
+
 @ARTICLE{Levitt2018-st,
   title        = {Journal article reporting standards for qualitative primary,
                   qualitative meta-analytic, and mixed methods research in
