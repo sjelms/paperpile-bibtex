@@ -5055,6 +5055,36 @@
   url       = {http://dx.doi.org/10.1037/10788-005}
 }
 
+@INBOOK{Rotter2006-mr,
+  title     = {Broader Conceptions},
+  author    = {Rotter, Julian B},
+  booktitle = {Social learning and clinical psychology},
+  publisher = {Prentice-Hall, Inc},
+  location  = {Englewood Cliffs},
+  pages     = {184--222},
+  date      = {2006},
+  doi       = {10.1037/10788-006},
+  abstract  = {The material discussed up to this point, although of considerable
+               importance for the experimental testing of theoretical
+               principles, is at a more specific level than the clinician is
+               usually interested in. Although the concepts of behavior
+               potential, expectancy, and reinforcement value may occasionally
+               be applied to the understanding of a specific symptom, the
+               clinician is usually interested in the broader or more general
+               concepts of needs, the more broadly described stable behavior
+               patterns, and the identification of the effects of life
+               situations. In social learning theory these descriptive concepts
+               are "need potential," "freedom of movement," "need value," and
+               the "psychological situation." It is with these concepts that the
+               clinician is usually concerned in his personality measurement or
+               diagnosis and in his psychological treatment. Since they are both
+               of special importance in psychological treatment, we shall
+               discuss in this chapter the significance of language in learning
+               and the development of minimal goal levels. (PsycInfo Database
+               Record (c) 2025 APA, all rights reserved)},
+  url       = {http://dx.doi.org/10.1037/10788-006}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
