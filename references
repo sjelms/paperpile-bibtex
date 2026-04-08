@@ -5149,6 +5149,33 @@
   url       = {http://dx.doi.org/10.1037/10788-008}
 }
 
+@INBOOK{Rotter2006-ea,
+  title     = {Psychological Therapy},
+  author    = {Rotter, Julian B},
+  booktitle = {Social learning and clinical psychology},
+  publisher = {Prentice-Hall, Inc},
+  location  = {Englewood Cliffs},
+  pages     = {335--398},
+  date      = {2006},
+  doi       = {10.1037/10788-009},
+  abstract  = {In the previous chapters an expectancy-reinforcement theory of
+               human learning has been described. It is not a completed theory,
+               nor does it provide answers for all questions. It has many
+               implications, however, for psychological treatment, and in this
+               chapter we would like to make these implications clear. This will
+               be attempted first by a general discussion of how behavior may be
+               changed with particular reference to the function of a
+               psychotherapist, and second by a discussion of current techniques
+               in general usage and how they may be understood or modified from
+               a social learning point of view. Although these two discussions
+               may overlap each other, they may also serve to clarify each
+               other. In our general discussion, we shall deal first with
+               changing expectancies and then with changing reinforcement
+               values. (PsycInfo Database Record (c) 2025 APA, all rights
+               reserved)},
+  url       = {http://dx.doi.org/10.1037/10788-009}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
