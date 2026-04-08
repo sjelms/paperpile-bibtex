@@ -5288,7 +5288,7 @@
                   opportunities and barriers to learning that employees
                   encounter.},
   url          = {http://dx.doi.org/10.1080/0141192052000310029},
-  keywords     = {ERC-ex-re;Workplace Learning;UCL},
+  keywords     = {ERC-ex-re;\_BibTex to MD Git;Workplace Learning;UCL},
   language     = {en}
 }
 
@@ -5423,6 +5423,44 @@
   keywords    = {Thesis;VET;Important}
 }
 
+@INBOOK{Fuller2015-fh,
+  title     = {Vocational Education},
+  author    = {Fuller, Alison},
+  booktitle = {International Encyclopedia of the Social \& Behavioral Sciences},
+  publisher = {Elsevier},
+  pages     = {232--238},
+  date      = {2015},
+  doi       = {10.1016/b978-0-08-097086-8.92091-9},
+  isbn      = {9780080970875},
+  abstract  = {In a period of historically high youth unemployment the
+               availability and quality of vocational education takes on
+               particular importance. It is seen by policy-makers and
+               researchers as essential for supporting transitions from
+               education to work, but concepts and purposes of vocational
+               education vary. This article draws on international comparisons
+               to explore the extent to which vocational programs are designed
+               to prepare young people for broad vocational areas and
+               citizenship or more narrowly for specific jobs. It identifies the
+               ‘societal approach’ as a major way of helping to theorize and
+               explain differences in, and similarities between, national
+               vocational education systems.},
+  url       = {http://dx.doi.org/10.1016/b978-0-08-097086-8.92091-9},
+  keywords  = {\_BibTex to MD Git;VET;Workplace Learning;UCL}
+}
+
+@ARTICLE{Fuller2009-vx,
+  title        = {Change and Continuity in Apprenticeship: The Resilience of a
+                  Model of Learning},
+  author       = {Fuller, Alison and Unwin, Lorna},
+  journaltitle = {Journal of Education and Work},
+  volume       = {22},
+  pages        = {405--416},
+  date         = {2009},
+  doi          = {10.1080/13639080903454043},
+  url          = {http://dx.doi.org/10.1080/13639080903454043},
+  keywords     = {ERC-ex-re;\_BibTex to MD Git;VET;Workplace Learning;UCL}
+}
+
 @REPORT{Felstead2007-kc,
   type      = {resreport},
   title     = {Performing identities at work: evidence from contrasting sectors},
@@ -5447,7 +5485,7 @@
   note      = {This paper was first presented to the ?Transitions Through the
                Lifecourse? Seminar Series, University of Nottingham, 12-13
                October 2006},
-  keywords  = {ERC-ex-re;Workplace Learning;UCL}
+  keywords  = {ERC-ex-re;\_BibTex to MD Git;Workplace Learning;UCL}
 }
 
 @REPORT{Fuller2008-fn,
@@ -5477,45 +5515,7 @@
                  replaced by that of a policy instrument. In that sense,
                  apprenticeships are currently government-owned and directed.
                  This change has to be reversed.},
-  keywords    = {VET;Workplace Learning;UCL}
-}
-
-@INBOOK{Fuller2015-fh,
-  title     = {Vocational Education},
-  author    = {Fuller, Alison},
-  booktitle = {International Encyclopedia of the Social \& Behavioral Sciences},
-  publisher = {Elsevier},
-  pages     = {232--238},
-  date      = {2015},
-  doi       = {10.1016/b978-0-08-097086-8.92091-9},
-  isbn      = {9780080970875},
-  abstract  = {In a period of historically high youth unemployment the
-               availability and quality of vocational education takes on
-               particular importance. It is seen by policy-makers and
-               researchers as essential for supporting transitions from
-               education to work, but concepts and purposes of vocational
-               education vary. This article draws on international comparisons
-               to explore the extent to which vocational programs are designed
-               to prepare young people for broad vocational areas and
-               citizenship or more narrowly for specific jobs. It identifies the
-               ‘societal approach’ as a major way of helping to theorize and
-               explain differences in, and similarities between, national
-               vocational education systems.},
-  url       = {http://dx.doi.org/10.1016/b978-0-08-097086-8.92091-9},
-  keywords  = {VET;Workplace Learning;UCL}
-}
-
-@ARTICLE{Fuller2009-vx,
-  title        = {Change and Continuity in Apprenticeship: The Resilience of a
-                  Model of Learning},
-  author       = {Fuller, Alison and Unwin, Lorna},
-  journaltitle = {Journal of Education and Work},
-  volume       = {22},
-  pages        = {405--416},
-  date         = {2009},
-  doi          = {10.1080/13639080903454043},
-  url          = {http://dx.doi.org/10.1080/13639080903454043},
-  keywords     = {ERC-ex-re;\_BibTex to MD Git;VET;Workplace Learning;UCL}
+  keywords    = {\_BibTex to MD Git;VET;Workplace Learning;UCL}
 }
 
 @ARTICLE{De_Jong2013-st,
