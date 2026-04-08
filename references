@@ -4918,6 +4918,42 @@
   url       = {http://dx.doi.org/10.1037/10788-001}
 }
 
+@INBOOK{Rotter2006-oc,
+  title     = {Some major problems of clinical psychology},
+  author    = {Rotter, Julian B},
+  booktitle = {Social learning and clinical psychology},
+  publisher = {Prentice-Hall, Inc},
+  location  = {Englewood Cliffs},
+  pages     = {18--44},
+  date      = {2006},
+  doi       = {10.1037/10788-002},
+  abstract  = {This chapter attempts to analyze from a theoretical point of view
+               some of the less acceptable practices currently important in the
+               practice of clinical psychology and to particularize some of the
+               major sources of error in clinical practice and research. The
+               problem of overgeneralization is discussed first.
+               Overgeneralization a refers to the tendency to make judgments,
+               devise hypotheses, make descriptions, or apply techniques to
+               individuals or situations on the basis of limited or inadequate
+               data. Next, the problem of labeling and categorizing is covered.
+               The tendency to categorize people into dichotomies or into one of
+               a limited number of classes or types or to see in every behavior
+               the expression of some basic personality characteristic or
+               essence, is probably a special case of the error of
+               overgeneralization. Also discussed is the problem of an
+               inadequate language of description. In clinical psychology, as in
+               psychology as a whole, much confusion and disagreement centers
+               around the inexactness of our language. Finally, the problem of
+               dualism is covered. The two common dualistic philosophies,
+               interactionism (which states that mind and body are mutually
+               influencing) and parallelism (which believes the mind and body to
+               be separate but parallel entities), influence both the kind of
+               experimental questions psychologists ask and the kind of methods
+               they use. (PsycInfo Database Record (c) 2025 APA, all rights
+               reserved)},
+  url       = {http://dx.doi.org/10.1037/10788-002}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
