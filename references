@@ -4452,6 +4452,33 @@
   language  = {en}
 }
 
+@INBOOK{Fuller2019-fe,
+  title     = {Does vocational education still need the concept of occupation?},
+  author    = {Fuller, Alison},
+  booktitle = {The Wiley Handbook of Vocational Education and Training},
+  publisher = {John Wiley \& Sons, Inc.},
+  location  = {Hoboken, NJ, USA},
+  pages     = {81--96},
+  date      = {2019-01-18},
+  doi       = {10.1002/9781119098713.ch5},
+  isbn      = {9781119098713,9781119098591},
+  abstract  = {This chapter asks what an occupation means under contemporary
+               social, economic, and policy conditions and examines the strength
+               and nature of the relationship between education, training, and
+               occupation. It reviews key historical aspects of socioeconomic
+               and institutional change that underpin debates about the concept
+               of occupation and its changing relationship with apprenticeship.
+               The discussion draws on two contrasting examples to illustrate
+               how different concepts of occupation affect the nature and
+               quality of the associated apprenticeships. The chapter argues
+               that in the context of mass higher education, programs of
+               publicly funded vocational learning (including apprenticeships)
+               and the qualifications associated with them need to generate
+               hybrid benefits, through providing a vehicle for the achievement
+               of occupational expertise and educational progression.},
+  url       = {http://dx.doi.org/10.1002/9781119098713.ch5}
+}
+
 @ARTICLE{Archer2018-bo,
   title        = {The symbolic violence of setting: A Bourdieusian analysis of
                   mixed methods data on secondary students’ views about setting},
