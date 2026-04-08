@@ -4954,6 +4954,42 @@
   url       = {http://dx.doi.org/10.1037/10788-002}
 }
 
+@INBOOK{Rotter2006-fz,
+  title     = {Criteria for a language of description for clinical psychology},
+  author    = {Rotter, Julian B},
+  booktitle = {Social learning and clinical psychology},
+  publisher = {Prentice-Hall, Inc},
+  location  = {Englewood Cliffs},
+  pages     = {45--81},
+  date      = {2006},
+  doi       = {10.1037/10788-003},
+  abstract  = {Allport (1937) reports that there are approximately 18,000 words
+               in the English language designating distinctive and personal
+               forms of behavior. This flexibility of language is of great
+               advantage to the writer of fiction and provides considerable
+               opportunity for the clinical psychologist who likes to relieve
+               the dullness of scientific language with literary effects.
+               However, for the psychologist interested in the selection of
+               terms, words, concepts, or constructs with which to order his
+               observation, to do experiments, and to relate data
+               systematically, this plethora of words is confusing and
+               distressing. In Chapter II some of the problems currently present
+               in the description of behavior in clinical psychology were
+               discussed. These problems might be summarized as the tendency to
+               reify or entitize constructs, the absence of clear-cut referents
+               for words, the tendency to have private meanings for words, and
+               the absence of standard methods of measurement. More positively,
+               the previous discussion leads to the formulation of four "ideal"
+               criteria for the terms or constructs of an adequate or optimum
+               language of description. The chapter first discusses these
+               criteria, then moves on to the use of operational definitions.
+               Finally, the chapter covers the language of (1) faculty
+               psychology, (2) types, (3) traits, (4) psychoanalysis, (5)
+               psychological needs, and (6) learning theory. (PsycInfo Database
+               Record (c) 2025 APA, all rights reserved)},
+  url       = {http://dx.doi.org/10.1037/10788-003}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
