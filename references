@@ -4990,6 +4990,71 @@
   url       = {http://dx.doi.org/10.1037/10788-003}
 }
 
+@INBOOK{Rotter2006-as,
+  title     = {General principles for a social learning framework of personality
+               study},
+  author    = {Rotter, Julian B},
+  booktitle = {Social learning and clinical psychology},
+  publisher = {Prentice-Hall, Inc},
+  location  = {Englewood Cliffs},
+  pages     = {82--104},
+  date      = {2006},
+  doi       = {10.1037/10788-004},
+  abstract  = {Since any predictive system, theory, or framework is an attempt
+               to answer a set of problems rather than merely to describe or to
+               classify, some working definition of personality is called for
+               here to orient the reader to the nature of the problems with
+               which we hope to deal. This chapter attempts to provide a broad
+               general framework for clinical psychologists. It deals with what
+               might be considered the basic assumption, or basic postulates, of
+               a social learning theory. These postulates include the following:
+               (1) The unit of investigation for the study of personality is the
+               interaction of the individual and his meaningful environment. (2)
+               Personality constructs are not dependent for explanation upon
+               constructs in any other field. Scientific constructs for one mode
+               of description should be consistent with constructs in any other
+               field of science. (3) Behavior as described by personality
+               constructs takes place in space and time. Although all such
+               events may be described by psychological constructs, it is
+               presumed that they may also be described by physical constructs
+               as they are in such fields as physics. (4) Not all behavior of an
+               organism may be usefully described with personality constructs.
+               Behavior that may usefully be described by personality constructs
+               appears in organisms of a particular level or stage of complexity
+               and a particular level or stage of development. (5) A person's
+               experiences influence each other. (6) Behavior as described by
+               personality constructs has a directional aspect. It may be said
+               to be goal-directed. (7) The occurrence of a behavior of a person
+               is determined not only by the nature or importance of goals or
+               reinforcements but also by the person's anticipation or
+               expectancy that these goals will occur. (PsycInfo Database Record
+               (c) 2025 APA, all rights reserved)},
+  url       = {http://dx.doi.org/10.1037/10788-004}
+}
+
+@INBOOK{Rotter2006-gb,
+  title     = {Basic Concepts},
+  author    = {Rotter, Julian B},
+  booktitle = {Social learning and clinical psychology},
+  publisher = {Prentice-Hall, Inc},
+  location  = {Englewood Cliffs},
+  pages     = {105--183},
+  date      = {2006},
+  doi       = {10.1037/10788-005},
+  abstract  = {This social learning theory utilizes three basic constructs in
+               the measurement and prediction of behavior. These are behavior
+               potential, expectancy, and reinforcement value. In this chapter
+               we shall describe a basic formula for behavior involving these
+               three variables, additional constructs that are used in
+               determination of these three variables, and more generalized
+               formulas that are derived from the basic formula. The latter part
+               of the chapter will deal with the actual measurement of the three
+               variables and with experimental data now available regarding the
+               conditions that affect or determine them. (PsycInfo Database
+               Record (c) 2025 APA, all rights reserved)},
+  url       = {http://dx.doi.org/10.1037/10788-005}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
