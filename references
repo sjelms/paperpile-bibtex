@@ -3147,19 +3147,6 @@
   language  = {en}
 }
 
-@ARTICLE{Fuller2009-vx,
-  title        = {Change and Continuity in Apprenticeship: The Resilience of a
-                  Model of Learning},
-  author       = {Fuller, Alison and Unwin, Lorna},
-  journaltitle = {Journal of Education and Work},
-  volume       = {22},
-  pages        = {405--416},
-  date         = {2009},
-  doi          = {10.1080/13639080903454043},
-  url          = {http://dx.doi.org/10.1080/13639080903454043},
-  keywords     = {ERC-ex-re;\_BibTex to MD Git;VET;Workplace Learning}
-}
-
 @INBOOK{Bock2015-gm,
   title     = {Glossary},
   author    = {Bock, Thomas and Linner, Thomas},
@@ -5301,7 +5288,7 @@
                   opportunities and barriers to learning that employees
                   encounter.},
   url          = {http://dx.doi.org/10.1080/0141192052000310029},
-  keywords     = {ERC-ex-re;Workplace Learning},
+  keywords     = {ERC-ex-re;Workplace Learning;UCL},
   language     = {en}
 }
 
@@ -5460,7 +5447,7 @@
   note      = {This paper was first presented to the ?Transitions Through the
                Lifecourse? Seminar Series, University of Nottingham, 12-13
                October 2006},
-  keywords  = {ERC-ex-re;Workplace Learning}
+  keywords  = {ERC-ex-re;Workplace Learning;UCL}
 }
 
 @REPORT{Fuller2008-fn,
@@ -5490,7 +5477,7 @@
                  replaced by that of a policy instrument. In that sense,
                  apprenticeships are currently government-owned and directed.
                  This change has to be reversed.},
-  keywords    = {VET;Workplace Learning}
+  keywords    = {VET;Workplace Learning;UCL}
 }
 
 @INBOOK{Fuller2015-fh,
@@ -5515,7 +5502,20 @@
                explain differences in, and similarities between, national
                vocational education systems.},
   url       = {http://dx.doi.org/10.1016/b978-0-08-097086-8.92091-9},
-  keywords  = {VET;Workplace Learning}
+  keywords  = {VET;Workplace Learning;UCL}
+}
+
+@ARTICLE{Fuller2009-vx,
+  title        = {Change and Continuity in Apprenticeship: The Resilience of a
+                  Model of Learning},
+  author       = {Fuller, Alison and Unwin, Lorna},
+  journaltitle = {Journal of Education and Work},
+  volume       = {22},
+  pages        = {405--416},
+  date         = {2009},
+  doi          = {10.1080/13639080903454043},
+  url          = {http://dx.doi.org/10.1080/13639080903454043},
+  keywords     = {ERC-ex-re;\_BibTex to MD Git;VET;Workplace Learning;UCL}
 }
 
 @ARTICLE{De_Jong2013-st,
@@ -15680,7 +15680,7 @@
   isbn      = {9781317980186},
   url       = {https://www.taylorfrancis.com/books/edit/10.4324/9781315872919/contemporary-apprenticeship-alison-fuller-lorna-unwin},
   keywords  = {Contemporary Apprenticeship by Fuller and Unwin;\_BibTex to MD
-               Git;Cross Ref Chapter}
+               Git;Cross Ref Chapter;UCL}
 }
 
 @ONLINE{Hon2021-if,
@@ -40894,7 +40894,7 @@
   url          = {http://dx.doi.org/10.1080/13636820.2011.602220},
   keywords     = {VET-TVET;Notion Catalogued;\_BibTex to MD Git;\_In
                   Readwise;Workplace Learning;VET;\_Mark Up;\_Cataloged;\_In
-                  ClickUp},
+                  ClickUp;UCL},
   language     = {en}
 }
 
