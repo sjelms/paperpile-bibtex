@@ -1397,7 +1397,7 @@
   url       = {http://dx.doi.org/10.4135/9781446200940.n13},
   keywords  = {SAGE Handbook of Workplace Learning;EPubs Books;\_BibTex to MD
                Git;\_New Literature;Workplace Learning;ePub;\_In ClickUp;\_In
-               Notion;\_In Readwise;Cross Ref Chapter}
+               Notion;\_In Readwise;Cross Ref Chapter;Book (child)}
 }
 
 @INBOOK{Costley2013-sd,
@@ -1412,7 +1412,8 @@
   isbn      = {9781847875891,9781446200940},
   url       = {http://dx.doi.org/10.4135/9781446200940.n29},
   keywords  = {SAGE Handbook of Workplace Learning;EPubs Books;\_BibTex to MD
-               Git;\_New Literature;Workplace Learning;ePub;Cross Ref Chapter}
+               Git;\_New Literature;Workplace Learning;ePub;Cross Ref
+               Chapter;Book (child)}
 }
 
 @INBOOK{Cheng2013-jx,
@@ -1427,7 +1428,8 @@
   isbn      = {9781847875891,9781446200940},
   url       = {http://dx.doi.org/10.4135/9781446200940.n33},
   keywords  = {SAGE Handbook of Workplace Learning;EPubs Books;\_BibTex to MD
-               Git;\_New Literature;Workplace Learning;ePub;Cross Ref Chapter}
+               Git;\_New Literature;Workplace Learning;ePub;Cross Ref
+               Chapter;Book (child)}
 }
 
 @BOOK{Hammersley2010-oe,
@@ -2134,7 +2136,7 @@
                Professional Development of Staff;SAGE Handbook of Workplace
                Learning;EPubs Books;\_BibTex to MD Git;\_In ClickUp;\_In
                Notion;\_In Readwise;ePub;Workplace Learning;\_New
-               Literature;Cross Ref Chapter},
+               Literature;Cross Ref Chapter;Book (child)},
   language  = {en}
 }
 
@@ -30126,7 +30128,8 @@
                insight into the field and its current state.},
   url       = {https://sk.sagepub.com/reference/hdbk_workplacelearning},
   keywords  = {SAGE Handbook of Workplace Learning;\_BibTex to MD Git;EPubs
-               Books;\_In ClickUp;\_In Notion;\_In Readwise;ePub;Book (parent)},
+               Books;\_In ClickUp;\_In Notion;\_In Readwise;ePub;Book
+               (parent);Book (child)},
   language  = {en}
 }
 
@@ -30143,7 +30146,7 @@
   url       = {https://sk.sagepub.com/reference/hdbk_workplacelearning/n12.xml},
   keywords  = {SAGE Handbook of Workplace Learning;EPubs Books;\_BibTex to MD
                Git;\_New Literature;Workplace Learning;ePub;\_In ClickUp;\_In
-               Notion;\_In Readwise;Cross Ref Chapter}
+               Notion;\_In Readwise;Cross Ref Chapter;Book (child)}
 }
 
 @INBOOK{Hager2013-ey,
@@ -30163,7 +30166,7 @@
                Books;Upgrade Viva Prep Reading;\_BibTex to MD Git;Critical
                Realism;\_New Literature;Workplace Learning;ePub;Important;\_In
                ClickUp;\_In Notion;\_In Readwise;Cross Ref Chapter;Readwise
-               Reader}
+               Reader;Book (child)}
 }
 
 @INBOOK{Engestrom2013-oq,
