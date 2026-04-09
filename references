@@ -5593,6 +5593,21 @@
   language     = {en}
 }
 
+@ARTICLE{Hyland2026-dm,
+  title        = {Writing in the {AI} era: Rethinking writing, research and
+                  teaching},
+  author       = {Hyland, Ken},
+  journaltitle = {Journal of Second Language Writing},
+  publisher    = {Elsevier BV},
+  issue        = {101302},
+  pages        = {101302},
+  date         = {2026-04},
+  doi          = {10.1016/j.jslw.2026.101302},
+  issn         = {1060-3743,1873-1422},
+  url          = {http://dx.doi.org/10.1016/j.jslw.2026.101302},
+  language     = {en}
+}
+
 @INBOOK{Bock2015-bg,
   title     = {Large-scale building system manufacturing in japan},
   author    = {Bock, Thomas and Linner, Thomas},
