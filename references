@@ -5673,8 +5673,8 @@
 }
 
 @ARTICLE{Engestrom2001-my,
-  title        = {Expansive Learning at Work: Toward an activity theoretical
-                  reconceptualization},
+  title        = {Expansive Learning at Work: Toward an Activity-Theoretical
+                  Reconceptualization},
   author       = {Engeström, Yrjö},
   journaltitle = {Journal of Education and Work},
   publisher    = {Informa UK Limited},
@@ -5703,7 +5703,7 @@
                   Finland. In conclusion, implications of the framework for our
                   understanding of the increasingly important horizontal
                   dimension of learning are discussed.},
-  url          = {http://dx.doi.org/10.1080/13639080020028747},
+  url          = {https://www.tandfonline.com/doi/abs/10.1080/13639080020028747},
   urldate      = {2026-04-09},
   language     = {en}
 }
