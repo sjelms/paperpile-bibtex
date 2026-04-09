@@ -5593,14 +5593,6 @@
   language     = {en}
 }
 
-@BOOK{Alvaro2026-mq,
-  title  = {Academic writing in the {AI} era: Theory and practice — A handbook
-            for Instructors},
-  author = {Alvaro, Joe James},
-  pages  = {47},
-  date   = {2026}
-}
-
 @INBOOK{Bock2015-bg,
   title     = {Large-scale building system manufacturing in japan},
   author    = {Bock, Thomas and Linner, Thomas},
@@ -5625,6 +5617,23 @@
                segments) with fully customized, earthquake-resistant high-tech
                buildings.},
   url       = {http://dx.doi.org/10.1017/cbo9781139924153.006}
+}
+
+@BOOK{Alvaro2026-mq,
+  title     = {Academic writing in the {AI} era: Theory and practice — A
+               handbook for Instructors},
+  author    = {Alvaro, Joseph James},
+  publisher = {University Canada West},
+  location  = {Vancouver, British Columbia},
+  date      = {2026-03-30},
+  pagetotal = {47},
+  abstract  = {This handbook explores how generative AI is reshaping university
+               writing classrooms. It brings together current research,
+               practical teaching strategies, and classroom activities designed
+               for instructors working in English for Academic Purposes. The
+               goal is not to offer final answers, but to provide a clear
+               starting point for thinking about writing, learning, and academic
+               integrity in an age when AI can produce fluent text in seconds.}
 }
 
 @ARTICLE{De_Jong2013-st,
