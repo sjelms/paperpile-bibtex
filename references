@@ -5605,6 +5605,7 @@
   doi          = {10.1016/j.jslw.2026.101302},
   issn         = {1060-3743,1873-1422},
   url          = {http://dx.doi.org/10.1016/j.jslw.2026.101302},
+  keywords     = {PhD Support and Training;Artificial Intelligence (AI);AIEd},
   language     = {en}
 }
 
@@ -5648,7 +5649,8 @@
                for instructors working in English for Academic Purposes. The
                goal is not to offer final answers, but to provide a clear
                starting point for thinking about writing, learning, and academic
-               integrity in an age when AI can produce fluent text in seconds.}
+               integrity in an age when AI can produce fluent text in seconds.},
+  keywords  = {PhD Support and Training;Artificial Intelligence (AI);AIEd}
 }
 
 @ARTICLE{De_Jong2013-st,
