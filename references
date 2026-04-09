@@ -49294,3 +49294,29 @@
   keywords     = {ERC-ex-re;Workplace Learning},
   language     = {en}
 }
+
+@INBOOK{Bock2015-bg,
+  title     = {Large-scale building system manufacturing in japan},
+  author    = {Bock, Thomas and Linner, Thomas},
+  booktitle = {Robotic Industrialization},
+  publisher = {Cambridge University Press},
+  location  = {Cambridge},
+  pages     = {93--224},
+  date      = {2015-06-30},
+  doi       = {10.1017/cbo9781139924153.006},
+  isbn      = {9781139924153},
+  abstract  = {Japan has the most successful housing prefabrication industry in
+               the world and has maintained this position for about 40 years.
+               Today, the Japanese prefabrication industry manufactures about
+               150,000 entirely prefabricated housing units per annum with a
+               continuously increasing degree of quality and embedded
+               technologies. During peak times, the percentage of completely
+               prefabricated houses in Japan was about 18 to 19\%; the total
+               market share of prefabricated elements is much higher and
+               probably the highest one in the world. Besides the large and
+               consistent market share, it is remarkable that the industry
+               supplies the upper market segments (rather than the lower market
+               segments) with fully customized, earthquake-resistant high-tech
+               buildings.},
+  url       = {http://dx.doi.org/10.1017/cbo9781139924153.006}
+}
