@@ -1547,12 +1547,12 @@
   keywords     = {Journal Articles;AIEd;\_New Literature}
 }
 
-@BOOK{Wenger2014-yw,
+@BOOK{Wenger1987-xp,
   title     = {Artificial Intelligence and Tutoring Systems: Computational and
                Cognitive Approaches to the Communication of Knowledge},
   author    = {Wenger, Etienne},
   publisher = {Morgan Kaufmann},
-  date      = {2014-05-12},
+  date      = {1987-01-12},
   pagetotal = {510},
   isbn      = {9781483221113},
   abstract  = {Artificial Intelligence and Tutoring Systems: Computational and
