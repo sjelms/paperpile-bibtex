@@ -1573,8 +1573,8 @@
                diagnostic experience. The publication is a dependable reference
                for researchers interested in the computational and cognitive
                approaches to the communication of knowledge.},
-  keywords  = {BSSC Seed Fund for AI Research;AIEd;\_New Literature;Intelligent
-               Tutoring Systems (ITS)},
+  keywords  = {BSSC Seed Fund for AI Research;\_BibTex to MD Git;AIEd;\_New
+               Literature;Intelligent Tutoring Systems (ITS)},
   language  = {en}
 }
 
@@ -49486,6 +49486,7 @@
                practitioner as well as the theoretician, presented with all the
                breadth, depth, and rigor necessary to address such a complex and
                yet profoundly human topic.},
-  keywords  = {RNIB;Workplace Learning;Knowledge - Skill Acquisition},
+  keywords  = {\_BibTex to MD Git;RNIB;Workplace Learning;Knowledge - Skill
+               Acquisition},
   language  = {en}
 }
