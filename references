@@ -49199,6 +49199,33 @@
   keywords    = {\_BibTex to MD Git;VET;Workplace Learning;UCL}
 }
 
+@ARTICLE{Stasz2001-io,
+  title        = {Assessing skills for work: two perspectives},
+  author       = {Stasz, C},
+  journaltitle = {Oxford Economic Papers},
+  publisher    = {Oxford University Press (OUP)},
+  volume       = {53},
+  issue        = {3},
+  pages        = {385--405},
+  date         = {2001-07-01},
+  doi          = {10.1093/oep/53.3.385},
+  issn         = {0030-7653,1464-3812},
+  abstract     = {Changes in the nature of work have created demands for new
+                  skills and education and training policies to enhance skill
+                  development. To successfully accomplish the latter,
+                  policymakers must first define and measure skills, then
+                  understand how they contribute to economic performance. This
+                  paper contrasts two theoretical perspectives for skills
+                  measurement: the economic perspective that dominates the
+                  policy discussion about skills, and the sociocultural
+                  perspective. The paper explores the basic assumptions about
+                  skills from each perspective and considers how each addresses
+                  different issues concerning skill requirements. It argues that
+                  the sociocultural perspective has some advantages over the
+                  dominant paradigm. Copyright 2001 by Oxford University Press.},
+  url          = {http://dx.doi.org/10.1093/oep/53.3.385}
+}
+
 @BOOK{Gallant2026-td,
   title     = {Academic integrity in the age of {AI}},
   author    = {Gallant, Tricia Bertram and Davis, Mary and Khan, Zeenath Reza},
