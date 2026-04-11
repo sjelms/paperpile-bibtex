@@ -49969,11 +49969,23 @@
               Learning}
 }
 
-@BOOK{Leontyev1981-bf,
-  title     = {Problems of the development of the mind},
-  author    = {Leontyev, A N},
+@BOOK{Leont-ev1981-zf,
+  title     = {Problems of the Development of the Mind},
+  author    = {Leont'ev, Aleksei Nikolayevich},
   date      = {1981},
   pagetotal = {455},
   isbn      = {9780828520034},
+  abstract  = {Aleksei Nikolayevich Leont'ev (1903-1979) was a prominent Soviet
+               psychologist, disciple of L. S. Vygotsky, member of the USSR
+               Academy of Pedagogical Sciences. He was a Doctor of Honoris Causa
+               of the University of Paris (1968), and an honorary member of
+               Hungarian Academy of Sciences (1973). This book contains works he
+               wrote at different periods of his fruitful life. They treat
+               complex and topical problems of the origin of psyche and its
+               historical development. Importance attaches to his articles
+               dealing with the interconnection of the human psyche and culture,
+               and the evolution of higher psychic functions during the
+               individual’s assimilation of historical experience. Several
+               articles show the development of child’s psyche.},
   language  = {en}
 }
