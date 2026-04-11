@@ -5952,6 +5952,29 @@
   chapter   = {Situated Cognition and the Culture of Learning}
 }
 
+@BOOK{Beckett2005-dd,
+  title     = {Life, work and learning},
+  author    = {Beckett, David and Hager, Paul},
+  publisher = {Routledge},
+  location  = {London, England},
+  date      = {2005-07-08},
+  pagetotal = {224},
+  doi       = {10.4324/9780203994450},
+  isbn      = {9781134717897,9781134717897},
+  abstract  = {In both paid and unpaid work contexts adults learn powerfully
+               from their experiences. In this book, the authors argue that this
+               should be the basis for a new perception of what is truly
+               educational in life. Drawing on the works of Aristotle,
+               Wittgenstein and Russell, along with contemporary conceptual
+               work, they use both philosophical argument and empirical example
+               to establish their view.This work will be of essential interest
+               to philosophers of education and educational theorists worldwide.
+               It will also interest teachers, trainers, facilitators, and all
+               those with an interest in adult and vocational education.},
+  series    = {Routledge International Studies in the Philosophy of Education},
+  url       = {http://dx.doi.org/10.4324/9780203994450}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
