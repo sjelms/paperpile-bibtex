@@ -6183,15 +6183,6 @@
   language     = {en}
 }
 
-@ARTICLE{Eraut2007-dq,
-  title   = {The significance of workplace learning for individuals, groups and
-             organisations},
-  author  = {Eraut, M and Hirsch, W},
-  date    = {2007-09-01},
-  url     = {https://ora.ox.ac.uk/objects/uuid:903bda08-1eab-4695-949a-1601e1af5273/files/me7d5d8753659652395dd6d06529c17d2},
-  urldate = {2026-04-11}
-}
-
 @ARTICLE{Billett2001-xo,
   title        = {Learning through work: workplace affordances and individual
                   engagement},
@@ -6221,6 +6212,31 @@
                   individuals wish to engage purposefully in the workplace.},
   url          = {http://dx.doi.org/10.1108/eum0000000005548},
   language     = {en}
+}
+
+@BOOK{Eraut2007-dq,
+  title    = {The Significance of Workplace Learning for Individuals, Groups and
+              Organisations},
+  author   = {Eraut, Michael and Hirsch, Wendy},
+  date     = {2007-09-01},
+  isbn     = {9780955579912},
+  abstract = {This monograph, commissioned by the ESRC funded SKOPE research
+              centre, is based on Eraut's recent TLRP project and ongoing
+              theoretical thinking and Hirsh's consultancy work and close
+              knowledge of career development and innovative HR practices. Eraut
+              was the first author and wrote about 70\% of the first draft. The
+              work was reviewed within SKOPE and presented to a seminar of
+              academics and senior representatives of companies and public
+              sector organisations in Oxford. The monograph is the first
+              research based publication to link learning by individuals,
+              learning by groups and learning by organisations into a single
+              theoretical framework; and it includes critical reviews on
+              knowledge management, assumptions about tacit knowledge and
+              sharing knowledge, and `learning organisations'. Feedback suggests
+              that the theoretical framework helps readers to understand the
+              practical implications of the research; and it is enormously
+              helpful in disseminating the findings of the TLRP project.},
+  urldate  = {2026-04-11}
 }
 
 @ARTICLE{De_Jong2013-st,
