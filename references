@@ -49722,6 +49722,54 @@
                Acquisition;Workplace Learning;ePub}
 }
 
+@ARTICLE{Baerheim2020-de,
+  title        = {Pedagogical aspects of interprofessional workplace learning: a
+                  case study},
+  author       = {Baerheim, Anders and Raaheim, Arild},
+  journaltitle = {Journal of Interprofessional Care},
+  publisher    = {Informa UK Limited},
+  volume       = {34},
+  issue        = {1},
+  pages        = {59--65},
+  date         = {2020-01},
+  doi          = {10.1080/13561820.2019.1621805},
+  pmid         = {31131645},
+  issn         = {1356-1820,1469-9567},
+  abstract     = {In this article we aim to elucidate some pedagogical aspects
+                  of interprofessional workplace learning, using the learning
+                  strategies of the Centre for Interprofessional Workplace
+                  Learning, Norway (TVEPS) as a case. We find the Expansive
+                  Learning Theory well suited for a creative interaction with
+                  the learning strategies at our interprofessional training
+                  centre. The Expansive Learning Theory focuses on learning over
+                  a substantial time horizon, but also opens for micro-cycles of
+                  learning over a shorter time of hours or days, which mirrors
+                  the learning system of TVEPS. As the social premises for
+                  learning are both situated and in change, human learning as a
+                  social process is diverse and in continuous change. Expansive
+                  Learning Theory focuses the interprofessional team learning at
+                  the workplace rather than on individual learning. Thereby such
+                  team learning is regarded as situated at the workplace
+                  premises physically, interpersonally, administratively and
+                  social-historically. The interprofessional student team's
+                  learning process creates an object, a construct within the
+                  physical, ethical, social, administrative, or theoretical
+                  domain. In the TVEPS learning system, the object is the
+                  patient care plan which the student team produces, by working
+                  on resolving contradictions in the zone of proximal
+                  development. By debriefing the object (the care plan) with the
+                  staff, the object is developed further in creative interplay.
+                  New objects may be developed, as changed care or change in
+                  administrative systems at the workplace. By linking these
+                  concepts, Expansive Learning Theory can function as an
+                  analytical tool for understanding interprofessional learning
+                  activity at the workplace.},
+  url          = {http://dx.doi.org/10.1080/13561820.2019.1621805},
+  keywords     = {Case study; Expansive Learning Theory; Interprofessional
+                  learning; Work-based learning},
+  language     = {en}
+}
+
 @ARTICLE{Gardner2022-ck,
   title        = {Digital transformation and organizational learning: Situated
                   perspectives on becoming digital in architectural design
