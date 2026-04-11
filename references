@@ -49648,3 +49648,14 @@
                   certain key features of this approach to teaching.},
   url          = {https://doi.org/10.3102/0013189X018001032}
 }
+
+@INBOOK{Brown1995-sp,
+  title     = {Situated Cognition and the Culture of Learning},
+  author    = {Brown, John Seely and Collins, Allan and Duguid, Paul},
+  booktitle = {Learning in the Primary Curriculum},
+  publisher = {Routledge},
+  edition   = {1st Edition},
+  pages     = {18},
+  date      = {1995},
+  chapter   = {Situated Cognition and the Culture of Learning}
+}
