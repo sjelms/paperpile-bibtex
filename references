@@ -49758,3 +49758,57 @@
                   method to rethink approaches to DT in the AEC industry.},
   url          = {http://dx.doi.org/10.3389/fbuil.2022.905455}
 }
+
+@ARTICLE{Wiese2018-yq,
+  title        = {Supervised workplace learning in postgraduate training: a
+                  realist synthesis},
+  author       = {Wiese, Anel and Kilty, Caroline and Bennett, Deirdre},
+  journaltitle = {Medical Education},
+  publisher    = {Wiley},
+  volume       = {52},
+  issue        = {9},
+  pages        = {951--969},
+  date         = {2018-09},
+  doi          = {10.1111/medu.13655},
+  issn         = {0308-0110,1365-2923},
+  abstract     = {Context This paper presents a realist synthesis of the
+                  literature that began with the objective of developing a
+                  theory of workplace learning specific to postgraduate medical
+                  education ( PME ). As the review progressed, we focused on
+                  informal learning between trainee and senior doctor or
+                  supervisor, asking what mechanisms occur between trainee and
+                  senior doctor that lead to the outcomes of PME , and what
+                  contexts shape the operation of these mechanisms and the
+                  outcomes they produce? Methods We followed the procedures
+                  outlined in the RAMESES Publication Standards for Realist
+                  Synthesis. We searched the English‐language literature
+                  published between 1995 and 2017 for empirical papers related
+                  to informal workplace learning between supervisor and trainee,
+                  excluding formal interventions such as workplace‐based
+                  assessment. We made a pragmatic decision to exclude general
+                  practice training to keep the review within manageable limits.
+                  Results We reviewed 5197 papers and selected 90. Synthesis
+                  revealed three workplace learning processes occurring between
+                  supervisors and trainees, each underpinned by a pair of
+                  mechanisms: supervised participation in practice (entrustment
+                  and support seeking); mutual observation of practice
+                  (monitoring and modelling), and dialogue during practice
+                  (meaning making and feedback). These mechanisms result in
+                  outcomes of PME , including safe participation in practice,
+                  learning skills, attitudes and behaviours and professional
+                  identity development. Contexts shaping the outcomes of these
+                  mechanisms were identified at individual, interpersonal, local
+                  and systems levels. Conclusions Our realist theory of
+                  workplace learning between supervisors and trainees is
+                  informed by theory and empirical research. It highlights the
+                  two‐way nature of supervision, the importance of trainees’
+                  agency in their own learning and the deleterious effect of
+                  fragmented working patterns on supervisor–trainee learning
+                  mechanisms. Further empirical research is required to test and
+                  refine this theory. In the meantime, it provides a useful
+                  framework for the design of supportive learning environments
+                  and for the preparation of supervisors and trainees for their
+                  roles in workplace learning.},
+  url          = {http://dx.doi.org/10.1111/medu.13655},
+  language     = {en}
+}
