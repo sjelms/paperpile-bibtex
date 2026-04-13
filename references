@@ -38155,7 +38155,8 @@
   title     = {Exploring ambiguity in healthcare design requirements to enable
                automated code compliance checking},
   author    = {Zhang, Zijing},
-  publisher = {UCL (University College London)},
+  publisher = {UCL Press},
+  location  = {London, England},
   date      = {2024-10-28},
   abstract  = {In the architectural, engineering and construction (AEC)
                industry, Automated Compliance Checking (ACC) has been studied to
