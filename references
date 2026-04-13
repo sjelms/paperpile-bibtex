@@ -38150,6 +38150,17 @@
                  Git;Government Report;Website;\_Cataloged}
 }
 
+@MISC{Zhang2024-iq,
+  title     = {Exploring ambiguity in healthcare design requirements to enable
+               automated code compliance checking},
+  author    = {Zhang, Zijing},
+  publisher = {UCL (University College London)},
+  date      = {2024-10-28},
+  keywords  = {Automated compliance checking (ACC) ; Ambiguity ; Knowledge
+               representation ; Building requirements},
+  language  = {eng}
+}
+
 @ARTICLE{Yang2016-of,
   title        = {Expansive-Restrictive Learning: A Framework for Workplace
                   Learning Research},
