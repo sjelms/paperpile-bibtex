@@ -38150,12 +38150,57 @@
                  Git;Government Report;Website;\_Cataloged}
 }
 
-@MISC{Zhang2024-iq,
+@PHDTHESIS{Zhang2024-iq,
+  type      = {phdthesis},
   title     = {Exploring ambiguity in healthcare design requirements to enable
                automated code compliance checking},
   author    = {Zhang, Zijing},
   publisher = {UCL (University College London)},
   date      = {2024-10-28},
+  abstract  = {In the architectural, engineering and construction (AEC)
+               industry, Automated Compliance Checking (ACC) has been studied to
+               address the inefficiencies of manual compliance checking.
+               Although many ACC systems have been developed, a bottleneck still
+               exists in developing a suitable machine-readable representation
+               that can capture the full meaning and cover all types of building
+               requirements, especially those with ambiguity. Using healthcare
+               design requirements as an example, this research aims to identify
+               the capabilities required and desired for a sufficiently
+               expressive rule representation method to cover requirements’ full
+               meaning, and systematically explore how ambiguity can be
+               classified, automatically detected and managed. A literature
+               review was conducted to understand the recent research, practice
+               and current processes of ACC, ambiguity, text classification in
+               the AEC industry, and research gaps. Building requirements of
+               different constraint levels and scopes were analysed inductively
+               to identify the required and desirable capabilities. An ambiguity
+               taxonomy was developed based on qualitative, inductive analysis
+               of healthcare design requirements that were reported to have
+               ambiguity. A supervised machine learning approach was proposed to
+               automatically detect ambiguity. Strategies were proposed to
+               manage different types of ambiguity based on experts’ inputs from
+               a focus group. The results show that 17 capabilities are required
+               and two are desired to represent the full meaning of healthcare
+               design requirements. The ambiguity taxonomy includes intentional
+               and unintentional ambiguity, where three main categories of
+               unintentional ambiguity was identified, including ambiguity
+               related to the use of language, tacit knowledge, and the ACC
+               domain. The automatic ambiguity type detection method based on
+               Bidirectional Encoder Representations from Transformers (BERT)
+               achieved satisfying performance on the validation dataset,
+               showing the feasibility of such a method. Based on experts’
+               comments and suggestions, strategies were proposed to manage the
+               main types of ambiguity in regulation drafting, rule
+               interpretation and design modelling stages. This research
+               contributes to the body of knowledge by identifying the most
+               comprehensive set of capabilities required and desired for rule
+               representations for ACC, developing the first taxonomy of
+               ambiguity in healthcare building requirements, proposing a method
+               to automatically detect four main types of ambiguity, and
+               suggesting strategies to manage ambiguity and enable better ACC.
+               Regulators, designers and researchers can benefit from the
+               findings and achieve better ACC performance and compliance
+               outcomes.},
   keywords  = {Automated compliance checking (ACC) ; Ambiguity ; Knowledge
                representation ; Building requirements},
   language  = {eng}
