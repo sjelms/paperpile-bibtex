@@ -223,6 +223,21 @@
   language  = {en}
 }
 
+@INPROCEEDINGS{Ling2026-ju,
+  title      = {Underreporting of {AI} use: The role of social desirability bias},
+  author     = {Ling, Yier and Kale, Alex and Imas, Alex},
+  booktitle  = {Proceedings of the 2026 CHI Conference on Human Factors in
+                Computing Systems},
+  publisher  = {ACM},
+  location   = {New York, NY, USA},
+  eventtitle = {CHI 2026: CHI Conference on Human Factors in Computing Systems},
+  venue      = {Barcelona Spain},
+  pages      = {1--22},
+  date       = {2026-04-13},
+  doi        = {10.1145/3772318.3791073},
+  url        = {http://dx.doi.org/10.1145/3772318.3791073}
+}
+
 @BOOK{Merton1968-ny,
   title     = {Social Theory and Social Structure},
   author    = {Merton, Robert K},
