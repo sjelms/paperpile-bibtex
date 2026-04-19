@@ -1975,35 +1975,6 @@
   language     = {en}
 }
 
-@ARTICLE{Inkpen2008-kn,
-  title        = {Knowledge transfer and international joint ventures: the case
-                  of {NUMMI} and General Motors},
-  author       = {Inkpen, Andrew C},
-  journaltitle = {Strategic Management Journal},
-  publisher    = {Wiley},
-  volume       = {29},
-  issue        = {4},
-  pages        = {447--453},
-  date         = {2008-04},
-  doi          = {10.1002/smj.663},
-  issn         = {0143-2095,1097-0266},
-  abstract     = {Abstract Using a case study of NUMMI, a joint venture between
-                  General Motors (GM) and Toyota, this research note examines
-                  alliances and knowledge transfer with a focus on the
-                  organizational processes used to transfer knowledge. The
-                  results suggest two possible explanations for the knowledge
-                  transfer outcome. The primary explanation is that the
-                  systematic implementation of knowledge transfer mechanisms can
-                  overcome the stickiness and causal ambiguity of new knowledge.
-                  A second explanation is that creating successful knowledge
-                  transfer should be viewed from a change management perspective
-                  in which trial and error learning experiences and
-                  experimentation support the transfer outcome. Copyright © 2007
-                  John Wiley \& Sons, Ltd.},
-  url          = {http://dx.doi.org/10.1002/smj.663},
-  language     = {en}
-}
-
 @ARTICLE{Finch2002-dw,
   title        = {The role of grounded theory in developing economic theory},
   author       = {Finch, John H},
@@ -50537,5 +50508,36 @@
                   spread the knowledge.},
   url          = {http://dx.doi.org/10.2307/41166319},
   urldate      = {2026-04-19},
+  keywords     = {Knowledge - Skill Acquisition},
+  language     = {en}
+}
+
+@ARTICLE{Inkpen2008-kn,
+  title        = {Knowledge transfer and international joint ventures: the case
+                  of {NUMMI} and General Motors},
+  author       = {Inkpen, Andrew C},
+  journaltitle = {Strategic Management Journal},
+  publisher    = {Wiley},
+  volume       = {29},
+  issue        = {4},
+  pages        = {447--453},
+  date         = {2008-04},
+  doi          = {10.1002/smj.663},
+  issn         = {0143-2095,1097-0266},
+  abstract     = {Abstract Using a case study of NUMMI, a joint venture between
+                  General Motors (GM) and Toyota, this research note examines
+                  alliances and knowledge transfer with a focus on the
+                  organizational processes used to transfer knowledge. The
+                  results suggest two possible explanations for the knowledge
+                  transfer outcome. The primary explanation is that the
+                  systematic implementation of knowledge transfer mechanisms can
+                  overcome the stickiness and causal ambiguity of new knowledge.
+                  A second explanation is that creating successful knowledge
+                  transfer should be viewed from a change management perspective
+                  in which trial and error learning experiences and
+                  experimentation support the transfer outcome. Copyright © 2007
+                  John Wiley \& Sons, Ltd.},
+  url          = {http://dx.doi.org/10.1002/smj.663},
+  keywords     = {Knowledge - Skill Acquisition},
   language     = {en}
 }
