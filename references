@@ -15592,6 +15592,12 @@
   language  = {en}
 }
 
+@BOOK{Shih2024-xv,
+  title  = {Knowledge Transfer: Toyota, {NUMMI}, and {GM}},
+  author = {Shih, Willy},
+  date   = {2024-07}
+}
+
 @INBOOK{Hairstans2017-pe,
   title     = {A Scottish Perspective on Timber Offsite Construction},
   author    = {Hairstans, Robert and Sanna, Fausto},
