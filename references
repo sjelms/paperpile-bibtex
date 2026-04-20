@@ -26379,10 +26379,10 @@
   keywords = {\_New Literature;PhD Support and Training}
 }
 
-@INPROCEEDINGS{Merton2007-ot,
-  title    = {Chapter 35 On Sociological Theories of the Middle Range [ 1949 ]},
-  author   = {Merton, R},
-  date     = {2007},
+@INBOOK{Merton1949-hs,
+  title    = {On Sociological Theories of the Middle Range},
+  author   = {Merton, Robert K},
+  date     = {1949},
   abstract = {Like so many words that are bandied about, the word theory
               threatens to become meaningless. Because its referents are so
               diverse including everything from minor working hypotheses,
