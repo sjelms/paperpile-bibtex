@@ -50575,3 +50575,45 @@
   url       = {https://hbsp.harvard.edu/product/625003-PDF-ENG},
   keywords  = {Knowledge - Skill Acquisition}
 }
+
+@ARTICLE{Shook2010-ni,
+  title        = {How to Change a Culture: Lessons From {NUMMI}},
+  author       = {Shook, John},
+  journaltitle = {MIT Sloan Management Review},
+  publisher    = {Massachusetts Institute of Technology, Cambridge, MA},
+  location     = {Cambridge},
+  volume       = {51},
+  issue        = {2},
+  pages        = {63--68},
+  date         = {2010},
+  issn         = {1532-9194},
+  abstract     = {The joint venture between Toyota and GM known as NUMMI yielded
+                  some surprising success stories, including the transformation
+                  of GM's worst plant into a world-class manufacturing model.
+                  Examining how this transformation took place provides insight
+                  into corporate-culture change and lean manufacturing. The most
+                  important and difficult "cultural shift" that has to occur in
+                  a lean-manufacturing transformation revolves around the entire
+                  concept of problems. The way to change culture is not first to
+                  change how people think, but instead to start by changing how
+                  people behave. Integrating quality, support and ownership into
+                  the job is vital. Those trying to change an organization's
+                  culture need to define the things they want to do, establish
+                  the ways they want to behave and want others to behave,
+                  provide training and then do what is necessary to reinforce
+                  those behaviors.},
+  url          = {https://ucl-new-primo.hosted.exlibrisgroup.com/openurl/UCL/UCL_VU2?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Aabiglobal&atitle=How+to+Change+a+Culture%3A+Lessons+From+NUMMI&title=MIT+Sloan+Management+Review&issn=15329194&date=2010-01-01&volume=51&issue=2&spage=63&au=Shook%2C+John&isbn=&jtitle=MIT+Sloan+Management+Review&btitle=&rft_id=info:eric/&rft_id=info:doi/},
+  note         = {Name - General Motors Corp; Toyota Motor Corp Copyright -
+                  Copyright Massachusetts Institute of Technology, 2010. All
+                  rights reserved. Document feature - Diagrams; Photographs Last
+                  updated - 2024-12-06 CODEN - SMRVAO
+                  SubjectsTermNotLitGenreText - United States--US; Japan},
+  keywords     = {Business And Economics--Management; Teamwork; Organizational
+                  behavior; Culture; Lean manufacturing; Organizational culture;
+                  Corporate culture; Absenteeism; Strikes; Automobile
+                  production; Management of change; Employees; Workforce; Joint
+                  ventures; United States--US; Japan; 8680:Transportation
+                  equipment industry; 9190:United States; 9179:Asia \& the
+                  Pacific; 5310:Production planning \& control;
+                  2500:Organizational behavior; 2310:Planning}
+}
