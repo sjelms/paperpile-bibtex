@@ -42583,14 +42583,22 @@
 @BOOK{Ogden1923-iw,
   title     = {The meaning of meaning : a study of the influence of language
                upon thought and of the science of symbolism},
-  author    = {Ogden, C K and Richards, I A and Malinowski, Bronislaw and
-               Crookshank, F G and Postgate, J P},
-  publisher = {K. Paul, Trench, Trubner \& Co. ; Harcourt, Brace \& Co.},
-  location  = {London, New York},
-  pages     = {xxxi, [1], 544 pages ; 23 cm},
+  author    = {Ogden, Charles Kay and Richards, Ivor Armstrong},
+  publisher = {Kegan Paul},
+  location  = {London, England},
   date      = {1923},
-  series    = {International library of psychology, philosophy, and scientific
-               method}
+  abstract  = {Much about language continues to be only hazily understood,
+               distorted by our habitual attitude--often one of
+               indifference--toward words, or by lingering assumptions based on
+               discredited theories. What IS the relationship between words and
+               what the words refer to? Between words and the way we think? Can
+               understanding such matters lead to greater precision in
+               communication? Readers considering these questions find
+               themselves at the crossroads of linguistics and communications
+               theory, of literary criticism and philosophy--an
+               interdisciplinary nexus claimed by the increasingly influential
+               field of semiotics--and "The Meaning of Meaning" will prove, as
+               it has over the last six decades, an essential resource.}
 }
 
 @MISC{Factory_OS2020-jw,
