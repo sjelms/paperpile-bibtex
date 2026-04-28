@@ -13017,6 +13017,20 @@
                (child)}
 }
 
+@INBOOK{Kalantzis2012-en,
+  title     = {Contents},
+  author    = {Kalantzis, Mary and Cope, Bill},
+  booktitle = {New Learning: Elements of a Science of Education},
+  publisher = {Cambridge University Press},
+  location  = {Cambridge},
+  pages     = {v--vi},
+  date      = {2012},
+  doi       = {10.1017/CBO9781139248532},
+  url       = {http://dx.doi.org/10.1017/CBO9781139248532},
+  keywords  = {New Learning-Elements of a Science of Education (Parent);Book
+               (child)}
+}
+
 @INBOOK{Kalantzis2012-vw,
   title     = {Introduction},
   author    = {Kalantzis, Mary and Cope, Bill},
@@ -41755,18 +41769,6 @@
                are learning how to live together in an increasingly
                interdependent global Collaborative Commons.},
   keywords  = {\_BibTex to MD Git;EPubs Books;Book (physical);ePub}
-}
-
-@INBOOK{Kalantzis2012-en,
-  title     = {Contents},
-  author    = {Kalantzis, Mary and Cope, Bill},
-  booktitle = {New Learning: Elements of a Science of Education},
-  publisher = {Cambridge University Press},
-  location  = {Cambridge},
-  pages     = {v--vi},
-  date      = {2012},
-  keywords  = {New Learning-Elements of a Science of Education (Parent);Book
-               (child)}
 }
 
 @BOOK{Anderson2012-mr,
