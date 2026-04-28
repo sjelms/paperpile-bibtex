@@ -43795,6 +43795,17 @@
   language  = {en}
 }
 
+@BOOK{Zapata2026-tw,
+  title     = {Literacies in the age of {AI}},
+  author    = {Zapata, Gabriela C and Cope, Bill and Kalantzis, Mary},
+  publisher = {John Wiley \& Sons},
+  location  = {Nashville, TN},
+  date      = {2026-02-16},
+  pagetotal = {368},
+  isbn      = {9781394338634},
+  language  = {en}
+}
+
 @BOOK{Boughton2022-im,
   title     = {A History of Council Housing in 100 Estates},
   author    = {Boughton, John},
