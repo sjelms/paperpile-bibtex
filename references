@@ -36376,6 +36376,16 @@
   keywords = {UCL PhD Research Proposals and Thesis;UCL}
 }
 
+@BOOK{Argyris1974-nb,
+  title     = {Theory in Practice: Increasing Professional Effectiveness},
+  author    = {Argyris, Chris},
+  publisher = {Jossey-Bass},
+  location  = {San Francisco, CA},
+  date      = {1974-06-30},
+  isbn      = {9780875892306},
+  language  = {en}
+}
+
 @ARTICLE{Mullaney2012-cb,
   title        = {Thinking beyond the cure : a case for human-centered design in
                   cancer care},
@@ -46931,16 +46941,6 @@
                understanding the construction process.},
   url       = {https://play.google.com/store/books/details?id=LWseAQAAIAAJ},
   keywords  = {Notion Catalogued;\_BibTex to MD Git;AEC;\_Cataloged},
-  language  = {en}
-}
-
-@BOOK{Argyris1974-nb,
-  title     = {Theory Practice},
-  author    = {{Argyris}},
-  publisher = {Jossey-Bass},
-  location  = {San Francisco, CA},
-  date      = {1974-06-30},
-  isbn      = {9780875892306},
   language  = {en}
 }
 
