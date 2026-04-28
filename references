@@ -12989,6 +12989,20 @@
                Learning;\_New Literature}
 }
 
+@INBOOK{Kalantzis2012-qr,
+  title     = {Acknowledgements},
+  author    = {Kalantzis, Mary and Cope, Bill},
+  booktitle = {New Learning: Elements of a Science of Education},
+  publisher = {Cambridge University Press},
+  location  = {Cambridge},
+  pages     = {362},
+  date      = {2012},
+  doi       = {10.1017/CBO9781139248532},
+  url       = {http://dx.doi.org/10.1017/CBO9781139248532},
+  keywords  = {New Learning-Elements of a Science of Education (Parent);Book
+               (child)}
+}
+
 @INBOOK{Kalantzis2012-fd,
   title     = {Responses: Ways of Learning and Teaching},
   author    = {Kalantzis, Mary and Cope, Bill},
@@ -43299,18 +43313,6 @@
   url      = {https://factoryos.com/press/factory_os-joins-forces-with-technology-and-finance-leaders-to-solve-the-housing-crisis/},
   keywords = {Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;\_BibTex to
               MD Git}
-}
-
-@INBOOK{Kalantzis2012-qr,
-  title     = {Acknowledgements},
-  author    = {Kalantzis, Mary and Cope, Bill},
-  booktitle = {New Learning: Elements of a Science of Education},
-  publisher = {Cambridge University Press},
-  location  = {Cambridge},
-  pages     = {362},
-  date      = {2012},
-  keywords  = {New Learning-Elements of a Science of Education (Parent);Book
-               (child)}
 }
 
 @BOOK{Aitchison2016-ok,
