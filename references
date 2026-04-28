@@ -32646,6 +32646,29 @@
                for Frontiers;Labor;Workplace Learning}
 }
 
+@BOOK{Schon1984-nn,
+  title     = {The Reflective Practitioner: How Professionals Think in Action},
+  author    = {Schön, Donald A},
+  publisher = {Basic Books},
+  location  = {London, England},
+  date      = {1984-09-02},
+  pagetotal = {384},
+  doi       = {10.4324/9781315237473},
+  isbn      = {9780465068784},
+  abstract  = {A leading M.I.T. social scientist and consultant examines five
+               professions - engineering, architecture, management,
+               psychotherapy, and town planning - to show how professionals
+               really go about solving problems. The best professionals, Donald
+               Schön maintains, know more than they can put into words. To meet
+               the challenges of their work, they rely less on formulas learned
+               in graduate school than on the kind of improvisation learned in
+               practice. This unarticulated, largely unexamined process is the
+               subject of Schön's provocatively original book, an effort to show
+               precisely how 'reflection-in-action' works and how this vital
+               creativity might be fostered in future professionals.},
+  url       = {http://dx.doi.org/10.4324/9781315237473}
+}
+
 @BOOK{Michelsen2018-zg,
   title     = {Vocational Education in the Nordic Countries: the Historical
                Evolution},
@@ -36657,16 +36680,6 @@
   urldate   = {2025-09-06},
   keywords  = {\_BibTex to MD Git;llm-wiki-workflow;003\_Theoretical
                Framework;UCL;Workplace Learning}
-}
-
-@BOOK{Schon1984-nn,
-  title     = {The reflective practitioner},
-  author    = {Schon, Donald A},
-  publisher = {Basic Books},
-  location  = {London, England},
-  date      = {1984-09-02},
-  pagetotal = {384},
-  isbn      = {9780465068784}
 }
 
 @REPORT{Moylan_D_M_G_Lord2024-lk,
