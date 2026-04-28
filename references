@@ -4894,8 +4894,8 @@
                precisely how 'reflection-in-action' works and how this vital
                creativity might be fostered in future professionals.},
   url       = {http://dx.doi.org/10.4324/9781315237473},
-  keywords  = {EPubs Books;\_BibTex to MD Git;Knowledge - Skill
-               Acquisition;ePub;RNIB}
+  keywords  = {EPubs Books;\_BibTex to MD Git;llm-wiki-workflow;Knowledge -
+               Skill Acquisition;ePub;RNIB}
 }
 
 @BOOK{Young2006-fl,
@@ -4960,7 +4960,8 @@
                Competence and Practice," and "Redesigning Professional
                Education." Included are notes, an index and 51 references.},
   url       = {https://psycnet.apa.org/record/1975-03166-000},
-  keywords  = {\_BibTex to MD Git;Knowledge - Skill Acquisition},
+  keywords  = {\_BibTex to MD Git;llm-wiki-workflow;Knowledge - Skill
+               Acquisition},
   language  = {en}
 }
 
@@ -7751,7 +7752,8 @@
                illustrate how reflection-in-action works, what encourages it,
                and behavior or attitudes that can prevent the development of
                reflectiveness.},
-  keywords  = {\_BibTex to MD Git;RNIB;Knowledge - Skill Acquisition},
+  keywords  = {\_BibTex to MD Git;llm-wiki-workflow;RNIB;Knowledge - Skill
+               Acquisition},
   language  = {en}
 }
 
@@ -7781,7 +7783,8 @@
                researchers and practitioners of human resource development, and
                also for students of education and adult learning.},
   url       = {http://dx.doi.org/10.4324/9781315715926},
-  keywords  = {EPubs Books;\_BibTex to MD Git;RNIB;ePub;Knowledge - Skill
+  keywords  = {EPubs Books;\_BibTex to MD
+               Git;llm-wiki-workflow;RNIB;ePub;Knowledge - Skill
                Acquisition;Workplace Learning}
 }
 
