@@ -46934,6 +46934,16 @@
   language  = {en}
 }
 
+@BOOK{Argyris1974-nb,
+  title     = {Theory Practice},
+  author    = {{Argyris}},
+  publisher = {Jossey-Bass},
+  location  = {San Francisco, CA},
+  date      = {1974-06-30},
+  isbn      = {9780875892306},
+  language  = {en}
+}
+
 @INBOOK{Bock2015-dx,
   title     = {Copyright page},
   author    = {Bock, Thomas and Linner, Thomas},
