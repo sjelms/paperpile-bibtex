@@ -13047,6 +13047,20 @@
                (child)}
 }
 
+@INBOOK{Kalantzis2012-wq,
+  title     = {Introduction: Changing Education},
+  author    = {Kalantzis, Mary and Cope, Bill},
+  booktitle = {New Learning: Elements of a Science of Education},
+  publisher = {Cambridge University Press},
+  location  = {Cambridge},
+  pages     = {15--16},
+  date      = {2012},
+  doi       = {10.1017/CBO9781139248532},
+  url       = {http://dx.doi.org/10.1017/CBO9781139248532},
+  keywords  = {New Learning-Elements of a Science of Education (Parent);Book
+               (child)}
+}
+
 @INBOOK{Kalantzis2012-en,
   title     = {Contents},
   author    = {Kalantzis, Mary and Cope, Bill},
@@ -36291,18 +36305,6 @@
   keywords  = {EPubs Books;\_BibTex to MD Git;003\_Theoretical
                Framework;Research Methods;ePub;\_In Notion;\_In Readwise},
   language  = {en}
-}
-
-@INBOOK{Kalantzis2012-wq,
-  title     = {Introduction: Changing Education},
-  author    = {Kalantzis, Mary and Cope, Bill},
-  booktitle = {New Learning: Elements of a Science of Education},
-  publisher = {Cambridge University Press},
-  location  = {Cambridge},
-  pages     = {15--16},
-  date      = {2012},
-  keywords  = {New Learning-Elements of a Science of Education (Parent);Book
-               (child)}
 }
 
 @THESIS{Salgado2018-wc,
