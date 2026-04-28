@@ -4093,18 +4093,6 @@
                (child);Psychology}
 }
 
-@INBOOK{Kalantzis2012-gg,
-  title     = {Frontmatter},
-  author    = {Kalantzis, Mary and Cope, Bill},
-  booktitle = {New Learning: Elements of a Science of Education},
-  publisher = {Cambridge University Press},
-  location  = {Cambridge},
-  pages     = {i--iv},
-  date      = {2012},
-  keywords  = {New Learning-Elements of a Science of Education (Parent);Book
-               (child)}
-}
-
 @ARTICLE{Legg2007-tc,
   title        = {A Collection of Definitions of Intelligence},
   author       = {Legg, Shane and Hutter, Marcus},
@@ -12987,6 +12975,34 @@
   url       = {https://www.cambridge.org/core/books/abs/cultural-psychology/culture-of-acquisition-and-the-practice-of-understanding/0658DE8DF25D55BE522E9393179876C6},
   keywords  = {\_In Notion;\_In Readwise;Research Methods;Workplace
                Learning;\_New Literature}
+}
+
+@INBOOK{Kalantzis2012-wz,
+  title     = {Contexts: Changing Conditions for Learning},
+  author    = {Kalantzis, Mary and Cope, Bill},
+  booktitle = {New Learning: Elements of a Science of Education},
+  publisher = {Cambridge University Press},
+  location  = {Cambridge},
+  pages     = {81--82},
+  date      = {2012},
+  doi       = {10.1017/CBO9781139248532},
+  url       = {http://dx.doi.org/10.1017/CBO9781139248532},
+  keywords  = {New Learning-Elements of a Science of Education (Parent);Book
+               (child)}
+}
+
+@INBOOK{Kalantzis2012-gg,
+  title     = {Frontmatter},
+  author    = {Kalantzis, Mary and Cope, Bill},
+  booktitle = {New Learning: Elements of a Science of Education},
+  publisher = {Cambridge University Press},
+  location  = {Cambridge},
+  pages     = {i--iv},
+  date      = {2012},
+  doi       = {10.1017/CBO9781139248532},
+  url       = {http://dx.doi.org/10.1017/CBO9781139248532},
+  keywords  = {New Learning-Elements of a Science of Education (Parent);Book
+               (child)}
 }
 
 @INBOOK{Kalantzis2012-qr,
@@ -37759,18 +37775,6 @@
   date        = {2018-10},
   keywords    = {Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Deloitte
                  - McKinsey - EY - PWC;\_BibTex to MD Git;llm-wiki-workflow}
-}
-
-@INBOOK{Kalantzis2012-wz,
-  title     = {Contexts: Changing Conditions for Learning},
-  author    = {Kalantzis, Mary and Cope, Bill},
-  booktitle = {New Learning: Elements of a Science of Education},
-  publisher = {Cambridge University Press},
-  location  = {Cambridge},
-  pages     = {81--82},
-  date      = {2012},
-  keywords  = {New Learning-Elements of a Science of Education (Parent);Book
-               (child)}
 }
 
 @INBOOK{O-Leary2017-rc,
