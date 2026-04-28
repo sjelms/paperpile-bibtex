@@ -32687,12 +32687,11 @@
                Readwise;ePub;VET;Workplace Learning;\_New Literature}
 }
 
-@BOOK{Marsick2015-ol,
-  title     = {Informal and incidental learning in the workplace (Routledge
-               revivals)},
+@BOOK{Marsick1990-un,
+  title     = {Informal and Incidental Learning in the Workplace},
   author    = {Marsick, Victoria J and Watkins, Karen},
   publisher = {Routledge},
-  date      = {2015-06-11},
+  date      = {1990},
   doi       = {10.4324/9781315715926},
   isbn      = {9781315715926},
   abstract  = {Today, rapid change is a constant challenge in the workplace, and
