@@ -13371,6 +13371,20 @@
                (child)}
 }
 
+@INBOOK{Kalantzis2012-jz,
+  title     = {References and further reading},
+  author    = {Kalantzis, Mary and Cope, Bill},
+  booktitle = {New Learning: Elements of a Science of Education},
+  publisher = {Cambridge University Press},
+  location  = {Cambridge},
+  pages     = {342--354},
+  date      = {2012},
+  doi       = {10.1017/CBO9781139248532.015},
+  url       = {http://dx.doi.org/10.1017/CBO9781139248532.015},
+  keywords  = {New Learning-Elements of a Science of Education (Parent);Book
+               (child)}
+}
+
 @BOOK{Kalantzis2013-gv,
   title     = {New Learning: Elements of a Science of Education},
   author    = {Kalantzis, Mary and Cope, Bill},
@@ -41837,18 +41851,6 @@
   date      = {2022},
   url       = {https://api.semanticscholar.org/CorpusId:247363985},
   keywords  = {Ai2 PaperFinder}
-}
-
-@INBOOK{Kalantzis2012-jz,
-  title     = {References and further reading},
-  author    = {Kalantzis, Mary and Cope, Bill},
-  booktitle = {New Learning: Elements of a Science of Education},
-  publisher = {Cambridge University Press},
-  location  = {Cambridge},
-  pages     = {342--354},
-  date      = {2012},
-  keywords  = {New Learning-Elements of a Science of Education (Parent);Book
-               (child)}
 }
 
 @ONLINE{Unity_Technologies2022-ey,
