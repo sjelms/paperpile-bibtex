@@ -7956,8 +7956,9 @@
                   open source projects such as our own that provide measurable
                   and reproducible improvements over current practice.},
   url          = {http://dx.doi.org/10.1038/s42256-020-00287-7},
-  keywords     = {Artificial Intelligence (AI);Intelligent Tutoring Systems
-                  (ITS)},
+  keywords     = {Intelligent Tutoring Systems (ITS);BSSC Seed Fund for AI
+                  Research;Artificial Intelligence (AI);Intelligent Tutoring
+                  Systems (ITS)},
   language     = {en}
 }
 
