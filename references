@@ -51893,3 +51893,46 @@
   url          = {http://dx.doi.org/10.1080/00091383.1995.10544673},
   keywords     = {Research Methods;Knowledge - Skill Acquisition}
 }
+
+@ARTICLE{van-de-Schoot2021-nc,
+  title        = {An open source machine learning framework for efficient and
+                  transparent systematic reviews},
+  author       = {van de Schoot, Rens and de Bruin, Jonathan and Schram, Raoul
+                  and Zahedi, Parisa and de Boer, Jan and Weijdema, Felix and
+                  Kramer, Bianca and Huijts, Martijn and Hoogerwerf, Maarten and
+                  Ferdinands, Gerbrich and Harkema, Albert and Willemsen, Joukje
+                  and Ma, Yongchao and Fang, Qixiang and Hindriks, Sybren and
+                  Tummers, Lars and Oberski, Daniel L},
+  journaltitle = {Nature Machine Intelligence},
+  publisher    = {Springer Science and Business Media LLC},
+  volume       = {3},
+  issue        = {2},
+  pages        = {125--133},
+  date         = {2021-02-01},
+  doi          = {10.1038/s42256-020-00287-7},
+  issn         = {2522-5839},
+  abstract     = {AbstractTo help researchers conduct a systematic review or
+                  meta-analysis as efficiently and transparently as possible, we
+                  designed a tool to accelerate the step of screening titles and
+                  abstracts. For many tasks—including but not limited to
+                  systematic reviews and meta-analyses—the scientific literature
+                  needs to be checked systematically. Scholars and practitioners
+                  currently screen thousands of studies by hand to determine
+                  which studies to include in their review or meta-analysis.
+                  This is error prone and inefficient because of extremely
+                  imbalanced data: only a fraction of the screened studies is
+                  relevant. The future of systematic reviewing will be an
+                  interaction with machine learning algorithms to deal with the
+                  enormous increase of available text. We therefore developed an
+                  open source machine learning-aided pipeline applying active
+                  learning: ASReview. We demonstrate by means of simulation
+                  studies that active learning can yield far more efficient
+                  reviewing than manual reviewing while providing high quality.
+                  Furthermore, we describe the options of the free and open
+                  source research software and present the results from user
+                  experience tests. We invite the community to contribute to
+                  open source projects such as our own that provide measurable
+                  and reproducible improvements over current practice.},
+  url          = {http://dx.doi.org/10.1038/s42256-020-00287-7},
+  language     = {en}
+}
