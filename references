@@ -48608,6 +48608,7 @@
 
 @BOOK{Vygotsky1934-rh,
   title      = {Thought and Language},
+  shorttitle = {Thinking and Speech},
   author     = {Vygotsky, Lev S},
   translator = {Kozulin, Alex},
   publisher  = {MIT Press},
@@ -48639,7 +48640,8 @@
                 development of the “scientific” concepts the child learns in
                 school with his informally acquired “natural relents” concepts.},
   keywords   = {\_BibTex to MD Git;llm-wiki-workflow;003\_Theoretical
-                Framework;Knowledge - Skill Acquisition}
+                Framework;Knowledge - Skill Acquisition},
+  origtitle  = {Мышление и речь}
 }
 
 @INPROCEEDINGS{Gamboa2001-rk,
