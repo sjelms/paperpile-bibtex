@@ -8019,6 +8019,30 @@
                University}
 }
 
+@ARTICLE{Rees2026-po,
+  title        = {Could agentic {AI} topple grant-funding systems?},
+  author       = {Rees, Geraint and Wilsdon, James},
+  journaltitle = {Nature},
+  publisher    = {Springer Science and Business Media LLC},
+  volume       = {652},
+  issue        = {8112},
+  pages        = {1119--1121},
+  date         = {2026-04-27},
+  doi          = {10.1038/d41586-026-01297-y},
+  pmid         = {42045484},
+  issn         = {0028-0836,1476-4687},
+  abstract     = {Funders must take action before an increase in submission of
+                  high-quality proposals written using AI models makes it
+                  impossible to sort the wheat from the chaff. Funders must take
+                  action before an increase in submission of high-quality
+                  proposals written using AI models makes it impossible to sort
+                  the wheat from the chaff.},
+  url          = {http://dx.doi.org/10.1038/d41586-026-01297-y},
+  urldate      = {2026-04-30},
+  keywords     = {Funding; Machine learning; Publishing},
+  language     = {en}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
