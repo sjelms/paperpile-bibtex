@@ -30248,7 +30248,8 @@
   keywords  = {VET-TVET;Workplace Learning in Context;EPubs Books;3\_Upgrade OCT
                2023;\_BibTex to MD Git;003\_Theoretical Framework;\_In
                Notion;\_In Readwise;ePub;UCL;VET;Workplace Learning;\_New
-               Literature;\_In ClickUp;Book (parent);Book (child)},
+               Literature;\_In ClickUp;Book (parent);Book (child);Cross Ref
+               Chapter},
   language  = {en}
 }
 
@@ -52030,5 +52031,5 @@
                improving learning at work.},
   url       = {https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-21/conceptualization-measurement-learning-work-paul-hager},
   keywords  = {Workplace Learning in Context;Book (child);ePub;Workplace
-               Learning;VET}
+               Learning;VET;Cross Ref Chapter}
 }
