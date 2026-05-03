@@ -52003,7 +52003,9 @@
 
 @INBOOK{Hager2004-xb,
   title     = {The Conceptualization and Measurement of Learning at Work},
-  author    = {Hager, P},
+  author    = {Hager, Paul},
+  editor    = {Fuller, Alison and Munro, Anne and Rainbird, Helen},
+  booktitle = {Workplace Learning in Context},
   publisher = {Routledge},
   location  = {London, England},
   edition   = {1st Edition},
@@ -52026,6 +52028,5 @@
                workplace difficult to fit into standard ways of conceptualizing
                learning. It also points to some factors that can contribute to
                improving learning at work.},
-  url       = {https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-21/conceptualization-measurement-learning-work-paul-hager},
-  urldate   = {2026-05-03}
+  url       = {https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-21/conceptualization-measurement-learning-work-paul-hager}
 }
