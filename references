@@ -1352,17 +1352,6 @@
   keywords  = {EPubs Books;\_BibTex to MD Git;RNIB;ePub}
 }
 
-@BOOK{Moravec1988-jt,
-  title     = {Mind children},
-  author    = {Moravec, Hans P},
-  publisher = {Harvard University Press},
-  location  = {London, England},
-  date      = {1988-07-01},
-  pagetotal = {176},
-  isbn      = {9780674576162},
-  language  = {en}
-}
-
 @BOOK{Williams2020-ck,
   title     = {Reflective Writing},
   author    = {Williams, Kate and Woolliams, Mary and Spiro, Jane},
@@ -8055,6 +8044,24 @@
   keywords     = {Funding; Machine learning; Publishing;Artificial Intelligence
                   (AI);UCL},
   language     = {en}
+}
+
+@BOOK{Moravec1988-jt,
+  title     = {Mind Children: The Future of Robot and Human Intelligence},
+  author    = {Moravec, Hans P},
+  publisher = {Harvard University Press},
+  location  = {London, England},
+  date      = {1988-07-01},
+  pagetotal = {176},
+  isbn      = {9780674576162},
+  abstract  = {Mind Children: The Future of Robot and Human Intelligence (1988)
+               by Hans Moravec is a seminal work in robotics and futurism that
+               predicts the evolution of artificial intelligence into a new,
+               postbiological species. Moravec, a renowned roboticist, argues
+               that robots will achieve human-level intelligence and beyond,
+               ultimately replacing humans as the dominant intellectual force on
+               Earth.},
+  language  = {en}
 }
 
 @BOOK{Marx1939-as,
