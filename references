@@ -1352,6 +1352,17 @@
   keywords  = {EPubs Books;\_BibTex to MD Git;RNIB;ePub}
 }
 
+@BOOK{Moravec1988-jt,
+  title     = {Mind children},
+  author    = {Moravec, Hans P},
+  publisher = {Harvard University Press},
+  location  = {London, England},
+  date      = {1988-07-01},
+  pagetotal = {176},
+  isbn      = {9780674576162},
+  language  = {en}
+}
+
 @BOOK{Williams2020-ck,
   title     = {Reflective Writing},
   author    = {Williams, Kate and Woolliams, Mary and Spiro, Jane},
