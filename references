@@ -8046,6 +8046,18 @@
   language     = {en}
 }
 
+@BOOK{Marx1993-jp,
+  title      = {Grundrisse},
+  author     = {Marx, Karl},
+  translator = {Nicolaus, Martin},
+  publisher  = {Penguin Classics},
+  location   = {London, England},
+  date       = {1993-04-29},
+  pagetotal  = {912},
+  isbn       = {9780140445756},
+  language   = {en}
+}
+
 @INBOOK{Hager2004-xb,
   title     = {The Conceptualization and Measurement of Learning at Work},
   author    = {Hager, Paul},
