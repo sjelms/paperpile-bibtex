@@ -8148,6 +8148,19 @@
                Learning;VET;Cross Ref Chapter}
 }
 
+@INBOOK{Wertsch1985-ez,
+  title     = {Preface},
+  author    = {Wertsch, James V},
+  booktitle = {Vygotsky and the Social Formation of Mind},
+  publisher = {Harvard University Press},
+  pages     = {xiii--xiv},
+  date      = {1985},
+  isbn      = {9780674943506},
+  url       = {http://www.jstor.org/stable/j.ctv26071b0.3},
+  urldate   = {2026-05-04},
+  keywords  = {Vygotsky and the Social Formation of Mind}
+}
+
 @BOOK{Stewart1987-wx,
   title     = {Adult Learning in America: Edward Lindeman and His Agenda for
                Lifelong Education},
@@ -8181,6 +8194,71 @@
   url          = {http://dx.doi.org/10.1037/h0100530},
   keywords     = {llm-wiki-workflow;\_BibTex to MD Git},
   language     = {en}
+}
+
+@INBOOK{Wertsch1985-oh,
+  title     = {Notes},
+  author    = {Wertsch, James V},
+  booktitle = {Vygotsky and the Social Formation of Mind},
+  publisher = {Harvard University Press},
+  pages     = {233--238},
+  date      = {1985},
+  isbn      = {9780674943506},
+  url       = {http://www.jstor.org/stable/j.ctv26071b0.13},
+  urldate   = {2026-05-04},
+  keywords  = {Vygotsky and the Social Formation of Mind}
+}
+
+@INBOOK{Wertsch1985-zm,
+  title     = {Bibliography},
+  author    = {Wertsch, James V},
+  booktitle = {Vygotsky and the Social Formation of Mind},
+  publisher = {Harvard University Press},
+  pages     = {239--254},
+  date      = {1985},
+  isbn      = {9780674943506},
+  url       = {http://www.jstor.org/stable/j.ctv26071b0.14},
+  urldate   = {2026-05-04},
+  keywords  = {Vygotsky and the Social Formation of Mind}
+}
+
+@INBOOK{Wertsch1985-gt,
+  title     = {Name Index},
+  author    = {Wertsch, James V},
+  booktitle = {Vygotsky and the Social Formation of Mind},
+  publisher = {Harvard University Press},
+  pages     = {255--258},
+  date      = {1985},
+  isbn      = {9780674943506},
+  url       = {http://www.jstor.org/stable/j.ctv26071b0.15},
+  urldate   = {2026-05-04},
+  keywords  = {Vygotsky and the Social Formation of Mind}
+}
+
+@INBOOK{Wertsch1985-pk,
+  title     = {Subject Index},
+  author    = {Wertsch, James V},
+  booktitle = {Vygotsky and the Social Formation of Mind},
+  publisher = {Harvard University Press},
+  pages     = {259--262},
+  date      = {1985},
+  isbn      = {9780674943506},
+  url       = {http://www.jstor.org/stable/j.ctv26071b0.16},
+  urldate   = {2026-05-04},
+  keywords  = {Vygotsky and the Social Formation of Mind}
+}
+
+@INBOOK{Wertsch1985-ka,
+  title     = {Table of Contents},
+  author    = {Wertsch, James V},
+  booktitle = {Vygotsky and the Social Formation of Mind},
+  publisher = {Harvard University Press},
+  pages     = {xv--xviii},
+  date      = {1985},
+  isbn      = {9780674943506},
+  url       = {http://www.jstor.org/stable/j.ctv26071b0.4},
+  urldate   = {2026-05-04},
+  keywords  = {Vygotsky and the Social Formation of Mind}
 }
 
 @BOOK{Shih2023-gp,
@@ -8275,6 +8353,223 @@
                to link the various strands of human science that seem more
                isolated than ever today.},
   url       = {http://dx.doi.org/10.2307/j.ctv26071b0},
+  keywords  = {Vygotsky and the Social Formation of Mind}
+}
+
+@INBOOK{Zinchenko1985-ek,
+  title     = {Foreword},
+  author    = {Zinchenko, V P and Davydov, V V and Wertsch, James V},
+  booktitle = {Vygotsky and the Social Formation of Mind},
+  publisher = {Harvard University Press},
+  pages     = {vii--xii},
+  date      = {1985},
+  isbn      = {9780674943506},
+  abstract  = {It was with great pleasure that we accepted the invitation of our
+               friend James Wertsch to write a foreword to this book on Lev
+               Semenovich Vygotsky, one of the greatest psychologists of the
+               first half of the twentieth century. In examining Vygotsky’s
+               cultural-historical approach to the origins and development of
+               higher mental functions and consciousness, Wertsch has not
+               limited his analysis to psychology. Rather, he has correctly
+               viewed this approach as a general theory of culture, an approach
+               that is rooted in Russian culture of the first decades of the
+               twentieth century. This is the context in which the “phenomenon},
+  url       = {http://www.jstor.org/stable/j.ctv26071b0.2},
+  urldate   = {2026-05-04},
+  keywords  = {Vygotsky and the Social Formation of Mind}
+}
+
+@INBOOK{Wertsch1985-kw,
+  title     = {Vygotsky: The Man and His Theory},
+  author    = {Wertsch, James V},
+  booktitle = {Vygotsky and the Social Formation of Mind},
+  publisher = {Harvard University Press},
+  pages     = {1--16},
+  date      = {1985},
+  isbn      = {9780674943506},
+  abstract  = {Like the humanities and other social sciences, psychology is
+               supposed to tell us something about what it means to be human.
+               However, many critics, including such eminent members of the
+               discipline as J. S. Bruner (1976), have questioned whether
+               academic psychology has succeeded in this endeavor. One of the
+               major stumbling blocks that has diverted psychology from this
+               goal is that psychologists have too often isolated and studied
+               phenomena in such a way that they cannot communicate with one
+               another, let alone with members of other disciplines. They have
+               tended to lose sight of the fact that their ultimate goal},
+  url       = {http://www.jstor.org/stable/j.ctv26071b0.5},
+  urldate   = {2026-05-04},
+  keywords  = {Vygotsky and the Social Formation of Mind}
+}
+
+@INBOOK{Wertsch1985-pg,
+  title     = {Vygotsky’s Genetic Method},
+  author    = {Wertsch, James V},
+  booktitle = {Vygotsky and the Social Formation of Mind},
+  publisher = {Harvard University Press},
+  pages     = {17--57},
+  date      = {1985},
+  isbn      = {9780674943506},
+  abstract  = {The fundamental claim in Vygotsky’s genetic or developmental
+               analysis is that human mental processes can be understood only by
+               considering how and where they occur in growth:We need to
+               concentrate not on the product of development but on the very
+               process by which higher forms are established ... To encompass in
+               research the process of a given thing’s development in all its
+               phases and changes-from birth to death-fundamentally means to
+               discover its nature, its essence, for “it is only in movement
+               that a body shows what it is.” Thus, the historical [that is, in
+               the broadest sense of “history”]},
+  url       = {http://www.jstor.org/stable/j.ctv26071b0.6},
+  urldate   = {2026-05-04},
+  keywords  = {Vygotsky and the Social Formation of Mind}
+}
+
+@INBOOK{Wertsch1985-xp,
+  title     = {The Social Origins of Higher Mental Functions},
+  author    = {Wertsch, James V},
+  booktitle = {Vygotsky and the Social Formation of Mind},
+  publisher = {Harvard University Press},
+  pages     = {58--76},
+  date      = {1985},
+  isbn      = {9780674943506},
+  abstract  = {One of the most fundamental assumptions that guided Vygotsky’s
+               attempt to reformulate psychology on Marxian foundations was that
+               in order to understand the individual, one must first understand
+               the social relations in which the individual exists. This
+               assumption was outlined by Marx (1959) in his Sixth Thesis on
+               Feuerbach and has been the focus of some current attempts to
+               formulate a Marxist account of personality (compare Seve, 1978).
+               The influence of Marx’s claim on Vygotsky is manifested in the
+               following statement: “To paraphrase a well-known position of
+               Marx’s, we could say that humans’ psychological nature represents
+               the aggregate of internalized},
+  url       = {http://www.jstor.org/stable/j.ctv26071b0.7},
+  urldate   = {2026-05-04},
+  keywords  = {Vygotsky and the Social Formation of Mind}
+}
+
+@INBOOK{Wertsch1985-jt,
+  title     = {Vygotsky’s Semiotic Analysis},
+  author    = {Wertsch, James V},
+  booktitle = {Vygotsky and the Social Formation of Mind},
+  publisher = {Harvard University Press},
+  pages     = {77--128},
+  date      = {1985},
+  isbn      = {9780674943506},
+  abstract  = {During the last decade of his life Vygotsky’s account of the
+               mediation of higher mental processes was constantly evolving. The
+               sources of his ideas were varied, but at the most general level
+               the writings of Marx and Engels played a central role. In their
+               view labor activity is crucial in the creation of human
+               consciousness. Indeed, they argued that we become human by
+               engaging in the process of labor. As Radzikhovskii (1979) has
+               pointed out, Vygotsky accepted this claim about how humans
+               evolve, but he placed special emphasis on the role of tools in
+               the process, a concept he derived},
+  url       = {http://www.jstor.org/stable/j.ctv26071b0.8},
+  urldate   = {2026-05-04},
+  keywords  = {Vygotsky and the Social Formation of Mind}
+}
+
+@INBOOK{Wertsch1985-ar,
+  title     = {Extending Vygotsky’s Semiotic Analysis: Propositional and
+               Discourse Referentiality},
+  author    = {Wertsch, James V},
+  booktitle = {Vygotsky and the Social Formation of Mind},
+  publisher = {Harvard University Press},
+  pages     = {129--157},
+  date      = {1985},
+  isbn      = {9780674943506},
+  abstract  = {Vygotsky’s semiotic analysis can be clarified and extended in V
+               light of ideas from semiotics, linguistics, and the philosophy of
+               language. Although some of the ideas at issue were not available
+               at the time Vygotsky was writing, others were, at least in an
+               early form, but he failed to recognize their implications for his
+               approach.Much of what I have to say concerns the notion of
+               reference as outlined by W. V. O. Quine (1960, 1973) and extended
+               by Silverstein (1978, 1980a, 1980b). As Quine puts it, reference
+               is concerned with an “apparatus for speaking of objects” (1973,
+               p. 81).¹},
+  url       = {http://www.jstor.org/stable/j.ctv26071b0.9},
+  urldate   = {2026-05-04},
+  keywords  = {Vygotsky and the Social Formation of Mind}
+}
+
+@INBOOK{Wertsch1985-vw,
+  title     = {Semiotic Mechanisms in Vygotsky’s Genetic Law of Cultural
+               Development},
+  author    = {Wertsch, James V},
+  booktitle = {Vygotsky and the Social Formation of Mind},
+  publisher = {Harvard University Press},
+  pages     = {158--183},
+  date      = {1985},
+  isbn      = {9780674943506},
+  abstract  = {According to Vygotsky’s general genetic law of cultural
+               development, all higher mental functions appear first on the
+               interpsychological plane and then on the intrapsychological
+               plane. This claim is central to Vygotsky’s approach, but the
+               processes it entails have not yet been examined in any great
+               detail. Vygotsky was most specific about it in connection with
+               his account of egocentric and inner speech, where he analyzed the
+               forms of semiotic mediation that make possible the transition
+               from interpsychological to intrapsychological functioning. In
+               that analysis, however, he focused almost exclusively on the
+               latter. My concern here is with properties of interpsychological
+               processes},
+  url       = {http://www.jstor.org/stable/j.ctv26071b0.10},
+  urldate   = {2026-05-04},
+  keywords  = {Vygotsky and the Social Formation of Mind}
+}
+
+@INBOOK{Wertsch1985-ig,
+  title     = {Units of Psychological Functioning: Consciousness, Word Meaning,
+               and Action},
+  author    = {Wertsch, James V},
+  booktitle = {Vygotsky and the Social Formation of Mind},
+  publisher = {Harvard University Press},
+  pages     = {184--208},
+  date      = {1985},
+  isbn      = {9780674943506},
+  abstract  = {Vygotsky’s constant reference to mental functions calls for a
+               closer V examination of the role they play in his approach-in
+               particular, whether they should be viewed as a fundamental unit
+               of psychological analysis. For example, when arguing that
+               semiotic mechanisms mediate human activity, was he claiming that
+               they mediate individual mental functions? Or when outlining the
+               transition from interpsychological to intrapsychological
+               functioning, was he claiming that this transition takes place
+               within the framework of specific mental functions?Evidently this
+               is hot what Vygotsky had in mind. For him, the complexities of
+               actual psychological activity could not be accounted for in},
+  url       = {http://www.jstor.org/stable/j.ctv26071b0.11},
+  urldate   = {2026-05-04},
+  keywords  = {Vygotsky and the Social Formation of Mind}
+}
+
+@INBOOK{Wertsch1985-ap,
+  title     = {Mind and Society},
+  author    = {Wertsch, James V},
+  booktitle = {Vygotsky and the Social Formation of Mind},
+  publisher = {Harvard University Press},
+  pages     = {209--232},
+  date      = {1985},
+  isbn      = {9780674943506},
+  abstract  = {In attempting to explicate Vygotsky’s claims about the social
+               origins and social, or “quasi-social,” nature ofhuman
+               consciousness, I have examined several issues concerned with
+               interpsychological functioning, such as intersubjectivity,
+               abbreviated directives, and the dialogic form of semiotic
+               mediation. In all these cases the term “social” has referred to
+               dyadic or small-group communicative processes.Such
+               interpsychological functioning is not the only kind of social
+               phenomenon envisioned by Vygotsky. He also recognized “social
+               institutional” processes, which are the primary focus of Marxist
+               social theory. Although Vygotsky’s project of reformulating
+               psychology along Marxist lines calls for an account of the
+               relationship between social},
+  url       = {http://www.jstor.org/stable/j.ctv26071b0.12},
+  urldate   = {2026-05-04},
   keywords  = {Vygotsky and the Social Formation of Mind}
 }
 
