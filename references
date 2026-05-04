@@ -52114,6 +52114,17 @@
                Learning;VET;Cross Ref Chapter}
 }
 
+@BOOK{Pisano2012-ya,
+  title     = {Producing prosperity},
+  author    = {Pisano, Gary P and Shih, Willy C},
+  publisher = {Harvard Business Review Press},
+  location  = {Boston, MA},
+  date      = {2012-10-16},
+  pagetotal = {192},
+  isbn      = {9781422162682},
+  language  = {en}
+}
+
 @BOOK{Shih2023-gp,
   title     = {Supply Chain: The Insights You Need from Harvard Business Review},
   author    = {Shih, Willy C and Shuh, Christian and Schnellbacher, Wolfgang and
