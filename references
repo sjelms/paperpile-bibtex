@@ -8183,6 +8183,18 @@
   language     = {en}
 }
 
+@BOOK{Wertsch2009-zf,
+  title     = {Vygotsky and the social formation of mind},
+  author    = {Wertsch, James V},
+  publisher = {Harvard University Press},
+  location  = {London, England},
+  date      = {2009-07-31},
+  pagetotal = {280},
+  doi       = {10.2307/j.ctv26071b0},
+  isbn      = {9780674045095,9780674943506},
+  url       = {http://dx.doi.org/10.2307/j.ctv26071b0}
+}
+
 @BOOK{Shih2023-gp,
   title     = {Supply Chain: The Insights You Need from Harvard Business Review},
   author    = {Shih, Willy C and Shuh, Christian and Schnellbacher, Wolfgang and
