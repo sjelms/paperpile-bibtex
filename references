@@ -507,8 +507,9 @@
                   single reprint.},
   url          = {https://hbr.org/2017/11/why-every-organization-needs-an-augmented-reality-strategy},
   urldate      = {2022-07-25},
-  keywords     = {XR Reviewed;Notion Catalogued;\_BibTex to MD Git;\_XR MR VR
-                  AR;\_Mark Up;Readwise Reader;\_Cataloged}
+  keywords     = {XR Reviewed;Notion Catalogued;\_BibTex to MD
+                  Git;HBR\_Harvard;\_XR MR VR AR;\_Mark Up;Readwise
+                  Reader;\_Cataloged}
 }
 
 @ONLINE{Hilburg2021-ix,
@@ -3538,7 +3539,7 @@
   booktitle = {Harvard Business Review},
   date      = {2021-09},
   url       = {https://hbr.org/2021/09/ai-adoption-skyrocketed-over-the-last-18-months},
-  keywords  = {Zotero Import (Feb 22);My Library}
+  keywords  = {Zotero Import (Feb 22);My Library;HBR\_Harvard}
 }
 
 @MISC{Clark1928-ka,
@@ -12445,7 +12446,7 @@
                starting to understand that some managerial knowledge is
                universal and some is specific to a market or a culture.},
   url       = {https://hbr.org/2014/09/contextual-intelligence},
-  keywords  = {Knowledge - Skill Acquisition}
+  keywords  = {HBR\_Harvard;Knowledge - Skill Acquisition}
 }
 
 @VIDEO{Dede2014-nw,
@@ -13580,8 +13581,8 @@
                   incumbents to reach additional customer groups.},
   url          = {https://hbr.org/2014/04/the-limits-of-scale},
   urldate      = {2022-09-17},
-  keywords     = {Notion Catalogued;\_BibTex to MD Git;Technological
-                  change;\_Cataloged}
+  keywords     = {Notion Catalogued;\_BibTex to MD
+                  Git;HBR\_Harvard;Technological change;\_Cataloged}
 }
 
 @INPROCEEDINGS{Casselman2005-gn,
@@ -50650,7 +50651,7 @@
                and transfer it to other parts of its operations.},
   series    = {Harvard Business School Case},
   url       = {https://hbsp.harvard.edu/product/625003-PDF-ENG},
-  keywords  = {Knowledge - Skill Acquisition}
+  keywords  = {HBR\_Harvard;Knowledge - Skill Acquisition}
 }
 
 @ARTICLE{Shook2010-ni,
@@ -52128,7 +52129,7 @@
                they need from across the globe, manufacturers must reassess how
                they operate, from rethinking offshore options to exploring new
                technologies.},
-  keywords  = {EPubs Books;ePub;Economics},
+  keywords  = {EPubs Books;HBR\_Harvard;ePub;Economics},
   language  = {en}
 }
 
@@ -52168,6 +52169,6 @@
                government must change its support of basic and applied
                scientific research, and promote collaboration between business
                and academia.},
-  keywords  = {EPubs Books;ePub;Economics},
+  keywords  = {EPubs Books;HBR\_Harvard;ePub;Economics},
   language  = {en}
 }
