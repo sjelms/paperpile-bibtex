@@ -15372,7 +15372,8 @@
                   institutional, and political implications of adopting this
                   reconfigured model of scholarship.},
   url          = {http://dx.doi.org/10.1080/00091383.1995.10544673},
-  keywords     = {Research Methods;Knowledge - Skill Acquisition}
+  keywords     = {\_BibTex to MD Git;Research Methods;Knowledge - Skill
+                  Acquisition}
 }
 
 @ARTICLE{Billett2006-hp,
@@ -42299,7 +42300,7 @@
                and transfer it to other parts of its operations.},
   series    = {Harvard Business School Case},
   url       = {https://hbsp.harvard.edu/product/625003-PDF-ENG},
-  keywords  = {HBR\_Harvard;Knowledge - Skill Acquisition}
+  keywords  = {HBR\_Harvard;\_BibTex to MD Git;Knowledge - Skill Acquisition}
 }
 
 @BOOK{Kelly1951-kc,
@@ -45338,8 +45339,8 @@
                educational technology, and media studies. It is particularly
                well-suited for teacher preparation programs and digital literacy
                modules in education and applied linguistics programs.},
-  keywords  = {EPubs Books;RNIB;ePub;Intelligent Tutoring Systems
-               (ITS);Artificial Intelligence (AI);AIEd;Education},
+  keywords  = {EPubs Books;\_BibTex to MD Git;RNIB;ePub;Intelligent Tutoring
+               Systems (ITS);Artificial Intelligence (AI);AIEd;Education},
   language  = {en}
 }
 
