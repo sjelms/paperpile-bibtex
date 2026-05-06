@@ -52603,3 +52603,15 @@
                1957. Reprinted by the B. F. Skinner Foundation in 1992 and 2002.},
   keywords  = {\_BibTex to MD Git;Psychology}
 }
+
+@INBOOK{Maglione2024-cd,
+  title     = {Omnibus},
+  author    = {Maglione, Dorothy Glick},
+  booktitle = {Leonard Bernstein in Context},
+  publisher = {Cambridge University Press},
+  pages     = {175--182},
+  date      = {2024-03-28},
+  doi       = {10.1017/9781108891349.022},
+  isbn      = {9781108891349,9781108835701},
+  url       = {http://dx.doi.org/10.1017/9781108891349.022}
+}
