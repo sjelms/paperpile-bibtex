@@ -52605,13 +52605,30 @@
 }
 
 @INBOOK{Maglione2024-cd,
-  title     = {Omnibus},
+  title     = {Bernstein as Musical and Cultural Ambassador: Omnibus},
   author    = {Maglione, Dorothy Glick},
+  editor    = {Wells, Elizabeth A},
   booktitle = {Leonard Bernstein in Context},
   publisher = {Cambridge University Press},
   pages     = {175--182},
   date      = {2024-03-28},
   doi       = {10.1017/9781108891349.022},
   isbn      = {9781108891349,9781108835701},
+  abstract  = {Between October 1955 and March 1958, Bernstein presented seven
+               television broadcasts on the Omnibus culture series. He addressed
+               topics from Beethoven, Bach, modern music, and opera to musical
+               theatre and jazz and appealed widely to audiences, educating and
+               offering knowledge while avoiding excessively elevated language.
+               Writing the scripts himself, Bernstein effortlessly moved from
+               various roles as a conductor, narrator, pianist, and educator
+               within the context of the show, dazzling audiences with his
+               charismatic personality and stylish attire. The programmes were
+               well received, with an estimated sixteen million viewers tuning
+               in to watch the December 1955 ‘The Art of Conducting’ broadcast.
+               His carefully selected words, analogies, and references were
+               extremely relatable to the middle-class family demographics of
+               the programmes, and the broadcasts fostered Bernstein’s growing
+               pop-star status as he gained international popularity as a
+               conductor and both a Broadway and classical composer.},
   url       = {http://dx.doi.org/10.1017/9781108891349.022}
 }
