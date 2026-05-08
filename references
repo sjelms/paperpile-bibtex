@@ -8638,17 +8638,6 @@
   keywords  = {\_BibTex to MD Git;Psychology}
 }
 
-@BOOK{Hergenhahn2013-bw,
-  title     = {An introduction to the history of psychology},
-  author    = {Hergenhahn, B R and Henley, Tracy},
-  publisher = {Wadsworth Publishing},
-  location  = {Belmont, CA},
-  edition   = {7},
-  date      = {2013-02-27},
-  pagetotal = {720},
-  isbn      = {9781133958093}
-}
-
 @INBOOK{Maglione2024-cd,
   title     = {Bernstein as Musical and Cultural Ambassador: Omnibus},
   author    = {Maglione, Dorothy Glick},
@@ -8859,6 +8848,25 @@
                crafted stories of real people, their personal journeys, and
                their intellectual insights.},
   keywords  = {\_BibTex to MD Git;Psychology}
+}
+
+@BOOK{Hergenhahn1992-yt,
+  title     = {An Introduction to the History of Psychology},
+  author    = {Hergenhahn, Baldwin R},
+  editorb   = {Henley, Tracy},
+  publisher = {Wadsworth Publishing},
+  location  = {Belmont, CA},
+  edition   = {7},
+  date      = {1992},
+  pagetotal = {720},
+  isbn      = {9781133958093},
+  abstract  = {Dreams puzzled early man, Greek philosophers spun elaborate
+               theories to explain human memory and perception, Descartes
+               postulated that the brain was filled with "animal spirits," and
+               psychology was officially deemed a "science" in the 19th century.
+               B.R. Hergenhahn demonstrates that most of the concerns of
+               contemporary psychologists are manifestations of themes that have
+               been part of psychology for hundreds-or even thousands-of years.}
 }
 
 @ARTICLE{De_Jong2013-st,
