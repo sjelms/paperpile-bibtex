@@ -9626,6 +9626,26 @@
   language  = {en}
 }
 
+@BOOK{Thompson1998-mr,
+  title     = {Workplaces of the future},
+  author    = {Thompson, Paul and Warhurst, Chris},
+  editor    = {Thompson, Paul and Warhurst, Chris},
+  publisher = {Red Globe Press},
+  location  = {London, England},
+  date      = {1998-03-23},
+  pagetotal = {230},
+  doi       = {10.1007/978-1-349-26346-2},
+  isbn      = {9780333728000,9781349263462},
+  abstract  = {Workplaces of the Future examines change in workplace structures
+               and relations and considers what the contemporary workplace looks
+               like. The book contains a wide range of issues and examples from
+               fact},
+  series    = {Critical Perspectives on Work and Organisations},
+  url       = {http://dx.doi.org/10.1007/978-1-349-26346-2},
+  keywords  = {Workplaces of the Future},
+  language  = {en}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
