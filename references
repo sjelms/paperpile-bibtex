@@ -23367,6 +23367,34 @@
   keywords = {Data Stats Figures;AEC;Labor}
 }
 
+@INBOOK{Sawchuk2013-dv,
+  title     = {Understanding Prevalence, Roots, and Factors of Trajectories of
+               Knowledge Production},
+  author    = {Sawchuk, Peter H},
+  booktitle = {Contested Learning in Welfare Work: A Study of Mind, Political
+               Economy, and the Labour Process},
+  publisher = {Cambridge University Press},
+  pages     = {251--282},
+  date      = {2013},
+  abstract  = {Some time ago, the sociologist Michael Burawoy (Reference
+               Burawoy1979) turned a critical eye toward survey research on
+               workers. His conclusions, and those of many others since,
+               challenged how surveys about work and workers relate to general
+               societal attitudes on the one hand, and the perceptions and
+               concrete practices of workers on the other. When [survey
+               responses] are divorced from their context, how can one interpret
+               the enumeration of a set of attitudes? To what reality do these
+               attitudes refer? They appear to reflect a general attitude toward
+               work in capitalist society, to a reluctance to engage in
+               meaning-less, boring, and coercive routines. Inevitably they miss
+               the adaptations workers make to compensate for the deprivations
+               they endure.},
+  series    = {Learning in Doing: Social, Cognitive and Computational
+               Perspectives},
+  keywords  = {Contested Learning in Welfare Work;Book (child);Labor;Workplace
+               Learning}
+}
+
 @INBOOK{Sawchuk2013-ax,
   title     = {Mind in Political Economy and the Labour Process: A Use-Value
                Thesis},
@@ -52218,21 +52246,6 @@
   series    = {Learning in Doing: Social, Cognitive and Computational
                Perspectives},
   keywords  = {Contested Learning in Welfare Work;Book (child)}
-}
-
-@INBOOK{Sawchuk2013-dv,
-  title     = {Understanding Prevalence, Roots, and Factors of Trajectories of
-               Knowledge Production},
-  author    = {Sawchuk, Peter H},
-  booktitle = {Contested Learning in Welfare Work: A Study of Mind, Political
-               Economy, and the Labour Process},
-  publisher = {Cambridge University Press},
-  pages     = {251--282},
-  date      = {2013},
-  series    = {Learning in Doing: Social, Cognitive and Computational
-               Perspectives},
-  keywords  = {Contested Learning in Welfare Work;Book (child);Labor;Workplace
-               Learning}
 }
 
 @INBOOK{Sawchuk2013-ue,
