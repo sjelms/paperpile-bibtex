@@ -46887,6 +46887,13 @@
   language  = {en}
 }
 
+@INPROCEEDINGS{Felstead2007-gg,
+  title  = {Skills at work, 1986 to 2006},
+  author = {Felstead, Alan and Gallie, Duncan and Green, Francis and Zhou, Ying},
+  date   = {2007},
+  url    = {https://api.semanticscholar.org/CorpusID:110265706}
+}
+
 @BOOK{Harari2014-do,
   title     = {Sapiens: A Brief History of Humankind},
   author    = {Harari, Yuval Noah},
