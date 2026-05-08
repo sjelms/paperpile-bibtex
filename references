@@ -8755,7 +8755,8 @@
   date      = {1975},
   abstract  = {A defense of Marxism against the pragmatism of John Dewey, chief
                theoretical spokesman in the 1930s of the middle-class democratic
-               movement in the United States.}
+               movement in the United States.},
+  keywords  = {Psychology}
 }
 
 @ARTICLE{Quay2023-vt,
@@ -8794,6 +8795,7 @@
                   learning outcomes.},
   url          = {http://dx.doi.org/10.1080/00220272.2023.2242914},
   urldate      = {2026-05-07},
+  keywords     = {Psychology},
   language     = {en}
 }
 
@@ -8823,6 +8825,7 @@
                   play, a gap he intends this article to fill.},
   url          = {https://eric.ed.gov/?id=EJ1429504},
   urldate      = {2026-05-07},
+  keywords     = {Psychology},
   language     = {en}
 }
 
@@ -8842,7 +8845,8 @@
                scholarship, Pioneers of Psychology illuminates the major themes
                and controversies in psychology's history through carefully
                crafted stories of real people, their personal journeys, and
-               their intellectual insights.}
+               their intellectual insights.},
+  keywords  = {Psychology}
 }
 
 @ARTICLE{De_Jong2013-st,
