@@ -28029,6 +28029,26 @@
   language     = {en}
 }
 
+@ARTICLE{PLOS-One-Staff2026-kq,
+  title        = {Correction: The lived experience of rejection sensitivity in
+                  {ADHD} - A qualitative exploration},
+  author       = {{PLOS One Staff}},
+  journaltitle = {PloS One},
+  publisher    = {Public Library of Science (PLoS)},
+  volume       = {21},
+  issue        = {3},
+  pages        = {e0345112},
+  date         = {2026-03-13},
+  doi          = {10.1371/journal.pone.0345112},
+  pmc          = {PMC12987444},
+  pmid         = {41824388},
+  issn         = {1932-6203},
+  abstract     = {[This corrects the article DOI:
+                  10.1371/journal.pone.0314669.].},
+  url          = {http://dx.doi.org/10.1371/journal.pone.0345112},
+  language     = {en}
+}
+
 @ARTICLE{Meffe2011-li,
   title        = {How many musicians does it take? A history and analysis of the
                   shrinking Broadway pit orchestra},
