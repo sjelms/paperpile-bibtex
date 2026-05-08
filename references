@@ -23395,6 +23395,66 @@
   url          = {http://dx.doi.org/10.3917/anso.032.0401}
 }
 
+@BOOK{Sawchuk2013-ro,
+  title     = {Contested Learning in Welfare Work: A Study of Mind, Political
+               Economy, and the Labour Process},
+  author    = {Sawchuk, Peter H},
+  publisher = {Cambridge University Press},
+  location  = {Cambridge, England},
+  date      = {2013-06-05},
+  doi       = {10.1017/cbo9781139540889},
+  isbn      = {9781139540889,9781316609750},
+  abstract  = {Drawing on the field of cultural historical psychology and the
+               sociologies of skill and labour process, Contested Learning in
+               Welfare Work offers a detailed account of the learning lives of
+               state welfare workers in Canada as they cope, accommodate, resist
+               and flounder in times of heightened austerity. Documented through
+               in-depth qualitative and quantitative analysis, Peter Sawchuk
+               shows how the labour process changes workers, and how workers
+               change the labour process, under the pressures of intensified
+               economic conditions, new technologies, changing relations of
+               space and time, and a high-tech version of Taylorism. Sawchuk
+               traces these experiences over a seven-year period that includes
+               major work reorganisation and the recent economic downturn. His
+               analysis examines the dynamics between notions of de-skilling,
+               re-skilling and up-skilling, as workers negotiate occupational
+               learning and changing identities.},
+  url       = {http://dx.doi.org/10.1017/cbo9781139540889},
+  keywords  = {Contested Learning in Welfare Work;\_BibTex to MD Git;Book
+               (parent);Labor;Workplace Learning}
+}
+
+@INBOOK{Sawchuk2013-ip,
+  title     = {Introduction},
+  author    = {Sawchuk, Peter H},
+  booktitle = {Contested Learning in Welfare Work: A Study of Mind, Political
+               Economy, and the Labour Process},
+  publisher = {Cambridge University Press},
+  pages     = {1--22},
+  date      = {2013},
+  abstract  = {In 1923, on stage in New York City, for a white-collar worker
+               named Mr. Zero, an entire world of work had been reduced to
+               numbers and a job carefully mastered was being replaced by a
+               profitable new “super-hyper-adding machine”. In response he makes
+               his first real choice in life. He takes extreme measures. He is
+               sentenced to death and uttering his last earthly words to the
+               jury he says, “Suppose you was me.” In the after-life he is
+               presented with yet another opportunity to make choices, and once
+               again he is laid off. This time it is not for the reasons of
+               profit. It is because of his refusal to make one choice rather
+               than another: to accept rather than change the designs of his
+               circumstance. Where exactly does a worker go when laid off from a
+               job in the after-life? Why, back to earth. As his supervisor
+               Lieutenant Charles explains to him carefully: Zero is to start
+               all over again, to “learn all the wrong things and learn them all
+               in the wrong way [and] about all the things you want to know,
+               they’ll tell you nothing at all”.},
+  series    = {Learning in Doing: Social, Cognitive and Computational
+               Perspectives},
+  keywords  = {Contested Learning in Welfare Work;\_BibTex to MD Git;Book
+               (child);Labor;Workplace Learning}
+}
+
 @INBOOK{Sawchuk2013-ix,
   title     = {Index},
   author    = {Sawchuk, Peter H},
@@ -23432,8 +23492,8 @@
                they endure.},
   series    = {Learning in Doing: Social, Cognitive and Computational
                Perspectives},
-  keywords  = {Contested Learning in Welfare Work;Book (child);Labor;Workplace
-               Learning}
+  keywords  = {Contested Learning in Welfare Work;\_BibTex to MD Git;Book
+               (child);Labor;Workplace Learning}
 }
 
 @INBOOK{Sawchuk2013-vn,
@@ -23472,8 +23532,8 @@
                surface to be mundane, micro-interactions with technology.},
   series    = {Learning in Doing: Social, Cognitive and Computational
                Perspectives},
-  keywords  = {Contested Learning in Welfare Work;Book (child);Labor;Workplace
-               Learning}
+  keywords  = {Contested Learning in Welfare Work;\_BibTex to MD Git;Book
+               (child);Labor;Workplace Learning}
 }
 
 @INBOOK{Sawchuk2013-ax,
@@ -23504,8 +23564,8 @@
                was with researchers of both the labour process and learning.},
   series    = {Learning in Doing: Social, Cognitive and Computational
                Perspectives},
-  keywords  = {Contested Learning in Welfare Work;Book (child);Labor;Workplace
-               Learning}
+  keywords  = {Contested Learning in Welfare Work;\_BibTex to MD Git;Book
+               (child);Labor;Workplace Learning}
 }
 
 @INBOOK{Sawchuk2013-bi,
@@ -23539,8 +23599,8 @@
                workers in these contemporary times of change.},
   series    = {Learning in Doing: Social, Cognitive and Computational
                Perspectives},
-  keywords  = {Contested Learning in Welfare Work;Book (child);Labor;Workplace
-               Learning}
+  keywords  = {Contested Learning in Welfare Work;\_BibTex to MD Git;Book
+               (child);Labor;Workplace Learning}
 }
 
 @INBOOK{Sawchuk2013-zi,
@@ -23583,39 +23643,8 @@
                tools applied in the following chapters.},
   series    = {Learning in Doing: Social, Cognitive and Computational
                Perspectives},
-  keywords  = {Contested Learning in Welfare Work;Book (child);Labor;Workplace
-               Learning}
-}
-
-@INBOOK{Sawchuk2013-ip,
-  title     = {Introduction},
-  author    = {Sawchuk, Peter H},
-  booktitle = {Contested Learning in Welfare Work: A Study of Mind, Political
-               Economy, and the Labour Process},
-  publisher = {Cambridge University Press},
-  pages     = {1--22},
-  date      = {2013},
-  abstract  = {In 1923, on stage in New York City, for a white-collar worker
-               named Mr. Zero, an entire world of work had been reduced to
-               numbers and a job carefully mastered was being replaced by a
-               profitable new “super-hyper-adding machine”. In response he makes
-               his first real choice in life. He takes extreme measures. He is
-               sentenced to death and uttering his last earthly words to the
-               jury he says, “Suppose you was me.” In the after-life he is
-               presented with yet another opportunity to make choices, and once
-               again he is laid off. This time it is not for the reasons of
-               profit. It is because of his refusal to make one choice rather
-               than another: to accept rather than change the designs of his
-               circumstance. Where exactly does a worker go when laid off from a
-               job in the after-life? Why, back to earth. As his supervisor
-               Lieutenant Charles explains to him carefully: Zero is to start
-               all over again, to “learn all the wrong things and learn them all
-               in the wrong way [and] about all the things you want to know,
-               they’ll tell you nothing at all”.},
-  series    = {Learning in Doing: Social, Cognitive and Computational
-               Perspectives},
-  keywords  = {Contested Learning in Welfare Work;Book (child);Labor;Workplace
-               Learning}
+  keywords  = {Contested Learning in Welfare Work;\_BibTex to MD Git;Book
+               (child);Labor;Workplace Learning}
 }
 
 @INBOOK{Sawchuk2013-dj,
@@ -23643,8 +23672,8 @@
                unlearned.},
   series    = {Learning in Doing: Social, Cognitive and Computational
                Perspectives},
-  keywords  = {Contested Learning in Welfare Work;Book (child);Labor;Workplace
-               Learning}
+  keywords  = {Contested Learning in Welfare Work;\_BibTex to MD Git;Book
+               (child);Labor;Workplace Learning}
 }
 
 @INBOOK{Sawchuk2013-eu,
@@ -23667,8 +23696,8 @@
                some time. It is a concern that is not new.},
   series    = {Learning in Doing: Social, Cognitive and Computational
                Perspectives},
-  keywords  = {Contested Learning in Welfare Work;Book (child);Labor;Workplace
-               Learning}
+  keywords  = {Contested Learning in Welfare Work;\_BibTex to MD Git;Book
+               (child);Labor;Workplace Learning}
 }
 
 @INBOOK{Sawchuk2013-db,
@@ -23707,8 +23736,8 @@
                stalled within labour process activity.},
   series    = {Learning in Doing: Social, Cognitive and Computational
                Perspectives},
-  keywords  = {Contested Learning in Welfare Work;Book (child);Labor;Workplace
-               Learning}
+  keywords  = {Contested Learning in Welfare Work;\_BibTex to MD Git;Book
+               (child);Labor;Workplace Learning}
 }
 
 @INBOOK{Sawchuk2013-hq,
@@ -23735,8 +23764,8 @@
                and newcomers.},
   series    = {Learning in Doing: Social, Cognitive and Computational
                Perspectives},
-  keywords  = {Contested Learning in Welfare Work;Book (child);Labor;Workplace
-               Learning}
+  keywords  = {Contested Learning in Welfare Work;\_BibTex to MD Git;Book
+               (child);Labor;Workplace Learning}
 }
 
 @INBOOK{Sawchuk2013-fj,
@@ -23766,37 +23795,8 @@
                different character to the work.},
   series    = {Learning in Doing: Social, Cognitive and Computational
                Perspectives},
-  keywords  = {Contested Learning in Welfare Work;Book (child);Labor;Workplace
-               Learning}
-}
-
-@BOOK{Sawchuk2013-ro,
-  title     = {Contested Learning in Welfare Work: A Study of Mind, Political
-               Economy, and the Labour Process},
-  author    = {Sawchuk, Peter H},
-  publisher = {Cambridge University Press},
-  location  = {Cambridge, England},
-  date      = {2013-06-05},
-  doi       = {10.1017/cbo9781139540889},
-  isbn      = {9781139540889,9781316609750},
-  abstract  = {Drawing on the field of cultural historical psychology and the
-               sociologies of skill and labour process, Contested Learning in
-               Welfare Work offers a detailed account of the learning lives of
-               state welfare workers in Canada as they cope, accommodate, resist
-               and flounder in times of heightened austerity. Documented through
-               in-depth qualitative and quantitative analysis, Peter Sawchuk
-               shows how the labour process changes workers, and how workers
-               change the labour process, under the pressures of intensified
-               economic conditions, new technologies, changing relations of
-               space and time, and a high-tech version of Taylorism. Sawchuk
-               traces these experiences over a seven-year period that includes
-               major work reorganisation and the recent economic downturn. His
-               analysis examines the dynamics between notions of de-skilling,
-               re-skilling and up-skilling, as workers negotiate occupational
-               learning and changing identities.},
-  url       = {http://dx.doi.org/10.1017/cbo9781139540889},
-  keywords  = {Contested Learning in Welfare Work;Book (parent);Labor;Workplace
-               Learning}
+  keywords  = {Contested Learning in Welfare Work;\_BibTex to MD Git;Book
+               (child);Labor;Workplace Learning}
 }
 
 @ARTICLE{Eloundou2023-fz,
