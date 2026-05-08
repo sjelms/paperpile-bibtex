@@ -9552,8 +9552,9 @@
 }
 
 @INBOOK{Milkman1998-oe,
-  title     = {The new American workplace: High road or low road?},
+  title     = {The New American Workplace: High Road or Low Road?},
   author    = {Milkman, Ruth},
+  editor    = {Thompson, Paul and Warhurst, Chris},
   booktitle = {Workplaces of the Future},
   publisher = {Macmillan Education UK},
   location  = {London},
