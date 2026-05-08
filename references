@@ -8638,17 +8638,6 @@
   keywords  = {\_BibTex to MD Git;Psychology}
 }
 
-@BOOK{Fancher2020-av,
-  title     = {Pioneers of Psychology},
-  author    = {Fancher, Raymond E and Rutherford, Alexandra},
-  publisher = {WW Norton},
-  location  = {New York, NY},
-  edition   = {5},
-  date      = {2020-04-14},
-  pagetotal = {768},
-  isbn      = {9780393283549}
-}
-
 @INBOOK{Maglione2024-cd,
   title     = {Bernstein as Musical and Cultural Ambassador: Omnibus},
   author    = {Maglione, Dorothy Glick},
@@ -8835,6 +8824,25 @@
   url          = {https://eric.ed.gov/?id=EJ1429504},
   urldate      = {2026-05-07},
   language     = {en}
+}
+
+@BOOK{Fancher1979-gx,
+  title     = {Pioneers of Psychology: A History},
+  author    = {Fancher, Raymond E and Rutherford, Alexandra},
+  publisher = {WW Norton},
+  location  = {New York, NY},
+  edition   = {4},
+  date      = {1979},
+  pagetotal = {768},
+  isbn      = {9780393283549},
+  abstract  = {Pioneers of Psychology tells the stories of the men and women who
+               have shaped our understanding of what it means to be human over
+               the past 400 years. Written by professional historians of
+               psychology and drawing on the most up-to-date historical
+               scholarship, Pioneers of Psychology illuminates the major themes
+               and controversies in psychology's history through carefully
+               crafted stories of real people, their personal journeys, and
+               their intellectual insights.}
 }
 
 @ARTICLE{De_Jong2013-st,
