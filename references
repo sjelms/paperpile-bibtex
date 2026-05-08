@@ -23392,7 +23392,8 @@
                   occupations. New computer-based technologies were strongly
                   associated with higher skills, but did not significantly
                   influence task discretion.},
-  url          = {http://dx.doi.org/10.3917/anso.032.0401}
+  url          = {http://dx.doi.org/10.3917/anso.032.0401},
+  keywords     = {\_BibTex to MD Git}
 }
 
 @BOOK{Sawchuk2013-ro,
@@ -24021,7 +24022,8 @@
                  particular relevance to the policy priorities outlined in the
                  Leitch Review of Skills.},
   url         = {https://openresearch.surrey.ac.uk/esploro/outputs/book/Skills-at-Work-1986-2006/99514752902346},
-  keywords    = {Knowledge - Skill Acquisition;Skill demand;Labor}
+  keywords    = {\_BibTex to MD Git;Knowledge - Skill Acquisition;Skill
+                 demand;Labor}
 }
 
 @ARTICLE{Coelho2021-oq,
