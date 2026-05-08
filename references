@@ -284,6 +284,36 @@
                Methods;Columbia University;Book (parent)}
 }
 
+@ARTICLE{Gallie2003-tj,
+  title        = {Skill, task discretion and new technology},
+  author       = {Gallie, Duncan and Felstead, Alan and Green, Francis},
+  journaltitle = {L'Annee sociologique},
+  publisher    = {CAIRN},
+  volume       = {53},
+  issue        = {2},
+  pages        = {401--430},
+  date         = {2003-09-01},
+  doi          = {10.3917/anso.032.0401},
+  issn         = {0066-2399,1969-6760},
+  abstract     = {RéSUMé. — En s’appuyant sur les résultats d’une série
+                  d’enquêtes nationales conduites auprès de la population active
+                  britannique, l’article apporte une contribution aux débats
+                  récurrents portant sur les liens entre changements
+                  technologiques, autonomie dans le travail et qualification.
+                  Sur la période concernée, il met à jour une élévation notoire
+                  des niveaux de qualification ; il ne confirme pas un
+                  accroissement de leur polarisation. Par contre, il constate un
+                  déclin de l’autonomie dans le travail pour toutes les
+                  catégories de salariés et, en particuliers, pour les «
+                  professionnels » (éducation, santé.), le personnel travaillant
+                  dans la vente et les services rendus aux particuliers ainsi
+                  que ceux occupant les emplois les moins qualifiés. Les
+                  nouvelles technologies sont étroitement associées à une
+                  élévation des niveaux de qualification ; elles n’ont que peu
+                  d’influence sur l’autonomie dans le travail.},
+  url          = {http://dx.doi.org/10.3917/anso.032.0401}
+}
+
 @INBOOK{Sawchuk2013-dv,
   title     = {Understanding Prevalence, Roots, and Factors of Trajectories of
                Knowledge Production},
