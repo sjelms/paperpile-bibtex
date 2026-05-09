@@ -9764,20 +9764,6 @@
                Learning;Economics;ePub}
 }
 
-@BOOK{Gallie1978-jq,
-  title     = {Cambridge Studies in Sociology: In Search of the New Working
-               Class: Automation and social integration within the capitalist
-               enterprise Series Number 9},
-  author    = {Gallie, Duncan},
-  publisher = {Cambridge University Press},
-  location  = {Cambridge, England},
-  date      = {1978-04-27},
-  pagetotal = {370},
-  isbn      = {9780521217712},
-  series    = {Cambridge studies in sociology},
-  language  = {en}
-}
-
 @ARTICLE{Welton1991-jd,
   title        = {What's new in the History of Adult Education},
   author       = {Welton, Michael R},
@@ -9811,6 +9797,28 @@
                   studies did not help matters.},
   url          = {http://dx.doi.org/10.32316/hse/rhe.v3i2.1273},
   keywords     = {\_BibTex to MD Git}
+}
+
+@BOOK{Gallie1978-jq,
+  title     = {In Search of the New Working Class: Automation and social
+               integration within the capitalist enterprise},
+  author    = {Gallie, Duncan},
+  publisher = {Cambridge University Press},
+  location  = {Cambridge, England},
+  date      = {1978-04-27},
+  pagetotal = {370},
+  isbn      = {9780521217712},
+  abstract  = {Occupational sociology monograph on social implications of
+               advanced automation for labour relations and working class social
+               structure, based on a comparison of capitalist industrial
+               enterprises in the petroleum industry in France and UK - covers
+               new forms of social conflict, social integration, changes in
+               employees attitude to work environment, work organization, wage
+               rates and management, and examines the level of workers
+               participation in decision making, and trade union strategies.
+               References and statistical tables.},
+  series    = {Cambridge studies in sociology},
+  language  = {en}
 }
 
 @ARTICLE{Eraut2000-hu,
