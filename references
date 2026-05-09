@@ -53834,7 +53834,7 @@
                   contexts. This abstract necessarily simplifies a more complex
                   analysis in the paper itself.},
   url          = {http://dx.doi.org/10.1348/000709900158001},
-  keywords     = {Workplace Learning},
+  keywords     = {\_BibTex to MD Git;Workplace Learning},
   language     = {en}
 }
 
@@ -53879,5 +53879,5 @@
                the project’s work, readers are referred to project publications
                and our forthcoming book.},
   url       = {http://dx.doi.org/10.51952/9781847425126.ch007},
-  keywords  = {Workplace Learning}
+  keywords  = {\_BibTex to MD Git;Workplace Learning}
 }
