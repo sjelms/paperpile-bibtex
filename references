@@ -9764,6 +9764,20 @@
                Learning;Economics;ePub}
 }
 
+@BOOK{Gallie1978-jq,
+  title     = {Cambridge Studies in Sociology: In Search of the New Working
+               Class: Automation and social integration within the capitalist
+               enterprise Series Number 9},
+  author    = {Gallie, Duncan},
+  publisher = {Cambridge University Press},
+  location  = {Cambridge, England},
+  date      = {1978-04-27},
+  pagetotal = {370},
+  isbn      = {9780521217712},
+  series    = {Cambridge studies in sociology},
+  language  = {en}
+}
+
 @ARTICLE{Welton1991-jd,
   title        = {What's new in the History of Adult Education},
   author       = {Welton, Michael R},
