@@ -34066,6 +34066,27 @@
                Readwise;AEC;ePub;Book (child)}
 }
 
+@BOOK{Danford2013-vz,
+  title     = {Japanese management techniques and British workers},
+  author    = {Danford, Andy},
+  publisher = {Routledge},
+  location  = {London, England},
+  date      = {2013-12-02},
+  pagetotal = {266},
+  doi       = {10.4324/9781315788846},
+  isbn      = {9781317727736,9781317727736},
+  abstract  = {Japanese management techniques and the paradoxical absence of
+               labour Japanese lean production in South Wales Japanese human
+               resource management in South Wales local and global contexts to
+               the restructuring of work at a British factory lean production
+               control and labour intensification teamwork and kaizen:
+               disempowering shop-floor labour the new industrial relations the
+               disciplinary impact of human resource management. Appendix:
+               research methodology.},
+  series    = {Routledge Studies in Employment and Work Relations in Context},
+  url       = {http://dx.doi.org/10.4324/9781315788846}
+}
+
 @BOOK{Fuller2014-ea,
   title     = {Contemporary Apprenticeship: International Perspectives on an
                Evolving Model of Learning},
