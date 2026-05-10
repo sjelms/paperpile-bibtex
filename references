@@ -45236,6 +45236,16 @@
                   Git;llm-wiki-workflow;Research Methods;QDA}
 }
 
+@BOOK{van-der-Veer1994-fv,
+  title     = {The Vygotsky Reader},
+  editor    = {van der Veer, Rene and Valsiner, Jaan},
+  publisher = {Blackwell},
+  location  = {London, England},
+  date      = {1994-04-21},
+  pagetotal = {352},
+  isbn      = {9780631188964}
+}
+
 @INPROCEEDINGS{du-Boulay2008-fn,
   title    = {Motivationally Intelligent Systems: Three Questions},
   author   = {du Boulay, Benedict and Rebolledo-Méndez, Genaro and Luckin,
