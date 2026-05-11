@@ -38784,6 +38784,15 @@
   language    = {en}
 }
 
+@BOOK{Marmot2016-bk,
+  title     = {The health gap},
+  author    = {Marmot, Michael},
+  publisher = {Bloomsbury Publishing PLC},
+  date      = {2016-11-01},
+  pagetotal = {400},
+  isbn      = {9781632860804}
+}
+
 @REPORT{Galor2011-hq,
   type      = {resreport},
   title     = {Inequality, human capital formation and the process of
