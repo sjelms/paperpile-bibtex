@@ -202,6 +202,34 @@
   keywords     = {\_BibTex to MD Git;llm-wiki-workflow;Psychology}
 }
 
+@ARTICLE{RA1/4cker2017-rk,
+  title        = {How can an understanding of learning theories be used in the
+                  design of training? A critical evaluation},
+  author       = {RÃ¼cker, Marius Sebastian},
+  journaltitle = {Journal of Human Resource Management},
+  volume       = {20},
+  issue        = {2},
+  pages        = {63--70},
+  date         = {2017},
+  doi          = {None},
+  abstract     = {Due to an increase in technological complexity, corporations
+                  have realised the value of developing employees through
+                  corporate training. One aspect that defines how efficient and
+                  effective corporations can conduct training is the
+                  employeeâ€™s capacity to learn. Therefore, this research paper
+                  examines the link between corporate training and
+                  organisational learning by evaluating learning theories from
+                  the paradigm areas behaviourism, cognitivism, and
+                  constructivism in regards to their utilization in terms of
+                  training design. This evaluation has led to the conclusion
+                  that an understanding of learning theories in the design of
+                  training is essential and even valuable in different stages of
+                  training.},
+  url          = {http://dx.doi.org/None},
+  keywords     = {learning; learning theories; corporate learning; training;
+                  corporate training}
+}
+
 @REPORT{Ministry-of-Housing-Communities-and-Local-Government2025-bf,
   type        = {resreport},
   title       = {National Planning Policy Framework: Plan-Making and National
