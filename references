@@ -1311,6 +1311,14 @@
   language     = {en}
 }
 
+@ONLINE{Heng2022-hv,
+  title   = {Data Learning {II} – Regression},
+  author  = {Heng, Peng},
+  date    = {2022-11-14},
+  url     = {https://www.math.hkbu.edu.hk/~hpeng/GFQR1307/Lecture_Note6_2.html},
+  urldate = {2026-05-11}
+}
+
 @BOOK{Klein2020-xn,
   title     = {Why We're Polarized},
   author    = {Klein, Ezra},
