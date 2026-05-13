@@ -20799,6 +20799,7 @@
                   such training within time a…},
   url          = {http://dx.doi.org/10.1016/j.ssci.2025.106870},
   urldate      = {2026-05-13},
+  keywords     = {AEC;Training;VET;Knowledge - Skill Acquisition},
   language     = {en}
 }
 
@@ -20820,6 +20821,7 @@
                   management, safety training often falls …},
   url          = {http://dx.doi.org/10.1016/j.ssci.2024.106769},
   urldate      = {2026-05-13},
+  keywords     = {AEC;Training;VET;Knowledge - Skill Acquisition},
   language     = {en}
 }
 
@@ -30377,6 +30379,7 @@
                   provides an aggregated view of the field’s emergence and
                   unique information about the studied companies’ development.},
   url          = {http://dx.doi.org/10.1108/ci-06-2014-0032},
+  keywords     = {AEC;Training;VET;Knowledge - Skill Acquisition},
   language     = {en}
 }
 
@@ -44416,7 +44419,8 @@
                 other countries because of recent leadership changes within its
                 vocational education system present a cautionary signal
                 regarding future stability and progress.},
-  url        = {http://dx.doi.org/10.65388/tmif5530}
+  url        = {http://dx.doi.org/10.65388/tmif5530},
+  keywords   = {AEC;Training;VET;Knowledge - Skill Acquisition}
 }
 
 @ARTICLE{Bader2025-xa,
@@ -44460,6 +44464,7 @@
                   effectiveness of VR in construction through basing future
                   models on a concrete pedagogical basis.},
   url          = {http://dx.doi.org/10.1061/jceecd.eieng-2065},
+  keywords     = {AEC;Training;VET;Knowledge - Skill Acquisition},
   language     = {en}
 }
 
