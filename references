@@ -344,6 +344,21 @@
   language     = {en}
 }
 
+@ARTICLE{Bader2025-xa,
+  title        = {Utilization of adult learning theories for effective virtual
+                  reality safety training in construction},
+  author       = {Bader, Sahar and Abotaleb, Ibrahim and Hosny, Ossama},
+  journaltitle = {Journal of Civil Engineering Education},
+  publisher    = {American Society of Civil Engineers (ASCE)},
+  volume       = {151},
+  issue        = {3},
+  date         = {2025-07},
+  doi          = {10.1061/jceecd.eieng-2065},
+  issn         = {2643-9107,2643-9115},
+  url          = {http://dx.doi.org/10.1061/jceecd.eieng-2065},
+  language     = {en}
+}
+
 @BOOK{Merton1968-ny,
   title     = {Social Theory and Social Structure},
   author    = {Merton, Robert King},
