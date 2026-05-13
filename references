@@ -20781,6 +20781,27 @@
   language  = {en}
 }
 
+@ARTICLE{Rasouli2025-kf,
+  title        = {Reconstructing construction safety Training: A systematic
+                  review based on learning theories and instructional design
+                  principles},
+  author       = {Rasouli, Mahdi and Karimi, Hossein and Hatami, Javad},
+  journaltitle = {Safety Science},
+  publisher    = {Elsevier BV},
+  volume       = {184},
+  issue        = {106769},
+  pages        = {106769},
+  date         = {2025-04-01},
+  doi          = {10.1016/j.ssci.2024.106769},
+  issn         = {0925-7535,1879-1042},
+  abstract     = {The construction industry faces a high rate of safety
+                  accidents. Despite being a critical component of safety
+                  management, safety training often falls …},
+  url          = {http://dx.doi.org/10.1016/j.ssci.2024.106769},
+  urldate      = {2026-05-13},
+  language     = {en}
+}
+
 @ONLINE{Savage2020-ll,
   title     = {How To Build in 2030},
   author    = {Savage, Adam},
