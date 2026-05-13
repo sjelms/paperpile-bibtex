@@ -20781,6 +20781,27 @@
   language  = {en}
 }
 
+@ARTICLE{Raeisinafchi2025-eo,
+  title        = {Comparing training delivery methods: Impact on learning
+                  outcomes and engagement among construction workers},
+  author       = {Raeisinafchi, Roya and Bhandari, Siddharth and Perry, Logan
+                  and Hallowell, Matthew R and Albert, Alex and Correll, Josh},
+  journaltitle = {Safety Science},
+  publisher    = {Elsevier BV},
+  volume       = {187},
+  issue        = {106870},
+  pages        = {106870},
+  date         = {2025-07-01},
+  doi          = {10.1016/j.ssci.2025.106870},
+  issn         = {0925-7535,1879-1042},
+  abstract     = {Effective safety training is crucial for enhancing workers’
+                  safety awareness and promoting safer behaviors, yet delivering
+                  such training within time a…},
+  url          = {http://dx.doi.org/10.1016/j.ssci.2025.106870},
+  urldate      = {2026-05-13},
+  language     = {en}
+}
+
 @ARTICLE{Rasouli2025-kf,
   title        = {Reconstructing construction safety Training: A systematic
                   review based on learning theories and instructional design
