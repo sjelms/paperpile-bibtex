@@ -11067,6 +11067,24 @@
   language     = {en}
 }
 
+@ONLINE{Unknown2019-zu,
+  title     = {Critiquing workplace learning discourses: participation and
+               continuity at work},
+  booktitle = {infed.org},
+  date      = {2019-06-15},
+  abstract  = {Stephen Billett critiques some assumptions shaping current
+               discourses on workplace learning and proposes that these
+               assumptions restrict how workplace learning is conceptualised and
+               discussed. In particular, he focus on how describing workplace
+               learning environments and experiences as ‘informal’ and that
+               ‘informal learning’ occurs in workplaces constrains understanding
+               about how learning occurs through work and, consequently, ...
+               Read more},
+  url       = {https://infed.org/dir/welcome/critiquing-workplace-learning-discourses-participation-and-continuity-at-work/},
+  urldate   = {2026-05-14},
+  language  = {en}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
