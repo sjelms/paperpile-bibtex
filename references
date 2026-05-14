@@ -10695,6 +10695,46 @@
   language     = {en}
 }
 
+@ARTICLE{Nielsen2023-gp,
+  title        = {A mixed methods study of the training transfer and outcomes of
+                  safety training for low-skilled workers in construction},
+  author       = {Nielsen, Karina and Ng, Kara and Vignoli, Michela and Lorente,
+                  Laura and Peiró, José María},
+  journaltitle = {Work and Stress},
+  publisher    = {Informa UK Limited},
+  volume       = {37},
+  issue        = {2},
+  pages        = {127--147},
+  date         = {2023-04-03},
+  doi          = {10.1080/02678373.2022.2086646},
+  issn         = {0267-8373,1464-5335},
+  abstract     = {Safety training, especially when based on the active
+                  participation of trainees and aiming for transfer of learning
+                  into the workplace, is an important tool to prevent accidents
+                  and promote occupational safety, and may be particularly
+                  powerful among vulnerable groups, such as migrant workers. The
+                  present study, employing a mixed methods, before-and-after
+                  study design, evaluated a training programme aimed at
+                  promoting the learning and transfer of technical and
+                  non-technical safety skills to the construction site among
+                  migrant and native workers. We explored outcomes at four
+                  levels and found: (a) trainees’ positive reactions to the
+                  training itself; (b) improvements in technical safety skills,
+                  but the non-technical skills reduced significantly; (c)
+                  application of these skills in the workplace; and (d) changes
+                  in site safety climate and assertiveness. Results showed that
+                  trained workers found the training easy to translate into the
+                  workplace and that peers and supervisors were supportive of
+                  training transfer. Our study has important implications for
+                  how to evaluate safety training of migrant workers and how the
+                  context may facilitate training outcomes, e.g. ensuring that
+                  peers and supervisors encourage trained workers to transfer
+                  their learned skills and knowledge.},
+  url          = {http://dx.doi.org/10.1080/02678373.2022.2086646},
+  urldate      = {2026-05-14},
+  language     = {en}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
