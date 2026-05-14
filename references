@@ -55006,8 +55006,9 @@
                   Tutoring Systems (ITS)}
 }
 
-@INBOOK{Lewis2021-zy,
+@INBOOK{Turing2021-xa,
   title     = {Computing Machinery and Intelligence},
+  author    = {Turing, Alan Mathison},
   editor    = {Lewis, Harry R},
   booktitle = {Ideas That Created the Future: Classic Papers of Computer Science},
   publisher = {The MIT Press},
