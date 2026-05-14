@@ -11414,7 +11414,8 @@
                   management, safety training often falls …},
   url          = {http://dx.doi.org/10.1016/j.ssci.2024.106769},
   urldate      = {2026-05-13},
-  keywords     = {AEC;Training;VET;Knowledge - Skill Acquisition},
+  keywords     = {AEC\_learning\_theory\_2021-26;AEC;Training;VET;Knowledge -
+                  Skill Acquisition},
   language     = {en}
 }
 
@@ -11436,7 +11437,8 @@
                   such training within time a…},
   url          = {http://dx.doi.org/10.1016/j.ssci.2025.106870},
   urldate      = {2026-05-13},
-  keywords     = {AEC;Training;VET;Knowledge - Skill Acquisition},
+  keywords     = {AEC\_learning\_theory\_2021-26;AEC;Training;VET;Knowledge -
+                  Skill Acquisition},
   language     = {en}
 }
 
@@ -15638,7 +15640,8 @@
                   effectiveness of VR in construction through basing future
                   models on a concrete pedagogical basis.},
   url          = {http://dx.doi.org/10.1061/jceecd.eieng-2065},
-  keywords     = {AEC;Training;VET;Knowledge - Skill Acquisition},
+  keywords     = {AEC\_learning\_theory\_2021-26;AEC;Training;VET;Knowledge -
+                  Skill Acquisition},
   language     = {en}
 }
 
@@ -20404,7 +20407,8 @@
                   provides an aggregated view of the field’s emergence and
                   unique information about the studied companies’ development.},
   url          = {http://dx.doi.org/10.1108/ci-06-2014-0032},
-  keywords     = {AEC;Training;VET;Knowledge - Skill Acquisition},
+  keywords     = {AEC\_learning\_theory\_2021-26;AEC;Training;VET;Knowledge -
+                  Skill Acquisition},
   language     = {en}
 }
 
@@ -23087,8 +23091,8 @@
                   guiding principles and then shows how these could be applied
                   to three case studies relating to the "real world."},
   url          = {http://dx.doi.org/10.1136/bmj.326.7382.213},
-  keywords     = {\_BibTex to MD Git;Knowledge - Skill Acquisition;Workplace
-                  Learning},
+  keywords     = {\_BibTex to MD Git;AEC\_learning\_theory\_2021-26;Knowledge -
+                  Skill Acquisition;Workplace Learning},
   language     = {en}
 }
 
@@ -35171,7 +35175,8 @@
                 vocational education system present a cautionary signal
                 regarding future stability and progress.},
   url        = {http://dx.doi.org/10.65388/tmif5530},
-  keywords   = {AEC;Training;VET;Knowledge - Skill Acquisition}
+  keywords   = {AEC\_learning\_theory\_2021-26;AEC;Training;VET;Knowledge -
+                Skill Acquisition}
 }
 
 @ARTICLE{Mishina1999-sb,
@@ -39631,7 +39636,8 @@
                abilities, from basic recall of facts to the synthesis of new
                ideas. By using Bloom's Taxonomy, educators can foster a more
                engaging and effective learning environment that prepares
-               students for complex problem-solving and critical thinking tasks.}
+               students for complex problem-solving and critical thinking tasks.},
+  keywords  = {AEC\_learning\_theory\_2021-26}
 }
 
 @ARTICLE{Bertram2019-rb,
@@ -46636,8 +46642,8 @@
                   training is essential and even valuable in different stages of
                   training.},
   url          = {https://ideas.repec.org/a/cub/journl/v20y2017i2p63-70.html},
-  keywords     = {\_BibTex to MD Git;Workplace Learning;VET;Knowledge - Skill
-                  Acquisition}
+  keywords     = {\_BibTex to MD Git;AEC\_learning\_theory\_2021-26;Workplace
+                  Learning;VET;Knowledge - Skill Acquisition}
 }
 
 @BOOK{Goldin2009-sl,
