@@ -16305,34 +16305,6 @@
   keywords     = {AIEd [CCME0123];Journal Articles;Course Assignment}
 }
 
-@ARTICLE{Turing1950-ky,
-  title        = {Computing Machinery and Intelligence},
-  author       = {Turing, Alan Mathison},
-  journaltitle = {MIND; A Quarterly Review of Psychology and Philosophy},
-  volume       = {LIX},
-  issue        = {236},
-  pages        = {433--460},
-  date         = {1950-10-01},
-  doi          = {10.1093/mind/LIX.236.433},
-  issn         = {0026-4423,1460-2113},
-  abstract     = {The paper, published in 1950 in Mind, was the first to
-                  introduce his concept of what is now known as the Turing test
-                  to the general public. Turing's paper considers the question
-                  "Can machines think?" Turing says that since the words "think"
-                  and "machine" cannot clearly be defined, we should "replace
-                  the question by another, which is closely related to it and is
-                  expressed in relatively unambiguous words.” To achieve this
-                  objective, Turing proposes a three-step approach. First, he
-                  identifies a simple and unambiguous concept to substitute for
-                  the term "think." Second, he delineates the specific
-                  "machines" under consideration. Third, armed with these tools,
-                  he poses a new question related to the first, which he
-                  believes he can answer in the affirmative.},
-  url          = {http://dx.doi.org/10.1093/mind/LIX.236.433},
-  keywords     = {AIEd [CCME0123];Journal Articles;Course
-                  Assignment;AIEd;Artificial Intelligence (AI)}
-}
-
 @ARTICLE{Hand2006-bu,
   title        = {Classifier Technology and the Illusion of Progress},
   author       = {Hand, David J},
@@ -26711,6 +26683,34 @@
   keywords  = {Notion Catalogued;2\_Upgrade MAY 2023;Journal Articles;\_BibTex
                to MD Git;003\_Theoretical Framework;\_Cataloged;Reader\_Obsidian},
   language  = {en}
+}
+
+@ARTICLE{Turing1950-ky,
+  title        = {Computing Machinery and Intelligence},
+  author       = {Turing, Alan Mathison},
+  journaltitle = {MIND; A Quarterly Review of Psychology and Philosophy},
+  volume       = {LIX},
+  issue        = {236},
+  pages        = {433--460},
+  date         = {1950-10-01},
+  doi          = {10.1093/mind/LIX.236.433},
+  issn         = {0026-4423,1460-2113},
+  abstract     = {The paper, published in 1950 in Mind, was the first to
+                  introduce his concept of what is now known as the Turing test
+                  to the general public. Turing's paper considers the question
+                  "Can machines think?" Turing says that since the words "think"
+                  and "machine" cannot clearly be defined, we should "replace
+                  the question by another, which is closely related to it and is
+                  expressed in relatively unambiguous words.” To achieve this
+                  objective, Turing proposes a three-step approach. First, he
+                  identifies a simple and unambiguous concept to substitute for
+                  the term "think." Second, he delineates the specific
+                  "machines" under consideration. Third, armed with these tools,
+                  he poses a new question related to the first, which he
+                  believes he can answer in the affirmative.},
+  url          = {http://dx.doi.org/10.1093/mind/LIX.236.433},
+  keywords     = {AIEd [CCME0123];Journal Articles;\_BibTex to MD Git;Course
+                  Assignment;AIEd;Artificial Intelligence (AI)}
 }
 
 @INPROCEEDINGS{Steinicke2014-vp,
