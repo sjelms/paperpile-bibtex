@@ -10935,6 +10935,59 @@
   language     = {en}
 }
 
+@BOOK{Koppes2014-tw,
+  title     = {Historical perspectives in industrial and organizational
+               psychology},
+  editor    = {Koppes, Laura L},
+  publisher = {Psychology Press},
+  location  = {London, England},
+  date      = {2014-02-04},
+  pagetotal = {560},
+  doi       = {10.4324/9781315820972},
+  isbn      = {9781317824480,9781317824480},
+  abstract  = {Contents: E.A. Fleishman, J.N. Cleveland, Series Foreword. L.L.
+               Koppes, Preface. Part I: The Beginning. L.L. Koppes, W. Pickren,
+               Industrial and Organizational Psychology: An Evolving Science and
+               Practice. A.J. Vinchur, L.L. Koppes, Early Contributors to the
+               Science and Practice of Industrial Psychology. Part II:
+               Historical Overviews. M.J. Zickar, R.E. Gibby, Four Persistent
+               Themes Throughout the History of I-O Psychology in the United
+               States. P. Warr, Some Historical Developments in I-O Psychology
+               Outside the United States. Part III: Educational, Organizational,
+               and Military Influences. R.L. Lowman, J. Kantor, R. Perloff, A
+               History of I-O Psychology Educational Programs in the United
+               States. H.H. Meyer, Influence of Formal and Informal
+               Organizations on the Development of I-O Psychology. E. Salas,
+               R.E. DeRouin, P.A. Gade, The Military's Contribution to Our
+               Science and Practice: People, Places, and Findings. Part IV:
+               Early Topics. A.J. Vinchur, A History of Psychology Applied to
+               Employee Selection. M.A. Wilson, A History of Job Analysis. S.C.
+               Lane, A Historical View of Human Factors in the United States.
+               D.W. Schumann, E. Davidson, Early Influences of Applied
+               Psychologists on Consumer Response: 1895-1925. K. Kraiger, J.K.
+               Ford, The Expanding Role of Workplace Training: Themes and Trends
+               Influencing Training Research and Practice. J.L. Farr, P.E. Levy,
+               Performance Appraisal. Part V: Later Topics. S. Highhouse,
+               Applications of Organizational Psychology: Learning Through
+               Failure or Failure to Learn? G.P. Latham, M-H. Budworth, The
+               Study of Work Motivation in the 20th Century. D.V. Day, S.J.
+               Zaccaro, Leadership: A Critical Historical Analysis of the
+               Influence of Leader Traits.E.Salas, H.A.Priest,
+               K.C.Stagl,D.E.Sims, C.S.Burke, Work Teams in Organizations: A
+               Historical Reflection and Lessons Learned Part VI:Reflections and
+               Future. J.P Campbell Profiting from History. Part VII:Appendix
+               Appendix One: Some Historical Resources for Psychology and I-O
+               Psychology Appendix Two: Timeline of Events and Developments in
+               Industrial and Organizational Psychology in the United States.
+               Appendix Three: Additional Information (Presidents of the
+               International Association of Applied Psychology (IAAP)Editors of
+               the Journal of Applied Psychology (1917-2008), Heads of Personnel
+               Research at the U.S Office of Personnel Managment (OPM) and its
+               predecessor, The U.S. Civil Service Commision (USCSC) Editor},
+  series    = {Applied Psychology Series},
+  url       = {http://dx.doi.org/10.4324/9781315820972}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
