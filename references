@@ -10695,7 +10695,7 @@
   language     = {en}
 }
 
-@ARTICLE{Nielsen2023-gp,
+@ARTICLE{Nielsen2022-sr,
   title        = {A mixed methods study of the training transfer and outcomes of
                   safety training for low-skilled workers in construction},
   author       = {Nielsen, Karina and Ng, Kara and Vignoli, Michela and Lorente,
@@ -10705,7 +10705,7 @@
   volume       = {37},
   issue        = {2},
   pages        = {127--147},
-  date         = {2023-04-03},
+  date         = {2022-06-23},
   doi          = {10.1080/02678373.2022.2086646},
   issn         = {0267-8373,1464-5335},
   abstract     = {Safety training, especially when based on the active
@@ -10730,8 +10730,7 @@
                   context may facilitate training outcomes, e.g. ensuring that
                   peers and supervisors encourage trained workers to transfer
                   their learned skills and knowledge.},
-  url          = {http://dx.doi.org/10.1080/02678373.2022.2086646},
-  urldate      = {2026-05-14},
+  url          = {https://www.tandfonline.com/doi/abs/10.1080/02678373.2022.2086646},
   keywords     = {AEC\_learning\_theory\_2021-26;Training;AEC},
   language     = {en}
 }
