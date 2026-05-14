@@ -10971,9 +10971,11 @@
   language     = {en}
 }
 
-@INBOOK{Unknown2014-ok,
+@INBOOK{Kraiger2014-jy,
   title     = {The expanding role of workplace training: Themes and trends
                influencing training research and practice},
+  author    = {Kraiger, Kurt and Ford, J Kevin},
+  editor    = {Koppes, Laura L},
   booktitle = {Historical Perspectives in Industrial and Organizational
                Psychology},
   publisher = {Psychology Press},
@@ -11000,7 +11002,7 @@
                developed systematic processes for conducting pretraining needs
                analysis and posttraining evaluation of training as well as
                advanced new methods for training design and delivery.},
-  url       = {http://dx.doi.org/10.4324/9781315820972-24},
+  url       = {https://www.taylorfrancis.com/chapters/edit/10.4324/9781315820972-24/expanding-role-workplace-training-themes-trends-influencing-training-research-practice},
   urldate   = {2026-05-14}
 }
 
