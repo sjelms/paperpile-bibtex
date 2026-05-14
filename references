@@ -54800,6 +54800,7 @@
                   for future training and development research. (PsycINFO
                   Database Record},
   url          = {http://dx.doi.org/10.1037/apl0000142},
+  keywords     = {Training;Psychology},
   language     = {en}
 }
 
@@ -54880,7 +54881,37 @@
                   behavior modification techniques, adopting the PI model, and
                   focusing training evaluation on measuring behavioral outcomes
                   and differential effects of competing training strategies.<br>},
+  keywords     = {Training;Psychology},
   language     = {en}
+}
+
+@BOOK{Koppes2007-et,
+  title     = {Historical perspectives in industrial and organizational
+               psychology},
+  editor    = {Koppes, Laura L},
+  publisher = {Psychology Press},
+  location  = {London, England},
+  edition   = {1},
+  date      = {2007},
+  pagetotal = {560},
+  doi       = {10.4324/9781315820972},
+  isbn      = {9781317824480,9781317824480},
+  abstract  = {This unique book is the first to contain a comprehensive history
+               of industrial and organizational psychology, covering numerous
+               topics in the discipline. The history presented offers various
+               perspectives, including the contributions of individuals,
+               organizations, and contextual or situational forces, as well as
+               an international viewpoint. The authors, all highly regarded
+               experts in their respective topics, use a range of approaches to
+               examine history, demonstrating to readers that there are multiple
+               ways to understand history. This volume will be of interest to
+               industrial and organizational psychologists, business and
+               management academics and professionals, historians of psychology,
+               business, science and science and technology, undergraduate, and
+               graduate students.},
+  series    = {Applied Psychology Series},
+  url       = {http://dx.doi.org/10.4324/9781315820972},
+  keywords  = {EPubs Books;ePub;RNIB;Psychology;Training}
 }
 
 @ARTICLE{Wagner1987-jz,
@@ -54914,34 +54945,6 @@
                   replicated and extended these results to the domain of
                   business management.},
   url          = {http://dx.doi.org/10.1037/0022-3514.52.6.1236},
+  keywords     = {Training;Psychology},
   language     = {en}
-}
-
-@BOOK{Koppes2007-et,
-  title     = {Historical perspectives in industrial and organizational
-               psychology},
-  editor    = {Koppes, Laura L},
-  publisher = {Psychology Press},
-  location  = {London, England},
-  edition   = {1},
-  date      = {2007},
-  pagetotal = {560},
-  doi       = {10.4324/9781315820972},
-  isbn      = {9781317824480,9781317824480},
-  abstract  = {This unique book is the first to contain a comprehensive history
-               of industrial and organizational psychology, covering numerous
-               topics in the discipline. The history presented offers various
-               perspectives, including the contributions of individuals,
-               organizations, and contextual or situational forces, as well as
-               an international viewpoint. The authors, all highly regarded
-               experts in their respective topics, use a range of approaches to
-               examine history, demonstrating to readers that there are multiple
-               ways to understand history. This volume will be of interest to
-               industrial and organizational psychologists, business and
-               management academics and professionals, historians of psychology,
-               business, science and science and technology, undergraduate, and
-               graduate students.},
-  series    = {Applied Psychology Series},
-  url       = {http://dx.doi.org/10.4324/9781315820972},
-  keywords  = {EPubs Books;ePub;RNIB;Psychology}
 }
