@@ -54705,3 +54705,22 @@
   keywords     = {AEC\_learning\_theory\_2021-26;\_BibTex to MD Git;Training;AEC},
   language     = {en}
 }
+
+@ARTICLE{Vignoli2021-tg,
+  title        = {Design of a safety training package for migrant workers in the
+                  construction industry},
+  author       = {Vignoli, Michela and Nielsen, Karina and Guglielmi, Dina and
+                  Mariani, Marco Giovanni and Patras, Luminita and Peirò, Jose
+                  Maria},
+  journaltitle = {Safety Science},
+  publisher    = {Elsevier BV},
+  volume       = {136},
+  issue        = {105124},
+  pages        = {105124},
+  date         = {2021-04},
+  doi          = {10.1016/j.ssci.2020.105124},
+  issn         = {0925-7535,1879-1042},
+  url          = {http://dx.doi.org/10.1016/j.ssci.2020.105124},
+  keywords     = {AEC\_learning\_theory\_2021-26},
+  language     = {en}
+}
