@@ -330,7 +330,8 @@
   url          = {http://dx.doi.org/10.1016/j.ssci.2024.106769},
   urldate      = {2026-05-13},
   keywords     = {AEC\_learning\_theory\_2021-26;\_BibTex to MD
-                  Git;AEC;Training;VET;Knowledge - Skill Acquisition},
+                  Git;AEC;Training;VET;Knowledge - Skill Acquisition;Systematic
+                  Review},
   language     = {en}
 }
 
@@ -2526,7 +2527,8 @@
   url          = {http://dx.doi.org/10.1109/access.2025.3626473},
   keywords     = {Intelligent Tutoring Systems (ITS);BSSC Seed Fund for AI
                   Research;\_BibTex to MD Git;llm-wiki-workflow;AIEd;Artificial
-                  Intelligence (AI);Intelligent Tutoring Systems (ITS)}
+                  Intelligence (AI);Intelligent Tutoring Systems
+                  (ITS);Systematic Review}
 }
 
 @ARTICLE{Darlow2022-gi,
@@ -2813,7 +2815,8 @@
                   CLT in low-rise buildings may be boosted by the possibility of
                   large-scale production of industrialized houses.},
   url          = {http://dx.doi.org/10.3390/f14020264},
-  keywords     = {Construction 4-0;\_BibTex to MD Git;llm-wiki-workflow;AEC},
+  keywords     = {Construction 4-0;\_BibTex to MD
+                  Git;llm-wiki-workflow;AEC;Systematic Review},
   language     = {en}
 }
 
@@ -3750,7 +3753,7 @@
                   industry can be reflected.},
   url          = {http://dx.doi.org/10.1108/sasbe-06-2024-0224},
   keywords     = {Construction 4-0;BSSC Seed Fund for AI Research;\_BibTex to MD
-                  Git;llm-wiki-workflow;Essential},
+                  Git;llm-wiki-workflow;Essential;Systematic Review},
   language     = {en}
 }
 
@@ -4726,7 +4729,8 @@
                   succeeding exploration and practice in the field.},
   url          = {http://dx.doi.org/10.1061/(asce)co.1943-7862.0002324},
   keywords     = {JG\_Recommended;\_BibTex to MD
-                  Git;llm-wiki-workflow;AEC;Robots;Artificial Intelligence (AI)},
+                  Git;llm-wiki-workflow;AEC;Robots;Artificial Intelligence
+                  (AI);Systematic Review},
   language     = {en}
 }
 
@@ -8665,7 +8669,7 @@
   url          = {http://dx.doi.org/10.1038/s42256-020-00287-7},
   keywords     = {Intelligent Tutoring Systems (ITS);BSSC Seed Fund for AI
                   Research;Artificial Intelligence (AI);Intelligent Tutoring
-                  Systems (ITS)},
+                  Systems (ITS);Systematic Review},
   language     = {en}
 }
 
@@ -11197,7 +11201,7 @@
                   refined beforehand for ideal support of the LLMs.},
   url          = {http://dx.doi.org/10.1073/pnas.2411962122},
   keywords     = {large language models; literature screening; systematic
-                  reviews;BSSC Seed Fund for AI Research},
+                  reviews;BSSC Seed Fund for AI Research;Systematic Review},
   language     = {en}
 }
 
@@ -13250,7 +13254,7 @@
                   (ITS);Frontiers [2022];EPubs Books;2\_Upgrade MAY 2023;Journal
                   Articles;\_BibTex to MD Git;BSSC Seed Fund for AI
                   Research;llm-wiki-workflow;Intelligent Tutoring Systems
-                  (ITS);ePub;\_Mark Up;DONE}
+                  (ITS);ePub;\_Mark Up;DONE;Systematic Review}
 }
 
 @PHDTHESIS{Buchner2019-pu,
@@ -16953,7 +16957,7 @@
   doi          = {10.18584/iipj.2017.8.2.5},
   issn         = {1916-5781},
   url          = {https://ojs.lib.uwo.ca/index.php/iipj/article/view/7515},
-  keywords     = {RDL [CCME0041];Journal Articles}
+  keywords     = {RDL [CCME0041];Journal Articles;Systematic Review}
 }
 
 @ARTICLE{Morse2002-hb,
@@ -17305,7 +17309,7 @@
   url       = {https://doi.org/10.1145/3392063.3394407},
   urldate   = {2022-07-04},
   keywords  = {child-computer interaction, children, ethics, systematic
-               literature review;RDL [CCME0041]}
+               literature review;RDL [CCME0041];Systematic Review}
 }
 
 @ARTICLE{Knight2014-tb,
@@ -30336,46 +30340,6 @@
                   Literature}
 }
 
-@ARTICLE{Tang2021-ch,
-  title        = {Trends in artificial intelligence-supported e-learning: a
-                  systematic review and co-citation network analysis
-                  ({1998–2019})},
-  author       = {Tang, Kai-Yu and Chang, Ching-Yi and Hwang, Gwo-Jen},
-  journaltitle = {Interactive Learning Environments},
-  publisher    = {Routledge},
-  pages        = {1--19},
-  date         = {2021-01-20},
-  doi          = {10.1080/10494820.2021.1875001},
-  issn         = {1049-4820},
-  abstract     = {ABSTRACTArtificial intelligence (AI) has been widely explored
-                  across the world over the past decades. A particularly
-                  emerging topic is the application of AI in e-learning (AIeL)
-                  to improve the effectiveness of teaching and learning in
-                  precision education. This study aims to systematically review
-                  publication patterns for AIeL research with a focus on leading
-                  journals, countries, disciplines, and applications. In
-                  addition, a co-citation network analysis was conducted to
-                  explore the invisible relationships among the core papers of
-                  AIeL to reveal directions for future research. The analysis is
-                  based on a total of 86 core AIeL papers accompanied by 1149
-                  citations in follow-up studies obtained from the Web of
-                  Science. It was found that a majority of AIeL studies focused
-                  on the development and applications of intelligent tutoring
-                  systems, followed by using AI to facilitate assessment and
-                  evaluation in e-learning contexts. For field researchers, the
-                  visualized network diagram serves as a map to explore the
-                  invisible relationships among the core AIeL research,
-                  providing a structural understanding of AI-supported research
-                  in e-learning contexts. A further investigation of the
-                  follow-up studies behind the highly co-cited links revealed
-                  the extended research directions from the AIeL mainstreams,
-                  such as adaptive learning-based evaluation environments.
-                  Implications are discussed.},
-  url          = {https://doi.org/10.1080/10494820.2021.1875001},
-  keywords     = {Journal Articles;Intelligent Tutoring Systems (ITS);\_New
-                  Literature}
-}
-
 @INPROCEEDINGS{Risley2013-xz,
   title     = {Andragogical Methods Applied to Adult Learning Environments:
                Adult Education for Adult Learners in and out of the Traditional
@@ -33293,7 +33257,7 @@
   keywords     = {Augmented reality; Systematic review; Educational
                   technology;AACE UNC Call for Papers;Notion Catalogued;Journal
                   Articles;\_BibTex to MD Git;llm-wiki-workflow;\_XR MR VR
-                  AR;\_Mark Up;\_Cataloged}
+                  AR;\_Mark Up;\_Cataloged;Systematic Review}
 }
 
 @INPROCEEDINGS{Chen2017-sr,
@@ -38793,7 +38757,7 @@
   url          = {http://dx.doi.org/10.1007/s10055-020-00434-w},
   keywords     = {Multimedia [read];ACM\_Association for Computing
                   Machinery;Journal Articles;\_XR MR VR AR;\_New
-                  Literature;Research Methods;Multimedia;ACM},
+                  Literature;Research Methods;Multimedia;ACM;Systematic Review},
   language     = {en}
 }
 
@@ -41624,7 +41588,7 @@
   keywords     = {Construction 4-0;2\_Upgrade MAY 2023;00\_TO READ;Journal
                   Articles;AEC Cited Lit for Jacqui;\_BibTex to MD
                   Git;llm-wiki-workflow;\_In Notion;\_In
-                  Readwise;AEC;Important;\_New Literature},
+                  Readwise;AEC;Important;\_New Literature;Systematic Review},
   language     = {en}
 }
 
@@ -45832,7 +45796,7 @@
   url          = {https://www.sciencedirect.com/science/article/pii/S0278612520301175},
   keywords     = {Virtual reality; Maintenance; Lifecycle; Industrial products;
                   Industry 4.0;DfMA;\_In Notion;\_In Readwise;AEC;\_New
-                  Literature}
+                  Literature;Systematic Review}
 }
 
 @ARTICLE{Potseluyko2022-xb,
@@ -51880,7 +51844,7 @@
                   CRD42018118040.},
   url          = {https://www.bmj.com/content/384/bmj-2023-075847},
   urldate      = {2024-10-12},
-  keywords     = {Neurodiversity;Psychology},
+  keywords     = {Neurodiversity;Psychology;Systematic Review},
   language     = {en}
 }
 
@@ -54184,7 +54148,8 @@
                   specialized labor to maximize their benefits.},
   url          = {http://dx.doi.org/10.3390/app15052308},
   keywords     = {Construction 4-0;\_BibTex to MD
-                  Git;llm-wiki-workflow;AEC;Automation;Essential;Robots},
+                  Git;llm-wiki-workflow;AEC;Automation;Essential;Robots;Systematic
+                  Review},
   language     = {en}
 }
 
@@ -54784,7 +54749,8 @@
                 structure, with aim to produce the technical graduates that are
                 capable to work in the Industry 4.0 work environment.},
   url        = {http://dx.doi.org/10.15405/epsbs.2018.05.84},
-  keywords   = {VET-TVET;\_BibTex to MD Git;llm-wiki-workflow;VET}
+  keywords   = {VET-TVET;\_BibTex to MD Git;llm-wiki-workflow;VET;Systematic
+                Review}
 }
 
 @PHDTHESIS{Duncheva2019-gn,
@@ -55195,4 +55161,44 @@
               ideas clearly to a reader.},
   url      = {https://www.chronicle.com/article/why-academics-stink-at-writing/},
   keywords = {\_BibTex to MD Git;\_New Literature;PhD Support and Training}
+}
+
+@ARTICLE{Tang2021-ch,
+  title        = {Trends in artificial intelligence-supported e-learning: a
+                  systematic review and co-citation network analysis
+                  ({1998–2019})},
+  author       = {Tang, Kai-Yu and Chang, Ching-Yi and Hwang, Gwo-Jen},
+  journaltitle = {Interactive Learning Environments},
+  publisher    = {Routledge},
+  pages        = {1--19},
+  date         = {2021-01-20},
+  doi          = {10.1080/10494820.2021.1875001},
+  issn         = {1049-4820},
+  abstract     = {ABSTRACTArtificial intelligence (AI) has been widely explored
+                  across the world over the past decades. A particularly
+                  emerging topic is the application of AI in e-learning (AIeL)
+                  to improve the effectiveness of teaching and learning in
+                  precision education. This study aims to systematically review
+                  publication patterns for AIeL research with a focus on leading
+                  journals, countries, disciplines, and applications. In
+                  addition, a co-citation network analysis was conducted to
+                  explore the invisible relationships among the core papers of
+                  AIeL to reveal directions for future research. The analysis is
+                  based on a total of 86 core AIeL papers accompanied by 1149
+                  citations in follow-up studies obtained from the Web of
+                  Science. It was found that a majority of AIeL studies focused
+                  on the development and applications of intelligent tutoring
+                  systems, followed by using AI to facilitate assessment and
+                  evaluation in e-learning contexts. For field researchers, the
+                  visualized network diagram serves as a map to explore the
+                  invisible relationships among the core AIeL research,
+                  providing a structural understanding of AI-supported research
+                  in e-learning contexts. A further investigation of the
+                  follow-up studies behind the highly co-cited links revealed
+                  the extended research directions from the AIeL mainstreams,
+                  such as adaptive learning-based evaluation environments.
+                  Implications are discussed.},
+  url          = {https://doi.org/10.1080/10494820.2021.1875001},
+  keywords     = {Journal Articles;Intelligent Tutoring Systems (ITS);\_New
+                  Literature;Systematic Review}
 }
