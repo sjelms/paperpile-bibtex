@@ -55625,7 +55625,7 @@
   volume       = {43},
   issue        = {4S},
   pages        = {S30--S34},
-  date         = {2023},
+  date         = {2023-10},
   doi          = {10.1097/CEH.0000000000000531},
   pmid         = {38054489},
   issn         = {0894-1912,1554-558X},
@@ -55646,7 +55646,6 @@
                   with the rich scholarship on workplace learning informed by
                   sociocultural concepts of learning and complemented by
                   research on work and workplaces.},
-  url          = {http://dx.doi.org/10.1097/CEH.0000000000000531},
-  urldate      = {2026-05-20},
+  url          = {https://journals.lww.com/10.1097/CEH.0000000000000531},
   language     = {en}
 }
