@@ -6351,8 +6351,8 @@
                Germany because it challenged conventions and was finally closed
                down shortly after the Nazis took power in 1933.},
   url       = {http://dx.doi.org/10.1007/978-3-031-37813-3_7},
-  keywords  = {Connected Learning\_Schoenenberger;AEC;Knowledge - Skill
-               Acquisition;Book (child);RNIB;ePub},
+  keywords  = {Connected Learning\_Schoenenberger;\_BibTex to MD
+               Git;AEC;Knowledge - Skill Acquisition;Book (child);RNIB;ePub},
   language  = {en}
 }
 
@@ -20258,6 +20258,7 @@
                   sociocultural concepts of learning and complemented by
                   research on work and workplaces.},
   url          = {https://journals.lww.com/10.1097/CEH.0000000000000531},
+  keywords     = {\_BibTex to MD Git},
   language     = {en}
 }
 
