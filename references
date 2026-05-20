@@ -55211,34 +55211,6 @@
   language  = {en}
 }
 
-@INBOOK{Bryson2017-fe,
-  title     = {Disciplinary Perspectives on Skill},
-  author    = {Bryson, Jane},
-  editor    = {Warhurst, Chris and Mayhew, Ken and Finegold, David and Buchanan,
-               John},
-  booktitle = {Oxford Handbooks Online},
-  publisher = {Oxford University Press},
-  date      = {2017-03-06},
-  doi       = {10.1093/oxfordhb/9780199655366.013.1},
-  abstract  = {Skill is a ubiquitous term but it is not always commonly
-               understood. This chapter demonstrates that our understanding of
-               skill varies, often as a reflection of our disciplinary
-               interests. Three cross disciplinary lenses are used to examine
-               varying views of skill: its meaning, acquisition, utilisation,
-               recognition, and impact. These lenses: political economy of
-               skill; skill as an organisational resource; and learning theory,
-               enable an exploration of economic, political science, sociology,
-               industrial relations, human resource management, organisation
-               studies, education and psychology perspectives. It is argued that
-               rather than a single or even cross-disciplinary view, multiple
-               perspectives on skill are essential to effective policy
-               development and positive influence on individual and social
-               wellbeing.},
-  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199655366.013.1},
-  keywords  = {Oxford Handbook of Skills and Training;Book
-               (child);ePub;Workplace Learning;VET}
-}
-
 @INBOOK{Martin2017-cv,
   title     = {Skill Builders and the evolution of national vocational training
                systems},
@@ -55272,7 +55244,7 @@
                given a significant role in the creation and oversight of
                training programs.},
   url       = {http://dx.doi.org/10.1093/oxfordhb/9780199655366.013.2},
-  keywords  = {Oxford Handbook of Skills and Training;Book
+  keywords  = {Oxford Handbook of Skills and Training;\_BibTex to MD Git;Book
                (child);ePub;Workplace Learning;VET}
 }
 
@@ -55304,7 +55276,7 @@
                around the globe, the diversity in skill systems is set to
                continue – but in different forms.},
   url       = {http://dx.doi.org/10.1093/oxfordhb/9780199655366.013.33},
-  keywords  = {Oxford Handbook of Skills and Training;Book
+  keywords  = {Oxford Handbook of Skills and Training;\_BibTex to MD Git;Book
                (child);ePub;Workplace Learning;VET}
 }
 
@@ -55334,7 +55306,7 @@
                and workplace context and taking seriously issues of power, job
                complexity and worker autonomy.},
   url       = {http://dx.doi.org/10.1093/oxfordhb/9780199655366.013.3},
-  keywords  = {Oxford Handbook of Skills and Training;Book
+  keywords  = {Oxford Handbook of Skills and Training;\_BibTex to MD Git;Book
                (child);ePub;Workplace Learning;VET}
 }
 
@@ -55368,7 +55340,7 @@
                suggesting ways in which the discrimination arising from this new
                social construction of skill might be addressed.},
   url       = {http://dx.doi.org/10.1093/oxfordhb/9780199655366.013.4},
-  keywords  = {Oxford Handbook of Skills and Training;Book
+  keywords  = {Oxford Handbook of Skills and Training;\_BibTex to MD Git;Book
                (child);ePub;Workplace Learning;VET}
 }
 
@@ -55398,7 +55370,7 @@
                empirical evidence on their validity and reliability, including
                comparisons with other established measures of job skill content.},
   url       = {http://dx.doi.org/10.1093/oxfordhb/9780199655366.013.5},
-  keywords  = {Oxford Handbook of Skills and Training;Book
+  keywords  = {Oxford Handbook of Skills and Training;\_BibTex to MD Git;Book
                (child);ePub;Workplace Learning;VET}
 }
 
@@ -55429,7 +55401,7 @@
                Employability and 21st century skills reinforce the interest in
                developing generic skills in all sectors of education.},
   url       = {http://dx.doi.org/10.1093/oxfordhb/9780199655366.013.6},
-  keywords  = {Oxford Handbook of Skills and Training;Book
+  keywords  = {Oxford Handbook of Skills and Training;\_BibTex to MD Git;Book
                (child);ePub;Workplace Learning;VET}
 }
 
@@ -55538,7 +55510,7 @@
                   word of mouth and did not know if anyone would attend that
                   first night. …},
   url          = {http://dx.doi.org/10.1177/104515950401500305},
-  keywords     = {Education;Knowledge - Skill Acquisition},
+  keywords     = {\_BibTex to MD Git;Education;Knowledge - Skill Acquisition},
   language     = {en}
 }
 
@@ -55571,7 +55543,7 @@
                   application of this complex concept.},
   url          = {http://dx.doi.org/10.1080/00098650903505357},
   urldate      = {2026-05-20},
-  keywords     = {Education;Knowledge - Skill Acquisition},
+  keywords     = {\_BibTex to MD Git;Education;Knowledge - Skill Acquisition},
   language     = {en}
 }
 
@@ -55612,6 +55584,34 @@
                   into the design of curriculum which aim to support learning
                   with generalisable qualities.},
   url          = {http://dx.doi.org/10.1111/jade.12598},
-  keywords     = {AEC;Knowledge - Skill Acquisition},
+  keywords     = {\_BibTex to MD Git;AEC;Knowledge - Skill Acquisition},
   language     = {en}
+}
+
+@INBOOK{Bryson2017-fe,
+  title     = {Disciplinary Perspectives on Skill},
+  author    = {Bryson, Jane},
+  editor    = {Warhurst, Chris and Mayhew, Ken and Finegold, David and Buchanan,
+               John},
+  booktitle = {Oxford Handbooks Online},
+  publisher = {Oxford University Press},
+  date      = {2017-03-06},
+  doi       = {10.1093/oxfordhb/9780199655366.013.1},
+  abstract  = {Skill is a ubiquitous term but it is not always commonly
+               understood. This chapter demonstrates that our understanding of
+               skill varies, often as a reflection of our disciplinary
+               interests. Three cross disciplinary lenses are used to examine
+               varying views of skill: its meaning, acquisition, utilisation,
+               recognition, and impact. These lenses: political economy of
+               skill; skill as an organisational resource; and learning theory,
+               enable an exploration of economic, political science, sociology,
+               industrial relations, human resource management, organisation
+               studies, education and psychology perspectives. It is argued that
+               rather than a single or even cross-disciplinary view, multiple
+               perspectives on skill are essential to effective policy
+               development and positive influence on individual and social
+               wellbeing.},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199655366.013.1},
+  keywords  = {Oxford Handbook of Skills and Training;\_BibTex to MD Git;Book
+               (child);ePub;Workplace Learning;VET}
 }
