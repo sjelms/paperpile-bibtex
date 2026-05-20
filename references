@@ -19851,6 +19851,35 @@
   keywords  = {Oxford Handbook of Skills and Training}
 }
 
+@BOOK{Stanley2017-xe,
+  title     = {Accreditation and assessment in vocational education and training},
+  author    = {Stanley, Gordon},
+  editor    = {Buchanan, John and Finegold, David and Mayhew, Ken and Warhurst,
+               Chris},
+  publisher = {Oxford University Press},
+  date      = {2017-03-06},
+  doi       = {10.1093/oxfordhb/9780199655366.013.6},
+  abstract  = {Vocational education and training has emerged from traditional
+               industry and technical training into a vigorous post-compulsory
+               education sector focused on satisfying the ever-changing demands
+               of today’s employers. This chapter considers issues around the
+               accreditation and regulation of providers and the assessment and
+               certification of outcomes. Quality and comparability of outcomes
+               has been a common concern for regulatory regimes. The front-end
+               emphasis of training assessors and the requirement for workplace
+               assessment contexts is designed to align with employer needs.
+               However there are legitimate concerns about the consistency of
+               judgments. Competency based assessment (CBA) has been the
+               dominant assessment model and contrasts with the traditional
+               assessment approach in general education. However the more recent
+               standards-referenced assessment movement in the latter sector
+               suggests ways in which assessment approaches are converging.
+               Employability and 21st century skills reinforce the interest in
+               developing generic skills in all sectors of education.},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199655366.013.6},
+  keywords  = {Oxford Handbook of Skills and Training}
+}
+
 @ARTICLE{Chetty2026-lo,
   title        = {Diversifying society’s leaders? The determinants and causal
                   effects of admission to highly selective private colleges},
