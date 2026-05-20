@@ -52870,6 +52870,19 @@
   keywords = {AIEd [CCME0123];Course Assignment}
 }
 
+@BOOK{Wood1997-we,
+  title     = {How children think and learn},
+  author    = {Wood, David},
+  publisher = {Blackwell},
+  location  = {London, England},
+  edition   = {2},
+  date      = {1997-12-29},
+  pagetotal = {334},
+  isbn      = {9780631200079},
+  series    = {Understanding Children's Worlds},
+  language  = {en}
+}
+
 @BOOK{Denzin2023-mp,
   title     = {The {SAGE} Handbook of Qualitative Research},
   editor    = {Denzin, Norman K and Lincoln, Yvonna S and Giardina, Michael D
