@@ -11427,6 +11427,21 @@
                (child);ePub;Workplace Learning;VET}
 }
 
+@INBOOK{Schoenenberger2024-cs,
+  title     = {The Bauhaus approach to innovation in learning and creativity},
+  author    = {Schoenenberger, Henning},
+  booktitle = {Connected Learning: Origins, Opportunities, and Perspectives of
+               Contemporary Educational Design},
+  publisher = {Springer Nature Switzerland},
+  location  = {Cham},
+  pages     = {183--212},
+  date      = {2024},
+  doi       = {10.1007/978-3-031-37813-3_7},
+  isbn      = {9783031378126,9783031378133},
+  url       = {http://dx.doi.org/10.1007/978-3-031-37813-3_7},
+  language  = {en}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
