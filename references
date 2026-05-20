@@ -55649,3 +55649,18 @@
   url          = {https://journals.lww.com/10.1097/CEH.0000000000000531},
   language     = {en}
 }
+
+@BOOK{Schoenenberger2024-lq,
+  title     = {Connected learning: Origins, opportunities, and perspectives of
+               contemporary educational design},
+  editor    = {Schoenenberger, Henning},
+  publisher = {Springer International Publishing},
+  location  = {Cham, Switzerland},
+  edition   = {2024},
+  date      = {2024-05-28},
+  pagetotal = {212},
+  doi       = {10.1007/978-3-031-37813-3},
+  isbn      = {9783031378126,9783031378133},
+  url       = {http://dx.doi.org/10.1007/978-3-031-37813-3},
+  language  = {en}
+}
