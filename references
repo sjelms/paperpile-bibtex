@@ -35207,21 +35207,19 @@
   language    = {en}
 }
 
-@ARTICLE{Unknown2026-hf,
-  title        = {Why {AI} cannot do good science without humans},
-  journaltitle = {Nature},
-  publisher    = {Springer Science and Business Media LLC},
-  volume       = {653},
-  issue        = {8115},
-  pages        = {650},
-  date         = {2026-05},
-  doi          = {10.1038/d41586-026-01551-3},
-  pmid         = {42156517},
-  issn         = {0028-0836,1476-4687},
-  url          = {http://dx.doi.org/10.1038/d41586-026-01551-3},
-  keywords     = {Computer science; Machine learning; Research data; Scientific
-                  community},
-  language     = {en}
+@PERIODICAL{Unknown2026-hf,
+  title     = {Why {AI} cannot do good science without humans [Editorial]},
+  publisher = {Springer Nature},
+  location  = {Cham, Switzerland},
+  volume    = {653},
+  issue     = {8115},
+  date      = {2026-05},
+  doi       = {10.1038/d41586-026-01551-3},
+  issn      = {0028-0836,1476-4687},
+  url       = {http://dx.doi.org/10.1038/d41586-026-01551-3},
+  keywords  = {Computer science; Machine learning; Research data; Scientific
+               community},
+  language  = {en}
 }
 
 @REPORT{Goolsbee2023-cp,
