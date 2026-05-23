@@ -275,6 +275,20 @@
   language  = {en}
 }
 
+@ONLINE{Palmer2022-ph,
+  title     = {What’s Next: Innovation in the Construction Industry},
+  author    = {Palmer, Gregory},
+  booktitle = {CURT},
+  date      = {2022-03-14},
+  abstract  = {CURT, the Construction Users Roundtable, is a not-for-profit
+               organization working to produce meaningful changes in the
+               construction industry. Read this post about What’s Next:
+               Innovation in the Construction Industry and learn more.},
+  url       = {https://curt.org/2022/03/14/whats-next-innovation-in-the-construction-industry/},
+  urldate   = {2026-05-23},
+  language  = {en}
+}
+
 @ONLINE{Needles2021-fu,
   title     = {Looking Ahead: Preparing Your Workforce for 2022},
   author    = {Needles, Nicole},
