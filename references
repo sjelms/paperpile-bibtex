@@ -46856,6 +46856,19 @@
                (child)}
 }
 
+@ONLINE{Muro2019-ff,
+  title     = {Automation and {AI} will disrupt the American labor force. Here’s
+               how we can protect workers},
+  author    = {Muro, Mark and Maxim, Robert},
+  booktitle = {Brookings},
+  date      = {2019-02-25},
+  abstract  = {In order to protect workers, policymakers at all levels must step
+               in with new investments to mitigate the impacts of automation.},
+  url       = {https://www.brookings.edu/articles/automation-and-ai-will-disrupt-the-american-labor-force-heres-how-we-can-protect-workers/},
+  urldate   = {2026-05-23},
+  language  = {en}
+}
+
 @BOOK{Yu2020-ot,
   title      = {Green, Pervasive, and Cloud Computing: {15th} International
                 Conference, {GPC} 2020, Xi'an, China, November {13–15}, 2020,
