@@ -230,6 +230,21 @@
                   Learning;VET;Knowledge - Skill Acquisition}
 }
 
+@MISC{Jackson2021-gh,
+  title        = {Apartments Built on an Assembly Line},
+  author       = {Jackson, Candace},
+  journaltitle = {The New York Times},
+  publisher    = {The New York Times},
+  date         = {2021-09-10},
+  issn         = {0362-4331,1553-8095},
+  abstract     = {The pandemic put a general crimp in housing construction, but
+                  made a California factory that churns out prefabricated
+                  housing extra busy.},
+  url          = {https://www.nytimes.com/2021/09/10/realestate/prefabricated-modular-apartments.html},
+  urldate      = {2026-05-23},
+  language     = {en}
+}
+
 @REPORT{Ministry-of-Housing-Communities-and-Local-Government2025-bf,
   type        = {resreport},
   title       = {National Planning Policy Framework: Plan-Making and National
