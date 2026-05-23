@@ -38531,6 +38531,20 @@
                   Engine;AEC}
 }
 
+@REPORT{Maxim2019-gn,
+  type        = {techreport},
+  title       = {Automation and {AI} will disrupt the American labor force.
+                 Here’s how we can protect workers},
+  author      = {Maxim, Robert and Muro, Mark},
+  institution = {The Brookings Institution},
+  date        = {2019-02-25},
+  abstract    = {In order to protect workers, policymakers at all levels must
+                 step in with new investments to mitigate the impacts of
+                 automation.},
+  url         = {https://www.brookings.edu/articles/automation-and-ai-will-disrupt-the-american-labor-force-heres-how-we-can-protect-workers/},
+  language    = {en}
+}
+
 @BOOK{Cottam2025-sr,
   title     = {The Work We Need: A {21st} Century Imagining},
   author    = {Cottam, Hilary},
@@ -46854,19 +46868,6 @@
   urldate   = {2026-05-04},
   keywords  = {Vygotsky and the Social Formation of Mind;\_BibTex to MD Git;Book
                (child)}
-}
-
-@ONLINE{Muro2019-ff,
-  title     = {Automation and {AI} will disrupt the American labor force. Here’s
-               how we can protect workers},
-  author    = {Muro, Mark and Maxim, Robert},
-  booktitle = {Brookings},
-  date      = {2019-02-25},
-  abstract  = {In order to protect workers, policymakers at all levels must step
-               in with new investments to mitigate the impacts of automation.},
-  url       = {https://www.brookings.edu/articles/automation-and-ai-will-disrupt-the-american-labor-force-heres-how-we-can-protect-workers/},
-  urldate   = {2026-05-23},
-  language  = {en}
 }
 
 @BOOK{Yu2020-ot,
