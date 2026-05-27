@@ -11856,7 +11856,7 @@
 @INBOOK{Smith1776-xg,
   title      = {Of the Nature, Accumulation, and Employment of Stock},
   shorttitle = {\textit{The Wealth of Nations}},
-  editor     = {Smith, Adam},
+  author     = {Smith, Adam},
   booktitle  = {\textit{An Inquiry into the Nature and Causes of the Wealth of
                 Nations}},
   volume     = {2},
