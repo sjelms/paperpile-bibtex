@@ -11903,10 +11903,9 @@
 
 @INBOOK{Smith1776-pq,
   title      = {Of the different Progress of Opulence in different Nations},
-  shorttitle = {\textit{The Wealth of Nations}},
+  shorttitle = {The Wealth of Nations},
   author     = {Smith, Adam},
-  booktitle  = {\textit{An Inquiry into the Nature and Causes of the Wealth of
-                Nations}},
+  booktitle  = {An Inquiry into the Nature and Causes of the Wealth of Nations},
   volume     = {3},
   date       = {1776-03-09},
   abstract   = {Adam Smith uses this example to address long-term economic
@@ -11917,8 +11916,7 @@
                 subsistence is required first from the countryside. Industry and
                 trade occur in cities while agriculture occurs in the
                 countryside.},
-  origtitle  = {<i>An Inquiry into the Nature and Causes of the Wealth of
-                Nations</i>},
+  origtitle  = {An Inquiry into the Nature and Causes of the Wealth of Nations},
   volumes    = {3}
 }
 
