@@ -11878,10 +11878,9 @@
 
 @INBOOK{Smith1776-xg,
   title      = {Of the Nature, Accumulation, and Employment of Stock},
-  shorttitle = {\textit{The Wealth of Nations}},
+  shorttitle = {The Wealth of Nations},
   author     = {Smith, Adam},
-  booktitle  = {\textit{An Inquiry into the Nature and Causes of the Wealth of
-                Nations}},
+  booktitle  = {An Inquiry into the Nature and Causes of the Wealth of Nations},
   volume     = {2},
   date       = {1776-03-09},
   abstract   = {When the stock which a man possesses is no more than sufficient
@@ -11898,8 +11897,7 @@
                 begins to come in. His whole stock, therefore, is distinguished
                 into two parts. That part which, he expects, is to afford him
                 this revenue, is called his capital.},
-  origtitle  = {<i>An Inquiry into the Nature and Causes of the Wealth of
-                Nations</i>},
+  origtitle  = {An Inquiry into the Nature and Causes of the Wealth of Nations},
   volumes    = {3}
 }
 
