@@ -11866,15 +11866,17 @@
   volumes    = {3}
 }
 
-@BOOK{Smith1776-pq,
-  title      = {\textit{An Inquiry into the Nature and Causes of the Wealth of
-                Nations}},
+@INBOOK{Smith1776-pq,
+  title      = {Of the different Progress of Opulence in different Nations},
   shorttitle = {\textit{The Wealth of Nations}},
   author     = {Smith, Adam},
-  volume     = {3: Of the different Progress of Opulence in different Nations},
+  booktitle  = {\textit{An Inquiry into the Nature and Causes of the Wealth of
+                Nations}},
+  volume     = {3},
   date       = {1776-03-09},
   origtitle  = {<i>An Inquiry into the Nature and Causes of the Wealth of
-                Nations</i>}
+                Nations</i>},
+  volumes    = {3}
 }
 
 @BOOK{Smith1776-ft,
