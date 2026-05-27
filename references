@@ -44580,7 +44580,8 @@
   volume   = {4-5},
   date     = {1776-03-09},
   isbn     = {9780140436150},
-  series   = {The Wealth of Nations}
+  series   = {The Wealth of Nations},
+  keywords = {\_BibTex to MD Git}
 }
 
 @BOOK{Boughton2022-im,
@@ -56027,5 +56028,6 @@
   date      = {1776-03-09},
   pagetotal = {576},
   isbn      = {9780140432084},
-  series    = {The Wealth of Nations}
+  series    = {The Wealth of Nations},
+  keywords  = {\_BibTex to MD Git}
 }
