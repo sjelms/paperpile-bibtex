@@ -49103,6 +49103,17 @@
   keywords  = {Abundance-Footnotes;\_BibTex to MD Git}
 }
 
+@ONLINE{Loo2023-ex,
+  title     = {{VET} in {FE} – {T} Levels and {BTEC} programmes},
+  author    = {Loo, Sai},
+  booktitle = {FE News},
+  date      = {2023-02-16},
+  abstract  = {VET in FE - T Levels and BTEC programmes | Read more on FE News!},
+  url       = {https://www.fenews.co.uk/resources/vet-in-fe-t-levels-and-btec-programmes/},
+  urldate   = {2026-05-27},
+  language  = {en}
+}
+
 @INBOOK{Sawchuk2013-ip,
   title     = {Introduction},
   author    = {Sawchuk, Peter H},
