@@ -42975,6 +42975,17 @@
                Methods;Columbia University;Book (parent)}
 }
 
+@BOOK{Smith1776-oj,
+  title     = {An Inquiry into the Nature and Causes of the Wealth of Nations},
+  author    = {Smith, Adam},
+  location  = {London, England},
+  volume    = {1-3},
+  date      = {1776-03-09},
+  pagetotal = {576},
+  isbn      = {9780140432084},
+  series    = {The Wealth of Nations}
+}
+
 @BOOK{Deserti2024-xq,
   title     = {Experimenting with the New European Bauhaus Values and Principles
                in Urban Transformation},
@@ -52672,18 +52683,6 @@
                   Catalogued;3\_Upgrade OCT 2023;\_BibTex to MD
                   Git;llm-wiki-workflow;Labor;Cited for
                   Frontiers;\_Cataloged;\_In Readwise;\_Mark Up}
-}
-
-@BOOK{Smith1982-xw,
-  title     = {The wealth of nations},
-  author    = {Smith, Adam},
-  editor    = {Skinner, Andrew},
-  publisher = {Penguin Classics},
-  location  = {London, England},
-  date      = {1982-02-25},
-  pagetotal = {576},
-  isbn      = {9780140432084},
-  series    = {The Wealth of Nations}
 }
 
 @ARTICLE{Traylor2018-hf,
