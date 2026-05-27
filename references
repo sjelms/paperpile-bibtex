@@ -44581,7 +44581,7 @@
   date     = {1776-03-09},
   isbn     = {9780140436150},
   series   = {The Wealth of Nations},
-  keywords = {\_BibTex to MD Git;ePub;RNIB}
+  keywords = {\_BibTex to MD Git;ePub;RNIB;Economics;Labor;Politics and Society}
 }
 
 @BOOK{Boughton2022-im,
@@ -56029,5 +56029,5 @@
   pagetotal = {576},
   isbn      = {9780140432084},
   series    = {The Wealth of Nations},
-  keywords  = {\_BibTex to MD Git;ePub;RNIB}
+  keywords  = {\_BibTex to MD Git;ePub;RNIB;Economics;Labor;Politics and Society}
 }
