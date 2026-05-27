@@ -11853,6 +11853,29 @@
   language  = {en}
 }
 
+@INBOOK{Smith1776-ft,
+  title      = {Of the Causes of Improvement in the productive Powers of Labour},
+  shorttitle = {\textit{The Wealth of Nations}},
+  author     = {Smith, Adam},
+  booktitle  = {\textit{An Inquiry into the Nature and Causes of the Wealth of
+                Nations}},
+  volume     = {1},
+  date       = {1776-03-09},
+  abstract   = {Division of labour has caused a greater increase in production
+                than any other factor. This diversification is greatest for
+                nations with more industry and improvement, and is responsible
+                for "universal opulence" in those countries. This is in part due
+                to increased quality of production, but more importantly because
+                of increased efficiency of production, leading to a higher
+                nominal output of units produced per time unit. Agriculture is
+                less amenable than manufacturing to division of labour; hence,
+                rich nations are not so far ahead of poor nations in agriculture
+                as in manufacturing.},
+  origtitle  = {<i>An Inquiry into the Nature and Causes of the Wealth of
+                Nations</i>},
+  volumes    = {3}
+}
+
 @INBOOK{Smith1776-xg,
   title      = {Of the Nature, Accumulation, and Employment of Stock},
   shorttitle = {\textit{The Wealth of Nations}},
@@ -11877,17 +11900,6 @@
   origtitle  = {<i>An Inquiry into the Nature and Causes of the Wealth of
                 Nations</i>},
   volumes    = {3}
-}
-
-@BOOK{Smith1776-ft,
-  title      = {\textit{An Inquiry into the Nature and Causes of the Wealth of
-                Nations}},
-  shorttitle = {\textit{The Wealth of Nations}},
-  author     = {Smith, Adam},
-  volume     = {1: Of the Causes of Improement in the productie Powers of Labour},
-  date       = {1776-03-09},
-  origtitle  = {<i>An Inquiry into the Nature and Causes of the Wealth of
-                Nations</i>}
 }
 
 @ARTICLE{De_Jong2013-st,
