@@ -12061,6 +12061,50 @@
               and Society}
 }
 
+@ARTICLE{Buhler2025-wp,
+  title        = {Terminal decline of satisfaction in romantic relationships:
+                  Evidence from four longitudinal studies},
+  author       = {Bühler, Janina Larissa and Orth, Ulrich},
+  journaltitle = {Journal of Personality and Social Psychology},
+  date         = {2025-03-20},
+  doi          = {10.1037/pspp0000551},
+  pmid         = {40111896},
+  issn         = {0022-3514,1939-1315},
+  abstract     = {In this preregistered research, we tested whether there is a
+                  systematic, terminal decline in relationship satisfaction when
+                  people approach the end of their romantic relationship. Data
+                  came from four longitudinal studies with national samples. In
+                  the analyses, we used (piecewise) multilevel models with
+                  propensity score-matched event and control groups. Across
+                  studies, sample sizes ranged from 987 to 3,373 for event
+                  groups and from 1,351 to 4,717 for control groups.
+                  Relationship satisfaction systematically declined as a
+                  function of time-to-separation. The decline prior to
+                  separation was divided into a preterminal phase, characterized
+                  by a smaller decline, and a terminal phase, characterized by a
+                  sharp decline. Across studies, the onset of the terminal phase
+                  was estimated at 0.58-2.30 years prior to separation. For
+                  comparison purposes, we also examined relationship
+                  satisfaction as a function of time-since-beginning, showing
+                  that time-to-separation was a much better predictor of change
+                  than time-since-beginning. Moreover, for comparison purposes,
+                  we examined change in life satisfaction, showing that terminal
+                  decline was less visible in life satisfaction than in
+                  relationship satisfaction. Moderator analyses indicated that
+                  age at separation and marital status explained variance in the
+                  effect sizes. Moreover, individuals who were the recipients of
+                  the separation (in contrast to individuals who initiated the
+                  separation) entered the terminal phase later but then
+                  decreased more strongly. The findings support that ending
+                  relationships show a typical pattern of preterminal and
+                  terminal decline, which may have important implications for
+                  the timing of interventions aimed at improving relationships
+                  and preventing separation. (PsycInfo Database Record (c) 2025
+                  APA, all rights reserved).},
+  url          = {http://dx.doi.org/10.1037/pspp0000551},
+  language     = {en}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
