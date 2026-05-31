@@ -56204,6 +56204,8 @@
 @INBOOK{Cole1980-yu,
   title     = {Introduction},
   author    = {Cole, Michael and Scribner, Sylvia},
+  editor    = {Souberman, Ellen and Cole, Michael and Scribner, Sylvia and
+               John-Steiner, Vera},
   booktitle = {Mind in Society},
   publisher = {Harvard University Press},
   pages     = {1--14},
