@@ -163,6 +163,40 @@
   language  = {en}
 }
 
+@BOOK{Scanlon2024-dr,
+  title     = {In This Economy? How Money and Markets Really Work},
+  author    = {Scanlon, Kyla},
+  publisher = {Ebury Publishing},
+  location  = {London, England},
+  date      = {2024-05-30},
+  pagetotal = {304},
+  isbn      = {9781529146608},
+  abstract  = {The stuff you really need to know about how the economy works?
+               It's pretty simple. Yes, even if you were bored to tears in
+               economics class, or if you're cross-eyed from reading painfully
+               convoluted-or straight-up misguided-financial commentary. In this
+               particularly disorienting era, Kyla Scanlon is the Tim Harford of
+               the disaffected and disillusioned Gen Z looking for answers. This
+               is the definitive, approachable guide to the key concepts and
+               mechanics of economics and the most common myths and fallacies to
+               steer clear of. Through Kyla's trademark blend of creative
+               analogies, clever illustrations, refreshingly lucid language-and
+               even quotes from poetry, literature, and philosophy-she answers
+               questions such as: - Is our national debt really a threat? - What
+               is a "mild" recession, exactly? - What's really happening in the
+               employment market, and how do we improve it for workers? At a
+               time when experts overcomplicate simple things loudly, choosing
+               to generate smoke rather than clearing the air, In This Economy?
+               shows that understanding the markets-and the systems they operate
+               in-is easier than you think. Whether you're worried about your
+               mortgage rate, job security, bank account balance, or the health
+               of the broader economy, this concise and witty guide will give
+               you the confidence to make smarter financial decisions-no matter
+               what the headlines say.},
+  keywords  = {Audiobook;Economics},
+  language  = {en}
+}
+
 @REPORT{Ministry-of-Housing-Communities-and-Local-Government2025-cf,
   type        = {resreport},
   title       = {Proposed Reforms to the National Planning Policy Framework and
@@ -12176,18 +12210,6 @@
   url          = {http://dx.doi.org/10.1207/s15327884mca1301_5},
   keywords     = {ERC-ex-re;\_BibTex to MD Git;Workplace Learning},
   language     = {en}
-}
-
-@BOOK{Scanlon2024-dr,
-  title     = {In this economy?: How money and markets really work},
-  author    = {Scanlon, Kyla},
-  publisher = {Ebury Publishing},
-  location  = {London, England},
-  date      = {2024-05-30},
-  pagetotal = {304},
-  isbn      = {9781529146608},
-  keywords  = {Audiobook;Economics},
-  language  = {en}
 }
 
 @ARTICLE{De_Jong2013-st,
