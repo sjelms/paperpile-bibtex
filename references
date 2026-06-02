@@ -42402,6 +42402,16 @@
                  for Jacqui;\_BibTex to MD Git;Cited for Frontiers;AEC}
 }
 
+@BOOK{Winchester1999-bf,
+  title     = {The surgeon of crowthorne},
+  author    = {Winchester, Simon},
+  publisher = {Penguin Books},
+  location  = {Harlow, England},
+  date      = {1999-06-03},
+  pagetotal = {224},
+  isbn      = {9780140271287}
+}
+
 @BOOK{Fry2018-os,
   title     = {Hello World: Being Human in the Age of Algorithms},
   author    = {Fry, Hannah},
