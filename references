@@ -12703,6 +12703,32 @@
   language  = {en}
 }
 
+@INBOOK{Unknown2013-tr,
+  title     = {Online teacher reflection as a scaffold to support reform-based
+               curriculum implementation},
+  booktitle = {International Conference of the Learning Sciences},
+  publisher = {Psychology Press},
+  pages     = {336--337},
+  date      = {2013-04-15},
+  doi       = {10.4324/9780203763865-69},
+  isbn      = {9780203763865},
+  abstract  = {Reflection-in-action is a term defined by Schön (1983) to mean a
+               vital type of reflection that occurs during a particular episode
+               of a professional's practice. This episode can be of very short
+               duration to as long as many months (e.g. an architect designing
+               and overseeing the building of a house), as long as the
+               professional is engaged in ongoing interactions with a project.
+               Within this context a teacher implementing a reform-based
+               curriculum over a period of eight weeks can be seen as a
+               professional involved in an on-going project. The reflection on
+               their practice they do during this project can then be considered
+               reflection-in-action. This view is important as it characterizes
+               the in-action thinking of teachers impacting not just the course
+               and quality the implementation, but also the beliefs and
+               attitudes behind their professional choices.},
+  url       = {http://dx.doi.org/10.4324/9780203763865-69}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
