@@ -6907,6 +6907,22 @@
   language  = {en}
 }
 
+@INBOOK{Harteis2014-pr,
+  title     = {Discourses on professional learning: On the boundary between
+               learning and working},
+  author    = {Harteis, Christian and Rausch, Andreas and Seifried, Jürgen},
+  booktitle = {Professional and Practice-based Learning},
+  publisher = {Springer Netherlands},
+  location  = {Dordrecht},
+  pages     = {1--7},
+  date      = {2014},
+  doi       = {10.1007/978-94-007-7012-6_1},
+  issn      = {2210-5549,2210-5557},
+  isbn      = {9789400770119,9789400770126},
+  url       = {http://dx.doi.org/10.1007/978-94-007-7012-6_1},
+  keywords  = {Discourses on Professional Learning}
+}
+
 @BOOK{Ashby1952-yz,
   title     = {Design for a Brain: The Origin of Adaptive Behaviour},
   author    = {Ashby, William Ross},
