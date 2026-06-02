@@ -40936,6 +40936,26 @@
   language  = {en}
 }
 
+@BOOK{Winchester1999-bf,
+  title     = {The Surgeon of Crowthorne: A Tale of Murder, Madness and the
+               Oxford English Dictionary},
+  author    = {Winchester, Simon},
+  publisher = {Penguin Books},
+  location  = {Harlow, England},
+  date      = {1999-06-03},
+  pagetotal = {224},
+  isbn      = {9780140271287},
+  abstract  = {The making of the Oxford English Dictionary was a monumental 50
+               year task requiring thousands of volunteers. One of the keenest
+               volunteers was a W C Minor who astonished everyone by refusing to
+               come to Oxford to receive his congratulations. In the end, James
+               Murray, the OED's editor, went to Crowthorne in Berkshire to meet
+               him. What he found was incredible - Minor was a millionaire
+               American civil war surgeon turned lunatic, imprisoned in
+               Broadmoor Asylum for murder and yet who dedicated his entire
+               cell-bound life to work on the English language.}
+}
+
 @BOOK{Warhurst2004-qq,
   title     = {The Skills That Matter},
   author    = {Warhurst, Chris and Keep, Ewart and Grugulis, Irena},
@@ -42400,16 +42420,6 @@
   keywords    = {Zotero Import (Feb 22);My Library;2021-12-03
                  Frontiers;Frontiers [2022];2\_Upgrade MAY 2023;AEC Cited Lit
                  for Jacqui;\_BibTex to MD Git;Cited for Frontiers;AEC}
-}
-
-@BOOK{Winchester1999-bf,
-  title     = {The surgeon of crowthorne},
-  author    = {Winchester, Simon},
-  publisher = {Penguin Books},
-  location  = {Harlow, England},
-  date      = {1999-06-03},
-  pagetotal = {224},
-  isbn      = {9780140271287}
 }
 
 @BOOK{Fry2018-os,
