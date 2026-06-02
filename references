@@ -840,6 +840,38 @@
   origdate   = {2022-01-04}
 }
 
+@INBOOK{Goller2014-jx,
+  title     = {Agentic Behaviour at Work: Crafting Learning Experiences},
+  author    = {Goller, Michael and Billett, Stephen},
+  editor    = {Harteis, Christian and Rausch, Andreas and Seifried, Jürgen},
+  booktitle = {Discourses on Professional Learning: On the Boundary Between
+               Learning and Working},
+  publisher = {Springer},
+  pages     = {25--44},
+  date      = {2014},
+  doi       = {10.1007/978-94-007-7012-6_3},
+  isbn      = {9789400770126},
+  abstract  = {A key priority for research on professional development is
+               elaborating how employees become and remain high-performing
+               workers who are able to effectively respond to the changing
+               requirements of their work. This chapter focuses on how workers
+               develop such high performance at work. It is proposed that
+               current accounts of professional expertise development lack a
+               consideration of the variety and breadth of work-relevant
+               experiences necessary to generate expertise, including employees
+               who deliberately contribute to that development. Although
+               deliberate practice as originally conceptualised by Ericsson et
+               al. (1993) may not be readably identifiable in work contexts,
+               certainly analogous processes and other agentic efforts shape the
+               quality of workplace learning. It is illuminated how employees
+               can deliberately influence their expertise development by seeking
+               additional work experiences and proactively securing information
+               and feedback.},
+  url       = {http://dx.doi.org/10.1007/978-94-007-7012-6_3},
+  keywords  = {Notion Catalogued;\_BibTex to MD Git;llm-wiki-workflow;Discourses
+               on Professional Learning;\_Cataloged;Book (child);ePub}
+}
+
 @ARTICLE{Guo2012-wh,
   title        = {Using game technologies to improve the safety of construction
                   plant operations},
@@ -2872,6 +2904,44 @@
                Books;ERC-ex-re;ePub;UCL;Book (child);Workplace Learning}
 }
 
+@INBOOK{Goller2014-mf,
+  title     = {Employing Agency in Academic Settings: Doctoral Students Shaping
+               Their Own Experiences},
+  author    = {Goller, Michael and Harteis, Christian},
+  editor    = {Harteis, Christian and Rausch, Andreas and Seifried, Jürgen},
+  booktitle = {Discourses on Professional Learning: On the Boundary Between
+               Learning and Working},
+  publisher = {Springer},
+  pages     = {189--210},
+  date      = {2014},
+  doi       = {10.1007/978-94-007-7012-6_11},
+  isbn      = {9789400770126},
+  abstract  = {The majority of research on doctoral students’ success is aimed
+               at the identification of personal and/or situational factors that
+               contribute to PhD candidates’ attrition and persistence,
+               respectively. By doing so, the literature has adopted a rather
+               passive perspective towards PhD candidates and their development.
+               The active role of candidates being agentic constructors of their
+               academic career has been widely neglected. This study therefore
+               focuses on how PhD students can take an active approach towards
+               their academic development. A qualitative interview study with
+               ten German faculty members was conducted to answer the following
+               research questions: (1) How do supervisors conceptualise academic
+               success of PhD students? (2) How does professional agency affect
+               academic success of young researchers? (3) What individual and/or
+               contextual factors affect the exercise of professional agency?
+               Based on these interviews, evidence is reported on how doctoral
+               candidates can indeed affect their academic development and
+               eventually their success by exercising professional agency. Among
+               others, the study participants mentioned proactive networking,
+               negotiation of external demands and deliberate information and
+               feedback seeking as important manifestations of professional
+               agency in academic contexts.},
+  url       = {https://doi.org/10.1007/978-94-007-7012-6_11},
+  keywords  = {Notion Catalogued;\_BibTex to MD Git;llm-wiki-workflow;Discourses
+               on Professional Learning;\_Cataloged;Book (child);ePub}
+}
+
 @ARTICLE{Brooks2019-dl,
   title        = {Infrastructure Costs},
   author       = {Brooks, Leah and Liscow, Zachary D},
@@ -4746,6 +4816,50 @@
   url       = {http://dx.doi.org/10.1093/oxfordhb/9780199655366.013.1},
   keywords  = {Oxford Handbook of Skills and Training;\_BibTex to MD Git;EPubs
                Books;Book (child);ePub;Workplace Learning;VET}
+}
+
+@BOOK{Harteis2014-xv,
+  title     = {Discourses on Professional Learning: On the Boundary Between
+               Learning and Working},
+  editor    = {Harteis, Christian and Rausch, Andreas and Seifried, Jürgen},
+  publisher = {Springer},
+  date      = {2014},
+  pagetotal = {395},
+  doi       = {10.1007/978-94-007-7012-6},
+  issn      = {2210-5549,2210-5557},
+  isbn      = {9789400770126},
+  abstract  = {This book analyses and elaborates on learning processes within
+               work environments and explores professional learning. It presents
+               research indicating general characteristics of the work
+               environment that support learning, as well as barriers to
+               workplace learning. Themes of professional development, lifelong
+               learning and business organisation emerge through the chapters
+               and contributions explore theoretical and empirical analyses on
+               the boundary between working and learning in various contexts and
+               with various methodological approaches. Readers will discover how
+               current workplace learning approaches can emphasise the learning
+               potential of the work environment and how workplaces can combine
+               the application of competence that is working, with its
+               acquisition or learning. Through these chapters, we learn about
+               the educational challenge to design workplaces as environments of
+               rich learning potential without neglecting business demands.
+               Expert authors explore how learning and working are both to be
+               considered as two common aspects of an individual’s activity.
+               Complexity, significance, integrity and variety of assigned work
+               tasks as well as scope of action, interaction and feedback within
+               its processing, turn out to be crucial work characteristics,
+               amongst others revealed in these chapters. Part of the
+               Professional and Practice-based Learning series, this book will
+               appeal to anyone with an interest in workplaces as learning
+               environments: those within government, community or business
+               agencies and within the research communities in education,
+               psychology, sociology and business management will find it of
+               great interest.},
+  series    = {Professional and Practice-based Learning},
+  url       = {http://dx.doi.org/10.1007/978-94-007-7012-6},
+  keywords  = {Zotero Import (Feb 22);My Library;EPubs Books;\_BibTex to MD
+               Git;Discourses on Professional Learning;ePub;Essential;Workplace
+               Learning;Book (parent)}
 }
 
 @ARTICLE{Legg2007-tc,
@@ -6791,121 +6905,6 @@
   url       = {http://dx.doi.org/10.1007/978-94-007-4759-3},
   keywords  = {Workplace Learning;Psychology;Book (parent)},
   language  = {en}
-}
-
-@BOOK{Harteis2014-xv,
-  title     = {Discourses on Professional Learning: On the Boundary Between
-               Learning and Working},
-  editor    = {Harteis, Christian and Rausch, Andreas and Seifried, Jürgen},
-  publisher = {Springer},
-  date      = {2014},
-  pagetotal = {395},
-  doi       = {10.1007/978-94-007-7012-6},
-  issn      = {2210-5549,2210-5557},
-  isbn      = {9789400770126},
-  abstract  = {This book analyses and elaborates on learning processes within
-               work environments and explores professional learning. It presents
-               research indicating general characteristics of the work
-               environment that support learning, as well as barriers to
-               workplace learning. Themes of professional development, lifelong
-               learning and business organisation emerge through the chapters
-               and contributions explore theoretical and empirical analyses on
-               the boundary between working and learning in various contexts and
-               with various methodological approaches. Readers will discover how
-               current workplace learning approaches can emphasise the learning
-               potential of the work environment and how workplaces can combine
-               the application of competence that is working, with its
-               acquisition or learning. Through these chapters, we learn about
-               the educational challenge to design workplaces as environments of
-               rich learning potential without neglecting business demands.
-               Expert authors explore how learning and working are both to be
-               considered as two common aspects of an individual’s activity.
-               Complexity, significance, integrity and variety of assigned work
-               tasks as well as scope of action, interaction and feedback within
-               its processing, turn out to be crucial work characteristics,
-               amongst others revealed in these chapters. Part of the
-               Professional and Practice-based Learning series, this book will
-               appeal to anyone with an interest in workplaces as learning
-               environments: those within government, community or business
-               agencies and within the research communities in education,
-               psychology, sociology and business management will find it of
-               great interest.},
-  series    = {Professional and Practice-based Learning},
-  url       = {http://dx.doi.org/10.1007/978-94-007-7012-6},
-  keywords  = {Zotero Import (Feb 22);My Library;EPubs Books;\_BibTex to MD
-               Git;Discourses on Professional Learning;ePub;Essential;Workplace
-               Learning;Book (parent)}
-}
-
-@INBOOK{Goller2014-mf,
-  title     = {Employing Agency in Academic Settings: Doctoral Students Shaping
-               Their Own Experiences},
-  author    = {Goller, Michael and Harteis, Christian},
-  editor    = {Harteis, Christian and Rausch, Andreas and Seifried, Jürgen},
-  booktitle = {Discourses on Professional Learning: On the Boundary Between
-               Learning and Working},
-  publisher = {Springer Netherlands},
-  location  = {Dordrecht},
-  pages     = {189--210},
-  date      = {2014},
-  doi       = {10.1007/978-94-007-7012-6_11},
-  isbn      = {9789400770126},
-  abstract  = {The majority of research on doctoral students’ success is aimed
-               at the identification of personal and/or situational factors that
-               contribute to PhD candidates’ attrition and persistence,
-               respectively. By doing so, the literature has adopted a rather
-               passive perspective towards PhD candidates and their development.
-               The active role of candidates being agentic constructors of their
-               academic career has been widely neglected. This study therefore
-               focuses on how PhD students can take an active approach towards
-               their academic development. A qualitative interview study with
-               ten German faculty members was conducted to answer the following
-               research questions: (1) How do supervisors conceptualise academic
-               success of PhD students? (2) How does professional agency affect
-               academic success of young researchers? (3) What individual and/or
-               contextual factors affect the exercise of professional agency?
-               Based on these interviews, evidence is reported on how doctoral
-               candidates can indeed affect their academic development and
-               eventually their success by exercising professional agency. Among
-               others, the study participants mentioned proactive networking,
-               negotiation of external demands and deliberate information and
-               feedback seeking as important manifestations of professional
-               agency in academic contexts.},
-  url       = {https://doi.org/10.1007/978-94-007-7012-6_11},
-  keywords  = {Notion Catalogued;\_BibTex to MD Git;llm-wiki-workflow;Discourses
-               on Professional Learning;\_Cataloged;Book (child);ePub}
-}
-
-@INBOOK{Goller2014-jx,
-  title     = {Agentic Behaviour at Work: Crafting Learning Experiences},
-  author    = {Goller, Michael and Billett, Stephen},
-  editor    = {Harteis, Christian and Rausch, Andreas and Seifried, Jürgen},
-  booktitle = {Discourses on Professional Learning: On the Boundary Between
-               Learning and Working},
-  publisher = {Springer},
-  pages     = {25--44},
-  date      = {2014},
-  doi       = {10.1007/978-94-007-7012-6_3},
-  isbn      = {9789400770126},
-  abstract  = {A key priority for research on professional development is
-               elaborating how employees become and remain high-performing
-               workers who are able to effectively respond to the changing
-               requirements of their work. This chapter focuses on how workers
-               develop such high performance at work. It is proposed that
-               current accounts of professional expertise development lack a
-               consideration of the variety and breadth of work-relevant
-               experiences necessary to generate expertise, including employees
-               who deliberately contribute to that development. Although
-               deliberate practice as originally conceptualised by Ericsson et
-               al. (1993) may not be readably identifiable in work contexts,
-               certainly analogous processes and other agentic efforts shape the
-               quality of workplace learning. It is illuminated how employees
-               can deliberately influence their expertise development by seeking
-               additional work experiences and proactively securing information
-               and feedback.},
-  url       = {http://dx.doi.org/10.1007/978-94-007-7012-6_3},
-  keywords  = {Notion Catalogued;\_BibTex to MD Git;llm-wiki-workflow;Discourses
-               on Professional Learning;\_Cataloged;Book (child);ePub}
 }
 
 @BOOK{Ashby1952-yz,
