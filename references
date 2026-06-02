@@ -6898,8 +6898,8 @@
                such, this volume makes a unique contribution in exploring
                informal learning in VET.},
   url       = {http://dx.doi.org/10.1007/978-3-658-44341-2},
-  keywords  = {Informal Learning in VET;Workplace Learning;VET;Book
-               (parent);RNIB;ePub},
+  keywords  = {Informal Learning in VET;\_BibTex to MD Git;Workplace
+               Learning;VET;Book (parent);RNIB;ePub},
   language  = {en}
 }
 
@@ -55200,8 +55200,8 @@
                This conceptual and analytical framework is helpful in itself,
                but additionally it enables implications for improving policy and
                practice to be identified.},
-  keywords  = {Informal Learning in VET;Book (child);ePub;RNIB;VET;Workplace
-               Learning;UCL}
+  keywords  = {Informal Learning in VET;\_BibTex to MD Git;Book
+               (child);ePub;RNIB;VET;Workplace Learning;UCL}
 }
 
 @MISC{Caron2022-pk,
