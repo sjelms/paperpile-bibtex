@@ -45237,6 +45237,29 @@
                and CME;Website;Statistics}
 }
 
+@BOOK{Ormrod2025-ik,
+  title     = {Educational Psychology: Developing Learners},
+  author    = {Ormrod, Jeanne Ellis and Anderman, Eric M and Anderman, Lynley H},
+  publisher = {Pearson},
+  location  = {Upper Saddle River, NJ},
+  edition   = {10},
+  date      = {2025-04-08},
+  pagetotal = {848},
+  isbn      = {9780135206478},
+  abstract  = {Educational Psychology: Developing Learners is known for its
+               exceptionally clear and engaging writing, its in-depth focus on
+               learning, and its extensive concrete applications. The text's
+               unique approach helps students understand concepts by examining
+               their own learning and then showing them how to apply these
+               concepts as teachers. The text moves seamlessly between theory
+               and applications, features the most extensive and integrated
+               coverage of diversity, contexts of learning, and neuropsychology
+               and brain development. It also includes innumerable concrete
+               examples and artifacts to help readers connect educational
+               psychology to real children and classrooms.},
+  language  = {en}
+}
+
 @BOOK{Terra2023-js,
   title     = {The Economics of John Maynard Keynes},
   author    = {Terra, Fabio},
@@ -49935,18 +49958,6 @@
   url       = {https://wtfhappenedin1971.com/},
   note      = {available at https://wtfhappenedin1971.com/},
   keywords  = {Abundance-Footnotes;\_BibTex to MD Git}
-}
-
-@BOOK{Ormrod2025-ik,
-  title     = {Educational psychology},
-  author    = {Ormrod, Jeanne and Anderman, Eric M and Anderman, Lynley H},
-  publisher = {Pearson},
-  location  = {Upper Saddle River, NJ},
-  edition   = {10},
-  date      = {2025-04-08},
-  pagetotal = {848},
-  isbn      = {9780135206478},
-  language  = {en}
 }
 
 @INBOOK{Sawchuk2013-ip,
