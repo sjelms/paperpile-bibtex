@@ -12533,6 +12533,18 @@
   language     = {en}
 }
 
+@BOOK{Pilz2016-gi,
+  title     = {India: Preparation for the world of work},
+  editor    = {Pilz, Matthias},
+  publisher = {Springer Fachmedien},
+  location  = {Wiesbaden, Germany},
+  edition   = {1},
+  date      = {2016-01-27},
+  pagetotal = {355},
+  isbn      = {9783658085025},
+  language  = {en}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
