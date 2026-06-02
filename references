@@ -12685,14 +12685,20 @@
                   Acquisition;Philosophy of Education}
 }
 
-@BOOK{Lagemann2002-pf,
-  title     = {An elusive science},
+@BOOK{Lagemann2000-fz,
+  title     = {An Elusive Science: The Troubling History of Education Research},
   author    = {Lagemann, Ellen Condliffe},
   publisher = {University of Chicago Press},
   location  = {Chicago, IL},
-  date      = {2002-06-10},
-  pagetotal = {302},
+  date      = {2000},
+  pagetotal = {320},
   isbn      = {9780226467733},
+  abstract  = {Since its beginnings at the start of the 20th century,
+               educational scholarship has been a marginal field, criticized by
+               public policy makers and relegated to the fringes of academe. An
+               Elusive Science explains why, providing a critical history of the
+               traditions, conflicts, and institutions that have shaped the
+               study of education over the past century.},
   language  = {en}
 }
 
