@@ -2012,6 +2012,37 @@
   language  = {en}
 }
 
+@BOOK{Pilz2024-cr,
+  title     = {Informal learning in vocational education and training:
+               Illuminating an elusive concept},
+  editor    = {Pilz, Matthias},
+  publisher = {Springer},
+  date      = {2024-09-01},
+  pagetotal = {398},
+  doi       = {10.1007/978-3-658-44341-2},
+  issn      = {2731-6181,2731-619X},
+  isbn      = {9783658443405,9783658443412},
+  abstract  = {Entering educational debate more than 50 years back, the notion
+               of informal learning is still highly relevant today and of
+               specific interest in the context of vocational education and
+               training (VET). Still, we do not know a lot about a wide range of
+               aspects of the topic as well as interactions between formal and
+               informal learning. Defining the latter precisely presents
+               difficulties to the world of research, as the concept itself is
+               characterised by flexibility and openness. This book was
+               initiated to fill a gap in understanding informal learning in the
+               context of training and development. 18 chapters cover a wide
+               range of aspects and different objectives, levels and places of
+               informal learning. Authors from different parts of Europe as well
+               as Japan, Australia, India and Bangladesh have been selected to
+               contribute to the topic from varying country perspectives. As
+               such, this volume makes a unique contribution in exploring
+               informal learning in VET.},
+  url       = {http://dx.doi.org/10.1007/978-3-658-44341-2},
+  keywords  = {Workplace Learning;VET},
+  language  = {en}
+}
+
 @ARTICLE{Dainis2026-qc,
   title        = {“when {I} was in school, science always had answers.”},
   author       = {Dainis, Alex},
@@ -12257,22 +12288,6 @@
   isbn      = {9789400747586,9789400747593},
   url       = {http://dx.doi.org/10.1007/978-94-007-4759-3},
   keywords  = {Workplace Learning;Psychology},
-  language  = {en}
-}
-
-@BOOK{Pilz2024-cr,
-  title     = {Informal learning in vocational education and training:
-               Illuminating an elusive concept},
-  editor    = {Pilz, Matthias},
-  publisher = {Springer},
-  edition   = {2024},
-  date      = {2024-09-01},
-  pagetotal = {398},
-  doi       = {10.1007/978-3-658-44341-2},
-  issn      = {2731-6181,2731-619X},
-  isbn      = {9783658443405,9783658443412},
-  url       = {http://dx.doi.org/10.1007/978-3-658-44341-2},
-  keywords  = {Workplace Learning;VET},
   language  = {en}
 }
 
