@@ -12557,6 +12557,26 @@
   language  = {en}
 }
 
+@ARTICLE{Haigh2026-tg,
+  title        = {Repositioning construction management education for
+                  Construction 5.0: an accreditation-aligned competency
+                  framework and review},
+  author       = {Haigh, Robert},
+  journaltitle = {Construction Management and Economics},
+  publisher    = {Informa UK Limited},
+  pages        = {1--29},
+  date         = {2026-06-01},
+  doi          = {10.1080/01446193.2026.2676650},
+  issn         = {0144-6193,1466-433X},
+  abstract     = {Construction management education (CME) is at a critical
+                  juncture as it must respond to rapid transformations in the
+                  construction sector driven by digitalisation, automation, and
+                  sustainability imp...},
+  url          = {http://dx.doi.org/10.1080/01446193.2026.2676650},
+  urldate      = {2026-06-02},
+  language     = {en}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
