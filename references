@@ -15519,6 +15519,7 @@
   author    = {Thorndike, Edward Lee},
   publisher = {Teachers' College Press},
   location  = {New York, NY},
+  volume    = {1},
   date      = {1913},
   pagetotal = {456},
   doi       = {10.1037/13763-000},
@@ -15545,7 +15546,8 @@
                volume is dedicated to examining human instincts and responses in
                a variety of situations. Human social interaction and its effects
                are also examined.},
-  url       = {http://dx.doi.org/10.1037/13763-000}
+  url       = {http://dx.doi.org/10.1037/13763-000},
+  volumes   = {3}
 }
 
 @ARTICLE{Levitt2018-st,
