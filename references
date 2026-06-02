@@ -15479,10 +15479,11 @@
 }
 
 @BOOK{Thorndike1913-kp,
-  title     = {Education Psychology, Vol 1: The original nature of man},
+  title     = {Education Psychology, Vol 2: The psychology of learning},
   author    = {Thorndike, Edward Lee},
   publisher = {Teachers' College Press},
   location  = {New York, NY},
+  volume    = {2},
   date      = {1913},
   pagetotal = {456},
   doi       = {10.1037/13763-000},
@@ -15509,7 +15510,8 @@
                volume is dedicated to examining human instincts and responses in
                a variety of situations. Human social interaction and its effects
                are also examined.},
-  url       = {http://dx.doi.org/10.1037/13763-000}
+  url       = {http://dx.doi.org/10.1037/13763-000},
+  volumes   = {3}
 }
 
 @BOOK{Thorndike1913-et,
