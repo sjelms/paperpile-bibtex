@@ -24253,6 +24253,20 @@
   language     = {en}
 }
 
+@ARTICLE{Unknown2023-ds,
+  title        = {Peter Gaskell on the effects of mechanization on labor},
+  journaltitle = {Population and Development Review},
+  publisher    = {Wiley},
+  volume       = {49},
+  issue        = {1},
+  pages        = {205--208},
+  date         = {2023-03},
+  doi          = {10.1111/padr.12550},
+  issn         = {0098-7921,1728-4457},
+  url          = {http://dx.doi.org/10.1111/padr.12550},
+  language     = {en}
+}
+
 @ARTICLE{Ishikawa2023-mp,
   title        = {Individual differences and skill training in cognitive
                   mapping: How and why people differ},
