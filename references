@@ -35090,8 +35090,9 @@
   keywords  = {Key Concepts in Work;Book (parent);RNIB}
 }
 
-@INBOOK{Unknown2007-gh,
+@INBOOK{Blyton2007-ek,
   title     = {Fordism},
+  author    = {Blyton, Paul and Jenkins, Jean},
   booktitle = {Key Concepts in Work},
   publisher = {SAGE Publications Ltd},
   location  = {1 Oliver's Yard, 55 City Road, London EC1Y 1SP United Kingdom},
