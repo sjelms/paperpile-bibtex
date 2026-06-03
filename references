@@ -12968,31 +12968,6 @@
                   Trap;General-Interest-Periodicals-United-States;Economics;Labor}
 }
 
-@INBOOK{Blyton2007-kz,
-  title     = {Skill},
-  author    = {Blyton, Paul and Jenkins, Jean},
-  booktitle = {Key Concepts in Work},
-  publisher = {SAGE},
-  pages     = {195--199},
-  date      = {2007},
-  doi       = {10.4135/9781446215814.n38},
-  isbn      = {9780761944782,9781446215814},
-  abstract  = {Labour process refers to the process by which ‘workers' capacity
-               to labour is translated into actual work’ (Edwards, 1986: 1). The
-               labour process debate takes this further and examines the factors
-               involved in the production of surplus value through work and the
-               effects of technology and managerial control on the skill and
-               autonomy of the worker. Karl Marx's critique of the capitalist
-               labour process is an appropriate starting point for the present
-               discussion. Under capitalism, the pursuit of surplus value, that
-               is value which is greater than the actual cost of producing a
-               product, is pursued within a framework of employment that pays
-               the workers a wage for their part in this process.},
-  url       = {https://doi.org/10.4135/9781446215814.n38},
-  keywords  = {Key Concepts in Work;Book (child);RNIB;Workplace
-               Learning;Labor;Economics}
-}
-
 @INBOOK{Blyton2007-ek,
   title     = {Fordism},
   author    = {Blyton, Paul and Jenkins, Jean},
@@ -13084,6 +13059,31 @@
                product, is pursued within a framework of employment that pays
                the workers a wage for their part in this process.},
   url       = {https://doi.org/10.4135/9781446215814.n24},
+  keywords  = {Key Concepts in Work;Book (child);RNIB;Workplace
+               Learning;Labor;Economics}
+}
+
+@INBOOK{Blyton2007-kz,
+  title     = {Skill},
+  author    = {Blyton, Paul and Jenkins, Jean},
+  booktitle = {Key Concepts in Work},
+  publisher = {SAGE},
+  pages     = {195--199},
+  date      = {2007},
+  doi       = {10.4135/9781446215814.n38},
+  isbn      = {9780761944782,9781446215814},
+  abstract  = {A number of factors have led to much greater attention being paid
+               to skill in recent years. Politicians have identified increased
+               skills in the labour force as a key contributor to economic
+               growth. Researchers concerned with the impact of technological
+               change have continued to question whether the consequences of
+               such change is an overall upskilling or a downskilling of the
+               labour force. Managers and others concerned with the issue of
+               labour market flexibility have identified the significance of
+               multiskilling – that is, the extent to which those proficient at
+               one skill can be trained in additional skills to perform a
+               broader role within the work organization.},
+  url       = {http://dx.doi.org/10.4135/9781446215814.n38},
   keywords  = {Key Concepts in Work;Book (child);RNIB;Workplace
                Learning;Labor;Economics}
 }
