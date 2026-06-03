@@ -35106,12 +35106,17 @@
 @INBOOK{Unknown2007-iy,
   title     = {Scientific Management},
   booktitle = {Key Concepts in Work},
-  publisher = {SAGE Publications Ltd},
-  location  = {1 Oliver's Yard, 55 City Road, London EC1Y 1SP United Kingdom},
+  publisher = {SAGE},
   pages     = {190--194},
   date      = {2007},
   doi       = {10.4135/9781446215814.n37},
   isbn      = {9780761944782,9781446215814},
+  abstract  = {Like many engineers before and since, Frederick Winslow Taylor
+               (1856–1915) held a highly rationalistic view of work. At the
+               heart of his approach to the organization of work was a view that
+               contemporary management lacked control over the work process
+               principally because it had not acquired the knowledge of how work
+               could be organized},
   url       = {http://dx.doi.org/10.4135/9781446215814.n37},
   keywords  = {Key Concepts in Work}
 }
