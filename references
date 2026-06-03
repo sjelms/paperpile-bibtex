@@ -12975,7 +12975,7 @@
   publisher = {SAGE},
   pages     = {121--124},
   date      = {2007},
-  doi       = {10.4135/9781446215814.n37},
+  doi       = {10.4135/9781446215814.n24},
   isbn      = {9780761944782,9781446215814},
   abstract  = {Labour process refers to the process by which ‘workers' capacity
                to labour is translated into actual work’ (Edwards, 1986: 1). The
@@ -12988,7 +12988,7 @@
                is value which is greater than the actual cost of producing a
                product, is pursued within a framework of employment that pays
                the workers a wage for their part in this process.},
-  url       = {http://dx.doi.org/10.4135/9781446215814.n37},
+  url       = {https://doi.org/10.4135/9781446215814.n24},
   keywords  = {Key Concepts in Work;Book (child);RNIB;Workplace
                Learning;Labor;Economics}
 }
