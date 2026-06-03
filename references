@@ -35086,7 +35086,8 @@
                about work, employment, organizations and labour markets},
   series    = {Sage Key Concepts Series},
   url       = {http://dx.doi.org/10.4135/9781446215814},
-  keywords  = {Key Concepts in Work;Book (parent);RNIB}
+  keywords  = {Key Concepts in Work;Book (parent);RNIB;Workplace
+               Learning;Labor;Economics}
 }
 
 @INBOOK{Blyton2007-ek,
@@ -35106,7 +35107,8 @@
                norms associated with a particular period in the development of
                capitalism.},
   url       = {http://dx.doi.org/10.4135/9781446215814.n16},
-  keywords  = {Key Concepts in Work;Book (child);RNIB;Workplace Learning}
+  keywords  = {Key Concepts in Work;Book (child);RNIB;Workplace
+               Learning;Labor;Economics}
 }
 
 @INBOOK{Blyton2007-kz,
@@ -35125,7 +35127,8 @@
                principally because it had not acquired the knowledge of how work
                could be organized},
   url       = {http://dx.doi.org/10.4135/9781446215814.n37},
-  keywords  = {Key Concepts in Work;Book (child);RNIB;Workplace Learning}
+  keywords  = {Key Concepts in Work;Book (child);RNIB;Workplace
+               Learning;Labor;Economics}
 }
 
 @INBOOK{Diamond2001-mz,
