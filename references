@@ -12969,20 +12969,25 @@
 }
 
 @INBOOK{Blyton2007-kz,
-  title     = {Scientific Management},
+  title     = {Labour Process},
   author    = {Blyton, Paul and Jenkins, Jean},
   booktitle = {Key Concepts in Work},
   publisher = {SAGE},
-  pages     = {190--194},
+  pages     = {121--124},
   date      = {2007},
   doi       = {10.4135/9781446215814.n37},
   isbn      = {9780761944782,9781446215814},
-  abstract  = {Like many engineers before and since, Frederick Winslow Taylor
-               (1856–1915) held a highly rationalistic view of work. At the
-               heart of his approach to the organization of work was a view that
-               contemporary management lacked control over the work process
-               principally because it had not acquired the knowledge of how work
-               could be organized},
+  abstract  = {Labour process refers to the process by which ‘workers' capacity
+               to labour is translated into actual work’ (Edwards, 1986: 1). The
+               labour process debate takes this further and examines the factors
+               involved in the production of surplus value through work and the
+               effects of technology and managerial control on the skill and
+               autonomy of the worker. Karl Marx's critique of the capitalist
+               labour process is an appropriate starting point for the present
+               discussion. Under capitalism, the pursuit of surplus value, that
+               is value which is greater than the actual cost of producing a
+               product, is pursued within a framework of employment that pays
+               the workers a wage for their part in this process.},
   url       = {http://dx.doi.org/10.4135/9781446215814.n37},
   keywords  = {Key Concepts in Work;Book (child);RNIB;Workplace
                Learning;Labor;Economics}
