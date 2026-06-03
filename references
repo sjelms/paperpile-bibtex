@@ -35103,8 +35103,9 @@
   keywords  = {Key Concepts in Work}
 }
 
-@INBOOK{Unknown2007-iy,
+@INBOOK{Blyton2007-kz,
   title     = {Scientific Management},
+  author    = {Blyton, Paul and Jenkins, Jean},
   booktitle = {Key Concepts in Work},
   publisher = {SAGE},
   pages     = {190--194},
