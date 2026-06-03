@@ -35090,6 +35090,19 @@
   keywords  = {Key Concepts in Work;Book (parent);RNIB}
 }
 
+@INBOOK{Unknown2007-gh,
+  title     = {Fordism},
+  booktitle = {Key Concepts in Work},
+  publisher = {SAGE Publications Ltd},
+  location  = {1 Oliver's Yard, 55 City Road, London EC1Y 1SP United Kingdom},
+  pages     = {82--87},
+  date      = {2007},
+  doi       = {10.4135/9781446215814.n16},
+  isbn      = {9780761944782,9781446215814},
+  url       = {http://dx.doi.org/10.4135/9781446215814.n16},
+  keywords  = {Key Concepts in Work}
+}
+
 @INBOOK{Diamond2001-mz,
   title     = {Chapter 8 - From Samples to Populations},
   author    = {Diamond, I and Jefferies, J},
