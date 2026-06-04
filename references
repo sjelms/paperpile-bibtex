@@ -40155,6 +40155,42 @@
   url         = {https://www.weforum.org/reports/the-future-of-jobs-report-2025/}
 }
 
+@BOOK{Robinson2021-dq,
+  title     = {Economic Philosophy},
+  author    = {Robinson, Joan},
+  editorb   = {Dow, Sheila},
+  publisher = {Routledge},
+  location  = {London, England},
+  date      = {2021-03-29},
+  pagetotal = {140},
+  isbn      = {9781000358087},
+  abstract  = {Joan Robinson (1903-1983) was one of the greatest economists of
+               the twentieth century and a fearless critic of free-market
+               capitalism. A major figure in the controversial ‘Cambridge
+               School’ of economics in the post-war period, she made fundamental
+               contributions to the economics of international trade and
+               development. In Economic Philosophy Robinson looks behind the
+               curtain of economics to reveal a constant battle between
+               economics as a science and economics as ideology, which she
+               argued was integral to economics. In her customary vivid and
+               pellucid style, she criticizes early economists Adam Smith and
+               David Ricardo, and neo-classical economists Alfred Marshall,
+               Stanley Jevons and Leon Walras, over the question of value. She
+               shows that what they respectively considered to be the generators
+               of value - labour-time, marginal utility or preferences - are not
+               scientific but ‘metaphysical’, and that it is frequently in
+               ideology, not science, that we find the reason for the rejection
+               of economic theories. She also weighs up the implications of the
+               Keynesian revolution in economics, particularly whether Keynes’s
+               theories are applicable to developing economies. Robinson
+               concludes with a prophetic lesson that resonates in today’s
+               turbulent and unequal economy: that the task of the economist is
+               to combat the idea that the only values that count are those that
+               can be measured in terms of money.},
+  series    = {Routledge Classics},
+  language  = {en}
+}
+
 @MISC{Basak2025-gu,
   title     = {How Wall Street Plans to Fix the Housing Crisis},
   author    = {Basak, Sonali},
@@ -42588,18 +42624,6 @@
                and all are related in first-person narrative from Watson's point
                of view.},
   keywords  = {EPubs Books;\_BibTex to MD Git;Novels;ePub;Fiction},
-  language  = {en}
-}
-
-@BOOK{Robinson2021-dq,
-  title     = {Economic philosophy},
-  author    = {Robinson, Joan},
-  publisher = {Routledge},
-  location  = {London, England},
-  date      = {2021-03-29},
-  pagetotal = {140},
-  isbn      = {9781000358087},
-  series    = {Routledge Classics},
   language  = {en}
 }
 
