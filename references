@@ -39600,19 +39600,6 @@
   language  = {en}
 }
 
-@BOOK{Burawoy1980-xm,
-  title     = {Manufacturing consent},
-  author    = {Burawoy, Michael},
-  publisher = {University of Chicago Press},
-  location  = {Chicago, IL},
-  date      = {1980-02},
-  pagetotal = {304},
-  doi       = {10.7208/chicago/9780226217710.001.0001},
-  isbn      = {9780226080376,9780226080376},
-  url       = {http://dx.doi.org/10.7208/chicago/9780226217710.001.0001},
-  language  = {en}
-}
-
 @ARTICLE{Bone2025-mz,
   title        = {Skills or degree? The rise of skill-based hiring for {AI} and
                   green jobs},
@@ -39630,6 +39617,36 @@
   url          = {https://linkinghub.elsevier.com/retrieve/pii/S0040162525000733},
   keywords     = {Artificial Intelligence (AI);Economics},
   language     = {en}
+}
+
+@BOOK{Burawoy1980-xm,
+  title     = {Manufacturing Consent: Changes in the Labor Process Under
+               Monopoly Capitalism},
+  author    = {Burawoy, Michael},
+  publisher = {University of Chicago Press},
+  location  = {Chicago, IL},
+  date      = {1980-02},
+  pagetotal = {304},
+  doi       = {10.7208/chicago/9780226217710.001.0001},
+  isbn      = {9780226080376,9780226080376},
+  abstract  = {Since the 1930s, industrial sociologists have tried to answer the
+               question, Why do workers not work harder? Michael Burawoy spent
+               ten months as a machine operator in a Chicago factory trying to
+               answer different but equally important questions: Why do workers
+               work as hard as they do? Why do workers routinely consent to
+               their own exploitation? Manufacturing Consent, the result of
+               Burawoy's research, combines rich ethnographical description with
+               an original Marxist theory of the capitalist labor process.
+               Manufacturing Consent is unique among studies of this kind
+               because Burawoy has been able to analyze his own experiences in
+               relation to those of Donald Roy, who studied the same factory
+               thirty years earlier. Burawoy traces the technical, political,
+               and ideological changes in factory life to the transformations of
+               the market relations of the plant (it is now part of a
+               multinational corporation) and to broader movements, since World
+               War II, in industrial relations.},
+  url       = {http://dx.doi.org/10.7208/chicago/9780226217710.001.0001},
+  language  = {en}
 }
 
 @ARTICLE{Attewell1987-vr,
