@@ -38585,18 +38585,6 @@
   language  = {en}
 }
 
-@INBOOK{Antunes2013-kh,
-  title     = {Preliminary Material},
-  author    = {Antunes, Ricardo},
-  booktitle = {The Meanings of Work},
-  publisher = {BRILL},
-  pages     = {i--xxiv},
-  date      = {2013-01-01},
-  doi       = {10.1163/9789004235984_001},
-  isbn      = {9789004235984,9789004234598},
-  url       = {http://dx.doi.org/10.1163/9789004235984_001}
-}
-
 @ARTICLE{Handel2016-gv,
   title        = {What do people do at work?},
   author       = {Handel, Michael J},
@@ -57627,6 +57615,31 @@
                the ‘Babbage principle’) continue to resonate strongly for modern
                industrial engineering.},
   keywords  = {\_BibTex to MD Git;Economics}
+}
+
+@BOOK{Antunes2012-ow,
+  title     = {The Meanings of Work: Essay on the Affirmation and Negation of
+               Work},
+  author    = {Antunes, Ricardo},
+  publisher = {Brill},
+  volume    = {43},
+  date      = {2012-11-09},
+  doi       = {10.1163/9789004235984},
+  isbn      = {9789004235984,9789004234598},
+  abstract  = {The Meanings of Work aims to explore some dimensions of the
+               changes taking place in the labour-world, as well as looking at
+               the consequences, theoretical and empirical, entailed by these
+               transformations, such as the relevance and pertinence of the
+               category of labour in the contemporary world. Billions of men and
+               women depend exclusively on their labour to survive and encounter
+               increasingly unstable, precarious or casual workers and the
+               unemployed. As the contingent of workers has grown, there have
+               been a vast reduction in jobs, rights have been corroded and the
+               gains of the past have been eroded. The Meanings of Work starts
+               with a wider conception of work and seeks to understand this new
+               condition of labour today.},
+  series    = {Historical Materialism Book Series},
+  url       = {http://dx.doi.org/10.1163/9789004235984}
 }
 
 @ARTICLE{Coovadia2008-lw,
