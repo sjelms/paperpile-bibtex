@@ -2044,6 +2044,22 @@
   language  = {en}
 }
 
+@ARTICLE{Burawoy1978-rm,
+  title        = {Toward a Marxist theory of the labor process: Braverman and
+                  beyond},
+  author       = {Burawoy, Michael},
+  journaltitle = {Politics \& Society},
+  publisher    = {SAGE Publications},
+  volume       = {8},
+  issue        = {3-4},
+  pages        = {247--312},
+  date         = {1978-09},
+  doi          = {10.1177/003232927800800301},
+  issn         = {0032-3292,1552-7514},
+  url          = {http://dx.doi.org/10.1177/003232927800800301},
+  language     = {en}
+}
+
 @ARTICLE{Dainis2026-qc,
   title        = {“when {I} was in school, science always had answers.”},
   author       = {Dainis, Alex},
