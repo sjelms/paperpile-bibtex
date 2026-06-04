@@ -13368,6 +13368,17 @@
                Learning;VET;Cross Ref Chapter}
 }
 
+@BOOK{Babbage2010-xc,
+  title     = {Cambridge library collection - history of printing, publishing
+               and libraries: On the economy of machinery and manufactures},
+  author    = {Babbage, Charles},
+  publisher = {Cambridge University Press},
+  location  = {Cambridge, England},
+  date      = {2010-03-04},
+  pagetotal = {344},
+  isbn      = {9781108009102}
+}
+
 @BOOK{Grier2005-sq,
   title     = {When Computers Were Human},
   author    = {Grier, David Alan},
