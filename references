@@ -57344,13 +57344,13 @@
   language     = {en}
 }
 
-@BOOK{Burawoy1980-xm,
+@BOOK{Burawoy1979-kf,
   title     = {Manufacturing Consent: Changes in the Labor Process Under
                Monopoly Capitalism},
   author    = {Burawoy, Michael},
   publisher = {University of Chicago Press},
   location  = {Chicago, IL},
-  date      = {1980-02},
+  date      = {1979},
   pagetotal = {304},
   doi       = {10.7208/chicago/9780226217710.001.0001},
   isbn      = {9780226080376,9780226080376},
