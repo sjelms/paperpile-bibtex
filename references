@@ -39600,6 +39600,19 @@
   language  = {en}
 }
 
+@BOOK{Burawoy1980-xm,
+  title     = {Manufacturing consent},
+  author    = {Burawoy, Michael},
+  publisher = {University of Chicago Press},
+  location  = {Chicago, IL},
+  date      = {1980-02},
+  pagetotal = {304},
+  doi       = {10.7208/chicago/9780226217710.001.0001},
+  isbn      = {9780226080376,9780226080376},
+  url       = {http://dx.doi.org/10.7208/chicago/9780226217710.001.0001},
+  language  = {en}
+}
+
 @ARTICLE{Bone2025-mz,
   title        = {Skills or degree? The rise of skill-based hiring for {AI} and
                   green jobs},
