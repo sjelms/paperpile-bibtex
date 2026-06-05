@@ -45947,15 +45947,18 @@
   language  = {en}
 }
 
-@ONLINE{ClarkUnknown-ha,
-  title    = {A Half-Century of Harry Braverman’s Labor and Monopoly Capital},
-  author   = {Clark, Sophina and Judt, Daniel},
-  abstract = {Harry Braverman’s arguments in his classic book Labor and Monopoly
-              Capital presciently forecasted much of our present labor regime —
-              and can help us move beyond it.},
-  url      = {https://jacobin.com/2025/06/braverman-labor-monopoly-capital-legacy},
-  urldate  = {2026-06-05},
-  language = {en}
+@MISC{Clark2025-ii,
+  title        = {A Half-Century of Harry Braverman’s Labor and Monopoly Capital},
+  author       = {Clark, Sophina and Judt, Daniel},
+  journaltitle = {Jacobin},
+  publisher    = {Remeike Forbes},
+  date         = {2025-06-01},
+  issn         = {2158-2602},
+  abstract     = {Harry Braverman’s arguments in his classic book Labor and
+                  Monopoly Capital presciently forecasted much of our present
+                  labor regime — and can help us move beyond it.},
+  url          = {https://jacobin.com/2025/06/braverman-labor-monopoly-capital-legacy},
+  language     = {en}
 }
 
 @REPORT{Barua2020-br,
