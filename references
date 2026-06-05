@@ -50219,9 +50219,11 @@
                Git;llm-wiki-workflow;Book (child)}
 }
 
-@ONLINE{ChibberUnknown-tw,
+@AUDIO{Chibber2026-lz,
   title    = {How Work Got So Bad},
   author   = {Chibber, Vivek},
+  editor   = {Naschek, Melissa},
+  date     = {2026-03-12},
   abstract = {Under capitalism, technological “progress” like AI systematically
               deskills workers, deepens managerial control, and turns the labor
               process into a site of conflict rather than liberation. This is by
