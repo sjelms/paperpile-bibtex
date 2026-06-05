@@ -50376,7 +50376,7 @@
   volume       = {56},
   issue        = {1},
   pages        = {55--62},
-  date         = {2014},
+  date         = {2014-08-07},
   issn         = {1532-9194},
   abstract     = {Rising labor costs in China and other emerging economies, high
                   supply chain and logistics costs, and wide differentials in
@@ -50397,14 +50397,7 @@
                   especially true when the resources upon which a company draws
                   (the supplier base, the workforce, and even the company's own
                   internal product design capabilities) have atrophied.},
-  keywords     = {Business And Economics--Management; Operations; Wage;
-                  Manufacturing; Leading Change; Studies; Workers; Hiring;
-                  Arbitrage; Costs; Relocation of industry; Employment;
-                  Workforce; Supply chains; Manufacturers; Labor costs;
-                  Suppliers; Product design; Employment interviews; Product
-                  development; Economics; Factories; Reshoring; United
-                  States--US; 9190:United States; 9130:Experimental/theoretical;
-                  5160:Transportation management}
+  url          = {https://sloanreview.mit.edu/article/what-it-takes-to-reshore-manufacturing-successfully/}
 }
 
 @ARTICLE{Andriessen1999-ke,
