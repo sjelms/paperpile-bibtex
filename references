@@ -50219,6 +50219,18 @@
                Git;llm-wiki-workflow;Book (child)}
 }
 
+@ONLINE{ChibberUnknown-tw,
+  title    = {How Work Got So Bad},
+  author   = {Chibber, Vivek},
+  abstract = {Under capitalism, technological “progress” like AI systematically
+              deskills workers, deepens managerial control, and turns the labor
+              process into a site of conflict rather than liberation. This is by
+              design.},
+  url      = {https://jacobin.com/2026/03/work-deskilling-labor-capitalism-technology},
+  urldate  = {2026-06-05},
+  language = {en}
+}
+
 @REPORT{Sarma2020-br,
   type        = {resreport},
   title       = {Applying new education technologies to meet workforce education
