@@ -56584,17 +56584,6 @@
                Books;Book (child);Workplace Learning;ePub}
 }
 
-@MISC{Phillips1996-is,
-  title    = {How much is the training worth?},
-  author   = {Phillips, Jack J},
-  volume   = {50},
-  pages    = {20+},
-  date     = {1996-04},
-  issn     = {1055-9760},
-  url      = {https://link.gale.com/apps/doc/A18434799/AONE?u=anon~8990433&sid=googleScholar&xid=3b4e2771},
-  keywords = {Employee training; Return on investment}
-}
-
 @INBOOK{Fuller2024-wq,
   title     = {Context, Characteristics and Capacity: The 3 Cs for Understanding
                and Improving Workplace Learning},
@@ -56626,6 +56615,33 @@
                practice to be identified.},
   keywords  = {Informal Learning in VET;\_BibTex to MD Git;EPubs Books;Book
                (child);ePub;RNIB;VET;Workplace Learning;UCL}
+}
+
+@ARTICLE{Phillips1996-is,
+  title        = {How much is the training worth?},
+  author       = {Phillips, Jack J},
+  journaltitle = {Training \& Development},
+  volume       = {50},
+  issue        = {4},
+  date         = {1996-04},
+  issn         = {1839-8561,2200-2081},
+  abstract     = {The return on investment (ROI) on training of employees needs
+                  to be computed because this provides solid evidence that
+                  particular courses are achieving their targeted results.
+                  Therefore, results have to be converted to monetary values and
+                  compared with the cost of the program to convince management
+                  that employee training is doing what it is supposed to do. The
+                  steps involved in converting data to monetary values are
+                  focusing on a single unit, finding a value for each unit,
+                  computing the change in performance, obtaining an annual
+                  amount and determining the annual value. However, this is not
+                  the only way to convert data to monetary values. Training
+                  professionals can also convert output to contribution, compute
+                  the cost of quality, convert employees' time, utilize historic
+                  costs, employ internal and external experts, make use of data
+                  from external studies, or use estimates of participants,
+                  supervisors, senior managers and human resources.},
+  url          = {https://link.gale.com/apps/doc/A18434799/AONE}
 }
 
 @INBOOK{Lewis2012-iu,
