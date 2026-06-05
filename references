@@ -45947,6 +45947,17 @@
   language  = {en}
 }
 
+@ONLINE{ClarkUnknown-ha,
+  title    = {A Half-Century of Harry Braverman’s Labor and Monopoly Capital},
+  author   = {Clark, Sophina and Judt, Daniel},
+  abstract = {Harry Braverman’s arguments in his classic book Labor and Monopoly
+              Capital presciently forecasted much of our present labor regime —
+              and can help us move beyond it.},
+  url      = {https://jacobin.com/2025/06/braverman-labor-monopoly-capital-legacy},
+  urldate  = {2026-06-05},
+  language = {en}
+}
+
 @REPORT{Barua2020-br,
   type     = {resreport},
   title    = {The Construction Workforce: Growing Again, but Not Changing Much},
