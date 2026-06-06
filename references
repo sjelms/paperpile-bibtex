@@ -1619,18 +1619,6 @@
   language  = {en}
 }
 
-@BOOK{Mazzucato2016-qt,
-  title     = {Rethinking capitalism},
-  editor    = {Mazzucato, Mariana and Jacobs, Michael},
-  publisher = {John Wiley \& Sons},
-  location  = {Nashville, TN},
-  date      = {2016-08-05},
-  pagetotal = {224},
-  isbn      = {9781119120957},
-  series    = {Political Quarterly Monograph Series},
-  language  = {en}
-}
-
 @BOOK{Klein2020-xn,
   title     = {Why We're Polarized},
   author    = {Klein, Ezra},
@@ -2266,6 +2254,37 @@
   series    = {Understanding Children's Worlds},
   keywords  = {\_BibTex to MD Git;Knowledge - Skill Acquisition;Philosophy of
                Education;Education},
+  language  = {en}
+}
+
+@BOOK{Mazzucato2016-qt,
+  title     = {Rethinking Capitalism: Economics and Policy for Sustainable and
+               Inclusive Growth},
+  editor    = {Mazzucato, Mariana and Jacobs, Michael},
+  publisher = {John Wiley \& Sons},
+  date      = {2016-08-05},
+  pagetotal = {224},
+  isbn      = {9781119120957},
+  abstract  = {Western capitalism is in crisis. For decades investment has been
+               falling, living standards have stagnated or declined, and
+               inequality has risen dramatically. Economic policy has neither
+               reformed the financial system nor restored stable growth. Climate
+               change meanwhile poses increasing risks to future prosperity. In
+               this book some of the world’s leading economists propose new ways
+               of thinking about capitalism. In clear and compelling prose, each
+               chapter shows how today’s deep economic problems reflect the
+               inadequacies of orthodox economic theory and the failure of
+               policies informed by it. The chapters examine a range of
+               contemporary economic issues, including fiscal and monetary
+               policy, financial markets and business behaviour, inequality and
+               privatisation, and innovation and environmental change. The
+               authors set out alternative economic approaches which better
+               explain how capitalism works, why it often doesn’t, and how it
+               can be made more innovative, inclusive and sustainable. Outlining
+               a series of far-reaching policy reforms, Rethinking Capitalism
+               offers a powerful challenge to mainstream economic debate, and
+               new ideas to transform it.},
+  series    = {Political Quarterly Monograph Series},
   language  = {en}
 }
 
