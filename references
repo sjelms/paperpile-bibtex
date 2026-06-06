@@ -1619,6 +1619,18 @@
   language  = {en}
 }
 
+@BOOK{Mazzucato2016-qt,
+  title     = {Rethinking capitalism},
+  editor    = {Mazzucato, Mariana and Jacobs, Michael},
+  publisher = {John Wiley \& Sons},
+  location  = {Nashville, TN},
+  date      = {2016-08-05},
+  pagetotal = {224},
+  isbn      = {9781119120957},
+  series    = {Political Quarterly Monograph Series},
+  language  = {en}
+}
+
 @BOOK{Klein2020-xn,
   title     = {Why We're Polarized},
   author    = {Klein, Ezra},
