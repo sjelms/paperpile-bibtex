@@ -1652,6 +1652,38 @@
   language  = {en}
 }
 
+@ARTICLE{Glaeser2008-jr,
+  title        = {Housing supply and housing bubbles},
+  author       = {Glaeser, Edward L and Gyourko, Joseph and Saiz, Albert},
+  journaltitle = {Journal of Urban Economics},
+  publisher    = {Elsevier BV},
+  volume       = {64},
+  issue        = {2},
+  pages        = {198--217},
+  date         = {2008-09},
+  doi          = {10.1016/j.jue.2008.07.007},
+  issn         = {0094-1190,1095-9068},
+  abstract     = {Like many other assets, housing prices are quite volatile
+                  relative to observable changes in fundamentals. If we are
+                  going to understand boom-bust housing cycles, we must
+                  incorporate housing supply. In this paper, we present a simple
+                  model of housing bubbles that predicts that places with more
+                  elastic housing supply have fewer and shorter bubbles, with
+                  smaller price increases. However, the welfare consequences of
+                  bubbles may actually be higher in more elastic places because
+                  those places will overbuild more in response to a bubble. The
+                  data show that the price run-ups of the 1980s were almost
+                  exclusively experienced in cities where housing supply is more
+                  inelastic. More elastic places had slightly larger increases
+                  in building during that period. Over the past five years, a
+                  modest number of more elastic places also experienced large
+                  price booms, but as the model suggests, these booms seem to
+                  have been quite short. Prices are already moving back towards
+                  construction costs in those areas.},
+  url          = {http://dx.doi.org/10.1016/j.jue.2008.07.007},
+  language     = {en}
+}
+
 @BOOK{Klein2020-xn,
   title     = {Why We're Polarized},
   author    = {Klein, Ezra},
