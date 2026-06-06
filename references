@@ -1684,6 +1684,30 @@
   language     = {en}
 }
 
+@REPORT{Glaeser2002-vs,
+  type        = {resreport},
+  title       = {The impact of zoning on housing affordability},
+  author      = {Glaeser, Edward and Gyourko, Joseph},
+  publisher   = {National Bureau of Economic Research},
+  institution = {National Bureau of Economic Research},
+  location    = {Cambridge, MA},
+  number      = {8835},
+  date        = {2002-03},
+  doi         = {10.3386/w8835},
+  abstract    = {Does America face an affordable housing crisis and, if so, why?
+                 This paper argues that in much of America the price of housing
+                 is quite close to the marginal, physical costs of new
+                 construction. The price of housing is significantly higher than
+                 construction costs only in a limited number of areas, such as
+                 California and some eastern cities. In those areas, we argue
+                 that high prices have little to do with conventional models
+                 with a free market for land. Instead, our evidence suggests
+                 that zoning and other land use controls, play the dominant role
+                 in making housing expensive.},
+  series      = {Working Paper Series},
+  url         = {http://dx.doi.org/10.3386/w8835}
+}
+
 @BOOK{Klein2020-xn,
   title     = {Why We're Polarized},
   author    = {Klein, Ezra},
