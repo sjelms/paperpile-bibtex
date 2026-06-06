@@ -1619,10 +1619,10 @@
   language  = {en}
 }
 
-@BOOK{Mazzucato2016-qt,
+@BOOK{Jacobs2016-on,
   title     = {Rethinking Capitalism: Economics and Policy for Sustainable and
                Inclusive Growth},
-  editor    = {Mazzucato, Mariana and Jacobs, Michael},
+  editor    = {Jacobs, Michael and Mazzucato, Mariana},
   publisher = {John Wiley \& Sons},
   date      = {2016-08-05},
   pagetotal = {224},
