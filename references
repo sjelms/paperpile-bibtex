@@ -1686,8 +1686,8 @@
 
 @REPORT{Glaeser2002-vs,
   type        = {resreport},
-  title       = {The impact of zoning on housing affordability},
-  author      = {Glaeser, Edward and Gyourko, Joseph},
+  title       = {The Impact of Zoning on Housing Affordability},
+  author      = {Glaeser, Edward L and Gyourko, Joseph},
   publisher   = {National Bureau of Economic Research},
   institution = {National Bureau of Economic Research},
   location    = {Cambridge, MA},
@@ -1705,7 +1705,7 @@
                  that zoning and other land use controls, play the dominant role
                  in making housing expensive.},
   series      = {Working Paper Series},
-  url         = {http://dx.doi.org/10.3386/w8835}
+  url         = {http://www.nber.org/papers/w8835}
 }
 
 @BOOK{Klein2020-xn,
