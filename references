@@ -20414,8 +20414,8 @@
   url          = {http://dx.doi.org/10.1080/23279095.2023.2174438},
   keywords     = {Ecological validity; Information and Communications
                   Technologies; executive function; neuropsychological
-                  assessment; real-world functioning; serious
-                  game;Neurodiversity},
+                  assessment; real-world functioning; serious game;\_BibTex to
+                  MD Git;Neurodiversity},
   language     = {en}
 }
 
@@ -30954,7 +30954,7 @@
                   therapies could be useful tools for improving emotional
                   difficulties in adult ADHD.},
   url          = {http://dx.doi.org/10.1371/journal.pone.0280131},
-  keywords     = {Neurodiversity},
+  keywords     = {\_BibTex to MD Git;Neurodiversity},
   language     = {en}
 }
 
