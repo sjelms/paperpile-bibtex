@@ -29686,8 +29686,9 @@
 }
 
 @ARTICLE{Oroian2025-sp,
-  title        = {{ADHD} and decision paralysis: Overwhelm in a world of choices},
-  author       = {Oroian, B A and Nechita, P and Szalontay, A},
+  title        = {{ADHD} and Decision Paralysis: Overwhelm in a World of Choices},
+  author       = {Oroian, Bianca Augusta and Nechita, Petronela and Szalontay,
+                  Andreea},
   journaltitle = {European Psychiatry: The Journal of the Association of
                   European Psychiatrists},
   publisher    = {Royal College of Psychiatrists},
@@ -29697,11 +29698,11 @@
   date         = {2025-04},
   doi          = {10.1192/j.eurpsy.2025.406},
   issn         = {0924-9338,1778-3585},
-  abstract     = {IntroductionDecision paralysis, defined as the inability to
-                  make decisions due to overwhelming options or uncertainty, is
-                  an often overlooked symptom of Attention-Deficit/Hyperactivity
-                  Disorder (ADHD). Individuals with ADHD frequently struggle
-                  with executive dysfunction, making it difficult to prioritize
+  abstract     = {Decision paralysis, defined as the inability to make decisions
+                  due to overwhelming options or uncertainty, is an often
+                  overlooked symptom of Attention-Deficit/Hyperactivity Disorder
+                  (ADHD). Individuals with ADHD frequently struggle with
+                  executive dysfunction, making it difficult to prioritize
                   tasks, evaluate choices, and make timely decisions. Despite
                   its significance, decision paralysis remains under-researched,
                   particularly in terms of its impact on daily functioning and
