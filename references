@@ -20360,6 +20360,64 @@
   keywords     = {PhD Study and Support;PhD Support and Training}
 }
 
+@ARTICLE{Martinez-Pernia2025-mn,
+  title        = {The limitations and challenges in the assessment of executive
+                  dysfunction associated with real-world functioning: The
+                  opportunity of serious games},
+  author       = {Martínez-Pernía, David and Olavarría, Loreto and
+                  Fernández-Manjón, Baltasar and Cabello, Victoria and
+                  Henríquez, Fernando and Robert, Philippe and Alvarado, Luís
+                  and Barría, Silvia and Antivilo, Andrés and Velasquez, Juan
+                  and Cerda, Mauricio and Farías, Gonzalo and Torralva, Teresa
+                  and Ibáñez, Agustín and Parra, Mario A and Gilbert, Sam and
+                  Slachevsky, Andrea},
+  journaltitle = {Applied Neuropsychology. Adult},
+  publisher    = {Informa UK Limited},
+  volume       = {32},
+  issue        = {2},
+  pages        = {557--573},
+  date         = {2025-03},
+  doi          = {10.1080/23279095.2023.2174438},
+  pmc          = {PMC11177293},
+  pmid         = {36827177},
+  abstract     = {Nowadays, there is a broad range of methods for detecting and
+                  evaluating executive dysfunction ranging from clinical
+                  interview to neuropsychological evaluation. Nevertheless, a
+                  critical issue of these assessments is the lack of
+                  correspondence of the neuropsychological test's results with
+                  real-world functioning. This paper proposes serious games as a
+                  new framework to improve the neuropsychological assessment of
+                  real-world functioning. We briefly discuss the contribution
+                  and limitations of current methods of evaluation of executive
+                  dysfunction (paper-and-pencil tests, naturalistic observation
+                  methods, and Information and Communications Technologies) to
+                  inform on daily life functioning. Then, we analyze what are
+                  the limitations of these methods to predict real-world
+                  performance: (1) A lack of appropriate instruments to
+                  investigate the complexity of real-world functioning, (2) the
+                  vast majority of neuropsychological tests assess
+                  well-structured tasks, and (3) measurement of behaviors are
+                  based on simplistic data collection and statistical analysis.
+                  This work shows how serious games offer an opportunity to
+                  develop more efficient tools to detect executive dysfunction
+                  in everyday life contexts. Serious games provide meaningful
+                  narrative stories and virtual or real environments that
+                  immerse the user in natural and social environments with
+                  social interactions. In those highly interactive game
+                  environments, the player needs to adapt his/her behavioral
+                  performance to novel and ill-structured tasks which are suited
+                  for collecting user interaction evidence. Serious games offer
+                  a novel opportunity to develop better tools to improve
+                  diagnosis of the executive dysfunction in everyday life
+                  contexts. However, more research is still needed to implement
+                  serious games in everyday clinical practice.},
+  url          = {http://dx.doi.org/10.1080/23279095.2023.2174438},
+  keywords     = {Ecological validity; Information and Communications
+                  Technologies; executive function; neuropsychological
+                  assessment; real-world functioning; serious game},
+  language     = {en}
+}
+
 @ARTICLE{Young2001-ct,
   title        = {Contextualising a New Approach to Learning: Some comments on
                   Yrjö Engeström's theory of expansive learning},
