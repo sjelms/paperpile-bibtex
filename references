@@ -31110,13 +31110,28 @@
 }
 
 @ARTICLE{Sakulku2011-lp,
-  title     = {{THE} {IMPOSTOR} {PHENOMENON}},
-  author    = {Sakulku, Jaruwan and Alexander, James},
-  publisher = {Behavioral Science Research Institute,SWU.},
-  date      = {2011},
-  doi       = {10.14456/ijbs.2011.6},
-  url       = {http://dx.doi.org/10.14456/ijbs.2011.6},
-  keywords  = {Neurodiversity}
+  title        = {The Impostor Phenomenon},
+  author       = {Sakulku, Jaruwan and Alexander, James},
+  journaltitle = {The Journal of Behavioral Science},
+  volume       = {6},
+  issue        = {1},
+  pages        = {75--97},
+  date         = {2011},
+  doi          = {10.14456/ijbs.2011.6},
+  issn         = {1906-4675},
+  abstract     = {The Impostor Phenomenon was identified from clinical
+                  observations during therapeutic sessions with high achieving
+                  women by Dr Pauline Clance. Despite objective evidence of
+                  success, these women had a pervasive psychological experience
+                  believing that they were intellectual frauds and feared being
+                  recognised as impostors. They suffered from anxiety, fear of
+                  failure and dissatisfaction with life. This article reviews
+                  definitions and characteristics of trait Impostorism, some
+                  antecedents, such as personality and family achievement
+                  environment and psychological distress as a consequence of
+                  Impostorism.},
+  url          = {http://dx.doi.org/10.14456/ijbs.2011.6},
+  keywords     = {Neurodiversity}
 }
 
 @ARTICLE{Hey2007-au,
