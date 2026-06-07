@@ -31109,6 +31109,16 @@
   language     = {en}
 }
 
+@ARTICLE{Sakulku2011-lp,
+  title     = {{THE} {IMPOSTOR} {PHENOMENON}},
+  author    = {Sakulku, Jaruwan and Alexander, James},
+  publisher = {Behavioral Science Research Institute,SWU.},
+  date      = {2011},
+  doi       = {10.14456/ijbs.2011.6},
+  url       = {http://dx.doi.org/10.14456/ijbs.2011.6},
+  keywords  = {Neurodiversity}
+}
+
 @ARTICLE{Hey2007-au,
   title        = {Framing innovation: negotiating shared frames during early
                   design phases},
