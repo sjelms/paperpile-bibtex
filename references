@@ -38944,6 +38944,25 @@
   keywords    = {Construction 4-0;AEC;Labor}
 }
 
+@ARTICLE{Foster2024-at,
+  title        = {{TikTok}-inspired self-diagnosis and its implications for
+                  educational psychology practice},
+  author       = {Foster, Alma and Ellis, Natasha},
+  journaltitle = {Educational Psychology in Practice},
+  publisher    = {Informa UK Limited},
+  volume       = {40},
+  issue        = {4},
+  pages        = {491--508},
+  date         = {2024-10-29},
+  doi          = {10.1080/02667363.2024.2409451},
+  issn         = {0266-7363,1469-5839},
+  abstract     = {This is the final version. Available on open access from
+                  Routledge via the DOI in this record.},
+  url          = {http://dx.doi.org/10.1080/02667363.2024.2409451},
+  urldate      = {2026-06-07},
+  language     = {en}
+}
+
 @INBOOK{Yunusa-Kaltungo2023-gv,
   title     = {Risk modelling techniques for occupational safety and health
                management in construction},
