@@ -39257,6 +39257,20 @@
   language  = {en}
 }
 
+@ONLINE{Chase2022-kg,
+  title     = {The Dyslexia-{ADHD} Overlap: Why Evaluators Confuse the
+               Conditions},
+  author    = {Chase, Cheryl},
+  booktitle = {ADDitude},
+  date      = {2022-08-18},
+  abstract  = {A dyslexia evaluation should also consider ADHD, which may
+               co-occur with the reading disorder, mask its symptoms, and/or
+               complicate testing.},
+  url       = {https://www.additudemag.com/dyslexia-evaluation-adhd-comorbidity-overlap/},
+  urldate   = {2026-06-07},
+  language  = {en}
+}
+
 @BOOK{Whitman2017-ks,
   title     = {Hitler's American model},
   author    = {Whitman, James Q},
