@@ -8433,6 +8433,19 @@
                   Learning;Knowledge - Skill Acquisition}
 }
 
+@ARTICLE{Habgood-Coote2025-qu,
+  title        = {Collective action, work, and partial plans},
+  author       = {Habgood-Coote, Joshua},
+  journaltitle = {Inquiry (Oslo, Norway)},
+  publisher    = {Informa UK Limited},
+  pages        = {1--27},
+  date         = {2025-03-30},
+  doi          = {10.1080/0020174x.2025.2478895},
+  issn         = {0020-174X,1502-3923},
+  url          = {http://dx.doi.org/10.1080/0020174x.2025.2478895},
+  language     = {en}
+}
+
 @ARTICLE{Stoller2015-ne,
   title        = {Taylorism and the logic of learning outcomes},
   author       = {Stoller, Aaron},
