@@ -291,6 +291,25 @@
   origdate     = {1925}
 }
 
+@ARTICLE{Hamzehpoor2025-zc,
+  title        = {How {I} learned to ride},
+  author       = {Hamzehpoor, Ehsan},
+  journaltitle = {Science (New York, N.Y.)},
+  volume       = {389},
+  issue        = {6761},
+  pages        = {754},
+  date         = {2025-08-14},
+  doi          = {10.1126/science.aeb3342},
+  pmid         = {40811533},
+  issn         = {0036-8075,1095-9203},
+  abstract     = {I sat in my supervisor’s office, red-faced and anxious, words
+                  tumbling out faster than I could control. For half an hour, I
+                  vented everything I had been holding in for months: the
+                  stress, the doubt, the sense that I didn’t belong.},
+  url          = {http://dx.doi.org/10.1126/science.aeb3342},
+  language     = {en}
+}
+
 @ARTICLE{Rucker2017-kk,
   title        = {How can an understanding of learning theories be used in the
                   design of training? A critical evaluation},
@@ -1607,21 +1626,6 @@
   keywords  = {\_BibTex to MD Git;003\_Theoretical Framework;EPubs
                Books;Economics;Labor;RNIB;ePub},
   language  = {en}
-}
-
-@ARTICLE{Hamzehpoor2025-zc,
-  title        = {How {I} learned to ride},
-  author       = {Hamzehpoor, Ehsan},
-  journaltitle = {Science (New York, N.Y.)},
-  volume       = {389},
-  issue        = {6761},
-  pages        = {754},
-  date         = {2025-08-14},
-  doi          = {10.1126/science.aeb3342},
-  pmid         = {40811533},
-  issn         = {0036-8075,1095-9203},
-  url          = {http://dx.doi.org/10.1126/science.aeb3342},
-  language     = {en}
 }
 
 @VIDEO{Mendes2015-he,
