@@ -56537,6 +56537,16 @@
                   Articles;\_BibTex to MD Git}
 }
 
+@BOOK{Ehrenreich2010-ct,
+  title     = {Nickel and dimed},
+  author    = {Ehrenreich, Barbara},
+  publisher = {Granta Books},
+  location  = {London, England},
+  date      = {2010-08-05},
+  pagetotal = {240},
+  isbn      = {9781847082626}
+}
+
 @BOOK{Smith1776-oj,
   title     = {An Inquiry into the Nature and Causes of the Wealth of Nations},
   author    = {Smith, Adam},
