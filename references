@@ -27648,6 +27648,37 @@
                   Notion;Economics}
 }
 
+@ARTICLE{Sawchuk2006-od,
+  title        = {‘use-value’ and the re-thinking of skills, learning and the
+                  labour process},
+  author       = {Sawchuk, Peter H},
+  journaltitle = {The Journal of Industrial Relations},
+  publisher    = {SAGE Publications},
+  volume       = {48},
+  issue        = {5},
+  pages        = {593--617},
+  date         = {2006-11},
+  doi          = {10.1177/0022185606070107},
+  issn         = {0022-1856,1472-9296},
+  abstract     = {Reviewing multiple traditions of social analysis of work,
+                  skill and knowledge this article seeks to renew the
+                  possibility for a critical, integrated approach.
+                  Contextualizing and then criticizing the ongoing
+                  ‘up-skilling/de-skilling impasse’, I offer discussion of
+                  several alternative conceptual resources that may contribute
+                  to a more robust appreciation for learning and human
+                  development, potentially unified under a suggested ‘Use-Value
+                  Thesis’ on the labour/learning process. It is argued that
+                  recognizing ‘use-value’ sets the stage for a broader systemic
+                  understanding of the contradictory processes (e.g.
+                  up-skilling/de-skilling, engagement/alienation,
+                  co-operation/conflict) that occur simultaneously in all
+                  workplaces under capitalism, and in turn offers a means to
+                  more coherently assess the full range of human learning.},
+  url          = {http://dx.doi.org/10.1177/0022185606070107},
+  language     = {en}
+}
+
 @ARTICLE{Von_Karolyi2001-ee,
   title        = {Visual-spatial strength in dyslexia: rapid discrimination of
                   impossible figures},
