@@ -20917,6 +20917,43 @@
   keywords     = {Politics and Society;Politics and Society}
 }
 
+@ARTICLE{Treem2023-lk,
+  title        = {Signaling and meaning in organizational analytics: coping with
+                  Goodhart's Law in an era of digitization and datafication},
+  author       = {Treem, Jeffrey W and Barley, William C and Weber, Matthew S
+                  and Barbour, Joshua B},
+  journaltitle = {Journal of Computer-Mediated Communication: JCMC},
+  publisher    = {Oxford University Press (OUP)},
+  volume       = {28},
+  issue        = {4},
+  pages        = {zmad023},
+  date         = {2023-07},
+  doi          = {10.1093/jcmc/zmad023},
+  pmc          = {PMC10376445},
+  pmid         = {37520858},
+  issn         = {1083-6101},
+  abstract     = {The future of work will be measured. The increasing and
+                  widespread adoption of analytics, the use of digital inputs
+                  and outputs to inform organizational decision making, makes
+                  the communication of data central to organizing. This article
+                  applies and extends signaling theory to provide a framework
+                  for the study of analytics as communication. We report three
+                  cases that offer examples of dubious, selective, and ambiguous
+                  signaling in the activities of workers seeking to shape the
+                  meaning of data within the practice of analytics. The analysis
+                  casts the future of work as a game of strategic moves between
+                  organizations, seeking to measure behaviors and quantify the
+                  performance of work, and workers, altering their behavioral
+                  signaling to meet situated goals. The framework developed
+                  offers a guide for future examinations of the asymmetric
+                  relationship between management and workers as organizations
+                  adopt metrics to monitor and evaluate work.},
+  url          = {http://dx.doi.org/10.1093/jcmc/zmad023},
+  keywords     = {analytics; commensuration; data; measurement; metrics;
+                  signaling;Braverman},
+  language     = {en}
+}
+
 @ARTICLE{Turing1950-ky,
   title        = {Computing Machinery and Intelligence},
   author       = {Turing, Alan Mathison},
