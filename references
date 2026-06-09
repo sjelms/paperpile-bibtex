@@ -14894,6 +14894,19 @@
   keywords     = {Braverman;\_BibTex to MD Git}
 }
 
+@MISC{Tinel2009-gg,
+  title    = {Labour process and the division of labour, a reading},
+  author   = {Tinel, Bruno},
+  date     = {2009-11},
+  url      = {https://shs.hal.science/halshs-00435252},
+  note     = {Documents de travail du Centre d'Economie de la Sorbonne 2009.74 -
+              ISSN : 1955-611X},
+  keywords = {cooperation ; Labour process ; Babbage principle ; division of
+              labour ; formal/real subordination ; cooperation. ; Procès de
+              travail ; principe de Babbage ; division du travail ;
+              subordination formelle/réelle;Braverman}
+}
+
 @PHDTHESIS{Whitston1995-jx,
   type        = {phdthesis},
   title       = {Scientific Management Practice in Britain: A History},
