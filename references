@@ -28138,6 +28138,22 @@
   language     = {en}
 }
 
+@ARTICLE{Friedman1977-xo,
+  title        = {Responsible autonomy versus direct control over the labour
+                  process},
+  author       = {Friedman, Andy},
+  journaltitle = {Capital \& Class},
+  publisher    = {SAGE Publications},
+  volume       = {1},
+  issue        = {1},
+  pages        = {43--57},
+  date         = {1977-01},
+  doi          = {10.1177/030981687700100104},
+  issn         = {0309-8168,2041-0980},
+  url          = {http://dx.doi.org/10.1177/030981687700100104},
+  language     = {en}
+}
+
 @ARTICLE{Attewell1987-vr,
   title        = {The Deskilling Controversy},
   author       = {Attewell, Paul},
