@@ -14894,17 +14894,36 @@
   keywords     = {Braverman;\_BibTex to MD Git}
 }
 
-@MISC{Tinel2009-gg,
-  title    = {Labour process and the division of labour, a reading},
-  author   = {Tinel, Bruno},
-  date     = {2009-11},
-  url      = {https://shs.hal.science/halshs-00435252},
-  note     = {Documents de travail du Centre d'Economie de la Sorbonne 2009.74 -
-              ISSN : 1955-611X},
-  keywords = {cooperation ; Labour process ; Babbage principle ; division of
-              labour ; formal/real subordination ; cooperation. ; Procès de
-              travail ; principe de Babbage ; division du travail ;
-              subordination formelle/réelle;Braverman}
+@ARTICLE{Tinel2009-gg,
+  title        = {Labour process and the division of labour, a reading},
+  author       = {Tinel, Bruno},
+  journaltitle = {Les Documents de travail du Centre d'Économie de la Sorbonne
+                  (CES)},
+  pages        = {15},
+  date         = {2009-11},
+  issn         = {1955-611X},
+  abstract     = {This article proposes an analysis of the labour process and
+                  the division of labour in capitalist production through a
+                  reading of Marx and a few others like Babbage and Braverman.
+                  The distinction between labour and labour power is used to
+                  expose the specificity of the labour process. Cooperation
+                  constitues the fundamental from of capitalist production,
+                  which entails a double-sided command (coordination to produce
+                  use-values and despotism to extract surplus-value). Formal
+                  subordination, i.e; the threat of lay-off, is historically and
+                  logically the primitive moment of labour's subordination to
+                  capital. The effect of the division of labour on productivity
+                  is only temporary. It principally deprives workers of their
+                  professional skills, increases real control by management,
+                  reduces labour power's value and prepares its replacement by
+                  machinery. There is an incessant struggle between labour and
+                  management over the control of the labour process and over
+                  skills.},
+  url          = {https://shs.hal.science/halshs-00435252},
+  note         = {Documents de travail du Centre d'Economie de la Sorbonne
+                  2009.74 - ISSN : 1955-611X},
+  keywords     = {Braverman},
+  language     = {en}
 }
 
 @PHDTHESIS{Whitston1995-jx,
