@@ -20926,7 +20926,6 @@
   publisher    = {Oxford University Press (OUP)},
   volume       = {28},
   issue        = {4},
-  pages        = {zmad023},
   date         = {2023-07},
   doi          = {10.1093/jcmc/zmad023},
   pmc          = {PMC10376445},
@@ -20949,8 +20948,7 @@
                   relationship between management and workers as organizations
                   adopt metrics to monitor and evaluate work.},
   url          = {http://dx.doi.org/10.1093/jcmc/zmad023},
-  keywords     = {analytics; commensuration; data; measurement; metrics;
-                  signaling;Braverman},
+  keywords     = {Braverman},
   language     = {en}
 }
 
