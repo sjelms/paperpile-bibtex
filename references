@@ -2439,7 +2439,7 @@
                   workplaces under capitalism, and in turn offers a means to
                   more coherently assess the full range of human learning.},
   url          = {http://dx.doi.org/10.1177/0022185606070107},
-  keywords     = {Braverman},
+  keywords     = {Braverman;Labor},
   language     = {en}
 }
 
@@ -2481,7 +2481,7 @@
                   section IV the implementation of these strategies in practice
                   is discussed.},
   url          = {http://dx.doi.org/10.1177/030981687700100104},
-  keywords     = {Braverman},
+  keywords     = {Braverman;Labor},
   language     = {en}
 }
 
@@ -14718,7 +14718,8 @@
                of agricultural activity. The most pronounced division was
                between the central-core area of England stretching from London
                to the North West and peripheral areas in Britain and Ireland.},
-  url       = {http://dx.doi.org/10.1007/978-1-349-17107-1_13}
+  url       = {http://dx.doi.org/10.1007/978-1-349-17107-1_13},
+  keywords  = {Labor}
 }
 
 @ARTICLE{De_Jong2013-st,
