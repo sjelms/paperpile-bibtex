@@ -15164,15 +15164,16 @@
 }
 
 @INBOOK{Beckett2005-uy,
-  title     = {---},
+  title     = {Conceptualising practice in postmodernity},
   author    = {Beckett, David and Hager, Paul},
   booktitle = {Life, Work and Learning: Practice in Postmodernity},
   publisher = {Routledge},
   location  = {London, England},
   edition   = {1st Edition},
+  pages     = {152--171},
   date      = {2002},
-  doi       = {10.4324/9780203994450-},
-  url       = {http://dx.doi.org/10.4324/9780203994450-},
+  doi       = {10.4324/9780203994450-10},
+  url       = {http://dx.doi.org/10.4324/9780203994450-10},
   keywords  = {Life\_Work\_Learning;Book (child);Knowledge - Skill
                Acquisition;Workplace Learning;ePub}
 }
