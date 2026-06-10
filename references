@@ -15150,15 +15150,16 @@
 }
 
 @INBOOK{Beckett2005-om,
-  title     = {---},
+  title     = {Know how and judgement in postmodernity},
   author    = {Beckett, David and Hager, Paul},
   booktitle = {Life, Work and Learning: Practice in Postmodernity},
   publisher = {Routledge},
   location  = {London, England},
   edition   = {1st Edition},
+  pages     = {172--195},
   date      = {2002},
-  doi       = {10.4324/9780203994450-},
-  url       = {http://dx.doi.org/10.4324/9780203994450-},
+  doi       = {10.4324/9780203994450-11},
+  url       = {http://dx.doi.org/10.4324/9780203994450-11},
   keywords  = {Life\_Work\_Learning;Book (child);Knowledge - Skill
                Acquisition;Workplace Learning;ePub}
 }
