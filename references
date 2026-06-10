@@ -36998,6 +36998,21 @@
                Acquisition;Workplace Learning;ePub;Book (parent)}
 }
 
+@INBOOK{Beckett2005-ms,
+  title     = {Introduction:Life in the swamp},
+  author    = {Beckett, Paul},
+  booktitle = {Taylor \& Francis},
+  publisher = {Routledge},
+  location  = {London, England},
+  edition   = {1st Edition},
+  date      = {2005-07-08},
+  doi       = {10.4324/9780203994450-2},
+  abstract  = {Introduction - 1 - Life in the swamp},
+  url       = {http://dx.doi.org/10.4324/9780203994450-2},
+  urldate   = {2026-06-10},
+  keywords  = {Life\_Work\_Learning}
+}
+
 @MISC{Sprevak_undated-ps,
   title    = {Mark Sprevak (2020). Extended cognition. The Routledge
               Encyclopedia of Philosophy},
