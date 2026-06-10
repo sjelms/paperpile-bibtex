@@ -15206,15 +15206,16 @@
 }
 
 @INBOOK{Beckett2005-we,
-  title     = {---},
+  title     = {Introduction: Celebrating the swamp},
   author    = {Beckett, David and Hager, Paul},
   booktitle = {Life, Work and Learning: Practice in Postmodernity},
   publisher = {Routledge},
   location  = {London, England},
   edition   = {1st Edition},
+  pages     = {91--95},
   date      = {2005-07-08},
-  doi       = {10.4324/9780203994450-},
-  url       = {http://dx.doi.org/10.4324/9780203994450-},
+  doi       = {10.4324/9780203994450-7},
+  url       = {http://dx.doi.org/10.4324/9780203994450-7},
   keywords  = {Life\_Work\_Learning;Book (child);Knowledge - Skill
                Acquisition;Workplace Learning;ePub}
 }
