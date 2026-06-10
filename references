@@ -15178,15 +15178,17 @@
 }
 
 @INBOOK{Beckett2005-mc,
-  title     = {---},
+  title     = {Holism/organicism: Epistemological implications of practice-based
+               learning at work},
   author    = {Beckett, David and Hager, Paul},
   booktitle = {Life, Work and Learning: Practice in Postmodernity},
   publisher = {Routledge},
   location  = {London, England},
   edition   = {1st Edition},
+  pages     = {123--151},
   date      = {2002},
-  doi       = {10.4324/9780203994450-},
-  url       = {http://dx.doi.org/10.4324/9780203994450-},
+  doi       = {10.4324/9780203994450-9},
+  url       = {http://dx.doi.org/10.4324/9780203994450-9},
   keywords  = {Life\_Work\_Learning;Book (child);Knowledge - Skill
                Acquisition;Workplace Learning;ePub}
 }
