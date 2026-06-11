@@ -59425,18 +59425,6 @@
                Acquisition;Workplace Learning;ePub}
 }
 
-@ARTICLE{Elms2024-np,
-  title     = {Immersive Training Solutions: The Potential Role of {XR} for
-               Safety and Skill Development in Offsite Construction},
-  author    = {Elms, Stephen},
-  publisher = {discovery.ucl.ac.uk},
-  date      = {2024},
-  abstract  = {construction workforce. In summary, XR technology can bridge the
-               skills gap in offsite construction by providing immersive,
-               hands-on training that enhances safety and skill acquisition.},
-  url       = {https://discovery.ucl.ac.uk/id/eprint/10195122/}
-}
-
 @ARTICLE{Heldens2022-dk,
   title        = {litstudy: A Python package for literature reviews},
   author       = {Heldens, Stijn and Sclocco, Alessio and Dreuning, Henk and van
@@ -59521,4 +59509,60 @@
                   research; digital research methods; rule-based automation;
                   systematic reviews;BSSC Seed Fund for AI Research},
   language     = {en}
+}
+
+@MISC{Elms2024-np,
+  title      = {Immersive Training Solutions: The Potential Role of {XR} for
+                Safety and Skill Development in Offsite Construction},
+  author     = {Elms, Stephen J},
+  publisher  = {discovery.ucl.ac.uk},
+  eventtitle = {Transforming Construction with Offsite Methods and Technologies},
+  venue      = {Fredericton, New Brunswick, Canada},
+  eventdate  = {2024-08-21},
+  date       = {2024},
+  abstract   = {Extended Reality (XR) technology, which includes Virtual Reality
+                (VR), Augmented Reality (AR), and Mixed Reality (MR), offers
+                transformative potential for vocational education and training
+                (VET) across various industries. This study examines the
+                application of XR in VET, focusing on its potential to address
+                the unique training needs of the offsite construction industry.
+                Offsite construction involves the prefabrication of building
+                components in controlled factory environments, necessitating
+                specific skills that traditional training methods may not fully
+                address. The use of XR in VET can simulate real-world scenarios
+                in a risk-free environment, making it a valuable tool for
+                enhancing safety training, heavy machinery operation, and
+                spatial awareness. Studies show that XR applications in safety
+                training prepare workers for hazardous situations without actual
+                risk, while virtual and augmented simulations of machinery
+                operation provide hands-on experience in a controlled setting.
+                XR also enhances spatial awareness, a critical skill in
+                construction, by helping trainees understand spatial
+                relationships and dimensions. Applying these parallel findings
+                to offsite construction may reveal several unique benefits of
+                XR, including improved safety through immersive simulations,
+                enhanced skill acquisition through hands-on experiences, and
+                cost-effective training solutions that reduce the need for
+                physical resources. However, challenges such as high initial
+                setup costs, resistance to new technology, and the need for
+                ongoing updates to XR modules must be addressed. XR can simulate
+                the assembly of modular components and integrate digital design
+                with physical construction processes, making it highly relevant
+                for offsite construction training. Integrating XR into offsite
+                construction training programs offers significant potential. A
+                phased approach, starting with pilot programs, can assess the
+                effectiveness of XR training and expand as specific skills are
+                identified and developed. Collaboration between industry
+                stakeholders and VET providers is crucial for creating tailored
+                XR training solutions that meet the unique needs of the offsite
+                construction workforce. In summary, XR technology can bridge the
+                skills gap in offsite construction by providing immersive,
+                hands-on training that enhances safety and skill acquisition.
+                This study highlights the importance of further research to
+                identify specific skills required in offsite construction and
+                suggests a collaborative approach to developing effective XR
+                training programs. By leveraging XR, the construction industry
+                can prepare a competent, safety-conscious workforce for the
+                future.},
+  url        = {https://discovery.ucl.ac.uk/id/eprint/10195122/}
 }
