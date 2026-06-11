@@ -59642,3 +59642,13 @@
   keywords  = {\_BibTex to MD Git;Future of Work;Artificial Intelligence
                (AI);Robots;Economics}
 }
+
+@BOOK{Womack2007-he,
+  title     = {The machine that changed the world},
+  author    = {Womack, James P and Jones, Daniel T and Roos, Daniel},
+  publisher = {Simon \& Schuster},
+  location  = {London, England},
+  date      = {2007-03-31},
+  pagetotal = {352},
+  isbn      = {9781847370556}
+}
