@@ -59441,3 +59441,71 @@
   url          = {http://dx.doi.org/10.1016/j.softx.2022.101207},
   language     = {en}
 }
+
+@ARTICLE{Robleto2025-hi,
+  title        = {Accelerating systematic reviews: a novel 1-wk screening
+                  protocol using rule-based automation with {AI}-assisted Python
+                  coding},
+  author       = {Robleto, Emely and Shehadeh, Lina A},
+  journaltitle = {American Journal of Physiology. Heart and Circulatory
+                  Physiology},
+  publisher    = {American Physiological Society},
+  volume       = {329},
+  issue        = {5},
+  pages        = {H1391--H1413},
+  date         = {2025-11-01},
+  doi          = {10.1152/ajpheart.00374.2025},
+  pmid         = {40939020},
+  issn         = {0363-6135,1522-1539},
+  abstract     = {The exponential growth in academic publishing-exceeding 2
+                  million papers annually in 2023-has rendered traditional
+                  systematic review methods unsustainable. These conventional
+                  approaches typically require 6-24 mo for completion, creating
+                  critical delays between evidence availability and clinical
+                  implementation. Although existing automation tools demonstrate
+                  workload reductions of 30\%-72.5\%, their machine learning
+                  dependencies create barriers to immediate implementation. In
+                  addition, direct artificial intelligence (AI) screening
+                  methods involve substantial computational costs, lack
+                  real-time adaptability, suffer from inconsistent performance
+                  across different research domains, and provide no clear audit
+                  trail for regulatory compliance. We present a 1-wk systematic
+                  review acceleration protocol using rule-based automation where
+                  artificial intelligence (AI) assists with code generation.
+                  Researchers define screening criteria, then use AI language
+                  models (Claude and ChatGPT) as coding assistants. This
+                  protocol uses a two-phase screening process: 1) rule-based
+                  title/abstract screening and 2) rule-based full-text analysis,
+                  while adhering to established systematic review guidelines
+                  such as Cochrane methodology and Preferred Reporting Items for
+                  Systematic Reviews and Meta-Analyses reporting. The rule-based
+                  system provides immediate implementation with complete
+                  transparency, whereas validation framework guides researchers
+                  in systematically testing screening sensitivity to minimize
+                  false negatives and ensure comprehensive study capture;
+                  meta-analysis and statistical synthesis remain manual
+                  processes requiring human expertise. We demonstrate the
+                  protocol's application through a case study examining cardiac
+                  fatty acid oxidation in heart failure with preserved ejection
+                  fraction, and validated through a separate review examining
+                  e-cigarette versus traditional cigarette cardiopulmonary
+                  effects, which successfully processed 3,791 records. This
+                  protocol represents a substantial advancement in systematic
+                  review methodology, making high-quality evidence synthesis
+                  more accessible across a broad range of scientific
+                  disciplines.NEW \& NOTEWORTHY Systematic reviews are essential
+                  to keep up with academic literature but typically require 6-24
+                  mo to complete. Our novel 1-wk protocol integrates AI-assisted
+                  screening with Python-based automation-eliminating machine
+                  learning dependencies for immediate implementation. By
+                  streamlining article selection while adhering to Cochrane and
+                  PRISMA guidelines, this method accelerates evidence synthesis
+                  without compromising rigor. Applied in a cardiac metabolism
+                  case study, it offers a fast, accessible solution for
+                  researchers across disciplines.},
+  url          = {http://dx.doi.org/10.1152/ajpheart.00374.2025},
+  keywords     = {AI-assisted code generation; artificial intelligence in
+                  research; digital research methods; rule-based automation;
+                  systematic reviews},
+  language     = {en}
+}
