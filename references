@@ -15499,6 +15499,7 @@
   editor    = {Goulding, Jack S and Rahimian, Farzad Pour},
   booktitle = {Offsite Production and Manufacturing for Innovative Construction},
   publisher = {Routledge},
+  edition   = {1},
   pages     = {86--110},
   date      = {2019-06-19},
   doi       = {10.1201/9781315147321-5},
@@ -15523,7 +15524,8 @@
                foundation of knowledge and experience.},
   url       = {http://dx.doi.org/10.1201/9781315147321-5},
   keywords  = {Offsite Production and Manufacturing for Innovative
-               Construction;\_BibTex to MD Git;Book (child);AEC}
+               Construction;\_BibTex to MD Git;Book (child);AEC},
+  language  = {en}
 }
 
 @INBOOK{Manley2019-aj,
@@ -15532,6 +15534,7 @@
   editor    = {Goulding, Jack S and Rahimian, Farzad Pour},
   booktitle = {Offsite Production and Manufacturing for Innovative Construction},
   publisher = {Routledge},
+  edition   = {1},
   pages     = {399--418},
   date      = {2019-06-19},
   doi       = {10.1201/9781315147321-17},
@@ -15556,7 +15559,8 @@
                features, warranties and post-occupation care.},
   url       = {http://dx.doi.org/10.1201/9781315147321-17},
   keywords  = {Offsite Production and Manufacturing for Innovative
-               Construction;Book (child);AEC}
+               Construction;Book (child);AEC},
+  language  = {en}
 }
 
 @INBOOK{Agapiou2019-pv,
@@ -15566,6 +15570,7 @@
   editor    = {Goulding, Jack S and Rahimian, Farzad Pour},
   booktitle = {Offsite Production and Manufacturing for Innovative Construction},
   publisher = {Routledge},
+  edition   = {1},
   pages     = {449--469},
   date      = {2019-06-19},
   doi       = {10.1201/9781315147321-19},
@@ -15590,7 +15595,8 @@
                provisions, and drafted to accommodate traditional construction.},
   url       = {http://dx.doi.org/10.1201/9781315147321-19},
   keywords  = {Offsite Production and Manufacturing for Innovative
-               Construction;Book (child);AEC}
+               Construction;Book (child);AEC},
+  language  = {en}
 }
 
 @ARTICLE{De_Jong2013-st,
@@ -45339,6 +45345,7 @@
   booktitle = {Offsite Production and Manufacturing for Innovative Construction},
   publisher = {Routledge},
   location  = {Abingdon, Oxon ; New York, NY : Routledge, 2019.},
+  edition   = {1},
   pages     = {257--284},
   date      = {2019-06-19},
   doi       = {10.1201/9781315147321-11},
@@ -45347,7 +45354,8 @@
   keywords  = {Construction 4-0;2\_Upgrade MAY 2023;Offsite Production and
                Manufacturing for Innovative Construction;AEC Cited Lit for
                Jacqui;\_BibTex to MD Git;llm-wiki-workflow;\_New Literature;\_In
-               Notion;\_In Readwise;AEC;Cross Ref Chapter;Essential;Book (child)}
+               Notion;\_In Readwise;AEC;Cross Ref Chapter;Essential;Book (child)},
+  language  = {en}
 }
 
 @ARTICLE{King_Chun2012-rk,
@@ -52829,6 +52837,7 @@
                People, Process, and Technology},
   editor    = {Goulding, Jack S and Rahimian, Farzad Pour},
   publisher = {Routledge},
+  edition   = {1},
   date      = {2019-06-19},
   pagetotal = {538},
   doi       = {10.1201/9781315147321},
@@ -54199,7 +54208,8 @@
   keywords  = {Offsite Production and Manufacturing for Innovative
                Construction;AEC Cited Lit for Jacqui;\_BibTex to MD
                Git;llm-wiki-workflow;Cross Ref Chapter;AEC;Workplace
-               Learning;Essential;Book (child)}
+               Learning;Essential;Book (child)},
+  language  = {en}
 }
 
 @INBOOK{Thuesen2019-fv,
@@ -54209,6 +54219,7 @@
   editor    = {Goulding, Jack S and Rahimian, Farzad Pour},
   booktitle = {Offsite Production and Manufacturing for Innovative Construction},
   publisher = {Routledge},
+  edition   = {1},
   pages     = {337--358},
   date      = {2019-06-19},
   doi       = {10.1201/9781315147321-14},
@@ -54236,7 +54247,8 @@
                Construction;Upgrade Viva Prep Reading;AEC Cited Lit for
                Jacqui;\_BibTex to MD Git;llm-wiki-workflow;Cross Ref
                Chapter;AEC;Workplace Learning;Fieldwork Methodology;Research
-               Methods;Essential;Book (child)}
+               Methods;Essential;Book (child)},
+  language  = {en}
 }
 
 @ARTICLE{Zhao2015-lb,
