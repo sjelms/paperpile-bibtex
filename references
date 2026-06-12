@@ -15523,7 +15523,7 @@
                foundation of knowledge and experience.},
   url       = {http://dx.doi.org/10.1201/9781315147321-5},
   keywords  = {Offsite Production and Manufacturing for Innovative
-               Construction;\_BibTex to MD Git}
+               Construction;\_BibTex to MD Git;Book (child);AEC}
 }
 
 @INBOOK{Manley2019-aj,
@@ -15555,7 +15555,8 @@
                developing and marketing their houses’ durability, advanced
                features, warranties and post-occupation care.},
   url       = {http://dx.doi.org/10.1201/9781315147321-17},
-  keywords  = {Offsite Production and Manufacturing for Innovative Construction}
+  keywords  = {Offsite Production and Manufacturing for Innovative
+               Construction;Book (child);AEC}
 }
 
 @INBOOK{Agapiou2019-pv,
@@ -15588,7 +15589,8 @@
                form of contract that includes standardised, non-negotiated
                provisions, and drafted to accommodate traditional construction.},
   url       = {http://dx.doi.org/10.1201/9781315147321-19},
-  keywords  = {Offsite Production and Manufacturing for Innovative Construction}
+  keywords  = {Offsite Production and Manufacturing for Innovative
+               Construction;Book (child);AEC}
 }
 
 @ARTICLE{De_Jong2013-st,
