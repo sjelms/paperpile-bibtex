@@ -15558,6 +15558,39 @@
   keywords  = {Offsite Production and Manufacturing for Innovative Construction}
 }
 
+@INBOOK{Agapiou2019-pv,
+  title     = {Optimising offsite manufactured components in the {UK}
+               house-building sector},
+  author    = {Agapiou, Andrew},
+  booktitle = {Offsite Production and Manufacturing for Innovative Construction},
+  publisher = {Routledge},
+  location  = {Abingdon, Oxon ; New York, NY : Routledge, 2019.},
+  pages     = {449--469},
+  date      = {2019-06-19},
+  doi       = {10.1201/9781315147321-19},
+  isbn      = {9781315147321},
+  abstract  = {This chapter discusses the term ‘offsite manufacturing’ (OSM),
+               where this is deemed to include construction processes and
+               activities undertaken away from the actual building site, such as
+               in a factory environment or production facility. It explores the
+               paucity of research on the legal issues affecting the
+               use/adoption of OSM. Perhaps a more effective approach might be
+               for the government to facilitate the standardisation of offsite
+               manufactured components. A structured framework is presented for
+               discussion, identifying the legal and contractual issues
+               associated with the use of OSM within different jurisdictions as
+               a basis for further research. Ultimate responsibility for
+               traditional construction methods generally fall on the main
+               contractor, who is responsible for ensuring that all workers and
+               sub-contractors deliver their respective contributions to the
+               project in a timely manner and to a satisfactory quality. Most
+               construction projects are traditionally procured using a standard
+               form of contract that includes standardised, non-negotiated
+               provisions, and drafted to accommodate traditional construction.},
+  url       = {http://dx.doi.org/10.1201/9781315147321-19},
+  keywords  = {Offsite Production and Manufacturing for Innovative Construction}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
