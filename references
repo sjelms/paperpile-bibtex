@@ -52725,11 +52725,12 @@
 
 @BOOK{Goulding2019-hp,
   title     = {Offsite Production and Manufacturing for Innovative Construction:
-               People, Process and Technology},
+               People, Process, and Technology},
   editor    = {Goulding, Jack S and Rahimian, Farzad Pour},
   publisher = {Routledge},
   date      = {2019-06-19},
   pagetotal = {538},
+  doi       = {10.1201/9781315147321},
   isbn      = {9781351376891},
   abstract  = {The offsite and modular market is continuing to grow. This book
                builds on the success of a number of initiatives, including
@@ -52761,7 +52762,7 @@
                Manufacturing and Assembly, scaled portfolio platforms and
                customisability, new legal regulatory standards and conformance
                issues and offsite feasibility scenario development/integration.},
-  url       = {https://play.google.com/store/books/details?id=1T33DwAAQBAJ},
+  url       = {https://doi.org/10.1201/9781315147321},
   keywords  = {Offsite Production and Manufacturing for Innovative
                Construction;\_BibTex to MD Git;llm-wiki-workflow;AEC;Essential},
   language  = {en}
