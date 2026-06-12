@@ -15527,6 +15527,38 @@
                Construction;\_BibTex to MD Git}
 }
 
+@INBOOK{Manley2019-aj,
+  title     = {Prefabricated housing firms in Japan and Sweden},
+  author    = {Manley, Karen and Widén, Kristian},
+  booktitle = {Offsite Production and Manufacturing for Innovative Construction},
+  publisher = {Routledge},
+  location  = {Abingdon, Oxon ; New York, NY : Routledge, 2019.},
+  pages     = {399--418},
+  date      = {2019-06-19},
+  doi       = {10.1201/9781315147321-17},
+  isbn      = {9781315147321},
+  abstract  = {This chapter describes how Swedish and Japanese housing
+               prefabricators have developed value for consumers and identifies
+               the core differences between the strategies of firms in these two
+               leading countries. Japan and Sweden are considered world leaders
+               in prefabrication due to their high rate of adoption of the new
+               and complex product, compared to most other countries in the
+               world. Japan’s prefabricated housing industry, with its
+               large-scale application of production lines and automation,
+               serves as a benchmark of technological progress. Japanese firms
+               were asked to provide a rating of prefabrication compared to
+               traditional on-site construction. The Japanese and Swedish
+               manufacturers were differentiated by their respective focus on
+               the high and low/middle cost markets. The Japanese firms market
+               their products as high quality, manufactured products, as
+               distinct from a more typical focus on hand-crafted quality in
+               Sweden. Japanese firms devoted significant resources to
+               developing and marketing their houses’ durability, advanced
+               features, warranties and post-occupation care.},
+  url       = {http://dx.doi.org/10.1201/9781315147321-17},
+  keywords  = {Offsite Production and Manufacturing for Innovative Construction}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
