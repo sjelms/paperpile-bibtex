@@ -15608,6 +15608,26 @@
   language  = {en}
 }
 
+@ARTICLE{Keshav2007-by,
+  title        = {How to read a paper},
+  author       = {Keshav, S},
+  journaltitle = {Computer Communication Review},
+  publisher    = {Association for Computing Machinery (ACM)},
+  volume       = {37},
+  issue        = {3},
+  pages        = {83--84},
+  date         = {2007-07-20},
+  doi          = {10.1145/1273445.1273458},
+  issn         = {0146-4833,1943-5819},
+  abstract     = {Researchers spend a great deal of time reading research
+                  papers. However, this skill is rarely taught, leading to much
+                  wasted effort. This article outlines a practical and efficient
+                  three-pass method for reading research papers. I also describe
+                  how to use this method to do a literature survey.},
+  url          = {http://dx.doi.org/10.1145/1273445.1273458},
+  language     = {en}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
