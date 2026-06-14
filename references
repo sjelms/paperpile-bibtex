@@ -45544,6 +45544,48 @@
                (child);Labor;Workplace Learning}
 }
 
+@INPROCEEDINGS{Vinod2024-jq,
+  title      = {Preliminary Insights into {AI} and Engineering Education in the
+                {US} and {UK}: An Exploratory Study},
+  author     = {Vinod, Gouri and Guile, David},
+  booktitle  = {The 52nd Annual Conference of the European Society for
+                Engineering Education (SEFI)},
+  eventtitle = {Société Européenne pour la Formation des Ingénieurs (SEFI)},
+  venue      = {Lausanne, Switzerland},
+  eventdate  = {2024-09-02},
+  pages      = {6},
+  date       = {2024-09-02},
+  abstract   = {My research delves into the perceptions of undergraduate
+                engineering students in the US and UK regarding Artificial
+                Intelligence (AI) in their curricula. Specifically, the project
+                is interested in how these perceptions impact their career
+                choices post-graduation and if students are aware of biases in
+                AI. The study focuses on current undergraduate, or Generation-Z
+                students, who were born in the mid to late 1990s as this
+                generation is expected to enter a workforce that is heavily
+                influenced by AI technology. As engineering programs incorporate
+                AI modules into their curricula, it is crucial to understand how
+                these topics are being taught to Gen-Z students, if they
+                recognize the biases embedded in AI technologies, and if there
+                is interest from these students to pursue a career in AI. For
+                the first phase of my thesis, I interviewed faculty members from
+                two well-respected universities, one located in the US and the
+                other in the UK. For this paper, I will discuss the responses of
+                three out of the six academics that were interviewed. The
+                purpose of this stage was to gather data that would assist me in
+                answering my research questions and facilitate future
+                interactions with student participants later in the thesis. My
+                findings indicated that faculty members' attitudes toward
+                integrating AI into the curriculum varied significantly across
+                all six academics, but the three academics chosen for this paper
+                had particularly unique positionings and responses with their
+                thoughts on AI- engineering education. The discussions around AI
+                ethics and biases were particularly illuminating, demonstrating
+                that there is no universal approach to this complex issue.},
+  url        = {https://discovery.ucl.ac.uk/id/eprint/10198942},
+  keywords   = {BSSC Seed Fund for AI Research}
+}
+
 @ARTICLE{Berland2014-ra,
   title        = {Educational data mining and learning analytics: Applications
                   to constructionist research},
@@ -59754,12 +59796,6 @@
   url      = {https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/491572/socnet_howto.pdf},
   urldate  = {2022-07-04},
   keywords = {RDL [CCME0041]}
-}
-
-@ONLINE{UnknownUnknown-wv,
-  url      = {https://discovery.ucl.ac.uk/id/eprint/10198942},
-  urldate  = {2026-06-14},
-  keywords = {BSSC Seed Fund for AI Research}
 }
 
 @ONLINE{noauthor_undated-ev,
