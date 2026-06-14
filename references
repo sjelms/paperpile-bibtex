@@ -15749,6 +15749,33 @@
   keywords  = {Workplaces of the Future}
 }
 
+@INBOOK{Beirne1998-sy,
+  title     = {Developments in computing work: Control and contradiction in the
+               software labour process},
+  author    = {Beirne, Martin and Ramsay, Harvie and Panteli, Androniki},
+  booktitle = {Workplaces of the Future},
+  publisher = {Macmillan Education UK},
+  location  = {London},
+  pages     = {142--162},
+  date      = {1998},
+  doi       = {10.1007/978-1-349-26346-2_8},
+  isbn      = {9780333728000,9781349263462},
+  abstract  = {The labour process literature has tended to show interest in
+               computing not in its own right, but as something which affects
+               its true concerns. It is the embodiment of 'new technology' which
+               captures attention, impacting upon (and more likely than not
+               afflicting) work organisation, and potentially threatening to
+               eliminate employment altogether. A distinction between 'hardware'
+               and 'software' may be vaguely noted, with hardware being 'the bit
+               you can kick'. The nature of the production system which creates
+               not the machinery but the programs which run on the machinery, so
+               potentially shaping the work of others, has remained a black box
+               in all but a few exceptional studies.1},
+  url       = {http://dx.doi.org/10.1007/978-1-349-26346-2_8},
+  keywords  = {Workplaces of the Future},
+  language  = {en}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
