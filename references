@@ -5184,22 +5184,6 @@
                Acquisition;Workplace Learning;ePub}
 }
 
-@INBOOK{Beckett2005-om,
-  title     = {Know how and judgement in postmodernity},
-  author    = {Beckett, David and Hager, Paul},
-  booktitle = {Life, Work and Learning: Practice in Postmodernity},
-  publisher = {Routledge},
-  location  = {London, England},
-  edition   = {1},
-  pages     = {172--195},
-  date      = {2002},
-  doi       = {10.4324/9780203994450-11},
-  isbn      = {9781134717897},
-  url       = {http://dx.doi.org/10.4324/9780203994450-11},
-  keywords  = {Life\_Work\_Learning;Book (child);Knowledge - Skill
-               Acquisition;Workplace Learning;ePub}
-}
-
 @INBOOK{Beckett2005-uy,
   title     = {Conceptualising practice in postmodernity},
   author    = {Beckett, David and Hager, Paul},
@@ -37633,6 +37617,37 @@
   url       = {http://dx.doi.org/10.4324/9780203763865-69},
   keywords  = {\_BibTex to MD Git;003\_Theoretical
                Framework;Education;Philosophy of Education;Columbia University}
+}
+
+@INBOOK{Beckett2005-om,
+  title     = {Know how and judgement in postmodernity},
+  author    = {Beckett, David and Hager, Paul},
+  booktitle = {Life, Work and Learning: Practice in Postmodernity},
+  publisher = {Routledge},
+  location  = {London, England},
+  edition   = {1},
+  pages     = {172--195},
+  date      = {2002},
+  doi       = {10.4324/9780203994450-11},
+  isbn      = {9781134717897},
+  abstract  = {The main argument of preceding chapters has been that traditional
+               educational thought and practice, shaped by a set of enduring
+               dualisms and the ‘front-end’ model of vocational preparation,
+               have necessarily paid scant attention to practice, and the
+               learning that accompanies it. In order to correct this
+               deficiency, we have pointed to an emerging paradigm of learning
+               based on dissolution of dualisms and a ‘contiguous’ model of
+               vocational preparation. In this alternative model of vocational
+               preparation learning and work are intertwined in various formal
+               and informal admixtures. It is the main task of this final
+               chapter to clarify this ‘contiguous’ model by showing how the
+               notion of judgement is at the heart of it. This will bring
+               coherence to the rough sketch of the model that was implied in
+               the description of general features of the emerging paradigm of
+               learning.},
+  url       = {http://dx.doi.org/10.4324/9780203994450-11},
+  keywords  = {Life\_Work\_Learning;Book (child);Knowledge - Skill
+               Acquisition;Workplace Learning;ePub}
 }
 
 @INBOOK{Beckett2005-se,
