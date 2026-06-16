@@ -15952,6 +15952,20 @@
   language     = {en}
 }
 
+@INPROCEEDINGS{Billett1999-em,
+  title     = {Work as Social Practice: Activities and Interdependencies},
+  author    = {Billett, Stephen},
+  booktitle = {Changing Practice through Research: Changing Research through
+               Practice},
+  location  = {Gold Coast, Queensland, Australia},
+  volume    = {2},
+  pages     = {128--138},
+  date      = {1999-12},
+  note      = {Paper presented at the 7th Annual International Conference on
+               Post-Compulsory Education and Training, Surfers Paradise Park
+               Royal, 6--8 December}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
