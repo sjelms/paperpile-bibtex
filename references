@@ -60106,7 +60106,7 @@
                   researchers make several recommendations on how to attract the
                   next generation of craft workers to the industry.},
   url          = {http://dx.doi.org/10.1061/(asce)co.1943-7862.0001867},
-  keywords     = {VET;AEC},
+  keywords     = {\_BibTex to MD Git;VET;AEC},
   language     = {en}
 }
 
@@ -60144,7 +60144,7 @@
                   engineers in an industry whose career paths include
                   construction engineering activities.},
   url          = {http://dx.doi.org/10.1061/(asce)co.1943-7862.0001436},
-  keywords     = {VET;AEC},
+  keywords     = {\_BibTex to MD Git;VET;AEC},
   language     = {en}
 }
 
@@ -60185,5 +60185,6 @@
   note       = {Paper presented at the 7th Annual International Conference on
                 Post-Compulsory Education and Training, Surfers Paradise Park
                 Royal, 6--8 December},
-  keywords   = {Workplace Learning;Knowledge - Skill Acquisition}
+  keywords   = {\_BibTex to MD Git;Workplace Learning;Knowledge - Skill
+                Acquisition}
 }
