@@ -16062,6 +16062,23 @@
   language     = {en}
 }
 
+@ARTICLE{Artigues2026-bp,
+  title        = {Fifty years of research on resource-constrained project
+                  scheduling explored from different perspectives},
+  author       = {Artigues, Christian and Hartmann, Sönke and Vanhoucke, Mario},
+  journaltitle = {European Journal of Operational Research},
+  publisher    = {Elsevier BV},
+  volume       = {328},
+  issue        = {2},
+  pages        = {367--389},
+  date         = {2026-01},
+  doi          = {10.1016/j.ejor.2025.03.024},
+  issn         = {0377-2217,1872-6860},
+  url          = {http://dx.doi.org/10.1016/j.ejor.2025.03.024},
+  keywords     = {RCPSP\_Takt\_Taylorism},
+  language     = {en}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
