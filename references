@@ -16043,25 +16043,6 @@
   language     = {en}
 }
 
-@ARTICLE{Zarei2024-zm,
-  title        = {Multi-skill resource-constrained project scheduling problem
-                  considering overlapping: fuzzy multi-objective programming
-                  approach to a case study},
-  author       = {Zarei, Fateme and Arashpour, Mehrdad and Mirnezami, Seyed-Ali
-                  and Shahabi-Shahamiri, Reza and Ghasemi, Mohammad},
-  journaltitle = {International Journal of Construction Management},
-  publisher    = {Informa UK Limited},
-  volume       = {24},
-  issue        = {8},
-  pages        = {820--833},
-  date         = {2024-06-10},
-  doi          = {10.1080/15623599.2023.2260696},
-  issn         = {1562-3599,2331-2327},
-  url          = {http://dx.doi.org/10.1080/15623599.2023.2260696},
-  keywords     = {RCPSP\_Takt\_Taylorism},
-  language     = {en}
-}
-
 @ARTICLE{Artigues2026-bp,
   title        = {Fifty years of research on resource-constrained project
                   scheduling explored from different perspectives},
@@ -16280,6 +16261,52 @@
                   integrating logistics costs and worker fatigue to enhance the
                   model's applicability and accuracy.},
   url          = {http://dx.doi.org/10.1016/j.autcon.2024.105626},
+  keywords     = {RCPSP\_Takt\_Taylorism},
+  language     = {en}
+}
+
+@ARTICLE{Zarei2024-zm,
+  title        = {Multi-skill resource-constrained project scheduling problem
+                  considering overlapping: fuzzy multi-objective programming
+                  approach to a case study},
+  author       = {Zarei, Fateme and Arashpour, Mehrdad and Mirnezami, Seyed-Ali
+                  and Shahabi-Shahamiri, Reza and Ghasemi, Mohammad},
+  journaltitle = {International Journal of Construction Management},
+  publisher    = {Informa UK Limited},
+  volume       = {24},
+  issue        = {8},
+  pages        = {820--833},
+  date         = {2024-06-10},
+  doi          = {10.1080/15623599.2023.2260696},
+  issn         = {1562-3599,2331-2327},
+  abstract     = {Resource-constrained project scheduling problem (RCPSP) is a
+                  broadly researched issue in the literature. The purpose of the
+                  classic form of the problem is scheduling a set of activities
+                  considering resource and precedence constraints for minimizing
+                  the project completion time. Companies mostly deal with the
+                  issue of properly assigning multi-skilled workforces and
+                  maintaining the needed skill levels while implementing
+                  projects. In this study, a novel MILP model with three
+                  objectives is presented to tackle multi-skill RCPSP
+                  (MS-RCPSP). This study concentrates on minimizing project
+                  makespan, minimizing resource costs as well as tardiness
+                  costs, and maximizing quality under uncertainty. However, the
+                  standard MS-RCPSP is not able to consider several practical
+                  engineering requirements owing to its narrow assumptions.
+                  Therefore, key assumptions including overlap between
+                  activities, tardiness penalties of activities and the rework
+                  duration concept for activities in this model are considered.
+                  Due to the complexity of the real world, interval valued fuzzy
+                  numbers are taken into account for some of the problem’s
+                  parameters. The efficiency of the proposed mathematical
+                  framework is represented using both a real case study to
+                  construct a railway bridge with 34 activities and large-size
+                  problem instances from MMLIB (MM50 and MM100). Since this
+                  model is multi-objective, a new extended IVF-ABS approach is
+                  presented in this study. Finally, the proposed approach is
+                  compared with two methods, namely SO and ABS, from the
+                  literature.},
+  url          = {http://dx.doi.org/10.1080/15623599.2023.2260696},
   keywords     = {RCPSP\_Takt\_Taylorism},
   language     = {en}
 }
