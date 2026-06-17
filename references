@@ -6073,7 +6073,8 @@
                introduce here two lower bounds used to evaluate the minimum
                duration.},
   series    = {Lecture Notes in Computer Science},
-  url       = {http://dx.doi.org/10.1007/11593577_14}
+  url       = {http://dx.doi.org/10.1007/11593577_14},
+  keywords  = {Knowledge - Skill Acquisition;Employment;Occupational choice}
 }
 
 @INPROCEEDINGS{Park2006-cn,
