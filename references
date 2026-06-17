@@ -6048,6 +6048,34 @@
   keywords     = {AIEd [CCME0123];Journal Articles;Course Assignment}
 }
 
+@INBOOK{Bellenguez2005-lt,
+  title     = {Lower bounds for the multi-skill project scheduling problem with
+               hierarchical levels of skills},
+  author    = {Bellenguez, Odile and Néron, Emmanuel},
+  booktitle = {Practice and Theory of Automated Timetabling V},
+  publisher = {Springer Berlin Heidelberg},
+  location  = {Berlin, Heidelberg},
+  pages     = {229--243},
+  date      = {2005},
+  doi       = {10.1007/11593577_14},
+  issn      = {0302-9743,1611-3349},
+  isbn      = {9783540307051,9783540324218},
+  abstract  = {In this paper, we introduce an extension of the classical
+               Resource-Constrained Project Scheduling Problem: the Multi-skill
+               Project Scheduling Problem. We consider a project made up of
+               activities that must be implemented by a staff: every member of
+               this staff masters one or more skill(s). An activity needs a
+               given amount of each skill with a fixed minimum level of
+               mastering. For each unit of a skill needed, we have to assign an
+               employee who masters the required level of this skill during the
+               whole processing time of the activity. The objective is to
+               minimize the duration of the project, i.e. the makespan. We
+               introduce here two lower bounds used to evaluate the minimum
+               duration.},
+  series    = {Lecture Notes in Computer Science},
+  url       = {http://dx.doi.org/10.1007/11593577_14}
+}
+
 @INPROCEEDINGS{Park2006-cn,
   title     = {The {ARTable}: An {AR}-Based Tangible User Interface System},
   author    = {Park, Youngmin and Woo, Woontack},
