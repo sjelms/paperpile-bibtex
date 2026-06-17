@@ -60238,34 +60238,37 @@
                (child)}
 }
 
-@BOOK{Boverket2008-qe,
-  title      = {Industriellt bostadsbyggande: koncept och processer},
-  shorttitle = {Industrial housing construction: Concepts and processes},
-  author     = {{Boverket}},
-  publisher  = {Sverige Boverket},
-  location   = {Karlskrona, Sweden},
-  edition    = {1},
-  date       = {2008-05},
-  pagetotal  = {102},
-  isbn       = {9789185751990},
-  abstract   = {The Swedish construction industry has been described as a sector
-                with major problems. Several investigations have established
-                that there is a large out development potential in various areas
-                such as technology, organization, finance, environment, work
-                environment, competition, authority area, etc. Many actors in
-                the industry have reacted to this criticism and initiatives are
-                now being taken both within the industry as well as at colleges
-                and universities, to deal with the problems. Housing
-                construction has been in particular focus as the need for new
-                build since housing is increasing, from having been at
-                historically low levels during 1990s and early 2000s. During
-                this time also increased both costs and prices dramatically and
-                almost doubled too apartments in the larger cities. Demand for
-                newly built homes is high because new construction has been so
-                low for the past 15 years. The production rate has increased in
-                recent years and is expected to continue in the coming years.},
-  url        = {https://libris.kb.se/en/n600qw80151k4jt},
-  keywords   = {Construction 4-0;AEC},
-  language   = {sv},
-  origtitle  = {Industriellt bostadsbyggande: koncept och processer}
+@REPORT{Boverket2008-qe,
+  type        = {resreport},
+  title       = {Industriellt bostadsbyggande: koncept och processer},
+  shorttitle  = {Industrial housing construction: Concepts and processes},
+  author      = {{Boverket}},
+  publisher   = {Sverige Boverket},
+  institution = {Boverket, Byggkostnadsforum},
+  location    = {Karlskrona, Sweden},
+  edition     = {1},
+  date        = {2008-05},
+  pagetotal   = {102},
+  isbn        = {9789185751990},
+  abstract    = {The Swedish construction industry has been described as a
+                 sector with major problems. Several investigations have
+                 established that there is a large out development potential in
+                 various areas such as technology, organization, finance,
+                 environment, work environment, competition, authority area,
+                 etc. Many actors in the industry have reacted to this criticism
+                 and initiatives are now being taken both within the industry as
+                 well as at colleges and universities, to deal with the
+                 problems. Housing construction has been in particular focus as
+                 the need for new build since housing is increasing, from having
+                 been at historically low levels during 1990s and early 2000s.
+                 During this time also increased both costs and prices
+                 dramatically and almost doubled too apartments in the larger
+                 cities. Demand for newly built homes is high because new
+                 construction has been so low for the past 15 years. The
+                 production rate has increased in recent years and is expected
+                 to continue in the coming years.},
+  url         = {https://libris.kb.se/en/n600qw80151k4jt},
+  keywords    = {Construction 4-0;AEC},
+  language    = {sv},
+  origtitle   = {Industriellt bostadsbyggande: koncept och processer}
 }
