@@ -16067,13 +16067,29 @@
                   scheduling explored from different perspectives},
   author       = {Artigues, Christian and Hartmann, Sönke and Vanhoucke, Mario},
   journaltitle = {European Journal of Operational Research},
-  publisher    = {Elsevier BV},
+  publisher    = {Elsevier},
   volume       = {328},
   issue        = {2},
   pages        = {367--389},
   date         = {2026-01},
   doi          = {10.1016/j.ejor.2025.03.024},
   issn         = {0377-2217,1872-6860},
+  abstract     = {The resource-constrained project scheduling problem is one of
+                  the most investigated problems in the project scheduling
+                  literature, and has a rich history. This article provides a
+                  perspective on this challenging scheduling problem, without
+                  having the ambition to provide a complete overview. Instead,
+                  the article does aim to summarize a number of reasons why this
+                  problem has been so intensely investigated from different
+                  perspectives. It will be shown that this scheduling problem
+                  has many faces, and therefore deserves a lot of research time
+                  from a computational and theoretical point of view as well as
+                  from a practical point of view. An overview of possible
+                  extensions to other problems and a detailed overview of the
+                  used (both heuristic and exact) solution methods will be
+                  given. In addition, the data used will be discussed and
+                  interesting avenues for further research will be mentioned
+                  throughout the different sections.},
   url          = {http://dx.doi.org/10.1016/j.ejor.2025.03.024},
   keywords     = {RCPSP\_Takt\_Taylorism},
   language     = {en}
