@@ -16187,6 +16187,43 @@
   language     = {en}
 }
 
+@ARTICLE{Almeida2019-vn,
+  title        = {Modeling frameworks for the multi‐skill resource‐constrained
+                  project scheduling problem: a theoretical and empirical
+                  comparison},
+  author       = {Almeida, Bernardo F and Correia, Isabel and Saldanha-da-Gama,
+                  Francisco},
+  journaltitle = {International Transactions in Operational Research: A Journal
+                  of The International Federation of Operational Research
+                  Societies},
+  publisher    = {Wiley},
+  volume       = {26},
+  issue        = {3},
+  pages        = {946--967},
+  date         = {2019-05},
+  doi          = {10.1111/itor.12568},
+  issn         = {0969-6016,1475-3995},
+  abstract     = {AbstractIn this paper, we study and compare several integer
+                  and mixed‐integer linear programming formulations for the
+                  multi‐skill resource‐constrained project scheduling problem.
+                  This is a problem characterized by a set of activities to be
+                  executed that in addition to the usual precedence constraints
+                  require several resources for each skill needed for their
+                  execution. A set of multi‐skill resources is assumed. The
+                  objective is to minimize the project's makespan. We revisit
+                  two existing models for the problem and propose two new ones.
+                  Additionally, we perform a theoretical comparison between the
+                  lower bounds provided by the linear programming relaxations of
+                  the models. Furthermore, a numerical experiment is performed
+                  on a set of instances from the literature to evaluate the
+                  suitability of an off‐the‐shelf solver to compute optimal
+                  solutions and lower bounds to the studied problem, using the
+                  aforementioned models.},
+  url          = {http://dx.doi.org/10.1111/itor.12568},
+  keywords     = {RCPSP\_Takt\_Taylorism},
+  language     = {en}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
