@@ -16024,25 +16024,6 @@
                Acquisition;Employment;Occupational choice}
 }
 
-@ARTICLE{Wen2026-iq,
-  title        = {Research on a worker skill level-aware pulsating assembly
-                  scheduling method for aircraft based on the {GIN}-{PPO}
-                  algorithm},
-  author       = {Wen, Xiaoyu and Zhang, Hao and Yang, Wenchao and Li, Hao and
-                  Wang, Haoqi and Xing, Hongwen and Liu, Siren},
-  journaltitle = {Computers \& Industrial Engineering},
-  publisher    = {Elsevier BV},
-  volume       = {218},
-  issue        = {112135},
-  pages        = {112135},
-  date         = {2026-08},
-  doi          = {10.1016/j.cie.2026.112135},
-  issn         = {0360-8352,1879-0550},
-  url          = {http://dx.doi.org/10.1016/j.cie.2026.112135},
-  keywords     = {RCPSP\_Takt\_Taylorism},
-  language     = {en}
-}
-
 @ARTICLE{Artigues2026-bp,
   title        = {Fifty years of research on resource-constrained project
                   scheduling explored from different perspectives},
@@ -16307,6 +16288,61 @@
                   compared with two methods, namely SO and ABS, from the
                   literature.},
   url          = {http://dx.doi.org/10.1080/15623599.2023.2260696},
+  keywords     = {RCPSP\_Takt\_Taylorism},
+  language     = {en}
+}
+
+@ARTICLE{Wen2026-iq,
+  title        = {Research on a worker skill level-aware pulsating assembly
+                  scheduling method for aircraft based on the {GIN}-{PPO}
+                  algorithm},
+  author       = {Wen, Xiaoyu and Zhang, Hao and Yang, Wenchao and Li, Hao and
+                  Wang, Haoqi and Xing, Hongwen and Liu, Siren},
+  journaltitle = {Computers \& Industrial Engineering},
+  publisher    = {Elsevier},
+  volume       = {218},
+  issue        = {112135},
+  pages        = {112135},
+  date         = {2026-08},
+  doi          = {10.1016/j.cie.2026.112135},
+  issn         = {0360-8352,1879-0550},
+  abstract     = {The cycle time of pulsating aircraft assembly accounts for
+                  nearly half of the entire aircraft manufacturing period. Its
+                  scheduling process faces challenges such as takt time
+                  synchronization of the pulsating line, multi-station
+                  collaboration, limited resources, and the complex coupling
+                  between worker skill levels and operational efficiency.
+                  However, existing studies rarely incorporate explicit
+                  quantitative modeling of worker skill-level heterogeneity into
+                  pulsating assembly scheduling, and most traditional approaches
+                  have limited capability in capturing complex structural job
+                  dependencies under large-scale, multi-constraint environments.
+                  To address these challenges, this paper proposes a pulsating
+                  aircraft assembly scheduling method based on Graph Isomorphism
+                  Network (GIN) and Proximal Policy Optimization (PPO)
+                  algorithms. First, an assembly scheduling model incorporating
+                  skill-level allocation constraints is constructed. The jobs
+                  and their dependencies are abstracted into a graph structure,
+                  and GIN is employed to extract deep features of job nodes,
+                  enabling accurate capture of complex job dependencies and
+                  resource demands. Second, within a reinforcement learning
+                  framework, the PPO algorithm is used for end-to-end training.
+                  By optimizing the scheduling policy, the method improves
+                  resource allocation efficiency and shortens the total
+                  completion time, while effectively handling complex resource
+                  limitations and skill-level constraints. Finally, multiple
+                  simulation experiments are conducted to validate the
+                  effectiveness of the proposed method, with comparisons made
+                  against traditional scheduling methods and modern optimization
+                  algorithms. Experimental results show that the proposed
+                  GIN-PPO approach significantly outperforms the comparison
+                  methods in terms of computational efficiency, solution
+                  quality, and convergence speed. It effectively reduces the
+                  total completion time of pulsating aircraft assembly jobs
+                  considering skill-level allocation, and demonstrates strong
+                  robustness and stability across test cases of different
+                  scales.},
+  url          = {http://dx.doi.org/10.1016/j.cie.2026.112135},
   keywords     = {RCPSP\_Takt\_Taylorism},
   language     = {en}
 }
