@@ -47528,13 +47528,14 @@
 }
 
 @BOOK{Boverket2008-qe,
-  title     = {Industriellt bostadsbyggande: koncept och processer},
-  author    = {Boverket, Sverige},
-  date      = {2008},
-  pagetotal = {102},
-  isbn      = {9789185751990},
-  keywords  = {Construction 4-0;AEC},
-  language  = {sv}
+  title      = {Industriellt bostadsbyggande: koncept och processer},
+  shorttitle = {Industrial housing construction : concepts and processes},
+  author     = {Boverket, Sverige},
+  date       = {2008},
+  pagetotal  = {102},
+  isbn       = {9789185751990},
+  keywords   = {Construction 4-0;AEC},
+  language   = {sv}
 }
 
 @BOOK{Magnusson2017-py,
