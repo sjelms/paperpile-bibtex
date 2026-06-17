@@ -60401,7 +60401,6 @@
                lags, and net present value-based objectives, the paper also
                provides a survey of many less known concepts.},
   url       = {https://hdl.handle.net/10419/45542},
-  keywords  = {650; project scheduling; modeling; resource constraints; temporal
-               constraints; networks;RCPSP\_Takt\_Taylorism},
+  keywords  = {RCPSP\_Takt\_Taylorism},
   language  = {eng}
 }
