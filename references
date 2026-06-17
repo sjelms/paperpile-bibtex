@@ -16224,6 +16224,47 @@
   language     = {en}
 }
 
+@ARTICLE{Azimi2012-rg,
+  title        = {Applying basic control theory principles to project control:
+                  Case study of off-site construction shops},
+  author       = {Azimi, Reza and Lee, Sanghyun and AbouRizk, Simaan M},
+  journaltitle = {Journal of Computing in Civil Engineering},
+  publisher    = {American Society of Civil Engineers (ASCE)},
+  volume       = {26},
+  issue        = {6},
+  pages        = {681--690},
+  date         = {2012-11},
+  doi          = {10.1061/(asce)cp.1943-5487.0000190},
+  issn         = {0887-3801,1943-5487},
+  abstract     = {Off-site construction has become increasingly popular in
+                  industrial construction projects over the past decade due to
+                  its advantages: higher productivity, better quality, better
+                  safety, and improved time and cost effectiveness. The
+                  fast-paced nature of off-site construction environments and
+                  the constraints induced by the construction site, along with
+                  the existing limitations within the shop, make the control
+                  process of off-site construction quite challenging.
+                  High-quality real-time data provided by utilizing new
+                  technologies can significantly improve and speed up the
+                  process of monitoring projects and identifying possible
+                  deviations; however, to be effective, decisions on corrective
+                  measures have to be made as quickly as possible. This paper
+                  presents an enhanced method based on the control theory
+                  concept for taking timely corrective actions to control the
+                  dynamic and fast-paced environments of off-site construction
+                  shops. The proposed method allows project managers to perform
+                  punctual nonlinear data analysis and predict the behavior of
+                  the performance of the shop. This leads to promptly
+                  determining the best corrective action in the case of variance
+                  to achieve a desired performance level with minimum cost. To
+                  illustrate its feasibility and potential for improving project
+                  control, the proposed approach was successfully implemented in
+                  an actual off-site structural steel fabrication shop.},
+  url          = {http://dx.doi.org/10.1061/(asce)cp.1943-5487.0000190},
+  keywords     = {RCPSP\_Takt\_Taylorism},
+  language     = {en}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
