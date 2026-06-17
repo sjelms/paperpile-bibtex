@@ -53780,6 +53780,19 @@
   language  = {en}
 }
 
+@PHDTHESIS{Mckay2010-oo,
+  type        = {phdthesis},
+  title       = {A control theory based hybrid architecture to anticipate and
+                 shape adversarial behavior},
+  author      = {Mckay, Shawn},
+  editor      = {Adams, Douglas E},
+  institution = {Purdue University},
+  location    = {West Lafayette, Indiana},
+  date        = {2010},
+  url         = {https://media.proquest.com/media/hms/ORIG/1/9qlwI?_s=wS9L0gyNzjEiL%2FvZ5%2BShX0iw0eg%3D#view=FitV},
+  language    = {en}
+}
+
 @MISC{GE_Appliances_Pressroom2020-at,
   title    = {{GE} Appliances to Hire 150 employees at Appliance Park for
               part-time {GEA2Day} program expansion},
@@ -60214,10 +60227,6 @@
               {ICT} in education policy toolkit},
   url      = {https://en.unesco.org/icted/content/new-vision-education-unlocking-potential-technology},
   keywords = {AIEd [CCME0123];Course Assignment}
-}
-
-@MISC{UnknownUnknown-ua,
-  url = {https://media.proquest.com/media/hms/ORIG/1/9qlwI?_s=wS9L0gyNzjEiL%2FvZ5%2BShX0iw0eg%3D#view=FitV}
 }
 
 @ONLINE{noauthor_undated-lv,
