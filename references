@@ -16004,7 +16004,7 @@
   series    = {Lecture Notes in Computer Science},
   url       = {http://dx.doi.org/10.1007/11593577_14},
   keywords  = {RCPSP\_Takt\_Taylorism;Knowledge - Skill
-               Acquisition;Employment;Occupational choice}
+               Acquisition;Employment;Occupational choice;Optimization}
 }
 
 @ARTICLE{Artigues2026-bp,
@@ -16036,7 +16036,7 @@
                   interesting avenues for further research will be mentioned
                   throughout the different sections.},
   url          = {http://dx.doi.org/10.1016/j.ejor.2025.03.024},
-  keywords     = {RCPSP\_Takt\_Taylorism},
+  keywords     = {RCPSP\_Takt\_Taylorism;Optimization},
   language     = {en}
 }
 
@@ -16067,7 +16067,7 @@
                lags, and net present value-based objectives, the paper also
                provides a survey of many less known concepts.},
   url       = {https://hdl.handle.net/10419/45542},
-  keywords  = {RCPSP\_Takt\_Taylorism},
+  keywords  = {RCPSP\_Takt\_Taylorism;Optimization},
   language  = {eng}
 }
 
@@ -16110,7 +16110,7 @@
                   problem are discussed. Finally, best-known solutions and lower
                   bounds for all presented problems will be provided.},
   url          = {http://dx.doi.org/10.1007/s10951-025-00836-1},
-  keywords     = {RCPSP\_Takt\_Taylorism},
+  keywords     = {RCPSP\_Takt\_Taylorism;Optimization},
   language     = {en}
 }
 
@@ -16147,7 +16147,7 @@
                   solutions and lower bounds to the studied problem, using the
                   aforementioned models.},
   url          = {http://dx.doi.org/10.1111/itor.12568},
-  keywords     = {RCPSP\_Takt\_Taylorism},
+  keywords     = {RCPSP\_Takt\_Taylorism;Optimization},
   language     = {en}
 }
 
@@ -16188,7 +16188,7 @@
                   control, the proposed approach was successfully implemented in
                   an actual off-site structural steel fabrication shop.},
   url          = {http://dx.doi.org/10.1061/(asce)cp.1943-5487.0000190},
-  keywords     = {RCPSP\_Takt\_Taylorism},
+  keywords     = {RCPSP\_Takt\_Taylorism;Optimization},
   language     = {en}
 }
 
@@ -16225,7 +16225,7 @@
                   integrating logistics costs and worker fatigue to enhance the
                   model's applicability and accuracy.},
   url          = {http://dx.doi.org/10.1016/j.autcon.2024.105626},
-  keywords     = {RCPSP\_Takt\_Taylorism},
+  keywords     = {RCPSP\_Takt\_Taylorism;Optimization},
   language     = {en}
 }
 
@@ -16271,7 +16271,7 @@
                   compared with two methods, namely SO and ABS, from the
                   literature.},
   url          = {http://dx.doi.org/10.1080/15623599.2023.2260696},
-  keywords     = {RCPSP\_Takt\_Taylorism},
+  keywords     = {RCPSP\_Takt\_Taylorism;Optimization},
   language     = {en}
 }
 
@@ -16326,7 +16326,7 @@
                   robustness and stability across test cases of different
                   scales.},
   url          = {http://dx.doi.org/10.1016/j.cie.2026.112135},
-  keywords     = {RCPSP\_Takt\_Taylorism},
+  keywords     = {RCPSP\_Takt\_Taylorism;Optimization},
   language     = {en}
 }
 
