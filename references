@@ -60302,3 +60302,22 @@
   keywords  = {RCPSP\_Takt\_Taylorism;Knowledge - Skill
                Acquisition;Employment;Occupational choice}
 }
+
+@ARTICLE{Wen2026-iq,
+  title        = {Research on a worker skill level-aware pulsating assembly
+                  scheduling method for aircraft based on the {GIN}-{PPO}
+                  algorithm},
+  author       = {Wen, Xiaoyu and Zhang, Hao and Yang, Wenchao and Li, Hao and
+                  Wang, Haoqi and Xing, Hongwen and Liu, Siren},
+  journaltitle = {Computers \& Industrial Engineering},
+  publisher    = {Elsevier BV},
+  volume       = {218},
+  issue        = {112135},
+  pages        = {112135},
+  date         = {2026-08},
+  doi          = {10.1016/j.cie.2026.112135},
+  issn         = {0360-8352,1879-0550},
+  url          = {http://dx.doi.org/10.1016/j.cie.2026.112135},
+  keywords     = {RCPSP\_Takt\_Taylorism},
+  language     = {en}
+}
