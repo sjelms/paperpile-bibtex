@@ -16813,6 +16813,105 @@
   language  = {en}
 }
 
+@INBOOK{Unknown2013-gh,
+  title     = {The setting of the problem},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  pages     = {248--262},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-30},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-30},
+  keywords  = {Schumpeter\_1976}
+}
+
+@INBOOK{Unknown2013-nx,
+  title     = {The classical doctrine of democracy},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  pages     = {263--281},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-31},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-31},
+  keywords  = {Schumpeter\_1976}
+}
+
+@INBOOK{Unknown2013-ex,
+  title     = {Another theory of democracy},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  pages     = {282--296},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-32},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-32},
+  keywords  = {Schumpeter\_1976}
+}
+
+@INBOOK{Unknown2013-mu,
+  title     = {The Inference},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  pages     = {297--315},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-33},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-33},
+  keywords  = {Schumpeter\_1976}
+}
+
+@INBOOK{Schumpeter2013-ta,
+  title     = {The situation that Marx faced},
+  author    = {Schumpeter, Joseph A},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  location  = {London},
+  pages     = {312--319},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-34},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-34},
+  keywords  = {Schumpeter\_1976},
+  language  = {en}
+}
+
+@INBOOK{Unknown2013-yn,
+  title     = {Prologue},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  pages     = {317--317},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-35},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-35},
+  keywords  = {Schumpeter\_1976}
+}
+
+@INBOOK{Unknown2013-uq,
+  title     = {The Nonage},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  pages     = {318--323},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-36},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-36},
+  keywords  = {Schumpeter\_1976}
+}
+
+@INBOOK{Unknown2013-xr,
+  title     = {The situation that Marx faced},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  pages     = {324--331},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-37},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-37},
+  keywords  = {Schumpeter\_1976}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
