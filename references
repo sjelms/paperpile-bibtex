@@ -16687,6 +16687,132 @@
   keywords  = {Schumpeter\_1976}
 }
 
+@INBOOK{Unknown2013-yc,
+  title     = {Crumbling Walls},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  pages     = {148--159},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-20},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-20},
+  keywords  = {Schumpeter\_1976}
+}
+
+@INBOOK{Unknown2013-el,
+  title     = {Growing Hostility},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  pages     = {160--172},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-21},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-21},
+  keywords  = {Schumpeter\_1976}
+}
+
+@INBOOK{Unknown2013-us,
+  title     = {Decomposition},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  pages     = {173--180},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-22},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-22},
+  keywords  = {Schumpeter\_1976}
+}
+
+@INBOOK{Schumpeter2013-ea,
+  title     = {Comparison of blueprints},
+  author    = {Schumpeter, Joseph A},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  location  = {London},
+  pages     = {187--199},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-23},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-23},
+  keywords  = {Schumpeter\_1976},
+  language  = {en}
+}
+
+@INBOOK{Unknown2013-cw,
+  title     = {Clearing Decks},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  pages     = {182--186},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-24},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-24},
+  keywords  = {Schumpeter\_1976}
+}
+
+@INBOOK{Unknown2013-zp,
+  title     = {The socialist blueprint},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  pages     = {187--201},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-25},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-25},
+  keywords  = {Schumpeter\_1976}
+}
+
+@INBOOK{Unknown2013-fl,
+  title     = {Comparison of blueprints},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  pages     = {202--214},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-26},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-26},
+  keywords  = {Schumpeter\_1976}
+}
+
+@INBOOK{Unknown2013-qk,
+  title     = {The Human Element},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  pages     = {215--233},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-27},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-27},
+  keywords  = {Schumpeter\_1976}
+}
+
+@INBOOK{Unknown2013-sp,
+  title     = {Transition},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  pages     = {234--246},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-28},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-28},
+  keywords  = {Schumpeter\_1976}
+}
+
+@INBOOK{Schumpeter2013-oy,
+  title     = {Another theory of democracy},
+  author    = {Schumpeter, Joseph A},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  location  = {London},
+  pages     = {269--283},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-29},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-29},
+  keywords  = {Schumpeter\_1976},
+  language  = {en}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
