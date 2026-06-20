@@ -497,6 +497,20 @@
   language     = {en}
 }
 
+@ARTICLE{Boyd2019-os,
+  title        = {Smithian insights on automation and the future of work},
+  author       = {Boyd, Jonathan A and Huettinger, Maik},
+  journaltitle = {Futures},
+  publisher    = {Elsevier BV},
+  volume       = {111},
+  pages        = {104--115},
+  date         = {2019-08},
+  doi          = {10.1016/j.futures.2019.06.002},
+  issn         = {0016-3287,1873-6378},
+  url          = {http://dx.doi.org/10.1016/j.futures.2019.06.002},
+  language     = {en}
+}
+
 @ARTICLE{Capraro2026-xt,
   title        = {{LLMorphism}: When humans come to see themselves as language
                   models},
