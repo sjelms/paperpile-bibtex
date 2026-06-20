@@ -321,7 +321,7 @@
   doi       = {10.4324/9780203202050-27},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-27},
-  keywords  = {Schumpeter\_1976}
+  keywords  = {Schumpeter\_1976;Book (child)}
 }
 
 @INBOOK{Schumpeter2013-ls,
@@ -335,7 +335,7 @@
   doi       = {10.4324/9780203202050-3},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-3},
-  keywords  = {Schumpeter\_1976},
+  keywords  = {Schumpeter\_1976;Book (child)},
   language  = {en}
 }
 
@@ -535,7 +535,7 @@
   doi       = {10.4324/9780203202050-1},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-1},
-  keywords  = {Schumpeter\_1976},
+  keywords  = {Schumpeter\_1976;Book (child)},
   language  = {en}
 }
 
@@ -16491,7 +16491,7 @@
   doi       = {10.4324/9780203202050-4},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-4},
-  keywords  = {Schumpeter\_1976},
+  keywords  = {Schumpeter\_1976;Book (child)},
   language  = {en}
 }
 
@@ -16506,7 +16506,7 @@
   doi       = {10.4324/9780203202050-5},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-5},
-  keywords  = {Schumpeter\_1976},
+  keywords  = {Schumpeter\_1976;Book (child)},
   language  = {en}
 }
 
@@ -16519,7 +16519,7 @@
   doi       = {10.4324/9780203202050-6},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-6},
-  keywords  = {Schumpeter\_1976}
+  keywords  = {Schumpeter\_1976;Book (child)}
 }
 
 @INBOOK{Unknown2013-ne,
@@ -16531,7 +16531,7 @@
   doi       = {10.4324/9780203202050-7},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-7},
-  keywords  = {Schumpeter\_1976}
+  keywords  = {Schumpeter\_1976;Book (child)}
 }
 
 @INBOOK{Unknown2013-ei,
@@ -16543,7 +16543,7 @@
   doi       = {10.4324/9780203202050-8},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-8},
-  keywords  = {Schumpeter\_1976}
+  keywords  = {Schumpeter\_1976;Book (child)}
 }
 
 @INBOOK{Schumpeter2013-wa,
@@ -16557,7 +16557,7 @@
   doi       = {10.4324/9780203202050-9},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-9},
-  keywords  = {Schumpeter\_1976},
+  keywords  = {Schumpeter\_1976;Book (child)},
   language  = {en}
 }
 
@@ -16570,7 +16570,7 @@
   doi       = {10.4324/9780203202050-10},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-10},
-  keywords  = {Schumpeter\_1976}
+  keywords  = {Schumpeter\_1976;Book (child)}
 }
 
 @INBOOK{Schumpeter2013-da,
@@ -16584,7 +16584,7 @@
   doi       = {10.4324/9780203202050-11},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-11},
-  keywords  = {Schumpeter\_1976},
+  keywords  = {Schumpeter\_1976;Book (child)},
   language  = {en}
 }
 
@@ -16597,7 +16597,7 @@
   doi       = {10.4324/9780203202050-12},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-12},
-  keywords  = {Schumpeter\_1976}
+  keywords  = {Schumpeter\_1976;Book (child)}
 }
 
 @INBOOK{Unknown2013-oj,
@@ -16609,7 +16609,7 @@
   doi       = {10.4324/9780203202050-13},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-13},
-  keywords  = {Schumpeter\_1976}
+  keywords  = {Schumpeter\_1976;Book (child)}
 }
 
 @INBOOK{Unknown2013-of,
@@ -16621,7 +16621,7 @@
   doi       = {10.4324/9780203202050-14},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-14},
-  keywords  = {Schumpeter\_1976}
+  keywords  = {Schumpeter\_1976;Book (child)}
 }
 
 @INBOOK{Schumpeter2013-rm,
@@ -16635,7 +16635,7 @@
   doi       = {10.4324/9780203202050-15},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-15},
-  keywords  = {Schumpeter\_1976},
+  keywords  = {Schumpeter\_1976;Book (child)},
   language  = {en}
 }
 
@@ -16648,7 +16648,7 @@
   doi       = {10.4324/9780203202050-16},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-16},
-  keywords  = {Schumpeter\_1976}
+  keywords  = {Schumpeter\_1976;Book (child)}
 }
 
 @INBOOK{Unknown2013-na,
@@ -16660,7 +16660,7 @@
   doi       = {10.4324/9780203202050-17},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-17},
-  keywords  = {Schumpeter\_1976}
+  keywords  = {Schumpeter\_1976;Book (child)}
 }
 
 @INBOOK{Unknown2013-sr,
@@ -16672,7 +16672,7 @@
   doi       = {10.4324/9780203202050-18},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-18},
-  keywords  = {Schumpeter\_1976}
+  keywords  = {Schumpeter\_1976;Book (child)}
 }
 
 @INBOOK{Unknown2013-eb,
@@ -16684,7 +16684,7 @@
   doi       = {10.4324/9780203202050-19},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-19},
-  keywords  = {Schumpeter\_1976}
+  keywords  = {Schumpeter\_1976;Book (child)}
 }
 
 @INBOOK{Unknown2013-yc,
@@ -16696,7 +16696,7 @@
   doi       = {10.4324/9780203202050-20},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-20},
-  keywords  = {Schumpeter\_1976}
+  keywords  = {Schumpeter\_1976;Book (child)}
 }
 
 @INBOOK{Unknown2013-el,
@@ -16708,7 +16708,7 @@
   doi       = {10.4324/9780203202050-21},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-21},
-  keywords  = {Schumpeter\_1976}
+  keywords  = {Schumpeter\_1976;Book (child)}
 }
 
 @INBOOK{Unknown2013-us,
@@ -16720,7 +16720,7 @@
   doi       = {10.4324/9780203202050-22},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-22},
-  keywords  = {Schumpeter\_1976}
+  keywords  = {Schumpeter\_1976;Book (child)}
 }
 
 @INBOOK{Schumpeter2013-ea,
@@ -16734,7 +16734,7 @@
   doi       = {10.4324/9780203202050-23},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-23},
-  keywords  = {Schumpeter\_1976},
+  keywords  = {Schumpeter\_1976;Book (child)},
   language  = {en}
 }
 
@@ -16747,7 +16747,7 @@
   doi       = {10.4324/9780203202050-24},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-24},
-  keywords  = {Schumpeter\_1976}
+  keywords  = {Schumpeter\_1976;Book (child)}
 }
 
 @INBOOK{Unknown2013-zp,
@@ -16759,7 +16759,7 @@
   doi       = {10.4324/9780203202050-25},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-25},
-  keywords  = {Schumpeter\_1976}
+  keywords  = {Schumpeter\_1976;Book (child)}
 }
 
 @INBOOK{Unknown2013-fl,
@@ -16771,7 +16771,7 @@
   doi       = {10.4324/9780203202050-26},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-26},
-  keywords  = {Schumpeter\_1976}
+  keywords  = {Schumpeter\_1976;Book (child)}
 }
 
 @INBOOK{Unknown2013-qk,
@@ -16783,7 +16783,7 @@
   doi       = {10.4324/9780203202050-27},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-27},
-  keywords  = {Schumpeter\_1976}
+  keywords  = {Schumpeter\_1976;Book (child)}
 }
 
 @INBOOK{Unknown2013-sp,
@@ -16795,7 +16795,7 @@
   doi       = {10.4324/9780203202050-28},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-28},
-  keywords  = {Schumpeter\_1976}
+  keywords  = {Schumpeter\_1976;Book (child)}
 }
 
 @INBOOK{Schumpeter2013-oy,
@@ -16809,7 +16809,7 @@
   doi       = {10.4324/9780203202050-29},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-29},
-  keywords  = {Schumpeter\_1976},
+  keywords  = {Schumpeter\_1976;Book (child)},
   language  = {en}
 }
 
@@ -16822,7 +16822,7 @@
   doi       = {10.4324/9780203202050-30},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-30},
-  keywords  = {Schumpeter\_1976}
+  keywords  = {Schumpeter\_1976;Book (child)}
 }
 
 @INBOOK{Unknown2013-nx,
@@ -16834,7 +16834,7 @@
   doi       = {10.4324/9780203202050-31},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-31},
-  keywords  = {Schumpeter\_1976}
+  keywords  = {Schumpeter\_1976;Book (child)}
 }
 
 @INBOOK{Unknown2013-ex,
@@ -16846,7 +16846,7 @@
   doi       = {10.4324/9780203202050-32},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-32},
-  keywords  = {Schumpeter\_1976}
+  keywords  = {Schumpeter\_1976;Book (child)}
 }
 
 @INBOOK{Unknown2013-mu,
@@ -16858,7 +16858,7 @@
   doi       = {10.4324/9780203202050-33},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-33},
-  keywords  = {Schumpeter\_1976}
+  keywords  = {Schumpeter\_1976;Book (child)}
 }
 
 @INBOOK{Schumpeter2013-ta,
@@ -16872,7 +16872,7 @@
   doi       = {10.4324/9780203202050-34},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-34},
-  keywords  = {Schumpeter\_1976},
+  keywords  = {Schumpeter\_1976;Book (child)},
   language  = {en}
 }
 
@@ -16885,7 +16885,7 @@
   doi       = {10.4324/9780203202050-35},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-35},
-  keywords  = {Schumpeter\_1976}
+  keywords  = {Schumpeter\_1976;Book (child)}
 }
 
 @INBOOK{Unknown2013-uq,
@@ -16897,7 +16897,7 @@
   doi       = {10.4324/9780203202050-36},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-36},
-  keywords  = {Schumpeter\_1976}
+  keywords  = {Schumpeter\_1976;Book (child)}
 }
 
 @INBOOK{Unknown2013-xr,
@@ -16909,7 +16909,7 @@
   doi       = {10.4324/9780203202050-37},
   isbn      = {9780203202050},
   url       = {http://dx.doi.org/10.4324/9780203202050-37},
-  keywords  = {Schumpeter\_1976}
+  keywords  = {Schumpeter\_1976;Book (child)}
 }
 
 @ARTICLE{De_Jong2013-st,
