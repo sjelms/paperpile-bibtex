@@ -2668,13 +2668,13 @@
   language  = {en}
 }
 
-@BOOK{Schumpeter2003-ue,
+@BOOK{Schumpeter1976-zs,
   title     = {Capitalism, Socialism, and Democracy},
   author    = {Schumpeter, Joseph A},
   publisher = {Routledge},
   location  = {London, England},
   edition   = {1},
-  date      = {2003-05-20},
+  date      = {1976},
   pagetotal = {464},
   doi       = {10.4324/9780203202050},
   isbn      = {9780203202050,9780203202050},
