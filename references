@@ -16573,6 +16573,120 @@
   keywords  = {Schumpeter\_1976}
 }
 
+@INBOOK{Schumpeter2013-da,
+  title     = {Plausible capitalism},
+  author    = {Schumpeter, Joseph A},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  location  = {London},
+  pages     = {72--80},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-11},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-11},
+  keywords  = {Schumpeter\_1976},
+  language  = {en}
+}
+
+@INBOOK{Unknown2013-le,
+  title     = {Prologue},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  pages     = {78--79},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-12},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-12},
+  keywords  = {Schumpeter\_1976}
+}
+
+@INBOOK{Unknown2013-oj,
+  title     = {The rate of increase of total output},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  pages     = {80--88},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-13},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-13},
+  keywords  = {Schumpeter\_1976}
+}
+
+@INBOOK{Unknown2013-of,
+  title     = {Plausible Capitalism},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  pages     = {89--97},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-14},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-14},
+  keywords  = {Schumpeter\_1976}
+}
+
+@INBOOK{Schumpeter2013-rm,
+  title     = {The vanishing of investment opportunity},
+  author    = {Schumpeter, Joseph A},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  location  = {London},
+  pages     = {111--120},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-15},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-15},
+  keywords  = {Schumpeter\_1976},
+  language  = {en}
+}
+
+@INBOOK{Unknown2013-md,
+  title     = {Monopolistic Practices},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  pages     = {104--123},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-16},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-16},
+  keywords  = {Schumpeter\_1976}
+}
+
+@INBOOK{Unknown2013-na,
+  title     = {Closed Season},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  pages     = {124--127},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-17},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-17},
+  keywords  = {Schumpeter\_1976}
+}
+
+@INBOOK{Unknown2013-sr,
+  title     = {The vanishing of investment opportunity},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  pages     = {128--137},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-18},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-18},
+  keywords  = {Schumpeter\_1976}
+}
+
+@INBOOK{Unknown2013-eb,
+  title     = {The civilization of capitalism},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  pages     = {138--147},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-19},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-19},
+  keywords  = {Schumpeter\_1976}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
