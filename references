@@ -497,6 +497,18 @@
   language     = {en}
 }
 
+@BOOK{Schumpeter2003-ue,
+  title     = {Capitalism, socialism and democracy},
+  author    = {Schumpeter, Joseph A},
+  publisher = {Routledge},
+  location  = {London, England},
+  date      = {2003-05-20},
+  pagetotal = {464},
+  doi       = {10.4324/9780203202050},
+  isbn      = {9780203202050,9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050}
+}
+
 @ARTICLE{Capraro2026-xt,
   title        = {{LLMorphism}: When humans come to see themselves as language
                   models},
