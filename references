@@ -312,6 +312,18 @@
   language     = {en}
 }
 
+@INBOOK{Unknown2013-ko,
+  title     = {The Human Element},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  pages     = {215--233},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-27},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-27},
+  keywords  = {Schumpeter\_1976}
+}
+
 @ARTICLE{Rucker2017-kk,
   title        = {How can an understanding of learning theories be used in the
                   design of training? A critical evaluation},
