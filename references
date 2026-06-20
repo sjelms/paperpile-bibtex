@@ -324,6 +324,21 @@
   keywords  = {Schumpeter\_1976}
 }
 
+@INBOOK{Schumpeter2013-ls,
+  title     = {Prologue},
+  author    = {Schumpeter, Joseph A},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  location  = {London},
+  pages     = {3--4},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-3},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-3},
+  keywords  = {Schumpeter\_1976},
+  language  = {en}
+}
+
 @ARTICLE{Rucker2017-kk,
   title        = {How can an understanding of learning theories be used in the
                   design of training? A critical evaluation},
@@ -16463,6 +16478,99 @@
   keywords     = {RCPSP\_Takt\_Taylorism;\_BibTex to MD Git;003\_Theoretical
                   Framework;Economics;Future of Work},
   language     = {en}
+}
+
+@INBOOK{Schumpeter2013-ym,
+  title     = {Marx the prophet},
+  author    = {Schumpeter, Joseph A},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  location  = {London},
+  pages     = {5--8},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-4},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-4},
+  keywords  = {Schumpeter\_1976},
+  language  = {en}
+}
+
+@INBOOK{Schumpeter2013-fk,
+  title     = {Marx the sociologist},
+  author    = {Schumpeter, Joseph A},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  location  = {London},
+  pages     = {9--20},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-5},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-5},
+  keywords  = {Schumpeter\_1976},
+  language  = {en}
+}
+
+@INBOOK{Unknown2013-aq,
+  title     = {Prologue},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  pages     = {21--22},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-6},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-6},
+  keywords  = {Schumpeter\_1976}
+}
+
+@INBOOK{Unknown2013-ne,
+  title     = {Marx the Prophet},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  pages     = {23--26},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-7},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-7},
+  keywords  = {Schumpeter\_1976}
+}
+
+@INBOOK{Unknown2013-ei,
+  title     = {Marx the Sociologist},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  pages     = {27--38},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-8},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-8},
+  keywords  = {Schumpeter\_1976}
+}
+
+@INBOOK{Schumpeter2013-wa,
+  title     = {Prologue},
+  author    = {Schumpeter, Joseph A},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  location  = {London},
+  pages     = {61--62},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-9},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-9},
+  keywords  = {Schumpeter\_1976},
+  language  = {en}
+}
+
+@INBOOK{Unknown2013-ii,
+  title     = {Marx the Teacher},
+  booktitle = {Capitalism, Socialism and Democracy},
+  publisher = {Routledge},
+  pages     = {63--76},
+  date      = {2013-05-13},
+  doi       = {10.4324/9780203202050-10},
+  isbn      = {9780203202050},
+  url       = {http://dx.doi.org/10.4324/9780203202050-10},
+  keywords  = {Schumpeter\_1976}
 }
 
 @ARTICLE{De_Jong2013-st,
