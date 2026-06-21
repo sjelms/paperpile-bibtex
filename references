@@ -484,7 +484,8 @@
                to three types of QCA, guidance on how you can use software to
                enhance your analysis.},
   keywords  = {EPubs Books;PhD Study and Support;\_BibTex to MD Git;Critical
-               Realism;llm-wiki-workflow;ePub;RNIB;PhD Support and Training;QDA},
+               Realism;llm-wiki-workflow;Marx\_Labor;ePub;RNIB;PhD Support and
+               Training;QDA},
   language  = {en}
 }
 
@@ -787,7 +788,8 @@
                Popper. The Tacit Dimension argues that tacit
                knowledge—tradition, inherited practices, implied values, and
                prejudgments—is a crucial part of scientific knowledge.},
-  keywords  = {\_BibTex to MD Git;llm-wiki-workflow;003\_Theoretical Framework},
+  keywords  = {\_BibTex to MD Git;llm-wiki-workflow;003\_Theoretical
+               Framework;Marx\_Labor},
   language  = {en}
 }
 
@@ -1542,7 +1544,7 @@
                   it came at a critical time in the history of Soviet science.},
   url          = {http://dx.doi.org/10.2753/rpo1061-040517043},
   keywords     = {\_BibTex to MD Git;llm-wiki-workflow;003\_Theoretical
-                  Framework;Psychology},
+                  Framework;Marx\_Labor;Psychology},
   origdate     = {1925}
 }
 
@@ -1829,7 +1831,7 @@
                   (Winter, 1980), pp. 121-136},
   url          = {https://www.jstor.org/stable/20024652?origin=JSTOR-pdf},
   urldate      = {2024-12-18},
-  keywords     = {JR Research Group Readings;JRRG},
+  keywords     = {JR Research Group Readings;Marx\_Labor;JRRG},
   language     = {en}
 }
 
@@ -2335,7 +2337,7 @@
   note      = {Unpublished book},
   keywords  = {diagnosis ; reasoning ; dialogues ; computational mathetics ;
                instructions;2\_Upgrade MAY 2023;\_BibTex to MD
-               Git;llm-wiki-workflow;Intelligent Tutoring Systems
+               Git;llm-wiki-workflow;Marx\_Labor;Intelligent Tutoring Systems
                (ITS);AIEd;Cited for Frontiers}
 }
 
@@ -3844,7 +3846,8 @@
   url       = {http://dx.doi.org/10.3102/0091732X015001097},
   keywords  = {Zotero Import (Feb 22);My Library;Frontiers [2022];2\_Upgrade MAY
                2023;Journal Articles;\_BibTex to MD
-               Git;llm-wiki-workflow;Workplace Learning;Cited for Frontiers}
+               Git;llm-wiki-workflow;Marx\_Labor;Workplace Learning;Cited for
+               Frontiers}
 }
 
 @ARTICLE{Butler1998-ph,
@@ -7178,8 +7181,8 @@
                   Party's fortunes in future general elections.},
   url          = {https://journals.sagepub.com/doi/abs/10.1177/001979398904200201},
   keywords     = {Frontiers [2022];Journal Articles;\_BibTex to MD
-                  Git;llm-wiki-workflow;Labor;Cited for Frontiers;\_In
-                  Notion;Economics}
+                  Git;llm-wiki-workflow;Marx\_Labor;Labor;Cited for
+                  Frontiers;\_In Notion;Economics}
 }
 
 @ARTICLE{Meyer2019-pv,
@@ -8384,7 +8387,7 @@
                   relationship between firm size, economic crisis, and
                   innovation.},
   url          = {http://dx.doi.org/10.1111/sjpe.12047},
-  keywords     = {Braverman;\_BibTex to MD Git;Economics},
+  keywords     = {Braverman;\_BibTex to MD Git;Marx\_Labor;Economics},
   language     = {en}
 }
 
@@ -9373,8 +9376,8 @@
   isbn      = {9780192636614},
   keywords  = {Social sciences -- Research -- Methodology;RDL
                [CCME0041];Reviewed on Theory;3\_Upgrade OCT 2023;\_BibTex to MD
-               Git;Critical Realism;llm-wiki-workflow;Course Assignment;\_New
-               Literature;Research Methods},
+               Git;Critical Realism;llm-wiki-workflow;Marx\_Labor;Course
+               Assignment;\_New Literature;Research Methods},
   language  = {eng}
 }
 
@@ -9720,8 +9723,8 @@
   doi          = {10.1561/1100000066},
   issn         = {1551-3955},
   url          = {http://dx.doi.org/10.1561/1100000066},
-  keywords     = {Week 1\_ Design and technology;Journal Articles;Course
-                  Assignment}
+  keywords     = {Week 1\_ Design and technology;Journal
+                  Articles;Marx\_Labor;Course Assignment}
 }
 
 @INPROCEEDINGS{Green2018-es,
@@ -10402,8 +10405,8 @@
   doi          = {10.1177/1077800405284363},
   issn         = {1077-8004,1552-7565},
   url          = {https://doi.org/10.1177/1077800405284363},
-  keywords     = {RDL [CCME0041];Journal Articles;Case-Study Research;Research
-                  Methods}
+  keywords     = {RDL [CCME0041];Journal Articles;Case-Study
+                  Research;Marx\_Labor;Research Methods}
 }
 
 @ARTICLE{Scotland2012-lw,
@@ -10420,7 +10423,7 @@
   issn         = {1916-4750},
   url          = {http://dx.doi.org/10.5539/elt.v5n9p9},
   keywords     = {RDL [CCME0041];Journal Articles;Critical Realism;\_BibTex to
-                  MD Git;llm-wiki-workflow;Research Methods}
+                  MD Git;llm-wiki-workflow;Marx\_Labor;Research Methods}
 }
 
 @BOOK{Hine2009-zv,
@@ -10474,7 +10477,7 @@
   doi          = {10.1080/09650790802667469},
   issn         = {1747-5074},
   url          = {http://dx.doi.org/10.1080/09650790802667469},
-  keywords     = {RDL [CCME0041];Journal Articles;\_New Literature}
+  keywords     = {RDL [CCME0041];Journal Articles;Marx\_Labor;\_New Literature}
 }
 
 @ONLINE{noauthor_undated-sw,
@@ -12430,7 +12433,7 @@
                necessarily impact our strategy of inquiry.},
   series    = {Government and International Affairs Faculty Publications},
   url       = {https://digitalcommons.usf.edu/gia_facpub/99/},
-  keywords  = {RDL [CCME0041];Research Methods}
+  keywords  = {RDL [CCME0041];Marx\_Labor;Research Methods}
 }
 
 @ARTICLE{Kirkwood2014-lf,
@@ -13286,7 +13289,7 @@
   isbn      = {9781351966894},
   url       = {https://openlibrary.org/books/OL37308376M.opds},
   keywords  = {EPubs Books;PhD Study and Support;Neurodiversity;\_BibTex to MD
-               Git;llm-wiki-workflow;ePub;Neurodiversity},
+               Git;llm-wiki-workflow;Marx\_Labor;ePub;Neurodiversity},
   language  = {en}
 }
 
@@ -15789,7 +15792,7 @@
                Significantly revised, this fourth edition remains a landmark
                volume in the study of qualitative methods.},
   url       = {https://uk.sagepub.com/en-gb/eur/basics-of-qualitative-research/book235578},
-  keywords  = {Grounded Theory;\_BibTex to MD Git;llm-wiki-workflow},
+  keywords  = {Grounded Theory;\_BibTex to MD Git;llm-wiki-workflow;Marx\_Labor},
   language  = {en}
 }
 
@@ -19355,7 +19358,8 @@
                   of the paradigms discussed.},
   url          = {http://dx.doi.org/10.5430/ijhe.v6n5p26},
   keywords     = {Journal Articles;Critical Realism;\_BibTex to MD
-                  Git;llm-wiki-workflow;Research Methods;\_New Literature}
+                  Git;llm-wiki-workflow;Marx\_Labor;Research Methods;\_New
+                  Literature}
 }
 
 @ARTICLE{Goulding2012-op,
@@ -21158,7 +21162,7 @@
   isbn      = {9781847875891,9781446200940},
   url       = {https://sk.sagepub.com/reference/hdbk_workplacelearning/n12.xml},
   keywords  = {SAGE Handbook of Workplace Learning;EPubs Books;\_BibTex to MD
-               Git;llm-wiki-workflow;\_New Literature;Workplace
+               Git;llm-wiki-workflow;Marx\_Labor;\_New Literature;Workplace
                Learning;ePub;\_In ClickUp;\_In Notion;\_In Readwise;Cross Ref
                Chapter;Book (child)}
 }
@@ -22346,8 +22350,9 @@
   url       = {https://www.cambridge.org/highereducation/books/situated-learning/6915ABD21C8E4619F750A4D4ACA616CD},
   urldate   = {2023-02-18},
   keywords  = {Theory and Methods;\_BibTex to MD
-               Git;llm-wiki-workflow;003\_Theoretical Framework;\_In Notion;\_In
-               Readwise;Research Methods;Workplace Learning;\_New Literature}
+               Git;llm-wiki-workflow;003\_Theoretical Framework;Marx\_Labor;\_In
+               Notion;\_In Readwise;Research Methods;Workplace Learning;\_New
+               Literature}
 }
 
 @VIDEO{Mills2019-rf,
@@ -23120,7 +23125,8 @@
   issn         = {0733-9364,1943-7862},
   url          = {https://ascelibrary.org/doi/10.1061/%28ASCE%290733-9364%282007%29133%3A9%28661%29},
   keywords     = {LSU Supporting Works;Journal Articles;3\_Upgrade OCT
-                  2023;\_BibTex to MD Git;llm-wiki-workflow;Knowledge - Skill
+                  2023;\_BibTex to MD
+                  Git;llm-wiki-workflow;Marx\_Labor;Knowledge - Skill
                   Acquisition;Workplace Learning;\_In Notion;\_In Readwise;\_New
                   Literature}
 }
@@ -23227,8 +23233,9 @@
                   rights reserved)},
   url          = {https://psycnet.apa.org/fulltext/2005-07735-020.pdf},
   keywords     = {Theory and Methods;2\_Upgrade MAY 2023;Grounded Theory;Journal
-                  Articles;\_BibTex to MD Git;llm-wiki-workflow;Research
-                  Methods;\_In Notion;\_In Readwise;\_New Literature}
+                  Articles;\_BibTex to MD
+                  Git;llm-wiki-workflow;Marx\_Labor;Research Methods;\_In
+                  Notion;\_In Readwise;\_New Literature}
 }
 
 @BOOK{Kumar2019-dp,
@@ -23712,8 +23719,9 @@
                manifest and latent functions and dysfunctions, obliteration by
                incorporation, reference groups, self-fulfilling prophecy,
                middle-range theory and others.},
-  keywords  = {Theory and Methods;\_BibTex to MD Git;llm-wiki-workflow;Research
-               Methods;Columbia University;Book (parent)}
+  keywords  = {Theory and Methods;\_BibTex to MD
+               Git;llm-wiki-workflow;Marx\_Labor;Research Methods;Columbia
+               University;Book (parent)}
 }
 
 @ONLINE{noauthor_undated-mg,
@@ -23749,7 +23757,7 @@
                   associated with higher skills, but did not significantly
                   influence task discretion.},
   url          = {http://dx.doi.org/10.3917/anso.032.0401},
-  keywords     = {\_BibTex to MD Git;Braverman;Knowledge - Skill
+  keywords     = {\_BibTex to MD Git;Braverman;Marx\_Labor;Knowledge - Skill
                   Acquisition;Labor;Skill demand;Reader\_Obsidian}
 }
 
@@ -23810,7 +23818,7 @@
   series    = {Learning in Doing: Social, Cognitive and Computational
                Perspectives},
   keywords  = {Contested Learning in Welfare Work;\_BibTex to MD
-               Git;Braverman;Book (child);Labor;Workplace Learning}
+               Git;Braverman;Marx\_Labor;Book (child);Labor;Workplace Learning}
 }
 
 @INBOOK{Sawchuk2013-ix,
@@ -23891,40 +23899,8 @@
                surface to be mundane, micro-interactions with technology.},
   series    = {Learning in Doing: Social, Cognitive and Computational
                Perspectives},
-  keywords  = {Contested Learning in Welfare Work;\_BibTex to MD Git;Book
-               (child);Labor;Workplace Learning}
-}
-
-@INBOOK{Sawchuk2013-ax,
-  title     = {Mind in Political Economy and the Labour Process: A Use-Value
-               Thesis},
-  author    = {Sawchuk, Peter H},
-  booktitle = {Contested Learning in Welfare Work: A Study of Mind, Political
-               Economy, and the Labour Process},
-  publisher = {Cambridge University Press},
-  pages     = {283--306},
-  date      = {2013},
-  abstract  = {To repeat two phrases used from the outset, this book has been
-               focused on the construction of the machineries of knowledge
-               construction (Knorr Cetina Reference Knorr Cetina1999). It has
-               been less about conventional occupational skills and knowledge
-               than it has been about the processes that realize them and make
-               them possible in activity (Leontiev Reference Leontiev1978). I
-               have tried to show how a dialogic use of Labour Process Theory
-               (LPT) and Cultural Historical Activity Theory (CHAT) helps us to
-               come to grips with a more fully situated – and more deeply
-               humanized – perspective vis-à-vis state welfare work activity.
-               Each tradition posed important questions and in some instances
-               filled important gaps in the other. I argued that together they
-               suggested the substance of a mind in political economy approach
-               which offered a contribution to breaking the impasse of
-               contemporary research on skill and the labour process, among
-               several other things. The dialogue that flowed from these pages
-               was with researchers of both the labour process and learning.},
-  series    = {Learning in Doing: Social, Cognitive and Computational
-               Perspectives},
-  keywords  = {Contested Learning in Welfare Work;\_BibTex to MD Git;Book
-               (child);Labor;Workplace Learning}
+  keywords  = {Contested Learning in Welfare Work;\_BibTex to MD
+               Git;Marx\_Labor;Book (child);Labor;Workplace Learning}
 }
 
 @INBOOK{Sawchuk2013-bi,
@@ -24003,7 +23979,7 @@
   series    = {Learning in Doing: Social, Cognitive and Computational
                Perspectives},
   keywords  = {Contested Learning in Welfare Work;\_BibTex to MD
-               Git;Braverman;Book (child);Labor;Workplace Learning}
+               Git;Braverman;Marx\_Labor;Book (child);Labor;Workplace Learning}
 }
 
 @INBOOK{Sawchuk2013-dj,
@@ -24031,8 +24007,8 @@
                unlearned.},
   series    = {Learning in Doing: Social, Cognitive and Computational
                Perspectives},
-  keywords  = {Contested Learning in Welfare Work;\_BibTex to MD Git;Book
-               (child);Labor;Workplace Learning}
+  keywords  = {Contested Learning in Welfare Work;\_BibTex to MD
+               Git;Marx\_Labor;Book (child);Labor;Workplace Learning}
 }
 
 @INBOOK{Sawchuk2013-eu,
@@ -24096,7 +24072,7 @@
   series    = {Learning in Doing: Social, Cognitive and Computational
                Perspectives},
   keywords  = {Contested Learning in Welfare Work;\_BibTex to MD
-               Git;Braverman;Book (child);Labor;Workplace Learning}
+               Git;Braverman;Marx\_Labor;Book (child);Labor;Workplace Learning}
 }
 
 @INBOOK{Sawchuk2013-hq,
@@ -24155,7 +24131,7 @@
   series    = {Learning in Doing: Social, Cognitive and Computational
                Perspectives},
   keywords  = {Contested Learning in Welfare Work;\_BibTex to MD
-               Git;Braverman;Book (child);Labor;Workplace Learning}
+               Git;Braverman;Marx\_Labor;Book (child);Labor;Workplace Learning}
 }
 
 @ARTICLE{Eloundou2023-fz,
@@ -24835,7 +24811,7 @@
                   Monopoly Capital by promoting the continuation of the extant
                   social order.},
   url          = {http://dx.doi.org/10.1177/09500170022118383},
-  keywords     = {Braverman;\_BibTex to MD Git;Labor},
+  keywords     = {Braverman;\_BibTex to MD Git;Marx\_Labor;Labor},
   language     = {en}
 }
 
@@ -25767,7 +25743,7 @@
                   approach in human geography.},
   url          = {https://doi.org/10.1068/a300261},
   keywords     = {Theory and Methods;Journal Articles;\_BibTex to MD
-                  Git;llm-wiki-workflow;Research Methods}
+                  Git;llm-wiki-workflow;Marx\_Labor;Research Methods}
 }
 
 @ARTICLE{Murdoch1994-or,
@@ -25910,7 +25886,7 @@
                Politics of scale; Soviet model of unionism; Trades Union
                Congress (TUC); World Federation of Trade Unions;2\_Upgrade MAY
                2023;3\_Upgrade OCT 2023;\_BibTex to MD
-               Git;llm-wiki-workflow;Labor;Workplace Learning}
+               Git;llm-wiki-workflow;Marx\_Labor;Labor;Workplace Learning}
 }
 
 @ARTICLE{Foley2015-tj,
@@ -25982,7 +25958,7 @@
   doi       = {10.1007/978-1-4614-5583-7_359},
   isbn      = {9781461455837},
   url       = {https://doi.org/10.1007/978-1-4614-5583-7_359},
-  keywords  = {Theory and Methods;\_In Notion;\_In Readwise;Research
+  keywords  = {Theory and Methods;Marx\_Labor;\_In Notion;\_In Readwise;Research
                Methods;\_New Literature}
 }
 
@@ -26018,8 +25994,8 @@
                   demand deeper, and deeply secular, time?based approaches to
                   teaching.},
   url          = {https://doi.org/10.1080/0260137970160403},
-  keywords     = {\_In Notion;\_In Readwise;Research Methods;VET;Workplace
-                  Learning;\_New Literature}
+  keywords     = {Marx\_Labor;\_In Notion;\_In Readwise;Research
+                  Methods;VET;Workplace Learning;\_New Literature}
 }
 
 @ARTICLE{Shaffer2004-eq,
@@ -26905,7 +26881,7 @@
   url          = {https://doi.org/10.1080/01425699995380},
   keywords     = {Theory and Methodology in Social and Educational
                   Research;Journal Articles;\_BibTex to MD
-                  Git;llm-wiki-workflow;Research Methods}
+                  Git;llm-wiki-workflow;Marx\_Labor;Research Methods}
 }
 
 @ARTICLE{Reay1995-kp,
@@ -27165,8 +27141,8 @@
                   definefirms,marketsandinstitutions.},
   url          = {http://dx.doi.org/10.1017/s1744137418000334},
   keywords     = {Skills Assessment Methodology;Journal Articles;Critical
-                  Realism;\_BibTex to MD Git;llm-wiki-workflow;Research
-                  Methods;Economics},
+                  Realism;\_BibTex to MD
+                  Git;llm-wiki-workflow;Marx\_Labor;Research Methods;Economics},
   language     = {en}
 }
 
@@ -27261,8 +27237,8 @@
                with the simple idea that the atmosphere may be conceived as a
                "sea of air"; Darwin, with the idea that one can conceive of the
                atolls as upward.},
-  keywords  = {\_BibTex to MD Git;Columbia University;Research Methods;Book
-               (child)}
+  keywords  = {\_BibTex to MD Git;Marx\_Labor;Columbia University;Research
+               Methods;Book (child)}
 }
 
 @ARTICLE{Reiter-Palmon2006-cy,
@@ -27602,7 +27578,8 @@
   url       = {https://play.google.com/store/books/details?id=g51bBAAAQBAJ},
   note      = {pp. 192-210},
   keywords  = {Theory and Methodology in Social and Educational
-               Research;Critical Realism;\_BibTex to MD Git;llm-wiki-workflow},
+               Research;Critical Realism;\_BibTex to MD
+               Git;llm-wiki-workflow;Marx\_Labor},
   language  = {en}
 }
 
@@ -28519,8 +28496,8 @@
   url       = {https://play.google.com/store/books/details?id=JFN_BwAAQBAJ},
   keywords  = {Theory and Methods;EPubs Books;Rapid Qualitative
                Research;\_BibTex to MD Git;Audible;Critical
-               Realism;llm-wiki-workflow;Audiobook;Research Methods;ePub;\_In
-               Readwise;\_In Notion;Fieldwork Methodology},
+               Realism;llm-wiki-workflow;Marx\_Labor;Audiobook;Research
+               Methods;ePub;\_In Readwise;\_In Notion;Fieldwork Methodology},
   language  = {en}
 }
 
@@ -28676,7 +28653,7 @@
                   with some of the secondary illustrations in the text.},
   url          = {https://doi.org/10.1007/s13394-013-0073-8},
   keywords     = {Theory and Methodology in Social and Educational
-                  Research;Journal Articles;Research Methods;UCL}
+                  Research;Journal Articles;Marx\_Labor;Research Methods;UCL}
 }
 
 @ARTICLE{Skipper2012-tx,
@@ -29487,7 +29464,7 @@
   date        = {2018},
   doi         = {10.13140/RG.2.2.20725.22240},
   url         = {http://rgdoi.net/10.13140/RG.2.2.20725.22240},
-  keywords    = {VET-TVET;\_BibTex to MD Git;llm-wiki-workflow;VET}
+  keywords    = {VET-TVET;\_BibTex to MD Git;llm-wiki-workflow;Marx\_Labor;VET}
 }
 
 @INPROCEEDINGS{Ayinla2021-mr,
@@ -29993,8 +29970,8 @@
   issn         = {1363-6820,1747-5090},
   url          = {http://dx.doi.org/10.1080/13636829800200044},
   keywords     = {VET-TVET;ERC-ex-re;\_BibTex to MD
-                  Git;llm-wiki-workflow;Braverman;VET;\_In Notion;\_In
-                  Readwise;\_New Literature;Workplace Learning;UCL},
+                  Git;llm-wiki-workflow;Braverman;Marx\_Labor;VET;\_In
+                  Notion;\_In Readwise;\_New Literature;Workplace Learning;UCL},
   language     = {en}
 }
 
@@ -30437,7 +30414,7 @@
                Activity and experience / Activity-centric computing / Activity
                theory and the development of HCI},
   url       = {https://play.google.com/store/books/details?id=OYlyEAAAQBAJ},
-  keywords  = {HCI;Research Methods;\_New Literature},
+  keywords  = {Marx\_Labor;HCI;Research Methods;\_New Literature},
   language  = {en}
 }
 
@@ -30799,8 +30776,9 @@
   url       = {https://onlinelibrary.wiley.com/doi/10.1002/9781119098713.ch2},
   keywords  = {Handbook of Vocational Education and Training-Wiley 2019;EPubs
                Books;3\_Upgrade OCT 2023;\_BibTex to MD
-               Git;llm-wiki-workflow;Braverman;\_In ClickUp;\_In Notion;\_In
-               Readwise;ePub;UCL;Workplace Learning;\_Mark Up;VET;Book (child)}
+               Git;llm-wiki-workflow;Braverman;Marx\_Labor;\_In ClickUp;\_In
+               Notion;\_In Readwise;ePub;UCL;Workplace Learning;\_Mark
+               Up;VET;Book (child)}
 }
 
 @INBOOK{Billett2019-so,
@@ -31245,9 +31223,10 @@
   url       = {http://dx.doi.org/10.4324/9780203571644},
   keywords  = {VET-TVET;Workplace Learning in Context;EPubs Books;3\_Upgrade OCT
                2023;\_BibTex to MD Git;003\_Theoretical
-               Framework;llm-wiki-workflow;Braverman;\_In Notion;\_In
-               Readwise;ePub;UCL;VET;Workplace Learning;\_New Literature;\_In
-               ClickUp;Book (parent);Book (child);Cross Ref Chapter},
+               Framework;llm-wiki-workflow;Braverman;Marx\_Labor;\_In
+               Notion;\_In Readwise;ePub;UCL;VET;Workplace Learning;\_New
+               Literature;\_In ClickUp;Book (parent);Book (child);Cross Ref
+               Chapter},
   language  = {en}
 }
 
@@ -31379,9 +31358,9 @@
   url       = {https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-14/expansive-learning-environments-alison-fuller-lorna-unwin},
   keywords  = {Workplace Learning in Context;EPubs Books;3\_Upgrade OCT
                2023;\_BibTex to MD Git;003\_Theoretical
-               Framework;llm-wiki-workflow;\_In ClickUp;\_In Notion;\_In
-               Readwise;Cross Ref Chapter;ePub;VET;Workplace Learning;\_New
-               Literature;UCL;Book (child)}
+               Framework;llm-wiki-workflow;Marx\_Labor;\_In ClickUp;\_In
+               Notion;\_In Readwise;Cross Ref Chapter;ePub;VET;Workplace
+               Learning;\_New Literature;UCL;Book (child)}
 }
 
 @INBOOK{Eraut2004-sp,
@@ -31775,9 +31754,9 @@
                however, lose sight of the community. The CoP is inherently and
                irreducibly a social endeavour.},
   url       = {https://doi.org/10.1007/978-94-6091-915-2_7},
-  keywords  = {The Knowledge Economy and Lifelong Learning 2012;\_In Notion;\_In
-               Readwise;VET;Workplace Learning;\_New Literature;Cross Ref
-               Chapter;UCL}
+  keywords  = {The Knowledge Economy and Lifelong Learning 2012;Marx\_Labor;\_In
+               Notion;\_In Readwise;VET;Workplace Learning;\_New
+               Literature;Cross Ref Chapter;UCL}
 }
 
 @ARTICLE{Lahiff2019-dw,
@@ -32219,7 +32198,7 @@
   abstract     = {ARRAY(0x556d65c41ae8)},
   url          = {https://muse.jhu.edu/article/855174},
   urldate      = {2023-09-26},
-  keywords     = {Labor;Economics}
+  keywords     = {Marx\_Labor;Labor;Economics}
 }
 
 @REPORT{Fuller2015-wk,
@@ -32475,8 +32454,8 @@
                   tendencies within capitalism. At the heart of these debates
                   rest two issues. T...},
   url          = {https://www.tandfonline.com/doi/abs/10.1080/13639080.2022.2092606},
-  keywords     = {ERC-ex-re;\_BibTex to MD Git;llm-wiki-workflow;Workplace
-                  Learning;VET},
+  keywords     = {ERC-ex-re;\_BibTex to MD
+                  Git;llm-wiki-workflow;Marx\_Labor;Workplace Learning;VET},
   language     = {en}
 }
 
@@ -33423,8 +33402,9 @@
                  and within frameworks has created a highly inconsistent and
                  overly complex system.},
   url         = {http://hdl.voced.edu.au/10707/363067},
-  keywords    = {\_BibTex to MD Git;llm-wiki-workflow;Braverman;\_In Notion;\_In
-                 Readwise;UCL;VET;Workplace Learning;\_New Literature}
+  keywords    = {\_BibTex to MD Git;llm-wiki-workflow;Braverman;Marx\_Labor;\_In
+                 Notion;\_In Readwise;UCL;VET;Workplace Learning;\_New
+                 Literature}
 }
 
 @REPORT{Berger2016-vc,
@@ -33872,7 +33852,7 @@
                   contribute their own bit, in order to add greater novelty and
                   freshness to the methodology of case study.},
   url          = {https://doi.org/10.1177/0038022920970318},
-  keywords     = {Case-Study Research;\_BibTex to MD Git;Fieldwork
+  keywords     = {Case-Study Research;\_BibTex to MD Git;Marx\_Labor;Fieldwork
                   Methodology;Research Methods}
 }
 
@@ -34414,8 +34394,8 @@
   url       = {https://brill.com/display/book/9789460912597/BP000011.xml},
   urldate   = {2023-11-30},
   keywords  = {Higher Education; Education; Professional Development; Adult
-               Education;LCKE Chapters;Cross Ref Chapter;UCL;VET;Workplace
-               Learning},
+               Education;LCKE Chapters;\_BibTex to MD Git;Cross Ref
+               Chapter;UCL;VET;Workplace Learning;Book (child)},
   language  = {en}
 }
 
@@ -34518,8 +34498,8 @@
   url       = {https://brill.com/display/book/9789460912597/BP000009.xml},
   urldate   = {2023-11-30},
   keywords  = {Higher Education; Education; Professional Development; Adult
-               Education;LCKE Chapters;Cross Ref Chapter;UCL;VET;Workplace
-               Learning},
+               Education;LCKE Chapters;\_BibTex to MD Git;Cross Ref
+               Chapter;UCL;VET;Workplace Learning;Book (child)},
   language  = {en}
 }
 
@@ -34537,7 +34517,7 @@
   urldate   = {2023-11-30},
   keywords  = {Higher Education; Education; Professional Development; Adult
                Education;LCKE Chapters;Cross Ref Chapter;UCL;VET;Workplace
-               Learning},
+               Learning;Book (child)},
   language  = {en}
 }
 
@@ -34555,8 +34535,8 @@
   url       = {https://brill.com/display/book/9789460912597/BP000003.xml},
   urldate   = {2023-11-30},
   keywords  = {Higher Education; Education; Professional Development; Adult
-               Education;LCKE Chapters;Cross Ref Chapter;UCL;VET;Workplace
-               Learning},
+               Education;LCKE Chapters;Marx\_Labor;\_BibTex to MD Git;Cross Ref
+               Chapter;UCL;VET;Workplace Learning;Book (child)},
   language  = {en}
 }
 
@@ -34574,8 +34554,8 @@
   url       = {https://brill.com/display/book/9789460912597/BP000007.xml},
   urldate   = {2023-11-30},
   keywords  = {Higher Education; Education; Professional Development; Adult
-               Education;LCKE Chapters;Cross Ref Chapter;UCL;VET;Workplace
-               Learning},
+               Education;LCKE Chapters;Marx\_Labor;\_BibTex to MD Git;Cross Ref
+               Chapter;UCL;VET;Workplace Learning;Book (child)},
   language  = {en}
 }
 
@@ -34593,8 +34573,8 @@
   url       = {https://brill.com/display/book/9789460912597/BP000002.xml},
   urldate   = {2023-11-30},
   keywords  = {Higher Education; Education; Professional Development; Adult
-               Education;LCKE Chapters;Cross Ref Chapter;UCL;VET;Workplace
-               Learning},
+               Education;LCKE Chapters;\_BibTex to MD Git;Cross Ref
+               Chapter;UCL;VET;Workplace Learning;Book (child)},
   language  = {en}
 }
 
@@ -34611,8 +34591,8 @@
   url       = {https://brill.com/display/book/9789460912597/BP000010.xml},
   urldate   = {2023-11-30},
   keywords  = {Higher Education; Education; Professional Development; Adult
-               Education;LCKE Chapters;Cross Ref Chapter;UCL;VET;Workplace
-               Learning},
+               Education;LCKE Chapters;Marx\_Labor;\_BibTex to MD Git;Cross Ref
+               Chapter;UCL;VET;Workplace Learning;Book (child)},
   language  = {en}
 }
 
@@ -34631,7 +34611,7 @@
   keywords  = {Higher Education; Education; Professional Development; Adult
                Education;LCKE Chapters;Critical Realism;\_BibTex to MD
                Git;llm-wiki-workflow;Cross Ref Chapter;UCL;VET;Workplace
-               Learning},
+               Learning;Book (child)},
   language  = {en}
 }
 
@@ -34651,7 +34631,7 @@
   keywords  = {Higher Education; Education; Professional Development; Adult
                Education;LCKE Chapters;Critical Realism;\_BibTex to MD
                Git;llm-wiki-workflow;Cross Ref Chapter;UCL;VET;Workplace
-               Learning},
+               Learning;Book (child)},
   language  = {en}
 }
 
@@ -34668,8 +34648,8 @@
   url       = {https://brill.com/display/book/9789460912597/BP000012.xml},
   urldate   = {2023-11-30},
   keywords  = {Higher Education; Education; Professional Development; Adult
-               Education;LCKE Chapters;Cross Ref Chapter;UCL;VET;Workplace
-               Learning},
+               Education;LCKE Chapters;\_BibTex to MD Git;Cross Ref
+               Chapter;UCL;VET;Workplace Learning;Book (child)},
   language  = {en}
 }
 
@@ -34687,8 +34667,8 @@
   url       = {https://brill.com/display/book/9789460912597/BP000008.xml},
   urldate   = {2023-11-30},
   keywords  = {Higher Education; Education; Professional Development; Adult
-               Education;LCKE Chapters;Cross Ref Chapter;UCL;VET;Workplace
-               Learning},
+               Education;LCKE Chapters;Marx\_Labor;\_BibTex to MD Git;Cross Ref
+               Chapter;UCL;VET;Workplace Learning;Book (child)},
   language  = {en}
 }
 
@@ -34708,7 +34688,7 @@
   keywords  = {Higher Education; Education; Professional Development; Adult
                Education;LCKE Chapters;Critical Realism;\_BibTex to MD
                Git;llm-wiki-workflow;Cross Ref Chapter;UCL;VET;Workplace
-               Learning},
+               Learning;Book (child)},
   language  = {en}
 }
 
@@ -34726,8 +34706,8 @@
   url       = {https://brill.com/display/book/9789460912597/BP000004.xml},
   urldate   = {2023-11-30},
   keywords  = {Higher Education; Education; Professional Development; Adult
-               Education;LCKE Chapters;Cross Ref Chapter;UCL;VET;Workplace
-               Learning},
+               Education;LCKE Chapters;\_BibTex to MD Git;Cross Ref
+               Chapter;UCL;VET;Workplace Learning;Book (child)},
   language  = {en}
 }
 
@@ -35030,6 +35010,7 @@
   title     = {The Learning Challenge of the Knowledge Economy},
   author    = {Guile, David},
   publisher = {Brill},
+  volume    = {3},
   date      = {2010-01-01},
   pagetotal = {212},
   doi       = {10.1163/9789460912597},
@@ -35051,10 +35032,12 @@
                learning—Professional, Vocational and Workplace—most closely
                associated with the use of knowledge for economic, political and
                social purposes.},
-  url       = {https://doi.org/10.1163/9789460912597},
+  series    = {The Knowledge Economy and Education},
+  url       = {http://dx.doi.org/10.1163/9789460912597},
   keywords  = {Learning Challenge of the Knowledge Economy;Critical
-               Realism;\_BibTex to MD Git;llm-wiki-workflow;\_In Notion;\_In
-               Readwise;UCL;VET;Workplace Learning;\_New Literature},
+               Realism;\_BibTex to MD Git;llm-wiki-workflow;Marx\_Labor;\_In
+               Notion;\_In Readwise;UCL;VET;Workplace Learning;\_New
+               Literature;Book (parent)},
   language  = {en}
 }
 
@@ -35171,7 +35154,7 @@
                   strategies and curriculum.},
   url          = {http://www.jstor.org/stable/3594354},
   keywords     = {Upgrade Viva Prep Reading;\_BibTex to MD
-                  Git;llm-wiki-workflow;\_In Notion;\_In
+                  Git;llm-wiki-workflow;Marx\_Labor;\_In Notion;\_In
                   Readwise;Education;Knowledge - Skill Acquisition}
 }
 
@@ -35611,7 +35594,7 @@
               and for all who are interested in the theoretical questions of the
               science that concerns the origin, function, and structure of the
               psychological reflection of reality.},
-  keywords = {\_BibTex to MD Git;Knowledge - Skill
+  keywords = {\_BibTex to MD Git;Marx\_Labor;Knowledge - Skill
               Acquisition;Education;Philosophy of Education},
   language = {en},
   origdate = {1975}
@@ -36095,7 +36078,7 @@
                we can create real prosperity for all.},
   url       = {https://play.google.com/store/books/details?id=4bumEAAAQBAJ},
   keywords  = {Future of Work;\_BibTex to MD Git;EPubs
-               Books;Audible;llm-wiki-workflow;Audiobook;Economics;ePub;Future
+               Books;Audible;llm-wiki-workflow;Marx\_Labor;Audiobook;Economics;ePub;Future
                of Work},
   language  = {en}
 }
@@ -37132,7 +37115,7 @@
                tale in our own disquieting times.},
   url       = {https://play.google.com/store/books/details?id=WffNEAAAQBAJ},
   keywords  = {Politics and Society;Audible;\_BibTex to MD
-               Git;Audiobook;Politics and Society},
+               Git;Marx\_Labor;Audiobook;Politics and Society},
   language  = {en}
 }
 
@@ -37252,7 +37235,7 @@
                   since LMC appeared.},
   url          = {https://dx.doi.org/10.1093/cpe/bzae007},
   urldate      = {2026-06-09},
-  keywords     = {Braverman;\_BibTex to MD Git;Labor},
+  keywords     = {Braverman;\_BibTex to MD Git;Marx\_Labor;Labor},
   language     = {en}
 }
 
@@ -37373,7 +37356,7 @@
                   in AEC.},
   url          = {http://dx.doi.org/10.1007/s41693-024-00115-z},
   keywords     = {Construction 4-0;\_BibTex to MD
-                  Git;llm-wiki-workflow;AEC;\_New Literature;QDA},
+                  Git;llm-wiki-workflow;Marx\_Labor;AEC;\_New Literature;QDA},
   language     = {en}
 }
 
@@ -38748,7 +38731,7 @@
   url       = {https://link.springer.com/book/10.1007/978-1-349-15845-4},
   urldate   = {2024-09-06},
   keywords  = {EPubs Books;\_BibTex to MD
-               Git;llm-wiki-workflow;Braverman;Economics}
+               Git;llm-wiki-workflow;Braverman;Marx\_Labor;Economics}
 }
 
 @BOOK{Beato2024-nt,
@@ -39649,7 +39632,7 @@
                   workplaces under capitalism, and in turn offers a means to
                   more coherently assess the full range of human learning.},
   url          = {http://dx.doi.org/10.1177/0022185606070107},
-  keywords     = {Braverman;\_BibTex to MD Git;Labor},
+  keywords     = {Braverman;\_BibTex to MD Git;Marx\_Labor;Labor},
   language     = {en}
 }
 
@@ -39789,8 +39772,8 @@
                   in previous decades.},
   url          = {https://pubs.aeaweb.org/doi/10.1257/jep.33.2.3},
   urldate      = {2023-10-03},
-  keywords     = {3\_Upgrade OCT 2023;\_BibTex to MD Git;llm-wiki-workflow;\_In
-                  Notion;\_In
+  keywords     = {3\_Upgrade OCT 2023;\_BibTex to MD
+                  Git;llm-wiki-workflow;Marx\_Labor;\_In Notion;\_In
                   Readwise;Automation;Labor;Robots;Economics;Technological
                   change}
 }
@@ -39831,7 +39814,7 @@
                control entry into their craft.},
   url       = {https://doi.org/10.1057/9781137465191_5},
   keywords  = {WALF - Improving Working as Learning ;\_BibTex to MD
-               Git;llm-wiki-workflow;Braverman;UCL;\_In Notion;\_In
+               Git;llm-wiki-workflow;Braverman;Marx\_Labor;UCL;\_In Notion;\_In
                Readwise;VET;Workplace Learning;\_New Literature}
 }
 
@@ -40099,7 +40082,7 @@
                “revelation” of first reading the book and how it helped inspire
                his philanthropic Open Society Foundations.},
   url       = {https://doi.org/10.1515/9780691212067},
-  keywords  = {\_BibTex to MD Git;EPubs Books;ePub}
+  keywords  = {\_BibTex to MD Git;EPubs Books;Marx\_Labor;ePub}
 }
 
 @BOOK{Addis2018-be,
@@ -40177,33 +40160,6 @@
   issn         = {0040-1625,1873-5509},
   url          = {https://linkinghub.elsevier.com/retrieve/pii/S0040162525000733},
   keywords     = {Artificial Intelligence (AI);Economics},
-  language     = {en}
-}
-
-@ARTICLE{Attewell1987-vr,
-  title        = {The Deskilling Controversy},
-  author       = {Attewell, Paul},
-  journaltitle = {Work and occupations},
-  publisher    = {SAGE Publications},
-  volume       = {14},
-  issue        = {3},
-  pages        = {323--346},
-  date         = {1987-08},
-  doi          = {10.1177/0730888487014003001},
-  issn         = {0730-8884,1552-8464},
-  abstract     = {The thesis that capitalism continues to degrade and deskill
-                  work in the twentieth century, creating an ever more unskilled
-                  proletariat, has been forcefully argued by Harry Braverman and
-                  his colleagues. In this article I present a series of
-                  theoretical, empirical, and methodological criticisms of the
-                  deskilling position, drawing upon a diverse literature, and
-                  upon original research. Particular attention is given to the
-                  application of the deskilling thesis to contemporary trends in
-                  the computerization of clerical work, as a way of highlighting
-                  methodological weaknesses in the deskilling approach.},
-  url          = {http://dx.doi.org/10.1177/0730888487014003001},
-  keywords     = {\_BibTex to MD Git;llm-wiki-workflow;Braverman;Future of
-                  Work;Workplace Learning;VET;Labor},
   language     = {en}
 }
 
@@ -40754,7 +40710,7 @@
                   section IV the implementation of these strategies in practice
                   is discussed.},
   url          = {http://dx.doi.org/10.1177/030981687700100104},
-  keywords     = {Braverman;\_BibTex to MD Git;Labor},
+  keywords     = {Braverman;\_BibTex to MD Git;Marx\_Labor;Labor},
   language     = {en}
 }
 
@@ -40878,7 +40834,8 @@
                their career will enjoy revisiting this treatise and observing
                the relevance of Keynes’ work in today’s contemporary climate.},
   url       = {http://dx.doi.org/10.1007/978-3-319-70344-2},
-  keywords  = {\_BibTex to MD Git;Speechify;llm-wiki-workflow;Economics},
+  keywords  = {\_BibTex to MD
+               Git;Speechify;llm-wiki-workflow;Marx\_Labor;Economics},
   language  = {en}
 }
 
@@ -41008,7 +40965,8 @@
                AI and robotization will make matters worse. He describes
                policies that can simultaneously reduce inequality and improve
                economic performance.},
-  keywords  = {EPubs Books;\_BibTex to MD Git;Economics;Columbia University;ePub},
+  keywords  = {EPubs Books;\_BibTex to MD Git;Marx\_Labor;Economics;Columbia
+               University;ePub},
   language  = {en}
 }
 
@@ -41084,7 +41042,7 @@
   abstract     = {Downloadable! No abstract is available for this item.},
   url          = {https://ideas.repec.org/h/nbr/nberch/10232.html},
   urldate      = {2025-05-24},
-  keywords     = {\_BibTex to MD Git;llm-wiki-workflow;VET}
+  keywords     = {\_BibTex to MD Git;llm-wiki-workflow;Marx\_Labor;VET}
 }
 
 @BOOK{Dewey1916-uh,
@@ -41146,8 +41104,8 @@
   date      = {2025-05},
   doi       = {10.3386/w33843},
   url       = {http://dx.doi.org/10.3386/w33843},
-  keywords  = {\_BibTex to MD Git;llm-wiki-workflow;Future of Work;Workplace
-               Learning;Essential}
+  keywords  = {\_BibTex to MD Git;llm-wiki-workflow;Marx\_Labor;Future of
+               Work;Workplace Learning;Essential}
 }
 
 @ARTICLE{Dainis2026-qc,
@@ -41620,7 +41578,8 @@
                  large projects. The study concludes with detailed
                  recommendations for research and practice.},
   url         = {https://discovery.ucl.ac.uk/id/eprint/10094822/},
-  keywords    = {BSSC Thesis;\_BibTex to MD Git;llm-wiki-workflow;Thesis;UCL}
+  keywords    = {BSSC Thesis;\_BibTex to MD
+                 Git;llm-wiki-workflow;Marx\_Labor;Thesis;UCL}
 }
 
 @PHDTHESIS{Symons2021-de,
@@ -41953,7 +41912,7 @@
   pagetotal = {320},
   isbn      = {9780349017488},
   keywords  = {EPubs Books;\_BibTex to MD
-               Git;Audible;llm-wiki-workflow;ePub;Economics;UCL;Audiobook},
+               Git;Audible;llm-wiki-workflow;Marx\_Labor;ePub;Economics;UCL;Audiobook},
   language  = {en}
 }
 
@@ -42586,7 +42545,7 @@
                   over in an endless cycle. But in so doing it created new
                   worlds of labor, a molten working class.},
   url          = {http://dx.doi.org/10.1177/10957960251332233},
-  keywords     = {\_BibTex to MD Git;Braverman;Labor;Economics},
+  keywords     = {\_BibTex to MD Git;Braverman;Marx\_Labor;Labor;Economics},
   language     = {en}
 }
 
@@ -42630,7 +42589,8 @@
   url          = {https://www.sciencedirect.com/science/article/pii/S0925527397000923#bBIB1},
   urldate      = {2025-09-17},
   note         = {See also: [[@Attewell1987-vr]] and [[@Braverman1974-tr]]},
-  keywords     = {\_BibTex to MD Git;llm-wiki-workflow;Braverman;Workplace
+  keywords     = {\_BibTex to MD
+                  Git;llm-wiki-workflow;Braverman;Marx\_Labor;Workplace
                   Learning;VET;Labor},
   language     = {en}
 }
@@ -43516,8 +43476,8 @@
                of the research act, the changing landscape of higher education,
                and the role qualitative researchers play in contributing to a
                more just, egalitarian society.},
-  keywords  = {\_BibTex to MD Git;Critical Realism;llm-wiki-workflow;Research
-               Methods},
+  keywords  = {\_BibTex to MD Git;Critical
+               Realism;llm-wiki-workflow;Marx\_Labor;Research Methods},
   language  = {en}
 }
 
@@ -43852,7 +43812,8 @@
   edition   = {3},
   date      = {2012},
   isbn      = {9781118520734},
-  keywords  = {\_BibTex to MD Git;llm-wiki-workflow;Design and Design Thinking},
+  keywords  = {\_BibTex to MD Git;llm-wiki-workflow;Marx\_Labor;Design and
+               Design Thinking},
   language  = {en}
 }
 
@@ -44079,7 +44040,7 @@
   url          = {http://dx.doi.org/10.1332/27324176y2024d000000025},
   note         = {cross-reference: [[@Braverman1974-tr]]},
   keywords     = {\_BibTex to MD Git;llm-wiki-workflow;003\_Theoretical
-                  Framework;Braverman;Labor;Economics}
+                  Framework;Braverman;Marx\_Labor;Labor;Economics}
 }
 
 @ARTICLE{Drake2025-nv,
@@ -44139,7 +44100,8 @@
                you succeed.},
   url       = {http://dx.doi.org/10.1007/978-3-319-04286-2},
   keywords  = {PhD Study and Support;EPubs Books;\_BibTex to MD
-               Git;Speechify;llm-wiki-workflow;PhD Support and Training;ePub},
+               Git;Speechify;llm-wiki-workflow;Marx\_Labor;PhD Support and
+               Training;ePub},
   language  = {en}
 }
 
@@ -44821,7 +44783,8 @@
                will inspire a new generation of educators, students, and general
                readers for years to come.},
   url       = {https://play.google.com/store/books/details?id=Zy_EzgEACAAJ},
-  keywords  = {\_BibTex to MD Git;llm-wiki-workflow;Occupational choice},
+  keywords  = {\_BibTex to MD Git;llm-wiki-workflow;Marx\_Labor;Occupational
+               choice},
   language  = {en}
 }
 
@@ -44863,7 +44826,8 @@
                transform oppressive conditions, expanding possibilities for
                social justice.},
   series    = {Bloomsbury Revelations},
-  keywords  = {\_BibTex to MD Git;llm-wiki-workflow;RNIB;Occupational
+  keywords  = {\_BibTex to MD
+               Git;llm-wiki-workflow;Marx\_Labor;RNIB;Occupational
                choice;Politics and Society}
 }
 
@@ -44885,7 +44849,8 @@
                gangster capitalism. The book focuses primarily on the context
                and events in North America but has widespread relevance due to
                the global impact of capitalism.},
-  keywords  = {\_BibTex to MD Git;llm-wiki-workflow;RNIB;Politics and Society},
+  keywords  = {\_BibTex to MD Git;llm-wiki-workflow;Marx\_Labor;RNIB;Politics
+               and Society},
   language  = {en}
 }
 
@@ -44956,8 +44921,8 @@
                   and entrepreneurship.},
   url          = {http://dx.doi.org/10.58915/ijbt.v15i3.1652},
   keywords     = {PhD Study and Support;\_BibTex to MD
-                  Git;llm-wiki-workflow;Research Methods;PhD Support and
-                  Training}
+                  Git;llm-wiki-workflow;Marx\_Labor;Research Methods;PhD Support
+                  and Training}
 }
 
 @BOOK{Crosby1973-fs,
@@ -45533,7 +45498,8 @@
                   Realism.},
   url          = {http://dx.doi.org/10.1080/14767430.2023.2188710},
   keywords     = {Theory and Methods;\_BibTex to MD Git;Critical
-                  Realism;llm-wiki-workflow;Research Methods;Interview},
+                  Realism;llm-wiki-workflow;Marx\_Labor;Research
+                  Methods;Interview},
   language     = {en}
 }
 
@@ -45599,7 +45565,7 @@
                   the dynamics of dirty work.},
   url          = {http://dx.doi.org/10.1177/09500170211011321},
   keywords     = {Theory and Methods;\_BibTex to MD Git;Critical
-                  Realism;llm-wiki-workflow},
+                  Realism;llm-wiki-workflow;Marx\_Labor},
   language     = {en}
 }
 
@@ -48111,8 +48077,8 @@
                anthropology, therefore, lies in expanding the scope of human
                discourse by making diverse systems of meaning intelligible.},
   chapter   = {1},
-  keywords  = {Theory and Methods;\_BibTex to MD Git;llm-wiki-workflow;Research
-               Methods}
+  keywords  = {Theory and Methods;\_BibTex to MD
+               Git;llm-wiki-workflow;Marx\_Labor;Research Methods}
 }
 
 @ARTICLE{Friese2026-pb,
@@ -49163,7 +49129,7 @@
                  NMS implementation on projects.},
   url         = {https://discovery.ucl.ac.uk/id/eprint/10065623/},
   keywords    = {BSSC Thesis;\_BibTex to MD Git;Critical
-                 Realism;llm-wiki-workflow;UCL;Thesis}
+                 Realism;llm-wiki-workflow;Marx\_Labor;UCL;Thesis}
 }
 
 @ARTICLE{Polat2025-ad,
@@ -49256,7 +49222,7 @@
                   side of any bargain with employees.},
   url          = {http://dx.doi.org/10.1177/0950017003017002007},
   note         = {See also: [[@Milkman1998-oe]]},
-  keywords     = {\_BibTex to MD Git;Labor;Economics},
+  keywords     = {\_BibTex to MD Git;Marx\_Labor;Labor;Economics},
   language     = {en}
 }
 
@@ -50025,7 +49991,8 @@
                education.},
   url       = {http://dx.doi.org/10.4324/9780203073667},
   keywords  = {EPubs Books;\_BibTex to MD
-               Git;llm-wiki-workflow;Braverman;ePub;RNIB;Research Methods;VET}
+               Git;llm-wiki-workflow;Braverman;Marx\_Labor;ePub;RNIB;Research
+               Methods;VET}
 }
 
 @BOOK{Schon1984-nn,
@@ -50990,8 +50957,8 @@
   url          = {https://www.tandfonline.com/doi/abs/10.1080/13639080020028747},
   urldate      = {2026-04-09},
   keywords     = {ERC-ex-re;\_BibTex to MD
-                  Git;llm-wiki-workflow;003\_Theoretical Framework;Workplace
-                  Learning},
+                  Git;llm-wiki-workflow;003\_Theoretical
+                  Framework;Marx\_Labor;Workplace Learning},
   language     = {en}
 }
 
@@ -51023,8 +50990,8 @@
   url       = {http://dx.doi.org/10.4135/9781446200940.n7},
   keywords  = {Theory and Methods;\_BibTex to MD
                Git;llm-wiki-workflow;003\_Theoretical Framework;EPubs
-               Books;Research Methods;\_New Literature;Book (child);Cross Ref
-               Chapter;Workplace Learning;ePub}
+               Books;Marx\_Labor;Research Methods;\_New Literature;Book
+               (child);Cross Ref Chapter;Workplace Learning;ePub}
 }
 
 @BOOK{Malloch2011-nf,
@@ -51146,7 +51113,7 @@
                 development of the “scientific” concepts the child learns in
                 school with his informally acquired “natural relents” concepts.},
   keywords   = {\_BibTex to MD Git;llm-wiki-workflow;003\_Theoretical
-                Framework;Knowledge - Skill Acquisition;Psychology},
+                Framework;Marx\_Labor;Knowledge - Skill Acquisition;Psychology},
   origtitle  = {Мышление и речь}
 }
 
@@ -51174,7 +51141,7 @@
                implementation of Engeström's theory since its inception.},
   url       = {http://dx.doi.org/10.1017/cbo9781139814744},
   keywords  = {\_BibTex to MD Git;llm-wiki-workflow;003\_Theoretical
-               Framework;Braverman;Knowledge - Skill Acquisition}
+               Framework;Braverman;Marx\_Labor;Knowledge - Skill Acquisition}
 }
 
 @ARTICLE{Billett2008-kx,
@@ -51562,7 +51529,7 @@
                individual’s assimilation of historical experience. Several
                articles show the development of child’s psyche.},
   keywords  = {\_BibTex to MD Git;llm-wiki-workflow;003\_Theoretical
-               Framework;Knowledge - Skill Acquisition;Psychology},
+               Framework;Marx\_Labor;Knowledge - Skill Acquisition;Psychology},
   language  = {en},
   origdate  = {1959}
 }
@@ -52931,7 +52898,7 @@
                can belong and achieve, in their difference.},
   url       = {http://dx.doi.org/10.1017/CBO9781139248532.008},
   keywords  = {New Learning-Elements of a Science of Education (Parent);\_BibTex
-               to MD Git;llm-wiki-workflow;Book (child)}
+               to MD Git;llm-wiki-workflow;Marx\_Labor;Book (child)}
 }
 
 @INBOOK{Kalantzis2012-ox,
@@ -53054,7 +53021,7 @@
                education.},
   url       = {http://dx.doi.org/10.1017/CBO9781139248532.006},
   keywords  = {New Learning-Elements of a Science of Education (Parent);\_BibTex
-               to MD Git;llm-wiki-workflow;Book (child)}
+               to MD Git;llm-wiki-workflow;Marx\_Labor;Book (child)}
 }
 
 @INBOOK{Kalantzis2012-xe,
@@ -53644,7 +53611,7 @@
   series    = {Learning in Doing: Social, Cognitive and Computational
                Perspectives},
   keywords  = {Contested Learning in Welfare Work;Braverman;\_BibTex to MD
-               Git;Book (child)}
+               Git;Marx\_Labor;Book (child)}
 }
 
 @INBOOK{Sawchuk2013-sh,
@@ -53710,7 +53677,7 @@
   series    = {Learning in Doing: Social, Cognitive and Computational
                Perspectives},
   keywords  = {Contested Learning in Welfare Work;\_BibTex to MD
-               Git;Braverman;Book (child)}
+               Git;Braverman;Marx\_Labor;Book (child)}
 }
 
 @INBOOK{Sawchuk2013-xn,
@@ -53747,7 +53714,8 @@
                 descriptions of Marx's wider-ranging philosophy, making it a
                 unique insight into his beliefs and hopes for the foundation of
                 a communist state.},
-  keywords   = {llm-wiki-workflow;\_BibTex to MD Git;Politics and Society},
+  keywords   = {llm-wiki-workflow;\_BibTex to MD Git;Marx\_Labor;Politics and
+                Society},
   language   = {en},
   origtitle  = {<i>Grundrisse der Kritik der Politischen Ökonomie</i>}
 }
@@ -53866,7 +53834,7 @@
   url       = {http://www.jstor.org/stable/j.ctv26071b0.13},
   urldate   = {2026-05-04},
   keywords  = {Vygotsky and the Social Formation of Mind;\_BibTex to MD
-               Git;003\_Theoretical Framework;Book (child)}
+               Git;003\_Theoretical Framework;Marx\_Labor;Book (child)}
 }
 
 @INBOOK{Wertsch1985-zm,
@@ -53879,7 +53847,8 @@
   isbn      = {9780674943506},
   url       = {http://www.jstor.org/stable/j.ctv26071b0.14},
   urldate   = {2026-05-04},
-  keywords  = {Vygotsky and the Social Formation of Mind;Book (child)}
+  keywords  = {Vygotsky and the Social Formation of Mind;Marx\_Labor;Book
+               (child)}
 }
 
 @INBOOK{Wertsch1985-gt,
@@ -54038,7 +54007,8 @@
                twentieth century. This is the context in which the “phenomenon},
   url       = {http://www.jstor.org/stable/j.ctv26071b0.2},
   urldate   = {2026-05-04},
-  keywords  = {Vygotsky and the Social Formation of Mind;Book (child)}
+  keywords  = {Vygotsky and the Social Formation of Mind;Marx\_Labor;Book
+               (child)}
 }
 
 @INBOOK{Wertsch1985-kw,
@@ -54062,7 +54032,7 @@
   url       = {http://www.jstor.org/stable/j.ctv26071b0.5},
   urldate   = {2026-05-04},
   keywords  = {Vygotsky and the Social Formation of Mind;\_BibTex to MD
-               Git;llm-wiki-workflow;Book (child)}
+               Git;llm-wiki-workflow;Marx\_Labor;Book (child)}
 }
 
 @INBOOK{Wertsch1985-pg,
@@ -54086,7 +54056,7 @@
   url       = {http://www.jstor.org/stable/j.ctv26071b0.6},
   urldate   = {2026-05-04},
   keywords  = {Vygotsky and the Social Formation of Mind;\_BibTex to MD
-               Git;llm-wiki-workflow;Book (child)}
+               Git;llm-wiki-workflow;Marx\_Labor;Book (child)}
 }
 
 @INBOOK{Wertsch1985-xp,
@@ -54111,7 +54081,8 @@
   url       = {http://www.jstor.org/stable/j.ctv26071b0.7},
   urldate   = {2026-05-04},
   keywords  = {Vygotsky and the Social Formation of Mind;\_BibTex to MD
-               Git;llm-wiki-workflow;003\_Theoretical Framework;Book (child)}
+               Git;llm-wiki-workflow;003\_Theoretical Framework;Marx\_Labor;Book
+               (child)}
 }
 
 @INBOOK{Wertsch1985-jt,
@@ -54135,7 +54106,7 @@
   url       = {http://www.jstor.org/stable/j.ctv26071b0.8},
   urldate   = {2026-05-04},
   keywords  = {Vygotsky and the Social Formation of Mind;\_BibTex to MD
-               Git;llm-wiki-workflow;Book (child)}
+               Git;llm-wiki-workflow;Marx\_Labor;Book (child)}
 }
 
 @INBOOK{Wertsch1985-ar,
@@ -54213,7 +54184,7 @@
   url       = {http://www.jstor.org/stable/j.ctv26071b0.11},
   urldate   = {2026-05-04},
   keywords  = {Vygotsky and the Social Formation of Mind;\_BibTex to MD
-               Git;llm-wiki-workflow;Book (child)}
+               Git;llm-wiki-workflow;Marx\_Labor;Book (child)}
 }
 
 @INBOOK{Wertsch1985-ap,
@@ -54240,7 +54211,7 @@
   url       = {http://www.jstor.org/stable/j.ctv26071b0.12},
   urldate   = {2026-05-04},
   keywords  = {Vygotsky and the Social Formation of Mind;\_BibTex to MD
-               Git;llm-wiki-workflow;Book (child)}
+               Git;llm-wiki-workflow;Marx\_Labor;Book (child)}
 }
 
 @BOOK{Skinner1948-at,
@@ -54326,7 +54297,8 @@
                   requires, as he articulated in his notebooks, rewriting much
                   of the theory he had established before.},
   url          = {http://dx.doi.org/10.1080/10749039.2016.1186197},
-  keywords     = {\_BibTex to MD Git;003\_Theoretical Framework;Psychology},
+  keywords     = {\_BibTex to MD Git;003\_Theoretical
+                  Framework;Marx\_Labor;Psychology},
   language     = {en}
 }
 
@@ -54449,7 +54421,7 @@
   abstract  = {A defense of Marxism against the pragmatism of John Dewey, chief
                theoretical spokesman in the 1930s of the middle-class democratic
                movement in the United States.},
-  keywords  = {\_BibTex to MD Git;Psychology}
+  keywords  = {\_BibTex to MD Git;Marx\_Labor;Psychology}
 }
 
 @ARTICLE{Quay2023-vt,
@@ -54489,7 +54461,7 @@
   url          = {https://www.tandfonline.com/doi/abs/10.1080/00220272.2023.2242914},
   urldate      = {2026-05-07},
   keywords     = {\_BibTex to MD Git;003\_Theoretical
-                  Framework;Psychology;Reader\_Obsidian},
+                  Framework;Marx\_Labor;Psychology;Reader\_Obsidian},
   language     = {en}
 }
 
@@ -54684,7 +54656,8 @@
                workers.},
   url       = {http://dx.doi.org/10.1007/978-1-349-26346-2_3},
   keywords  = {Workplaces of the Future;\_BibTex to MD Git;003\_Theoretical
-               Framework;Future of Work;Labor;Book (child);RNIB},
+               Framework;RCPSP\_Takt\_Taylorism;Future of Work;Labor;Book
+               (child);RNIB},
   language  = {en}
 }
 
@@ -54705,8 +54678,8 @@
   series    = {Critical Perspectives on Work and Organisations},
   url       = {http://dx.doi.org/10.1007/978-1-349-26346-2},
   keywords  = {Workplaces of the Future;\_BibTex to MD
-               Git;Braverman;003\_Theoretical Framework;Book (parent);Future of
-               Work;Labor;RNIB},
+               Git;Braverman;003\_Theoretical Framework;Marx\_Labor;Book
+               (parent);Future of Work;Labor;RNIB},
   language  = {en}
 }
 
@@ -54820,7 +54793,8 @@
                office workers and management.},
   series    = {Routledge Studies in Employment and Work Relations in Context},
   url       = {http://dx.doi.org/10.4324/9781315788846},
-  keywords  = {EPubs Books;\_BibTex to MD Git;Braverman;Labor;Workplace
+  keywords  = {EPubs Books;\_BibTex to MD
+               Git;Braverman;Marx\_Labor;RCPSP\_Takt\_Taylorism;Labor;Workplace
                Learning;Economics;ePub}
 }
 
@@ -56511,7 +56485,8 @@
                wellbeing.},
   url       = {http://dx.doi.org/10.1093/oxfordhb/9780199655366.013.1},
   keywords  = {Oxford Handbook of Skills and Training;\_BibTex to MD Git;EPubs
-               Books;Braverman;Book (child);ePub;Workplace Learning;VET}
+               Books;Braverman;Marx\_Labor;Book (child);ePub;Workplace
+               Learning;VET}
 }
 
 @ARTICLE{Rowland2023-kc,
@@ -56634,8 +56609,8 @@
                 less amenable than manufacturing to division of labour; hence,
                 rich nations are not so far ahead of poor nations in agriculture
                 as in manufacturing.},
-  keywords   = {\_BibTex to MD Git;EPubs Books;Economics;Politics and
-                Society;Labor;ePub},
+  keywords   = {\_BibTex to MD Git;EPubs Books;Marx\_Labor;Economics;Politics
+                and Society;Labor;ePub},
   origtitle  = {An Inquiry into the Nature and Causes of the Wealth of Nations},
   volumes    = {3}
 }
@@ -56994,7 +56969,7 @@
                we offer them as a contribution to quandaries and discussions in
                contemporary psychology.},
   url       = {http://dx.doi.org/10.2307/j.ctvjf9vz4.4},
-  keywords  = {Mind in Society;\_BibTex to MD Git;EPubs Books;Book
+  keywords  = {Mind in Society;\_BibTex to MD Git;EPubs Books;Marx\_Labor;Book
                (child);ePub;Knowledge - Skill Acquisition;Psychology}
 }
 
@@ -57538,8 +57513,9 @@
                   advancements in the conceptualization and operationalization
                   of the criterion of transfer are also discussed.},
   url          = {http://dx.doi.org/10.1111/j.1744-6570.1988.tb00632.x},
-  keywords     = {\_BibTex to MD Git;003\_Theoretical Framework;Workplace
-                  Learning;Knowledge - Skill Acquisition;Skill demand},
+  keywords     = {\_BibTex to MD Git;003\_Theoretical
+                  Framework;Marx\_Labor;Workplace Learning;Knowledge - Skill
+                  Acquisition;Skill demand},
   language     = {en}
 }
 
@@ -57580,9 +57556,9 @@
                   sophisticated arguments for educational practice.},
   url          = {http://www.jstor.org/stable/1050962},
   urldate      = {2026-06-02},
-  keywords     = {\_BibTex to MD Git;003\_Theoretical Framework;Columbia
-                  University;Education;Knowledge - Skill Acquisition;Philosophy
-                  of Education}
+  keywords     = {\_BibTex to MD Git;003\_Theoretical
+                  Framework;Marx\_Labor;Columbia University;Education;Knowledge
+                  - Skill Acquisition;Philosophy of Education}
 }
 
 @BOOK{Lagemann2000-fz,
@@ -57743,7 +57719,7 @@
                  Gordon Hall, honoring the Professor Emeritus and Founder of the
                  Institute for Urban and Minority Education at Teachers College,
                  Columbia University.},
-  keywords    = {\_BibTex to MD Git;Report;Columbia University}
+  keywords    = {\_BibTex to MD Git;Marx\_Labor;Report;Columbia University}
 }
 
 @ARTICLE{Inkpen1998-os,
@@ -57916,7 +57892,7 @@
                norms associated with a particular period in the development of
                capitalism.},
   url       = {http://dx.doi.org/10.4135/9781446215814.n16},
-  keywords  = {Key Concepts in Work;\_BibTex to MD Git;Book
+  keywords  = {Key Concepts in Work;\_BibTex to MD Git;Marx\_Labor;Book
                (child);RNIB;Workplace Learning;Labor;Economics}
 }
 
@@ -57945,8 +57921,9 @@
                about work, employment, organizations and labour markets},
   series    = {Sage Key Concepts Series},
   url       = {http://dx.doi.org/10.4135/9781446215814},
-  keywords  = {Key Concepts in Work;\_BibTex to MD Git;Braverman;Book
-               (parent);RNIB;Workplace Learning;Labor;Economics}
+  keywords  = {Key Concepts in Work;\_BibTex to MD
+               Git;Braverman;Marx\_Labor;Book (parent);RNIB;Workplace
+               Learning;Labor;Economics}
 }
 
 @INBOOK{Blyton2007-lq,
@@ -57966,32 +57943,6 @@
                could be organized},
   url       = {http://dx.doi.org/10.4135/9781446215814.n37},
   keywords  = {Key Concepts in Work;\_BibTex to MD Git;Book
-               (child);RNIB;Workplace Learning;Labor;Economics}
-}
-
-@INBOOK{Blyton2007-si,
-  title     = {Labour Process},
-  author    = {Blyton, Paul and Jenkins, Jean},
-  booktitle = {Key Concepts in Work},
-  publisher = {SAGE},
-  pages     = {121--124},
-  date      = {2007},
-  doi       = {10.4135/9781446215814.n24},
-  isbn      = {9780761944782,9781446215814},
-  abstract  = {Labour process refers to the process by which ‘workers' capacity
-               to labour is translated into actual work’ (Edwards, 1986: 1). The
-               labour process debate takes this further and examines the factors
-               involved in the production of surplus value through work and the
-               effects of technology and managerial control on the skill and
-               autonomy of the worker. Karl Marx's critique of the capitalist
-               labour process is an appropriate starting point for the present
-               discussion. Under capitalism, the pursuit of surplus value, that
-               is value which is greater than the actual cost of producing a
-               product, is pursued within a framework of employment that pays
-               the workers a wage for their part in this process.},
-  url       = {https://doi.org/10.4135/9781446215814.n24},
-  note      = {Discussion of Braverman’s Labour Process Theory},
-  keywords  = {Key Concepts in Work;\_BibTex to MD Git;Braverman;Book
                (child);RNIB;Workplace Learning;Labor;Economics}
 }
 
@@ -58060,7 +58011,7 @@
                   of the resulting individualisation of workers' subjectivities
                   for class solidarity.},
   url          = {http://dx.doi.org/10.13169/workorgalaboglob.9.1.0076},
-  keywords     = {\_BibTex to MD Git;Braverman;Labor;Economics},
+  keywords     = {\_BibTex to MD Git;Braverman;Marx\_Labor;Labor;Economics},
   language     = {en}
 }
 
@@ -58128,7 +58079,7 @@
                   as well as prefiguring an extended conversation between W.E.B.
                   Du Bois and the sociological canon.},
   url          = {http://dx.doi.org/10.1146/annurev-soc-072320-101856},
-  keywords     = {\_BibTex to MD Git;Braverman;Labor;Economics},
+  keywords     = {\_BibTex to MD Git;Braverman;Marx\_Labor;Labor;Economics},
   language     = {en}
 }
 
@@ -58172,7 +58123,7 @@
                   on resistance in the workplace and raises questions about the
                   efficacy of workplace disobedience.},
   url          = {http://dx.doi.org/10.1108/ijssp-02-2016-0019},
-  keywords     = {\_BibTex to MD Git;Braverman;Labor;Economics},
+  keywords     = {\_BibTex to MD Git;Braverman;Marx\_Labor;Labor;Economics},
   language     = {en}
 }
 
@@ -58208,7 +58159,7 @@
                   and Monopoly Capital is a monument to the prophetic power of
                   Marx’s analysis.},
   url          = {http://dx.doi.org/10.1177/003232927800800301},
-  keywords     = {\_BibTex to MD Git;Braverman;Labor;Economics},
+  keywords     = {\_BibTex to MD Git;Braverman;Marx\_Labor;Labor;Economics},
   language     = {en}
 }
 
@@ -58236,8 +58187,8 @@
                seven theses and a conclusion.},
   url       = {http://dx.doi.org/10.4324/9780203571644-15},
   keywords  = {Workplace Learning in Context;\_BibTex to MD
-               Git;llm-wiki-workflow;EPubs Books;Book (child);ePub;Workplace
-               Learning;VET;Cross Ref Chapter}
+               Git;llm-wiki-workflow;EPubs Books;Marx\_Labor;Book
+               (child);ePub;Workplace Learning;VET;Cross Ref Chapter}
 }
 
 @BOOK{Grier2005-sq,
@@ -58320,7 +58271,8 @@
                condition of labour today.},
   series    = {Historical Materialism Book Series},
   url       = {http://dx.doi.org/10.1163/9789004235984},
-  keywords  = {\_BibTex to MD Git;Book (parent);Workplace Learning;Labor}
+  keywords  = {\_BibTex to MD Git;Marx\_Labor;Book (parent);Workplace
+               Learning;Labor}
 }
 
 @ARTICLE{Coovadia2008-lw,
@@ -58352,7 +58304,8 @@
                   Smith constitute a process of ideological self-reflection
                   through which the meanings of modernity were comprehended.},
   url          = {http://dx.doi.org/10.1080/02589340802113097},
-  keywords     = {\_BibTex to MD Git;003\_Theoretical Framework;Economics},
+  keywords     = {\_BibTex to MD Git;003\_Theoretical
+                  Framework;Marx\_Labor;Economics},
   language     = {en}
 }
 
@@ -58503,7 +58456,8 @@
                marginalized communities.},
   url       = {http://blackeducator.blogspot.com/2014/06/taylorism-20-transforming-teachers-into.html},
   urldate   = {2026-06-05},
-  keywords  = {\_BibTex to MD Git;Braverman;Website;Reader\_Obsidian;Education},
+  keywords  = {\_BibTex to MD
+               Git;Braverman;Marx\_Labor;Website;Reader\_Obsidian;Education},
   language  = {en}
 }
 
@@ -58531,7 +58485,7 @@
                   problems of unemployment, underemployment, and socially wasted
                   labor—and the rights of labor.},
   url          = {http://dx.doi.org/10.1007/s10672-014-9243-4},
-  keywords     = {\_BibTex to MD Git;Braverman;Labor;Economics},
+  keywords     = {\_BibTex to MD Git;Braverman;Marx\_Labor;Labor;Economics},
   language     = {en}
 }
 
@@ -58559,7 +58513,7 @@
                extends the analysis through 2001 to determine the validity of
                the Braverman/Marxist critique.},
   url       = {https://www.taylorfrancis.com/chapters/edit/10.4324/9781315635729-8/harry-braverman-working-class-frank-elwell},
-  keywords  = {\_BibTex to MD Git;Braverman;Labor;Economics}
+  keywords  = {\_BibTex to MD Git;Braverman;Marx\_Labor;Labor;Economics}
 }
 
 @ARTICLE{Zhao2018-nq,
@@ -58584,7 +58538,7 @@
                   pay much more attention to social factors, such as the labor
                   market, to understand the China’s building industry.},
   url          = {http://dx.doi.org/10.1186/s40856-018-0037-6},
-  keywords     = {\_BibTex to MD Git;Braverman;Labor;Economics},
+  keywords     = {\_BibTex to MD Git;Braverman;Marx\_Labor;Labor;Economics},
   language     = {en}
 }
 
@@ -58628,7 +58582,7 @@
                   and continued to rejuvenate discussion around the control and
                   direction of work that Braverman helped to initiate.},
   url          = {http://dx.doi.org/10.1177/0160449x15607154},
-  keywords     = {\_BibTex to MD Git;Braverman;Labor;Economics},
+  keywords     = {\_BibTex to MD Git;Braverman;Marx\_Labor;Labor;Economics},
   language     = {en}
 }
 
@@ -58954,7 +58908,7 @@
                   fine-grained planning, and helps us to get clear on the harms
                   of Taylorised and hence deskilled work.},
   url          = {http://dx.doi.org/10.1080/0020174x.2025.2478895},
-  keywords     = {\_BibTex to MD Git;Braverman},
+  keywords     = {\_BibTex to MD Git;Braverman;Marx\_Labor},
   language     = {en}
 }
 
@@ -58988,7 +58942,7 @@
                entire low-wage work experience even more miserable.
                Additionally, she describes her managers changing her shift
                schedule from week to week without notifying her.},
-  keywords  = {\_BibTex to MD Git;Economics;Labor;RNIB}
+  keywords  = {\_BibTex to MD Git;Marx\_Labor;Economics;Labor;RNIB}
 }
 
 @INBOOK{Dunford1983-pb,
@@ -59054,7 +59008,7 @@
                   deskilling a large part of the workforce and raising the
                   demand for some (but fewer) high-skilled workers.},
   url          = {http://dx.doi.org/10.1007/s11186-018-9325-7},
-  keywords     = {Braverman;\_BibTex to MD Git;Labor},
+  keywords     = {Braverman;\_BibTex to MD Git;Marx\_Labor;Labor},
   language     = {en}
 }
 
@@ -59140,7 +59094,7 @@
   url          = {https://shs.hal.science/halshs-00435252},
   note         = {Documents de travail du Centre d'Economie de la Sorbonne
                   2009.74 - ISSN : 1955-611X},
-  keywords     = {Braverman;\_BibTex to MD Git;Labor},
+  keywords     = {Braverman;\_BibTex to MD Git;Marx\_Labor;Labor},
   language     = {en}
 }
 
@@ -59204,7 +59158,7 @@
                  upon scientific management.},
   url         = {https://wrap.warwick.ac.uk/3981/},
   note        = {Unpublished},
-  keywords    = {Braverman;\_BibTex to MD Git;Thesis;Labor}
+  keywords    = {Braverman;\_BibTex to MD Git;Marx\_Labor;Thesis;Labor}
 }
 
 @ARTICLE{Franco-Santos2018-cz,
@@ -59308,8 +59262,8 @@
                philosophers have arich literature in ‘knowing how’ to go on.},
   url       = {http://dx.doi.org/10.4324/9780203994450-3},
   keywords  = {Life\_Work\_Learning;\_BibTex to MD Git;003\_Theoretical
-               Framework;Book (child);Knowledge - Skill Acquisition;Workplace
-               Learning;ePub}
+               Framework;Marx\_Labor;Book (child);Knowledge - Skill
+               Acquisition;Workplace Learning;ePub}
 }
 
 @INBOOK{Beckett2005-dh,
@@ -59404,8 +59358,8 @@
   isbn      = {9781134717897},
   url       = {http://dx.doi.org/10.4324/9780203994450-7},
   keywords  = {Life\_Work\_Learning;\_BibTex to MD Git;003\_Theoretical
-               Framework;Book (child);Knowledge - Skill Acquisition;Workplace
-               Learning;ePub}
+               Framework;Marx\_Labor;Book (child);Knowledge - Skill
+               Acquisition;Workplace Learning;ePub}
 }
 
 @ARTICLE{Heldens2022-dk,
@@ -59928,7 +59882,7 @@
                objectives of upper management.1},
   url       = {http://dx.doi.org/10.1007/978-1-349-26346-2_7},
   keywords  = {Workplaces of the Future;Braverman;\_BibTex to MD
-               Git;003\_Theoretical Framework;Book (child)}
+               Git;003\_Theoretical Framework;Marx\_Labor;Book (child)}
 }
 
 @INBOOK{Mulholland1998-xn,
@@ -60290,10 +60244,10 @@
   url       = {http://dx.doi.org/10.4135/9781446200940.n2},
   keywords  = {SAGE Handbook of Workplace Learning;00\_TO READ;EPubs
                Books;Upgrade Viva Prep Reading;\_BibTex to MD Git;Critical
-               Realism;llm-wiki-workflow;003\_Theoretical Framework;\_New
-               Literature;Workplace Learning;ePub;Important;\_In ClickUp;\_In
-               Notion;\_In Readwise;Cross Ref Chapter;Reader\_Obsidian;Book
-               (child)}
+               Realism;llm-wiki-workflow;003\_Theoretical
+               Framework;Marx\_Labor;\_New Literature;Workplace
+               Learning;ePub;Important;\_In ClickUp;\_In Notion;\_In
+               Readwise;Cross Ref Chapter;Reader\_Obsidian;Book (child)}
 }
 
 @REPORT{Boverket2008-qe,
@@ -60720,7 +60674,7 @@
                   challenge the excessive optimism propagated by the pluralist
                   approaches in HRM.},
   url          = {http://dx.doi.org/10.1016/j.emj.2023.05.003},
-  keywords     = {\_BibTex to MD Git;Braverman;Labor;Economics},
+  keywords     = {\_BibTex to MD Git;Braverman;Marx\_Labor;Labor;Economics},
   language     = {en}
 }
 
@@ -60729,7 +60683,8 @@
                 Production of Capital},
   author     = {Marx, Karl},
   editor     = {Engels, Frederick},
-  translator = {Moore, Samuel and Aveling, Edward},
+  editorb    = {Moore, Samuel and Aveling, Edward},
+  translator = {Untermann, Gerhard Ernest},
   publisher  = {Otto Meissner},
   location   = {Hanburg},
   volume     = {1},
@@ -60747,6 +60702,8 @@
                 quantitative proportion in which it exchanges for other
                 commodities. This commensurability in exchange, Marx argues,
                 points to an underlying common element: "value".},
+  keywords   = {Das Kapital;\_BibTex to MD Git;Economics;Labor;Politics and
+                Society},
   origtitle  = {Das Kapital: Kritik der politischen Ökonomie},
   language   = {en},
   volumes    = {3},
@@ -60758,7 +60715,8 @@
                 Capitalist Production as a Whole},
   author     = {Marx, Karl},
   editor     = {Engels, Frederick},
-  translator = {Moore, Samuel and Aveling, Edward},
+  editorb    = {Moore, Samuel and Aveling, Edward},
+  translator = {Untermann, Gerhard Ernest},
   publisher  = {Otto Meissner},
   location   = {Hanburg},
   volume     = {3},
@@ -60771,39 +60729,40 @@
                 circulation (Volume II) to explain the "concrete forms which
                 grow out of the process of capital's movement considered as a
                 whole".},
+  keywords   = {Das Kapital;\_BibTex to MD Git;Economics;Labor;Politics and
+                Society},
   language   = {en},
   origdate   = {1894},
   volumes    = {3},
   origtitle  = {Das Kapital: Kritik der politischen Ökonomie}
 }
 
-@BOOK{Marx1887-jq,
+@BOOK{Marx1907-rf,
   title      = {Capital: A Critique of Political Economy; The Process of
-                Production of Capital},
+                Circulation of Capital},
   author     = {Marx, Karl},
   editor     = {Engels, Frederick},
-  translator = {Moore, Samuel and Aveling, Edward},
+  editorb    = {Moore, Samuel and Aveling, Edward},
+  translator = {Untermann, Gerhard Ernest},
   publisher  = {Otto Meissner},
   location   = {Hanburg},
-  volume     = {1},
-  date       = {1887},
-  abstract   = {Volume I, published in 1867, is Marx's most extensive and
-                historically detailed work, focusing on the immediate process of
-                production of capital. It lays out the foundational categories
-                of his critique of political economy and traces the ways in
-                which surplus value is generated through the exploitation of
-                labour. Marx begins his analysis with the commodity as the
-                elementary form of wealth in capitalist societies, where wealth
-                "appears as" an "immense collection of commodities". He
-                establishes its dual character: it has a "use-value", satisfying
-                some human want or need, and an "exchange-value", the
-                quantitative proportion in which it exchanges for other
-                commodities. This commensurability in exchange, Marx argues,
-                points to an underlying common element: "value".},
+  volume     = {2},
+  date       = {1907},
+  abstract   = {Volume II, published by Engels in 1885, shifts the focus from
+                the immediate production process to the process of circulation
+                of capital. While Volume I assumed that commodities could be
+                sold at their values without difficulty, Volume II examines the
+                conditions and contradictions involved in realising the value
+                and surplus-value produced. Marx's analysis here is highly
+                abstract and technical, often abstracting from technological
+                change and assuming commodities exchange at their values to
+                isolate the specific problems of circulation.},
+  keywords   = {Das Kapital;\_BibTex to MD Git;Economics;Labor;Politics and
+                Society},
   origtitle  = {Das Kapital: Kritik der politischen Ökonomie},
   language   = {en},
   volumes    = {3},
-  origdate   = {1867}
+  origdate   = {1885}
 }
 
 @ARTICLE{Boyd2019-os,
@@ -60841,7 +60800,7 @@
                   to actually reconcile the apparent trade-offs.},
   url          = {http://dx.doi.org/10.1016/j.futures.2019.06.002},
   keywords     = {RCPSP\_Takt\_Taylorism;\_BibTex to MD Git;003\_Theoretical
-                  Framework;Economics;Future of Work},
+                  Framework;Marx\_Labor;Economics;Future of Work},
   language     = {en}
 }
 
@@ -61411,4 +61370,91 @@
   url          = {http://dx.doi.org/10.1093/qje/qjae008},
   keywords     = {\_BibTex to MD Git;Future of Work;Statistics;Labor},
   language     = {en}
+}
+
+@ARTICLE{Attewell1987-vr,
+  title        = {The Deskilling Controversy},
+  author       = {Attewell, Paul},
+  journaltitle = {Work and occupations},
+  publisher    = {SAGE Publications},
+  volume       = {14},
+  issue        = {3},
+  pages        = {323--346},
+  date         = {1987-08},
+  doi          = {10.1177/0730888487014003001},
+  issn         = {0730-8884,1552-8464},
+  abstract     = {The thesis that capitalism continues to degrade and deskill
+                  work in the twentieth century, creating an ever more unskilled
+                  proletariat, has been forcefully argued by Harry Braverman and
+                  his colleagues. In this article I present a series of
+                  theoretical, empirical, and methodological criticisms of the
+                  deskilling position, drawing upon a diverse literature, and
+                  upon original research. Particular attention is given to the
+                  application of the deskilling thesis to contemporary trends in
+                  the computerization of clerical work, as a way of highlighting
+                  methodological weaknesses in the deskilling approach.},
+  url          = {http://dx.doi.org/10.1177/0730888487014003001},
+  keywords     = {\_BibTex to MD
+                  Git;llm-wiki-workflow;Braverman;Marx\_Labor;Future of
+                  Work;Workplace Learning;VET;Labor},
+  language     = {en}
+}
+
+@INBOOK{Sawchuk2013-ax,
+  title     = {Mind in Political Economy and the Labour Process: A Use-Value
+               Thesis},
+  author    = {Sawchuk, Peter H},
+  booktitle = {Contested Learning in Welfare Work: A Study of Mind, Political
+               Economy, and the Labour Process},
+  publisher = {Cambridge University Press},
+  pages     = {283--306},
+  date      = {2013},
+  abstract  = {To repeat two phrases used from the outset, this book has been
+               focused on the construction of the machineries of knowledge
+               construction (Knorr Cetina Reference Knorr Cetina1999). It has
+               been less about conventional occupational skills and knowledge
+               than it has been about the processes that realize them and make
+               them possible in activity (Leontiev Reference Leontiev1978). I
+               have tried to show how a dialogic use of Labour Process Theory
+               (LPT) and Cultural Historical Activity Theory (CHAT) helps us to
+               come to grips with a more fully situated – and more deeply
+               humanized – perspective vis-à-vis state welfare work activity.
+               Each tradition posed important questions and in some instances
+               filled important gaps in the other. I argued that together they
+               suggested the substance of a mind in political economy approach
+               which offered a contribution to breaking the impasse of
+               contemporary research on skill and the labour process, among
+               several other things. The dialogue that flowed from these pages
+               was with researchers of both the labour process and learning.},
+  series    = {Learning in Doing: Social, Cognitive and Computational
+               Perspectives},
+  keywords  = {Contested Learning in Welfare Work;\_BibTex to MD
+               Git;Marx\_Labor;Book (child);Labor;Workplace Learning}
+}
+
+@INBOOK{Blyton2007-si,
+  title     = {Labour Process},
+  author    = {Blyton, Paul and Jenkins, Jean},
+  booktitle = {Key Concepts in Work},
+  publisher = {SAGE},
+  pages     = {121--124},
+  date      = {2007},
+  doi       = {10.4135/9781446215814.n24},
+  isbn      = {9780761944782,9781446215814},
+  abstract  = {Labour process refers to the process by which ‘workers' capacity
+               to labour is translated into actual work’ (Edwards, 1986: 1). The
+               labour process debate takes this further and examines the factors
+               involved in the production of surplus value through work and the
+               effects of technology and managerial control on the skill and
+               autonomy of the worker. Karl Marx's critique of the capitalist
+               labour process is an appropriate starting point for the present
+               discussion. Under capitalism, the pursuit of surplus value, that
+               is value which is greater than the actual cost of producing a
+               product, is pursued within a framework of employment that pays
+               the workers a wage for their part in this process.},
+  url       = {https://doi.org/10.4135/9781446215814.n24},
+  note      = {Discussion of Braverman’s Labour Process Theory},
+  keywords  = {Key Concepts in Work;\_BibTex to MD
+               Git;Braverman;Marx\_Labor;Book (child);RNIB;Workplace
+               Learning;Labor;Economics}
 }
