@@ -60800,6 +60800,22 @@
   origdate   = {1885}
 }
 
+@INBOOK{Acemoglu2011-xz,
+  title     = {Skills, tasks and technologies: Implications for employment and
+               earnings},
+  author    = {Acemoglu, Daron and Autor, David},
+  booktitle = {Handbook of Labor Economics},
+  publisher = {Elsevier},
+  pages     = {1043--1171},
+  date      = {2011},
+  doi       = {10.1016/s0169-7218(11)02410-5},
+  issn      = {1573-4463},
+  isbn      = {9780444534521},
+  series    = {Handbook of Labour Economics},
+  url       = {http://dx.doi.org/10.1016/s0169-7218(11)02410-5},
+  language  = {en}
+}
+
 @ARTICLE{Boyd2019-os,
   title        = {Smithian insights on automation and the future of work},
   author       = {Boyd, Jonathan A and Huettinger, Maik},
