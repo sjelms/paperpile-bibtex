@@ -61697,3 +61697,39 @@
                interconnected planning agency.},
   keywords  = {RNIB;Knowledge - Skill Acquisition;Psychology}
 }
+
+@ARTICLE{Moll2007-jk,
+  title        = {Cooperation and human cognition: the Vygotskian intelligence
+                  hypothesis},
+  author       = {Moll, Henrike and Tomasello, Michael},
+  journaltitle = {Philosophical Transactions of the Royal Society of London.
+                  Series B, Biological Sciences},
+  publisher    = {The Royal Society},
+  volume       = {362},
+  issue        = {1480},
+  pages        = {639--648},
+  date         = {2007-04-29},
+  doi          = {10.1098/rstb.2006.2000},
+  pmc          = {PMC2346522},
+  pmid         = {17296598},
+  issn         = {0962-8436,1471-2970},
+  abstract     = {Nicholas Humphrey's social intelligence hypothesis proposed
+                  that the major engine of primate cognitive evolution was
+                  social competition. Lev Vygotsky also emphasized the social
+                  dimension of intelligence, but he focused on human primates
+                  and cultural things such as collaboration, communication and
+                  teaching. A reasonable proposal is that primate cognition in
+                  general was driven mainly by social competition, but beyond
+                  that the unique aspects of human cognition were driven by, or
+                  even constituted by, social cooperation. In the present paper,
+                  we provide evidence for this Vygotskian intelligence
+                  hypothesis by comparing the social-cognitive skills of great
+                  apes with those of young human children in several domains of
+                  activity involving cooperation and communication with others.
+                  We argue, finally, that regular participation in cooperative,
+                  cultural interactions during ontogeny leads children to
+                  construct uniquely powerful forms of perspectival cognitive
+                  representation.},
+  url          = {http://dx.doi.org/10.1098/rstb.2006.2000},
+  language     = {en}
+}
