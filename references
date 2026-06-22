@@ -46359,6 +46359,13 @@
   keywords     = {AIEd [CCME0123];Journal Articles;Course Assignment}
 }
 
+@BOOK{Bratman2013-xu,
+  title     = {Shared agency: A planning theory of acting together},
+  author    = {Bratman, Michael E},
+  publisher = {Oxford University Press},
+  date      = {2013}
+}
+
 @BOOK{Scanlon2024-dr,
   title     = {In This Economy? How Money and Markets Really Work},
   author    = {Scanlon, Kyla},
