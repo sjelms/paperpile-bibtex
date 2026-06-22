@@ -15437,16 +15437,6 @@
                (AI);Robots;Economics}
 }
 
-@BOOK{Womack2007-he,
-  title     = {The machine that changed the world},
-  author    = {Womack, James P and Jones, Daniel T and Roos, Daniel},
-  publisher = {Simon \& Schuster},
-  location  = {London, England},
-  date      = {2007-03-31},
-  pagetotal = {352},
-  isbn      = {9781847370556}
-}
-
 @INBOOK{Lessing2019-jp,
   title     = {Industrialised house building: Concepts and its application in
                Sweden},
@@ -16514,6 +16504,34 @@
   language   = {en},
   volumes    = {3},
   origdate   = {1885}
+}
+
+@BOOK{Womack2007-he,
+  title     = {The Machine That Changed the World: The Story of Lean Production
+               — Toyota's Secret Weapon in the Global Car Wars That Is Now
+               Revolutionizing World Industry},
+  author    = {Womack, James P and Jones, Daniel T and Roos, Daniel},
+  publisher = {Simon \& Schuster},
+  location  = {London, England},
+  edition   = {1},
+  date      = {2007-03-31},
+  pagetotal = {352},
+  isbn      = {9781847370556},
+  abstract  = {When The Machine That Changed the World was first published in
+               1990, Toyota was half the size of General Motors. Twenty years
+               later Toyota passed GM as the world’s largest auto maker. This
+               management classic was the first book to reveal Toyota’s lean
+               production system that is the basis for its enduring success.
+               Authors Womack, Jones, and Roos provided a comprehensive
+               description of the entire lean system. They exhaustively
+               documented its advantages over the mass production model
+               pioneered by General Motors and predicted that lean production
+               would eventually triumph. Indeed, they argued that it would
+               triumph not just in manufacturing but in every value-creating
+               activity from health care to retail to distribution. Today The
+               Machine That Changed the World provides enduring and essential
+               guidance to managers and leaders in every industry seeking to
+               transform traditional enterprises into exemplars of lean success.}
 }
 
 @ARTICLE{Boyd2019-os,
