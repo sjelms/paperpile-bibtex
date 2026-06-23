@@ -16551,6 +16551,16 @@
   origdate   = {1885}
 }
 
+@BOOK{Skinner1957-xf,
+  title     = {Verbal behavior},
+  author    = {Skinner, B F},
+  publisher = {Appleton-Century-Crofts},
+  location  = {East Norwalk},
+  date      = {1957},
+  doi       = {10.1037/11256-000},
+  url       = {http://dx.doi.org/10.1037/11256-000}
+}
+
 @MISC{Economist2015-mu,
   title        = {Digital Taylorism},
   author       = {{Economist}},
