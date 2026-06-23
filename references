@@ -60834,13 +60834,15 @@
   origdate   = {1885}
 }
 
-@MISC{The2015-uh,
+@MISC{Economist2015-mu,
   title        = {Digital Taylorism},
-  author       = {{The}},
-  journaltitle = {The Economist},
+  author       = {{Economist}},
+  journaltitle = {Economist (London, England: 1843)},
   publisher    = {The Economist},
-  date         = {2015-09-10},
-  issn         = {0013-0613},
+  volume       = {416},
+  issue        = {8954},
+  date         = {2015-09-12},
+  issn         = {0013-0613,1476-8860},
   abstract     = {A modern version of “scientific management” threatens to
                   dehumanise the workplace},
   url          = {https://www.economist.com/business/2015/09/10/digital-taylorism},
