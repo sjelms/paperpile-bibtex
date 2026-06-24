@@ -60768,6 +60768,7 @@
   doi          = {10.1037/0021-9010.78.2.311},
   issn         = {0021-9010,1939-1854},
   url          = {http://dx.doi.org/10.1037/0021-9010.78.2.311},
+  keywords     = {Labor;Knowledge - Skill Acquisition},
   language     = {en}
 }
 
@@ -61896,5 +61897,6 @@
                   principles to optimize self-directed learning and learning in
                   synthetic learning environments.},
   url          = {http://dx.doi.org/10.1146/annurev-orgpsych-012420-060109},
+  keywords     = {Labor;Knowledge - Skill Acquisition},
   language     = {en}
 }
