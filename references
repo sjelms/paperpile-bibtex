@@ -62395,7 +62395,8 @@
                addressing barriers and enablers to implementation is mentioned
                in many process models, these models do not identify or structure
                specific determinants associated with implementation success.},
-  url       = {http://dx.doi.org/10.1007/978-3-030-03874-8_3}
+  url       = {http://dx.doi.org/10.1007/978-3-030-03874-8_3},
+  keywords  = {Knowledge - Skill Acquisition}
 }
 
 @ARTICLE{Felstead2005-vo,
@@ -62430,6 +62431,7 @@
                   ignores. The paper also confirms the importance of job design
                   in promoting and facilitating learning at work.},
   url          = {http://dx.doi.org/10.1080/13639080500327857},
+  keywords     = {Knowledge - Skill Acquisition},
   language     = {en}
 }
 
@@ -62471,5 +62473,6 @@
                   productive system analysis, is strengthening the concept of
                   expansive and restrictive learning environments.},
   url          = {http://dx.doi.org/10.1080/01411920701582397},
+  keywords     = {Knowledge - Skill Acquisition},
   language     = {en}
 }
