@@ -2935,10 +2935,11 @@
 }
 
 @BOOK{Ainley2020-vq,
-  title     = {Apprenticeship: Towards a new paradigm of learning},
+  title     = {Apprenticeship: Towards a New Paradigm of Learning},
   editor    = {Ainley, Patrick and Rainbird, Helen},
   publisher = {Routledge},
   location  = {London, England},
+  edition   = {1},
   date      = {2020-06-30},
   pagetotal = {222},
   doi       = {10.4324/9781315042091},
