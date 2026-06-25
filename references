@@ -17421,6 +17421,7 @@
   title     = {Beyond the Institution of Apprenticeship: Towards a Social Theory
                of Learning as the Production of Knowledge},
   author    = {Guile, David and Young, Michael},
+  editor    = {Ainley, Patrick and Rainbird, Helen},
   booktitle = {Apprenticeship: Towards a New Paradigm of Learning},
   publisher = {Routledge},
   location  = {London, England},
@@ -17430,7 +17431,7 @@
   doi       = {10.4324/9781315042091-12},
   abstract  = {Beyond the Institution of Apprenticeship: Towards a Social Theory
                of Learning as the Production of Knowledge - 1},
-  url       = {http://dx.doi.org/10.4324/9781315042091-12},
+  url       = {https://www.taylorfrancis.com/chapters/edit/10.4324/9781315042091-12/beyond-institution-apprenticeship-towards-social-theory-learning-production-knowledge-david-guile-michael-young},
   urldate   = {2026-06-25},
   keywords  = {Book (child);Training;Workplace Learning;Knowledge - Skill
                Acquisition}
