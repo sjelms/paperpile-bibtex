@@ -2934,6 +2934,24 @@
   keywords  = {EPubs Books;\_BibTex to MD Git;RNIB;ePub}
 }
 
+@BOOK{Ainley2020-vq,
+  title     = {Apprenticeship: Towards a new paradigm of learning},
+  editor    = {Ainley, Patrick and Rainbird, Helen},
+  publisher = {Routledge},
+  location  = {London, England},
+  date      = {2020-06-30},
+  pagetotal = {222},
+  doi       = {10.4324/9781315042091},
+  isbn      = {9781135370305,9781135370305},
+  abstract  = {In the light of changes the government has launched as part of
+               its welfare to work initiatives, this text explores
+               apprenticeship. The authors set the historical context and
+               discuss the theoretical and practical aspects of acquiring the
+               necessary knowledge and skills for competence.},
+  url       = {http://dx.doi.org/10.4324/9781315042091},
+  language  = {en}
+}
+
 @BOOK{Williams2020-ck,
   title     = {Reflective Writing},
   author    = {Williams, Kate and Woolliams, Mary and Spiro, Jane},
