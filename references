@@ -17411,7 +17411,8 @@
   abstract  = {A Sense of Belonging: The Relationship Between Community and
                Apprenticeship - 1},
   url       = {http://dx.doi.org/10.4324/9781315042091-15},
-  urldate   = {2026-06-25}
+  urldate   = {2026-06-25},
+  keywords  = {Book (child)}
 }
 
 @INBOOK{Guile2014-lm,
@@ -17428,7 +17429,8 @@
   abstract  = {Beyond the Institution of Apprenticeship: Towards a Social Theory
                of Learning as the Production of Knowledge - 1},
   url       = {http://dx.doi.org/10.4324/9781315042091-12},
-  urldate   = {2026-06-25}
+  urldate   = {2026-06-25},
+  keywords  = {Book (child)}
 }
 
 @ARTICLE{Billett2002-ry,
