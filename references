@@ -60919,21 +60919,6 @@
   language     = {en}
 }
 
-@INBOOK{Eraut2012-ph,
-  title     = {Developing a broader approach to professional learning},
-  author    = {Eraut, Michael},
-  booktitle = {Learning Trajectories, Innovation and Identity for Professional
-               Development},
-  publisher = {Springer Netherlands},
-  location  = {Dordrecht},
-  pages     = {21--45},
-  date      = {2012},
-  doi       = {10.1007/978-94-007-1724-4_2},
-  isbn      = {9789400717237,9789400717244},
-  url       = {http://dx.doi.org/10.1007/978-94-007-1724-4_2},
-  keywords  = {Rowland;Knowledge - Skill Acquisition}
-}
-
 @ARTICLE{Kirkpatrick1979-al,
   title        = {Techniques for Evaluating Training Programs},
   author       = {Kirkpatrick, Donald L},
@@ -61680,6 +61665,35 @@
   url          = {http://dx.doi.org/10.1080/0158037x.2015.1022717},
   keywords     = {Rowland;Knowledge - Skill Acquisition},
   language     = {en}
+}
+
+@INBOOK{Eraut2012-ph,
+  title     = {Developing a broader approach to professional learning},
+  author    = {Eraut, Michael},
+  editor    = {McKee, Anne and Eraut, Michael},
+  booktitle = {Learning Trajectories, Innovation and Identity for Professional
+               Development},
+  publisher = {Springer},
+  location  = {Dordrecht},
+  pages     = {21--45},
+  date      = {2012},
+  doi       = {10.1007/978-94-007-1724-4_2},
+  isbn      = {9789400717237,9789400717244},
+  abstract  = {This chapter presents a broader approach to professional
+               learning, developed from several research projects led by the
+               author and his colleagues. The components of this approach
+               include the following features: 1. The roles of informal
+               learning, personal agency and teamwork in most workplace
+               learning; 2. The decisions, processes and activities that
+               encourage or ignore learning; 3. The roles of supervisors and
+               managers in supporting learning through creating affordances for
+               both personal and collective learning; 4. Recognising and
+               understanding the emotional dimension of professional work; 5.
+               Planning and supporting career development ; 6. Organisational
+               learning and the management of change; 7. The influences of
+               continuing professional education and human resource development.},
+  url       = {http://dx.doi.org/10.1007/978-94-007-1724-4_2},
+  keywords  = {Rowland;Knowledge - Skill Acquisition}
 }
 
 @ARTICLE{Billett2002-ry,
