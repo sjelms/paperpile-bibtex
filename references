@@ -2950,7 +2950,8 @@
                discuss the theoretical and practical aspects of acquiring the
                necessary knowledge and skills for competence.},
   url       = {http://dx.doi.org/10.4324/9781315042091},
-  keywords  = {Book (parent)},
+  keywords  = {Book (parent);Training;Workplace Learning;Knowledge - Skill
+               Acquisition},
   language  = {en}
 }
 
@@ -17412,7 +17413,8 @@
                Apprenticeship - 1},
   url       = {http://dx.doi.org/10.4324/9781315042091-15},
   urldate   = {2026-06-25},
-  keywords  = {Book (child)}
+  keywords  = {Book (child);Training;Workplace Learning;Knowledge - Skill
+               Acquisition}
 }
 
 @INBOOK{Guile2014-lm,
@@ -17430,7 +17432,8 @@
                of Learning as the Production of Knowledge - 1},
   url       = {http://dx.doi.org/10.4324/9781315042091-12},
   urldate   = {2026-06-25},
-  keywords  = {Book (child)}
+  keywords  = {Book (child);Training;Workplace Learning;Knowledge - Skill
+               Acquisition}
 }
 
 @ARTICLE{Billett2002-ry,
