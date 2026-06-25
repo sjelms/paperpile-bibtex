@@ -17402,6 +17402,7 @@
   title     = {A Sense of Belonging: The Relationship Between Community and
                Apprenticeship},
   author    = {Fuller, Alison and Unwin, Lorna},
+  editor    = {Ainley, Patrick and Rainbird, Helen},
   booktitle = {Apprenticeship: Towards a New Paradigm of Learning},
   publisher = {Routledge},
   location  = {London, England},
@@ -17411,7 +17412,7 @@
   doi       = {10.4324/9781315042091-15},
   abstract  = {A Sense of Belonging: The Relationship Between Community and
                Apprenticeship - 1},
-  url       = {http://dx.doi.org/10.4324/9781315042091-15},
+  url       = {https://www.taylorfrancis.com/chapters/edit/10.4324/9781315042091-15},
   urldate   = {2026-06-25},
   keywords  = {Book (child);Training;Workplace Learning;Knowledge - Skill
                Acquisition}
