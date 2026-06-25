@@ -17397,6 +17397,23 @@
   language     = {en}
 }
 
+@INBOOK{Guile2014-lm,
+  title     = {Beyond the Institution of Apprenticeship: Towards a Social Theory
+               of Learning as the Production of Knowledge},
+  author    = {Guile, David and Young, Michael},
+  booktitle = {Apprenticeship: Towards a New Paradigm of Learning},
+  publisher = {Routledge},
+  location  = {London, England},
+  edition   = {1st Edition},
+  pages     = {111--128},
+  date      = {2014-05-12},
+  doi       = {10.4324/9781315042091-12},
+  abstract  = {Beyond the Institution of Apprenticeship: Towards a Social Theory
+               of Learning as the Production of Knowledge - 1},
+  url       = {http://dx.doi.org/10.4324/9781315042091-12},
+  urldate   = {2026-06-25}
+}
+
 @ARTICLE{Billett2002-ry,
   title        = {Workplace pedagogic practices: Co–participation and learning},
   author       = {Billett, Stephen},
