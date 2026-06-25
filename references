@@ -17893,6 +17893,40 @@
   language     = {en}
 }
 
+@ARTICLE{Hager2009-mt,
+  title        = {Moving beyond the metaphor of transfer of learning},
+  author       = {Hager, Paul and Hodkinson, Phil},
+  journaltitle = {British Educational Research Journal},
+  publisher    = {Wiley},
+  volume       = {35},
+  issue        = {4},
+  pages        = {619--638},
+  date         = {2009-08},
+  doi          = {10.1080/01411920802642371},
+  issn         = {0141-1926,1469-3518},
+  abstract     = {This paper argues that much contemporary educational policy
+                  makes assumptions about learning that are directly
+                  contradicted by the best research and theorising of learning
+                  that has occurred over the last decade and more. This worrying
+                  mismatch is largely attributable to adherence by policy makers
+                  (and other key stakeholders such as employers), to ‘common
+                  sense’ notions of learning transfer. In fact, these ‘common
+                  sense’ notions of transfer have increasingly been discarded
+                  even in the learning transfer literature. However, we go
+                  further in arguing that transfer is a totally inappropriate
+                  metaphor for thinking about most learning, but especially for
+                  vocational learning. Accepting that thought about learning
+                  inevitably involves metaphors, we consider the merits and
+                  otherwise of various other learning metaphors including
+                  participation and construction. We conclude that the
+                  conceptual flaws of transfer can be avoided by employing
+                  alternative metaphors. The value of our recommended
+                  alternative is illustrated by its power to illuminate data on
+                  learning collected from various research projects.},
+  url          = {http://dx.doi.org/10.1080/01411920802642371},
+  language     = {en}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
