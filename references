@@ -60744,6 +60744,20 @@
   language     = {en}
 }
 
+@ARTICLE{Parry1996-dm,
+  title        = {Measuring Training's {ROI}},
+  author       = {Parry, Scott B},
+  journaltitle = {Training \& Development},
+  publisher    = {Association for Talent Development (ATD)},
+  volume       = {50},
+  issue        = {5},
+  pages        = {72--78},
+  date         = {1996-05-01},
+  issn         = {1055-9760},
+  url          = {https://link.gale.com/apps/doc/A18441767/AONE},
+  urldate      = {2026-06-25}
+}
+
 @BOOK{Marx1887-fh,
   title      = {Capital: A Critique of Political Economy; The Process of
                 Production of Capital},
@@ -60917,11 +60931,6 @@
   keywords     = {\_BibTex to MD Git;003\_Theoretical Framework;Knowledge -
                   Skill Acquisition;Psychology;Training},
   language     = {en}
-}
-
-@ONLINE{UnknownUnknown-lr,
-  url     = {https://link.gale.com/apps/doc/A18441767/AONE},
-  urldate = {2026-06-25}
 }
 
 @ARTICLE{Kirkpatrick1979-al,
