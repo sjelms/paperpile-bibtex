@@ -17280,6 +17280,24 @@
   language     = {en}
 }
 
+@ARTICLE{Billett2001-zt,
+  title        = {{Co‐Participation}: Affordance and engagement at work},
+  author       = {Billett, Stephen},
+  journaltitle = {New Directions for Adult and Continuing Education},
+  publisher    = {Wiley},
+  volume       = {2001},
+  issue        = {92},
+  pages        = {63--72},
+  date         = {2001-12},
+  doi          = {10.1002/ace.41},
+  issn         = {1052-2891,1536-0717},
+  abstract     = {AbstractBases for a workplace pedagogy need to go beyond
+                  models of guided learning to include factors that account for
+                  participation at work.},
+  url          = {http://dx.doi.org/10.1002/ace.41},
+  language     = {en}
+}
+
 @INBOOK{Sawchuk2013-ax,
   title     = {Mind in Political Economy and the Labour Process: A Use-Value
                Thesis},
