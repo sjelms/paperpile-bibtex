@@ -17397,6 +17397,23 @@
   language     = {en}
 }
 
+@INBOOK{Fuller2014-wo,
+  title     = {A Sense of Belonging: The Relationship Between Community and
+               Apprenticeship},
+  author    = {Fuller, Alison and Unwin, Lorna},
+  booktitle = {Apprenticeship: Towards a New Paradigm of Learning},
+  publisher = {Routledge},
+  location  = {London, England},
+  edition   = {1st Edition},
+  pages     = {150--162},
+  date      = {2014-05-12},
+  doi       = {10.4324/9781315042091-15},
+  abstract  = {A Sense of Belonging: The Relationship Between Community and
+               Apprenticeship - 1},
+  url       = {http://dx.doi.org/10.4324/9781315042091-15},
+  urldate   = {2026-06-25}
+}
+
 @INBOOK{Guile2014-lm,
   title     = {Beyond the Institution of Apprenticeship: Towards a Social Theory
                of Learning as the Production of Knowledge},
