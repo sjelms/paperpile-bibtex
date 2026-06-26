@@ -18233,9 +18233,9 @@
   language     = {en}
 }
 
-@LEGISLATION{US-House2026-rm,
+@LEGISLATION{US-House-of-Representatives2026-bh,
   title    = {{21st} Century {ROAD} to Housing Act},
-  author   = {{U.S. House}},
+  author   = {{US House of Representatives} and Hill, J French},
   number   = {H.R. 6644},
   date     = {2026-06-23},
   abstract = {This bill revises federal housing programs, including by expanding
