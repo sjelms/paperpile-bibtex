@@ -16461,20 +16461,6 @@
   language     = {en}
 }
 
-@MISC{Harper2024-ok,
-  title        = {Yimbys hear this – simply building more homes won’t solve our
-                  housing crisis},
-  author       = {Harper, Phineas},
-  journaltitle = {The Guardian},
-  publisher    = {The Guardian},
-  date         = {2024-09-29},
-  issn         = {0261-3077},
-  abstract     = {The ‘yes in my back yard’ voices are getting louder, but
-                  housebuilding quality is more important than quantity, says
-                  writer and curator Phineas Harper},
-  url          = {https://www.theguardian.com/commentisfree/2024/sep/29/yimbys-building-homes-solve-housing-crisis}
-}
-
 @BOOK{Marx1887-fh,
   title      = {Capital: A Critique of Political Economy; The Process of
                 Production of Capital},
@@ -16648,34 +16634,6 @@
   keywords     = {\_BibTex to MD Git;003\_Theoretical Framework;Knowledge -
                   Skill Acquisition;Psychology;Training},
   language     = {en}
-}
-
-@MISC{Harper2024-sq,
-  title        = {Planning changed Britain for the better in the postwar years –
-                  and it can do the same now},
-  author       = {Harper, Phineas},
-  journaltitle = {The Guardian},
-  publisher    = {The Guardian},
-  date         = {2024-08-14},
-  issn         = {0261-3077},
-  abstract     = {Labour’s proposals for reform are a start, but we need the
-                  system to be more ambitious, more imaginative and more
-                  proactive, says writer Phineas Harper},
-  url          = {https://www.theguardian.com/commentisfree/article/2024/aug/14/planning-britain-postwar-years-labour-reform}
-}
-
-@MISC{Harper2022-ex,
-  title        = {Edwardian morals, Thatcher and bad design – why Britain’s
-                  homes are so hot},
-  author       = {Harper, Phineas},
-  journaltitle = {The Guardian},
-  publisher    = {The Guardian},
-  date         = {2022-07-20},
-  issn         = {0261-3077},
-  abstract     = {Compared with our European neighbours, Britain’s homebuilders
-                  disregard environmental performance, says Phineas Harper of
-                  Open City},
-  url          = {https://www.theguardian.com/commentisfree/2022/jul/20/britain-worst-built-homes-europe-extreme-weather-upgrade}
 }
 
 @ARTICLE{Kirkpatrick1979-al,
@@ -18275,6 +18233,22 @@
   language     = {en}
 }
 
+@MISC{Harper2022-ex,
+  title        = {Edwardian morals, Thatcher and bad design – why Britain’s
+                  homes are so hot},
+  author       = {Harper, Phineas},
+  journaltitle = {The Guardian},
+  publisher    = {The Guardian},
+  date         = {2022-07-20},
+  issn         = {0261-3077},
+  abstract     = {Compared with our European neighbours, Britain’s homebuilders
+                  disregard environmental performance, says Phineas Harper of
+                  Open City},
+  url          = {https://www.theguardian.com/commentisfree/2022/jul/20/britain-worst-built-homes-europe-extreme-weather-upgrade},
+  keywords     = {AEC;Politics and
+                  Society;General-Interest-Periodicals-United-States;Reader\_Obsidian}
+}
+
 @MISC{Harper2026-ko,
   title        = {Britain’s building standards are now so bad, even the
                   super-rich are facing housing misery},
@@ -18287,7 +18261,25 @@
                   case over defective pipework. If their homes are shoddily
                   built, what hope do the rest of us have, asks writer and
                   curator Phineas Harper},
-  url          = {https://www.theguardian.com/commentisfree/2026/feb/11/uk-housing-building-standards-one-hyde-park}
+  url          = {https://www.theguardian.com/commentisfree/2026/feb/11/uk-housing-building-standards-one-hyde-park},
+  keywords     = {AEC;Politics and
+                  Society;General-Interest-Periodicals-United-States;Reader\_Obsidian}
+}
+
+@MISC{Harper2024-sq,
+  title        = {Planning changed Britain for the better in the postwar years –
+                  and it can do the same now},
+  author       = {Harper, Phineas},
+  journaltitle = {The Guardian},
+  publisher    = {The Guardian},
+  date         = {2024-08-14},
+  issn         = {0261-3077},
+  abstract     = {Labour’s proposals for reform are a start, but we need the
+                  system to be more ambitious, more imaginative and more
+                  proactive, says writer Phineas Harper},
+  url          = {https://www.theguardian.com/commentisfree/article/2024/aug/14/planning-britain-postwar-years-labour-reform},
+  keywords     = {AEC;Politics and
+                  Society;General-Interest-Periodicals-United-States;Reader\_Obsidian}
 }
 
 @REPORT{Winter2001-it,
@@ -18313,6 +18305,22 @@
                  created this publication, A Community Guide to Factory-Built
                  Housing, to share these alternatives with a wider audience.},
   url         = {https://www.huduser.gov/publications/pdf/factbuilt.pdf}
+}
+
+@MISC{Harper2024-ok,
+  title        = {Yimbys hear this – simply building more homes won’t solve our
+                  housing crisis},
+  author       = {Harper, Phineas},
+  journaltitle = {The Guardian},
+  publisher    = {The Guardian},
+  date         = {2024-09-29},
+  issn         = {0261-3077},
+  abstract     = {The ‘yes in my back yard’ voices are getting louder, but
+                  housebuilding quality is more important than quantity, says
+                  writer and curator Phineas Harper},
+  url          = {https://www.theguardian.com/commentisfree/2024/sep/29/yimbys-building-homes-solve-housing-crisis},
+  keywords     = {AEC;Politics and
+                  Society;General-Interest-Periodicals-United-States;Reader\_Obsidian}
 }
 
 @LEGISLATION{Hill2026-dz,
