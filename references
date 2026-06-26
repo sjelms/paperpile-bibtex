@@ -18257,12 +18257,12 @@
               and Society}
 }
 
-@REPORT{Author-s-:-Murdoch2022-ac,
+@REPORT{Murdoch2022-wm,
   type        = {resreport},
   title       = {An Exploratory Study of Factory-Built Homes and Their
                  Implications for Affordability: Final Report},
-  author      = {Author(s): Murdoch, James and Nisar, Hiren and Brahmachari,
-                 Meghna and Papa, Francesc and {2M Research}},
+  author      = {Murdoch, James and Nisar, Hiren and Brahmachari, Meghna and
+                 Papa, Francesc and {2M Research}},
   institution = {United States Department of Housing and Urban Development},
   date        = {2022-03},
   pagetotal   = {113},
