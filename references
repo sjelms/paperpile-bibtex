@@ -18257,6 +18257,35 @@
               and Society}
 }
 
+@REPORT{Author-s-:-Murdoch2022-ac,
+  type        = {resreport},
+  title       = {An Exploratory Study of Factory-Built Homes and Their
+                 Implications for Affordability: Final Report},
+  author      = {Author(s): Murdoch, James and Nisar, Hiren and Brahmachari,
+                 Meghna and Papa, Francesc and {2M Research}},
+  institution = {United States Department of Housing and Urban Development},
+  date        = {2022-03},
+  pagetotal   = {113},
+  abstract    = {Factory-built homes are produced in a climate-controlled
+                 factory, mostly using standardized, repeatable design, and then
+                 assembled on-site. This study examines current trends in the
+                 factory-built housing industry, with primary emphasis on
+                 modular homes, to understand manufacturing and construction
+                 processes, the development of innovative building materials,
+                 consumer education, and affordable housing finance. A
+                 literature review, engagement with industry experts, and
+                 manufacturer case studies provide ample evidence that
+                 factory-built housing offers enhanced opportunities for
+                 affordable homeownership. The report offers market-driven and
+                 policy-specific recommendations for the industry and federal
+                 policymakers regarding the affordability potential of
+                 factory-built housing, the ongoing challenge of transportation
+                 costs, the need for educating market participants, and the need
+                 for continuing research on benefits and risks as well as
+                 production efficiencies including automation and robotics.},
+  url         = {https://www.huduser.gov/portal/publications/An-Exploratory-Study-of-Factory-Built-Homes-and-Their-Implications-for-Affordability-Final-Report.html}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
