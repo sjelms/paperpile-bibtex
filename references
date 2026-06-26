@@ -18233,6 +18233,31 @@
   language     = {en}
 }
 
+@REPORT{Winter2001-it,
+  type        = {resreport},
+  title       = {A Community Guide to Factory-Built Housing},
+  author      = {Winter, Steven and Crosbie, Michael J and Ulness, Amy and
+                 Tully, Gordon},
+  editor      = {Crosbie, Michael J},
+  institution = {United States Department of Housing and Urban Development},
+  date        = {2001-09},
+  pagetotal   = {80},
+  abstract    = {There is a tremendous need for new homes in America's cities
+                 and towns. To meet this demand, the home building industry has
+                 developed and adopted many technological innovations to provide
+                 new homes more quickly and more efficiently while still keeping
+                 homes affordable and of a high quality. New techniques,
+                 materials, tools, and organizational methods are particularly
+                 common in the "factory-built" housing world. Manufactured and
+                 modular housing--the most common forms of factory-built
+                 housingóare now common alternatives to traditionally
+                 constructed homes due in large part to these improvements. The
+                 U.S. Department of Housing and Urban Development (HUD) has
+                 created this publication, A Community Guide to Factory-Built
+                 Housing, to share these alternatives with a wider audience.},
+  url         = {https://www.huduser.gov/publications/pdf/factbuilt.pdf}
+}
+
 @LEGISLATION{Hill2026-dz,
   title    = {{21st} Century {ROAD} to Housing Act},
   author   = {Hill, J French},
