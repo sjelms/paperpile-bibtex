@@ -56062,6 +56062,22 @@
               MD Git}
 }
 
+@MISC{Harper2026-ko,
+  title        = {Britain’s building standards are now so bad, even the
+                  super-rich are facing housing misery},
+  author       = {Harper, Phineas},
+  journaltitle = {The Guardian},
+  publisher    = {The Guardian},
+  date         = {2026-02-11},
+  issn         = {0261-3077},
+  abstract     = {Residents of the UK’s most expensive flats have won a court
+                  case over defective pipework. If their homes are shoddily
+                  built, what hope do the rest of us have, asks writer and
+                  curator Phineas Harper},
+  url          = {https://www.theguardian.com/commentisfree/2026/feb/11/uk-housing-building-standards-one-hyde-park},
+  urldate      = {2026-06-26}
+}
+
 @AUDIO{Dubner2023-jy,
   title     = {Why Is It So Hard (and Expensive) to Build Anything in America?},
   author    = {Dubner, Stephen J},
