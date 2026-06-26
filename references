@@ -59437,6 +59437,21 @@
   keywords    = {Report;AEC}
 }
 
+@MISC{Harper2024-ok,
+  title        = {Yimbys hear this – simply building more homes won’t solve our
+                  housing crisis},
+  author       = {Harper, Phineas},
+  journaltitle = {The Guardian},
+  publisher    = {The Guardian},
+  date         = {2024-09-29},
+  issn         = {0261-3077},
+  abstract     = {The ‘yes in my back yard’ voices are getting louder, but
+                  housebuilding quality is more important than quantity, says
+                  writer and curator Phineas Harper},
+  url          = {https://www.theguardian.com/commentisfree/2024/sep/29/yimbys-building-homes-solve-housing-crisis},
+  urldate      = {2026-06-26}
+}
+
 @BOOK{Taleb2009-is,
   title     = {The Black Swan: The Impact of the Highly Improbable},
   author    = {Taleb, Nassim Nicholas},
