@@ -60748,14 +60748,18 @@
   language     = {en}
 }
 
-@BOOK{Jensen2014-gh,
-  title     = {Configuration of platform architectures in construction},
-  author    = {Jensen, Patrik},
-  publisher = {Luleå University of Technology},
-  date      = {2014},
-  pagetotal = {75},
-  isbn      = {9789174399530},
-  language  = {en}
+@PHDTHESIS{Jensen2014-gh,
+  type        = {phdthesis},
+  title       = {Configuration of platform architectures in construction},
+  author      = {Jensen, Patrik},
+  editor      = {Lidelöw, Thomas Olofsson Helena},
+  publisher   = {Luleå University of Technology},
+  institution = {Luleå University of Technology},
+  location    = {Luleå, Sweden},
+  date        = {2014},
+  pagetotal   = {218},
+  isbn        = {9789174399530},
+  language    = {en}
 }
 
 @BOOK{Marx1887-fh,
