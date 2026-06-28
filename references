@@ -60748,6 +60748,16 @@
   language     = {en}
 }
 
+@BOOK{Jensen2014-gh,
+  title     = {Configuration of platform architectures in construction},
+  author    = {Jensen, Patrik},
+  publisher = {Luleå University of Technology},
+  date      = {2014},
+  pagetotal = {75},
+  isbn      = {9789174399530},
+  language  = {en}
+}
+
 @BOOK{Marx1887-fh,
   title      = {Capital: A Critique of Political Economy; The Process of
                 Production of Capital},
