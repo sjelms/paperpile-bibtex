@@ -60923,23 +60923,6 @@
   language     = {en}
 }
 
-@INBOOK{Elgsaas2021-gz,
-  title     = {Case 4 – Mjøstårnet},
-  author    = {Elgsaas, Øystein},
-  booktitle = {Modern Apartment Design},
-  publisher = {Routledge},
-  location  = {London},
-  pages     = {257--274},
-  date      = {2021-10-15},
-  doi       = {10.4324/9781003123873-19},
-  abstract  = {Mjøstårnet is currently the tallest timber building in the world
-               and is mixed-use, comprising apartments, offices and a hotel
-               within its 85m height. The chapter examines the design rationale
-               and construction methods used in the building.},
-  url       = {http://dx.doi.org/10.4324/9781003123873-19},
-  keywords  = {Modern Apartment Design (book)}
-}
-
 @ARTICLE{Kirkpatrick1979-al,
   title        = {Techniques for Evaluating Training Programs},
   author       = {Kirkpatrick, Donald L},
@@ -62811,7 +62794,7 @@
                accommodation, classrooms, aged care facilities, detention
                centres, etc.},
   url       = {http://dx.doi.org/10.4324/9781003123873-9},
-  keywords  = {Modern Apartment Design (book)}
+  keywords  = {Modern Apartment Design (book);Book (child);AEC}
 }
 
 @BOOK{Marriage2021-dd,
@@ -62874,7 +62857,7 @@
                home. Isolation is the key to success, and in this aspect, living
                in apartment buildings is as safe as living in suburban homes.},
   url       = {http://dx.doi.org/10.4324/9781003123873-1},
-  keywords  = {Modern Apartment Design (book)}
+  keywords  = {Modern Apartment Design (book);Book (child);AEC}
 }
 
 @INBOOK{Petrovic2021-fn,
@@ -62902,7 +62885,7 @@
                opulent suburbs, leaving the city centre for those too poor to
                move.},
   url       = {http://dx.doi.org/10.4324/9781003123873-3},
-  keywords  = {Modern Apartment Design (book)}
+  keywords  = {Modern Apartment Design (book);Book (child);AEC}
 }
 
 @INBOOK{Marriage2021-ln,
@@ -62930,7 +62913,7 @@
                themselves are the glue in the sandwich, endlessly moving around
                from one form.},
   url       = {http://dx.doi.org/10.4324/9781003123873-7},
-  keywords  = {Modern Apartment Design (book)}
+  keywords  = {Modern Apartment Design (book);Book (child);AEC}
 }
 
 @INBOOK{Marriage2021-nb,
@@ -62959,5 +62942,22 @@
                comfortably beneath layer of structure connecting back to the
                core.},
   url       = {http://dx.doi.org/10.4324/9781003123873-10},
-  keywords  = {Modern Apartment Design (book)}
+  keywords  = {Modern Apartment Design (book);Book (child);AEC}
+}
+
+@INBOOK{Elgsaas2021-gz,
+  title     = {Case 4 – Mjøstårnet},
+  author    = {Elgsaas, Øystein},
+  booktitle = {Modern Apartment Design},
+  publisher = {Routledge},
+  location  = {London},
+  pages     = {257--274},
+  date      = {2021-10-15},
+  doi       = {10.4324/9781003123873-19},
+  abstract  = {Mjøstårnet is currently the tallest timber building in the world
+               and is mixed-use, comprising apartments, offices and a hotel
+               within its 85m height. The chapter examines the design rationale
+               and construction methods used in the building.},
+  url       = {http://dx.doi.org/10.4324/9781003123873-19},
+  keywords  = {Modern Apartment Design (book);Book (child);AEC}
 }
