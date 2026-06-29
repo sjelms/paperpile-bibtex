@@ -2874,7 +2874,7 @@
                Netherlands and Japan, but is less widely adopted in countries
                such as Australia, the UK and US.},
   url       = {http://dx.doi.org/10.1007/978-3-319-31967-4_3},
-  keywords  = {Book (child);ePub;Cross Ref Chapter;AEC}
+  keywords  = {\_BibTex to MD Git;Book (child);ePub;Cross Ref Chapter;AEC}
 }
 
 @INBOOK{Billett2012-xz,
@@ -18511,7 +18511,8 @@
                accommodation, classrooms, aged care facilities, detention
                centres, etc.},
   url       = {http://dx.doi.org/10.4324/9781003123873-9},
-  keywords  = {Modern Apartment Design (book);Book (child);AEC}
+  keywords  = {Modern Apartment Design (book);\_BibTex to MD Git;Book
+               (child);AEC}
 }
 
 @BOOK{Marriage2021-dd,
@@ -18787,7 +18788,7 @@
                  marketing for the wider architecture profession and
                  construction industry.},
   url         = {http://dx.doi.org/10.26686/wgtn.19252277},
-  keywords    = {AEC;Thesis}
+  keywords    = {\_BibTex to MD Git;AEC;Thesis}
 }
 
 @ARTICLE{De_Jong2013-st,
