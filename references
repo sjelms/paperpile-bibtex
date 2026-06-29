@@ -60923,6 +60923,20 @@
   language     = {en}
 }
 
+@BOOK{Marriage2021-dd,
+  title     = {Modern apartment design},
+  author    = {Marriage, Guy},
+  editor    = {Marriage, Guy},
+  publisher = {Routledge},
+  date      = {2021-10-01},
+  pagetotal = {336},
+  doi       = {10.4324/9781003123873},
+  isbn      = {9781003123873},
+  url       = {http://dx.doi.org/10.4324/9781003123873},
+  keywords  = {Modern Apartment Design (book)},
+  language  = {en}
+}
+
 @ARTICLE{Kirkpatrick1979-al,
   title        = {Techniques for Evaluating Training Programs},
   author       = {Kirkpatrick, Donald L},
