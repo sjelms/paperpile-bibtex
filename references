@@ -60923,23 +60923,6 @@
   language     = {en}
 }
 
-@BOOK{Noguchi2016-bw,
-  title     = {{ZEMCH}: Toward the Delivery of Zero Energy Mass Custom Homes},
-  editor    = {Noguchi, Masa},
-  publisher = {Springer International Publishing},
-  location  = {Cham, Switzerland},
-  edition   = {1},
-  date      = {2016-06-25},
-  pagetotal = {360},
-  doi       = {10.1007/978-3-319-31967-4},
-  issn      = {2366-259X,2366-2603},
-  isbn      = {9783319319650,9783319319674},
-  series    = {Springer Tracts in Civil Engineering},
-  url       = {http://dx.doi.org/10.1007/978-3-319-31967-4},
-  keywords  = {Book (parent)},
-  language  = {en}
-}
-
 @ARTICLE{Kirkpatrick1979-al,
   title        = {Techniques for Evaluating Training Programs},
   author       = {Kirkpatrick, Donald L},
@@ -63011,4 +62994,43 @@
                such as Australia, the UK and US.},
   url       = {http://dx.doi.org/10.1007/978-3-319-31967-4_3},
   keywords  = {Book (child)}
+}
+
+@BOOK{Noguchi2016-bw,
+  title     = {{ZEMCH}: Toward the Delivery of Zero Energy Mass Custom Homes},
+  editor    = {Noguchi, Masa},
+  publisher = {Springer International Publishing},
+  location  = {Cham, Switzerland},
+  edition   = {1},
+  date      = {2016-06-25},
+  pagetotal = {360},
+  doi       = {10.1007/978-3-319-31967-4},
+  issn      = {2366-259X,2366-2603},
+  isbn      = {9783319319650,9783319319674},
+  abstract  = {In this book, leading international experts explore the emerging
+               concept of the zero energy mass custom home (ZEMCH) – designed to
+               meet the need for social, economic, and environmental
+               sustainability – and provide all of the knowledge required for
+               the delivery of zero energy mass customized housing and community
+               developments in developed and developing countries. The coverage
+               is wide ranging, progressing from explanation of the meaning of
+               sustainable development to discussion of challenges and trends in
+               mass housing, the advantages and disadvantages of prefabricated
+               methods of construction, and the concepts of mass customization,
+               mass personalization, and inclusive design. A chapter on energy
+               use will aid the reader in designing and retrofitting housing to
+               reduce energy demand and/or improve energy end‐use efficiency.
+               Passive design strategies and active technologies (especially
+               solar) are thoroughly reviewed. Application of the ZEMCH
+               construction criteria to new buildings and refurbishment of old
+               houses is explained and the methods and value of building
+               performance simulation, analyzed. The concluding chapter presents
+               examples of ZEMCH projects from around the world, with discussion
+               of marketing strategy, design, quality assurance, and delivery
+               challenges. The book will be invaluable as a training/teaching
+               tool for both students and industry partners.},
+  series    = {Springer Tracts in Civil Engineering},
+  url       = {http://dx.doi.org/10.1007/978-3-319-31967-4},
+  keywords  = {Book (parent)},
+  language  = {en}
 }
