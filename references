@@ -62832,3 +62832,30 @@
   keywords  = {Modern Apartment Design (book);Book (parent)},
   language  = {en}
 }
+
+@INBOOK{Marriage2021-lq,
+  title     = {Introduction},
+  author    = {Marriage, Guy},
+  booktitle = {Modern Apartment Design},
+  publisher = {Routledge},
+  location  = {London},
+  pages     = {1--7},
+  date      = {2021-10-15},
+  doi       = {10.4324/9781003123873-1},
+  abstract  = {This introduction presents an overview of the key concepts
+               discussed in the subsequent chapters of this book. The book This
+               book discusses the two things: both a general guide to the
+               creation of good spaces for living in tall buildings, and also a
+               pathway to constructing these tall apartment buildings out of
+               engineered timber. The most destructive disease to hit cities in
+               the last two millennia was the bubonic plague, causing death
+               rates as high as 30\% in some countries, arriving in waves
+               between the 12th and 17th centuries. The 1918 flu was not caused
+               or spread by cities, but like any highly contagious disease it
+               took advantage of the close proximity of people, spreading
+               rapidly in the troop ships that were returning soldiers back
+               home. Isolation is the key to success, and in this aspect, living
+               in apartment buildings is as safe as living in suburban homes.},
+  url       = {http://dx.doi.org/10.4324/9781003123873-1},
+  keywords  = {Modern Apartment Design (book)}
+}
