@@ -62887,3 +62887,31 @@
   url       = {http://dx.doi.org/10.4324/9781003123873-3},
   keywords  = {Modern Apartment Design (book)}
 }
+
+@INBOOK{Marriage2021-ln,
+  title     = {Sustainable timber future},
+  author    = {Marriage, Guy},
+  booktitle = {Modern Apartment Design},
+  publisher = {Routledge},
+  location  = {London},
+  pages     = {77--89},
+  date      = {2021-10-15},
+  doi       = {10.4324/9781003123873-7},
+  abstract  = {This chapter examines the growth of trees and their timber, from
+               the science behind the carbon cycle to the many types of modern
+               engineered timber available today. The key material for the
+               future that does not create this problem is timber: wood, lumber,
+               dead trees. As this is new, fresh carbon taken directly from the
+               atmosphere and not recently from a fossil-based source, we can
+               say that the carbon-based life form of the tree sequesters the
+               carbon away in the timber, locking it up and stopping it
+               re-entering the atmospheric carbon cycle. A overview of the many
+               different types of engineered timber follows: Glue-Laminated
+               Timber is made from small solid individual pieces of timber glued
+               together under pressure and has traditionally been used for
+               columns and beams in mass timber construction. The carbon atoms
+               themselves are the glue in the sandwich, endlessly moving around
+               from one form.},
+  url       = {http://dx.doi.org/10.4324/9781003123873-7},
+  keywords  = {Modern Apartment Design (book)}
+}
