@@ -62769,6 +62769,7 @@
 @INBOOK{Bell2021-sw,
   title     = {Prefabrication},
   author    = {Bell, Pamela},
+  editor    = {Marriage, Guy},
   booktitle = {Modern Apartment Design},
   publisher = {Routledge},
   location  = {London},
