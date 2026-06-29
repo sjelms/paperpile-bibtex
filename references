@@ -60923,20 +60923,6 @@
   language     = {en}
 }
 
-@BOOK{Marriage2021-dd,
-  title     = {Modern apartment design},
-  author    = {Marriage, Guy},
-  editor    = {Marriage, Guy},
-  publisher = {Routledge},
-  date      = {2021-10-01},
-  pagetotal = {336},
-  doi       = {10.4324/9781003123873},
-  isbn      = {9781003123873},
-  url       = {http://dx.doi.org/10.4324/9781003123873},
-  keywords  = {Modern Apartment Design (book)},
-  language  = {en}
-}
-
 @ARTICLE{Kirkpatrick1979-al,
   title        = {Techniques for Evaluating Training Programs},
   author       = {Kirkpatrick, Donald L},
@@ -62778,4 +62764,40 @@
                  cannot be modularized as is done in manufacturing industries.},
   keywords    = {\_BibTex to MD Git;DfMA;Thesis;AEC;Technological change},
   language    = {en}
+}
+
+@BOOK{Marriage2021-dd,
+  title     = {Modern Apartment Design},
+  author    = {Marriage, Guy},
+  editor    = {Marriage, Guy},
+  publisher = {Routledge},
+  edition   = {1},
+  date      = {2021-10-01},
+  pagetotal = {356},
+  doi       = {10.4324/9781003123873},
+  isbn      = {9781003123873},
+  abstract  = {Modern Apartment Design provides guidelines to the design of
+               modern apartment buildings as well as a summation of current
+               cutting-edge practice in engineered timber construction. The book
+               covers a brief history of apartment buildings around the world,
+               with a broad outline of different types of apartment blocks. It
+               has a strong focus on the design and actual construction of
+               apartment buildings, especially those utilising mass timber, such
+               as cross-laminated timber and laminated veneer lumber. It also
+               features six Case Study chapters from industry-leading
+               practitioners in the area, enabling best practice in architecture
+               and engineering of these new apartment building types to be more
+               widely understood and propagated worldwide. The fully
+               illustrated, full-colour case studies span the globe and include:
+               Clearwater Quay in Christchurch, New Zealand (Pacific
+               Environments NZ); Wynyard Central East 2 in Auckland, New Zealand
+               (Architectus); Dalton Works in London, UK (Waugh Thistleton
+               Architects); Mjøstårnet, Brumunddal, Norway (Voll Arkitekter);
+               Brock Commons Tallwood House student housing in Vancouver, Canada
+               (Acton Ostry Architects); and Regensbergstrasse apartments in
+               Zurich, Switzerland (Dreicon). The book will be of great interest
+               to architects and architecture students.},
+  url       = {http://dx.doi.org/10.4324/9781003123873},
+  keywords  = {Modern Apartment Design (book)},
+  language  = {en}
 }
