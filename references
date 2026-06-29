@@ -62961,3 +62961,18 @@
   url       = {http://dx.doi.org/10.4324/9781003123873-19},
   keywords  = {Modern Apartment Design (book);Book (child);AEC}
 }
+
+@INBOOK{Hashemi2016-gh,
+  title     = {Prefabrication},
+  author    = {Hashemi, Arman and Kim, Unryoung Kevin and Bell, Pamela and
+               Steinhardt, Dale and Manley, Karen and Southcombe, Mark},
+  booktitle = {Springer Tracts in Civil Engineering},
+  publisher = {Springer International Publishing},
+  location  = {Cham},
+  pages     = {65--94},
+  date      = {2016},
+  doi       = {10.1007/978-3-319-31967-4_3},
+  issn      = {2366-259X,2366-2603},
+  isbn      = {9783319319650,9783319319674},
+  url       = {http://dx.doi.org/10.1007/978-3-319-31967-4_3}
+}
