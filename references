@@ -62915,3 +62915,32 @@
   url       = {http://dx.doi.org/10.4324/9781003123873-7},
   keywords  = {Modern Apartment Design (book)}
 }
+
+@INBOOK{Marriage2021-nb,
+  title     = {Residential core design},
+  author    = {Marriage, Guy},
+  booktitle = {Modern Apartment Design},
+  publisher = {Routledge},
+  location  = {London},
+  pages     = {121--134},
+  date      = {2021-10-15},
+  doi       = {10.4324/9781003123873-10},
+  abstract  = {The design of any core is crucial to the good functioning of any
+               tall building. In any building core there is a need for stairs,
+               lifts, water pipes both in and out, electrical and data cables;
+               but a commercial office block will typically require the movement
+               of a large amount of tempered air. Structural/services cores for
+               residential buildings are inherently much simpler than those in
+               commercial office buildings. The Covid virus has emphasized,
+               importance of touching shared surfaces like lift buttons, so
+               expect a big push for voice-activated lift services in the
+               future, as well as far better extract ventilation in the
+               generation of lifts. The core is the logical place to situate any
+               of the main services that will rise up and down the building. The
+               ceiling in the common areas may often need to be a little lower
+               than the apartments themselves, in order for services to slip
+               comfortably beneath layer of structure connecting back to the
+               core.},
+  url       = {http://dx.doi.org/10.4324/9781003123873-10},
+  keywords  = {Modern Apartment Design (book)}
+}
