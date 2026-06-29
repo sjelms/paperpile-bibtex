@@ -62864,6 +62864,7 @@
 @INBOOK{Petrovic2021-fn,
   title     = {Looking back},
   author    = {Petrović, Emina Kristina and Marriage, Guy},
+  editor    = {Marriage, Guy},
   booktitle = {Modern Apartment Design},
   publisher = {Routledge},
   location  = {London},
