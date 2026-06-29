@@ -60923,6 +60923,22 @@
   language     = {en}
 }
 
+@BOOK{Noguchi2016-bw,
+  title     = {{ZEMCH}: Toward the delivery of zero energy mass custom homes},
+  editor    = {Noguchi, Masa},
+  publisher = {Springer International Publishing},
+  location  = {Cham, Switzerland},
+  edition   = {1},
+  date      = {2016-06-25},
+  pagetotal = {360},
+  doi       = {10.1007/978-3-319-31967-4},
+  issn      = {2366-259X,2366-2603},
+  isbn      = {9783319319650,9783319319674},
+  series    = {Springer Tracts in Civil Engineering},
+  url       = {http://dx.doi.org/10.1007/978-3-319-31967-4},
+  language  = {en}
+}
+
 @ARTICLE{Kirkpatrick1979-al,
   title        = {Techniques for Evaluating Training Programs},
   author       = {Kirkpatrick, Donald L},
