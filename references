@@ -60923,6 +60923,23 @@
   language     = {en}
 }
 
+@INBOOK{Elgsaas2021-gz,
+  title     = {Case 4 – Mjøstårnet},
+  author    = {Elgsaas, Øystein},
+  booktitle = {Modern Apartment Design},
+  publisher = {Routledge},
+  location  = {London},
+  pages     = {257--274},
+  date      = {2021-10-15},
+  doi       = {10.4324/9781003123873-19},
+  abstract  = {Mjøstårnet is currently the tallest timber building in the world
+               and is mixed-use, comprising apartments, offices and a hotel
+               within its 85m height. The chapter examines the design rationale
+               and construction methods used in the building.},
+  url       = {http://dx.doi.org/10.4324/9781003123873-19},
+  keywords  = {Modern Apartment Design (book)}
+}
+
 @ARTICLE{Kirkpatrick1979-al,
   title        = {Techniques for Evaluating Training Programs},
   author       = {Kirkpatrick, Donald L},
