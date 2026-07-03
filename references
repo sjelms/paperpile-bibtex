@@ -2860,6 +2860,49 @@
   language  = {en}
 }
 
+@BOOK{Dewey2014-iz,
+  title     = {Human nature and conduct on social psychology and habit},
+  author    = {Dewey, John},
+  publisher = {Createspace Independent Publishing Platform},
+  location  = {North Charleston, SC},
+  date      = {2014-09-11},
+  pagetotal = {288},
+  isbn      = {9781502339751},
+  abstract  = {"To find out what one is fitted to do, and to secure an
+               opportunity to do it, is the key to happiness." This insightful
+               treatise on the essential components of human nature by the great
+               American philosopher and educator John Dewey grew from a series
+               of three lectures presented at Leland Stanford Junior University
+               upon the West Memorial Foundation. One of the topics included was
+               Human Conduct and Destiny. In his own words, Dewey has, set forth
+               a belief that an understanding of habit and different types of
+               habit is the key to social psychology, while the operation of
+               impulse and intelligence gives the key to individualized mental
+               activity. Some eighty years after its original publication,
+               Dewey's common sense based direct approach, rooted in experience
+               and objective observation, still has much to recommend it to
+               students of ethics, psychology, and sociology. Table of Contents
+               PREFACE INTRODUCTION PART ONE. THE PLACE OF HABIT IN CONDUCT
+               SECTION I: HABITS AS SOCIAL FUNCTIONS SECTION II: HABITS AND WILL
+               SECTION III: CHARACTER AND CONDUCT SECTION IV: CUSTOM AND HABIT
+               SECTION V: CUSTOM AND MORALITY SECTION VI: HABIT AND SOCIAL
+               PSYCHOLOGY PART TWO. THE PLACE OF IMPULSE IN CONDUCT SECTION I:
+               IMPULSES AND CHANGE OF HABITS SECTION II: PLASTICITY OF IMPULSE
+               SECTION III: CHANGING HUMAN NATURE SECTION IV: IMPULSE AND
+               CONFLICT OF HABITS SECTION V: CLASSIFICATION OF INSTINCTS SECTION
+               VI: NO SEPARATE INSTINCTS SECTION VII: IMPULSE AND THOUGHT PART
+               THREE. THE PLACE OF INTELLIGENCE IN CONDUCT SECTION I: HABIT AND
+               INTELLIGENCE SECTION II: THE PSYCHOLOGY OF THINKING SECTION III:
+               THE NATURE OF DELIBERATION SECTION IV: DELIBERATION AND
+               CALCULATION SECTION V: THE UNIQUENESS OF GOOD SECTION VI: THE
+               NATURE OF AIMS SECTION VII: THE NATURE OF PRINCIPLES SECTION
+               VIII: DESIRE AND INTELLIGENCE SECTION IX: THE PRESENT AND FUTURE
+               PART FOUR. CONCLUSION SECTION I: THE GOOD OF ACTIVITY SECTION II:
+               MORALS ARE HUMAN SECTION III: WHAT IS FREEDOM? SECTION IV:
+               MORALITY IS SOCIAL},
+  language  = {en}
+}
+
 @INBOOK{Hashemi2016-gh,
   title     = {Prefabrication},
   author    = {Hashemi, Arman and Kim, Unryoung Kevin and Bell, Pamela and
