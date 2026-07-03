@@ -2255,18 +2255,16 @@
   language  = {en}
 }
 
-@ARTICLE{Dennes1940-eu,
-  title        = {Logic: The theory of inquiry},
-  author       = {Dennes, William R and Dewey, John},
-  journaltitle = {The Philosophical Review},
-  publisher    = {JSTOR},
-  volume       = {49},
-  issue        = {2},
-  pages        = {259},
-  date         = {1940-03},
-  doi          = {10.2307/2180803},
-  issn         = {0031-8108,1558-1470},
-  url          = {http://dx.doi.org/10.2307/2180803}
+@BOOK{Dewey1938-bl,
+  title     = {Logic: The Theory of Inquiry},
+  author    = {Dewey, John},
+  publisher = {Henry Holt \& Company},
+  location  = {New York, NY},
+  pages     = {550},
+  date      = {1938},
+  doi       = {10.2307/2180803},
+  issn      = {0031-8108,1558-1470},
+  url       = {http://dx.doi.org/10.2307/2180803}
 }
 
 @INBOOK{Hon2023-eu,
