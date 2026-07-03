@@ -2860,46 +2860,36 @@
   language  = {en}
 }
 
-@BOOK{Dewey2014-iz,
-  title     = {Human nature and conduct on social psychology and habit},
+@BOOK{Dewey1922-al,
+  title     = {Human Nature and Conduct: An Introduction to Social Psychology},
   author    = {Dewey, John},
-  publisher = {Createspace Independent Publishing Platform},
-  location  = {North Charleston, SC},
-  date      = {2014-09-11},
-  pagetotal = {288},
+  publisher = {Henry Holt \& Company},
+  location  = {New York, NY},
+  date      = {1922},
+  pagetotal = {356},
   isbn      = {9781502339751},
-  abstract  = {"To find out what one is fitted to do, and to secure an
-               opportunity to do it, is the key to happiness." This insightful
-               treatise on the essential components of human nature by the great
-               American philosopher and educator John Dewey grew from a series
-               of three lectures presented at Leland Stanford Junior University
-               upon the West Memorial Foundation. One of the topics included was
-               Human Conduct and Destiny. In his own words, Dewey has, set forth
-               a belief that an understanding of habit and different types of
-               habit is the key to social psychology, while the operation of
-               impulse and intelligence gives the key to individualized mental
-               activity. Some eighty years after its original publication,
-               Dewey's common sense based direct approach, rooted in experience
-               and objective observation, still has much to recommend it to
-               students of ethics, psychology, and sociology. Table of Contents
-               PREFACE INTRODUCTION PART ONE. THE PLACE OF HABIT IN CONDUCT
-               SECTION I: HABITS AS SOCIAL FUNCTIONS SECTION II: HABITS AND WILL
-               SECTION III: CHARACTER AND CONDUCT SECTION IV: CUSTOM AND HABIT
-               SECTION V: CUSTOM AND MORALITY SECTION VI: HABIT AND SOCIAL
-               PSYCHOLOGY PART TWO. THE PLACE OF IMPULSE IN CONDUCT SECTION I:
-               IMPULSES AND CHANGE OF HABITS SECTION II: PLASTICITY OF IMPULSE
-               SECTION III: CHANGING HUMAN NATURE SECTION IV: IMPULSE AND
-               CONFLICT OF HABITS SECTION V: CLASSIFICATION OF INSTINCTS SECTION
-               VI: NO SEPARATE INSTINCTS SECTION VII: IMPULSE AND THOUGHT PART
-               THREE. THE PLACE OF INTELLIGENCE IN CONDUCT SECTION I: HABIT AND
-               INTELLIGENCE SECTION II: THE PSYCHOLOGY OF THINKING SECTION III:
-               THE NATURE OF DELIBERATION SECTION IV: DELIBERATION AND
-               CALCULATION SECTION V: THE UNIQUENESS OF GOOD SECTION VI: THE
-               NATURE OF AIMS SECTION VII: THE NATURE OF PRINCIPLES SECTION
-               VIII: DESIRE AND INTELLIGENCE SECTION IX: THE PRESENT AND FUTURE
-               PART FOUR. CONCLUSION SECTION I: THE GOOD OF ACTIVITY SECTION II:
-               MORALS ARE HUMAN SECTION III: WHAT IS FREEDOM? SECTION IV:
-               MORALITY IS SOCIAL},
+  abstract  = {In the spring of 1918 I was invited by Leland Stanford Junior
+               University to give a series of three lectures upon the West
+               Memorial Foundation. One of the topics included within the scope
+               of the Foundation is Human Conduct and Destiny. This volume is
+               the result, as, according to the terms of the Foundation, the
+               lectures are to be published. The lectures as given have,
+               however, been rewritten and considerably expanded. An
+               Introduction and Conclusion have been added. The lectures should
+               have been published within two years from delivery. Absence from
+               the country rendered strict compliance difficult; and I am
+               indebted to the authorities of the University for their
+               indulgence in allowing an extension of time, as well as for so
+               many courtesies received during the time when the lectures were
+               given. Perhaps the sub-title requires a word of explanation. The
+               book does not purport to be a treatment of social psychology. But
+               it seriously sets forth a belief that an understanding of habit
+               and of different types of habit is the key to social psychology,
+               while the operation of impulse and intelligence gives the key to
+               individualized mental activity. But they are secondary to habit
+               so that mind can be understood in the concrete only as a system
+               of beliefs, desires and purposes which are formed in the
+               interaction of biological aptitudes with a social environment.},
   language  = {en}
 }
 
