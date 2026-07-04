@@ -2862,6 +2862,19 @@
   language  = {en}
 }
 
+@INBOOK{Watson2006-wj,
+  title     = {John Broadus Watson},
+  author    = {Watson, John Broadus},
+  editor    = {Murchison, Carl},
+  booktitle = {A history of psychology in autobiography volume III},
+  publisher = {Clark University Press},
+  location  = {Worcester},
+  pages     = {271--281},
+  date      = {2006},
+  doi       = {10.1037/11247-012},
+  url       = {http://dx.doi.org/10.1037/11247-012}
+}
+
 @ARTICLE{Johnston2026-bz,
   title        = {On Reality, Experience, and Truth: John Watson's Unpublished
                   Notes on John Dewey},
