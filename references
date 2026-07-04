@@ -2862,6 +2862,22 @@
   language  = {en}
 }
 
+@ARTICLE{Johnston2026-bz,
+  title        = {On reality, experience, and truth: John watson's unpublished
+                  notes on John Dewey},
+  author       = {Johnston, James Scott and Messer, Sarah},
+  journaltitle = {Dewey Studies},
+  volume       = {1},
+  issue        = {2},
+  pages        = {4},
+  date         = {2026},
+  issn         = {2572-4649},
+  abstract     = {By James Scott Johnston and Sarah Messer, Published on
+                  02/16/26},
+  url          = {https://opensiuc.lib.siu.edu/dewey-studies/vol1/iss2/4},
+  urldate      = {2026-07-04}
+}
+
 @BOOK{Dewey1922-al,
   title     = {Human Nature and Conduct: An Introduction to Social Psychology},
   author    = {Dewey, John},
