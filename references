@@ -917,19 +917,6 @@
                   Education;Psychology}
 }
 
-@INBOOK{Rotter2006-gb,
-  title     = {The importance of theory in clinical psychology},
-  author    = {Rotter, Julian B},
-  booktitle = {Social learning and clinical psychology},
-  publisher = {Prentice-Hall, Inc},
-  location  = {Englewood Cliffs},
-  pages     = {3--17},
-  date      = {2006},
-  doi       = {10.1037/10788-001},
-  url       = {http://dx.doi.org/10.1037/10788-001},
-  keywords  = {Rotter\_Social Learning and Clinical Psychology}
-}
-
 @REPORT{Cameron2020-wn,
   type        = {techreport},
   title       = {Data to the rescue: Embodied carbon in buildings and the
