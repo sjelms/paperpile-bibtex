@@ -63592,3 +63592,16 @@
   keywords  = {PhD Study and Support;ePub;PhD Support and Training},
   language  = {en}
 }
+
+@BOOK{Bottery2023-zi,
+  title     = {Writing a watertight thesis},
+  author    = {Bottery, Mike and Wright, Nigel and Fabrizi, Mark A},
+  publisher = {Bloomsbury Academic},
+  location  = {London, England},
+  edition   = {2},
+  date      = {2023-01-26},
+  pagetotal = {336},
+  isbn      = {9781350260610},
+  keywords  = {PhD Study and Support},
+  language  = {en}
+}
