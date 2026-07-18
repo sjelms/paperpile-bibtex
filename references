@@ -4941,7 +4941,8 @@
                  be quite a challenge. However, by taking a phased approach to
                  the thesis process, you can avoid a lot of difficulties.},
   url         = {https://www.student.universiteitleiden.nl/en/support/study-support/studying-with-a-disability/adhd/social-and-behavioural-sciences/educatieve-master-primair-onderwijs},
-  keywords    = {PhD Study and Support;\_BibTex to MD Git;llm-wiki-workflow}
+  keywords    = {PhD Study and Support;\_BibTex to MD
+                 Git;llm-wiki-workflow;Thesis Writing}
 }
 
 @ARTICLE{Kauppinen2024-gv,
@@ -19278,7 +19279,8 @@
                for writing up your research, this is the resource for anyone
                looking to produce a well-structured, watertight piece of
                research.},
-  keywords  = {PhD Study and Support;RNIB;ePub;PhD Support and Training},
+  keywords  = {PhD Study and Support;Thesis Writing;RNIB;ePub;PhD Support and
+               Training},
   language  = {en}
 }
 
@@ -42720,7 +42722,8 @@
   isbn      = {9781351966894},
   url       = {https://openlibrary.org/books/OL37308376M.opds},
   keywords  = {EPubs Books;PhD Study and Support;Neurodiversity;\_BibTex to MD
-               Git;llm-wiki-workflow;Marx\_Labor;ePub;Neurodiversity},
+               Git;llm-wiki-workflow;Marx\_Labor;Thesis
+               Writing;ePub;Neurodiversity},
   language  = {en}
 }
 
@@ -57253,7 +57256,7 @@
                   submitted, expect lots of examiner comments, most of which can
                   help you improve.},
   url          = {https://doi.org/10.1080/23265507.2017.1300862},
-  keywords     = {PhD Study and Support;PhD Support and Training}
+  keywords     = {PhD Study and Support;Thesis Writing;PhD Support and Training}
 }
 
 @INBOOK{Guile2010-dv,
@@ -59362,8 +59365,9 @@
                   one-stop-shop brief introduction to the author’s 100 PhD rules
                   of the game.},
   url          = {http://dx.doi.org/10.1108/aaaj-01-2019-030},
-  keywords     = {PhD Study and Support;\_BibTex to MD Git;llm-wiki-workflow;PhD
-                  Support and Training;\_New Literature},
+  keywords     = {PhD Study and Support;\_BibTex to MD
+                  Git;llm-wiki-workflow;Thesis Writing;PhD Support and
+                  Training;\_New Literature},
   language     = {en}
 }
 
@@ -60555,7 +60559,7 @@
   doi          = {10.1016/j.cjca.2019.04.011},
   issn         = {0828-282X,1916-7075},
   url          = {http://dx.doi.org/10.1016/j.cjca.2019.04.011},
-  keywords     = {PhD Study and Support;PhD Support and Training},
+  keywords     = {PhD Study and Support;Thesis Writing;PhD Support and Training},
   language     = {en}
 }
 
@@ -60631,7 +60635,7 @@
   doi       = {10.1007/978-3-319-61854-8},
   isbn      = {9783319618531,9783319618548},
   url       = {http://dx.doi.org/10.1007/978-3-319-61854-8},
-  keywords  = {PhD Study and Support;PhD Support and Training},
+  keywords  = {PhD Study and Support;Thesis Writing;PhD Support and Training},
   language  = {en}
 }
 
@@ -62269,8 +62273,8 @@
                you succeed.},
   url       = {http://dx.doi.org/10.1007/978-3-319-04286-2},
   keywords  = {PhD Study and Support;EPubs Books;\_BibTex to MD
-               Git;Speechify;llm-wiki-workflow;Marx\_Labor;PhD Support and
-               Training;ePub},
+               Git;Speechify;llm-wiki-workflow;Marx\_Labor;Thesis Writing;PhD
+               Support and Training;ePub},
   language  = {en}
 }
 
