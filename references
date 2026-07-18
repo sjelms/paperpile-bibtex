@@ -63569,12 +63569,25 @@
 }
 
 @BOOK{Roda2023-zv,
-  title     = {{PhDone}},
+  title     = {{PhDone}: A Professional Dissertation Editor's Guide to Writing
+               Your Doctoral Thesis and Earning Your {PhD}},
   author    = {Roda, Allen and Saunders, Lauren and Anderson, Kevin},
   publisher = {Skyhorse Publishing},
   location  = {New York, NY},
   date      = {2023-11-23},
   pagetotal = {216},
   isbn      = {9781510778535},
+  abstract  = {Based on decades of experience working with thousands of doctoral
+               candidates at Dissertation Editor (USA) and Thesis Editor (UK),
+               Dr. Allen Roda and Dr. Lauren Saunders deliver a comprehensive
+               yet accessible guide filled with practical advice, illuminating
+               stories, and hard-earned wisdom that will empower you to complete
+               your dissertation or thesis and earn your degree. PhDone is an
+               essential tool for any doctoral candidate. In PhDone, Dr. Roda
+               and Dr. Saunders break down the doctoral journey step-by-step and
+               offer invaluable tips and resources along the way. They also
+               demystify what a successful dissertation entails, detailing how
+               to formulate your abstract, write your introduction, research
+               your topic, and build a literature review.},
   language  = {en}
 }
