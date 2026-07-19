@@ -407,6 +407,7 @@
                   implement effective reskilling strategies, thereby enhancing
                   the industry’s capability to thrive in the 4IR era.},
   url          = {http://dx.doi.org/10.1108/sasbe-08-2024-0337},
+  keywords     = {AEC;Skill demand},
   language     = {en}
 }
 
@@ -63688,4 +63689,47 @@
   keywords  = {PhD Study and Support;Thesis Writing;\_BibTex to MD
                Git;RNIB;ePub;PhD Support and Training},
   language  = {en}
+}
+
+@ARTICLE{David2021-ul,
+  title        = {Assessing Theoretical Frameworks, Human Resources Management
+                  Implications and Emerging Technologies on the Water, Energy
+                  and Food ({WEF}) Nexus},
+  author       = {David, Love Opeyemi and Adepoju, Omoseni Oyindamola},
+  journaltitle = {Journal of Digital Food, Energy \& Water Systems},
+  volume       = {2},
+  issue        = {2},
+  pages        = {77--97},
+  date         = {2021-12},
+  issn         = {2709-4510},
+  abstract     = {Water, energy, and food (WEF) resources are three vital
+                  resources needed for human wellbeing; however, there exists an
+                  interaction among the resources. The interactions of water,
+                  energy, and food resources resulting in the WEF nexus thinking
+                  have been conceptualized as an integrated framework to achieve
+                  the security of the three vital resources. However, there are
+                  some gaps in WEF nexus research, which constrains the
+                  understanding and actualization of the nexus. Hence, this
+                  review paper aims to assess theories, human resource
+                  management implications, and emerging technologies' effect in
+                  understanding the nexus for its actualization. The research
+                  employed a qualitative research methodology to achieve the
+                  research objectives. The research findings revealed six (6)
+                  significant theories that can aid the understanding and
+                  actualization of the WEF nexus. The research also revealed
+                  that human resource management is strategic, highlighting the
+                  need for nexus thinking among human resources. Furthermore,
+                  the study revealed the three major emerging technologies of
+                  Artificial Intelligence, Big data analytics, and Internet of
+                  Things (IoT), which are shaping the WEF nexus through
+                  innovations and shaping the nature of the nexus. The study
+                  concluded that there is an interaction between the theories
+                  and human resources management for attaining the WEF nexus,
+                  which affects the extent of the sustainability of the
+                  innovations introduced by the emerging technologies. The study
+                  recommended quantification of the theories, training on nexus
+                  thinking of the current human resource in the WEF sectors, and
+                  capital investment on emerging technologies in the WEF nexus.},
+  url          = {https://link.gale.com/apps/doc/A763554824/AONE},
+  keywords     = {RCPSP\_Takt\_Taylorism;AEC;Skill demand}
 }
