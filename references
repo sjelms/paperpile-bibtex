@@ -355,6 +355,61 @@
               Literature}
 }
 
+@ARTICLE{Alhamoudi2026-ou,
+  title        = {Modelling the training strategies for reskilling {UK}
+                  construction workers in the Fourth Industrial Revolution era:
+                  a structural equation model approach},
+  author       = {Alhamoudi, Abdullah Mazen and Osunsanmi, Temidayo O},
+  journaltitle = {Smart and Sustainable Built Environment},
+  publisher    = {Emerald},
+  volume       = {15},
+  issue        = {5},
+  pages        = {1967--1990},
+  date         = {2026-06-04},
+  doi          = {10.1108/sasbe-08-2024-0337},
+  issn         = {2046-6099,2046-6102},
+  abstract     = {Purpose The United Kingdom (UK) construction industry is
+                  experiencing a significant skills shortage due to the
+                  advancements of the Fourth Industrial Revolution (4IR),
+                  leading to a high demand for reskilling. However, there is a
+                  lack of effective training frameworks for this purpose. This
+                  study aims to develop a framework to serve as a training
+                  strategy for reskilling construction professionals in the 4IR
+                  era, addressing the existing skills gap in the industry.
+                  Design/methodology/approach This study adopts random sampling
+                  in collecting data from stakeholders in the UK construction
+                  industry through the aid of a close-ended questionnaire. The
+                  data were subjected to principal component analysis (PCA)
+                  using SPVSS V24 and confirmatory factor analysis using AMOS
+                  Graphics V28 software. The PCA was used to group the training
+                  strategies extracted from literature into meaningful
+                  constructs, which helped inform the development of the
+                  conceptual framework. Covariance-based structural equation
+                  modelling was then used to validate the framework, with model
+                  validation carried out using fit indices such as discriminant
+                  validity, standardized root mean square residual, comparative
+                  fit index, normed fit index and others. Findings The model
+                  revealed that the key training strategies for reskilling
+                  construction workers in the 4IR era are immersive training,
+                  experiential learning, and collaborative workforce
+                  development. The findings indicate that immersive training,
+                  particularly through technologies like virtual reality and
+                  augmented reality, plays a critical role in equipping workers
+                  with both the technical and soft skills required for the
+                  future of construction. The study recommends that 4IR-driven
+                  technologies should also be used as reskilling tools for
+                  construction workers, as this approach would allow them to
+                  learn while working. Originality/value Many studies have
+                  advocated for the reskilling of construction workers. However,
+                  there is a notable gap in research on the training strategies
+                  for effective reskilling of construction workers in the 4IR
+                  era. This paper provides a framework for stakeholders to
+                  implement effective reskilling strategies, thereby enhancing
+                  the industry’s capability to thrive in the 4IR era.},
+  url          = {http://dx.doi.org/10.1108/sasbe-08-2024-0337},
+  language     = {en}
+}
+
 @INBOOK{Bock2015-am,
   title     = {Acknowledgements},
   author    = {Bock, Thomas and Linner, Thomas},
