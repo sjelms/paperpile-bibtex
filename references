@@ -63813,3 +63813,14 @@
   url          = {http://dx.doi.org/10.1002/tea.3660301007},
   language     = {en}
 }
+
+@BOOK{Dewey2012-oh,
+  title     = {The public and its problems},
+  author    = {Dewey, John},
+  editor    = {Rogers, Melvin L},
+  publisher = {Pennsylvania State University Press},
+  location  = {University Park, FL},
+  date      = {2012-09-03},
+  pagetotal = {206},
+  isbn      = {9780271055695}
+}
