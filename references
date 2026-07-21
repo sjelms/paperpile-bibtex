@@ -39809,6 +39809,39 @@
   language     = {en}
 }
 
+@ARTICLE{Paavola2004-yu,
+  title        = {Models of innovative knowledge communities and three metaphors
+                  of learning},
+  author       = {Paavola, Sami and Lipponen, Lasse and Hakkarainen, Kai},
+  journaltitle = {Review of Educational Research},
+  publisher    = {American Educational Research Association (AERA)},
+  volume       = {74},
+  issue        = {4},
+  pages        = {557--576},
+  date         = {2004-12},
+  doi          = {10.3102/00346543074004557},
+  issn         = {0034-6543,1935-1046},
+  abstract     = {The authors analyze and compare three models of innovative
+                  knowledge communities: Nonaka and Takeuchi’s model of
+                  knowledge-creation, Engeström’s model of expansive learning,
+                  and Bereiter’s model of knowledge building. Despite basic
+                  differences, these models have pertinent features in common:
+                  Most fundamentally, they emphasize dynamic processes for
+                  transforming prevailing knowledge and practices. Beyond
+                  characterizing learning as knowledge acquisition (the
+                  acquisition metaphor) and as participation in a social
+                  community (the participation metaphor), the authors of this
+                  article distinguish a third aspect: learning (and intelligent
+                  activity in general) as knowledge creation (the
+                  knowledge-creation metaphor). This approach focuses on
+                  investigating mediated processes of knowledge creation that
+                  have become especially important in a knowledge society.},
+  url          = {http://dx.doi.org/10.3102/00346543074004557},
+  keywords     = {\_BibTex to MD Git;Knowledge - Skill Acquisition;Philosophy of
+                  Education;Workplace Learning},
+  language     = {en}
+}
+
 @BOOK{Macy2017-gr,
   title     = {Factory Man: How One Furniture Maker Battled Offshoring, Stayed
                Local – and Helped Save an American Town},
@@ -63903,38 +63936,5 @@
                   shift is underpinned by our understanding of how people learn.},
   url          = {http://dx.doi.org/10.1061/(asce)0733-9364(2005)131:5(533)},
   keywords     = {\_BibTex to MD Git;Knowledge - Skill Acquisition;AEC;VET},
-  language     = {en}
-}
-
-@ARTICLE{Paavola2004-yu,
-  title        = {Models of innovative knowledge communities and three metaphors
-                  of learning},
-  author       = {Paavola, Sami and Lipponen, Lasse and Hakkarainen, Kai},
-  journaltitle = {Review of Educational Research},
-  publisher    = {American Educational Research Association (AERA)},
-  volume       = {74},
-  issue        = {4},
-  pages        = {557--576},
-  date         = {2004-12},
-  doi          = {10.3102/00346543074004557},
-  issn         = {0034-6543,1935-1046},
-  abstract     = {The authors analyze and compare three models of innovative
-                  knowledge communities: Nonaka and Takeuchi’s model of
-                  knowledge-creation, Engeström’s model of expansive learning,
-                  and Bereiter’s model of knowledge building. Despite basic
-                  differences, these models have pertinent features in common:
-                  Most fundamentally, they emphasize dynamic processes for
-                  transforming prevailing knowledge and practices. Beyond
-                  characterizing learning as knowledge acquisition (the
-                  acquisition metaphor) and as participation in a social
-                  community (the participation metaphor), the authors of this
-                  article distinguish a third aspect: learning (and intelligent
-                  activity in general) as knowledge creation (the
-                  knowledge-creation metaphor). This approach focuses on
-                  investigating mediated processes of knowledge creation that
-                  have become especially important in a knowledge society.},
-  url          = {http://dx.doi.org/10.3102/00346543074004557},
-  keywords     = {Knowledge - Skill Acquisition;Philosophy of
-                  Education;Workplace Learning},
   language     = {en}
 }
