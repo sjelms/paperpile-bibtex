@@ -6055,9 +6055,9 @@
   language     = {en}
 }
 
-@BOOK{Organization-for-Economic-Co-operation-and-Development2006-fv,
+@BOOK{OECD2006-nt,
   title     = {Education Policy Analysis 2006},
-  author    = {{Organization for Economic Co-operation and Development}},
+  author    = {{OECD}},
   publisher = {Organization for Economic Co-operation and Development (OECD)},
   location  = {Paris Cedex, France},
   date      = {2006-11-17},
