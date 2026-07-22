@@ -63941,3 +63941,14 @@
   keywords     = {\_BibTex to MD Git;Knowledge - Skill Acquisition;AEC;VET},
   language     = {en}
 }
+
+@ARTICLE{Liker2006-as,
+  title        = {The Toyota Way in Services: The Case of Lean Product
+                  Development},
+  author       = {Liker, Jeffrey and Morgan, James},
+  journaltitle = {Academy of Management Perspectives},
+  volume       = {20},
+  date         = {2006},
+  doi          = {10.5465/AMP.2006.20591002},
+  url          = {http://dx.doi.org/10.5465/AMP.2006.20591002}
+}
