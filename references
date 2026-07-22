@@ -2036,6 +2036,19 @@
   language     = {en}
 }
 
+@BOOK{OECD2006-il,
+  title     = {Education policy analysis 2006},
+  author    = {{OECD}},
+  publisher = {OECD},
+  date      = {2006-11-17},
+  doi       = {10.1787/epa-2006-en},
+  issn      = {1995-4107,1999-1517},
+  isbn      = {9789264022690,9789264022706},
+  series    = {Education Policy Analysis},
+  url       = {http://dx.doi.org/10.1787/epa-2006-en},
+  language  = {en}
+}
+
 @BOOK{Jacobs2016-on,
   title     = {Rethinking Capitalism: Economics and Policy for Sustainable and
                Inclusive Growth},
