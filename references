@@ -63997,6 +63997,14 @@
   keywords     = {DfMA;\_BibTex to MD Git;Labor;Future of Work}
 }
 
+@BOOK{Cedefop1998-nj,
+  title     = {Vocational education and training - the European research field.
+               Background report, 1998, Volume {I}},
+  author    = {{Cedefop}},
+  publisher = {Publications Office},
+  date      = {1998}
+}
+
 @ARTICLE{Leoni2012-ml,
   title        = {Workplace design, complementarities among work practices, and
                   the formation of key competencies: Evidence from Italian
