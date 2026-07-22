@@ -19640,9 +19640,9 @@
   language     = {en}
 }
 
-@BOOK{Organization-for-Economic-Co-operation-and-Development2001-ii,
+@BOOK{OECD2001-sp,
   title     = {Education Policy Analysis 2001},
-  author    = {{Organization for Economic Co-operation and Development}},
+  author    = {{OECD}},
   publisher = {Organization for Economic Co-operation and Development (OECD)},
   location  = {Paris Cedex, France},
   date      = {2001-03-27},
