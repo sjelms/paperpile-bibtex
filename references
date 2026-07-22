@@ -6075,6 +6075,7 @@
                education.},
   series    = {Education Policy Analysis},
   url       = {http://dx.doi.org/10.1787/epa-2006-en},
+  keywords  = {Education;Knowledge - Skill Acquisition;Skill demand;Labor},
   language  = {en}
 }
 
@@ -19669,7 +19670,8 @@
                -- competencies demanded in the knowledge economy; -- alternate
                futures for schools.},
   series    = {Education Policy Analysis},
-  url       = {http://dx.doi.org/10.1787/epa-2001-en}
+  url       = {http://dx.doi.org/10.1787/epa-2001-en},
+  keywords  = {Education;Knowledge - Skill Acquisition;Skill demand;Labor}
 }
 
 @ARTICLE{De_Jong2013-st,
