@@ -19681,9 +19681,11 @@
   title       = {Vocational Education and Training - The European Research Field},
   author      = {{CEDEFOP}},
   editor      = {Tessaring, Manfred},
-  publisher   = {Publications Office},
+  publisher   = {Publications Office European Communities/Union
+                 (EUR-OP/OOPEC/OPOCE)},
   institution = {Centre Européen pour le Développement de la Formation
                  Professionnelle (CEDEFOP)},
+  location    = {Luxembourg, Luxembourg},
   volume      = {1},
   number      = {HX-13-98-001-EN-C},
   date        = {1998},
