@@ -2036,19 +2036,6 @@
   language     = {en}
 }
 
-@BOOK{OECD2006-il,
-  title     = {Education Policy Analysis 2006},
-  author    = {{OECD}},
-  publisher = {OECD},
-  date      = {2006-11-17},
-  doi       = {10.1787/epa-2006-en},
-  issn      = {1995-4107,1999-1517},
-  isbn      = {9789264022690,9789264022706},
-  series    = {Education Policy Analysis},
-  url       = {http://dx.doi.org/10.1787/epa-2006-en},
-  language  = {en}
-}
-
 @BOOK{Jacobs2016-on,
   title     = {Rethinking Capitalism: Economics and Policy for Sustainable and
                Inclusive Growth},
@@ -6066,6 +6053,28 @@
                   Git;llm-wiki-workflow;AEC;Robots;Artificial Intelligence
                   (AI);Systematic Review},
   language     = {en}
+}
+
+@BOOK{Organization-for-Economic-Co-operation-and-Development2006-fv,
+  title     = {Education Policy Analysis 2006},
+  author    = {{Organization for Economic Co-operation and Development}},
+  publisher = {OECD},
+  date      = {2006-11-17},
+  doi       = {10.1787/epa-2006-en},
+  issn      = {1995-4107,1999-1517},
+  isbn      = {9789264022690,9789264022706},
+  abstract  = {Education Policy Analysis draws on international perspectives to
+               provide analysis of key education policy challenges and
+               initiatives. This 2005-6 edition provides a window on this rich
+               international experience with chapters on the 2006 Meeting of
+               Education Ministers, how to meet teachers’ aspirations and
+               enhance motivation, using formative assessment to help all
+               students succeed, gender differences and mathematics, and policy
+               directions for the growing international market in higher
+               education.},
+  series    = {Education Policy Analysis},
+  url       = {http://dx.doi.org/10.1787/epa-2006-en},
+  language  = {en}
 }
 
 @BOOK{Mazzucato2018-em,
