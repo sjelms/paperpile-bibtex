@@ -64471,17 +64471,16 @@
                Learning;ePub;Labor;Automation;Robots;Training;Economics}
 }
 
-@BOOK{Hughes2020-wl,
-  title     = {American Genesis},
+@BOOK{Hughes1989-it,
+  title     = {American Genesis: A Century of Invention and Technological
+               Enthusiasm, 1870-1970},
   author    = {Hughes, Thomas P},
   publisher = {University of Chicago Press},
   location  = {Chicago, IL},
-  date      = {2020-05-21},
+  date      = {1989},
   pagetotal = {548},
   isbn      = {9780226772905,9780226359274},
-  abstract  = {*PULITZER PRIZE FINALIST* A sweeping history of the inventors,
-               inventions, and innovations that together created modern America.
-               A stunning, wide-ranging history from one of the foremost
+  abstract  = {A stunning, wide-ranging history from one of the foremost
                historians of technology of our age American Genesis tells the
                sweeping story of the technological revolution that made modern
                America. Unlike other histories of technology, which focus on
