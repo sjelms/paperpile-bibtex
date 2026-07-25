@@ -64500,3 +64500,16 @@
   keywords  = {EPubs Books;\_BibTex to MD Git;Economics;Automation;ePub},
   origdate  = {1990-02-09}
 }
+
+@BOOK{Rogers1983-rp,
+  title     = {The acquisition of symbolic skills},
+  author    = {Rogers, Don and Sloboda, John A},
+  publisher = {Kluwer Academic/Plenum},
+  location  = {New York, NY},
+  edition   = {1983},
+  date      = {1983-08-31},
+  pagetotal = {623},
+  isbn      = {9780306413681},
+  series    = {III Human Factors},
+  language  = {en}
+}
