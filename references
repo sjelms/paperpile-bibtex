@@ -64655,6 +64655,8 @@
 @INBOOK{Hutchins1997-uw,
   title     = {Constructing meaning from space, gesture, and speech},
   author    = {Hutchins, Edwin and Palen, Leysia},
+  editor    = {Resnick, Lauren B and Säljö, Roger and Pontecorvo, Clotilde and
+               Burge, Barbara},
   booktitle = {Discourse, Tools, and Reasoning: Essays on Situated Cognition},
   publisher = {Springer Berlin Heidelberg},
   location  = {Berlin, Heidelberg},
