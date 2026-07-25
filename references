@@ -19896,12 +19896,13 @@
   language  = {en}
 }
 
-@BOOK{Ortony1979-mw,
+@BOOK{Ortony1993-si,
   title     = {Metaphor and Thought},
   editor    = {Ortony, Andrew},
   publisher = {Cambridge University Press},
   location  = {Cambridge, England},
-  date      = {1979-09-27},
+  edition   = {2},
+  date      = {1993},
   pagetotal = {694},
   doi       = {10.1017/cbo9781139173865},
   isbn      = {9781139173865,9780521405614},
@@ -19923,7 +19924,8 @@
                "top-down" research strategy; metaphor and learning; learning
                without metaphor; and educational uses of metaphor.},
   url       = {http://dx.doi.org/10.1017/cbo9781139173865},
-  keywords  = {Metaphor and Thought}
+  keywords  = {Metaphor and Thought},
+  origdate  = {1979-09-27}
 }
 
 @INBOOK{Reddy1993-po,
