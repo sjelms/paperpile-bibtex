@@ -20003,6 +20003,16 @@
                Education;Psychology;Book (child)}
 }
 
+@BOOK{Neisser1976-qv,
+  title     = {Cognition and Reality},
+  author    = {Neisser, Ulric},
+  publisher = {W.H. Freeman},
+  location  = {New York, NY},
+  date      = {1976-12},
+  pagetotal = {230},
+  isbn      = {9780716704782}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
