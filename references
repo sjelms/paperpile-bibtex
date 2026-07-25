@@ -64651,3 +64651,16 @@
   keywords  = {Book (parent)},
   language  = {en}
 }
+
+@INBOOK{Hutchins1997-uw,
+  title     = {Constructing meaning from space, gesture, and speech},
+  author    = {Hutchins, Edwin and Palen, Leysia},
+  booktitle = {Discourse, Tools and Reasoning},
+  publisher = {Springer Berlin Heidelberg},
+  location  = {Berlin, Heidelberg},
+  pages     = {23--40},
+  date      = {1997},
+  doi       = {10.1007/978-3-662-03362-3_2},
+  isbn      = {9783642083372,9783662033623},
+  url       = {http://dx.doi.org/10.1007/978-3-662-03362-3_2}
+}
