@@ -64348,3 +64348,28 @@
   url       = {http://dx.doi.org/10.1017/cbo9781139173865.012},
   keywords  = {Metaphor and Thought;Book (child)}
 }
+
+@BOOK{Ortony2012-ui,
+  title     = {Metaphor and Thought},
+  editor    = {Ortony, Andrew},
+  publisher = {Cambridge University Press},
+  location  = {Cambridge, England},
+  edition   = {2},
+  date      = {2012-06-05},
+  pagetotal = {694},
+  doi       = {10.1017/cbo9781139173865},
+  isbn      = {9781139173865,9780521405614},
+  abstract  = {Metaphor and Thought, first published in 1979, reflects the surge
+               of interest in and research into the nature and function of
+               metaphor in language and thought. In this revised and expanded
+               second edition, the editor has invited the contributors to update
+               their original essays to reflect any changes in their thinking.
+               Reorganised to accommodate the shifts in central theoretical
+               issues, the volume also includes six new chapters that present
+               important and influential fresh ideas about metaphor that have
+               appeared in such fields as the philosophy of language and the
+               philosophy of science, linguistics, cognitive and clinical
+               psychology, education and artificial intelligence.},
+  url       = {http://dx.doi.org/10.1017/cbo9781139173865},
+  keywords  = {Metaphor and Thought}
+}
