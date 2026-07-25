@@ -22616,21 +22616,6 @@
   language     = {en}
 }
 
-@ARTICLE{Lakoff1980-br,
-  title        = {Conceptual metaphor in everyday language},
-  author       = {Lakoff, George and Johnson, Mark},
-  journaltitle = {The journal of philosophy},
-  publisher    = {Philosophy Documentation Center},
-  volume       = {77},
-  issue        = {8},
-  pages        = {453},
-  date         = {1980-08},
-  doi          = {10.2307/2025464},
-  issn         = {0022-362X,1939-8549},
-  url          = {http://www.pdcnet.org/oom/service?url_ver=Z39.88-2004&rft_val_fmt=&rft.imuse_id=jphil_1980_0077_0008_0453_0486&svc_id=info:www.pdcnet.org/collection},
-  keywords     = {Brain and Space [Coursera];Journal Articles}
-}
-
 @ARTICLE{Su2013-qt,
   title        = {Influence of training schedule on development of
                   perceptual–motor control skills for construction equipment
@@ -23562,6 +23547,34 @@
   date      = {2019-10},
   url       = {https://fs.blog/2019/05/gates-law/},
   keywords  = {Zotero Import (Feb 22);My Library}
+}
+
+@ARTICLE{Lakoff1980-br,
+  title        = {Conceptual metaphor in everyday language},
+  author       = {Lakoff, George and Johnson, Mark},
+  journaltitle = {The journal of philosophy},
+  publisher    = {Philosophy Documentation Center},
+  volume       = {77},
+  issue        = {8},
+  pages        = {453--486},
+  date         = {1980-08},
+  doi          = {10.2307/2025464},
+  issn         = {0022-362X,1939-8549},
+  abstract     = {Until recently, philosophers have tended either to berate
+                  metaphor as irrational and dangerous or to ignore it, reducing
+                  it to the status of a subsidiary problem in the philosophy of
+                  language. Literal language, assumed to be mutually exclusive
+                  with metaphor, has been taken to be the real stuff of
+                  philosophy: the domain where issues of meaning and truth arise
+                  and can be addressed. At best, metaphor is treated as if it
+                  were always the result of some operation performed upon the
+                  literal meaning of an utterance. The phenomenon of
+                  “conventional metaphor,” where much of our ordinary conceptual
+                  system and the bulk of our everyday conventional language are
+                  structured and understood primarily in metaphorical terms, has
+                  gone either unnoticed or undiscussed.},
+  url          = {http://dx.doi.org/10.2307/2025464},
+  keywords     = {Brain and Space [Coursera];Journal Articles}
 }
 
 @ARTICLE{Volk2014-ar,
