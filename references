@@ -64615,7 +64615,7 @@
 }
 
 @BOOK{Resnick1997-ju,
-  title     = {Discourse, Tools and Reasoning: Essays on Situated Cognition},
+  title     = {Discourse, Tools, and Reasoning: Essays on Situated Cognition},
   editor    = {Resnick, Lauren B and Säljö, Roger and Pontecorvo, Clotilde and
                Burge, Barbara},
   publisher = {Springer},
@@ -64647,7 +64647,7 @@
                volume: Practice is a coordination of thinking and action, and
                many things had to be kept in mind during the production of this
                volume.},
-  url       = {https://doi.org/10.1007/978-3-662-03362-3},
+  url       = {http://dx.doi.org/10.1007/978-3-662-03362-3},
   keywords  = {Book (parent)},
   language  = {en}
 }
