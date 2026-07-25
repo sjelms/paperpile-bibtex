@@ -20120,7 +20120,7 @@
 
 @INBOOK{Neisser1983-cm,
   title     = {Toward a skillful psychology},
-  author    = {Neisser, Ulric},
+  author    = {Neisser, Ulric Richard Gustav},
   editor    = {Rogers, Don and Sloboda, John A},
   booktitle = {The Acquisition of Symbolic Skills},
   publisher = {Springer US},
@@ -20129,6 +20129,19 @@
   date      = {1983},
   doi       = {10.1007/978-1-4613-3724-9_1},
   isbn      = {9781461337263,9781461337249},
+  abstract  = {It is an honour to address the Conference on the Acquisition of
+               Symbolic Skills, and also a pleasure. The topic of this
+               conference is an important one, about which we all still have
+               much to learn. It is important because the concept of symbolic
+               skill lies quite close - closer than might have been expected -
+               to our conception of human nature itself. Animals don’t exhibit
+               symbolic skills, and neither do computers - so I shall argue -
+               but people do. Sometimes even psychologists do. My aim here is to
+               clarify these ideas as much as possible - to say what skills are,
+               and what symbolic skills might be, and why they are interesting.
+               You must not expect, however, that my attempt at clarification
+               will be entirely successful. I am not quite skillful enough for
+               that.},
   url       = {http://dx.doi.org/10.1007/978-1-4613-3724-9_1}
 }
 
