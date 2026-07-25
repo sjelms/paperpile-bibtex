@@ -64220,3 +64220,15 @@
   keywords  = {\_BibTex to MD Git;RNIB;Philosophy of Education;Technological
                change}
 }
+
+@BOOK{Polanyi2025-xx,
+  title     = {The great transformation},
+  author    = {Polanyi, Karl},
+  publisher = {Beacon Press},
+  location  = {Boston, MA},
+  edition   = {2},
+  date      = {2025-07-08},
+  pagetotal = {360},
+  isbn      = {9780807056431},
+  language  = {en}
+}
