@@ -19959,6 +19959,22 @@
   keywords  = {Metaphor and Thought;Book (child)}
 }
 
+@INBOOK{Schon1993-uw,
+  title     = {Generative metaphor: A perspective on problem-setting in social
+               policy},
+  author    = {Schön, Donald A},
+  editor    = {Ortony, Andrew},
+  booktitle = {Metaphor and Thought},
+  publisher = {Cambridge University Press},
+  location  = {Cambridge},
+  pages     = {137--163},
+  date      = {1993-11-26},
+  doi       = {10.1017/cbo9781139173865.011},
+  isbn      = {9780521405478,9780521405614},
+  url       = {http://dx.doi.org/10.1017/cbo9781139173865.011},
+  keywords  = {Metaphor and Thought}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
