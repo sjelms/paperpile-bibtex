@@ -19932,22 +19932,27 @@
   editor    = {Ortony, Andrew},
   publisher = {Cambridge University Press},
   location  = {Cambridge, England},
-  edition   = {2},
-  date      = {1979},
+  date      = {1979-09-27},
   pagetotal = {694},
   doi       = {10.1017/cbo9781139173865},
   isbn      = {9781139173865,9780521405614},
-  abstract  = {Metaphor and Thought, first published in 1979, reflects the surge
-               of interest in and research into the nature and function of
-               metaphor in language and thought. In this revised and expanded
-               second edition, the editor has invited the contributors to update
-               their original essays to reflect any changes in their thinking.
-               Reorganised to accommodate the shifts in central theoretical
-               issues, the volume also includes six new chapters that present
-               important and influential fresh ideas about metaphor that have
-               appeared in such fields as the philosophy of language and the
-               philosophy of science, linguistics, cognitive and clinical
-               psychology, education and artificial intelligence.},
+  abstract  = {In the essays contained in this volume, philosophers,
+               psychologists, linguists, and educators raise questions about the
+               viability of the traditional distinction between the literal and
+               the metaphorical. The essays reflect important parallel
+               developments in the fields represented but also illustrate a
+               convergence of approaches to a common problem by different
+               disciplines. Among the topics covered in the 21 essays are the
+               following: metaphor as a multidimensional problem; figurative
+               speech and linguistics; the semantics of metaphor; problems with
+               the notion of literal meanings; the pragmatics of metaphor;
+               psychological processes in the comprehension of metaphor; novel
+               metaphors; the role of similarity in similes and metaphors;
+               images and models, similes and metaphors; generative metaphor;
+               metaphor, induction, and social policy; metaphor and theory
+               change; metaphor in science; metaphorical imprecision and the
+               "top-down" research strategy; metaphor and learning; learning
+               without metaphor; and educational uses of metaphor.},
   url       = {http://dx.doi.org/10.1017/cbo9781139173865},
   keywords  = {Metaphor and Thought}
 }
