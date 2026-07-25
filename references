@@ -64648,7 +64648,8 @@
                many things had to be kept in mind during the production of this
                volume.},
   url       = {http://dx.doi.org/10.1007/978-3-662-03362-3},
-  keywords  = {Book (parent);RNIB},
+  keywords  = {Book (parent);RNIB;Knowledge - Skill Acquisition;Workplace
+               Learning;Psychology},
   language  = {en}
 }
 
@@ -64679,5 +64680,6 @@
                organization of specilized artifacts, the positioning of gestures
                with respect to those artifacts, and the words that are spoken.},
   url       = {http://dx.doi.org/10.1007/978-3-662-03362-3_2},
-  keywords  = {Book (child);RNIB}
+  keywords  = {Book (child);RNIB;Knowledge - Skill Acquisition;Workplace
+               Learning;Psychology}
 }
