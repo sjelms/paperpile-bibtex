@@ -64438,3 +64438,13 @@
                differences between perception in the external world and in
                experimental laboratory situations.}
 }
+
+@BOOK{Roser2016-pm,
+  title     = {Faster, better, cheaper in the history of manufacturing},
+  author    = {Roser, Christoph},
+  publisher = {Productivity Press},
+  location  = {New York, NY},
+  date      = {2016-10-04},
+  pagetotal = {417},
+  isbn      = {9781315350912}
+}
