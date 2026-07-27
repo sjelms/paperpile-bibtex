@@ -20351,6 +20351,17 @@
   language     = {en}
 }
 
+@BOOK{Laovisutthichai2025-qx,
+  title     = {Integrated perspectives in offsite construction},
+  editor    = {Laovisutthichai, Vikrom},
+  publisher = {Routledge},
+  location  = {London, England},
+  date      = {2025-12-02},
+  pagetotal = {272},
+  isbn      = {9781040769669},
+  language  = {en}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
