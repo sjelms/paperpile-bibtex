@@ -45644,7 +45644,7 @@
   title        = {Ahead of Their Time: The Sears Catalogue Prefabricated Houses},
   author       = {Cooke, Amanda and Friedman, Avi},
   journaltitle = {Journal of Design History},
-  publisher    = {[Oxford University Press, Design History Society]},
+  publisher    = {Oxford University Press},
   volume       = {14},
   issue        = {1},
   pages        = {53--70},
@@ -45676,8 +45676,7 @@
                   reduced need for housing after 1924. Even so, their
                   experiences in prefabrication contributed to the current
                   design and packaging of homes.},
-  url          = {http://www.jstor.org/stable/3527272},
-  urldate      = {2026-07-27}
+  url          = {http://www.jstor.org/stable/3527272}
 }
 
 @BOOK{Lee2021-dp,
