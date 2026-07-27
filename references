@@ -28063,18 +28063,6 @@
   language     = {en}
 }
 
-@BOOK{Wallance2021-so,
-  title     = {The Future of Modular Architecture},
-  author    = {Wallance, David},
-  publisher = {Routledge},
-  location  = {London, England},
-  date      = {2021-04-07},
-  pagetotal = {302},
-  isbn      = {9780367467227},
-  keywords  = {EPubs Books;\_BibTex to MD Git;NBLM;AEC;ePub},
-  language  = {en}
-}
-
 @INBOOK{Littlejohn2022-db,
   title     = {Technologies for Professional Learning},
   author    = {Littlejohn, Allison and Pammer-Schindler, Viktoria},
@@ -28753,7 +28741,7 @@
   keywords  = {Construction 4-0;Notion Catalogued;UCL Poster Q1 2023;2\_Upgrade
                MAY 2023;00\_TO READ;EPubs Books;3\_Upgrade OCT 2023;AEC Cited
                Lit for Jacqui;\_BibTex to MD Git;NBLM;AEC;ePub;\_Mark
-               Up;\_Cataloged;Book (parent)},
+               Up;\_Cataloged;Book (parent);RNIB},
   language  = {en}
 }
 
@@ -28820,7 +28808,7 @@
   url       = {https://play.google.com/store/books/details?id=qeq_CwAAQBAJ},
   keywords  = {Construction 4-0;2\_Upgrade MAY 2023;EPubs Books;AEC Cited Lit
                for Jacqui;\_BibTex to MD Git;NBLM;\_In Notion;\_In
-               Readwise;AEC;ePub;\_New Literature},
+               Readwise;AEC;ePub;\_New Literature;RNIB},
   language  = {en}
 }
 
@@ -30757,7 +30745,7 @@
                READ;Offsite Architecture: Constructing the Future;EPubs
                Books;AEC Cited Lit for Jacqui;\_BibTex to MD
                Git;NBLM;AEC;ePub;Essential;Important;\_Mark Up;\_Cataloged;\_In
-               ClickUp;Book (parent)},
+               ClickUp;Book (parent);RNIB},
   language  = {en}
 }
 
@@ -34283,7 +34271,7 @@
                modular projects, this guide offers useful examples and details
                on the fundamentals required to get a modular project started
                correctly and keep it on track.},
-  keywords  = {\_BibTex to MD Git;EPubs Books;NBLM;ePub;AEC},
+  keywords  = {\_BibTex to MD Git;EPubs Books;NBLM;ePub;AEC;RNIB},
   language  = {en}
 }
 
@@ -35449,7 +35437,7 @@
   keywords  = {Handbook of Construction Safety, Health and Well-being in the
                Industry 4.0 Era;EPubs Books;\_BibTex to MD Git;BSSC Seed Fund
                for AI Research;NBLM;\_In Notion;\_In Readwise;AEC;ePub;Workplace
-               Learning;\_New Literature;Book (parent)},
+               Learning;\_New Literature;Book (parent);RNIB},
   language  = {en}
 }
 
@@ -36287,6 +36275,18 @@
                   long-standing disputes and can invigorate both research and
                   practice in the field.},
   keywords     = {AIEd [CCME0123];Journal Articles;Course Assignment}
+}
+
+@BOOK{Wallance2021-so,
+  title     = {The Future of Modular Architecture},
+  author    = {Wallance, David},
+  publisher = {Routledge},
+  location  = {London, England},
+  date      = {2021-04-07},
+  pagetotal = {302},
+  isbn      = {9780367467227},
+  keywords  = {EPubs Books;\_BibTex to MD Git;NBLM;AEC;ePub;RNIB},
+  language  = {en}
 }
 
 @INPROCEEDINGS{Steinicke2014-vp,
@@ -60058,7 +60058,8 @@
   pagetotal = {384},
   isbn      = {9780470880432},
   url       = {https://openlibrary.org/books/OL29056327M.opds},
-  keywords  = {EPubs Books;\_BibTex to MD Git;llm-wiki-workflow;NBLM;AEC;ePub},
+  keywords  = {EPubs Books;\_BibTex to MD
+               Git;llm-wiki-workflow;NBLM;AEC;ePub;RNIB},
   language  = {en}
 }
 
