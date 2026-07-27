@@ -20352,13 +20352,40 @@
 }
 
 @BOOK{Laovisutthichai2025-qx,
-  title     = {Integrated perspectives in offsite construction},
+  title     = {Integrated Perspectives in Offsite Construction},
   editor    = {Laovisutthichai, Vikrom},
   publisher = {Routledge},
   location  = {London, England},
+  edition   = {1},
   date      = {2025-12-02},
   pagetotal = {272},
   isbn      = {9781040769669},
+  abstract  = {ntegrated Perspectives in Offsite Construction offers a
+               comprehensive analysis of the multifaceted aspects of offsite
+               construction and addresses critical gaps to advance this
+               promising field. This book broadens the scope of offsite
+               construction beyond manufacturing and assembly, incorporating the
+               entire building life cycle from pre-construction (e.g., project
+               initiation and design) to post-construction (e.g., occupancy and
+               evaluation) to provide an integrated perspective. The first
+               section explores pre-construction topics, including user
+               perception, architectural design, and offsite construction supply
+               chain selection and management. The second section highlights
+               manufacturing, transportation, and assembly processes, focusing
+               on the role of computational technologies in improving efficiency
+               and sustainability. The final section examines post-occupancy
+               evaluation and disassembly, offering lessons from real-world
+               projects and identifying opportunities for improvement. This book
+               addresses crucial gaps in current practices by providing
+               integrated perspectives from various stakeholders, showcasing the
+               impact of technological advancements on the process, and
+               illustrating the importance of collaboration among diverse
+               stakeholders to enable successful implementation. With its
+               holistic view and practical insights, it is a valuable resource
+               for researchers, practitioners, educators, and industry
+               professionals seeking to navigate and advance offsite
+               construction.},
+  url       = {https://www.routledge.com/Integrated-Perspectives-in-Offsite-Construction/Laovisutthichai/p/book/9781032991665},
   language  = {en}
 }
 
