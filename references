@@ -59314,8 +59314,8 @@
                   integration.},
   url          = {https://doi.org/10.1080/01446193.2019.1656814},
   keywords     = {AEC Cited Lit for Jacqui;\_BibTex to MD
-                  Git;llm-wiki-workflow;AEC;Technological change;\_In
-                  Notion;\_In Readwise;\_New Literature}
+                  Git;llm-wiki-workflow;Offsite\_NBLM;AEC;Technological
+                  change;\_In Notion;\_In Readwise;\_New Literature}
 }
 
 @PHDTHESIS{Edkins1998-kn,
@@ -60314,7 +60314,8 @@
                   in AEC.},
   url          = {http://dx.doi.org/10.1007/s41693-024-00115-z},
   keywords     = {Construction 4-0;\_BibTex to MD
-                  Git;llm-wiki-workflow;Marx\_Labor;AEC;\_New Literature;QDA},
+                  Git;llm-wiki-workflow;Marx\_Labor;Offsite\_NBLM;AEC;\_New
+                  Literature;QDA},
   language     = {en}
 }
 
@@ -60429,7 +60430,8 @@
                   workflow.},
   url          = {https://www.sciencedirect.com/science/article/pii/S0926580520310177},
   keywords     = {Configurators; Kit-of-parts; Mass customization; Three-tier
-                  architecture;Construction 4-0;AEC;\_New Literature}
+                  architecture;Construction 4-0;Offsite\_NBLM;AEC;\_New
+                  Literature}
 }
 
 @BOOK{Hopkins2023-vl,
