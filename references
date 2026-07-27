@@ -45640,6 +45640,46 @@
                   Up;Cited for Frontiers}
 }
 
+@ARTICLE{Cooke2001-cz,
+  title        = {Ahead of Their Time: The Sears Catalogue Prefabricated Houses},
+  author       = {Cooke, Amanda and Friedman, Avi},
+  journaltitle = {Journal of Design History},
+  publisher    = {[Oxford University Press, Design History Society]},
+  volume       = {14},
+  issue        = {1},
+  pages        = {53--70},
+  date         = {2001},
+  issn         = {0952-4649,1741-7279},
+  abstract     = {Several companies in the early 1900s offered high-quality,
+                  pre-cut and prefabricated houses in a great variety of styles.
+                  The most successful of these companies, in the years before
+                  the Second World War, was Sears, Roebuck and Company. Sears
+                  sold houses via mail-order catalogue and through their sales
+                  offices to nearly 100,000 clients between 1908 and 1940.
+                  Despite their widespread success, however, Sears' Home
+                  Construction Division ultimately failed. The reasons for this
+                  failure can be understood in the context of their design
+                  flexibility, marketing strategy, approach to financing and the
+                  process of selling, delivering and erecting the houses. Sears'
+                  concept of packaging and shipping high-quality pre-cut
+                  materials and precise instructions directly to the client was
+                  sound. It was especially effective when combined with their
+                  ability to maintain flexibility and to offer a wide variety of
+                  designs. The company's marketing strategy was very skilful,
+                  and they were successful in convincing thousands of Americans
+                  that a Sears house would bring them the comfort and security
+                  of their dreams. Financing decisions and short-sightedness
+                  rather than poor marketing strategies or a substandard product
+                  caused the downfall of Sears' Home Construction Division.
+                  Their liberal financing policies did not take into account the
+                  possibility of economic recession nor did they allow for the
+                  reduced need for housing after 1924. Even so, their
+                  experiences in prefabrication contributed to the current
+                  design and packaging of homes.},
+  url          = {http://www.jstor.org/stable/3527272},
+  urldate      = {2026-07-27}
+}
+
 @BOOK{Lee2021-dp,
   title     = {{AI} 2041: Ten Visions for Our Future},
   author    = {Lee, Kai-Fu and Qiufan, Chen},
