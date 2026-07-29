@@ -65018,3 +65018,30 @@
                  Git;Offsite\_NBLM;AEC;Report;Labor;Skill demand},
   origtitle   = {Modernise or Die: Time to decide the industry’s future}
 }
+
+@ARTICLE{Woods1998-zz,
+  title        = {Three trends in teaching and learning},
+  author       = {Woods, D R},
+  journaltitle = {2018 Winter Chemical Engineering Education Journal},
+  volume       = {32},
+  issue        = {4},
+  pages        = {296--301},
+  date         = {1998-09-01},
+  issn         = {0009-2479,2165-6428},
+  abstract     = {Great advancements have been made in how we 1) facilitate
+                  learning, 2) what we teach, and 3) the structure of knowledge
+                  that we memorize when we learn. To explore 1), over a dozen
+                  findings from research on how to facilitate learning are
+                  presented; 2) an increasing number of programs, process
+                  skills, and team skills are being developed; 3) realization
+                  that the context in which we learn new knowledge affects our
+                  ability to retrieve and use that knowledge effectively.
+                  Relationships between these three trends and problem-based
+                  learning are illustrated.Accessibility Summary:In accordance
+                  with Title II regulations this content meets all points of
+                  exemption as Archived web content and/or Preexisting
+                  conventional electronic documents.},
+  url          = {https://journals.flvc.org/cee/article/view/123237},
+  urldate      = {2026-07-29},
+  language     = {en}
+}
