@@ -65019,6 +65019,16 @@
   origtitle   = {Modernise or Die: Time to decide the industry’s future}
 }
 
+@BOOK{O-Banion1997-zn,
+  title     = {A learning college for the {21st} century},
+  author    = {O'Banion, Terry},
+  publisher = {Rowman \& Littlefield},
+  date      = {1997-05-16},
+  pagetotal = {280},
+  isbn      = {9781461636335},
+  series    = {American Council on Education/Oryx Press Series on Higher Ed}
+}
+
 @ARTICLE{Woods1998-zz,
   title        = {Three trends in teaching and learning},
   author       = {Woods, Donald R},
