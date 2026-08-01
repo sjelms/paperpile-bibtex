@@ -21382,14 +21382,14 @@
                   Society}
 }
 
-@BOOK{Baines2015-bs,
-  title     = {Cambridge library collection - technology: History of the cotton
-               manufacture in great Britain: With a notice of its early history
-               in the east, and in all the quarters of the globe},
+@BOOK{Baines1835-hj,
+  title     = {History of the cotton manufacture in great Britain: With a notice
+               of its early history in the east, and in all the quarters of the
+               globe},
   author    = {Baines, Edward},
-  publisher = {Cambridge University Press},
-  location  = {Cambridge, England},
-  date      = {2015-09-05},
+  publisher = {H. Fisher, R. Fisher, P. Jackson},
+  location  = {London},
+  date      = {1835},
   pagetotal = {598},
   doi       = {10.1017/cbo9781316144633},
   isbn      = {9781316144633,9781316144633},
