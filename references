@@ -66244,24 +66244,18 @@
   keywords     = {Econ-Labor;\_BibTex to MD Git;Labor;Economics}
 }
 
-@BOOK{Dickens2007-gy,
-  title     = {Hard times},
+@BOOK{Dickens1854-fw,
+  title     = {\textit{Hard Times: For These Times}},
   author    = {Dickens, Charles},
-  publisher = {Penguin UK},
-  date      = {2007-10-25},
+  editorb   = {Flint, Kate},
+  publisher = {Bradbury \& Evans},
+  location  = {London},
+  date      = {1854},
   pagetotal = {368},
-  isbn      = {9780141920061},
-  abstract  = {'Teach these boys and girls nothing but Facts. Facts alone are
-               wanted in life. Plant nothing else, and root out everything else'
-               Dickens's novel honouring the value of the human heart in an age
-               of materialism centres on Coketown, where Mr Thomas Gradgrind,
-               school owner and model of Utilitarian success, feeds his pupils
-               and his family with facts, banning fancy and wonder from young
-               minds. As a consequence his obedient daughter Louisa becomes
-               trapped in a loveless marriage, and his son Tom rebels to become
-               embroiled in crime. As their fortunes cross with those of a
-               free-spirited circus girl and a victimized weaver, Gradgrind is
-               forced to question everything he believes in. Edited with an
-               Introduction and notes by KATE FLINT},
+  abstract  = {Hard Times is a critique of industrialization, utilitarianism,
+               and rigid fact-based education set in the fictional northern
+               English mill town of Coketown. It follows educator Thomas
+               Gradgrind, wealthy factory owner Josiah Bounderby, and honest
+               mill worker Stephen Blackpool.},
   language  = {en}
 }
