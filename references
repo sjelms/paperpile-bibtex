@@ -21844,6 +21844,20 @@
                (child)}
 }
 
+@BOOK{Thompson1989-yx,
+  title     = {The Nature of Work},
+  author    = {Thompson, Paul},
+  publisher = {Red Globe Press},
+  location  = {London, England},
+  edition   = {2},
+  date      = {1989-06-26},
+  pagetotal = {326},
+  doi       = {10.1007/978-1-349-20028-3},
+  isbn      = {9780333495049,9781349200283},
+  url       = {http://dx.doi.org/10.1007/978-1-349-20028-3},
+  language  = {en}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
