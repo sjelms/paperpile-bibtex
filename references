@@ -21845,7 +21845,8 @@
 }
 
 @BOOK{Thompson1989-yx,
-  title     = {The Nature of Work},
+  title     = {The Nature of Work: An Introduction to Debates on the Labour
+               Process},
   author    = {Thompson, Paul},
   publisher = {Red Globe Press},
   location  = {London, England},
@@ -21854,6 +21855,14 @@
   pagetotal = {326},
   doi       = {10.1007/978-1-349-20028-3},
   isbn      = {9780333495049,9781349200283},
+  abstract  = {Paul Thompson provides a concise and comprehensive introduction
+               to the debates on the labour process. He sets out and compares
+               the established traditions in industrial sociology and the
+               analyses of Marx and Braverman. He goes on to explore
+               contemporary debates on deskilling and degradation, and Taylorism
+               and structures of control. He also covers two crucial areas
+               neglected in early debates: legitimation and consent at work, and
+               the effects of the sexual division of labour.},
   url       = {http://dx.doi.org/10.1007/978-1-349-20028-3},
   language  = {en}
 }
