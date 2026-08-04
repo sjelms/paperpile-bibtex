@@ -21867,6 +21867,24 @@
   language  = {en}
 }
 
+@BOOK{Thompson1990-sl,
+  title     = {Work Organisations},
+  author    = {Thompson, Paul and McHugh, David},
+  publisher = {Palgrave Macmillan},
+  location  = {Basingstoke, England},
+  edition   = {1990},
+  date      = {1990-06-08},
+  pagetotal = {416},
+  doi       = {10.1007/978-1-349-20741-1},
+  isbn      = {9780333437070,9781349207411},
+  abstract  = {Acting as a critical introduction to organization studies, this
+               book discusses a variety of issues central to that theme. These
+               range from the classical theories and bureaucratisation of
+               production, t},
+  url       = {http://dx.doi.org/10.1007/978-1-349-20741-1},
+  language  = {en}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
