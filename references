@@ -66453,9 +66453,44 @@
 }
 
 @MASTERSTHESIS{Elms2009-iv,
-  type   = {mathesis},
-  title  = {The arts, creativity, and higher education: Columbia University's
-            Manhattanville expansion and the need for a performing arts center},
-  author = {Elms, Stephen J},
-  date   = {2009}
+  type        = {mathesis},
+  title       = {The Arts, Creativity, and Higher Education: Columbia
+                 University’s Manhattanville Expansion and the Need for a
+                 Performing Arts Center},
+  author      = {Elms, Stephen J},
+  editor      = {Chaikelson, Steven and Flory, Colleen M},
+  institution = {Columbia University in the City of New York},
+  location    = {New York, NY},
+  date        = {2009},
+  abstract    = {This thesis examines the relationship between the arts,
+                 creativity, and higher education through the case of Columbia
+                 University’s planned Manhattanville campus expansion. It argues
+                 that artistic practice and creative inquiry are essential
+                 components of a comprehensive university education and should
+                 be supported through dedicated institutional infrastructure.
+                 Drawing on historical analysis of Columbia University, broader
+                 discussions of creativity in education, and policy discourse
+                 surrounding innovation and workforce development, the study
+                 situates the arts within contemporary debates about the purpose
+                 of higher education. The thesis first traces the historical
+                 development of Columbia’s institutional mission and its
+                 engagement with the arts. It then examines the role of
+                 creativity in modern education, drawing on scholarship that
+                 emphasizes the importance of creative thinking,
+                 interdisciplinary learning, and artistic expression in
+                 preparing students for a rapidly changing global economy. The
+                 analysis highlights a persistent tension within universities
+                 between expanding commitments to creativity and the limited
+                 physical and institutional space allocated to artistic
+                 practice. Building on this context, the study evaluates
+                 Columbia University’s Manhattanville expansion as a critical
+                 moment for institutional planning. It argues that the absence
+                 of a dedicated performing arts center would represent a missed
+                 opportunity to strengthen the university’s commitment to
+                 creative education and interdisciplinary collaboration. The
+                 thesis concludes that integrating a performing arts facility
+                 into the Manhattanville development would not only support
+                 artistic production but also reinforce the broader educational
+                 value of creativity across disciplines.},
+  url         = {https://clio.columbia.edu/catalog/7890490}
 }
