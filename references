@@ -21547,6 +21547,32 @@
   language     = {en}
 }
 
+@ARTICLE{Elkjaer2003-sk,
+  title        = {Organizational learning with a pragmatic slant},
+  author       = {Elkjaer, Bente},
+  journaltitle = {International Journal of Lifelong Education},
+  publisher    = {Informa UK Limited},
+  volume       = {22},
+  issue        = {5},
+  pages        = {481--494},
+  date         = {2003-09},
+  doi          = {10.1080/0260137032000102841},
+  issn         = {0260-1370,1464-519X},
+  abstract     = {A pragmatic theory of learning is introduced as a possible way
+                  of creating organizational learning and learning
+                  organizations. This learning theory rests upon what may be
+                  termed the inquiry metaphor. Two other metaphors of
+                  learning—the knowledge acquisition and the participation
+                  metaphor—are introduced as they are mirrored in the literature
+                  and in organizational development in practice. It is argued
+                  that the important element of organizational learning and
+                  learning organizations is the creation of an experimental
+                  arena for learning in which employees are able to engage in
+                  inquiry into workplace problems and, by doing so, develop
+                  their experiences with work and workplaces.},
+  url          = {http://dx.doi.org/10.1080/0260137032000102841}
+}
+
 @ARTICLE{Blunden1997-hh,
   title        = {Praxis in Vocational Education and Training: Being and
                   Becoming a Person},
