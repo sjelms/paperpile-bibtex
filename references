@@ -60736,6 +60736,19 @@
   keywords  = {EPubs Books;\_BibTex to MD Git;ePub}
 }
 
+@INBOOK{Elkjaer2003-nm,
+  title     = {Social Learning Theory: Learning as Participation in Social
+               Processes},
+  author    = {Elkjær, Bente},
+  editor    = {Easterby-Smith, Mark and Lyles, Marjorie},
+  booktitle = {The Blackwell Handbook of Organizational Learning and Knowledge
+               Management},
+  publisher = {Blackwell Publishers},
+  pages     = {38--53},
+  date      = {2003},
+  language  = {English}
+}
+
 @ARTICLE{Carino2018-pc,
   title        = {Life in This Iconic {Mid‑Century} Suburb Shows How California
                   Dreams Are Shrinking},
