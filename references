@@ -22626,6 +22626,7 @@
   doi          = {10.1177/135050840072001},
   issn         = {1350-5084,1461-7323},
   url          = {http://dx.doi.org/10.1177/135050840072001},
+  keywords     = {Knowledge - Skill Acquisition;Workplace Learning},
   language     = {en}
 }
 
@@ -22656,7 +22657,8 @@
                Strategic Learning in a Knowledge Economy features focused
                discussions of organizational core competencies, learning and
                innovation, communities of practice, assessing organizational
-               learning capabilities, and other important learning topics.}
+               learning capabilities, and other important learning topics.},
+  keywords  = {Knowledge - Skill Acquisition;Workplace Learning}
 }
 
 @ARTICLE{De_Jong2013-st,
