@@ -22626,7 +22626,8 @@
   doi          = {10.1177/135050840072001},
   issn         = {1350-5084,1461-7323},
   url          = {http://dx.doi.org/10.1177/135050840072001},
-  keywords     = {Knowledge - Skill Acquisition;Workplace Learning},
+  keywords     = {\_BibTex to MD Git;Knowledge - Skill Acquisition;Workplace
+                  Learning},
   language     = {en}
 }
 
