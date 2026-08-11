@@ -22665,10 +22665,8 @@
                (parent)}
 }
 
-@INBOOK{Prahalad2000-as,
-  title     = {The core competence of the corporation},
-  author    = {Prahalad, C K and Hamel, Gary},
-  editor    = {Cross, Jr, Robert L and Israelit, Sam B},
+@INBOOK{Unknown2000-uu,
+  title     = {The Core Competence of the Corporation},
   booktitle = {Strategic Learning in a Knowledge Economy},
   publisher = {Butterworth-Heinemann},
   location  = {Woburn, MA},
