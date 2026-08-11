@@ -22629,6 +22629,16 @@
   language     = {en}
 }
 
+@BOOK{Cross2009-jh,
+  title     = {Strategic learning in a knowledge economy},
+  author    = {Cross, Robert L and Israelit, Sam},
+  publisher = {Routledge},
+  location  = {London, England},
+  date      = {2009-11-03},
+  pagetotal = {368},
+  isbn      = {9781136362934}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
