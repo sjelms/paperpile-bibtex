@@ -126,7 +126,7 @@
                   perspective and summarizes the characteristics of the comorbid
                   phenotype.},
   url          = {http://dx.doi.org/10.1080/87565641.2010.494748},
-  keywords     = {Neurodiversity;\_BibTex to MD Git;Neurodiversity},
+  keywords     = {Neurodiversity;\_BibTex to MD Git;Neurodiversity;git-lit},
   language     = {en}
 }
 
@@ -152,7 +152,7 @@
                   environment and psychological distress as a consequence of
                   Impostorism.},
   url          = {http://dx.doi.org/10.14456/ijbs.2011.6},
-  keywords     = {Neurodiversity;\_BibTex to MD Git;Neurodiversity}
+  keywords     = {Neurodiversity;\_BibTex to MD Git;Neurodiversity;git-lit}
 }
 
 @ARTICLE{Alhamoudi2026-ou,
@@ -372,7 +372,7 @@
                   class="superscript"></sup>.<sources-carousel-inline
                   ng-version="0.0.0-PLACEHOLDER" \_nghost-ng-c1972948578="">},
   keywords     = {\_BibTex to MD Git;Education;Philosophy of
-                  Education;Psychology}
+                  Education;Psychology;git-lit}
 }
 
 @ARTICLE{Vygotsky1979-oz,
@@ -603,37 +603,6 @@
   language  = {en}
 }
 
-@ARTICLE{Ozgur2014-tm,
-  title        = {Babbage's legacy: The origins of microeconomics in On the
-                  Economy of machinery and Manufactures},
-  author       = {Ozgur, Mustafa Erdem},
-  journaltitle = {Scottish Journal of Political Economy},
-  publisher    = {Wiley},
-  volume       = {61},
-  issue        = {3},
-  pages        = {322--339},
-  date         = {2014-07},
-  doi          = {10.1111/sjpe.12047},
-  issn         = {0036-9292,1467-9485},
-  abstract     = {AbstractBritish mathematician Charles Babbage (1791–1871)
-                  spent immense energy to build mechanical calculating engines.
-                  Hoping that it might help him in designing and building his
-                  engines, he visited numerous workshops and factories in both
-                  England and Continental Europe. One of the consequences of
-                  these visits was his On the Economy of Machinery and
-                  Manufactures, published in 1832. Through his observations,
-                  Babbage grasped the advantages of machinery and economies of
-                  scale. In micro terms, he acknowledged the cost‐reducing
-                  features of economies of location, vertical integration, and
-                  division of labor – beyond Adam Smith's analysis – as well as
-                  the efficacy of clustering. He also pointed out the
-                  relationship between firm size, economic crisis, and
-                  innovation.},
-  url          = {http://dx.doi.org/10.1111/sjpe.12047},
-  keywords     = {Braverman;\_BibTex to MD Git;Marx\_Labor;Economics},
-  language     = {en}
-}
-
 @INBOOK{Schumpeter2013-de,
   title     = {Introduction},
   author    = {Schumpeter, Joseph A},
@@ -772,7 +741,7 @@
                scene, Goodhart's Bank of England perspective on all this is
                useful.},
   url       = {https://doi.org/10.1007/978-1-349-17295-5},
-  keywords  = {\_BibTex to MD Git;Economics;RNIB},
+  keywords  = {\_BibTex to MD Git;Economics;RNIB;git-lit},
   language  = {en},
   origdate  = {1979}
 }
@@ -811,7 +780,7 @@
                   sharing, this paper reports on program impact assessment
                   methodology as it is developing in the United States today.},
   url          = {http://dx.doi.org/10.1016/0149-7189(79)90048-x},
-  keywords     = {\_BibTex to MD Git;Politics and Society;Labor},
+  keywords     = {\_BibTex to MD Git;Politics and Society;Labor;git-lit},
   language     = {en}
 }
 
@@ -1325,7 +1294,7 @@
                   Monopoly Capital by promoting the continuation of the extant
                   social order.},
   url          = {http://dx.doi.org/10.1177/09500170022118383},
-  keywords     = {Braverman;\_BibTex to MD Git;Marx\_Labor;Labor},
+  keywords     = {Braverman;\_BibTex to MD Git;Marx\_Labor;Labor;git-lit},
   language     = {en}
 }
 
@@ -1431,7 +1400,7 @@
   url       = {http://dx.doi.org/10.1017/cbo9781139173865.013},
   keywords  = {\_BibTex to MD Git;003\_Theoretical Framework;Metaphor and
                Thought;Philosophy of Education;PhD Support and
-               Training;Psychology;Book (child)},
+               Training;Psychology;Book (child);git-lit},
   origdate  = {1979}
 }
 
@@ -1944,7 +1913,7 @@
   location  = {United Kingdom},
   date      = {2015},
   series    = {James Bond},
-  keywords  = {\_BibTex to MD Git;Multimedia}
+  keywords  = {\_BibTex to MD Git;Multimedia;git-lit}
 }
 
 @ARTICLE{Schmid2024-tx,
@@ -2031,7 +2000,7 @@
               science that concerns the origin, function, and structure of the
               psychological reflection of reality.},
   keywords = {\_BibTex to MD Git;Marx\_Labor;Knowledge - Skill
-              Acquisition;Education;Philosophy of Education},
+              Acquisition;Education;Philosophy of Education;git-lit},
   language = {en},
   origdate = {1975}
 }
@@ -2067,7 +2036,7 @@
                   relocation to high-wage, high-productivity areas. Finally, we
                   turn to policy implications.},
   url          = {http://dx.doi.org/10.1257/jep.32.1.3},
-  keywords     = {\_BibTex to MD Git;Economics},
+  keywords     = {\_BibTex to MD Git;Economics;git-lit},
   language     = {en}
 }
 
@@ -2100,41 +2069,8 @@
                new ideas to transform it.},
   series    = {Political Quarterly Monograph Series},
   note      = {See [[@Stiglitz2025-re]]},
-  keywords  = {EPubs Books;\_BibTex to MD Git;RNIB;Economics;ePub},
+  keywords  = {EPubs Books;\_BibTex to MD Git;RNIB;Economics;ePub;git-lit},
   language  = {en}
-}
-
-@ARTICLE{Glaeser2008-jr,
-  title        = {Housing supply and housing bubbles},
-  author       = {Glaeser, Edward L and Gyourko, Joseph and Saiz, Albert},
-  journaltitle = {Journal of Urban Economics},
-  publisher    = {Elsevier},
-  volume       = {64},
-  issue        = {2},
-  pages        = {198--217},
-  date         = {2008-09},
-  doi          = {10.1016/j.jue.2008.07.007},
-  issn         = {0094-1190,1095-9068},
-  abstract     = {Like many other assets, housing prices are quite volatile
-                  relative to observable changes in fundamentals. If we are
-                  going to understand boom-bust housing cycles, we must
-                  incorporate housing supply. In this paper, we present a simple
-                  model of housing bubbles that predicts that places with more
-                  elastic housing supply have fewer and shorter bubbles, with
-                  smaller price increases. However, the welfare consequences of
-                  bubbles may actually be higher in more elastic places because
-                  those places will overbuild more in response to a bubble. The
-                  data show that the price run-ups of the 1980s were almost
-                  exclusively experienced in cities where housing supply is more
-                  inelastic. More elastic places had slightly larger increases
-                  in building during that period. Over the past five years, a
-                  modest number of more elastic places also experienced large
-                  price booms, but as the model suggests, these booms seem to
-                  have been quite short. Prices are already moving back towards
-                  construction costs in those areas.},
-  url          = {http://dx.doi.org/10.1016/j.jue.2008.07.007},
-  keywords     = {\_BibTex to MD Git;Economics},
-  language     = {en}
 }
 
 @REPORT{Glaeser2002-vs,
@@ -2159,7 +2095,7 @@
                  in making housing expensive.},
   series      = {Working Paper Series},
   url         = {http://www.nber.org/papers/w8835},
-  keywords    = {\_BibTex to MD Git;Economics}
+  keywords    = {\_BibTex to MD Git;Economics;git-lit}
 }
 
 @ARTICLE{Smith2024-te,
@@ -2209,7 +2145,7 @@
                   since LMC appeared.},
   url          = {https://dx.doi.org/10.1093/cpe/bzae007},
   urldate      = {2026-06-09},
-  keywords     = {Braverman;\_BibTex to MD Git;Marx\_Labor;Labor},
+  keywords     = {Braverman;\_BibTex to MD Git;Marx\_Labor;Labor;git-lit},
   language     = {en}
 }
 
@@ -2421,7 +2357,7 @@
   issn      = {0031-8108,1558-1470},
   url       = {http://dx.doi.org/10.2307/2180803},
   keywords  = {003\_Theoretical Framework;\_BibTex to MD Git;Columbia
-               University;Education;Philosophy of Education}
+               University;Education;Philosophy of Education;git-lit}
 }
 
 @ARTICLE{Barlow2005-mk,
@@ -2451,7 +2387,7 @@
                   operates. Finally, we draw conclusions on the role of path
                   dependency in shaping Japan's mass customised housing sector.},
   url          = {http://dx.doi.org/10.1068/a3579},
-  keywords     = {Construction 4-0;\_BibTex to MD Git;Offsite\_NBLM;AEC},
+  keywords     = {Construction 4-0;\_BibTex to MD Git;Offsite\_NBLM;AEC;git-lit},
   language     = {en}
 }
 
@@ -2581,7 +2517,7 @@
                   Routledge via the DOI in this record.},
   url          = {http://dx.doi.org/10.1080/02667363.2024.2409451},
   urldate      = {2026-06-07},
-  keywords     = {Neurodiversity;\_BibTex to MD Git;Neurodiversity},
+  keywords     = {Neurodiversity;\_BibTex to MD Git;Neurodiversity;git-lit},
   language     = {en}
 }
 
@@ -2713,55 +2649,8 @@
                informal learning in VET.},
   url       = {http://dx.doi.org/10.1007/978-3-658-44341-2},
   keywords  = {Informal Learning in VET;\_BibTex to MD Git;EPubs Books;Workplace
-               Learning;VET;Book (parent);RNIB;ePub},
+               Learning;VET;Book (parent);RNIB;ePub;git-lit},
   language  = {en}
-}
-
-@ONLINE{Chase2025-dj,
-  title     = {The Dyslexia-{ADHD} Overlap: Why Evaluators Confuse the
-               Conditions},
-  author    = {Chase, Cheryl},
-  booktitle = {ADDitude},
-  publisher = {WebMD Professional Publishing},
-  date      = {2025-09-08},
-  abstract  = {A dyslexia evaluation should also consider ADHD, which may
-               co-occur with the reading disorder, mask its symptoms, and/or
-               complicate testing.},
-  url       = {https://www.additudemag.com/dyslexia-evaluation-adhd-comorbidity-overlap/},
-  keywords  = {Neurodiversity;\_BibTex to MD Git;Neurodiversity;Reader\_Obsidian},
-  language  = {en}
-}
-
-@ARTICLE{Sawchuk2006-od,
-  title        = {‘Use-Value’ and the Re-thinking of Skills, Learning and the
-                  Labour Process},
-  author       = {Sawchuk, Peter H},
-  journaltitle = {The Journal of Industrial Relations},
-  publisher    = {SAGE Publications},
-  volume       = {48},
-  issue        = {5},
-  pages        = {593--617},
-  date         = {2006-11},
-  doi          = {10.1177/0022185606070107},
-  issn         = {0022-1856,1472-9296},
-  abstract     = {Reviewing multiple traditions of social analysis of work,
-                  skill and knowledge this article seeks to renew the
-                  possibility for a critical, integrated approach.
-                  Contextualizing and then criticizing the ongoing
-                  ‘up-skilling/de-skilling impasse’, I offer discussion of
-                  several alternative conceptual resources that may contribute
-                  to a more robust appreciation for learning and human
-                  development, potentially unified under a suggested ‘Use-Value
-                  Thesis’ on the labour/learning process. It is argued that
-                  recognizing ‘use-value’ sets the stage for a broader systemic
-                  understanding of the contradictory processes (e.g.
-                  up-skilling/de-skilling, engagement/alienation,
-                  co-operation/conflict) that occur simultaneously in all
-                  workplaces under capitalism, and in turn offers a means to
-                  more coherently assess the full range of human learning.},
-  url          = {http://dx.doi.org/10.1177/0022185606070107},
-  keywords     = {Braverman;\_BibTex to MD Git;Marx\_Labor;Labor},
-  language     = {en}
 }
 
 @ARTICLE{Paavola2004-yu,
@@ -2793,7 +2682,7 @@
                   have become especially important in a knowledge society.},
   url          = {http://dx.doi.org/10.3102/00346543074004557},
   keywords     = {\_BibTex to MD Git;Knowledge - Skill Acquisition;Philosophy of
-                  Education;Workplace Learning},
+                  Education;Workplace Learning;git-lit},
   language     = {en}
 }
 
@@ -2835,7 +2724,7 @@
                   section IV the implementation of these strategies in practice
                   is discussed.},
   url          = {http://dx.doi.org/10.1177/030981687700100104},
-  keywords     = {Braverman;\_BibTex to MD Git;Marx\_Labor;Labor},
+  keywords     = {Braverman;\_BibTex to MD Git;Marx\_Labor;Labor;git-lit},
   language     = {en}
 }
 
@@ -2919,7 +2808,8 @@
                balanced consideration of the most important social movements of
                his and our time.},
   url       = {http://dx.doi.org/10.4324/9780203202050},
-  keywords  = {Schumpeter\_1976;\_BibTex to MD Git;Economics;Book (parent)}
+  keywords  = {Schumpeter\_1976;\_BibTex to MD Git;Economics;Book
+               (parent);git-lit}
 }
 
 @ARTICLE{Dainis2026-qc,
@@ -2981,7 +2871,7 @@
                into the},
   url       = {http://www.jstor.org/stable/j.ctt9qfrkf.4},
   keywords  = {Labor-Monopoly-Book;\_BibTex to MD Git;Book (child);ePub;Book
-               (physical);Labor}
+               (physical);Labor;git-lit}
 }
 
 @INBOOK{Braverman1974-xl,
@@ -3019,7 +2909,7 @@
                potential—all in the name of efficiency},
   url       = {http://www.jstor.org/stable/j.ctt9qfrkf.3},
   keywords  = {Labor-Monopoly-Book;\_BibTex to MD Git;Book (child);ePub;Book
-               (physical);Labor}
+               (physical);Labor;git-lit}
 }
 
 @INBOOK{Braverman1974-um,
@@ -3566,7 +3456,7 @@
                   consequences of the market and the possible solutions they
                   propose.},
   url          = {http://dx.doi.org/10.1080/09672567.2019.1635182},
-  keywords     = {Marx\_Labor;\_BibTex to MD Git;Labor;Economics},
+  keywords     = {Marx\_Labor;\_BibTex to MD Git;Labor;Economics;git-lit},
   language     = {en}
 }
 
@@ -3608,7 +3498,8 @@
                   over in an endless cycle. But in so doing it created new
                   worlds of labor, a molten working class.},
   url          = {http://dx.doi.org/10.1177/10957960251332233},
-  keywords     = {\_BibTex to MD Git;Braverman;Marx\_Labor;Labor;Economics},
+  keywords     = {\_BibTex to MD
+                  Git;Braverman;Marx\_Labor;Labor;Economics;git-lit},
   language     = {en}
 }
 
@@ -3727,7 +3618,7 @@
                relation to major theories of learning and development.},
   series    = {Understanding Children's Worlds},
   keywords  = {\_BibTex to MD Git;Knowledge - Skill Acquisition;Philosophy of
-               Education;Education},
+               Education;Education;git-lit},
   language  = {en}
 }
 
@@ -3779,7 +3670,7 @@
                psychiatry, and physical chemistry.},
   url       = {http://dx.doi.org/10.1037/11247-012},
   keywords  = {\_BibTex to MD Git;003\_Theoretical Framework;Philosophy of
-               Education;Education}
+               Education;Education;git-lit}
 }
 
 @BOOK{Pierce2003-wi,
@@ -3799,7 +3690,7 @@
                to explain human behavior, researchers must understand the
                interactions between an individual and his or her environment.},
   keywords  = {\_BibTex to MD Git;003\_Theoretical
-               Framework;Psychology;Philosophy of Education},
+               Framework;Psychology;Philosophy of Education;git-lit},
   language  = {en}
 }
 
@@ -3834,7 +3725,7 @@
                of beliefs, desires and purposes which are formed in the
                interaction of biological aptitudes with a social environment.},
   keywords  = {003\_Theoretical Framework;\_BibTex to MD Git;Columbia
-               University;Education;Philosophy of Education},
+               University;Education;Philosophy of Education;git-lit},
   language  = {en}
 }
 
@@ -3925,7 +3816,8 @@
                Netherlands and Japan, but is less widely adopted in countries
                such as Australia, the UK and US.},
   url       = {http://dx.doi.org/10.1007/978-3-319-31967-4_3},
-  keywords  = {\_BibTex to MD Git;Book (child);ePub;Cross Ref Chapter;AEC}
+  keywords  = {\_BibTex to MD Git;Book (child);ePub;Cross Ref
+               Chapter;AEC;git-lit}
 }
 
 @INBOOK{Billett2012-xz,
@@ -3964,7 +3856,7 @@
                is interdependent and relational.},
   url       = {http://dx.doi.org/10.1057/9781137014764_5},
   keywords  = {\_BibTex to MD Git;Knowledge - Skill Acquisition;Workplace
-               Learning}
+               Learning;git-lit}
 }
 
 @REPORT{Francis-Devine2025-kg,
@@ -4031,7 +3923,7 @@
                necessary knowledge and skills for competence.},
   url       = {http://dx.doi.org/10.4324/9781315042091},
   keywords  = {Rowland;\_BibTex to MD Git;Book (parent);Training;Workplace
-               Learning;Knowledge - Skill Acquisition},
+               Learning;Knowledge - Skill Acquisition;git-lit},
   language  = {en}
 }
 
@@ -4169,7 +4061,7 @@
                 regarding future stability and progress.},
   url        = {http://dx.doi.org/10.65388/tmif5530},
   keywords   = {AEC\_learning\_theory\_2021-26;\_BibTex to MD
-                Git;AEC;Training;VET;Knowledge - Skill Acquisition}
+                Git;AEC;Training;VET;Knowledge - Skill Acquisition;git-lit}
 }
 
 @ARTICLE{Bader2025-xa,
@@ -4214,7 +4106,7 @@
                   models on a concrete pedagogical basis.},
   url          = {http://dx.doi.org/10.1061/jceecd.eieng-2065},
   keywords     = {AEC\_learning\_theory\_2021-26;\_BibTex to MD
-                  Git;AEC;Training;VET;Knowledge - Skill Acquisition},
+                  Git;AEC;Training;VET;Knowledge - Skill Acquisition;git-lit},
   language     = {en}
 }
 
@@ -6794,7 +6686,7 @@
   series    = {Education Policy Analysis},
   url       = {http://dx.doi.org/10.1787/epa-2006-en},
   keywords  = {\_BibTex to MD Git;Education;Knowledge - Skill Acquisition;Skill
-               demand;Labor;VET},
+               demand;Labor;VET;git-lit},
   language  = {en}
 }
 
@@ -7229,7 +7121,7 @@
                   side of any bargain with employees.},
   url          = {http://dx.doi.org/10.1177/0950017003017002007},
   note         = {See also: [[@Milkman1998-oe]]},
-  keywords     = {\_BibTex to MD Git;Marx\_Labor;Labor;Economics},
+  keywords     = {\_BibTex to MD Git;Marx\_Labor;Labor;Economics;git-lit},
   language     = {en}
 }
 
@@ -10944,7 +10836,7 @@
   series    = {Learning in Doing: Social, Cognitive and Computational
                Perspectives},
   keywords  = {Contested Learning in Welfare Work;\_BibTex to MD
-               Git;Braverman;Marx\_Labor;Book (child)}
+               Git;Braverman;Marx\_Labor;Book (child);git-lit}
 }
 
 @INBOOK{Sawchuk2013-xn,
@@ -11527,7 +11419,7 @@
                van der Veer and Vlasiner's Understanding Vygotsky.},
   keywords  = {\_BibTex to MD Git;003\_Theoretical
                Framework;Psychology;Knowledge - Skill
-               Acquisition;Education;Philosophy of Education}
+               Acquisition;Education;Philosophy of Education;git-lit}
 }
 
 @ARTICLE{Roth2016-zl,
@@ -11555,7 +11447,7 @@
                   of the theory he had established before.},
   url          = {http://dx.doi.org/10.1080/10749039.2016.1186197},
   keywords     = {\_BibTex to MD Git;003\_Theoretical
-                  Framework;Marx\_Labor;003\_NBLM;Psychology},
+                  Framework;Marx\_Labor;003\_NBLM;Psychology;git-lit},
   language     = {en}
 }
 
@@ -11876,7 +11768,7 @@
                resource management.},
   url       = {http://dx.doi.org/10.1007/978-1-349-26346-2_2},
   keywords  = {Workplaces of the Future;\_BibTex to MD Git;003\_Theoretical
-               Framework;Future of Work;Labor;Book (child);RNIB},
+               Framework;Future of Work;Labor;Book (child);RNIB;git-lit},
   language  = {en}
 }
 
@@ -11914,7 +11806,7 @@
   url       = {http://dx.doi.org/10.1007/978-1-349-26346-2_3},
   keywords  = {Workplaces of the Future;\_BibTex to MD Git;003\_Theoretical
                Framework;RCPSP\_Takt\_Taylorism;Future of Work;Labor;Book
-               (child);RNIB},
+               (child);RNIB;git-lit},
   language  = {en}
 }
 
@@ -11937,7 +11829,7 @@
   keywords  = {Workplaces of the Future;\_BibTex to MD
                Git;Braverman;003\_Theoretical
                Framework;Marx\_Labor;Econ-Labor;Book (parent);Future of
-               Work;Labor;RNIB},
+               Work;Labor;RNIB;git-lit},
   language  = {en}
 }
 
@@ -11983,7 +11875,7 @@
   url       = {http://dx.doi.org/10.1007/978-1-349-26346-2_9},
   keywords  = {Workplaces of the Future;\_BibTex to MD Git;003\_Theoretical
                Framework;RCPSP\_Takt\_Taylorism;Future of Work;Labor;Book
-               (child);RNIB}
+               (child);RNIB;git-lit}
 }
 
 @BOOK{Taylor1911-mi,
@@ -12017,7 +11909,8 @@
                monograph consisted of three sections: Introduction, Chapter 1:
                Fundamentals of Scientific Management, and Chapter 2: The
                Principles of Scientific Management.},
-  keywords  = {\_BibTex to MD Git;Politics and Society;Labor;Reader\_Obsidian}
+  keywords  = {\_BibTex to MD Git;Politics and
+               Society;Labor;Reader\_Obsidian;git-lit}
 }
 
 @BOOK{Danford1999-jn,
@@ -12054,7 +11947,7 @@
   url       = {http://dx.doi.org/10.4324/9781315788846},
   keywords  = {EPubs Books;\_BibTex to MD
                Git;Braverman;Marx\_Labor;RCPSP\_Takt\_Taylorism;Labor;Workplace
-               Learning;Economics;ePub}
+               Learning;Economics;ePub;git-lit}
 }
 
 @ARTICLE{Welton1991-jd,
@@ -12089,7 +11982,7 @@
                   Adult Education to pick up the slack or engage in historical
                   studies did not help matters.},
   url          = {http://dx.doi.org/10.32316/hse/rhe.v3i2.1273},
-  keywords     = {\_BibTex to MD Git;Education}
+  keywords     = {\_BibTex to MD Git;Education;git-lit}
 }
 
 @BOOK{Gallie1978-jq,
@@ -12160,7 +12053,7 @@
                   contexts. This abstract necessarily simplifies a more complex
                   analysis in the paper itself.},
   url          = {http://dx.doi.org/10.1348/000709900158001},
-  keywords     = {\_BibTex to MD Git;Workplace Learning},
+  keywords     = {\_BibTex to MD Git;Workplace Learning;git-lit},
   language     = {en}
 }
 
@@ -12205,7 +12098,7 @@
                the project’s work, readers are referred to project publications
                and our forthcoming book.},
   url       = {http://dx.doi.org/10.51952/9781847425126.ch007},
-  keywords  = {\_BibTex to MD Git;Workplace Learning}
+  keywords  = {\_BibTex to MD Git;Workplace Learning;git-lit}
 }
 
 @ARTICLE{Ellstrom2010-rw,
@@ -12237,7 +12130,7 @@
                   and research on workplace learning.},
   url          = {http://dx.doi.org/10.1108/13665621011012834},
   keywords     = {\_BibTex to MD Git;Braverman;Workplace Learning;Knowledge -
-                  Skill Acquisition},
+                  Skill Acquisition;git-lit},
   language     = {en}
 }
 
@@ -12277,7 +12170,7 @@
                bestseller, Wheelan defies the odds yet again by bringing another
                essential, formerly unglamorous discipline to life.},
   keywords  = {Whitehall Study;Data Stats Figures;\_BibTex to MD
-               Git;Audiobook;Economics;Digital Literacies;Statistics},
+               Git;Audiobook;Economics;Digital Literacies;Statistics;git-lit},
   language  = {en}
 }
 
@@ -12322,7 +12215,7 @@
                   design, and the consequences of income inequality.},
   url          = {http://dx.doi.org/10.1016/0140-6736(91)93068-k},
   keywords     = {Whitehall Study;ERC-ex-re;\_BibTex to MD Git;Healthcare and
-                  CME;Labor;Workplace Learning;Employment;UCL},
+                  CME;Labor;Workplace Learning;Employment;UCL;git-lit},
   language     = {en}
 }
 
@@ -12350,7 +12243,7 @@
                significant occupational health risk.},
   url       = {https://www.math.hkbu.edu.hk/~hpeng/GFQR1307/Lecture_Note6_2.html},
   keywords  = {Whitehall Study;Data Stats Figures;\_BibTex to MD Git;Healthcare
-               and CME;Website;Statistics}
+               and CME;Website;Statistics;git-lit}
 }
 
 @REPORT{Marmot2008-xy,
@@ -12406,7 +12299,7 @@
                  equity within a generation is achievable, it is the right thing
                  to do, and now is the right time to do it.},
   keywords    = {Government Report;Whitehall Study;\_BibTex to MD Git;Healthcare
-                 and CME;UCL;Report}
+                 and CME;UCL;Report;git-lit}
 }
 
 @BOOK{Marmot2016-bk,
@@ -12454,7 +12347,8 @@
                for a radical change in the way we think about health and indeed
                society, and inspires us to address the societal imbalances in
                power, money, and resources that work against health equity.},
-  keywords  = {EPubs Books;Healthcare and CME;\_BibTex to MD Git;UCL;RNIB;ePub}
+  keywords  = {EPubs Books;Healthcare and CME;\_BibTex to MD
+               Git;UCL;RNIB;ePub;git-lit}
 }
 
 @ARTICLE{Kaufman2003-by,
@@ -12489,7 +12383,7 @@
   keywords     = {\_BibTex to MD
                   Git;AEC\_learning\_theory\_2021-26;003\_Theoretical
                   Framework;003\_NBLM;Knowledge - Skill Acquisition;Workplace
-                  Learning},
+                  Learning;git-lit},
   language     = {en}
 }
 
@@ -12528,7 +12422,8 @@
                ideas. By using Bloom's Taxonomy, educators can foster a more
                engaging and effective learning environment that prepares
                students for complex problem-solving and critical thinking tasks.},
-  keywords  = {AEC\_learning\_theory\_2021-26;\_BibTex to MD Git;AEC;Training}
+  keywords  = {AEC\_learning\_theory\_2021-26;\_BibTex to MD
+               Git;AEC;Training;git-lit}
 }
 
 @ARTICLE{Lensjo2020-mv,
@@ -12591,7 +12486,8 @@
                   relevant things and situations, and by sharing experiences and
                   technical expertise in communities of peers and plumbers.},
   url          = {http://dx.doi.org/10.13152/ijrvet.7.2.2},
-  keywords     = {AEC\_learning\_theory\_2021-26;\_BibTex to MD Git;AEC;Training}
+  keywords     = {AEC\_learning\_theory\_2021-26;\_BibTex to MD
+                  Git;AEC;Training;git-lit}
 }
 
 @INBOOK{Simu2019-by,
@@ -12638,7 +12534,8 @@
                of learning and sustainable and continuous improvements where the
                operators are the main actors that enable productive activity.},
   url       = {http://dx.doi.org/10.1108/s2516-285320190000002049},
-  keywords  = {AEC\_learning\_theory\_2021-26;\_BibTex to MD Git;AEC;Training},
+  keywords  = {AEC\_learning\_theory\_2021-26;\_BibTex to MD
+               Git;AEC;Training;git-lit},
   language  = {en}
 }
 
@@ -12687,7 +12584,8 @@
                   developing IICE and present preliminary findings from time and
                   motion pilot studies.},
   url          = {http://dx.doi.org/10.3389/frvir.2022.781170},
-  keywords     = {AEC\_learning\_theory\_2021-26;\_BibTex to MD Git;AEC;Training}
+  keywords     = {AEC\_learning\_theory\_2021-26;\_BibTex to MD
+                  Git;AEC;Training;git-lit}
 }
 
 @ARTICLE{Nielsen2021-xt,
@@ -12727,7 +12625,8 @@
                   be used both by professionals and organizations interested in
                   maximising transfer of safety training for migrant workers.},
   url          = {http://dx.doi.org/10.1016/j.ssci.2021.105246},
-  keywords     = {AEC\_learning\_theory\_2021-26;\_BibTex to MD Git;AEC;Training},
+  keywords     = {AEC\_learning\_theory\_2021-26;\_BibTex to MD
+                  Git;AEC;Training;git-lit},
   language     = {en}
 }
 
@@ -12769,7 +12668,7 @@
   url          = {https://www.tandfonline.com/doi/abs/10.1080/02678373.2022.2086646},
   keywords     = {AEC\_learning\_theory\_2021-26;\_BibTex to MD
                   Git;003\_NBLM;Training;AEC;Workplace Learning;Philosophy of
-                  Education},
+                  Education;git-lit},
   language     = {en}
 }
 
@@ -12813,7 +12712,8 @@
                   increase transfer of training that could help the construction
                   sector develop safe working cultures.},
   url          = {http://dx.doi.org/10.1016/j.ssci.2020.105124},
-  keywords     = {AEC\_learning\_theory\_2021-26;\_BibTex to MD Git;AEC;Training},
+  keywords     = {AEC\_learning\_theory\_2021-26;\_BibTex to MD
+                  Git;AEC;Training;git-lit},
   language     = {en}
 }
 
@@ -12858,7 +12758,7 @@
   url          = {http://dx.doi.org/10.1037/apl0000142},
   keywords     = {AEC\_learning\_theory\_2021-26;\_BibTex to MD
                   Git;003\_Theoretical
-                  Framework;RCPSP\_Takt\_Taylorism;Training;Psychology},
+                  Framework;RCPSP\_Takt\_Taylorism;Training;Psychology;git-lit},
   language     = {en}
 }
 
@@ -12949,7 +12849,7 @@
                   focusing training evaluation on measuring behavioral outcomes
                   and differential effects of competing training strategies.<br>},
   keywords     = {AEC\_learning\_theory\_2021-26;\_BibTex to MD
-                  Git;003\_Theoretical Framework;Training;Psychology},
+                  Git;003\_Theoretical Framework;Training;Psychology;git-lit},
   language     = {en}
 }
 
@@ -12980,7 +12880,7 @@
   series    = {Applied Psychology Series},
   url       = {http://dx.doi.org/10.4324/9781315820972},
   keywords  = {EPubs Books;AEC\_learning\_theory\_2021-26;\_BibTex to MD
-               Git;ePub;RNIB;Psychology;Training;Book (parent)}
+               Git;ePub;RNIB;Psychology;Training;Book (parent);git-lit}
 }
 
 @ARTICLE{Wagner1987-jz,
@@ -13015,7 +12915,7 @@
                   business management.},
   url          = {http://dx.doi.org/10.1037/0022-3514.52.6.1236},
   keywords     = {AEC\_learning\_theory\_2021-26;\_BibTex to MD
-                  Git;Training;Psychology},
+                  Git;Training;Psychology;git-lit},
   language     = {en}
 }
 
@@ -13054,7 +12954,7 @@
   url       = {http://dx.doi.org/10.4324/9781315820972-24},
   keywords  = {AEC\_learning\_theory\_2021-26;\_BibTex to MD Git;EPubs
                Books;RCPSP\_Takt\_Taylorism;Book (child);Cross Ref
-               Chapter;ePub;RNIB;Psychology;Workplace Learning;Training}
+               Chapter;ePub;RNIB;Psychology;Workplace Learning;Training;git-lit}
 }
 
 @INBOOK{Turing2021-xa,
@@ -13112,7 +13012,7 @@
                   apprenticeship model, may address problems of access to
                   effective vocational skill development within the workforces.},
   url          = {http://dx.doi.org/10.1108/00197859410073745},
-  keywords     = {\_BibTex to MD Git},
+  keywords     = {\_BibTex to MD Git;git-lit},
   language     = {en}
 }
 
@@ -13137,7 +13037,7 @@
                 consequently, the development of a workplace pedagogy.},
   url        = {https://infed.org/dir/welcome/critiquing-workplace-learning-discourses-participation-and-continuity-at-work/},
   keywords   = {\_BibTex to MD Git;Reader\_Obsidian;Knowledge - Skill
-                Acquisition;Workplace Learning},
+                Acquisition;Workplace Learning;git-lit},
   language   = {en}
 }
 
@@ -13283,7 +13183,7 @@
                training programs.},
   url       = {http://dx.doi.org/10.1093/oxfordhb/9780199655366.013.2},
   keywords  = {Oxford Handbook of Skills and Training;\_BibTex to MD Git;EPubs
-               Books;Book (child);ePub;Workplace Learning;VET}
+               Books;Book (child);ePub;Workplace Learning;VET;git-lit}
 }
 
 @INBOOK{Buchanan2017-sg,
@@ -13315,7 +13215,7 @@
                continue – but in different forms.},
   url       = {http://dx.doi.org/10.1093/oxfordhb/9780199655366.013.33},
   keywords  = {Oxford Handbook of Skills and Training;\_BibTex to MD Git;EPubs
-               Books;Book (child);ePub;Workplace Learning;VET}
+               Books;Book (child);ePub;Workplace Learning;VET;git-lit}
 }
 
 @INBOOK{Payne2017-tu,
@@ -13345,7 +13245,7 @@
                complexity and worker autonomy.},
   url       = {http://dx.doi.org/10.1093/oxfordhb/9780199655366.013.3},
   keywords  = {Oxford Handbook of Skills and Training;\_BibTex to MD Git;EPubs
-               Books;Book (child);ePub;Workplace Learning;VET}
+               Books;Book (child);ePub;Workplace Learning;VET;git-lit}
 }
 
 @INBOOK{Warhurst2017-dt,
@@ -13379,7 +13279,7 @@
                social construction of skill might be addressed.},
   url       = {http://dx.doi.org/10.1093/oxfordhb/9780199655366.013.4},
   keywords  = {Oxford Handbook of Skills and Training;\_BibTex to MD Git;EPubs
-               Books;Book (child);ePub;Workplace Learning;VET}
+               Books;Book (child);ePub;Workplace Learning;VET;git-lit}
 }
 
 @INBOOK{Handel2017-ok,
@@ -13409,7 +13309,7 @@
                comparisons with other established measures of job skill content.},
   url       = {http://dx.doi.org/10.1093/oxfordhb/9780199655366.013.5},
   keywords  = {Oxford Handbook of Skills and Training;\_BibTex to MD Git;EPubs
-               Books;Book (child);ePub;Workplace Learning;VET}
+               Books;Book (child);ePub;Workplace Learning;VET;git-lit}
 }
 
 @INBOOK{Stanley2017-xe,
@@ -13440,7 +13340,7 @@
                developing generic skills in all sectors of education.},
   url       = {http://dx.doi.org/10.1093/oxfordhb/9780199655366.013.6},
   keywords  = {Oxford Handbook of Skills and Training;\_BibTex to MD Git;EPubs
-               Books;Book (child);ePub;Workplace Learning;VET}
+               Books;Book (child);ePub;Workplace Learning;VET;git-lit}
 }
 
 @INBOOK{Schoenenberger2024-cs,
@@ -13465,7 +13365,8 @@
                down shortly after the Nazis took power in 1933.},
   url       = {http://dx.doi.org/10.1007/978-3-031-37813-3_7},
   keywords  = {Connected Learning\_Schoenenberger;\_BibTex to MD Git;EPubs
-               Books;AEC;Knowledge - Skill Acquisition;Book (child);RNIB;ePub},
+               Books;AEC;Knowledge - Skill Acquisition;Book
+               (child);RNIB;ePub;git-lit},
   language  = {en}
 }
 
@@ -13549,7 +13450,8 @@
                   word of mouth and did not know if anyone would attend that
                   first night. …},
   url          = {http://dx.doi.org/10.1177/104515950401500305},
-  keywords     = {\_BibTex to MD Git;Education;Knowledge - Skill Acquisition},
+  keywords     = {\_BibTex to MD Git;Education;Knowledge - Skill
+                  Acquisition;git-lit},
   language     = {en}
 }
 
@@ -13582,7 +13484,8 @@
                   application of this complex concept.},
   url          = {http://dx.doi.org/10.1080/00098650903505357},
   urldate      = {2026-05-20},
-  keywords     = {\_BibTex to MD Git;Education;Knowledge - Skill Acquisition},
+  keywords     = {\_BibTex to MD Git;Education;Knowledge - Skill
+                  Acquisition;git-lit},
   language     = {en}
 }
 
@@ -13623,7 +13526,7 @@
                   into the design of curriculum which aim to support learning
                   with generalisable qualities.},
   url          = {http://dx.doi.org/10.1111/jade.12598},
-  keywords     = {\_BibTex to MD Git;AEC;Knowledge - Skill Acquisition},
+  keywords     = {\_BibTex to MD Git;AEC;Knowledge - Skill Acquisition;git-lit},
   language     = {en}
 }
 
@@ -13653,7 +13556,7 @@
   url       = {http://dx.doi.org/10.1093/oxfordhb/9780199655366.013.1},
   keywords  = {Oxford Handbook of Skills and Training;\_BibTex to MD Git;EPubs
                Books;Braverman;Marx\_Labor;Book (child);ePub;Workplace
-               Learning;VET}
+               Learning;VET;git-lit}
 }
 
 @ARTICLE{Rowland2023-kc,
@@ -13688,7 +13591,7 @@
                   research on work and workplaces.},
   url          = {https://journals.lww.com/10.1097/CEH.0000000000000531},
   keywords     = {\_BibTex to MD Git;ERC-ex-re;Knowledge - Skill
-                  Acquisition;Workplace Learning;Essential},
+                  Acquisition;Workplace Learning;Essential;git-lit},
   language     = {en}
 }
 
@@ -13748,7 +13651,7 @@
                 rich nations are not so far ahead of poor nations in agriculture
                 as in manufacturing.},
   keywords   = {\_BibTex to MD Git;EPubs Books;Marx\_Labor;Economics;Politics
-                and Society;Labor;ePub},
+                and Society;Labor;ePub;git-lit},
   origtitle  = {An Inquiry into the Nature and Causes of the Wealth of Nations},
   volumes    = {3}
 }
@@ -13775,7 +13678,7 @@
                 into two parts. That part which, he expects, is to afford him
                 this revenue, is called his capital.},
   keywords   = {\_BibTex to MD Git;EPubs Books;Economics;Politics and
-                Society;Labor;ePub},
+                Society;Labor;ePub;git-lit},
   origtitle  = {An Inquiry into the Nature and Causes of the Wealth of Nations},
   volumes    = {3}
 }
@@ -13796,7 +13699,7 @@
                 trade occur in cities while agriculture occurs in the
                 countryside.},
   keywords   = {\_BibTex to MD Git;EPubs Books;Economics;Politics and
-                Society;Labor;ePub},
+                Society;Labor;ePub;git-lit},
   origtitle  = {An Inquiry into the Nature and Causes of the Wealth of Nations},
   volumes    = {3}
 }
@@ -13812,7 +13715,7 @@
                   T Levels still have issues to iron out, and the current BTECs
                   provide a better route to work.},
   url          = {https://www.fenews.co.uk/resources/vet-in-fe-t-levels-and-btec-programmes/},
-  keywords     = {\_BibTex to MD Git;UCL;VET},
+  keywords     = {\_BibTex to MD Git;UCL;VET;git-lit},
   language     = {en}
 }
 
@@ -13837,7 +13740,7 @@
                means to be “American” - and how power really works in the modern
                world.},
   keywords  = {EPubs Books;\_BibTex to MD Git;Economics;Politics and
-               Society;ePub;RNIB},
+               Society;ePub;RNIB;git-lit},
   language  = {en}
 }
 
@@ -13864,7 +13767,7 @@
                 public understanding and debate.},
   url        = {http://www.michaelcrichton.net/speech-whyspeculate.html},
   keywords   = {\_BibTex to MD Git;Economics;Politics and
-                Society;General-Interest-Periodicals-United-States;Reader\_Obsidian}
+                Society;General-Interest-Periodicals-United-States;Reader\_Obsidian;git-lit}
 }
 
 @ARTICLE{Burkholder2000-xi,
@@ -13917,7 +13820,7 @@
                of nations.},
   series    = {The Wealth of Nations},
   keywords  = {\_BibTex to MD Git;EPubs Books;ePub;RNIB;Economics;Labor;Politics
-               and Society}
+               and Society;git-lit}
 }
 
 @BOOK{Smith1776-zu,
@@ -13949,7 +13852,7 @@
               state finances.},
   series   = {The Wealth of Nations},
   keywords = {\_BibTex to MD Git;EPubs Books;ePub;RNIB;Economics;Labor;Politics
-              and Society}
+              and Society;git-lit}
 }
 
 @ARTICLE{Buhler2025-wp,
@@ -14027,7 +13930,7 @@
                contemporary psychology.},
   url       = {http://dx.doi.org/10.2307/j.ctvjf9vz4.4},
   keywords  = {Mind in Society;\_BibTex to MD Git;EPubs Books;Marx\_Labor;Book
-               (child);ePub;Knowledge - Skill Acquisition;Psychology}
+               (child);ePub;Knowledge - Skill Acquisition;Psychology;git-lit}
 }
 
 @ARTICLE{Billett2006-rh,
@@ -14065,37 +13968,8 @@
                   views that currently privilege particular social influences in
                   conceptions of learning for work and throughout working life.},
   url          = {http://dx.doi.org/10.1207/s15327884mca1301_5},
-  keywords     = {ERC-ex-re;\_BibTex to MD Git;Workplace Learning},
+  keywords     = {ERC-ex-re;\_BibTex to MD Git;Workplace Learning;git-lit},
   language     = {en}
-}
-
-@INBOOK{Harteis2014-pr,
-  title     = {Discourses on Professional Learning: On the Boundary Between
-               Learning and Working},
-  author    = {Harteis, Christian and Rausch, Andreas and Seifried, Jürgen},
-  editor    = {Harteis, Christian and Rausch, Andreas and Seifried, Jürgen},
-  booktitle = {Discourses on Professional Learning: On the Boundary Between
-               Learning and Working},
-  publisher = {Springer},
-  pages     = {1--7},
-  date      = {2014},
-  doi       = {10.1007/978-94-007-7012-6_1},
-  issn      = {2210-5549,2210-5557},
-  isbn      = {9789400770119,9789400770126},
-  abstract  = {Research on workplace learning brings learning and working
-               together and investigates the relationships between working and
-               learning. Working and learning are determining factors of human
-               activity, but are they in conflict with each other or is there a
-               coincidence of working and learning? Where are the boundaries
-               between working and learning and how can they be characterised?
-               When discussing the boundary between learning and working, three
-               questions arise: (1) How do boundaries become apparent? (2) Why
-               should we cross these boundaries? (3) How can we cross these
-               boundaries? This reader comprises attempts to approach these
-               questions.},
-  url       = {http://dx.doi.org/10.1007/978-94-007-7012-6_1},
-  keywords  = {Discourses on Professional Learning;\_BibTex to MD Git;EPubs
-               Books;Book (child);Workplace Learning;ePub}
 }
 
 @BOOK{Gibbs2012-mg,
@@ -14126,7 +14000,7 @@
                in the face of tightening economic constraints.},
   url       = {http://dx.doi.org/10.1007/978-94-007-4759-3},
   keywords  = {Learning\_Work\_Practice;\_BibTex to MD Git;EPubs Books;Workplace
-               Learning;Psychology;Book (parent);ePub},
+               Learning;Psychology;Book (parent);ePub;git-lit},
   language  = {en}
 }
 
@@ -14165,7 +14039,7 @@
                support an organization's learning culture.},
   url       = {https://doi.org/10.1007/978-94-007-7012-6_2},
   keywords  = {Discourses on Professional Learning;\_BibTex to MD Git;EPubs
-               Books;Book (child);Workplace Learning;ePub}
+               Books;Book (child);Workplace Learning;ePub;git-lit}
 }
 
 @INBOOK{Fuller2024-wq,
@@ -14198,7 +14072,7 @@
                but additionally it enables implications for improving policy and
                practice to be identified.},
   keywords  = {Informal Learning in VET;\_BibTex to MD Git;EPubs Books;Book
-               (child);ePub;RNIB;VET;Workplace Learning;UCL}
+               (child);ePub;RNIB;VET;Workplace Learning;UCL;git-lit}
 }
 
 @ARTICLE{Phillips1996-is,
@@ -14227,7 +14101,8 @@
                   from external studies, or use estimates of participants,
                   supervisors, senior managers and human resources.},
   url          = {https://link.gale.com/apps/doc/A18434799/AONE},
-  keywords     = {\_BibTex to MD Git;Training;Knowledge - Skill Acquisition}
+  keywords     = {\_BibTex to MD Git;Training;Knowledge - Skill
+                  Acquisition;git-lit}
 }
 
 @INBOOK{Lewis2012-iu,
@@ -14270,7 +14145,7 @@
   url       = {https://doi.org/10.1007/978-94-007-4759-3_4},
   keywords  = {Learning\_Work\_Practice;\_BibTex to MD
                Git;Braverman;003\_Theoretical Framework;Book (child);Workplace
-               Learning}
+               Learning;git-lit}
 }
 
 @INBOOK{Beckett2012-si,
@@ -14306,7 +14181,7 @@
                each other?},
   url       = {https://doi.org/10.1007/978-94-007-4759-3_6},
   keywords  = {Learning\_Work\_Practice;\_BibTex to MD Git;003\_NBLM;Book
-               (child);Workplace Learning}
+               (child);Workplace Learning;git-lit}
 }
 
 @INBOOK{Hager2012-vm,
@@ -14350,7 +14225,7 @@
                adopting various construals of the term practice.},
   url       = {https://doi.org/10.1007/978-94-007-4759-3_7},
   keywords  = {Learning\_Work\_Practice;\_BibTex to MD Git;Book
-               (child);Workplace Learning}
+               (child);Workplace Learning;git-lit}
 }
 
 @ARTICLE{Tynjala2008-ct,
@@ -14384,7 +14259,7 @@
                   changes taking place in working life.},
   url          = {http://dx.doi.org/10.1016/j.edurev.2007.12.001},
   keywords     = {\_BibTex to MD Git;Workplace Learning;Knowledge - Skill
-                  Acquisition},
+                  Acquisition;git-lit},
   language     = {en}
 }
 
@@ -14430,7 +14305,7 @@
   url          = {http://dx.doi.org/10.1080/01446193.2026.2676650},
   urldate      = {2026-06-02},
   keywords     = {Construction 4-0;BSSC Seed Fund for AI Research;\_BibTex to MD
-                  Git;AEC;Technological change},
+                  Git;AEC;Technological change;git-lit},
   language     = {en}
 }
 
@@ -14489,7 +14364,7 @@
   keywords     = {\_BibTex to MD Git;003\_Theoretical
                   Framework;Marx\_Labor;RCPSP\_Takt\_Taylorism;Workplace
                   Learning;Knowledge - Skill Acquisition;Skill demand;job
-                  satisfaction},
+                  satisfaction;git-lit},
   language     = {en}
 }
 
@@ -14532,7 +14407,7 @@
   urldate      = {2026-06-02},
   keywords     = {\_BibTex to MD Git;003\_Theoretical
                   Framework;Marx\_Labor;Columbia University;Education;Knowledge
-                  - Skill Acquisition;Philosophy of Education}
+                  - Skill Acquisition;Philosophy of Education;git-lit}
 }
 
 @BOOK{Lagemann2000-fz,
@@ -14549,7 +14424,7 @@
                Elusive Science explains why, providing a critical history of the
                traditions, conflicts, and institutions that have shaped the
                study of education over the past century.},
-  keywords  = {\_BibTex to MD Git;Philosophy of Education;Education;RNIB},
+  keywords  = {\_BibTex to MD Git;Philosophy of Education;Education;RNIB;git-lit},
   language  = {en}
 }
 
@@ -14586,7 +14461,8 @@
                Dewey's approach are discussed.},
   url       = {http://dx.doi.org/10.4324/9780203763865-69},
   keywords  = {\_BibTex to MD Git;003\_Theoretical
-               Framework;Education;Philosophy of Education;Columbia University}
+               Framework;Education;Philosophy of Education;Columbia
+               University;git-lit}
 }
 
 @BOOK{Thorndike1913-kp,
@@ -14612,7 +14488,7 @@
                students of educational psychology need.},
   url       = {https://doi.org/10.1037/13051-000},
   keywords  = {\_BibTex to MD Git;Education;Philosophy of
-               Education;Psychology;Columbia University},
+               Education;Psychology;Columbia University;git-lit},
   volumes   = {3}
 }
 
@@ -14650,7 +14526,7 @@
                are also examined.},
   url       = {http://dx.doi.org/10.1037/13763-000},
   keywords  = {\_BibTex to MD Git;Education;Philosophy of
-               Education;Psychology;Columbia University},
+               Education;Psychology;Columbia University;git-lit},
   volumes   = {3}
 }
 
@@ -14693,7 +14569,8 @@
                  Gordon Hall, honoring the Professor Emeritus and Founder of the
                  Institute for Urban and Minority Education at Teachers College,
                  Columbia University.},
-  keywords    = {\_BibTex to MD Git;Marx\_Labor;Report;Columbia University}
+  keywords    = {\_BibTex to MD Git;Marx\_Labor;Report;Columbia
+                 University;git-lit}
 }
 
 @ARTICLE{Inkpen1998-os,
@@ -14724,7 +14601,7 @@
                   paper focuses on alliance knowledge accessibility and firm
                   learning effectiveness.},
   url          = {http://dx.doi.org/10.5465/ame.1998.1333953},
-  keywords     = {\_BibTex to MD Git;Knowledge - Skill Acquisition},
+  keywords     = {\_BibTex to MD Git;Knowledge - Skill Acquisition;git-lit},
   language     = {en}
 }
 
@@ -14759,7 +14636,7 @@
                a work which has been widely quoted and used by both economic and
                social historians.},
   url       = {http://dx.doi.org/10.4324/9780429054280},
-  keywords  = {\_BibTex to MD Git;EPubs Books;ePub;Economics;Labor},
+  keywords  = {\_BibTex to MD Git;EPubs Books;ePub;Economics;Labor;git-lit},
   language  = {en}
 }
 
@@ -14793,7 +14670,7 @@
                   lower-cost countries, especially from the United States,
                   Japan, and Western Europe.},
   url          = {http://dx.doi.org/10.1111/padr.12550},
-  keywords     = {\_BibTex to MD Git;Economics;Labor},
+  keywords     = {\_BibTex to MD Git;Economics;Labor;git-lit},
   language     = {en}
 }
 
@@ -14814,7 +14691,7 @@
                book should be the result to which all parties may look with
                confidence, and in which the general reader may find accurate
                information.},
-  keywords  = {EPubs Books;\_BibTex to MD Git;Economics;Labor;ePub}
+  keywords  = {EPubs Books;\_BibTex to MD Git;Economics;Labor;ePub;git-lit}
 }
 
 @MISC{Buss1985-pa,
@@ -14846,7 +14723,7 @@
                   technical systems but also on the ability of firms and workers
                   to adapt through continuous learning and training.},
   keywords     = {\_BibTex to MD Git;Technology
-                  Trap;General-Interest-Periodicals-United-States;Economics;Labor}
+                  Trap;General-Interest-Periodicals-United-States;Economics;Labor;git-lit}
 }
 
 @INBOOK{Blyton2007-ek,
@@ -14867,7 +14744,7 @@
                capitalism.},
   url       = {http://dx.doi.org/10.4135/9781446215814.n16},
   keywords  = {Key Concepts in Work;\_BibTex to MD Git;Marx\_Labor;Book
-               (child);RNIB;Workplace Learning;Labor;Economics}
+               (child);RNIB;Workplace Learning;Labor;Economics;git-lit}
 }
 
 @BOOK{Blyton2007-mf,
@@ -14897,7 +14774,7 @@
   url       = {http://dx.doi.org/10.4135/9781446215814},
   keywords  = {Key Concepts in Work;\_BibTex to MD
                Git;Braverman;Marx\_Labor;Book (parent);RNIB;Workplace
-               Learning;Labor;Economics}
+               Learning;Labor;Economics;git-lit}
 }
 
 @INBOOK{Blyton2007-lq,
@@ -14918,7 +14795,7 @@
   url       = {http://dx.doi.org/10.4135/9781446215814.n37},
   keywords  = {Key Concepts in Work;\_BibTex to MD
                Git;RCPSP\_Takt\_Taylorism;Book (child);RNIB;Workplace
-               Learning;Labor;Economics}
+               Learning;Labor;Economics;git-lit}
 }
 
 @INBOOK{Blyton2007-kz,
@@ -14944,7 +14821,7 @@
   url       = {http://dx.doi.org/10.4135/9781446215814.n38},
   note      = {Discussion of Braverman’s Labour Process Theory},
   keywords  = {Key Concepts in Work;\_BibTex to MD Git;Braverman;Book
-               (child);RNIB;Workplace Learning;Labor;Economics}
+               (child);RNIB;Workplace Learning;Labor;Economics;git-lit}
 }
 
 @ARTICLE{Previtali2015-vy,
@@ -14986,7 +14863,8 @@
                   of the resulting individualisation of workers' subjectivities
                   for class solidarity.},
   url          = {http://dx.doi.org/10.13169/workorgalaboglob.9.1.0076},
-  keywords     = {\_BibTex to MD Git;Braverman;Marx\_Labor;Labor;Economics},
+  keywords     = {\_BibTex to MD
+                  Git;Braverman;Marx\_Labor;Labor;Economics;git-lit},
   language     = {en}
 }
 
@@ -15018,7 +14896,7 @@
                War II, in industrial relations.},
   url       = {http://dx.doi.org/10.7208/chicago/9780226217710.001.0001},
   keywords  = {EPubs Books;\_BibTex to MD Git;RNIB;Workplace
-               Learning;Labor;ePub;Economics},
+               Learning;Labor;ePub;Economics;git-lit},
   language  = {en}
 }
 
@@ -15054,7 +14932,8 @@
                   as well as prefiguring an extended conversation between W.E.B.
                   Du Bois and the sociological canon.},
   url          = {http://dx.doi.org/10.1146/annurev-soc-072320-101856},
-  keywords     = {\_BibTex to MD Git;Braverman;Marx\_Labor;Labor;Economics},
+  keywords     = {\_BibTex to MD
+                  Git;Braverman;Marx\_Labor;Labor;Economics;git-lit},
   language     = {en}
 }
 
@@ -15098,7 +14977,8 @@
                   on resistance in the workplace and raises questions about the
                   efficacy of workplace disobedience.},
   url          = {http://dx.doi.org/10.1108/ijssp-02-2016-0019},
-  keywords     = {\_BibTex to MD Git;Braverman;Marx\_Labor;Labor;Economics},
+  keywords     = {\_BibTex to MD
+                  Git;Braverman;Marx\_Labor;Labor;Economics;git-lit},
   language     = {en}
 }
 
@@ -15134,7 +15014,8 @@
                   and Monopoly Capital is a monument to the prophetic power of
                   Marx’s analysis.},
   url          = {http://dx.doi.org/10.1177/003232927800800301},
-  keywords     = {\_BibTex to MD Git;Braverman;Marx\_Labor;Labor;Economics},
+  keywords     = {\_BibTex to MD
+                  Git;Braverman;Marx\_Labor;Labor;Economics;git-lit},
   language     = {en}
 }
 
@@ -15163,7 +15044,7 @@
   url       = {http://dx.doi.org/10.4324/9780203571644-15},
   keywords  = {Workplace Learning in Context;\_BibTex to MD
                Git;llm-wiki-workflow;EPubs Books;Marx\_Labor;Book
-               (child);ePub;Workplace Learning;VET;Cross Ref Chapter}
+               (child);ePub;Workplace Learning;VET;Cross Ref Chapter;git-lit}
 }
 
 @BOOK{Babbage1832-uj,
@@ -15190,7 +15071,7 @@
                mechanisation and efficient ‘division of labour’ (still known as
                the ‘Babbage principle’) continue to resonate strongly for modern
                industrial engineering.},
-  keywords  = {\_BibTex to MD Git;Economics}
+  keywords  = {\_BibTex to MD Git;Economics;git-lit}
 }
 
 @BOOK{Antunes2012-ow,
@@ -15217,7 +15098,7 @@
   series    = {Historical Materialism Book Series},
   url       = {http://dx.doi.org/10.1163/9789004235984},
   keywords  = {\_BibTex to MD Git;Marx\_Labor;Book (parent);Workplace
-               Learning;Labor}
+               Learning;Labor;git-lit}
 }
 
 @ARTICLE{Coovadia2008-lw,
@@ -15250,7 +15131,7 @@
                   through which the meanings of modernity were comprehended.},
   url          = {http://dx.doi.org/10.1080/02589340802113097},
   keywords     = {\_BibTex to MD Git;003\_Theoretical
-                  Framework;Marx\_Labor;Economics},
+                  Framework;Marx\_Labor;Economics;git-lit},
   language     = {en}
 }
 
@@ -15286,7 +15167,7 @@
                   internal product design capabilities) have atrophied.},
   url          = {https://sloanreview.mit.edu/article/what-it-takes-to-reshore-manufacturing-successfully/},
   keywords     = {\_BibTex to MD Git;Labor;Workplace Learning;Future of
-                  Work;Economics}
+                  Work;Economics;git-lit}
 }
 
 @INPROCEEDINGS{Alsharef2020-ej,
@@ -15328,7 +15209,8 @@
                 research community that seek to tackle the safety issues
                 experienced in the construction industry.},
   url        = {http://dx.doi.org/10.1061/9780784482872.059},
-  keywords   = {\_BibTex to MD Git;Training;Knowledge - Skill Acquisition;AEC}
+  keywords   = {\_BibTex to MD Git;Training;Knowledge - Skill
+                Acquisition;AEC;git-lit}
 }
 
 @ARTICLE{Ambu-Saidi2024-ej,
@@ -15403,7 +15285,7 @@
   url       = {http://blackeducator.blogspot.com/2014/06/taylorism-20-transforming-teachers-into.html},
   urldate   = {2026-06-05},
   keywords  = {\_BibTex to MD
-               Git;Braverman;Marx\_Labor;RCPSP\_Takt\_Taylorism;Website;Reader\_Obsidian;Education},
+               Git;Braverman;Marx\_Labor;RCPSP\_Takt\_Taylorism;Website;Reader\_Obsidian;Education;git-lit},
   language  = {en}
 }
 
@@ -15431,7 +15313,8 @@
                   problems of unemployment, underemployment, and socially wasted
                   labor—and the rights of labor.},
   url          = {http://dx.doi.org/10.1007/s10672-014-9243-4},
-  keywords     = {\_BibTex to MD Git;Braverman;Marx\_Labor;Labor;Economics},
+  keywords     = {\_BibTex to MD
+                  Git;Braverman;Marx\_Labor;Labor;Economics;git-lit},
   language     = {en}
 }
 
@@ -15459,7 +15342,7 @@
                extends the analysis through 2001 to determine the validity of
                the Braverman/Marxist critique.},
   url       = {https://www.taylorfrancis.com/chapters/edit/10.4324/9781315635729-8/harry-braverman-working-class-frank-elwell},
-  keywords  = {\_BibTex to MD Git;Braverman;Marx\_Labor;Labor;Economics}
+  keywords  = {\_BibTex to MD Git;Braverman;Marx\_Labor;Labor;Economics;git-lit}
 }
 
 @ARTICLE{Zhao2018-nq,
@@ -15484,7 +15367,8 @@
                   pay much more attention to social factors, such as the labor
                   market, to understand the China’s building industry.},
   url          = {http://dx.doi.org/10.1186/s40856-018-0037-6},
-  keywords     = {\_BibTex to MD Git;Braverman;Marx\_Labor;Labor;Economics},
+  keywords     = {\_BibTex to MD
+                  Git;Braverman;Marx\_Labor;Labor;Economics;git-lit},
   language     = {en}
 }
 
@@ -15529,7 +15413,7 @@
                   direction of work that Braverman helped to initiate.},
   url          = {http://dx.doi.org/10.1177/0160449x15607154},
   keywords     = {\_BibTex to MD
-                  Git;Braverman;Marx\_Labor;003\_NBLM;Labor;Economics},
+                  Git;Braverman;Marx\_Labor;003\_NBLM;Labor;Economics;git-lit},
   language     = {en}
 }
 
@@ -15544,35 +15428,9 @@
                   Monopoly Capital presciently forecasted much of our present
                   labor regime—and can help us move beyond it.},
   url          = {https://jacobin.com/2025/06/braverman-labor-monopoly-capital-legacy},
-  keywords     = {\_BibTex to MD Git;Braverman;Website;Reader\_Obsidian;Labor},
+  keywords     = {\_BibTex to MD
+                  Git;Braverman;Website;Reader\_Obsidian;Labor;git-lit},
   language     = {en}
-}
-
-@AUDIO{Chibber2026-fw,
-  title     = {How Work Got So Bad},
-  author    = {Chibber, Vivek and Naschek, Melissa},
-  editora   = {{Jacobin}},
-  publisher = {Catalyst: A Journal of Theory and Strategy},
-  date      = {2026-03-12},
-  abstract  = {Under capitalism, technological “progress” like AI systematically
-               deskills workers, deepens managerial control, and turns the labor
-               process into a site of conflict rather than liberation. This is
-               by design. Why does every new technology seem to make work harder
-               and not easier? In 1974, Harry Braverman published a seminal text
-               Labor and Monopoly Capital to answer that question. Combining a
-               careful study of scientific management and technological
-               innovation with several of Marx’s key concepts, Braverman
-               explained why workers under capitalism are gradually transformed
-               into mere cogs in the machine. On the latest episode of
-               Confronting Capitalism, Vivek Chibber and Melissa Naschek discuss
-               the process of managers breaking down workers’ skills and why
-               work under capitalism tends to degrade rather than fulfill us.},
-  url       = {https://jacobin.com/2026/03/work-deskilling-labor-capitalism-technology},
-  urldate   = {2026-06-05},
-  keywords  = {\_BibTex to MD
-               Git;Braverman;Podcast;Reader\_Obsidian;Labor;Future of
-               Work;Economics},
-  language  = {en}
 }
 
 @ARTICLE{DuPaul2013-ko,
@@ -15606,7 +15464,7 @@
                   treatment strategies that address both disorders and that are
                   implemented across school and home settings.},
   url          = {http://dx.doi.org/10.1177/0022219412464351},
-  keywords     = {\_BibTex to MD Git;Neurodiversity},
+  keywords     = {\_BibTex to MD Git;Neurodiversity;git-lit},
   language     = {en}
 }
 
@@ -15669,7 +15527,7 @@
                   development of specific interventions targeting decision
                   paralysis.Disclosure of InterestNone Declared},
   url          = {http://dx.doi.org/10.1192/j.eurpsy.2025.406},
-  keywords     = {Neurodiversity;\_BibTex to MD Git;Neurodiversity},
+  keywords     = {Neurodiversity;\_BibTex to MD Git;Neurodiversity;git-lit},
   language     = {en}
 }
 
@@ -15728,7 +15586,7 @@
   keywords     = {Ecological validity; Information and Communications
                   Technologies; executive function; neuropsychological
                   assessment; real-world functioning; serious game;\_BibTex to
-                  MD Git;Neurodiversity},
+                  MD Git;Neurodiversity;git-lit},
   language     = {en}
 }
 
@@ -15780,7 +15638,7 @@
                   therapies could be useful tools for improving emotional
                   difficulties in adult ADHD.},
   url          = {http://dx.doi.org/10.1371/journal.pone.0280131},
-  keywords     = {\_BibTex to MD Git;Neurodiversity},
+  keywords     = {\_BibTex to MD Git;Neurodiversity;git-lit},
   language     = {en}
 }
 
@@ -15821,7 +15679,7 @@
                   make a big difference.},
   url          = {https://pmc.ncbi.nlm.nih.gov/articles/PMC9616454/},
   urldate      = {2026-06-07},
-  keywords     = {Neurodiversity;\_BibTex to MD Git;Neurodiversity},
+  keywords     = {Neurodiversity;\_BibTex to MD Git;Neurodiversity;git-lit},
   language     = {en}
 }
 
@@ -15855,7 +15713,8 @@
                   fine-grained planning, and helps us to get clear on the harms
                   of Taylorised and hence deskilled work.},
   url          = {http://dx.doi.org/10.1080/0020174x.2025.2478895},
-  keywords     = {\_BibTex to MD Git;Braverman;Marx\_Labor;Economics;Labor},
+  keywords     = {\_BibTex to MD
+                  Git;Braverman;Marx\_Labor;Economics;Labor;git-lit},
   language     = {en}
 }
 
@@ -15889,7 +15748,7 @@
                entire low-wage work experience even more miserable.
                Additionally, she describes her managers changing her shift
                schedule from week to week without notifying her.},
-  keywords  = {\_BibTex to MD Git;Marx\_Labor;Economics;Labor;RNIB}
+  keywords  = {\_BibTex to MD Git;Marx\_Labor;Economics;Labor;RNIB;git-lit}
 }
 
 @INBOOK{Dunford1983-pb,
@@ -15955,7 +15814,7 @@
                   deskilling a large part of the workforce and raising the
                   demand for some (but fewer) high-skilled workers.},
   url          = {http://dx.doi.org/10.1007/s11186-018-9325-7},
-  keywords     = {Braverman;\_BibTex to MD Git;Marx\_Labor;Labor},
+  keywords     = {Braverman;\_BibTex to MD Git;Marx\_Labor;Labor;git-lit},
   language     = {en}
 }
 
@@ -16010,39 +15869,8 @@
                   social dimensions of work. But as well as having advanced
                   several specific themes and ideas},
   url          = {http://dx.doi.org/10.2307/589889},
-  keywords     = {Braverman;\_BibTex to MD Git;RCPSP\_Takt\_Taylorism;Labor}
-}
-
-@ARTICLE{Tinel2009-gg,
-  title        = {Labour process and the division of labour, a reading},
-  author       = {Tinel, Bruno},
-  journaltitle = {Les Documents de travail du Centre d'Économie de la Sorbonne
-                  (CES)},
-  pages        = {15},
-  date         = {2009-11},
-  issn         = {1955-611X},
-  abstract     = {This article proposes an analysis of the labour process and
-                  the division of labour in capitalist production through a
-                  reading of Marx and a few others like Babbage and Braverman.
-                  The distinction between labour and labour power is used to
-                  expose the specificity of the labour process. Cooperation
-                  constitues the fundamental from of capitalist production,
-                  which entails a double-sided command (coordination to produce
-                  use-values and despotism to extract surplus-value). Formal
-                  subordination, i.e; the threat of lay-off, is historically and
-                  logically the primitive moment of labour's subordination to
-                  capital. The effect of the division of labour on productivity
-                  is only temporary. It principally deprives workers of their
-                  professional skills, increases real control by management,
-                  reduces labour power's value and prepares its replacement by
-                  machinery. There is an incessant struggle between labour and
-                  management over the control of the labour process and over
-                  skills.},
-  url          = {https://shs.hal.science/halshs-00435252},
-  note         = {Documents de travail du Centre d'Economie de la Sorbonne
-                  2009.74 - ISSN : 1955-611X},
-  keywords     = {Braverman;\_BibTex to MD Git;Marx\_Labor;Labor},
-  language     = {en}
+  keywords     = {Braverman;\_BibTex to MD
+                  Git;RCPSP\_Takt\_Taylorism;Labor;git-lit}
 }
 
 @PHDTHESIS{Whitston1995-jx,
@@ -16105,7 +15933,7 @@
                  upon scientific management.},
   url         = {https://wrap.warwick.ac.uk/3981/},
   note        = {Unpublished},
-  keywords    = {Braverman;\_BibTex to MD Git;Marx\_Labor;Thesis;Labor}
+  keywords    = {Braverman;\_BibTex to MD Git;Marx\_Labor;Thesis;Labor;git-lit}
 }
 
 @ARTICLE{Franco-Santos2018-cz,
@@ -16145,7 +15973,7 @@
                   unintended consequences, leading to poor organizational
                   outcomes.},
   url          = {http://dx.doi.org/10.1111/ijmr.12183},
-  keywords     = {Braverman;\_BibTex to MD Git;Labor},
+  keywords     = {Braverman;\_BibTex to MD Git;Labor;git-lit},
   language     = {en}
 }
 
@@ -16180,37 +16008,24 @@
                   relationship between management and workers as organizations
                   adopt metrics to monitor and evaluate work.},
   url          = {http://dx.doi.org/10.1093/jcmc/zmad023},
-  keywords     = {Braverman;\_BibTex to MD Git;Economics},
+  keywords     = {Braverman;\_BibTex to MD Git;Economics;git-lit},
   language     = {en}
 }
 
-@INBOOK{Beckett2005-ms,
-  title     = {Know How: Practice at close quarters},
-  author    = {Beckett, David and Hager, Paul},
-  booktitle = {Life, Work and Learning: Practice in Postmodernity},
-  publisher = {Routledge},
-  location  = {London, England},
-  edition   = {1},
-  pages     = {10--38},
-  date      = {2002-07},
-  doi       = {10.4324/9780203994450-3},
-  isbn      = {9781134717897},
-  abstract  = {This is a book about practitioners’ ‘hot action’. It seeks to
-               make sense of thoseprocesses and acts of judgement endemic to
-               everyday experiences at work andindeed in life, from which adults
-               learn. Our focus is on paid workers, be they teachers,
-               crane-drivers, nurses, paramedics, fast-food retailers, surgeons,
-               gardeners, lawyers and the like, but we also believe unpaid work,
-               in the community and in households—say, as parents—also suits
-               this experiential emphasis.Any setting which is amenable to
-               provoking deeper consideration of intelligent action, that is,
-               where adults can learn how to go on, is of interest to us.
-               Suchlearning has an epistemological basis in ‘know how’—and
-               philosophers have arich literature in ‘knowing how’ to go on.},
-  url       = {http://dx.doi.org/10.4324/9780203994450-3},
-  keywords  = {Life\_Work\_Learning;\_BibTex to MD Git;003\_Theoretical
-               Framework;Marx\_Labor;Book (child);Knowledge - Skill
-               Acquisition;Workplace Learning;ePub}
+@ONLINE{Chase2025-dj,
+  title     = {The Dyslexia-{ADHD} Overlap: Why Evaluators Confuse the
+               Conditions},
+  author    = {Chase, Cheryl},
+  booktitle = {ADDitude},
+  publisher = {WebMD Professional Publishing},
+  date      = {2025-09-08},
+  abstract  = {A dyslexia evaluation should also consider ADHD, which may
+               co-occur with the reading disorder, mask its symptoms, and/or
+               complicate testing.},
+  url       = {https://www.additudemag.com/dyslexia-evaluation-adhd-comorbidity-overlap/},
+  keywords  = {Neurodiversity;\_BibTex to MD
+               Git;Neurodiversity;Reader\_Obsidian;git-lit},
+  language  = {en}
 }
 
 @INBOOK{Beckett2005-dh,
@@ -16237,7 +16052,7 @@
   url       = {https://www.taylorfrancis.com/chapters/mono/10.4324/9780203994450-2},
   keywords  = {Life\_Work\_Learning;\_BibTex to MD Git;003\_Theoretical
                Framework;Book (child);Knowledge - Skill Acquisition;Workplace
-               Learning;ePub}
+               Learning;ePub;git-lit}
 }
 
 @INBOOK{Beckett2005-uy,
@@ -16254,7 +16069,7 @@
   url       = {http://dx.doi.org/10.4324/9780203994450-10},
   keywords  = {Life\_Work\_Learning;\_BibTex to MD Git;003\_Theoretical
                Framework;Book (child);Knowledge - Skill Acquisition;Workplace
-               Learning;ePub}
+               Learning;ePub;git-lit}
 }
 
 @INBOOK{Beckett2005-mc,
@@ -16272,7 +16087,7 @@
   url       = {http://dx.doi.org/10.4324/9780203994450-9},
   keywords  = {Life\_Work\_Learning;\_BibTex to MD Git;003\_Theoretical
                Framework;Book (child);Knowledge - Skill Acquisition;Workplace
-               Learning;ePub}
+               Learning;ePub;git-lit}
 }
 
 @INBOOK{Beckett2005-xn,
@@ -16289,7 +16104,7 @@
   url       = {http://dx.doi.org/10.4324/9780203994450-8},
   keywords  = {Life\_Work\_Learning;\_BibTex to MD Git;003\_Theoretical
                Framework;Book (child);Knowledge - Skill Acquisition;Workplace
-               Learning;ePub}
+               Learning;ePub;git-lit}
 }
 
 @INBOOK{Beckett2005-we,
@@ -16306,7 +16121,7 @@
   url       = {http://dx.doi.org/10.4324/9780203994450-7},
   keywords  = {Life\_Work\_Learning;\_BibTex to MD Git;003\_Theoretical
                Framework;Marx\_Labor;Book (child);Knowledge - Skill
-               Acquisition;Workplace Learning;ePub}
+               Acquisition;Workplace Learning;ePub;git-lit}
 }
 
 @ARTICLE{Heldens2022-dk,
@@ -16524,7 +16339,7 @@
                shows how the economic realities of the future might offer
                solutions to issues such as poverty and climate change.},
   keywords  = {\_BibTex to MD Git;Future of Work;Artificial Intelligence
-               (AI);Robots;Economics}
+               (AI);Robots;Economics;git-lit}
 }
 
 @INBOOK{Lessing2019-jp,
@@ -16559,7 +16374,7 @@
                foundation of knowledge and experience.},
   url       = {http://dx.doi.org/10.1201/9781315147321-5},
   keywords  = {Offsite Production and Manufacturing for Innovative
-               Construction;\_BibTex to MD Git;Book (child);AEC},
+               Construction;\_BibTex to MD Git;Book (child);AEC;git-lit},
   language  = {en}
 }
 
@@ -16774,7 +16589,8 @@
                transformed by new meanings and interpretations. Bradford Books
                imprint},
   url       = {http://dx.doi.org/10.7551/mitpress/1881.001.0001},
-  keywords  = {\_BibTex to MD Git;Psychology;Knowledge - Skill Acquisition},
+  keywords  = {\_BibTex to MD Git;Psychology;Knowledge - Skill
+               Acquisition;git-lit},
   language  = {en}
 }
 
@@ -16803,7 +16619,7 @@
                objectives of upper management.1},
   url       = {http://dx.doi.org/10.1007/978-1-349-26346-2_7},
   keywords  = {Workplaces of the Future;Braverman;\_BibTex to MD
-               Git;003\_Theoretical Framework;Marx\_Labor;Book (child)}
+               Git;003\_Theoretical Framework;Marx\_Labor;Book (child);git-lit}
 }
 
 @INBOOK{Mulholland1998-xn,
@@ -16845,7 +16661,7 @@
                cleavage within managerial ranks.},
   url       = {http://dx.doi.org/10.1007/978-1-349-26346-2_10},
   keywords  = {Workplaces of the Future;Braverman;\_BibTex to MD
-               Git;003\_Theoretical Framework;Book (child)}
+               Git;003\_Theoretical Framework;Book (child);git-lit}
 }
 
 @INBOOK{Beirne1998-sy,
@@ -16873,7 +16689,7 @@
                in all but a few exceptional studies.1},
   url       = {http://dx.doi.org/10.1007/978-1-349-26346-2_8},
   keywords  = {Workplaces of the Future;Braverman;\_BibTex to MD
-               Git;003\_Theoretical Framework;Book (child)},
+               Git;003\_Theoretical Framework;Book (child);git-lit},
   language  = {en}
 }
 
@@ -16909,7 +16725,7 @@
   url       = {http://dx.doi.org/10.4324/9780203994450-4},
   keywords  = {Life\_Work\_Learning;\_BibTex to MD Git;003\_Theoretical
                Framework;Book (child);Knowledge - Skill Acquisition;Workplace
-               Learning;ePub}
+               Learning;ePub;git-lit}
 }
 
 @INBOOK{Beckett2005-wv,
@@ -16940,7 +16756,7 @@
   url       = {http://dx.doi.org/10.4324/9780203994450-5},
   keywords  = {Life\_Work\_Learning;\_BibTex to MD Git;003\_Theoretical
                Framework;Book (child);Knowledge - Skill Acquisition;Workplace
-               Learning;ePub}
+               Learning;ePub;git-lit}
 }
 
 @INBOOK{Beckett2002-ks,
@@ -16972,7 +16788,7 @@
   url       = {http://dx.doi.org/10.4324/9780203994450-11},
   keywords  = {Life\_Work\_Learning;\_BibTex to MD Git;003\_Theoretical
                Framework;Book (child);Knowledge - Skill Acquisition;Workplace
-               Learning;ePub}
+               Learning;ePub;git-lit}
 }
 
 @ARTICLE{Minooei2020-uz,
@@ -17008,7 +16824,7 @@
                   researchers make several recommendations on how to attract the
                   next generation of craft workers to the industry.},
   url          = {http://dx.doi.org/10.1061/(asce)co.1943-7862.0001867},
-  keywords     = {\_BibTex to MD Git;VET;AEC},
+  keywords     = {\_BibTex to MD Git;VET;AEC;git-lit},
   language     = {en}
 }
 
@@ -17046,7 +16862,7 @@
                   engineers in an industry whose career paths include
                   construction engineering activities.},
   url          = {http://dx.doi.org/10.1061/(asce)co.1943-7862.0001436},
-  keywords     = {\_BibTex to MD Git;VET;AEC},
+  keywords     = {\_BibTex to MD Git;VET;AEC;git-lit},
   language     = {en}
 }
 
@@ -17088,7 +16904,7 @@
                 Post-Compulsory Education and Training, Surfers Paradise Park
                 Royal, 6--8 December},
   keywords   = {\_BibTex to MD Git;003\_Theoretical Framework;Workplace
-                Learning;Knowledge - Skill Acquisition}
+                Learning;Knowledge - Skill Acquisition;git-lit}
 }
 
 @INBOOK{Bellenguez2005-lt,
@@ -17340,7 +17156,7 @@
                   model's applicability and accuracy.},
   url          = {http://dx.doi.org/10.1016/j.autcon.2024.105626},
   keywords     = {RCPSP\_Takt\_Taylorism;\_BibTex to MD Git;Construction
-                  4-0;Optimization;AEC},
+                  4-0;Optimization;AEC;git-lit},
   language     = {en}
 }
 
@@ -17480,7 +17296,8 @@
                   challenge the excessive optimism propagated by the pluralist
                   approaches in HRM.},
   url          = {http://dx.doi.org/10.1016/j.emj.2023.05.003},
-  keywords     = {\_BibTex to MD Git;Braverman;Marx\_Labor;Labor;Economics},
+  keywords     = {\_BibTex to MD
+                  Git;Braverman;Marx\_Labor;Labor;Economics;git-lit},
   language     = {en}
 }
 
@@ -17509,43 +17326,11 @@
                 commodities. This commensurability in exchange, Marx argues,
                 points to an underlying common element: "value".},
   keywords   = {Das Kapital;\_BibTex to MD Git;Economics;Labor;Politics and
-                Society},
+                Society;git-lit},
   origtitle  = {Das Kapital: Kritik der politischen Ökonomie},
   language   = {en},
   volumes    = {3},
   origdate   = {1867}
-}
-
-@ARTICLE{Kraiger1993-my,
-  title        = {Application of cognitive, skill-based, and affective theories
-                  of learning outcomes to new methods of training evaluation},
-  author       = {Kraiger, Kurt and Ford, J Kevin and Salas, Eduardo},
-  journaltitle = {The Journal of Applied Psychology},
-  publisher    = {American Psychological Association (APA)},
-  volume       = {78},
-  issue        = {2},
-  pages        = {311--328},
-  date         = {1993-04},
-  doi          = {10.1037/0021-9010.78.2.311},
-  issn         = {0021-9010,1939-1854},
-  abstract     = {Although training evaluation is recognized as an important
-                  component of the instructional design model, there are no
-                  theoretically based models of training evaluation. This
-                  article attempts to move toward such a model by developing a
-                  classification scheme for evaluating learning outcomes.
-                  Learning constructs are derived from a variety of research
-                  domains, such as cognitive, social, and instructional
-                  psychology and human factors. Drawing from this research, the
-                  authors propose cognitive, skill-based, and affective learning
-                  outcomes (relevant to training) and recommend potential
-                  evaluation measures. The learning outcomes and associated
-                  evaluation measures are organized into a classification
-                  scheme. Requirements for providing construct-oriented evidence
-                  of validity for the scheme are also discussed.},
-  url          = {http://dx.doi.org/10.1037/0021-9010.78.2.311},
-  keywords     = {\_BibTex to MD Git;003\_Theoretical Framework;Labor;Knowledge
-                  - Skill Acquisition},
-  language     = {en}
 }
 
 @BOOK{Marx1909-jx,
@@ -17568,7 +17353,7 @@
                 grow out of the process of capital's movement considered as a
                 whole".},
   keywords   = {Das Kapital;\_BibTex to MD Git;Economics;Labor;Politics and
-                Society},
+                Society;git-lit},
   language   = {en},
   origdate   = {1894},
   volumes    = {3},
@@ -17621,7 +17406,7 @@
                 change and assuming commodities exchange at their values to
                 isolate the specific problems of circulation.},
   keywords   = {Das Kapital;\_BibTex to MD Git;Economics;Labor;Politics and
-                Society},
+                Society;git-lit},
   origtitle  = {Das Kapital: Kritik der politischen Ökonomie},
   language   = {en},
   volumes    = {3},
@@ -17655,7 +17440,7 @@
                   evaluating the effectiveness of their courses and programs.},
   url          = {https://www.ncbi.nlm.nih.gov/pubmed/21464860},
   keywords     = {\_BibTex to MD Git;003\_Theoretical Framework;Knowledge -
-                  Skill Acquisition;Psychology;Training;job satisfaction},
+                  Skill Acquisition;Psychology;Training;job satisfaction;git-lit},
   language     = {en}
 }
 
@@ -17683,7 +17468,8 @@
                   rather slow rate, and at the present time, research techniques
                   are not adequate.},
   keywords     = {\_BibTex to MD Git;003\_Theoretical
-                  Framework;Training;Psychology;Knowledge - Skill Acquisition}
+                  Framework;Training;Psychology;Knowledge - Skill
+                  Acquisition;git-lit}
 }
 
 @MISC{Economist2015-mu,
@@ -17739,7 +17525,7 @@
   url          = {http://dx.doi.org/10.1016/j.futures.2019.06.002},
   keywords     = {RCPSP\_Takt\_Taylorism;\_BibTex to MD Git;003\_Theoretical
                   Framework;Marx\_Labor;Economics;Future of Work;DO NOT CITE --
-                  BAD REFS},
+                  BAD REFS;git-lit},
   language     = {en}
 }
 
@@ -18251,7 +18037,7 @@
                   technological change.},
   url          = {http://dx.doi.org/10.1007/s11151-026-10055-3},
   keywords     = {RCPSP\_Takt\_Taylorism;\_BibTex to MD Git;Future of
-                  Work;Statistics;Labor},
+                  Work;Statistics;Labor;git-lit},
   language     = {en}
 }
 
@@ -18293,7 +18079,7 @@
                   four decades while the demand-increasing effects of
                   augmentation innovations have not.},
   url          = {http://dx.doi.org/10.1093/qje/qjae008},
-  keywords     = {\_BibTex to MD Git;Future of Work;Statistics;Labor},
+  keywords     = {\_BibTex to MD Git;Future of Work;Statistics;Labor;git-lit},
   language     = {en}
 }
 
@@ -18324,7 +18110,8 @@
                   knowledge‐use, roles and processes – essentially as a question
                   of the learner's participation in situated work activities.},
   url          = {http://dx.doi.org/10.1108/13665620410550295},
-  keywords     = {Rowland;\_BibTex to MD Git;Knowledge - Skill Acquisition},
+  keywords     = {Rowland;\_BibTex to MD Git;Knowledge - Skill
+                  Acquisition;git-lit},
   language     = {en}
 }
 
@@ -18346,7 +18133,8 @@
                   through everyday work activity; Prospects for the adoption and
                   successful implementation of the workplace learning model.},
   url          = {http://dx.doi.org/10.1002/ace.41},
-  keywords     = {Rowland;\_BibTex to MD Git;Knowledge - Skill Acquisition},
+  keywords     = {Rowland;\_BibTex to MD Git;Knowledge - Skill
+                  Acquisition;git-lit},
   language     = {en}
 }
 
@@ -18378,7 +18166,8 @@
                   with suggestions for future research directions in developing
                   alternative continuing professional learning frameworks.},
   url          = {http://dx.doi.org/10.1080/0158037x.2015.1022717},
-  keywords     = {Rowland;\_BibTex to MD Git;Knowledge - Skill Acquisition},
+  keywords     = {Rowland;\_BibTex to MD Git;Knowledge - Skill
+                  Acquisition;git-lit},
   language     = {en}
 }
 
@@ -18408,7 +18197,7 @@
                learning and the management of change; 7. The influences of
                continuing professional education and human resource development.},
   url       = {http://dx.doi.org/10.1007/978-94-007-1724-4_2},
-  keywords  = {Rowland;\_BibTex to MD Git;Knowledge - Skill Acquisition}
+  keywords  = {Rowland;\_BibTex to MD Git;Knowledge - Skill Acquisition;git-lit}
 }
 
 @ARTICLE{Parry1996-dm,
@@ -18440,7 +18229,7 @@
                   action plans and managers' briefings. See also: Kirkpatrick},
   url          = {https://link.gale.com/apps/doc/A18441767/AONE},
   urldate      = {2026-06-25},
-  keywords     = {\_BibTex to MD Git;Training;Economics}
+  keywords     = {\_BibTex to MD Git;Training;Economics;git-lit}
 }
 
 @ARTICLE{Billett2002-ry,
@@ -18499,7 +18288,8 @@
                   work and bases for participation. The scheme comprises two
                   dimensions: activities and interdependencies.},
   url          = {http://dx.doi.org/10.1111/1467-8527.t01-2-00214},
-  keywords     = {Rowland;\_BibTex to MD Git;Knowledge - Skill Acquisition}
+  keywords     = {Rowland;\_BibTex to MD Git;Knowledge - Skill
+                  Acquisition;git-lit}
 }
 
 @ARTICLE{Billett2002-bq,
@@ -18542,7 +18332,8 @@
                   development of a workplace pedagogy need conceptualising in
                   terms of participatory practices.},
   url          = {http://dx.doi.org/10.1080/02660830.2002.11661461},
-  keywords     = {Rowland;\_BibTex to MD Git;Knowledge - Skill Acquisition}
+  keywords     = {Rowland;\_BibTex to MD Git;Knowledge - Skill
+                  Acquisition;git-lit}
 }
 
 @ARTICLE{Engestrom1999-cg,
@@ -18579,7 +18370,8 @@
                   come only after the creation and practical implementation of
                   innovative solutions.},
   url          = {http://dx.doi.org/10.1023/a:1008648532192},
-  keywords     = {Rowland;\_BibTex to MD Git;Knowledge - Skill Acquisition},
+  keywords     = {Rowland;\_BibTex to MD Git;Knowledge - Skill
+                  Acquisition;git-lit},
   language     = {en}
 }
 
@@ -18612,7 +18404,7 @@
   series    = {Learning in Doing: Social, Cognitive and Computational
                Perspectives},
   keywords  = {Contested Learning in Welfare Work;\_BibTex to MD
-               Git;Marx\_Labor;Book (child);Labor;Workplace Learning}
+               Git;Marx\_Labor;Book (child);Labor;Workplace Learning;git-lit}
 }
 
 @INBOOK{Blyton2007-si,
@@ -18639,7 +18431,7 @@
   note      = {Discussion of Braverman’s Labour Process Theory},
   keywords  = {Key Concepts in Work;\_BibTex to MD
                Git;Braverman;Marx\_Labor;Book (child);RNIB;Workplace
-               Learning;Labor;Economics}
+               Learning;Labor;Economics;git-lit}
 }
 
 @ARTICLE{Autor2006-eo,
@@ -18678,7 +18470,7 @@
                   can help explain the observed polarization of the U.S. labor
                   market.},
   url          = {http://dx.doi.org/10.1257/000282806777212620},
-  keywords     = {\_BibTex to MD Git;Labor;Economics},
+  keywords     = {\_BibTex to MD Git;Labor;Economics;git-lit},
   language     = {en}
 }
 
@@ -18722,7 +18514,7 @@
                   growth of the relative demand for more-skilled workers since
                   1970.},
   url          = {http://dx.doi.org/10.1162/003355398555874},
-  keywords     = {\_BibTex to MD Git;Labor;Economics},
+  keywords     = {\_BibTex to MD Git;Labor;Economics;git-lit},
   language     = {en}
 }
 
@@ -18777,7 +18569,7 @@
                empirical exploration.},
   series    = {Handbook of Labour Economics},
   url       = {http://dx.doi.org/10.1016/s0169-7218(11)02410-5},
-  keywords  = {\_BibTex to MD Git;Economics;Labor},
+  keywords  = {\_BibTex to MD Git;Economics;Labor;git-lit},
   language  = {en}
 }
 
@@ -18823,7 +18615,7 @@
                   but at the least we will each have this as a goal. Finally, I
                   will not merely stand back},
   url          = {http://dx.doi.org/10.2307/2185537},
-  keywords     = {\_BibTex to MD Git;Labor;Knowledge - Skill Acquisition}
+  keywords     = {\_BibTex to MD Git;Labor;Knowledge - Skill Acquisition;git-lit}
 }
 
 @BOOK{Bratman2014-ey,
@@ -18857,7 +18649,8 @@
                conditions for these basic forms of sociality. Shared agency
                emerges, both functionally and rationally, from structures of
                interconnected planning agency.},
-  keywords  = {\_BibTex to MD Git;RNIB;Knowledge - Skill Acquisition;Psychology}
+  keywords  = {\_BibTex to MD Git;RNIB;Knowledge - Skill
+               Acquisition;Psychology;git-lit}
 }
 
 @ARTICLE{Moll2007-jk,
@@ -18925,7 +18718,7 @@
                Behavior is an exceptional theoretical work for those who wish to
                understand the principles of behavioral therapy.},
   url       = {http://dx.doi.org/10.1037/11256-000},
-  keywords  = {\_BibTex to MD Git;003\_Theoretical Framework;Psychology}
+  keywords  = {\_BibTex to MD Git;003\_Theoretical Framework;Psychology;git-lit}
 }
 
 @ARTICLE{Kraiger2021-qt,
@@ -18962,7 +18755,7 @@
                   synthetic learning environments.},
   url          = {http://dx.doi.org/10.1146/annurev-orgpsych-012420-060109},
   keywords     = {\_BibTex to MD Git;003\_Theoretical Framework;Labor;Knowledge
-                  - Skill Acquisition},
+                  - Skill Acquisition;git-lit},
   language     = {en}
 }
 
@@ -18997,7 +18790,8 @@
                   alternative is illustrated by its power to illuminate data on
                   learning collected from various research projects.},
   url          = {http://dx.doi.org/10.1080/01411920802642371},
-  keywords     = {Rowland;\_BibTex to MD Git;Knowledge - Skill Acquisition},
+  keywords     = {Rowland;\_BibTex to MD Git;Knowledge - Skill
+                  Acquisition;git-lit},
   language     = {en}
 }
 
@@ -19040,7 +18834,7 @@
   url       = {https://www.taylorfrancis.com/chapters/edit/10.4324/9781315042091-15},
   urldate   = {2026-06-25},
   keywords  = {Rowland;\_BibTex to MD Git;Book (child);Training;Workplace
-               Learning;Knowledge - Skill Acquisition}
+               Learning;Knowledge - Skill Acquisition;git-lit}
 }
 
 @INBOOK{Guile2014-lm,
@@ -19079,7 +18873,7 @@
   url       = {https://www.taylorfrancis.com/chapters/edit/10.4324/9781315042091-12/beyond-institution-apprenticeship-towards-social-theory-learning-production-knowledge-david-guile-michael-young},
   urldate   = {2026-06-25},
   keywords  = {Rowland;\_BibTex to MD Git;Book (child);Training;Workplace
-               Learning;Knowledge - Skill Acquisition}
+               Learning;Knowledge - Skill Acquisition;git-lit}
 }
 
 @INBOOK{Nilsen2020-cb,
@@ -19112,7 +18906,7 @@
                in many process models, these models do not identify or structure
                specific determinants associated with implementation success.},
   url       = {http://dx.doi.org/10.1007/978-3-030-03874-8_3},
-  keywords  = {Rowland;\_BibTex to MD Git;Knowledge - Skill Acquisition}
+  keywords  = {Rowland;\_BibTex to MD Git;Knowledge - Skill Acquisition;git-lit}
 }
 
 @ARTICLE{Felstead2005-vo,
@@ -19147,7 +18941,8 @@
                   ignores. The paper also confirms the importance of job design
                   in promoting and facilitating learning at work.},
   url          = {http://dx.doi.org/10.1080/13639080500327857},
-  keywords     = {Rowland;\_BibTex to MD Git;Knowledge - Skill Acquisition},
+  keywords     = {Rowland;\_BibTex to MD Git;Knowledge - Skill
+                  Acquisition;git-lit},
   language     = {en}
 }
 
@@ -19189,7 +18984,8 @@
                   productive system analysis, is strengthening the concept of
                   expansive and restrictive learning environments.},
   url          = {http://dx.doi.org/10.1080/01411920701582397},
-  keywords     = {Rowland;\_BibTex to MD Git;Knowledge - Skill Acquisition},
+  keywords     = {Rowland;\_BibTex to MD Git;Knowledge - Skill
+                  Acquisition;git-lit},
   language     = {en}
 }
 
@@ -19241,7 +19037,7 @@
                   Open City},
   url          = {https://www.theguardian.com/commentisfree/2022/jul/20/britain-worst-built-homes-europe-extreme-weather-upgrade},
   keywords     = {\_BibTex to MD Git;AEC;Politics and
-                  Society;General-Interest-Periodicals-United-States;Reader\_Obsidian}
+                  Society;General-Interest-Periodicals-United-States;Reader\_Obsidian;git-lit}
 }
 
 @MISC{Harper2026-ko,
@@ -19258,7 +19054,7 @@
                   curator Phineas Harper},
   url          = {https://www.theguardian.com/commentisfree/2026/feb/11/uk-housing-building-standards-one-hyde-park},
   keywords     = {\_BibTex to MD Git;AEC;Politics and
-                  Society;General-Interest-Periodicals-United-States;Reader\_Obsidian}
+                  Society;General-Interest-Periodicals-United-States;Reader\_Obsidian;git-lit}
 }
 
 @MISC{Harper2024-sq,
@@ -19274,7 +19070,7 @@
                   proactive, says writer Phineas Harper},
   url          = {https://www.theguardian.com/commentisfree/article/2024/aug/14/planning-britain-postwar-years-labour-reform},
   keywords     = {\_BibTex to MD Git;AEC;Politics and
-                  Society;General-Interest-Periodicals-United-States;Reader\_Obsidian}
+                  Society;General-Interest-Periodicals-United-States;Reader\_Obsidian;git-lit}
 }
 
 @REPORT{Winter2001-it,
@@ -19300,7 +19096,7 @@
                  created this publication, A Community Guide to Factory-Built
                  Housing, to share these alternatives with a wider audience.},
   url         = {https://www.huduser.gov/publications/pdf/factbuilt.pdf},
-  keywords    = {\_BibTex to MD Git;AEC;Report}
+  keywords    = {\_BibTex to MD Git;AEC;Report;git-lit}
 }
 
 @MISC{Harper2024-ok,
@@ -19316,7 +19112,7 @@
                   writer and curator Phineas Harper},
   url          = {https://www.theguardian.com/commentisfree/2024/sep/29/yimbys-building-homes-solve-housing-crisis},
   keywords     = {\_BibTex to MD Git;AEC;Politics and
-                  Society;General-Interest-Periodicals-United-States;Reader\_Obsidian}
+                  Society;General-Interest-Periodicals-United-States;Reader\_Obsidian;git-lit}
 }
 
 @LEGISLATION{Hill2026-dz,
@@ -19340,7 +19136,7 @@
   url      = {https://www.congress.gov/bill/119th-congress/house-bill/6644},
   keywords = {\_BibTex to MD
               Git;AEC;Report;General-Interest-Periodicals-United-States;Politics
-              and Society}
+              and Society;git-lit}
 }
 
 @REPORT{Murdoch2022-wm,
@@ -19370,7 +19166,7 @@
                  for continuing research on benefits and risks as well as
                  production efficiencies including automation and robotics.},
   url         = {https://www.huduser.gov/portal/publications/An-Exploratory-Study-of-Factory-Built-Homes-and-Their-Implications-for-Affordability-Final-Report.html},
-  keywords    = {\_BibTex to MD Git;Report;AEC}
+  keywords    = {\_BibTex to MD Git;Report;AEC;git-lit}
 }
 
 @INBOOK{Brown2004-oo,
@@ -19410,7 +19206,8 @@
   keywords  = {Workplace Learning in Context;EPubs Books;\_BibTex to MD
                Git;003\_Theoretical Framework;llm-wiki-workflow;\_In
                ClickUp;\_In Notion;\_In Readwise;Cross Ref
-               Chapter;ePub;VET;Workplace Learning;\_New Literature;Book (child)}
+               Chapter;ePub;VET;Workplace Learning;\_New Literature;Book
+               (child);git-lit}
 }
 
 @PHDTHESIS{Jensen2014-gh,
@@ -19443,40 +19240,8 @@
                  interaction mandates the creation of unique end products that
                  cannot be modularized as is done in manufacturing industries.},
   keywords    = {\_BibTex to MD Git;DfMA;Offsite\_NBLM;Thesis;AEC;Technological
-                 change},
+                 change;git-lit},
   language    = {en}
-}
-
-@INBOOK{Bell2021-sw,
-  title     = {Prefabrication},
-  author    = {Bell, Pamela},
-  editor    = {Marriage, Guy},
-  booktitle = {Modern Apartment Design},
-  publisher = {Routledge},
-  location  = {London},
-  pages     = {103--120},
-  date      = {2021-10-15},
-  doi       = {10.4324/9781003123873-9},
-  abstract  = {Historical misperceptions in the United Kingdom have moved the
-               construction culture away from the term ‘prefab’ and more towards
-               ‘offsite’. A revitalisation of ‘modern green prefab’ in the West
-               Coast of the United States of America has made the prefab term
-               more relevant. A revitalisation of 'modern green prefab' in the
-               West Coast of the United States of America has made the prefab
-               term more relevant. In New Zealand, the five-typology framework
-               developed and successfully promoted by Bell is used as a clear
-               guide to the industry by the association PrefabNZ. The 'when' is
-               easy employ a prefabrication approach as early as possible.
-               Essentially, get the design team, construction team and
-               manufacturing teams into a room on Day Zero to work out how the
-               coordination of the project and the data assets will run. The
-               best application for prefabrication methods is where there is
-               repetition such as in multi-residential, hotels, student
-               accommodation, classrooms, aged care facilities, detention
-               centres, etc.},
-  url       = {http://dx.doi.org/10.4324/9781003123873-9},
-  keywords  = {Modern Apartment Design (book);\_BibTex to MD Git;Book
-               (child);AEC}
 }
 
 @BOOK{Marriage2021-dd,
@@ -19541,36 +19306,6 @@
                in apartment buildings is as safe as living in suburban homes.},
   url       = {http://dx.doi.org/10.4324/9781003123873-1},
   keywords  = {Modern Apartment Design (book);Book (child);AEC}
-}
-
-@INBOOK{Petrovic2021-fn,
-  title     = {Looking back},
-  author    = {Petrović, Emina Kristina and Marriage, Guy},
-  editor    = {Marriage, Guy},
-  booktitle = {Modern Apartment Design},
-  publisher = {Routledge},
-  location  = {London},
-  pages     = {29--42},
-  date      = {2021-10-15},
-  doi       = {10.4324/9781003123873-3},
-  abstract  = {This chapter discusses the latter, and this chapter looks into
-               the forms of the apartments in those parts of the world where
-               apartments are commonly used. In order to track the reasons for
-               modern appreciations for apartment living, it is useful to review
-               the ideas associated with the emergence of the apartments during
-               the second half of the 19th century, around the times of
-               industrialisation and urbanisation. The bourgeois apartment
-               buildings of 19th-century Paris organised the previous jumble of
-               rooms within the maison à allée into a clear and practical
-               system. London’s apartment journey was very different to that of
-               Paris or Berlin. Despite being the centre of the British Empire
-               and the world’s first city to surpass 1million residents by 1811,
-               London did grow upwards as much as it expanded outwards into
-               opulent suburbs, leaving the city centre for those too poor to
-               move.},
-  url       = {http://dx.doi.org/10.4324/9781003123873-3},
-  keywords  = {Modern Apartment Design (book);\_BibTex to MD Git;Book
-               (child);AEC}
 }
 
 @INBOOK{Marriage2021-ln,
@@ -19685,7 +19420,8 @@
                tool for both students and industry partners.},
   series    = {Springer Tracts in Civil Engineering},
   url       = {http://dx.doi.org/10.1007/978-3-319-31967-4},
-  keywords  = {Offsite\_NBLM;\_BibTex to MD Git;Book (parent);RNIB;ePub;AEC},
+  keywords  = {Offsite\_NBLM;\_BibTex to MD Git;Book
+               (parent);RNIB;ePub;AEC;git-lit},
   language  = {en}
 }
 
@@ -19753,7 +19489,7 @@
                  marketing for the wider architecture profession and
                  construction industry.},
   url         = {http://dx.doi.org/10.26686/wgtn.19252277},
-  keywords    = {\_BibTex to MD Git;AEC;Thesis}
+  keywords    = {\_BibTex to MD Git;AEC;Thesis;git-lit}
 }
 
 @BOOK{Epstein2025-wk,
@@ -19866,7 +19602,7 @@
                   exploration.},
   url          = {http://dx.doi.org/10.2307/368309},
   keywords     = {\_BibTex to MD Git;003\_NBLM;Philosophy of
-                  Education;Education;Columbia University}
+                  Education;Education;Columbia University;git-lit}
 }
 
 @MISC{Dewey1914-hd,
@@ -19881,7 +19617,7 @@
   issn         = {0028-6583,2169-2416},
   url          = {http://dx.doi.org/10.2307/1179399},
   keywords     = {003\_NBLM;\_BibTex to MD Git;Education;Philosophy of
-                  Education;Columbia University}
+                  Education;Columbia University;git-lit}
 }
 
 @ARTICLE{Huszar2023-ev,
@@ -20057,7 +19793,7 @@
                looking to produce a well-structured, watertight piece of
                research.},
   keywords  = {PhD Study and Support;Thesis Writing;\_BibTex to MD
-               Git;RNIB;ePub;PhD Support and Training},
+               Git;RNIB;ePub;PhD Support and Training;git-lit},
   language  = {en}
 }
 
@@ -20142,7 +19878,7 @@
                demands that come with the revolution for quick adaptability.},
   url       = {http://dx.doi.org/10.1007/978-3-030-85973-2_9},
   keywords  = {\_BibTex to MD Git;Book (child);ePub;AEC;Skill demand;Knowledge -
-               Skill Acquisition}
+               Skill Acquisition;git-lit}
 }
 
 @ARTICLE{Clement1993-wy,
@@ -20205,7 +19941,7 @@
                conception of democracy and what might be imagined for democracy
                in our own time.},
   keywords  = {\_BibTex to MD Git;Politics and Society;Philosophy of
-               Education;Columbia University}
+               Education;Columbia University;git-lit}
 }
 
 @ARTICLE{Bernold2005-nu,
@@ -20237,7 +19973,8 @@
                   the urgency of the issue and show how the proposed paradigm
                   shift is underpinned by our understanding of how people learn.},
   url          = {http://dx.doi.org/10.1061/(asce)0733-9364(2005)131:5(533)},
-  keywords     = {\_BibTex to MD Git;Knowledge - Skill Acquisition;AEC;VET},
+  keywords     = {\_BibTex to MD Git;Knowledge - Skill
+                  Acquisition;AEC;VET;git-lit},
   language     = {en}
 }
 
@@ -20268,7 +20005,7 @@
                   adopted as a continual, comprehensive, and coordinated effort
                   for change and learning across the organization.},
   url          = {http://dx.doi.org/10.5465/AMP.2006.20591002},
-  keywords     = {DfMA;\_BibTex to MD Git;Labor;Future of Work}
+  keywords     = {DfMA;\_BibTex to MD Git;Labor;Future of Work;git-lit}
 }
 
 @ARTICLE{Leoni2012-ml,
@@ -20301,7 +20038,8 @@
                   importance of complementarities or synergies among such
                   practices.},
   url          = {http://dx.doi.org/10.1177/001979391206500206},
-  keywords     = {\_BibTex to MD Git;Workplace Learning;Future of Work;Labor;VET},
+  keywords     = {\_BibTex to MD Git;Workplace Learning;Future of
+                  Work;Labor;VET;git-lit},
   language     = {en}
 }
 
@@ -20337,7 +20075,7 @@
   series    = {Education Policy Analysis},
   url       = {http://dx.doi.org/10.1787/epa-2001-en},
   keywords  = {\_BibTex to MD Git;Education;Knowledge - Skill Acquisition;Skill
-               demand;Labor;VET}
+               demand;Labor;VET;git-lit}
 }
 
 @REPORT{CEDEFOP1998-op,
@@ -20366,7 +20104,7 @@
                  particularly evident in research on education and training.},
   url         = {https://op.europa.eu/s/Ai5c},
   keywords    = {European Union;\_BibTex to MD Git;Report;VET;Labor;Workplace
-                 Learning;Future of Work;Book (parent)}
+                 Learning;Future of Work;Book (parent);git-lit}
 }
 
 @INBOOK{Ashton2004-dg,
@@ -20395,7 +20133,7 @@
   url       = {https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-7/political-economy-workplace-learning-david-ashton?context=ubx&refId=0599ef92-bb1e-4503-892d-6df554760577},
   urldate   = {2026-07-22},
   keywords  = {Workplace Learning in Context;\_BibTex to MD Git;003\_NBLM;Book
-               (child);ePub;VET;Workplace Learning}
+               (child);ePub;VET;Workplace Learning;git-lit}
 }
 
 @INBOOK{Dybowski1998-qn,
@@ -20437,7 +20175,7 @@
                training routes.},
   url       = {https://op.europa.eu/s/Ai5c},
   keywords  = {European Union;\_BibTex to MD Git;Report;VET;Labor;Workplace
-               Learning;Future of Work;Book (child)}
+               Learning;Future of Work;Book (child);git-lit}
 }
 
 @BOOK{Pickering1995-bn,
@@ -20475,7 +20213,7 @@
                apparatus, the production of facts, the development of theory,
                and the interrelation of machines and social organization.},
   keywords  = {\_BibTex to MD Git;RNIB;Philosophy of Education;Technological
-               change}
+               change;git-lit}
 }
 
 @BOOK{Polanyi1944-bv,
@@ -20499,7 +20237,7 @@
                influential work is a passionate call to protect our common
                humanity.},
   keywords  = {\_BibTex to MD Git;EPubs
-               Books;Econ-Labor;RNIB;ePub;Economics;Politics and Society},
+               Books;Econ-Labor;RNIB;ePub;Economics;Politics and Society;git-lit},
   language  = {en}
 }
 
@@ -20531,7 +20269,7 @@
                "top-down" research strategy; metaphor and learning; learning
                without metaphor; and educational uses of metaphor.},
   url       = {http://dx.doi.org/10.1017/cbo9781139173865},
-  keywords  = {Metaphor and Thought;\_BibTex to MD Git},
+  keywords  = {Metaphor and Thought;\_BibTex to MD Git;git-lit},
   origdate  = {1979-09-27}
 }
 
@@ -20564,7 +20302,7 @@
                music.},
   url       = {http://dx.doi.org/10.1017/cbo9781139173865.012},
   keywords  = {Metaphor and Thought;\_BibTex to MD Git;Book (child);Columbia
-               University;Philosophy of Education;Psychology},
+               University;Philosophy of Education;Psychology;git-lit},
   origdate  = {1979}
 }
 
@@ -20605,7 +20343,7 @@
                generative metaphor.},
   url       = {http://dx.doi.org/10.1017/cbo9781139173865.011},
   keywords  = {Metaphor and Thought;\_BibTex to MD Git;Philosophy of
-               Education;Psychology;Book (child)}
+               Education;Psychology;Book (child);git-lit}
 }
 
 @BOOK{Neisser1976-qv,
@@ -20621,7 +20359,7 @@
                mechanistic information-processing models and stressing
                differences between perception in the external world and in
                experimental laboratory situations.},
-  keywords  = {\_BibTex to MD Git;Psychology}
+  keywords  = {\_BibTex to MD Git;Psychology;git-lit}
 }
 
 @BOOK{Roser2016-pm,
@@ -20654,7 +20392,7 @@
                invented, manufactured, and marketed the products.},
   keywords  = {EPubs Books;RCPSP\_Takt\_Taylorism;\_BibTex to MD
                Git;RNIB;Workplace
-               Learning;ePub;Labor;Automation;Robots;Training;Economics}
+               Learning;ePub;Labor;Automation;Robots;Training;Economics;git-lit}
 }
 
 @BOOK{Hughes1989-it,
@@ -20680,7 +20418,7 @@
                recounts his earlier missteps in predicting the future of
                technology and follows its move into the information age.},
   keywords  = {EPubs Books;RCPSP\_Takt\_Taylorism;\_BibTex to MD
-               Git;Economics;Technological change;ePub;RNIB},
+               Git;Economics;Technological change;ePub;RNIB;git-lit},
   language  = {en}
 }
 
@@ -20710,7 +20448,7 @@
                Machine That Changed the World provides enduring and essential
                guidance to managers and leaders in every industry seeking to
                transform traditional enterprises into exemplars of lean success.},
-  keywords  = {EPubs Books;\_BibTex to MD Git;Economics;Automation;ePub},
+  keywords  = {EPubs Books;\_BibTex to MD Git;Economics;Automation;ePub;git-lit},
   origdate  = {1990-02-09}
 }
 
@@ -20748,7 +20486,7 @@
                mathematical symbols and the world they represent.},
   series    = {III Human Factors},
   url       = {http://dx.doi.org/10.1007/978-1-4613-3724-9},
-  keywords  = {\_BibTex to MD Git;Psychology;Book (parent);RNIB},
+  keywords  = {\_BibTex to MD Git;Psychology;Book (parent);RNIB;git-lit},
   language  = {en}
 }
 
@@ -20778,7 +20516,7 @@
                that.},
   url       = {http://dx.doi.org/10.1007/978-1-4613-3724-9_1},
   keywords  = {\_BibTex to MD Git;Psychology;Knowledge - Skill Acquisition;Skill
-               demand;Philosophy of Education;Book (child);RNIB}
+               demand;Philosophy of Education;Book (child);RNIB;git-lit}
 }
 
 @ARTICLE{Billett2004-xi,
@@ -20823,7 +20561,7 @@
                   individuals.},
   url          = {http://dx.doi.org/10.1080/13636820400200245},
   keywords     = {\_BibTex to MD Git;003\_NBLM;Knowledge - Skill
-                  Acquisition;Skill demand;Workplace Learning;VET},
+                  Acquisition;Skill demand;Workplace Learning;VET;git-lit},
   language     = {en}
 }
 
@@ -20862,7 +20600,7 @@
                volume.},
   url       = {http://dx.doi.org/10.1007/978-3-662-03362-3},
   keywords  = {\_BibTex to MD Git;003\_NBLM;Book (parent);RNIB;Knowledge - Skill
-               Acquisition;Workplace Learning;Psychology},
+               Acquisition;Workplace Learning;Psychology;git-lit},
   language  = {en}
 }
 
@@ -20894,7 +20632,7 @@
                with respect to those artifacts, and the words that are spoken.},
   url       = {http://dx.doi.org/10.1007/978-3-662-03362-3_2},
   keywords  = {\_BibTex to MD Git;003\_NBLM;Book (child);RNIB;Knowledge - Skill
-               Acquisition;Workplace Learning;Psychology}
+               Acquisition;Workplace Learning;Psychology;git-lit}
 }
 
 @ARTICLE{Linner2012-an,
@@ -20950,7 +20688,7 @@
                   combines automation, products and services into complex
                   value‐capturing systems.},
   url          = {http://dx.doi.org/10.1108/14714171211215921},
-  keywords     = {Construction 4-0;\_BibTex to MD Git;Offsite\_NBLM;AEC},
+  keywords     = {Construction 4-0;\_BibTex to MD Git;Offsite\_NBLM;AEC;git-lit},
   language     = {en}
 }
 
@@ -21016,7 +20754,7 @@
                poorly coordinated teams.},
   url       = {https://www.aecbytes.com/viewpoint/2013/issue_67.html},
   keywords  = {\_BibTex to MD Git;AEC;Labor;Skill
-               demand;Website;Reader\_Obsidian}
+               demand;Website;Reader\_Obsidian;git-lit}
 }
 
 @ARTICLE{Cooke2001-cz,
@@ -21085,7 +20823,7 @@
                   neoclassical models of induced technical change are still
                   unsatisfactory in a number of respects.},
   url          = {http://dx.doi.org/10.1111/meca.12141},
-  keywords     = {\_BibTex to MD Git},
+  keywords     = {\_BibTex to MD Git;git-lit},
   language     = {en}
 }
 
@@ -21134,37 +20872,6 @@
   url          = {http://dx.doi.org/10.1007/s42452-024-06268-4},
   keywords     = {AEC},
   language     = {en}
-}
-
-@REPORT{Farmer2016-oy,
-  type        = {techreport},
-  title       = {The Farmer Review of the {UK} Construction Labour Model:
-                 Modernise or Die},
-  author      = {Farmer, Mark},
-  publisher   = {Construction Leadership Council (CLC)},
-  institution = {Cast Consultancy, Construction Leadership Council (CLC)},
-  number      = {1},
-  date        = {2016-10},
-  pagetotal   = {80},
-  abstract    = {The review examines the shortcomings of the construction labour
-                 model and shows how it has given rise to underinvestment in
-                 training and development, innovation, and in raising
-                 productivity. It concludes that workforce attrition,
-                 exacerbated by an ageing workforce, means that there is now a
-                 fundamental imperative for change. The report challenges the
-                 sector to do things differently – to reduce the reliance on
-                 building in the same way that we have for decades, with its
-                 heavy demand for on-site labour. This is a challenge for all
-                 stakeholders – the industry, its clients, and government. The
-                 report’s recommendations focus on finding and unlocking the
-                 drivers of change, including action to support predictability
-                 of demand, and on leadership to own the change. The Leadership
-                 Council has a key role to play here, though it crucially
-                 depends on the industry and its clients joining the journey.},
-  url         = {https://www.constructionleadershipcouncil.co.uk/news/farmerreport/},
-  keywords    = {Government Report;\_BibTex to MD
-                 Git;Offsite\_NBLM;AEC;Report;Labor;Skill demand},
-  origtitle   = {Modernise or Die: Time to decide the industry’s future}
 }
 
 @ARTICLE{Woods1998-zz,
@@ -21218,7 +20925,8 @@
                college leaders who are preparing their institutions to enter the
                21st century.},
   series    = {American Council on Education/Oryx Press Series on Higher Ed},
-  keywords  = {\_BibTex to MD Git;RNIB;ePub;Education;Philosophy of Education}
+  keywords  = {\_BibTex to MD Git;RNIB;ePub;Education;Philosophy of
+               Education;git-lit}
 }
 
 @BOOK{de-Tocqueville1835-sr,
@@ -21252,7 +20960,7 @@
                 governance, the balance between liberty and equality, and the
                 cultural mores that sustain free societies.},
   keywords   = {Econ-Labor;\_BibTex to MD Git;Economics;Politics and
-                Society;Reader\_Obsidian},
+                Society;Reader\_Obsidian;git-lit},
   origtitle  = {<i>De la démocratie en Amérique</i>},
   volumes    = {2}
 }
@@ -21288,7 +20996,7 @@
                 to gently stifle individual liberty under the guise of paternal
                 care.},
   keywords   = {Econ-Labor;\_BibTex to MD Git;Economics;Politics and
-                Society;Reader\_Obsidian},
+                Society;Reader\_Obsidian;git-lit},
   origtitle  = {<i>De la démocratie en Amérique</i>},
   volumes    = {2}
 }
@@ -21310,7 +21018,7 @@
                prioritizing machine-tending over skilled craftsmanship,
                ultimately driving global trade competitiveness.},
   keywords  = {Econ-Labor;\_BibTex to MD Git;Labor;Economics;Politics and
-               Society}
+               Society;git-lit}
 }
 
 @ARTICLE{Edwards2001-pi,
@@ -21344,7 +21052,7 @@
                   middle-class state.},
   url          = {http://dx.doi.org/10.1093/jdh/14.1.17},
   keywords     = {Econ-Labor;\_BibTex to MD Git;Labor;Economics;Politics and
-                  Society}
+                  Society;git-lit}
 }
 
 @INBOOK{Grier2005-pm,
@@ -21465,7 +21173,7 @@
   isbn      = {9780691133829},
   url       = {http://www.jstor.org/stable/j.ctt4cgc82.5},
   keywords  = {When-Computers-Were-Human;\_BibTex to MD Git;Book
-               (child);Economics}
+               (child);Economics;git-lit}
 }
 
 @INBOOK{Grier2005-eq,
@@ -21693,7 +21401,7 @@
   publisher  = {Baudouin Imprimeur De L'institut Paris},
   location   = {Paris},
   date       = {1800},
-  keywords   = {\_BibTex to MD Git;Econ-Labor;Economics},
+  keywords   = {\_BibTex to MD Git;Econ-Labor;Economics;git-lit},
   language   = {fr}
 }
 
@@ -21725,7 +21433,7 @@
                remains so today for the historical information it contains.},
   url       = {http://dx.doi.org/10.1017/cbo9781316144633},
   keywords  = {\_BibTex to MD Git;Econ-Labor;Economics;Labor;Politics and
-               Society}
+               Society;git-lit}
 }
 
 @BOOK{Grier2005-sq,
@@ -21756,7 +21464,7 @@
   url       = {http://dx.doi.org/10.2307/j.ctt4cgc82},
   keywords  = {\_BibTex to MD
                Git;When-Computers-Were-Human;Economics;Labor;Technological
-               change;Artificial Intelligence (AI);Book (parent)},
+               change;Artificial Intelligence (AI);Book (parent);git-lit},
   language  = {en}
 }
 
@@ -21785,7 +21493,7 @@
                   influence of this project upon Babbage's ideas on computers
                   and tables.},
   url          = {http://dx.doi.org/10.1109/mahc.1990.10029},
-  keywords     = {Econ-Labor;\_BibTex to MD Git;Labor;Economics}
+  keywords     = {Econ-Labor;\_BibTex to MD Git;Labor;Economics;git-lit}
 }
 
 @BOOK{Dickens1854-fw,
@@ -21802,7 +21510,7 @@
                Gradgrind, wealthy factory owner Josiah Bounderby, and honest
                mill worker Stephen Blackpool.},
   keywords  = {EPubs Books;Novels;\_BibTex to MD
-               Git;RNIB;ePub;Audiobook;Fiction;Economics},
+               Git;RNIB;ePub;Audiobook;Fiction;Economics;git-lit},
   language  = {en}
 }
 
@@ -21836,7 +21544,7 @@
   keywords  = {Workplace Learning in Context;3\_Upgrade OCT 2023;\_BibTex to MD
                Git;EPubs Books;llm-wiki-workflow;\_In Notion;\_In Readwise;Cross
                Ref Chapter;ePub;VET;Workplace Learning;\_New Literature;Book
-               (child)}
+               (child);git-lit}
 }
 
 @BOOK{Thompson1983-rm,
@@ -21858,7 +21566,8 @@
                neglected in early debates: legitimation and consent at work, and
                the effects of the sexual division of labour.},
   url       = {http://dx.doi.org/10.1007/978-1-349-20028-3},
-  keywords  = {Econ-Labor;\_BibTex to MD Git;RNIB;Labor;Skill demand;Economics},
+  keywords  = {Econ-Labor;\_BibTex to MD Git;RNIB;Labor;Skill
+               demand;Economics;git-lit},
   language  = {en}
 }
 
@@ -21877,7 +21586,8 @@
                range from the classical theories and bureaucratisation of
                production, t},
   url       = {http://dx.doi.org/10.1007/978-1-349-20741-1},
-  keywords  = {Econ-Labor;\_BibTex to MD Git;RNIB;Labor;Skill demand;Economics},
+  keywords  = {Econ-Labor;\_BibTex to MD Git;RNIB;Labor;Skill
+               demand;Economics;git-lit},
   language  = {en}
 }
 
@@ -21907,7 +21617,8 @@
                students with a thorough understanding of the nature of work and
                organisations.},
   url       = {http://dx.doi.org/10.1007/978-1-137-08842-0},
-  keywords  = {Econ-Labor;\_BibTex to MD Git;RNIB;Labor;Skill demand;Economics},
+  keywords  = {Econ-Labor;\_BibTex to MD Git;RNIB;Labor;Skill
+               demand;Economics;git-lit},
   language  = {en}
 }
 
@@ -21950,7 +21661,7 @@
                often have little purchase in the fractured terrain of the
                construction sector.},
   url       = {https://www.taylorfrancis.com/chapters/edit/10.4324/9780203842478-2/human-resource-management-construction-context-disappearing-workers-uk-kate-ness-stuart-green?context=ubx&refId=bafcc23c-3e66-4c17-ad6d-5daf272fbda4},
-  keywords  = {HRM-Construction;\_BibTex to MD Git},
+  keywords  = {HRM-Construction;\_BibTex to MD Git;git-lit},
   language  = {en}
 }
 
@@ -21972,7 +21683,7 @@
                decades he worked to complete his second volume of the
                Principles, but his unyielding attention to detail and ambition
                for completeness prevented him from mastering the work's breadth.},
-  keywords  = {RCPSP\_Takt\_Taylorism;\_BibTex to MD Git;Economics;Labor},
+  keywords  = {RCPSP\_Takt\_Taylorism;\_BibTex to MD Git;Economics;Labor;git-lit},
   origdate  = {1890}
 }
 
@@ -22095,7 +21806,7 @@
   urldate      = {2026-05-13},
   keywords     = {AEC\_learning\_theory\_2021-26;\_BibTex to MD
                   Git;Offsite\_NBLM;AEC;Training;VET;Knowledge - Skill
-                  Acquisition;Systematic Review},
+                  Acquisition;Systematic Review;git-lit},
   language     = {en}
 }
 
@@ -22145,7 +21856,7 @@
                   degrees and learning requirements in an OSC perspective.},
   url          = {http://dx.doi.org/10.1108/ci-12-2022-0322},
   keywords     = {\_BibTex to MD Git;AEC;Knowledge - Skill Acquisition;Skill
-                  demand;VET},
+                  demand;VET;git-lit},
   language     = {en}
 }
 
@@ -22207,7 +21918,7 @@
                   different channels in off-site construction projects.},
   url          = {http://dx.doi.org/10.1108/ecam-09-2022-0901},
   keywords     = {\_BibTex to MD Git;AEC;Knowledge - Skill Acquisition;Skill
-                  demand;VET},
+                  demand;VET;git-lit},
   language     = {en}
 }
 
@@ -22268,7 +21979,7 @@
                   performance, and devise productivity improvement strategies.},
   url          = {http://dx.doi.org/10.1061/jcemd4.coeng-12654},
   keywords     = {\_BibTex to MD Git;AEC;Knowledge - Skill Acquisition;Skill
-                  demand;VET},
+                  demand;VET;git-lit},
   language     = {en}
 }
 
@@ -22300,7 +22011,7 @@
                   forming and formed.},
   url          = {https://doi.org/10.1177/1350507604048271},
   keywords     = {\_BibTex to MD Git;Knowledge - Skill Acquisition;Philosophy of
-                  Education}
+                  Education;git-lit}
 }
 
 @ARTICLE{Elkjaer2003-sk,
@@ -22328,7 +22039,7 @@
                   their experiences with work and workplaces.},
   url          = {http://dx.doi.org/10.1080/0260137032000102841},
   keywords     = {\_BibTex to MD Git;Knowledge - Skill Acquisition;Philosophy of
-                  Education}
+                  Education;git-lit}
 }
 
 @ARTICLE{Hartmann2015-ra,
@@ -22362,7 +22073,7 @@
                   projects.},
   url          = {http://dx.doi.org/10.1016/j.ijproman.2014.07.006},
   keywords     = {\_BibTex to MD Git;Knowledge - Skill Acquisition;Philosophy of
-                  Education},
+                  Education;git-lit},
   language     = {en}
 }
 
@@ -22403,7 +22114,7 @@
                   of our endeavor for organization science.},
   url          = {http://dx.doi.org/10.1287/orsc.1080.0412},
   keywords     = {\_BibTex to MD Git;Knowledge - Skill Acquisition;Workplace
-                  Learning},
+                  Learning;git-lit},
   language     = {en}
 }
 
@@ -22440,7 +22151,7 @@
                   which is also ready for the future.},
   url          = {http://dx.doi.org/10.1177/13505076211049599},
   keywords     = {\_BibTex to MD Git;Knowledge - Skill Acquisition;Workplace
-                  Learning},
+                  Learning;git-lit},
   language     = {en}
 }
 
@@ -22478,7 +22189,7 @@
                   wide variety of terms, these theories and models do include
                   fundamentally similar principles.},
   url          = {http://dx.doi.org/10.1007/bf02505024},
-  keywords     = {\_BibTex to MD Git;Training},
+  keywords     = {\_BibTex to MD Git;Training;git-lit},
   language     = {en}
 }
 
@@ -22507,7 +22218,7 @@
                reflection, and experience—as a conceptual bridge between the
                epistemology and ontology of learning.},
   keywords  = {\_BibTex to MD Git;Knowledge - Skill Acquisition;Philosophy of
-               Education;Education},
+               Education;Education;git-lit},
   language  = {English}
 }
 
@@ -22563,7 +22274,7 @@
                   Oxford University Press.},
   url          = {http://dx.doi.org/10.1093/icc/dth058},
   keywords     = {\_BibTex to MD Git;Knowledge - Skill Acquisition;Workplace
-                  Learning}
+                  Learning;git-lit}
 }
 
 @ARTICLE{Bishop2008-wj,
@@ -22609,25 +22320,7 @@
   url          = {http://dx.doi.org/10.1108/13673270810884228},
   keywords     = {UCL - University College London;\_BibTex to MD
                   Git;AEC;UCL;Workplace Learning;Knowledge - Skill
-                  Acquisition;Skill demand},
-  language     = {en}
-}
-
-@ARTICLE{Gherardi2000-cg,
-  title        = {Practice-based theorizing on learning and knowing in
-                  organizations},
-  author       = {Gherardi, Silvia},
-  journaltitle = {Organization (London, England)},
-  publisher    = {SAGE Publications},
-  volume       = {7},
-  issue        = {2},
-  pages        = {211--223},
-  date         = {2000-05},
-  doi          = {10.1177/135050840072001},
-  issn         = {1350-5084,1461-7323},
-  url          = {http://dx.doi.org/10.1177/135050840072001},
-  keywords     = {\_BibTex to MD Git;Knowledge - Skill Acquisition;Workplace
-                  Learning},
+                  Acquisition;Skill demand;git-lit},
   language     = {en}
 }
 
@@ -22686,7 +22379,363 @@
                competencies that make growth possible—indeed, they'll have to
                rethink the concept of the corporation itself.},
   url       = {http://dx.doi.org/10.4324/9780080517889-chapter1},
-  keywords  = {\_BibTex to MD Git;Book (child)}
+  keywords  = {\_BibTex to MD Git;Book (child);git-lit}
+}
+
+@ARTICLE{Gherardi2000-cg,
+  title        = {Practice-based theorizing on learning and knowing in
+                  organizations},
+  author       = {Gherardi, Silvia},
+  journaltitle = {Organization (London, England)},
+  publisher    = {SAGE Publications},
+  volume       = {7},
+  issue        = {2},
+  pages        = {211--223},
+  date         = {2000-05},
+  doi          = {10.1177/135050840072001},
+  issn         = {1350-5084,1461-7323},
+  url          = {http://dx.doi.org/10.1177/135050840072001},
+  keywords     = {\_BibTex to MD Git;Knowledge - Skill Acquisition;Workplace
+                  Learning;git-lit},
+  language     = {en}
+}
+
+@REPORT{Farmer2016-oy,
+  type        = {techreport},
+  title       = {The Farmer Review of the {UK} Construction Labour Model:
+                 Modernise or Die},
+  author      = {Farmer, Mark},
+  publisher   = {Construction Leadership Council (CLC)},
+  institution = {Cast Consultancy, Construction Leadership Council (CLC)},
+  number      = {1},
+  date        = {2016-10},
+  pagetotal   = {80},
+  abstract    = {The review examines the shortcomings of the construction labour
+                 model and shows how it has given rise to underinvestment in
+                 training and development, innovation, and in raising
+                 productivity. It concludes that workforce attrition,
+                 exacerbated by an ageing workforce, means that there is now a
+                 fundamental imperative for change. The report challenges the
+                 sector to do things differently – to reduce the reliance on
+                 building in the same way that we have for decades, with its
+                 heavy demand for on-site labour. This is a challenge for all
+                 stakeholders – the industry, its clients, and government. The
+                 report’s recommendations focus on finding and unlocking the
+                 drivers of change, including action to support predictability
+                 of demand, and on leadership to own the change. The Leadership
+                 Council has a key role to play here, though it crucially
+                 depends on the industry and its clients joining the journey.},
+  url         = {https://www.constructionleadershipcouncil.co.uk/news/farmerreport/},
+  keywords    = {Government Report;\_BibTex to MD
+                 Git;Offsite\_NBLM;AEC;Report;Labor;Skill demand;git-lit},
+  origtitle   = {Modernise or Die: Time to decide the industry’s future}
+}
+
+@INBOOK{Bell2021-sw,
+  title     = {Prefabrication},
+  author    = {Bell, Pamela},
+  editor    = {Marriage, Guy},
+  booktitle = {Modern Apartment Design},
+  publisher = {Routledge},
+  location  = {London},
+  pages     = {103--120},
+  date      = {2021-10-15},
+  doi       = {10.4324/9781003123873-9},
+  abstract  = {Historical misperceptions in the United Kingdom have moved the
+               construction culture away from the term ‘prefab’ and more towards
+               ‘offsite’. A revitalisation of ‘modern green prefab’ in the West
+               Coast of the United States of America has made the prefab term
+               more relevant. A revitalisation of 'modern green prefab' in the
+               West Coast of the United States of America has made the prefab
+               term more relevant. In New Zealand, the five-typology framework
+               developed and successfully promoted by Bell is used as a clear
+               guide to the industry by the association PrefabNZ. The 'when' is
+               easy employ a prefabrication approach as early as possible.
+               Essentially, get the design team, construction team and
+               manufacturing teams into a room on Day Zero to work out how the
+               coordination of the project and the data assets will run. The
+               best application for prefabrication methods is where there is
+               repetition such as in multi-residential, hotels, student
+               accommodation, classrooms, aged care facilities, detention
+               centres, etc.},
+  url       = {http://dx.doi.org/10.4324/9781003123873-9},
+  keywords  = {Modern Apartment Design (book);\_BibTex to MD Git;Book
+               (child);AEC;git-lit}
+}
+
+@INBOOK{Petrovic2021-fn,
+  title     = {Looking back},
+  author    = {Petrović, Emina Kristina and Marriage, Guy},
+  editor    = {Marriage, Guy},
+  booktitle = {Modern Apartment Design},
+  publisher = {Routledge},
+  location  = {London},
+  pages     = {29--42},
+  date      = {2021-10-15},
+  doi       = {10.4324/9781003123873-3},
+  abstract  = {This chapter discusses the latter, and this chapter looks into
+               the forms of the apartments in those parts of the world where
+               apartments are commonly used. In order to track the reasons for
+               modern appreciations for apartment living, it is useful to review
+               the ideas associated with the emergence of the apartments during
+               the second half of the 19th century, around the times of
+               industrialisation and urbanisation. The bourgeois apartment
+               buildings of 19th-century Paris organised the previous jumble of
+               rooms within the maison à allée into a clear and practical
+               system. London’s apartment journey was very different to that of
+               Paris or Berlin. Despite being the centre of the British Empire
+               and the world’s first city to surpass 1million residents by 1811,
+               London did grow upwards as much as it expanded outwards into
+               opulent suburbs, leaving the city centre for those too poor to
+               move.},
+  url       = {http://dx.doi.org/10.4324/9781003123873-3},
+  keywords  = {Modern Apartment Design (book);\_BibTex to MD Git;Book
+               (child);AEC;git-lit}
+}
+
+@INBOOK{Beckett2005-ms,
+  title     = {Know How: Practice at close quarters},
+  author    = {Beckett, David and Hager, Paul},
+  booktitle = {Life, Work and Learning: Practice in Postmodernity},
+  publisher = {Routledge},
+  location  = {London, England},
+  edition   = {1},
+  pages     = {10--38},
+  date      = {2002-07},
+  doi       = {10.4324/9780203994450-3},
+  isbn      = {9781134717897},
+  abstract  = {This is a book about practitioners’ ‘hot action’. It seeks to
+               make sense of thoseprocesses and acts of judgement endemic to
+               everyday experiences at work andindeed in life, from which adults
+               learn. Our focus is on paid workers, be they teachers,
+               crane-drivers, nurses, paramedics, fast-food retailers, surgeons,
+               gardeners, lawyers and the like, but we also believe unpaid work,
+               in the community and in households—say, as parents—also suits
+               this experiential emphasis.Any setting which is amenable to
+               provoking deeper consideration of intelligent action, that is,
+               where adults can learn how to go on, is of interest to us.
+               Suchlearning has an epistemological basis in ‘know how’—and
+               philosophers have arich literature in ‘knowing how’ to go on.},
+  url       = {http://dx.doi.org/10.4324/9780203994450-3},
+  keywords  = {Life\_Work\_Learning;\_BibTex to MD Git;003\_Theoretical
+               Framework;Marx\_Labor;Book (child);Knowledge - Skill
+               Acquisition;Workplace Learning;ePub;git-lit}
+}
+
+@ARTICLE{Glaeser2008-jr,
+  title        = {Housing supply and housing bubbles},
+  author       = {Glaeser, Edward L and Gyourko, Joseph and Saiz, Albert},
+  journaltitle = {Journal of Urban Economics},
+  publisher    = {Elsevier},
+  volume       = {64},
+  issue        = {2},
+  pages        = {198--217},
+  date         = {2008-09},
+  doi          = {10.1016/j.jue.2008.07.007},
+  issn         = {0094-1190,1095-9068},
+  abstract     = {Like many other assets, housing prices are quite volatile
+                  relative to observable changes in fundamentals. If we are
+                  going to understand boom-bust housing cycles, we must
+                  incorporate housing supply. In this paper, we present a simple
+                  model of housing bubbles that predicts that places with more
+                  elastic housing supply have fewer and shorter bubbles, with
+                  smaller price increases. However, the welfare consequences of
+                  bubbles may actually be higher in more elastic places because
+                  those places will overbuild more in response to a bubble. The
+                  data show that the price run-ups of the 1980s were almost
+                  exclusively experienced in cities where housing supply is more
+                  inelastic. More elastic places had slightly larger increases
+                  in building during that period. Over the past five years, a
+                  modest number of more elastic places also experienced large
+                  price booms, but as the model suggests, these booms seem to
+                  have been quite short. Prices are already moving back towards
+                  construction costs in those areas.},
+  url          = {http://dx.doi.org/10.1016/j.jue.2008.07.007},
+  keywords     = {\_BibTex to MD Git;Economics;git-lit},
+  language     = {en}
+}
+
+@ARTICLE{Ozgur2014-tm,
+  title        = {Babbage's legacy: The origins of microeconomics in On the
+                  Economy of machinery and Manufactures},
+  author       = {Ozgur, Mustafa Erdem},
+  journaltitle = {Scottish Journal of Political Economy},
+  publisher    = {Wiley},
+  volume       = {61},
+  issue        = {3},
+  pages        = {322--339},
+  date         = {2014-07},
+  doi          = {10.1111/sjpe.12047},
+  issn         = {0036-9292,1467-9485},
+  abstract     = {AbstractBritish mathematician Charles Babbage (1791–1871)
+                  spent immense energy to build mechanical calculating engines.
+                  Hoping that it might help him in designing and building his
+                  engines, he visited numerous workshops and factories in both
+                  England and Continental Europe. One of the consequences of
+                  these visits was his On the Economy of Machinery and
+                  Manufactures, published in 1832. Through his observations,
+                  Babbage grasped the advantages of machinery and economies of
+                  scale. In micro terms, he acknowledged the cost‐reducing
+                  features of economies of location, vertical integration, and
+                  division of labor – beyond Adam Smith's analysis – as well as
+                  the efficacy of clustering. He also pointed out the
+                  relationship between firm size, economic crisis, and
+                  innovation.},
+  url          = {http://dx.doi.org/10.1111/sjpe.12047},
+  keywords     = {Braverman;\_BibTex to MD Git;Marx\_Labor;Economics;git-lit},
+  language     = {en}
+}
+
+@ARTICLE{Kraiger1993-my,
+  title        = {Application of cognitive, skill-based, and affective theories
+                  of learning outcomes to new methods of training evaluation},
+  author       = {Kraiger, Kurt and Ford, J Kevin and Salas, Eduardo},
+  journaltitle = {The Journal of Applied Psychology},
+  publisher    = {American Psychological Association (APA)},
+  volume       = {78},
+  issue        = {2},
+  pages        = {311--328},
+  date         = {1993-04},
+  doi          = {10.1037/0021-9010.78.2.311},
+  issn         = {0021-9010,1939-1854},
+  abstract     = {Although training evaluation is recognized as an important
+                  component of the instructional design model, there are no
+                  theoretically based models of training evaluation. This
+                  article attempts to move toward such a model by developing a
+                  classification scheme for evaluating learning outcomes.
+                  Learning constructs are derived from a variety of research
+                  domains, such as cognitive, social, and instructional
+                  psychology and human factors. Drawing from this research, the
+                  authors propose cognitive, skill-based, and affective learning
+                  outcomes (relevant to training) and recommend potential
+                  evaluation measures. The learning outcomes and associated
+                  evaluation measures are organized into a classification
+                  scheme. Requirements for providing construct-oriented evidence
+                  of validity for the scheme are also discussed.},
+  url          = {http://dx.doi.org/10.1037/0021-9010.78.2.311},
+  keywords     = {\_BibTex to MD Git;003\_Theoretical Framework;Labor;Knowledge
+                  - Skill Acquisition;git-lit},
+  language     = {en}
+}
+
+@ARTICLE{Tinel2009-gg,
+  title        = {Labour process and the division of labour, a reading},
+  author       = {Tinel, Bruno},
+  journaltitle = {Les Documents de travail du Centre d'Économie de la Sorbonne
+                  (CES)},
+  pages        = {15},
+  date         = {2009-11},
+  issn         = {1955-611X},
+  abstract     = {This article proposes an analysis of the labour process and
+                  the division of labour in capitalist production through a
+                  reading of Marx and a few others like Babbage and Braverman.
+                  The distinction between labour and labour power is used to
+                  expose the specificity of the labour process. Cooperation
+                  constitues the fundamental from of capitalist production,
+                  which entails a double-sided command (coordination to produce
+                  use-values and despotism to extract surplus-value). Formal
+                  subordination, i.e; the threat of lay-off, is historically and
+                  logically the primitive moment of labour's subordination to
+                  capital. The effect of the division of labour on productivity
+                  is only temporary. It principally deprives workers of their
+                  professional skills, increases real control by management,
+                  reduces labour power's value and prepares its replacement by
+                  machinery. There is an incessant struggle between labour and
+                  management over the control of the labour process and over
+                  skills.},
+  url          = {https://shs.hal.science/halshs-00435252},
+  note         = {Documents de travail du Centre d'Economie de la Sorbonne
+                  2009.74 - ISSN : 1955-611X},
+  keywords     = {Braverman;\_BibTex to MD Git;Marx\_Labor;Labor;git-lit},
+  language     = {en}
+}
+
+@ARTICLE{Sawchuk2006-od,
+  title        = {‘Use-Value’ and the Re-thinking of Skills, Learning and the
+                  Labour Process},
+  author       = {Sawchuk, Peter H},
+  journaltitle = {The Journal of Industrial Relations},
+  publisher    = {SAGE Publications},
+  volume       = {48},
+  issue        = {5},
+  pages        = {593--617},
+  date         = {2006-11},
+  doi          = {10.1177/0022185606070107},
+  issn         = {0022-1856,1472-9296},
+  abstract     = {Reviewing multiple traditions of social analysis of work,
+                  skill and knowledge this article seeks to renew the
+                  possibility for a critical, integrated approach.
+                  Contextualizing and then criticizing the ongoing
+                  ‘up-skilling/de-skilling impasse’, I offer discussion of
+                  several alternative conceptual resources that may contribute
+                  to a more robust appreciation for learning and human
+                  development, potentially unified under a suggested ‘Use-Value
+                  Thesis’ on the labour/learning process. It is argued that
+                  recognizing ‘use-value’ sets the stage for a broader systemic
+                  understanding of the contradictory processes (e.g.
+                  up-skilling/de-skilling, engagement/alienation,
+                  co-operation/conflict) that occur simultaneously in all
+                  workplaces under capitalism, and in turn offers a means to
+                  more coherently assess the full range of human learning.},
+  url          = {http://dx.doi.org/10.1177/0022185606070107},
+  keywords     = {Braverman;\_BibTex to MD Git;Marx\_Labor;Labor;git-lit},
+  language     = {en}
+}
+
+@AUDIO{Chibber2026-fw,
+  title     = {How Work Got So Bad},
+  author    = {Chibber, Vivek and Naschek, Melissa},
+  editora   = {{Jacobin}},
+  publisher = {Catalyst: A Journal of Theory and Strategy},
+  date      = {2026-03-12},
+  abstract  = {Under capitalism, technological “progress” like AI systematically
+               deskills workers, deepens managerial control, and turns the labor
+               process into a site of conflict rather than liberation. This is
+               by design. Why does every new technology seem to make work harder
+               and not easier? In 1974, Harry Braverman published a seminal text
+               Labor and Monopoly Capital to answer that question. Combining a
+               careful study of scientific management and technological
+               innovation with several of Marx’s key concepts, Braverman
+               explained why workers under capitalism are gradually transformed
+               into mere cogs in the machine. On the latest episode of
+               Confronting Capitalism, Vivek Chibber and Melissa Naschek discuss
+               the process of managers breaking down workers’ skills and why
+               work under capitalism tends to degrade rather than fulfill us.},
+  url       = {https://jacobin.com/2026/03/work-deskilling-labor-capitalism-technology},
+  urldate   = {2026-06-05},
+  keywords  = {\_BibTex to MD
+               Git;Braverman;Podcast;Reader\_Obsidian;Labor;Future of
+               Work;Economics;git-lit},
+  language  = {en}
+}
+
+@INBOOK{Harteis2014-pr,
+  title     = {Discourses on Professional Learning: On the Boundary Between
+               Learning and Working},
+  author    = {Harteis, Christian and Rausch, Andreas and Seifried, Jürgen},
+  editor    = {Harteis, Christian and Rausch, Andreas and Seifried, Jürgen},
+  booktitle = {Discourses on Professional Learning: On the Boundary Between
+               Learning and Working},
+  publisher = {Springer},
+  pages     = {1--7},
+  date      = {2014},
+  doi       = {10.1007/978-94-007-7012-6_1},
+  issn      = {2210-5549,2210-5557},
+  isbn      = {9789400770119,9789400770126},
+  abstract  = {Research on workplace learning brings learning and working
+               together and investigates the relationships between working and
+               learning. Working and learning are determining factors of human
+               activity, but are they in conflict with each other or is there a
+               coincidence of working and learning? Where are the boundaries
+               between working and learning and how can they be characterised?
+               When discussing the boundary between learning and working, three
+               questions arise: (1) How do boundaries become apparent? (2) Why
+               should we cross these boundaries? (3) How can we cross these
+               boundaries? This reader comprises attempts to approach these
+               questions.},
+  url       = {http://dx.doi.org/10.1007/978-94-007-7012-6_1},
+  keywords  = {Discourses on Professional Learning;\_BibTex to MD Git;EPubs
+               Books;Book (child);Workplace Learning;ePub;git-lit}
 }
 
 @ARTICLE{De_Jong2013-st,
@@ -66157,7 +66206,7 @@
                   the dynamics of dirty work.},
   url          = {http://dx.doi.org/10.1177/09500170211011321},
   keywords     = {Theory and Methods;\_BibTex to MD Git;Critical
-                  Realism;llm-wiki-workflow;Marx\_Labor},
+                  Realism;llm-wiki-workflow;Marx\_Labor;git-lit},
   language     = {en}
 }
 
@@ -66211,7 +66260,7 @@
                   the labor market return to social skills was much greater in
                   the 2000s than in the mid-1980s and 1990s.},
   url          = {http://dx.doi.org/10.1093/qje/qjx022},
-  keywords     = {\_BibTex to MD Git;llm-wiki-workflow;Labor;Economics},
+  keywords     = {\_BibTex to MD Git;llm-wiki-workflow;Labor;Economics;git-lit},
   language     = {en}
 }
 
@@ -66243,7 +66292,7 @@
                   research program.},
   url          = {http://dx.doi.org/10.1177/20413866241233739},
   keywords     = {Theory and Methods;\_BibTex to MD Git;Critical
-                  Realism;llm-wiki-workflow;UCL;Fieldwork Methodology},
+                  Realism;llm-wiki-workflow;UCL;Fieldwork Methodology;git-lit},
   language     = {en}
 }
 
@@ -66284,7 +66333,7 @@
                   semistructured; nursing; palliative care; qualitative
                   analysis; relationships, health care; research, qualitative;
                   visual methods;Theory and Methods;\_BibTex to MD
-                  Git;llm-wiki-workflow;Research Methods},
+                  Git;llm-wiki-workflow;Research Methods;git-lit},
   language     = {en}
 }
 
