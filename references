@@ -22664,16 +22664,16 @@
                (parent)}
 }
 
-@INBOOK{Prahalad2009-di,
+@INBOOK{Prahalad2000-as,
   title     = {The core competence of the corporation},
   author    = {Prahalad, C K and Hamel, Gary},
   editor    = {Cross, Jr, Robert L and Israelit, Sam B},
   booktitle = {Strategic Learning in a Knowledge Economy},
   publisher = {Butterworth-Heinemann},
   location  = {Woburn, MA},
-  edition   = {1st Edition},
+  edition   = {1},
   pages     = {3--22},
-  date      = {2009-11-03},
+  date      = {2000},
   doi       = {10.4324/9780080517889-chapter1},
   abstract  = {The most powerful way to prevail in global competition is still
                invisible to many companies. During the 1980s, top executives
