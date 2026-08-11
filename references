@@ -22664,6 +22664,27 @@
                (parent)}
 }
 
+@INBOOK{Prahalad2009-di,
+  title     = {The core competence of the corporation},
+  author    = {Prahalad, C K and Hamel, Gary},
+  booktitle = {Strategic Learning in a Knowledge Economy},
+  publisher = {Routledge},
+  location  = {London, England},
+  edition   = {1st Edition},
+  pages     = {3--22},
+  date      = {2009-11-03},
+  doi       = {10.4324/9780080517889-chapter1},
+  abstract  = {The most powerful way to prevail in global competition is still
+               invisible to many companies. During the 1980s, top executives
+               were judged on their ability to restructure, declutter, and
+               delayer their corporations. In the 1990s, they'll be judged on
+               their ability to identify, cultivate, and exploit the core
+               competencies that make growth possible—indeed, they'll have to
+               rethink the concept of the corporation itself.},
+  url       = {http://dx.doi.org/10.4324/9780080517889-chapter1},
+  urldate   = {2026-08-11}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
