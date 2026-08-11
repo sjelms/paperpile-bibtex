@@ -22629,14 +22629,34 @@
   language     = {en}
 }
 
-@BOOK{Cross2009-jh,
-  title     = {Strategic learning in a knowledge economy},
-  author    = {Cross, Robert L and Israelit, Sam},
+@BOOK{Cross2000-ue,
+  title     = {Strategic Learning in a Knowledge Economy: Individual,
+               Collective, and Organizational Learning Process},
+  author    = {Cross, Robert L and Israelit, Sam B},
   publisher = {Routledge},
   location  = {London, England},
-  date      = {2009-11-03},
+  date      = {2000},
   pagetotal = {368},
-  isbn      = {9781136362934}
+  isbn      = {9781136362934},
+  abstract  = {Strategic Learning in a Knowledge Economy defines unique and
+               powerful ways that organizations can foster learning at the
+               individual, group and organizational levels, a capability
+               critical to both strategic objectives and business performance.
+               The book explains how individuals and organizations learn,
+               clarifying cognitive and social aspects of the topic. Readers
+               will understand how learning enables organizations and
+               individuals to better create, assimilate, and transfer knowledge.
+               Strategic Learning in a Knowledge Economy helps managers create
+               individual and collective processes that maximize the quality of
+               the knowledge created and learned and ensures this knowledge is
+               effectively used. The book appropriately redefines the frequently
+               narrow and technology-oriented view of learning and explains how
+               an effective learning strategy ensures that a broad base of
+               employees learn and implement vital organizational lessons.
+               Strategic Learning in a Knowledge Economy features focused
+               discussions of organizational core competencies, learning and
+               innovation, communities of practice, assessing organizational
+               learning capabilities, and other important learning topics.}
 }
 
 @ARTICLE{De_Jong2013-st,
