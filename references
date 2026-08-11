@@ -22667,6 +22667,7 @@
 @INBOOK{Prahalad2009-di,
   title     = {The core competence of the corporation},
   author    = {Prahalad, C K and Hamel, Gary},
+  editor    = {Cross, Jr, Robert L and Israelit, Sam B},
   booktitle = {Strategic Learning in a Knowledge Economy},
   publisher = {Routledge},
   location  = {London, England},
@@ -22681,7 +22682,7 @@
                their ability to identify, cultivate, and exploit the core
                competencies that make growth possible—indeed, they'll have to
                rethink the concept of the corporation itself.},
-  url       = {http://dx.doi.org/10.4324/9780080517889-chapter1},
+  url       = {https://www.taylorfrancis.com/chapters/edit/10.4324/9780080517889-chapter1/core-competence-corporation-prahalad-gary-hamel},
   urldate   = {2026-08-11},
   keywords  = {Book (child)}
 }
