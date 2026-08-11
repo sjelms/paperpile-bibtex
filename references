@@ -22636,6 +22636,7 @@
   editor    = {Cross, Jr, Robert L and Israelit, Sam B},
   publisher = {Butterworth-Heinemann},
   location  = {Woburn, MA},
+  edition   = {1},
   date      = {2000},
   pagetotal = {368},
   doi       = {10.4324/9780080517889},
@@ -22659,7 +22660,7 @@
                discussions of organizational core competencies, learning and
                innovation, communities of practice, assessing organizational
                learning capabilities, and other important learning topics.},
-  url       = {https://doi.org/10.4324/9780080517889},
+  url       = {http://dx.doi.org/10.4324/9780080517889},
   keywords  = {Knowledge - Skill Acquisition;Workplace Learning;RNIB;ePub;Book
                (parent)}
 }
