@@ -55197,7 +55197,8 @@
   isbn      = {9781847629876},
   abstract  = {Spot-on for helping kids aged 9-11 brush up on their French, this
                fun and colourful book contains a wide range of tasks and
-               questions to keep them interested!}
+               questions to keep them interested!},
+  keywords  = {RNIB}
 }
 
 @MISC{Florida2018-xv,
@@ -57576,7 +57577,8 @@
   abstract  = {A clear and simple introduction to learning a language.This first
                French book takes a no-nonsense approach to the elementary stages
                of French with clear, grammatical explanations and challenging
-               exercises}
+               exercises},
+  keywords  = {RNIB}
 }
 
 @BOOK{Gaskell1836-vg,
