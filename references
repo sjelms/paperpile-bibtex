@@ -67350,6 +67350,15 @@
                  Git;llm-wiki-workflow;UCL;AEC;git-lit}
 }
 
+@BOOK{Unknown2013-tr,
+  title     = {Practise \& learn activity books with vocab {CD}-Rom},
+  publisher = {Coordination Group Publications},
+  location  = {Broughton, Wales},
+  date      = {2013-08-07},
+  pagetotal = {40},
+  isbn      = {9781847629876}
+}
+
 @ONLINE{noauthor_undated-st,
   title    = {Narrative inquiry by {D}. Clandinin and {J}. Huber},
   url      = {http://www.mofet.macam.ac.il/amitim/iun/CollaborativeResearch/Documents/NarrativeInquiry.pdf},
