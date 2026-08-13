@@ -57553,6 +57553,19 @@
   language  = {en}
 }
 
+@BOOK{Pearce2004-xg,
+  title     = {So You Really Want to Learn French, Book 1},
+  author    = {Pearce, Nigel},
+  publisher = {Galore Park Publishing},
+  location  = {London, England},
+  date      = {2004-12-01},
+  isbn      = {9781902984506},
+  abstract  = {A clear and simple introduction to learning a language.This first
+               French book takes a no-nonsense approach to the elementary stages
+               of French with clear, grammatical explanations and challenging
+               exercises}
+}
+
 @BOOK{Gaskell1836-vg,
   title     = {Artisans and Machinery: The Moral and Physical Condition of the
                Manufacturing Population, Considered With Reference to Mechanical
@@ -61876,16 +61889,6 @@
   keywords  = {Career development; Construction careers; House building careers;
                Technical Report;\_In Notion;AEC;Labor},
   language  = {en}
-}
-
-@BOOK{Galore-Park2004-wu,
-  title     = {So you really want to learn french book 1 audio {CD}},
-  author    = {{Galore Park}},
-  publisher = {Galore Park Publishing},
-  location  = {London, England},
-  date      = {2004-12-01},
-  pagetotal = {2},
-  isbn      = {9781902984506}
 }
 
 @REPORT{Data_Protection_Commission2020-tv,
