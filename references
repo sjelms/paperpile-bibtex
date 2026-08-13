@@ -55187,6 +55187,19 @@
   keywords   = {\_BibTex to MD Git;003\_Theoretical Framework;Psychology;git-lit}
 }
 
+@BOOK{Loveluck2013-dh,
+  title     = {Practise \& Learn: French for Ages 9-11},
+  editor    = {Loveluck, Lucy and Jones, Matteo Orsini and Poynton, Holly},
+  publisher = {Coordination Group Publications},
+  location  = {Broughton, Wales},
+  date      = {2013-08-07},
+  pagetotal = {40},
+  isbn      = {9781847629876},
+  abstract  = {Spot-on for helping kids aged 9-11 brush up on their French, this
+               fun and colourful book contains a wide range of tasks and
+               questions to keep them interested!}
+}
+
 @MISC{Florida2018-xv,
   title        = {The Global Housing Crisis},
   author       = {Florida, Richard and Schneider, Benjamin},
@@ -67348,15 +67361,6 @@
   note        = {MSc module handbook},
   keywords    = {BSSC Seed Fund for AI Research;\_BibTex to MD
                  Git;llm-wiki-workflow;UCL;AEC;git-lit}
-}
-
-@BOOK{Unknown2013-tr,
-  title     = {Practise \& learn activity books with vocab {CD}-Rom},
-  publisher = {Coordination Group Publications},
-  location  = {Broughton, Wales},
-  date      = {2013-08-07},
-  pagetotal = {40},
-  isbn      = {9781847629876}
 }
 
 @ONLINE{noauthor_undated-st,
