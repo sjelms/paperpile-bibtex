@@ -3630,6 +3630,33 @@
   language  = {en}
 }
 
+@BOOK{Fournier2014-ge,
+  title     = {Talk French, enhanced {eBook}},
+  author    = {Fournier, Isabelle},
+  publisher = {Pearson International Content},
+  date      = {2014-05-13},
+  pagetotal = {1},
+  isbn      = {9781406677058,9781406679007},
+  abstract  = {Talk French Enhanced eBook Talk French has already inspired
+               thousands of people to learn French from scratch and find the
+               confidence to give it a go. Whether you’re learning for business,
+               travel or just for fun, its straightforward, step-by-step
+               approach will ensure you’re soon able to speak French in a range
+               of everyday situations. With specially designed activities,
+               interactive audio and clear, jargon-free grammar explanations
+               you’ll quickly develop your language skills and make genuine
+               progress right from the start. Now you can learn even faster and
+               smarter with the flexibility, speed and convenience of this
+               enhanced eBook. Everything you need is there just when you need
+               it with audio, answers and language notes available at the touch
+               of a button. Make real progress using the successful, proven Talk
+               method. Develop your language skills with tips and strategies to
+               help you learn. Express yourself more confidently through taking
+               part in real French conversations. Also available in Spanish,
+               Italian and German.},
+  language  = {en}
+}
+
 @INBOOK{Watson1936-uw,
   title     = {John Broadus Watson},
   author    = {Watson, John Broadus},
