@@ -3631,9 +3631,11 @@
 }
 
 @INBOOK{UnknownUnknown-li,
-  title   = {References},
-  url     = {https://www.jstor.org/stable/j.ctv1mvw8s5.31},
-  urldate = {2026-08-14}
+  title     = {References},
+  booktitle = {The Political Economy of Industrial Strategy in the UK: From
+               Productivity Problems to Development Dilemmas},
+  url       = {https://www.jstor.org/stable/j.ctv1mvw8s5.31},
+  urldate   = {2026-08-14}
 }
 
 @BOOK{Fournier2014-ge,
