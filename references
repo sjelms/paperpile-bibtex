@@ -3630,7 +3630,8 @@
   language  = {en}
 }
 
-@ONLINE{UnknownUnknown-li,
+@INBOOK{UnknownUnknown-li,
+  title   = {References},
   url     = {https://www.jstor.org/stable/j.ctv1mvw8s5.31},
   urldate = {2026-08-14}
 }
