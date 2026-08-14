@@ -3630,6 +3630,32 @@
   language  = {en}
 }
 
+@BOOK{Berry2021-tt,
+  title     = {The Political Economy of Industrial Strategy in the {UK}: From
+               Productivity Problems to Development Dilemmas},
+  editora   = {Berry, Craig and Froud, Julie and Barker, Tom},
+  publisher = {Edinburgh University Press},
+  date      = {2021},
+  doi       = {10.2307/j.ctv1mvw8s5},
+  isbn      = {9781788213394},
+  abstract  = {Does the UK still have an industrial strategy? How should we
+               understand the renewed interest within government in industrial
+               policy – and now its apparent reversal – in recent years? This
+               collection of essay by leading academics and practitioners
+               including Victoria Chick, Kate Bell, Simon Lee, Karel Williams,
+               Susan Himmelweit, Laurie Macfarlane and Ron Martin – among many
+               others– considers the effectiveness of recent industrial policies
+               in addressing the UK’s economic malaise. In offering a broad
+               political economy perspective on economic statecraft and
+               development in the UK, the book focuses on the political and
+               institutional foundations of industrial policy, the value of
+               "foundational" economic practices, the challenge of greening
+               capitalism and addressing regional inequalities, and the new
+               financial and corporate governance structures required to
+               radicalize industrial strategy.},
+  url       = {http://dx.doi.org/10.2307/j.ctv1mvw8s5}
+}
+
 @BOOK{Fournier2014-ge,
   title     = {Talk French ({BBC} Talk short courses)},
   author    = {Fournier, Isabelle},
