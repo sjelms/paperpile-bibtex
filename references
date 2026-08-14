@@ -316,18 +316,6 @@
   language     = {en}
 }
 
-@REPORT{Mazzucato2019-to,
-  type        = {resreport},
-  title       = {A Mission-Oriented {UK} Industrial Strategy},
-  author      = {Mazzucato, Mariana and Willetts, David},
-  institution = {UCL Institute for Innovation and Public Purpose},
-  location    = {London, UK},
-  date        = {2019},
-  url         = {https://www.ucl.ac.uk/bartlett/public-purpose/wp2019-04},
-  note        = {UCL Commission for Mission-Oriented Innovation and Industrial
-                 Strategy}
-}
-
 @MISC{Cast_Consultancy2020-te,
   title    = {Modern Methods of Construction ({MMC}) Definition Summary},
   author   = {{Cast Consultancy}},
@@ -67591,4 +67579,41 @@
   url       = {http://dx.doi.org/10.2307/j.ctv1mvw8s5.19},
   keywords  = {ERC-ex-re;\_BibTex to MD Git;Book (child);Skill
                demand;Labor;Workplace Learning}
+}
+
+@REPORT{Mazzucato2019-to,
+  type        = {resreport},
+  title       = {A Mission-Oriented {UK} Industrial Strategy},
+  author      = {Mazzucato, Mariana and Willetts, David},
+  institution = {UCL Institute for Innovation and Public Purpose},
+  location    = {London, UK},
+  date        = {2019-05},
+  pagetotal   = {106},
+  abstract    = {Innovation is a key driver of long-term growth. But innovation
+                 for what purpose? The most powerful way to shape how innovation
+                 benefits society is to change what it is for. The 2017 UK
+                 Industrial Strategy presents an opportunity to harness not only
+                 our science, technology, arts and industry, but our
+                 infrastructure, workforce, and business environment, to drive
+                 growth and prosperity to meet societal challenges. The
+                 Industrial Strategy must be supported in the long-term, and
+                 this is the moment to reinforce it. ‘Mission possible’ means
+                 achieving the goals whilst taking the process and
+                 implementation just as seriously. The United Kingdom stands at
+                 an economic cross-roads. British industry faces the substantial
+                 obstacles of sluggish growth and productivity. The UK will
+                 likely leave the European Union and could face losing access to
+                 science funding and key innovation collaborations. At the same
+                 time, technologies and innovation can offer solutions to
+                 challenges new and old. From clean technologies to self-driving
+                 cars, innovation can help us live more sustainable, healthier,
+                 and longer lives. The Industrial Strategy is an opportunity to
+                 exploit the UK’s competitive advantages and to strategically
+                 use every instrument at the disposal of the public and private
+                 sectors to support this endeavour. Citizens must be genuinely
+                 involved in the needed transition − it cannot be handed down
+                 from above.},
+  url         = {https://www.ucl.ac.uk/bartlett/public-purpose/wp2019-04},
+  note        = {UCL Commission for Mission-Oriented Innovation and Industrial
+                 Strategy}
 }
