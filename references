@@ -3630,33 +3630,6 @@
   language  = {en}
 }
 
-@INBOOK{Fuller2021-ny,
-  title     = {Expanding Skills and Workplace Capacity: A Relational Approach to
-               Industrial Strategy},
-  author    = {Fuller, Alison and Unwin, Lorna},
-  editor    = {Berry, Craig and Froud, Julie and Barker, Tom},
-  booktitle = {The Political Economy of Industrial Strategy in the UK: From
-               Productivity Problems to Development Dilemmas},
-  publisher = {Edinburgh University Press},
-  location  = {Edinburgh, Scotland},
-  pages     = {161--168},
-  date      = {2021-03-25},
-  doi       = {10.2307/j.ctv1mvw8s5.19},
-  isbn      = {9781788213417,9781788213394},
-  abstract  = {When policy-makers attempt to devise an industrial strategy,
-               there is a tendency to adopt a silo approach. Hence, we get
-               separate sections on productivity, innovation, research capacity,
-               infrastructure, skills and so on. These silos become populated
-               with their own stakeholders and vested interests, and they lack
-               incentives to collaborate. In this chapter, we argue for a more
-               holistic, co-production approach with strategies for the
-               monitoring, development and utilization of skills and capacity at
-               its heart to reflect the interconnected and dynamic reality of
-               economic activity at all levels from the local to the global.},
-  url       = {http://dx.doi.org/10.2307/j.ctv1mvw8s5.19},
-  keywords  = {ERC-ex-re;Book (child);Skill demand}
-}
-
 @BOOK{Fournier2014-ge,
   title     = {Talk French ({BBC} Talk short courses)},
   author    = {Fournier, Isabelle},
@@ -22888,6 +22861,33 @@
                radicalize industrial strategy.},
   url       = {http://www.jstor.org/stable/j.ctv1mvw8s5},
   keywords  = {Book (parent);Skill demand;Economics}
+}
+
+@INBOOK{Fuller2021-ny,
+  title     = {Expanding Skills and Workplace Capacity: A Relational Approach to
+               Industrial Strategy},
+  author    = {Fuller, Alison and Unwin, Lorna},
+  editor    = {Berry, Craig and Froud, Julie and Barker, Tom},
+  booktitle = {The Political Economy of Industrial Strategy in the UK: From
+               Productivity Problems to Development Dilemmas},
+  publisher = {Edinburgh University Press},
+  location  = {Edinburgh, Scotland},
+  pages     = {161--168},
+  date      = {2021-03-25},
+  doi       = {10.2307/j.ctv1mvw8s5.19},
+  isbn      = {9781788213417,9781788213394},
+  abstract  = {When policy-makers attempt to devise an industrial strategy,
+               there is a tendency to adopt a silo approach. Hence, we get
+               separate sections on productivity, innovation, research capacity,
+               infrastructure, skills and so on. These silos become populated
+               with their own stakeholders and vested interests, and they lack
+               incentives to collaborate. In this chapter, we argue for a more
+               holistic, co-production approach with strategies for the
+               monitoring, development and utilization of skills and capacity at
+               its heart to reflect the interconnected and dynamic reality of
+               economic activity at all levels from the local to the global.},
+  url       = {http://dx.doi.org/10.2307/j.ctv1mvw8s5.19},
+  keywords  = {ERC-ex-re;Book (child);Skill demand;Labor;Workplace Learning}
 }
 
 @ARTICLE{De_Jong2013-st,
