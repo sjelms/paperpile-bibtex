@@ -47543,6 +47543,22 @@
   language  = {en}
 }
 
+@REPORT{Felstead2018-vq,
+  type      = {resreport},
+  title     = {Productivity in Britain: The Workers’ {Perspective—First}
+               Findings from the Skills and Employment Survey 2017},
+  author    = {Felstead, Alan and Gallie, Duncan and Green, Francis and Henseke,
+               Golo},
+  publisher = {Economic and Social Research Council},
+  location  = {Swindon, England},
+  date      = {2018},
+  pagetotal = {6},
+  abstract  = {Almost a decade after the financial crisis began, productivity
+               growth has failed to recover to its pre-recessionlevel. This
+               report examines productivity growth from the workers’
+               perspective.}
+}
+
 @THESIS{Salgado2018-wc,
   title    = {Interaction, Embodiment, and Presence as Learning Enhancers in
               Immersive Virtual-Reality Science Experiences},
@@ -59530,16 +59546,6 @@
   isbn      = {9781446490594},
   keywords  = {EPubs Books;Audible;ePub;Audiobook;RNIB},
   language  = {en}
-}
-
-@ARTICLE{Felstead2018-vq,
-  title     = {Insecurity at work in Britain: First findings from the Skills and
-               Employment Survey 2017},
-  author    = {Felstead, Alan and Gallie, Duncan and Green, Francis and Henseke,
-               Golo},
-  publisher = {Centre for Learning and Life Chances in Knowledge Economies and
-               Societies …},
-  date      = {2018}
 }
 
 @BOOK{Groh2014-rk,
