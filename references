@@ -3633,7 +3633,7 @@
 @BOOK{Berry2021-tt,
   title     = {The Political Economy of Industrial Strategy in the {UK}: From
                Productivity Problems to Development Dilemmas},
-  editora   = {Berry, Craig and Froud, Julie and Barker, Tom},
+  editor    = {Berry, Craig and Froud, Julie and Barker, Tom},
   publisher = {Edinburgh University Press},
   date      = {2021},
   doi       = {10.2307/j.ctv1mvw8s5},
@@ -3653,7 +3653,7 @@
                capitalism and addressing regional inequalities, and the new
                financial and corporate governance structures required to
                radicalize industrial strategy.},
-  url       = {http://dx.doi.org/10.2307/j.ctv1mvw8s5}
+  url       = {http://www.jstor.org/stable/j.ctv1mvw8s5}
 }
 
 @BOOK{Fournier2014-ge,
