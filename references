@@ -3630,8 +3630,9 @@
   language  = {en}
 }
 
-@INBOOK{UnknownUnknown-li,
+@INBOOK{BerryUnknown-el,
   title     = {References},
+  editor    = {Berry, Craig and Froud, Julie and Barker, Tom},
   booktitle = {The Political Economy of Industrial Strategy in the UK: From
                Productivity Problems to Development Dilemmas},
   url       = {https://www.jstor.org/stable/j.ctv1mvw8s5.31},
