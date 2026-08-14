@@ -3630,13 +3630,16 @@
   language  = {en}
 }
 
-@INBOOK{BerryUnknown-el,
+@INBOOK{Berry2021-nl,
   title     = {References},
   editor    = {Berry, Craig and Froud, Julie and Barker, Tom},
   booktitle = {The Political Economy of Industrial Strategy in the UK: From
                Productivity Problems to Development Dilemmas},
-  url       = {https://www.jstor.org/stable/j.ctv1mvw8s5.31},
-  urldate   = {2026-08-14}
+  publisher = {Edinburgh University Press},
+  location  = {Edinburgh, Scotland},
+  pages     = {301--338},
+  date      = {2021},
+  url       = {https://www.jstor.org/stable/j.ctv1mvw8s5.31}
 }
 
 @BOOK{Fournier2014-ge,
