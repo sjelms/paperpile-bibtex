@@ -27207,15 +27207,37 @@
 }
 
 @BOOK{Bolpagni2021-lb,
-  title     = {Industry 4.0 for the Built Environment},
+  title     = {Industry 4.0 for the Built Environment: Methodologies,
+               Technologies, and Skills},
   editor    = {Bolpagni, Marzia and Gavina, Rui and Ribeiro, Diogo},
   publisher = {Springer International Publishing},
   date      = {2021-12},
   pagetotal = {17},
   doi       = {10.1007/978-3-030-82430-3},
   isbn      = {9783030824303},
+  abstract  = {This book discusses how the role of traditional construction
+               professional is changing, providing a useful guide for
+               practitioners who would like to upskill themselves. Lately, core
+               concepts and methodologies for the Built Environment are
+               presented providing definitions and applications on Building
+               Information Modelling, Computational Design, Artificial
+               Intelligence, Big Data, Cloud Computing, Data Analytics and
+               Visualization, Lean Construction, Advanced Project Management,
+               Sustainability, Geographical Information Systems, Advanced
+               Business Models, Disaster Management, Quality Management, Health
+               and Safety and Legal prospective. The book also shows the latest
+               technologies for the Built Environment including Digital Twins,
+               Reality Capture, Extended Reality, Gamification, Computational
+               Construction and Manufacturing, Structural Health Monitoring,
+               Smart Transaction and Cybersecurity. Trends in soft skills for
+               the Built Environment are presented covering Digital Working,
+               Communication, Self and Relationship Management skills and
+               Critical thinking. The book is dedicated to professionals who
+               would like to enhance their understanding and capabilities to
+               operate in the Industry 4.0 for the Built Environment having a
+               holistic and comprehensive overview.},
   series    = {Structural Integrity},
-  url       = {https://link.springer.com/book/10.1007/978-3-030-82430-3},
+  url       = {http://dx.doi.org/10.1007/978-3-030-82430-3},
   urldate   = {2023-06-12},
   keywords  = {Industry 4-0 for the Built Environment;EPubs Books;\_BibTex to MD
                Git;Offsite\_NBLM;ePub;Book (parent);git-lit}
