@@ -58078,6 +58078,16 @@
   language  = {en}
 }
 
+@VIDEO{Scanlon2026-mk,
+  title   = {How to Fix the Housing Crisis},
+  author  = {Scanlon, Kyla},
+  editor  = {Scanlon, Kyla},
+  editora = {Scanlon, Kyla},
+  editorb = {Scanlon, Kyla},
+  date    = {2026-08-07},
+  url     = {https://www.youtube.com/shorts/VLTfOex9AzY}
+}
+
 @ARTICLE{Self1998-fu,
   title        = {The defining characteristics of intelligent tutoring systems
                   research: {ITSs} care, precisely},
@@ -67870,8 +67880,4 @@
   urldate   = {2022-09-02},
   keywords  = {Designing Across Senses [Book Resources]},
   language  = {en}
-}
-
-@ONLINE{UnknownUnknown-sg,
-  url = {https://www.youtube.com/shorts/VLTfOex9AzY}
 }
