@@ -58079,13 +58079,14 @@
 }
 
 @VIDEO{Scanlon2026-mk,
-  title   = {How to Fix the Housing Crisis},
-  author  = {Scanlon, Kyla},
-  editor  = {Scanlon, Kyla},
-  editora = {Scanlon, Kyla},
-  editorb = {Scanlon, Kyla},
-  date    = {2026-08-07},
-  url     = {https://www.youtube.com/shorts/VLTfOex9AzY}
+  title    = {How to Fix the Housing Crisis},
+  author   = {Scanlon, Kyla},
+  editor   = {Scanlon, Kyla},
+  editora  = {Scanlon, Kyla},
+  editorb  = {Scanlon, Kyla},
+  date     = {2026-08-07},
+  url      = {https://www.youtube.com/shorts/VLTfOex9AzY},
+  keywords = {YouTube;AEC;Economics;Politics and Society}
 }
 
 @ARTICLE{Self1998-fu,
