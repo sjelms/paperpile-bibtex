@@ -23218,6 +23218,21 @@
               and Society}
 }
 
+@INBOOK{Bolpagni2022-va,
+  title     = {Shaping the future of construction professionals},
+  author    = {Bolpagni, Marzia and Gavina, Rui and Ribeiro, Diogo and Arnal,
+               Ignasi Pérez},
+  booktitle = {Structural Integrity},
+  publisher = {Springer International Publishing},
+  location  = {Cham},
+  pages     = {1--26},
+  date      = {2022},
+  doi       = {10.1007/978-3-030-82430-3_1},
+  issn      = {2522-560X,2522-5618},
+  url       = {http://dx.doi.org/10.1007/978-3-030-82430-3_1},
+  keywords  = {Industry 4-0 for the Built Environment}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
