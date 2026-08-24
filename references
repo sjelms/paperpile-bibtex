@@ -67971,3 +67971,15 @@
   keywords  = {Industry 4-0 for the Built Environment;\_BibTex to MD Git;Book
                (child);ePub;AEC;Labor;Future of Work;git-lit}
 }
+
+@MISC{Unknown2025-mm,
+  title     = {{PAS} 8700:2025: Modern methods of construction for new-build
+               residential properties. Specification},
+  publisher = {British Standards Institute},
+  date      = {2025},
+  isbn      = {9780539232929},
+  abstract  = {Edition Status: Definitive},
+  keywords  = {Buildings ; Design ; Dwellings ; Public buildings ; Safety ;
+               Specifications},
+  language  = {eng}
+}
