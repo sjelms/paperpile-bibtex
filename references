@@ -55034,6 +55034,7 @@
                energy sources. Finally, design for construction and
                deconstruction strategies for a lower impact of the built
                environment are addressed.},
+  chapter   = {00},
   url       = {https://www.sciencedirect.com/science/article/pii/B9780128217979000015},
   keywords  = {Climate adaptive design; life cycle design; climate analysis;
                holistic design strategies; design for deconstruction; adaptive
@@ -55070,6 +55071,7 @@
                applications and advantages in the whole value chain of the new
                “digital twin building life cycle” achievable with the full
                integration of all these digital technologies.},
+  chapter   = {00},
   url       = {https://www.sciencedirect.com/science/article/pii/B9780128217979000131},
   keywords  = {Construction 4.0; building information modeling; cloud computing;
                edge computing; Internet of things; 5G network; artificial
@@ -55106,6 +55108,7 @@
                Finally, the maturity levels of BIM up to BIM level 3 are
                discussed focusing on the issues of standardization and
                interoperability.},
+  chapter   = {00},
   url       = {https://www.sciencedirect.com/science/article/pii/B9780128217979000027},
   keywords  = {Building information modeling; 4D BIM; 5D BIM; 6D BIM; 7D BIM;
                BIM LOD; BIM level 2; BIM level 3; BIM interoperability; openBIM;
@@ -55141,6 +55144,7 @@
                BPS regarding the development of statistical and ML
                algorithm-based tools to predict the future behavior of buildings
                in the first stages of design are also described.},
+  chapter   = {00},
   url       = {https://www.sciencedirect.com/science/article/pii/B9780128217979000040},
   keywords  = {Building performance simulation tools; early-stage simulation;
                life cycle analysis; energy predictions; EnergyPlus; occupant
@@ -55185,6 +55189,7 @@
                their advantages in terms of higher geometrical complexity,
                precise material processing, and improved control of quality,
                time, and costs.},
+  chapter   = {00},
   url       = {https://www.sciencedirect.com/science/article/pii/B978012821797900009X},
   keywords  = {Computer-aided design; design optimization; design space
                exploration; surrogate-based optimization; advanced survey
@@ -55226,6 +55231,7 @@
                advanced concrete, engineered mass timber, high-performance
                insulators, dynamic windows, smart coatings, and mimetic
                photovoltaics.},
+  chapter   = {00},
   url       = {https://www.sciencedirect.com/science/article/pii/B9780128217979000052},
   keywords  = {Advanced building materials; nanomaterials; smart materials;
                bio-based materials; self-healing materials; engineered wood
@@ -55263,6 +55269,7 @@
                scale completed to date. Current status of technology,
                limitations, and advantages with reference to materials, systems,
                and construction processes are explained.},
+  chapter   = {00},
   url       = {https://www.sciencedirect.com/science/article/pii/B9780128217979000064},
   keywords  = {On-site automation; automated construction; additive
                manufacturing in construction; exoskeletons; autonomous vehicles;
@@ -55311,6 +55318,7 @@
                site planning, design verification, and training. Finally, recent
                advancements in digital twins of the construction site and in the
                use of blockchain for smart contracts are also addressed.},
+  chapter   = {00},
   url       = {https://www.sciencedirect.com/science/article/pii/B9780128217979000076},
   keywords  = {Digital twin; digital construction management; construction
                management software; virtual design and construction; model-based
@@ -55349,6 +55357,7 @@
                Predictive Control and Reinforced Learning. Finally, home
                automation is investigated, describing smart home technologies
                and services up to the new concept of connected home.},
+  chapter   = {00},
   url       = {https://www.sciencedirect.com/science/article/pii/B9780128217979000088},
   keywords  = {Building automation system; building management system; BAS
                topology; controllers; sensors; actuators; wireless sensor
@@ -55391,6 +55400,7 @@
                supporting strategic decision-making. Finally, the new Digital
                twin technology, which promises to revolutionize the way
                buildings are managed and maintained, is thoroughly investigated.},
+  chapter   = {00},
   url       = {https://www.sciencedirect.com/science/article/pii/B9780128217979000039},
   keywords  = {Digital Twin; predictive maintenance; building facility
                management; computer-aided facility management (CAFM);
@@ -55430,6 +55440,7 @@
                scale, integration of renewable energies, electric storage,
                vehicle to building, and demand response technologies is
                investigated.},
+  chapter   = {00},
   url       = {https://www.sciencedirect.com/science/article/pii/B978012821797900012X},
   keywords  = {Smart City; AI and big data; smart city digital twin; smart grid;
                smart meters; microgrids; building energy management; building
