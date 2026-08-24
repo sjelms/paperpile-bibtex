@@ -55411,7 +55411,7 @@
 }
 
 @INBOOK{Casini2022-in,
-  title     = {Chapter 12 - Smart buildings and smart cities},
+  title     = {Smart buildings and smart cities},
   author    = {Casini, Marco},
   editor    = {Casini, Marco},
   booktitle = {Construction 4.0: Advanced Technology, Tools and Materials for
@@ -55440,7 +55440,7 @@
                scale, integration of renewable energies, electric storage,
                vehicle to building, and demand response technologies is
                investigated.},
-  chapter   = {00},
+  chapter   = {12},
   url       = {https://www.sciencedirect.com/science/article/pii/B978012821797900012X},
   keywords  = {Smart City; AI and big data; smart city digital twin; smart grid;
                smart meters; microgrids; building energy management; building
