@@ -55144,7 +55144,7 @@
                BPS regarding the development of statistical and ML
                algorithm-based tools to predict the future behavior of buildings
                in the first stages of design are also described.},
-  chapter   = {00},
+  chapter   = {5},
   url       = {https://www.sciencedirect.com/science/article/pii/B9780128217979000040},
   keywords  = {Building performance simulation tools; early-stage simulation;
                life cycle analysis; energy predictions; EnergyPlus; occupant
@@ -55189,7 +55189,7 @@
                their advantages in terms of higher geometrical complexity,
                precise material processing, and improved control of quality,
                time, and costs.},
-  chapter   = {00},
+  chapter   = {6},
   url       = {https://www.sciencedirect.com/science/article/pii/B978012821797900009X},
   keywords  = {Computer-aided design; design optimization; design space
                exploration; surrogate-based optimization; advanced survey
