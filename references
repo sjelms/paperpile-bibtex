@@ -12335,7 +12335,7 @@
                reuse; green building rating systems; LEED; LCA software tools;
                building life cycle costing; low-carbon architecture; urban
                mining; building as material banks (BAMB); material
-               passport;Marco Casini Construction 4-0}
+               passport;Marco Casini Construction 4-0;Book (child)}
 }
 
 @INBOOK{Casini2022-ym,
@@ -12368,7 +12368,7 @@
   keywords  = {Building information modeling; 4D BIM; 5D BIM; 6D BIM; 7D BIM;
                BIM LOD; BIM level 2; BIM level 3; BIM interoperability; openBIM;
                common data environment; BIM software; BIM professions; IFC;Marco
-               Casini Construction 4-0}
+               Casini Construction 4-0;Book (child)}
 }
 
 @INBOOK{Casini2022-vx,
@@ -12408,7 +12408,7 @@
                BIM-enhanced facility management (FM-enabled BIM); predictive
                building maintenance; extended reality; VR in maintenance; AR in
                maintenance; MR in maintenance; digital building twin;Marco
-               Casini Construction 4-0}
+               Casini Construction 4-0;Book (child)}
 }
 
 @INBOOK{Casini2022-zn,
@@ -12448,7 +12448,7 @@
                building performance metrics; energy use intensity (EUI); LCA
                software tools; traffic and pedestrian simulation; model
                predictive control (MPC); occupant-centric building performance
-               metrics; cosimulation;Marco Casini Construction 4-0}
+               metrics; cosimulation;Marco Casini Construction 4-0;Book (child)}
 }
 
 @INBOOK{Casini2022-sl,
@@ -12481,7 +12481,7 @@
                bio-based materials; self-healing materials; engineered wood
                products; dynamic windows; super insulating materials; mimetic
                photovoltaic; smart coatings; advanced concrete;Marco Casini
-               Construction 4-0}
+               Construction 4-0;Book (child)}
 }
 
 @INBOOK{Casini2022-jd,
@@ -12526,7 +12526,7 @@
                off-site prefabrication; demolition robots; bricklaying robots;
                biomorphic robots; human augmentation; teleoperated vehicles;
                robotic on-site factories; metal 3D printing; soft robotics;Marco
-               Casini Construction 4-0}
+               Casini Construction 4-0;Book (child)}
 }
 
 @INBOOK{Casini2022-jk,
@@ -12571,7 +12571,7 @@
                construction; connected construction site; AI in construction; AI
                as a service; machine learning; deep learning; reinforced
                learning; real-time jobsite monitoring;Marco Casini Construction
-               4-0}
+               4-0;Book (child)}
 }
 
 @INBOOK{Casini2022-xf,
@@ -12607,7 +12607,7 @@
                control strategies; model predictive control; white-box methods;
                black-box methods; gray-box methods; reinforced learning;
                advanced human interfaces; smart home; smart home services;
-               connected home;Marco Casini Construction 4-0}
+               connected home;Marco Casini Construction 4-0;Book (child)}
 }
 
 @INBOOK{Casini2022-lu,
@@ -12654,7 +12654,8 @@
                algorithms; digital fabrication; design for digital
                manufacturing; design optioneering; smart glasses; immersive
                technologies; laser scanning; interactive environment;
-               multiobjective optimization;Marco Casini Construction 4-0}
+               multiobjective optimization;Marco Casini Construction 4-0;Book
+               (child)}
 }
 
 @INBOOK{Casini2022-fn,
@@ -12671,7 +12672,8 @@
   url       = {https://www.sciencedirect.com/science/article/pii/B9780128217979000106},
   keywords  = {Marco Casini Construction 4-0;2\_Upgrade MAY 2023;00\_TO READ;AEC
                Cited Lit for Jacqui;\_BibTex to MD Git;llm-wiki-workflow;\_In
-               Notion;\_In Readwise;AEC;Essential;Labor;\_In ClickUp;git-lit}
+               Notion;\_In Readwise;AEC;Essential;Labor;\_In
+               ClickUp;git-lit;Book (child)}
 }
 
 @INBOOK{Casini2022-zx,
@@ -12716,7 +12718,7 @@
   keywords  = {Marco Casini Construction 4-0;2\_Upgrade MAY 2023;00\_TO
                READ;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
                Git;llm-wiki-workflow;AEC;Labor;\_In Notion;\_In
-               Readwise;Essential;\_In ClickUp;Economics;git-lit}
+               Readwise;Essential;\_In ClickUp;Economics;git-lit;Book (child)}
 }
 
 @INBOOK{Casini2022-in,
@@ -12756,7 +12758,7 @@
                building augmented wind turbines; energy harvesting systems;
                building electricity storage; vehicle to building; demand
                response; in-pipe hydro power; building to grid; smart grid
-               optimized building;Marco Casini Construction 4-0}
+               optimized building;Marco Casini Construction 4-0;Book (child)}
 }
 
 @INBOOK{Casini2022-hf,
@@ -12793,7 +12795,7 @@
                nanotechnology; digital twin; digital building life cycle;
                augmented digital design; data-driven design; connected
                construction; building automation; automated construction
-               site;Marco Casini Construction 4-0}
+               site;Marco Casini Construction 4-0;Book (child)}
 }
 
 @INBOOK{Casini2022-yx,
@@ -12807,7 +12809,7 @@
   doi       = {10.1016/B978-0-12-821797-9.00014-3},
   isbn      = {9780128217979},
   url       = {https://www.sciencedirect.com/science/article/pii/B9780128217979000143},
-  keywords  = {Marco Casini Construction 4-0}
+  keywords  = {Marco Casini Construction 4-0;Book (child)}
 }
 
 @INBOOK{Casini2022-mw,
@@ -12821,7 +12823,7 @@
   doi       = {10.1016/B978-0-12-821797-9.00015-5},
   isbn      = {9780128217979},
   url       = {https://www.sciencedirect.com/science/article/pii/B9780128217979000155},
-  keywords  = {Marco Casini Construction 4-0}
+  keywords  = {Marco Casini Construction 4-0;Book (child)}
 }
 
 @INBOOK{Casini2022-jr,
@@ -12835,7 +12837,7 @@
   doi       = {10.1016/B978-0-12-821797-9.00016-7},
   isbn      = {9780128217979},
   url       = {https://www.sciencedirect.com/science/article/pii/B9780128217979000167},
-  keywords  = {Marco Casini Construction 4-0}
+  keywords  = {Marco Casini Construction 4-0;Book (child)}
 }
 
 @INBOOK{Casini2022-bm,
@@ -12849,7 +12851,7 @@
   doi       = {10.1016/B978-0-12-821797-9.00017-9},
   isbn      = {9780128217979},
   url       = {https://www.sciencedirect.com/science/article/pii/B9780128217979000179},
-  keywords  = {Marco Casini Construction 4-0}
+  keywords  = {Marco Casini Construction 4-0;Book (child)}
 }
 
 @INBOOK{Casini2022-wx,
@@ -12863,7 +12865,7 @@
   doi       = {10.1016/B978-0-12-821797-9.00018-0},
   isbn      = {9780128217979},
   url       = {https://www.sciencedirect.com/science/article/pii/B9780128217979000180},
-  keywords  = {Marco Casini Construction 4-0}
+  keywords  = {Marco Casini Construction 4-0;Book (child)}
 }
 
 @INBOOK{Casini2022-na,
@@ -12877,7 +12879,7 @@
   doi       = {10.1016/B978-0-12-821797-9.00019-2},
   isbn      = {9780128217979},
   url       = {https://www.sciencedirect.com/science/article/pii/B9780128217979000192},
-  keywords  = {Marco Casini Construction 4-0}
+  keywords  = {Marco Casini Construction 4-0;Book (child)}
 }
 
 @INBOOK{Herod2009-pg,
