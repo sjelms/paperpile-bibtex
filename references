@@ -4619,16 +4619,6 @@
   language     = {en}
 }
 
-@BOOK{Men2025-we,
-  title     = {This way up},
-  author    = {Men, Map},
-  publisher = {HarperCollins},
-  location  = {London, England},
-  date      = {2025-10-23},
-  isbn      = {9780008710309},
-  language  = {en}
-}
-
 @BOOK{Moradi2024-uw,
   title     = {Routledge Handbook of Collaboration in Construction},
   editor    = {Moradi, Sina and Kähkönen, Kalle and Koskela, Lauri and Klakegg,
@@ -23306,6 +23296,31 @@
                completion information.},
   keywords  = {Government Report;Report;AEC},
   language  = {eng}
+}
+
+@BOOK{Cooper-Jones2025-ey,
+  title     = {This Way Up: When Maps Go Wrong (and Why it Matters)},
+  author    = {Cooper-Jones, Mark and Foreman, Jay},
+  publisher = {HarperCollins},
+  location  = {London, England},
+  date      = {2025-10-23},
+  isbn      = {9780008710309},
+  abstract  = {Hello, we're the Map Men, and in the following pages we've
+               selected what we believe to be some of the very best wrong maps.
+               Some of them are decades old, some are centuries old and some are
+               so recent they're being published today (or yesterday, if you’re
+               reading this tomorrow). They include world maps, colonial maps,
+               corporate maps, Soviet maps, pioneer maps, news maps and maps
+               whose intended use was hijacked for a French surrealist political
+               movement in the 1950s. Whether you’re an avid map junkie or
+               simply ‘map-curious’, you will uncover a unique tale of
+               adventure, error and unexpected humour in each chapter, as we
+               attempt to answer the question: ‘What on earth happened here?’
+               So, ditch the compass (or disable location services) and set out
+               on a journey with us, the Map Men, into a world of cartographic
+               chaos and mappy mishaps. Because the worst maps are the best
+               maps.},
+  language  = {en}
 }
 
 @ARTICLE{De_Jong2013-st,
