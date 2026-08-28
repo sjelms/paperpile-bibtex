@@ -2156,6 +2156,25 @@
   language     = {en}
 }
 
+@BOOK{Bourdain2000-wq,
+  title     = {Kitchen Confidential: Adventures In The Culinary Underbelly},
+  author    = {Bourdain, Anthony},
+  publisher = {Bloomsbury Publishing PLC},
+  location  = {London, England},
+  date      = {2000-08},
+  pagetotal = {320},
+  isbn      = {9781408820858},
+  abstract  = {After twenty-five years of 'sex, drugs, bad behaviour and haute
+               cuisine', chef and novelist Anthony Bourdain has decided to tell
+               all. From his first oyster in the Gironde to his lowly position
+               as a dishwasher in a honky-tonk fish restaurant in Provincetown;
+               from the kitchen of the Rainbow Room atop the Rockefeller Center
+               to drug dealers in the East Village, from Tokyo to Paris and back
+               to New York again, Bourdain's tales of the kitchen are as
+               passionate as they are unpredictable, as shocking as they are
+               funny.}
+}
+
 @BOOK{Klein2020-xn,
   title     = {Why We're Polarized},
   author    = {Klein, Ezra},
@@ -7177,16 +7196,6 @@
   note         = {See also: [[@Milkman1998-oe]]},
   keywords     = {\_BibTex to MD Git;Marx\_Labor;Labor;Economics;git-lit},
   language     = {en}
-}
-
-@BOOK{Bourdain2010-yy,
-  title     = {Kitchen Confidential},
-  author    = {Bourdain, Anthony},
-  publisher = {Bloomsbury Publishing PLC},
-  location  = {London, England},
-  date      = {2010-12-20},
-  pagetotal = {320},
-  isbn      = {9781408820858}
 }
 
 @ARTICLE{Francisco2020-go,
