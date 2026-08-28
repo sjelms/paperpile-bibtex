@@ -7179,6 +7179,16 @@
   language     = {en}
 }
 
+@BOOK{Bourdain2010-yy,
+  title     = {Kitchen Confidential},
+  author    = {Bourdain, Anthony},
+  publisher = {Bloomsbury Publishing PLC},
+  location  = {London, England},
+  date      = {2010-12-20},
+  pagetotal = {320},
+  isbn      = {9781408820858}
+}
+
 @ARTICLE{Francisco2020-go,
   title        = {Developing a trellis of practices that support learning in the
                   workplace},
