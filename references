@@ -1852,7 +1852,7 @@
   pagetotal = {176},
   isbn      = {9780465025299},
   keywords  = {Misc;EPubs Books;\_BibTex to MD Git;RNIB;ePub;Knowledge - Skill
-               Acquisition;git-lit}
+               Acquisition;git-lit;biography}
 }
 
 @BOOK{Brockmann2021-ls,
@@ -4743,7 +4743,7 @@
                It's so boring."},
   url       = {http://dx.doi.org/10.1515/9781400874231},
   keywords  = {Misc;EPubs Books;\_BibTex to MD Git;RNIB;ePub;Knowledge - Skill
-               Acquisition;git-lit},
+               Acquisition;git-lit;biography},
   language  = {en}
 }
 
@@ -4767,7 +4767,7 @@
                Arlene, and their brief time together before her death. Sometimes
                intensely moving, sometimes funny, these writings are infused
                with Feynman’s curiosity and passion for life.},
-  keywords  = {EPubs Books;\_BibTex to MD Git;RNIB;ePub;git-lit},
+  keywords  = {EPubs Books;\_BibTex to MD Git;RNIB;ePub;git-lit;biography},
   language  = {en}
 }
 
@@ -4794,7 +4794,7 @@
                little changed from their spoken form, giving a wise, funny,
                passionate and totally honest self-portrait of one of the
                greatest men of our age.},
-  keywords  = {Audible;\_BibTex to MD Git;Audiobook;git-lit},
+  keywords  = {Audible;\_BibTex to MD Git;Audiobook;git-lit;biography},
   language  = {en}
 }
 
