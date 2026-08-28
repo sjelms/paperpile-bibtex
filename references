@@ -2839,6 +2839,17 @@
                (parent);git-lit}
 }
 
+@BOOK{Sheldrake2020-tg,
+  title     = {Entangled life},
+  author    = {Sheldrake, Merlin},
+  publisher = {Vintage Digital},
+  location  = {London, England},
+  date      = {2020-09-03},
+  pagetotal = {368},
+  isbn      = {9781473554689},
+  language  = {en}
+}
+
 @ARTICLE{Dainis2026-qc,
   title        = {“when {I} was in school, science always had answers.”},
   author       = {Dainis, Alex},
