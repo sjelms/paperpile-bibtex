@@ -2839,17 +2839,6 @@
                (parent);git-lit}
 }
 
-@BOOK{Sheldrake2020-tg,
-  title     = {Entangled life},
-  author    = {Sheldrake, Merlin},
-  publisher = {Vintage Digital},
-  location  = {London, England},
-  date      = {2020-09-03},
-  pagetotal = {368},
-  isbn      = {9781473554689},
-  language  = {en}
-}
-
 @ARTICLE{Dainis2026-qc,
   title        = {“when {I} was in school, science always had answers.”},
   author       = {Dainis, Alex},
@@ -23332,6 +23321,40 @@
                chaos and mappy mishaps. Because the worst maps are the best
                maps.},
   keywords  = {RNIB;ePub;Audiobook},
+  language  = {en}
+}
+
+@BOOK{Sheldrake2020-tg,
+  title     = {Entangled life: How Fungi Make Our Worlds, Change Our Minds and
+               Shape Our Futures},
+  author    = {Sheldrake, Merlin},
+  publisher = {Vintage Digital},
+  location  = {London, England},
+  date      = {2020-09-03},
+  pagetotal = {368},
+  isbn      = {9781473554689},
+  abstract  = {Neither plant nor animal, it is found throughout the earth, the
+               air and our bodies. It can be microscopic, yet also accounts for
+               the largest organisms ever recorded, living for millennia and
+               weighing tens of thousands of tonnes. Its ability to digest rock
+               enabled the first life on land, it can survive unprotected in
+               space, and thrives amidst nuclear radiation. In this captivating
+               adventure, Merlin Sheldrake explores the spectacular and
+               neglected world of fungi: endlessly surprising organisms that
+               sustain nearly all living systems. They can solve problems
+               without a brain, stretching traditional definitions of
+               ‘intelligence’, and can manipulate animal behaviour with
+               devastating precision. In giving us bread, alcohol and
+               life-saving medicines, fungi have shaped human history, and their
+               psychedelic properties, which have influenced societies since
+               antiquity, have recently been shown to alleviate a number of
+               mental illnesses. The ability of fungi to digest plastic,
+               explosives, pesticides and crude oil is being harnessed in
+               break-through technologies, and the discovery that they connect
+               plants in underground networks, the ‘Wood Wide Web’, is
+               transforming the way we understand ecosystems. Yet they live
+               their lives largely out of sight, and over ninety percent of
+               their species remain undocumented.},
   language  = {en}
 }
 
