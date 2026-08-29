@@ -64583,6 +64583,11 @@
   language     = {en}
 }
 
+@ONLINE{UnknownUnknown-ee,
+  url     = {https://hdl.handle.net/1969.1/157137},
+  urldate = {2026-08-29}
+}
+
 @ARTICLE{Liker2006-as,
   title        = {The Toyota Way in Services: The Case of Lean Product
                   Development},
