@@ -40997,6 +40997,29 @@
   origlocation = {New York}
 }
 
+@INBOOK{Sword2012-eh,
+  title     = {Rules of Engagement},
+  author    = {Sword, Helen},
+  booktitle = {Stylish Academic Writing},
+  publisher = {Harvard University Press},
+  pages     = {3--11},
+  date      = {2012},
+  isbn      = {9780674064485},
+  abstract  = {Pick up any guide to effective writing and what will you find?
+               Probably some version of the advice that Strunk and White offered
+               more than half a century ago in their classic bookThe Elements of
+               Style:always use clear, precise language, even when expressing
+               complex ideas; engage your reader’s attention through examples,
+               illustrations, and anecdotes; avoid opaque jargon; vary your
+               vocabulary, sentence length, and frames of reference; favor
+               active verbs and concrete nouns; write with conviction, passion,
+               and verve.¹Pick up a peer-reviewed journal in just about any
+               academic discipline and what will you find? Impersonal, stodgy,
+               jargon-laden, abstract},
+  url       = {http://www.jstor.org/stable/j.ctt2jbw8b.3},
+  keywords  = {Stylish Academic Writing}
+}
+
 @ARTICLE{Hazelett2025-hc,
   title        = {An open letter to graduate students and other procrastinators:
                   it's time to write},
@@ -45981,6 +46004,54 @@
   keywords  = {Rowland;\_BibTex to MD Git;Book (parent);Training;Workplace
                Learning;Knowledge - Skill Acquisition;git-lit},
   language  = {en}
+}
+
+@INBOOK{Sword2012-dw,
+  title     = {Table of Contents},
+  author    = {Sword, Helen},
+  booktitle = {Stylish Academic Writing},
+  publisher = {Harvard University Press},
+  pages     = {v--viii},
+  date      = {2012},
+  isbn      = {9780674064485},
+  url       = {http://www.jstor.org/stable/j.ctt2jbw8b.2},
+  keywords  = {Stylish Academic Writing}
+}
+
+@INBOOK{Sword2012-pa,
+  title     = {Front Matter},
+  author    = {Sword, Helen},
+  booktitle = {Stylish Academic Writing},
+  publisher = {Harvard University Press},
+  pages     = {i--iv},
+  date      = {2012},
+  isbn      = {9780674064485},
+  url       = {http://www.jstor.org/stable/j.ctt2jbw8b.1},
+  keywords  = {Stylish Academic Writing}
+}
+
+@INBOOK{Sword2012-ys,
+  title     = {Hooks and Sinkers},
+  author    = {Sword, Helen},
+  booktitle = {Stylish Academic Writing},
+  publisher = {Harvard University Press},
+  pages     = {76--86},
+  date      = {2012},
+  isbn      = {9780674064485},
+  abstract  = {If the drug trip described in the opening lines ofFear and
+               Loathing in Las Vegashad transported Hunter S. Thompson beyond
+               the California desert to the even more bizarre and alien
+               landscape of academe, his account might instead be
+               titledHallucinogen-Induced Anxiety Disorders and Revulsion
+               Responses in a Southwestern Gambling-Oriented Locality: A
+               Qualitative Study,and the first few sentences would read
+               something like this:It has been suggested that frontal brain
+               asymmetry (FBA) is associated with differences in fundamental
+               dimensions of emotion (Davidson, 2002). According to the
+               directional model of negative affect, the left prefrontal cortex
+               is associated with},
+  url       = {http://www.jstor.org/stable/j.ctt2jbw8b.9},
+  keywords  = {Stylish Academic Writing}
 }
 
 @BOOK{Williams2020-ck,
@@ -63626,6 +63697,52 @@
                ClickUp;AEC;\_New Literature;Book (child);git-lit}
 }
 
+@INBOOK{Sword2012-ss,
+  title     = {Tempting Titles},
+  author    = {Sword, Helen},
+  booktitle = {Stylish Academic Writing},
+  publisher = {Harvard University Press},
+  pages     = {63--75},
+  date      = {2012},
+  isbn      = {9780674064485},
+  abstract  = {Like a hat on a head or the front door to a house, the title of
+               an academic article offers a powerful first impression. Is the
+               title dry, technical, straightforward? Most likely, the author’s
+               main goal is to transmit research data as efficiently as
+               possible. Does the title contain opaque disciplinary jargon?
+               Perhaps the author unconsciously hopes to impress us, whether by
+               appealing to a shared expertise (“You and I are members of an
+               exclusive club”) or by reminding us of our ignorance (“If you
+               can’t even understand my title, don’t bother reading any
+               further”). Is the title amusing, intriguing,},
+  url       = {http://www.jstor.org/stable/j.ctt2jbw8b.8},
+  keywords  = {Stylish Academic Writing}
+}
+
+@INBOOK{Sword2012-de,
+  title     = {On Being Disciplined},
+  author    = {Sword, Helen},
+  booktitle = {Stylish Academic Writing},
+  publisher = {Harvard University Press},
+  pages     = {12--22},
+  date      = {2012},
+  isbn      = {9780674064485},
+  abstract  = {To enter an academic discipline is tobecomedisciplined: trained
+               to habits of order through corrections and chastisements that are
+               “assumed to be salutary” by one’s teachers. Scholarly
+               commentators have variously alluded to the academic disciplines
+               as “silos,” “barricades,” “ghettos,” and “black boxes,” using
+               metaphors of containment that implicitly critique the
+               intellectual constraints imposed by disciplinary structures.² Yet
+               disciplinarity remains a robust and even sacred concept.
+               University of California chancellor Clark Kerr is said to have
+               described the mid-twentieth-century research university as “a
+               series of individual faculty entrepreneurs held together by a
+               common grievance over parking,” and his censure still},
+  url       = {http://www.jstor.org/stable/j.ctt2jbw8b.4},
+  keywords  = {Stylish Academic Writing}
+}
+
 @MASTERSTHESIS{Bell2009-di,
   type        = {mathesis},
   title       = {Kiwi prefab: Prefabricated housing in New Zealand: An
@@ -67810,6 +67927,71 @@
   url          = {http://dx.doi.org/10.3828/hsir.2022.43.9},
   keywords     = {Braverman;\_BibTex to MD Git;git-lit},
   language     = {en}
+}
+
+@INBOOK{Sword2012-ix,
+  title     = {Voice and Echo},
+  author    = {Sword, Helen},
+  booktitle = {Stylish Academic Writing},
+  publisher = {Harvard University Press},
+  pages     = {35--47},
+  date      = {2012},
+  isbn      = {9780674064485},
+  abstract  = {Think of an academic writer whose work you particularly admire.
+               Most likely you will choose someone whose words convey passion
+               and commitment, whose writing engages you in a direct and
+               visceral way; you feel as though this person is chatting with you
+               over a cup of coffee, perhaps sketching diagrams on a napkin to
+               illustrate a point, rather than lecturing to you in a monotonous
+               voice from a computer printout or PowerPoint screen. Now think of
+               an academic whose writing you find hard to digest, even if his or
+               her ideas are perfectly sound. In nine cases out of ten,},
+  url       = {http://www.jstor.org/stable/j.ctt2jbw8b.6},
+  keywords  = {Stylish Academic Writing}
+}
+
+@INBOOK{Sword2012-yr,
+  title     = {A Guide to the Style Guides},
+  author    = {Sword, Helen},
+  booktitle = {Stylish Academic Writing},
+  publisher = {Harvard University Press},
+  pages     = {23--32},
+  date      = {2012},
+  isbn      = {9780674064485},
+  abstract  = {Academic writing, like university teaching, is what sociologist
+               Paul Trowler calls a “recurrent practice,” one of the many
+               routine tasks that most academics perform “habitually and in an
+               unconsidered way,” with little thought as to how or why things
+               might be done differently: “It is simply taken for granted that
+               this is what we do around here.”¹ In recent years, with the
+               advent of Preparing Future Faculty programs in the United States
+               and faculty teaching certificates elsewhere, pedagogical training
+               for academics has become something less of a novelty than it used
+               to be. However, many early career academics still experience},
+  url       = {http://www.jstor.org/stable/j.ctt2jbw8b.5},
+  keywords  = {Stylish Academic Writing}
+}
+
+@INBOOK{Sword2012-oq,
+  title     = {Smart Sentencing},
+  author    = {Sword, Helen},
+  booktitle = {Stylish Academic Writing},
+  publisher = {Harvard University Press},
+  pages     = {48--62},
+  date      = {2012},
+  isbn      = {9780674064485},
+  abstract  = {A carefully crafted sentence welcomes its reader like a
+               comfortable rocking chair, bears its reader across chasms like a
+               suspension bridge, and helps its reader navigate tricky terrain
+               like a well-hewn walking stick. A poorly crafted or uncrafted
+               sentence, on the other hand, functions more like a shapeless log
+               tossed into a river: it might or might not help you get to the
+               other side, depending on how strong the current is and how hard
+               you are willing to kick. And sometimes the reader of an academic
+               text has to kick very hard indeed:These deconstructive and
+               theorising inputs to},
+  url       = {http://www.jstor.org/stable/j.ctt2jbw8b.7},
+  keywords  = {Stylish Academic Writing}
 }
 
 @REPORT{Serkin2026-tw,
