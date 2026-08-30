@@ -4709,6 +4709,23 @@
                Learning;Knowledge - Skill Acquisition;Book (parent);git-lit}
 }
 
+@ARTICLE{Ward2025-ju,
+  title        = {{ChatGPT} for the intellectual soul: a Deweyan perspective on
+                  {AI}-based multicultural classroom praxis},
+  author       = {Ward, Francis and Cho, Jeasik and Jung, Jin Kyeong and
+                  Tognocchi, Christopher and Beadles, Taylor and Cheon, Jongpil},
+  journaltitle = {Multicultural Education Review},
+  publisher    = {Informa UK Limited},
+  volume       = {17},
+  issue        = {1},
+  pages        = {1--18},
+  date         = {2025-01-02},
+  doi          = {10.1080/2005615x.2025.2467759},
+  issn         = {2005-615X,2377-0031},
+  url          = {http://dx.doi.org/10.1080/2005615x.2025.2467759},
+  language     = {en}
+}
+
 @BOOK{Danermark2005-wo,
   title     = {Explaining Society: An Introduction to Critical Realism in the
                Social Sciences},
