@@ -68727,3 +68727,13 @@
                   Acquisition;Philosophy of Education;Scaffolding;git-lit},
   language     = {en}
 }
+
+@BOOK{Gilbreth1917-np,
+  title     = {Applied Motion Study: A Collection of Papers on the Efficient
+               Method to Industrial Preparedness},
+  author    = {Gilbreth, Frank Bunker and Gilbreth, Lillian Moller},
+  publisher = {Sturgis \& Walton Company},
+  location  = {New York, NY},
+  date      = {1917-09},
+  isbn      = {9781360409726}
+}
