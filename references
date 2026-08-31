@@ -68779,8 +68779,8 @@
 }
 
 @ARTICLE{Bharani2025-ii,
-  title        = {The Gilbreth contribution to operating room management and
-                  surgical ergonomics},
+  title        = {The Gilbreth Contribution to Operating Room Management and
+                  Surgical Ergonomics},
   author       = {Bharani, Tina and Agarwal, Divyansh},
   journaltitle = {Surgical Innovation},
   publisher    = {SAGE Publications},
@@ -68813,8 +68813,5 @@
                   eliminate unnecessary motions and foster ergonomics in the
                   operating room and in the field of surgery in general.},
   url          = {http://dx.doi.org/10.1177/15533506251362370},
-  keywords     = {frank gilbreth; lillian gilbreth; operating room;
-                  standardization of surgical tools; surgical ergonomics;
-                  therbligs},
   language     = {en}
 }
