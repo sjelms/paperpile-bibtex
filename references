@@ -68735,5 +68735,14 @@
   publisher = {Sturgis \& Walton Company},
   location  = {New York, NY},
   date      = {1917-09},
-  isbn      = {9781360409726}
+  isbn      = {9781360409726},
+  abstract  = {A foundational text in industrial engineering that outlines how
+               eliminating wasted physical movement can maximize productivity,
+               reduce fatigue, and prepare national industries for efficiency.
+               This book aims to describe Motion Study as applied to various
+               fields of activity and in such a way as to make possible its
+               application in any and all kinds of work. Motion Study is a means
+               to permanent and practical waste elimination hence a prerequisite
+               to efficient preparedness that shall be adequate, constructive
+               and cumulative.}
 }
