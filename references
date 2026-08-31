@@ -68599,6 +68599,18 @@
   language  = {en}
 }
 
+@BOOK{Bornfelt2023-ri,
+  title     = {Work organisation in practice},
+  author    = {Börnfelt, P-O},
+  publisher = {Springer Nature Switzerland},
+  location  = {Cham},
+  date      = {2023},
+  doi       = {10.1007/978-3-031-21667-1},
+  isbn      = {9783031216664,9783031216671},
+  url       = {http://dx.doi.org/10.1007/978-3-031-21667-1},
+  language  = {en}
+}
+
 @BOOK{Sword2012-te,
   title     = {Stylish Academic Writing},
   author    = {Sword, Helen},
