@@ -68600,6 +68600,19 @@
   language  = {en}
 }
 
+@BOOK{Dunford1983-ep,
+  title     = {The Arena of Capital},
+  author    = {Dunford, Michael and Perrons, Diane},
+  publisher = {Palgrave Macmillan},
+  location  = {Basingstoke, England},
+  date      = {1983-07},
+  pagetotal = {424},
+  doi       = {10.1007/978-1-349-17107-1},
+  isbn      = {9780333282632,9781349171071},
+  series    = {Critical human geography},
+  url       = {http://dx.doi.org/10.1007/978-1-349-17107-1}
+}
+
 @BOOK{Sword2012-te,
   title     = {Stylish Academic Writing},
   author    = {Sword, Helen},
