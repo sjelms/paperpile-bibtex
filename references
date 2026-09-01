@@ -24153,7 +24153,8 @@
                bibliographies, and indexes", isbn="978-1-349-17107-1",
                doi="10.1007/978-1-349-17107-1\_17",
                url="https://doi.org/10.1007/978-1-349-17107-1\_17"},
-  url       = {https://doi.org/10.1007/978-1-349-17107-1_17}
+  url       = {https://doi.org/10.1007/978-1-349-17107-1_17},
+  keywords  = {Book (child)}
 }
 
 @ARTICLE{De_Jong2013-st,
