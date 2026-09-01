@@ -20731,6 +20731,27 @@
                Learning;Future of Work;Book (child);git-lit}
 }
 
+@BOOK{Dunford1983-ep,
+  title     = {The Arena of Capital},
+  author    = {Dunford, Michael and Perrons, Diane},
+  publisher = {Palgrave Macmillan},
+  location  = {Basingstoke, England},
+  date      = {1983-07},
+  pagetotal = {424},
+  doi       = {10.1007/978-1-349-17107-1},
+  isbn      = {9780333282632,9781349171071},
+  abstract  = {Michael Dunford and Diane Perrons's 1983 text, The Arena of
+               Capital, establishes a materialist conception of geography,
+               arguing that space is an actively produced arena shaped by
+               capital accumulation rather than a neutral container. The work
+               demonstrates how capitalist development and historical shifts
+               toward Fordism drive urban transformation and persistent regional
+               inequalities.},
+  series    = {Critical human geography},
+  url       = {http://dx.doi.org/10.1007/978-1-349-17107-1},
+  keywords  = {Book (parent);Economics;Labor}
+}
+
 @BOOK{Pickering1995-bn,
   title     = {The Mangle of Practice: Time, Agency, and Science},
   author    = {Pickering, Andrew},
@@ -23869,20 +23890,6 @@
                their species remain undocumented.},
   keywords  = {EPubs Books;Audible;ePub;Audiobook;RNIB},
   language  = {en}
-}
-
-@BOOK{Dunford1983-ep,
-  title     = {The Arena of Capital},
-  author    = {Dunford, Michael and Perrons, Diane},
-  publisher = {Palgrave Macmillan},
-  location  = {Basingstoke, England},
-  date      = {1983-07},
-  pagetotal = {424},
-  doi       = {10.1007/978-1-349-17107-1},
-  isbn      = {9780333282632,9781349171071},
-  series    = {Critical human geography},
-  url       = {http://dx.doi.org/10.1007/978-1-349-17107-1},
-  keywords  = {Book (parent);Economics;Labor}
 }
 
 @BOOK{Sword2012-te,
