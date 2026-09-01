@@ -24140,6 +24140,22 @@
   url       = {http://dx.doi.org/10.1007/978-1-349-17107-1_15}
 }
 
+@INBOOK{Dunford1983-hj,
+  title     = {Back Matter},
+  author    = {Dunford, Michael and Perrons, Diane},
+  publisher = {Macmillan Education UK},
+  location  = {London},
+  pages     = {361--410},
+  date      = {1983},
+  doi       = {10.1007/978-1-349-17107-1_17},
+  isbn      = {9781349171071},
+  abstract  = {“Supplementary content, including appendices, notes, glossaries,
+               bibliographies, and indexes", isbn="978-1-349-17107-1",
+               doi="10.1007/978-1-349-17107-1\_17",
+               url="https://doi.org/10.1007/978-1-349-17107-1\_17"},
+  url       = {https://doi.org/10.1007/978-1-349-17107-1_17}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
