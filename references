@@ -1220,10 +1220,6 @@
                (physical);Audiobook;Economics;ePub;git-lit}
 }
 
-@MISC{UnknownUnknown-dp,
-  url = {https://journals.uwyo.edu/index.php/workingclassstudies/article/view/8399/6427}
-}
-
 @ARTICLE{Wright1993-vp,
   title        = {Taylorism Reconsidered: The Impact of Scientific Management
                   Within the Australian Workplace},
@@ -39118,6 +39114,38 @@
   url       = {http://dx.doi.org/10.2307/2180803},
   keywords  = {003\_Theoretical Framework;\_BibTex to MD Git;Columbia
                University;Education;Philosophy of Education;git-lit}
+}
+
+@ARTICLE{Haworth2023-tf,
+  title        = {A study of self-estrangement among fast-food workers},
+  author       = {Haworth, Bethany and Auerbach, Daniel and Tabler, Jennifer},
+  journaltitle = {Journal of Working-Class Studies},
+  publisher    = {University of Wyoming Libraries},
+  volume       = {8},
+  issue        = {2},
+  pages        = {36--50},
+  date         = {2023-12-24},
+  doi          = {10.13001/jwcs.v8i2.8399},
+  issn         = {2475-4765},
+  abstract     = {This study examines self-estrangement, a dimension of
+                  alienation, and its attributes among fast-food service
+                  workers, while considering participant sociodemographic
+                  characteristics. A self-administered online survey, using
+                  Amazon MTURK, deployed over two time periods (N=1,513),
+                  provides data regarding our novel 12-item self-estrangement
+                  scale by fast-food occupation type (cashier, server, cook,
+                  shift manager, and general manager) and sociodemographic
+                  covariates. Preliminary analysis shows that a salaried
+                  position and those with a postbaccalaureate education
+                  experience lower levels of self-estrangement than their
+                  colleagues. Cashiers and cooks experience higher levels of
+                  self-estrangement relative to those in other positions. This
+                  study offers unique contributions to the conceptualization and
+                  operationalization of a dimension of alienation specific to
+                  self-estrangement, facilitating greater understanding of the
+                  fast-food labor sector, its organization, and the state of its
+                  workers},
+  url          = {http://dx.doi.org/10.13001/jwcs.v8i2.8399}
 }
 
 @ARTICLE{Handel2016-gv,
