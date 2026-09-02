@@ -1220,6 +1220,10 @@
                (physical);Audiobook;Economics;ePub;git-lit}
 }
 
+@MISC{UnknownUnknown-dp,
+  url = {https://journals.uwyo.edu/index.php/workingclassstudies/article/view/8399/6427}
+}
+
 @ARTICLE{Wright1993-vp,
   title        = {Taylorism Reconsidered: The Impact of Scientific Management
                   Within the Australian Workplace},
