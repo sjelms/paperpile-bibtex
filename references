@@ -69168,8 +69168,8 @@
 }
 
 @ARTICLE{Henstrom2024-nh,
-  title        = {Immersive engineering instruction: Using Virtual Reality to
-                  enhance students’ experience in the classroom},
+  title        = {Immersive Engineering Instruction: Using Virtual Reality to
+                  Enhance Students’ Experience in the Classroom},
   author       = {Henstrom, Jordan and De Amicis, Raffaele and Sanchez,
                   Christopher A and Turkan, Yelda},
   journaltitle = {Computers \& Graphics},
@@ -69180,6 +69180,37 @@
   date         = {2024-06},
   doi          = {10.1016/j.cag.2024.103944},
   issn         = {0097-8493,1873-7684},
+  abstract     = {With the growing complexity of construction projects, the
+                  Architectural, Engineering, and Construction (AEC) sector
+                  increasingly requires a skilled workforce. This need is
+                  magnified by the challenge of less than ideal retention rates
+                  in engineering fields, prompting a search for methods to
+                  enhance the learning experience. Virtual Reality (VR) has
+                  emerged as an effective tool in this context, offering
+                  immersive and interactive learning environments that improve
+                  the grasp and retention of complex concepts in engineering.
+                  This research assesses the benefits of implementing a VR
+                  solution for building inspections in an undergraduate civil
+                  engineering program. It compares the use of a VR system
+                  against traditional desktop-based inspection techniques and
+                  considers cognitive load, user experience, and usability
+                  aspects of this implementation. Additionally, it examines how
+                  students’ spatial abilities affect their performance with both
+                  methods. Results demonstrate that VR does not increase
+                  cognitive load and is often perceived as requiring less effort
+                  by student users. While both the desktop and VR options
+                  produced similar usability scores, the VR implementation
+                  provided a much more engaging user experience. These results
+                  were replicated and echoed in a second study with actual
+                  engineering instructors, who likewise held a strong positive
+                  attitude towards the VR system, consistent with student
+                  attitudes. Taken together, these results highlight the
+                  potential for VR to revolutionize educational opportunities,
+                  suggesting that its further adoption and exploration should be
+                  prioritized as a useful and viable academic tool.
+                  Specifically, these results suggest that VR can enhance the
+                  learning process in civil engineering and make collaborative
+                  virtual building inspections more efficient and engaging.},
   url          = {http://dx.doi.org/10.1016/j.cag.2024.103944},
   keywords     = {Seed-Pending},
   language     = {en}
