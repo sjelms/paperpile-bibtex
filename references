@@ -24352,6 +24352,25 @@
                 (ITS);Artificial Intelligence (AI);AIEd;git-lit}
 }
 
+@INPROCEEDINGS{Al-attili2023-eo,
+  title      = {Theorising a new educational agenda for sustainable built
+                environment professionals: Timber technology, engineering, and
+                design programme},
+  author     = {Al-attili, Aghlab and Hairstans, Robert and Belden, Tim and
+                Tamagnone, Gabriele and Hitts, Sarah and Binding, Tabitha and
+                Walters, Joseph},
+  booktitle  = {World Conference on Timber Engineering (WCTE 2023)},
+  publisher  = {World Conference on Timber Engineering (WCTE 2023)},
+  location   = {As, Norway},
+  eventtitle = {World Conference on Timber Engineering 2023 (WCTE2023)},
+  venue      = {Oslo, Norway},
+  pages      = {4619--4626},
+  date       = {2023},
+  doi        = {10.52202/069179-0602},
+  url        = {http://dx.doi.org/10.52202/069179-0602},
+  keywords   = {Seed-Pending}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
