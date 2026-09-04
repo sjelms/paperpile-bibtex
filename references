@@ -23679,17 +23679,6 @@
   language     = {en}
 }
 
-@INPROCEEDINGS{Dudhee2024-om,
-  title     = {Artificial Intelligence-Enhanced Virtual Reality for Health and
-               Safety Training in Construction},
-  author    = {Dudhee, Vishak and Bandara, Prasanna D and Vukovic, Vladimir and
-               Nalakath, Azhar and Bass, Paul and Bass, Emma},
-  booktitle = {eLearning},
-  pages     = {74--82},
-  date      = {2024},
-  keywords  = {Screened}
-}
-
 @INBOOK{Sword2012-ix,
   title     = {Voice and Echo},
   author    = {Sword, Helen},
@@ -24599,6 +24588,32 @@
                 goal is to evaluate the effectiveness of the AR application by
                 gauging participants' performance using pre and post surveys.},
   url        = {http://dx.doi.org/10.1109/edunine48860.2020.9149493},
+  keywords   = {Screened}
+}
+
+@INPROCEEDINGS{Dudhee2024-om,
+  title      = {Artificial Intelligence-Enhanced Virtual Reality for Health and
+                Safety Training in Construction},
+  author     = {Dudhee, Vishak and Bandara, Prasanna D and Vukovic, Vladimir and
+                Nalakath, Azhar and Bass, Paul and Bass, Emma},
+  booktitle  = {15th International Conference on e-Learning 2024},
+  eventtitle = {15th International Conference on e-Learning 2024},
+  venue      = {Belgrade, Serbia},
+  eventdate  = {2024-09-26},
+  volume     = {3938},
+  pages      = {74--82},
+  date       = {2024},
+  abstract   = {The construction industry continues to face significant
+                challenges in ensuring the health and safety (H\&S) of its
+                workers. Traditional training methods are often insufficient in
+                preparing workers for the complexities of real-world scenarios.
+                This paper explores the application of Artificial Intelligence
+                (AI) and Virtual Reality (VR) technologies in H\&S training
+                within the construction sector. By using AI to personalise and
+                adapt VR training experiences, these technologies can
+                significantly enhance learning outcomes, improve safety
+                behaviour, and ultimately reduce workplace accidents.},
+  url        = {https://ceur-ws.org/Vol-3938/},
   keywords   = {Screened}
 }
 
