@@ -24461,67 +24461,8 @@
                performance-oriented approach to carrying out practical robotics
                tasks in real-world scenarios.},
   url       = {http://dx.doi.org/10.1007/978-981-99-8405-3_30},
-  keywords  = {Screened},
+  keywords  = {Screened;AEC},
   language  = {en}
-}
-
-@INBOOK{Vassigh2023-vh,
-  title     = {Adaptive immersive learning environments for teaching industrial
-               robotics},
-  author    = {Vassigh, Shahin and Corrigan, Seth and Bogosian, Biayna and
-               Peterson, Eric},
-  editor    = {Ahram, Tareq and Karwowski, Waldemar},
-  booktitle = {Emerging Technologies and Future of Work},
-  publisher = {AHFE International Conference, 2023},
-  volume    = {117},
-  date      = {2023},
-  doi       = {10.54941/ahfe1004411},
-  issn      = {2771-0718},
-  abstract  = {AI, robotics, and automation are reshaping many industries,
-               including the Architecture, Engineering, and Construction (AEC)
-               industries. For students aiming to enter these evolving fields,
-               comprehensive and accessible training in high-tech roles is
-               becoming increasingly important. Traditional robotics education,
-               while often effective, usually necessitates small class sizes and
-               specialized equipment. On-the-job training introduces safety
-               risks, particularly for inexperienced individuals. The
-               integration of advanced technologies for training presents an
-               alternative that reduces the need for extensive physical
-               resources and minimizes safety concerns. This paper introduces
-               the Intelligent Learning Platform for Robotics Operations
-               (IL-PRO), an innovative project that integrates the use of
-               Artificial Intelligence (AI), Virtual Reality (VR), and
-               game-assisted learning for teaching robotic arms operations. The
-               goal of this project is to address the limitations of traditional
-               training through the implementation of personalized learning
-               strategies supported by Adaptive Learning Systems (ALS). These
-               systems hold the potential to transform education by customizing
-               content to cater to various levels of understanding, preferred
-               learning styles, past experiences, and diverse linguistic and
-               socio-cultural backgrounds.Central to IL-PRO is the development
-               of its ALS, which uses student progress variables and multimodal
-               machine learning to infer students’ level of understanding and
-               automate task and feedback delivery. The curriculum is organized
-               into modules, starting with fundamental robotic concepts, and
-               advancing to complex motion planning and programming. The
-               curriculum is guided by a learner model that is continuously
-               refined through data collection. Furthermore, the project
-               incorporates gaming elements into its VR learning approach to
-               create an engaging educational environment. Thus, the learning
-               content is designed to engage students with simulated robots and
-               input devices to solve sequences of game-based challenges. The
-               challenge sequences are designed similarly to levels in a game,
-               each with increasing complexity, in order to systematically
-               incrementally build students' knowledge, skills, and confidence
-               in robotic operations. The project is conducted by a team of
-               interdisciplinary faculty from Florida International University
-               (FIU), the University of California Irvine (UCI), the University
-               of Hawaii (UH) and the University of Kansas-Missouri (UKM). The
-               collaboration between these institutions enables the sharing of
-               resources and expertise that are essential for the development of
-               this comprehensive learning platform.},
-  url       = {http://dx.doi.org/10.54941/ahfe1004411},
-  keywords  = {Screened}
 }
 
 @INPROCEEDINGS{Bogosian2020-qj,
@@ -24556,7 +24497,7 @@
                 goal is to evaluate the effectiveness of the AR application by
                 gauging participants' performance using pre and post surveys.},
   url        = {http://dx.doi.org/10.1109/edunine48860.2020.9149493},
-  keywords   = {Screened}
+  keywords   = {Screened;AEC}
 }
 
 @INPROCEEDINGS{Dudhee2024-om,
@@ -24582,7 +24523,7 @@
                 significantly enhance learning outcomes, improve safety
                 behaviour, and ultimately reduce workplace accidents.},
   url        = {https://ceur-ws.org/Vol-3938/},
-  keywords   = {Screened}
+  keywords   = {Screened;AEC}
 }
 
 @INPROCEEDINGS{Ilbeigi2025-oo,
@@ -24647,7 +24588,7 @@
                 will also assess the broader applicability of the proposed
                 innovation.},
   url        = {http://dx.doi.org/10.18260/1-2--55687},
-  keywords   = {Screened}
+  keywords   = {Screened;AEC}
 }
 
 @ARTICLE{Xu2023-aw,
@@ -24689,7 +24630,7 @@
                   proposed model performed well at educating safety knowledge
                   and reducing unsafe behavior.},
   url          = {http://dx.doi.org/10.1016/j.dibe.2022.100111},
-  keywords     = {Screened},
+  keywords     = {Screened;AEC},
   language     = {en}
 }
 
@@ -24741,8 +24682,67 @@
                   SRL skills. The limitations of this study and future
                   improvement are also discussed.},
   url          = {http://dx.doi.org/10.1061/(asce)ei.1943-5541.0000308},
-  keywords     = {Screened;Optional},
+  keywords     = {Screened;Optional;AEC},
   language     = {en}
+}
+
+@INBOOK{Vassigh2023-vh,
+  title     = {Adaptive immersive learning environments for teaching industrial
+               robotics},
+  author    = {Vassigh, Shahin and Corrigan, Seth and Bogosian, Biayna and
+               Peterson, Eric},
+  editor    = {Ahram, Tareq and Karwowski, Waldemar},
+  booktitle = {Emerging Technologies and Future of Work},
+  publisher = {AHFE International Conference, 2023},
+  volume    = {117},
+  date      = {2023},
+  doi       = {10.54941/ahfe1004411},
+  issn      = {2771-0718},
+  abstract  = {AI, robotics, and automation are reshaping many industries,
+               including the Architecture, Engineering, and Construction (AEC)
+               industries. For students aiming to enter these evolving fields,
+               comprehensive and accessible training in high-tech roles is
+               becoming increasingly important. Traditional robotics education,
+               while often effective, usually necessitates small class sizes and
+               specialized equipment. On-the-job training introduces safety
+               risks, particularly for inexperienced individuals. The
+               integration of advanced technologies for training presents an
+               alternative that reduces the need for extensive physical
+               resources and minimizes safety concerns. This paper introduces
+               the Intelligent Learning Platform for Robotics Operations
+               (IL-PRO), an innovative project that integrates the use of
+               Artificial Intelligence (AI), Virtual Reality (VR), and
+               game-assisted learning for teaching robotic arms operations. The
+               goal of this project is to address the limitations of traditional
+               training through the implementation of personalized learning
+               strategies supported by Adaptive Learning Systems (ALS). These
+               systems hold the potential to transform education by customizing
+               content to cater to various levels of understanding, preferred
+               learning styles, past experiences, and diverse linguistic and
+               socio-cultural backgrounds.Central to IL-PRO is the development
+               of its ALS, which uses student progress variables and multimodal
+               machine learning to infer students’ level of understanding and
+               automate task and feedback delivery. The curriculum is organized
+               into modules, starting with fundamental robotic concepts, and
+               advancing to complex motion planning and programming. The
+               curriculum is guided by a learner model that is continuously
+               refined through data collection. Furthermore, the project
+               incorporates gaming elements into its VR learning approach to
+               create an engaging educational environment. Thus, the learning
+               content is designed to engage students with simulated robots and
+               input devices to solve sequences of game-based challenges. The
+               challenge sequences are designed similarly to levels in a game,
+               each with increasing complexity, in order to systematically
+               incrementally build students' knowledge, skills, and confidence
+               in robotic operations. The project is conducted by a team of
+               interdisciplinary faculty from Florida International University
+               (FIU), the University of California Irvine (UCI), the University
+               of Hawaii (UH) and the University of Kansas-Missouri (UKM). The
+               collaboration between these institutions enables the sharing of
+               resources and expertise that are essential for the development of
+               this comprehensive learning platform.},
+  url       = {http://dx.doi.org/10.54941/ahfe1004411},
+  keywords  = {Screened;AEC}
 }
 
 @ARTICLE{De_Jong2013-st,
