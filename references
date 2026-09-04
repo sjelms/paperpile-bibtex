@@ -69328,6 +69328,7 @@
   publisher  = {IEEE},
   eventtitle = {2020 IEEE World Conference on Engineering Education (EDUNINE)},
   venue      = {Bogota, Colombia},
+  eventdate  = {2020-03-15},
   date       = {2020-03},
   doi        = {10.1109/edunine48860.2020.9149493},
   isbn       = {9781728166384},
