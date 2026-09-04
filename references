@@ -69216,3 +69216,18 @@
   keywords     = {Seed-Pending;\_XR MR VR AR;AEC},
   language     = {en}
 }
+
+@INPROCEEDINGS{Ilbeigi2025-oo,
+  title      = {{BOARD} \# 320: An {AI}-enhanced system to integrate
+                unstructured observations with formal engineering education: An
+                {NSF} {RITEL} project},
+  author     = {Ilbeigi, Mohammad and Alzoubi, Dana and Rashidi, Abbas},
+  booktitle  = {2025 ASEE Annual Conference \& Exposition Proceedings},
+  publisher  = {ASEE Conferences},
+  eventtitle = {2025 ASEE Annual Conference \& Exposition},
+  venue      = {Montreal, Quebec, Canada},
+  date       = {2025},
+  doi        = {10.18260/1-2--55687},
+  url        = {http://dx.doi.org/10.18260/1-2--55687},
+  keywords   = {Screened}
+}
