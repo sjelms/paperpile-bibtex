@@ -24693,6 +24693,17 @@
   language     = {en}
 }
 
+@INPROCEEDINGS{Sawhney2000-dn,
+  title     = {Internet based interactive construction management learning
+               system},
+  author    = {Sawhney, Anil and Marble, Jen and Mund, Andre and Vamadevan,
+               Amarneethi},
+  booktitle = {Construction Congress VI: Building Together for a Better Tomorrow
+               in an Increasingly Complex World},
+  pages     = {280--288},
+  date      = {2000}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
