@@ -24461,7 +24461,8 @@
                performance-oriented approach to carrying out practical robotics
                tasks in real-world scenarios.},
   url       = {http://dx.doi.org/10.1007/978-981-99-8405-3_30},
-  keywords  = {Screened;AEC;\_XR MR VR AR;Intelligent Tutoring Systems (ITS)},
+  keywords  = {Screened;AEC;\_XR MR VR AR;Intelligent Tutoring Systems
+               (ITS);Training},
   language  = {en}
 }
 
@@ -24497,7 +24498,7 @@
                 goal is to evaluate the effectiveness of the AR application by
                 gauging participants' performance using pre and post surveys.},
   url        = {http://dx.doi.org/10.1109/edunine48860.2020.9149493},
-  keywords   = {Screened;AEC;Intelligent Tutoring Systems (ITS)}
+  keywords   = {Screened;AEC;Intelligent Tutoring Systems (ITS);Training}
 }
 
 @INPROCEEDINGS{Dudhee2024-om,
@@ -24523,7 +24524,8 @@
                 significantly enhance learning outcomes, improve safety
                 behaviour, and ultimately reduce workplace accidents.},
   url        = {https://ceur-ws.org/Vol-3938/},
-  keywords   = {Screened;AEC;\_XR MR VR AR;Intelligent Tutoring Systems (ITS)}
+  keywords   = {Screened;AEC;\_XR MR VR AR;Intelligent Tutoring Systems
+                (ITS);Training}
 }
 
 @INPROCEEDINGS{Ilbeigi2025-oo,
@@ -24630,7 +24632,7 @@
                   proposed model performed well at educating safety knowledge
                   and reducing unsafe behavior.},
   url          = {http://dx.doi.org/10.1016/j.dibe.2022.100111},
-  keywords     = {Screened;AEC;Intelligent Tutoring Systems (ITS);AIEd},
+  keywords     = {Screened;AEC;Intelligent Tutoring Systems (ITS);AIEd;Training},
   language     = {en}
 }
 
@@ -24742,7 +24744,8 @@
                resources and expertise that are essential for the development of
                this comprehensive learning platform.},
   url       = {http://dx.doi.org/10.54941/ahfe1004411},
-  keywords  = {Screened;AEC;\_XR MR VR AR;Intelligent Tutoring Systems (ITS)}
+  keywords  = {Screened;AEC;\_XR MR VR AR;Intelligent Tutoring Systems
+               (ITS);Training}
 }
 
 @ARTICLE{De_Jong2013-st,
