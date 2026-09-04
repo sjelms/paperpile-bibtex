@@ -69352,3 +69352,37 @@
   url        = {http://dx.doi.org/10.54941/ahfe1004411},
   keywords   = {Screened}
 }
+
+@INPROCEEDINGS{Bogosian2020-qj,
+  title      = {Work in progress: Towards an immersive robotics training for the
+                future of architecture, engineering, and construction workforce},
+  author     = {Bogosian, Biayna and Bobadilla, Leonardo and Alonso, Miguel and
+                Elias, Albert and Perez, Giancarlo and Alhaffar, Hadi and
+                Vassigh, Shahin},
+  booktitle  = {2020 IEEE World Conference on Engineering Education (EDUNINE)},
+  publisher  = {IEEE},
+  eventtitle = {2020 IEEE World Conference on Engineering Education (EDUNINE)},
+  venue      = {Bogota, Colombia},
+  date       = {2020-03},
+  doi        = {10.1109/edunine48860.2020.9149493},
+  isbn       = {9781728166384},
+  abstract   = {Advancements in Artificial Intelligence (AI), Information
+                Technology, Augmented Reality (AR) and Virtual Reality (VR), and
+                Robotic Automation is transforming jobs in the Architecture,
+                Engineering and Construction (AEC) industries. However, it is
+                also expected that these technologies will lead to job
+                displacement, alter skill profiles for existing jobs, and change
+                how people work. Therefore, preparing the workforce for an
+                economy defined by these technologies is imperative. This
+                ongoing research focuses on developing an immersive learning
+                training curriculum to prepare the future workforce of the
+                building industry. In this paper we are demonstrating a
+                prototype of a mobile AR application to deliver lessons for
+                training in robotic automation for construction industry
+                workers. The application allows a user to interact with a
+                virtual robot manipulator to learn its basic operations. The
+                goal is to evaluate the effectiveness of the AR application by
+                gauging participants' performance using pre and post surveys.},
+  url        = {http://dx.doi.org/10.1109/edunine48860.2020.9149493},
+  keywords   = {Screened}
+}
