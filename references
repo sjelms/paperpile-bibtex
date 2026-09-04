@@ -69273,3 +69273,22 @@
   keywords  = {Screened},
   language  = {en}
 }
+
+@ARTICLE{Xu2023-aw,
+  title        = {A Bayesian-based knowledge tracing model for improving safety
+                  training outcomes in construction: An adaptive learning
+                  framework},
+  author       = {Xu, Sheng and Sun, Manfang and Fang, Weili and Chen, Ke and
+                  Luo, Hanbin and Zou, Patrick X W},
+  journaltitle = {Developments in the Built Environment},
+  publisher    = {Elsevier BV},
+  volume       = {13},
+  issue        = {100111},
+  pages        = {100111},
+  date         = {2023-03},
+  doi          = {10.1016/j.dibe.2022.100111},
+  issn         = {2666-1659},
+  url          = {http://dx.doi.org/10.1016/j.dibe.2022.100111},
+  keywords     = {Screened},
+  language     = {en}
+}
