@@ -527,6 +527,19 @@
   origdate     = {1925}
 }
 
+@BOOK{Knights1990-ry,
+  title     = {Labour process theory},
+  editor    = {Knights, David and Willmott, Hugh},
+  publisher = {Palgrave Macmillan UK},
+  location  = {Basingstoke, England},
+  edition   = {1990},
+  date      = {1990-01-05},
+  pagetotal = {386},
+  isbn      = {9781349204663},
+  series    = {Studies in the Labour Process},
+  language  = {en}
+}
+
 @ARTICLE{Hamzehpoor2025-zc,
   title        = {How {I} learned to ride},
   author       = {Hamzehpoor, Ehsan},
