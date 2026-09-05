@@ -25010,6 +25010,7 @@
                   states dynamically. We also show that the model parameters of
                   BKT resemble the parameters from logistic IRT models.},
   url          = {http://dx.doi.org/10.3390/psych5030050},
+  keywords     = {Seed-Pending},
   language     = {en}
 }
 
