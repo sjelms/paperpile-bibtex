@@ -62207,20 +62207,6 @@
   keywords  = {Schumpeter\_1976;Book (child)}
 }
 
-@INBOOK{Unknown2013-ei,
-  title     = {Marx the Sociologist},
-  author    = {Schumpeter, Joseph A},
-  booktitle = {Capitalism, Socialism, and Democracy},
-  publisher = {Routledge},
-  edition   = {1},
-  pages     = {27--38},
-  date      = {1976},
-  doi       = {10.4324/9780203202050-8},
-  isbn      = {9780203202050},
-  url       = {http://dx.doi.org/10.4324/9780203202050-8},
-  keywords  = {Schumpeter\_1976;Book (child)}
-}
-
 @INBOOK{Schumpeter2013-wa,
   title     = {Prologue},
   author    = {Schumpeter, Joseph A},
@@ -69654,5 +69640,41 @@
                into the sociological essence of Marxism than anything a mere
                economist can say.},
   url       = {http://dx.doi.org/10.4324/9780203202050-7},
+  keywords  = {Schumpeter\_1976;Book (child)}
+}
+
+@INBOOK{Unknown2013-ei,
+  title     = {Marx the Sociologist},
+  author    = {Schumpeter, Joseph A},
+  booktitle = {Capitalism, Socialism, and Democracy},
+  publisher = {Routledge},
+  edition   = {1},
+  pages     = {27--38},
+  date      = {1976},
+  doi       = {10.4324/9780203202050-8},
+  isbn      = {9780203202050},
+  abstract  = {We have now to do a thing which is very objectionable to the
+               faithful. They naturally resent any application of cold analysis
+               to what for them is the very fountain of truth. But one of the
+               things they resent most is cutting Marx’s work into pieces and
+               discussing them one by one. They would say that the very act
+               displays the incapacity of the bourgeois to grasp the resplendent
+               whole, all parts of which complement and explain one another, so
+               that the true meaning is missed as soon as any one part or aspect
+               is considered by itself. We have no choice, however. By
+               committing the offense and next taking up Marx the sociologist
+               after Marx the prophet, I do not mean to deny either the presence
+               of a unity of social vision which succeeds in giving some measure
+               of analytic unity, and still more a semblance of unity, to the
+               Marxian work, or the fact that every part of it, however
+               independent intrinsically, has been correlated by the author with
+               every other. Enough independence remains nevertheless in every
+               province of the vast realm to make it possible for the student to
+               accept the fruits of his labors in one of them while rejecting
+               those in another. Much of the glamour of the faith is lost in the
+               process but something is gained by salvaging important and
+               stimulating truth which is much more valuable by itself than it
+               would be if tied to hopeless wreckage.},
+  url       = {http://dx.doi.org/10.4324/9780203202050-8},
   keywords  = {Schumpeter\_1976;Book (child)}
 }
