@@ -62207,20 +62207,6 @@
   keywords  = {Schumpeter\_1976;Book (child)}
 }
 
-@INBOOK{Unknown2013-ne,
-  title     = {Marx the Prophet},
-  author    = {Schumpeter, Joseph A},
-  booktitle = {Capitalism, Socialism, and Democracy},
-  publisher = {Routledge},
-  edition   = {1},
-  pages     = {23--26},
-  date      = {1976},
-  doi       = {10.4324/9780203202050-7},
-  isbn      = {9780203202050},
-  url       = {http://dx.doi.org/10.4324/9780203202050-7},
-  keywords  = {Schumpeter\_1976;Book (child)}
-}
-
 @INBOOK{Unknown2013-ei,
   title     = {Marx the Sociologist},
   author    = {Schumpeter, Joseph A},
@@ -69639,5 +69625,34 @@
                disproof, by its very failure to injure fatally, only serves to
                bring out the power of the structure.},
   url       = {http://dx.doi.org/10.4324/9780203202050-35},
+  keywords  = {Schumpeter\_1976;Book (child)}
+}
+
+@INBOOK{Unknown2013-ne,
+  title     = {Marx the Prophet},
+  author    = {Schumpeter, Joseph A},
+  booktitle = {Capitalism, Socialism, and Democracy},
+  publisher = {Routledge},
+  edition   = {1},
+  pages     = {23--26},
+  date      = {1976},
+  doi       = {10.4324/9780203202050-7},
+  isbn      = {9780203202050},
+  abstract  = {It was not by a slip that an analogy from the world of religion
+               was permitted to intrude into the title of this chapter. There is
+               more than analogy. In one important sense, Marxism is a religion.
+               To the believer it presents, first, a system of ultimate ends
+               that embody the meaning of life and are absolute standards by
+               which to judge events and actions; and, secondly, a guide to
+               those ends which implies a plan of salvation and the indication
+               of the evil from which mankind, or a chosen section of mankind,
+               is to be saved. We may specify still further: Marxist socialism
+               also belongs to that subgroup which promises paradise on this
+               side of the grave. I believe that a formulation of these
+               characteristics by an hierologist would give opportunities for
+               classification and comment which might possibly lead much deeper
+               into the sociological essence of Marxism than anything a mere
+               economist can say.},
+  url       = {http://dx.doi.org/10.4324/9780203202050-7},
   keywords  = {Schumpeter\_1976;Book (child)}
 }
