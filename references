@@ -24902,6 +24902,29 @@
   language  = {en}
 }
 
+@BOOK{King2025-qy,
+  title     = {On Writing: A Memoir of the Craft},
+  author    = {King, Stephen},
+  publisher = {Hodder \& Stoughton},
+  location  = {London, England},
+  date      = {2025-07-17},
+  pagetotal = {416},
+  isbn      = {9781848941083},
+  abstract  = {There is a reason why Stephen King is one of the bestselling
+               writers in the world, ever. Described in the Guardian as 'the
+               most remarkable storyteller in modern American literature',
+               Stephen King writes books that draw you in and are impossible to
+               put down.Part memoir, part master class by one of the bestselling
+               authors of all time, this superb volume is a revealing and
+               practical view of the writer's craft, comprising the basic tools
+               of the trade every writer must have. King's advice is grounded in
+               the vivid memories from childhood through his emergence as a
+               writer, from his struggling early career to his widely reported,
+               near-fatal accident in 1999 - and how the inextricable link
+               between writing and living spurred his recovery.},
+  language  = {en}
+}
+
 @BOOK{Edwards1986-zy,
   title     = {Conflict at Work: A Materialist Analysis of Workplace Relations},
   author    = {Edwards, Paul K},
@@ -24924,17 +24947,6 @@
                interest.},
   series    = {Warwick studies in industrial relations},
   keywords  = {RNIB;Labor;Training;Economics},
-  language  = {en}
-}
-
-@BOOK{King2025-qy,
-  title     = {On writing},
-  author    = {King, Stephen},
-  publisher = {Hodder \& Stoughton},
-  location  = {London, England},
-  date      = {2025-07-17},
-  pagetotal = {416},
-  isbn      = {9781848941083},
   language  = {en}
 }
 
