@@ -69705,3 +69705,15 @@
   keywords  = {Schumpeter\_1976;Book (child)},
   language  = {en}
 }
+
+@BOOK{Edwards1986-zy,
+  title     = {Conflict at Work},
+  author    = {Edwards, P K},
+  publisher = {Blackwell},
+  location  = {London, England},
+  date      = {1986-11-27},
+  pagetotal = {250},
+  isbn      = {9780631152729},
+  series    = {Warwick studies in industrial relations},
+  language  = {en}
+}
