@@ -62597,20 +62597,6 @@
   language  = {en}
 }
 
-@INBOOK{Unknown2013-yn,
-  title     = {Prologue},
-  author    = {Schumpeter, Joseph A},
-  booktitle = {Capitalism, Socialism, and Democracy},
-  publisher = {Routledge},
-  edition   = {1},
-  pages     = {317--317},
-  date      = {1976},
-  doi       = {10.4324/9780203202050-35},
-  isbn      = {9780203202050},
-  url       = {http://dx.doi.org/10.4324/9780203202050-35},
-  keywords  = {Schumpeter\_1976;Book (child)}
-}
-
 @INBOOK{Unknown2013-uq,
   title     = {The Nonage},
   author    = {Schumpeter, Joseph A},
@@ -69621,4 +69607,37 @@
   date      = {1833},
   pagetotal = {361},
   keywords  = {\_BibTex to MD Git;Economics;Labor;git-lit}
+}
+
+@INBOOK{Unknown2013-yn,
+  title     = {Prologue},
+  author    = {Schumpeter, Joseph A},
+  booktitle = {Capitalism, Socialism, and Democracy},
+  publisher = {Routledge},
+  edition   = {1},
+  pages     = {317--317},
+  date      = {1976},
+  doi       = {10.4324/9780203202050-35},
+  isbn      = {9780203202050},
+  abstract  = {Most of the creations of the intellect or fancy pass away for
+               good after a time that varies between an after-dinner hour and a
+               generation. Some, however, do not. They suffer eclipses but they
+               come back again, and they come back not as unrecognizable
+               elements of a cultural inheritance, but in their individual garb
+               and with their personal scars which people may see and touch.
+               These we may well call the great ones—it is no disadvantage of
+               this definition that it links greatness to vitality. Taken in
+               this sense, this is undoubtedly the word to apply to the message
+               of Marx. But there is an additional advantage to defining
+               greatness by revivals: it thereby becomes independent of our love
+               or hate. We need not believe that a great achievement must
+               necessarily be a source of light or faultless in either
+               fundamental design or details. On the contrary, we may believe it
+               to be a power of darkness; we may think it fundamentally wrong or
+               disagree with it on any number of particular points. In the case
+               of the Marxian system, such adverse judgment or even exact
+               disproof, by its very failure to injure fatally, only serves to
+               bring out the power of the structure.},
+  url       = {http://dx.doi.org/10.4324/9780203202050-35},
+  keywords  = {Schumpeter\_1976;Book (child)}
 }
