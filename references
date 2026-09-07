@@ -52210,16 +52210,6 @@
   language  = {en}
 }
 
-@BOOK{Fosnot1996-pj,
-  title     = {Constructivism},
-  author    = {Fosnot, Catherine Twomey},
-  publisher = {Teachers' College Press},
-  location  = {New York, NY},
-  date      = {1996-03},
-  pagetotal = {256},
-  isbn      = {9780807734889}
-}
-
 @BOOK{Laovisutthichai2025-qx,
   title     = {Integrated Perspectives in Offsite Construction},
   editor    = {Laovisutthichai, Vikrom},
@@ -52625,6 +52615,24 @@
   keywords  = {EPubs Books;\_BibTex to MD Git;Economics;Politics and
                Society;ePub;RNIB;git-lit},
   language  = {en}
+}
+
+@BOOK{Fosnot1996-pj,
+  title     = {Constructivism: Theory, Perspectives, and Practice},
+  author    = {Fosnot, Catherine Twomey},
+  publisher = {Teachers' College Press},
+  location  = {New York, NY},
+  date      = {1996-03},
+  pagetotal = {256},
+  isbn      = {9780807734889},
+  abstract  = {A comprehensive examination of constructivism and its
+               relationship to teaching and learning. Closing the gap between
+               theory and practice, well-known scholars make constructivism
+               accessible by showing its application in everyday classrooms.
+               Building on the success of the first edition, the authors have
+               completely updated this popular text and expanded its scope to
+               include examples of constructivist teaching across all grade
+               levels and disciplines.}
 }
 
 @MISC{Millard1997-yr,
