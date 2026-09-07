@@ -25368,12 +25368,15 @@
   language     = {en}
 }
 
-@ARTICLE{Barab2004-pm,
-  title     = {Activity theory as a lens for characterizing the participatory
-               unit},
-  author    = {Barab, S and Evans, Michael and Baek, Eun-Ok},
+@INBOOK{Barab2004-pm,
+  title     = {Activity Theory As a Lens for Characterizing the Participatory
+               Unit},
+  author    = {Barab, Sasha A and Evans, Michael A and Baek, Eun-Ok},
+  editor    = {Jonassen, David and Driscoll, Marcy},
+  booktitle = {Handbook of Research on Educational Communications and Technology},
   publisher = {Routledge},
   location  = {London, England},
+  edition   = {2nd Edition},
   pages     = {208--223},
   date      = {2004-01-11},
   doi       = {10.4324/9781410609519-16},
@@ -25389,16 +25392,7 @@
                instructional designers have begun abandoning cognitive theories
                that emphasize individual thinkers and their isolated minds.
                Instead, these researchers have adopted theories that emphasize
-               the social and contextualized nature of cognition and meaning
-               (Brown, Collins, \& Duguid, 1989; Greeno, 1989, 1997; Hollan,
-               Hutchins, \& Kirsch, 2000; Lave \& Wenger, 1991; Resnick, 1987;
-               Salomon, 1993). Central to these reconceptualizations is an
-               emphasis on contextualized activity and ongoing participation as
-               the core units of analysis (Barab \& Kirshner, 2001; Barab \&
-               Plucker, 2002; Brown \& Duguid, 1991; Cook \& Yanow, 1993;1See
-               Barab \& Kirshner, 2001, or Barab, Cherkes-Julkowski, Swenson,
-               Garret, Shaw, \& Young, 1998, for further discussion on this
-               topic.},
+               the social and contextualized nature of cognition and meaning...},
   url       = {http://dx.doi.org/10.4324/9781410609519-16},
   urldate   = {2026-09-07}
 }
