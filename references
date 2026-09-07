@@ -10541,16 +10541,6 @@
   keywords     = {RDL [CCME0041];Journal Articles}
 }
 
-@INBOOK{Barab2006-jc,
-  title     = {Design-based research: A methodological toolkit},
-  author    = {Barab, Sasha},
-  booktitle = {The Cambridge Handbook of the Learning Sciences. Cambridge},
-  publisher = {Cambridge University Press.},
-  date      = {2006},
-  url       = {http://sashabarab.org/wp-content/uploads/2015/03/Ch-8-Cambridge-Handbook-of-the-Learning-Sciences.pdf},
-  keywords  = {RDL [CCME0041];\_New Literature}
-}
-
 @INBOOK{Rivas2012-qo,
   title     = {Coding and analysing qualitative data},
   author    = {Rivas, C},
@@ -70169,4 +70159,32 @@
   keywords     = {\_BibTex to MD Git;Seed-Pending;Construction
                   4-0;AEC;git-lit;Labor;Future of Work},
   language     = {en}
+}
+
+@INBOOK{Barab2005-dj,
+  title     = {Design-Based Research: A Methodological Toolkit for the Learning
+               Scientist},
+  author    = {Barab, Sasha},
+  editor    = {Sawyer, Robert Keith},
+  booktitle = {The Cambridge Handbook of the Learning Sciences},
+  publisher = {Cambridge University Press.},
+  pages     = {153--170},
+  date      = {2005},
+  doi       = {10.1017/CBO9780511816833.011},
+  abstract  = {Design-based research (DBR) is used to study learning in
+               environments which are designed and systematically changed by the
+               researcher. The goal of DBR is to use the close study of a single
+               learning environment, usually as it passes through multiple
+               iterations and as it occurs in naturalistic contexts, to develop
+               new theories, artifacts, and practices that can be generalized to
+               other schools and classrooms. In describing design-based
+               research, Cobb et al. (2003) state: This design process allows
+               the researcher to move beyond simply understanding the world as
+               it is, and involves working to change it in useful ways with the
+               broader goal of examining how these systematic changes influence
+               learning and practice (Barab \& Squire, 2004). It is this
+               innovative aspect of design-based research that makes it such a
+               useful methodology for advancing new theory and practice.},
+  url       = {https://doi.org/10.1017/CBO9780511816833.011},
+  keywords  = {RDL [CCME0041];\_New Literature}
 }
