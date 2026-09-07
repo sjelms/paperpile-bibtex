@@ -2279,13 +2279,6 @@
   keywords    = {\_BibTex to MD Git;Economics;git-lit}
 }
 
-@INBOOK{FosnotUnknown-gg,
-  title     = {Constructivism: A Psychological Theory of Learning},
-  author    = {Fosnot, Catherine Twomey and Perry, Randall Stewart},
-  editor    = {Fosnot, Catherine Twomey},
-  booktitle = {Constructivism}
-}
-
 @ARTICLE{Smith2024-te,
   title        = {Braverman and \textit{Labor and Monopoly Capital}: A
                   retrospective},
@@ -25198,6 +25191,24 @@
                include examples of constructivist teaching across all grade
                levels and disciplines.},
   keywords  = {Psychology;Philosophy of Education;Book (parent)}
+}
+
+@INBOOK{FosnotUnknown-gg,
+  title     = {Constructivism: A Psychological Theory of Learning},
+  author    = {Fosnot, Catherine Twomey and Perry, Randall Stewart},
+  editor    = {Fosnot, Catherine Twomey},
+  booktitle = {Constructivism: Theory, Perspectives, and Practice},
+  abstract  = {Psychology—the way learning is defined, studied, and
+               understood—underlies much of the curricular and instructional
+               decision-making that occurs in education. Constructivism, perhaps
+               the most current psychology of learning, is no exception.
+               Initially based on the work of Jean Piaget and Lev Vygotsky, and
+               then supported and extended by contemporary biologists and
+               cognitive scientists, it is having major ramifications on the
+               goals teachers set for the learners with whom they work, the
+               instructional strategies teachers employ in working towards these
+               goals, and the methods of assessment utilized by school personnel
+               to document genuine learning.}
 }
 
 @ARTICLE{De_Jong2013-st,
