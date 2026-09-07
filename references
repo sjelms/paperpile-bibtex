@@ -44606,6 +44606,20 @@
                (child);AEC;git-lit}
 }
 
+@BOOK{Snow2023-xk,
+  title     = {Aptitude, learning, and instruction},
+  editor    = {Snow, Richard E and Farr, Marshall J},
+  publisher = {Routledge},
+  location  = {London, England},
+  date      = {2023-05-31},
+  pagetotal = {388},
+  doi       = {10.4324/9781003163244},
+  isbn      = {9781000392050},
+  series    = {Aptitude, Learning and Instruction},
+  url       = {http://dx.doi.org/10.4324/9781003163244},
+  language  = {en}
+}
+
 @INBOOK{Hyde2021-wa,
   title     = {Scaling Construction Robotics},
   editor    = {Hyde, Rob and Filippidis, Filippos},
