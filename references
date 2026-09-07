@@ -7789,6 +7789,46 @@
   language     = {en}
 }
 
+@ARTICLE{Woods1997-tk,
+  title        = {Developing problem solving skills: The {McMaster} problem
+                  solving program},
+  author       = {Woods, Donald R and Hrymak, Andrew N and Marshall, Robert R
+                  and Wood, Philip E and Crowe, Cameron M and Hoffman, Terrence
+                  W and Wright, Joseph D and Taylor, Paul A and Woodhouse,
+                  Kimberly A and Bouchard, C G Kyle},
+  journaltitle = {Journal of Engineering Education},
+  publisher    = {Wiley},
+  volume       = {86},
+  issue        = {2},
+  pages        = {75--91},
+  date         = {1997-04},
+  doi          = {10.1002/j.2168-9830.1997.tb00270.x},
+  issn         = {1069-4730,2168-9830},
+  abstract     = {AbstractThis paper describes a 25‐year project in which we
+                  defined problem solving, identified effective methods for
+                  developing students' skill in problem solving, implemented a
+                  series of four required courses to develop the skill, and
+                  evaluated the effectiveness of the program. Four research
+                  projects are summarized in which we identified which teaching
+                  methods failed to develop problem solving skill and which
+                  methods were successful in developing the skills. We found
+                  that students need both comprehension of Chemical Engineering
+                  and what we call general problem solving skill to solve
+                  problems successfully. We identified 37 general problem
+                  solving skills. We use 120 hours of workshops spread over four
+                  required courses to develop the skills. Each skill is built
+                  (using content‐independent activities), bridged (to apply the
+                  skill in the content‐specific domain of Chemical Engineering)
+                  and extended (to use the skill in other contexts and contents
+                  and in everyday life). The tests and examinations of process
+                  skills, TEPS, that assess the degree to which the students can
+                  apply the skills are described. We illustrate how
+                  self‐assessment was used.},
+  url          = {http://dx.doi.org/10.1002/j.2168-9830.1997.tb00270.x},
+  keywords     = {Seed-Pending},
+  language     = {en}
+}
+
 @ARTICLE{Sorby2000-fd,
   title        = {The development and assessment of a course for enhancing the
                   3-{D} spatial visualization skills of first year engineering
