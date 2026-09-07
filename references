@@ -25193,11 +25193,15 @@
   keywords  = {Psychology;Philosophy of Education;Book (parent)}
 }
 
-@INBOOK{FosnotUnknown-gg,
+@INBOOK{Fosnot1996-rw,
   title     = {Constructivism: A Psychological Theory of Learning},
   author    = {Fosnot, Catherine Twomey and Perry, Randall Stewart},
   editor    = {Fosnot, Catherine Twomey},
   booktitle = {Constructivism: Theory, Perspectives, and Practice},
+  publisher = {Teachers' College Press},
+  location  = {New York, NY},
+  pages     = {8--38},
+  date      = {1996},
   abstract  = {Psychology—the way learning is defined, studied, and
                understood—underlies much of the curricular and instructional
                decision-making that occurs in education. Constructivism, perhaps
