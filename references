@@ -25399,6 +25399,32 @@
                Acquisition;git-lit}
 }
 
+@ARTICLE{Tessmer1997-jm,
+  title        = {The role of context in learning and instructional design},
+  author       = {Tessmer, Martin and Richey, Rita C},
+  journaltitle = {Educational Technology Research and Development: ETR \& D},
+  publisher    = {Springer Science and Business Media LLC},
+  volume       = {45},
+  issue        = {2},
+  pages        = {85--115},
+  date         = {1997-06},
+  doi          = {10.1007/bf02299526},
+  issn         = {1042-1629,1556-6501},
+  abstract     = {Context is a pervasive and potent force in any learning event.
+                  Yet instructional design models contain little guidance about
+                  how to accommodate contextual elements to improve learning and
+                  transfer. This paper defines context, outlines its levels and
+                  types, specifies some pertinent contextual factors within
+                  these types, suggests methods for conducting a contextual
+                  analysis and utilizing its results for instructional design,
+                  and outlines future issues for context-based instructional
+                  design. The incorporation of a contextual approach to
+                  instruction will make our design models systemic as well as
+                  systematic.},
+  url          = {http://dx.doi.org/10.1007/bf02299526},
+  language     = {en}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
