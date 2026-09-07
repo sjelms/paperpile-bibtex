@@ -25183,7 +25183,7 @@
 
 @BOOK{Fosnot1996-pj,
   title     = {Constructivism: Theory, Perspectives, and Practice},
-  author    = {Fosnot, Catherine Twomey},
+  editor    = {Fosnot, Catherine Twomey},
   publisher = {Teachers' College Press},
   location  = {New York, NY},
   date      = {1996-03},
