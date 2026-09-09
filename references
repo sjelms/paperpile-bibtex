@@ -3861,7 +3861,7 @@
 }
 
 @ARTICLE{Grzybowski2024-qn,
-  title        = {A history of artificial intelligence},
+  title        = {A History of Artificial Intelligence},
   author       = {Grzybowski, Andrzej and Pawlikowska-Łagód, Katarzyna and
                   Lambert, W Clark},
   journaltitle = {Clinics in Dermatology},
@@ -3888,9 +3888,6 @@
                   intelligence, and then provide an outline of the tumultuous
                   events affecting AI up to the present.},
   url          = {http://dx.doi.org/10.1016/j.clindermatol.2023.12.016},
-  keywords     = {AI; Ada Lovelace; Alan Turing; Charles Babbage; artificial
-                  intelligence; computer science; history of artificial
-                  intelligence; history of computer science},
   language     = {en}
 }
 
