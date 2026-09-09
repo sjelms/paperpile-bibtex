@@ -3114,14 +3114,14 @@
   language     = {en}
 }
 
-@INBOOK{Braverman1974-ur,
+@INBOOK{Braverman1998-cu,
   title     = {Introduction},
   author    = {Braverman, Harry},
   booktitle = {Labor and Monopoly Capital: The Degradation of Work in the
                Twentieth Century},
   publisher = {Monthly Review Press},
   pages     = {3--28},
-  date      = {1974},
+  date      = {1998},
   isbn      = {9780853459408},
   abstract  = {This book first took shape in my mind as little more than a study
                of occupational shifts in the United States. I was interested in
