@@ -3860,6 +3860,40 @@
   language     = {en}
 }
 
+@ARTICLE{Grzybowski2024-qn,
+  title        = {A history of artificial intelligence},
+  author       = {Grzybowski, Andrzej and Pawlikowska-Łagód, Katarzyna and
+                  Lambert, W Clark},
+  journaltitle = {Clinics in Dermatology},
+  publisher    = {Elsevier BV},
+  volume       = {42},
+  issue        = {3},
+  pages        = {221--229},
+  date         = {2024-05},
+  doi          = {10.1016/j.clindermatol.2023.12.016},
+  pmid         = {38185196},
+  issn         = {0738-081X,1879-1131},
+  abstract     = {The development of the computer and what is now known as
+                  artificial intelligence (AI) has evolved over more than two
+                  centuries in a long series of steps. The date of the invention
+                  of the first computer is estimated at 1822, when Charles
+                  Babbage (1791-1871) developed his first design of a working
+                  computer on paper, based mainly on a Jacquard loom. He worked
+                  on his project together with Augusta Ada King, Countess
+                  Lovelace (née Byron) (Ada Lovelace) (1815-1852), whom he
+                  called the "Sorceress of Numbers." This work will present the
+                  profile and achievements of Charles Babbage, Augusta Ada King,
+                  Countess Lovelace, and Alan Mathison Turing (1912 - 1954), who
+                  is considered the father of computer science and artificial
+                  intelligence, and then provide an outline of the tumultuous
+                  events affecting AI up to the present.},
+  url          = {http://dx.doi.org/10.1016/j.clindermatol.2023.12.016},
+  keywords     = {AI; Ada Lovelace; Alan Turing; Charles Babbage; artificial
+                  intelligence; computer science; history of artificial
+                  intelligence; history of computer science},
+  language     = {en}
+}
+
 @BOOK{Marx1848-ti,
   title     = {The Communist Manifesto},
   author    = {Marx, Karl and Engels, Friedrich},
