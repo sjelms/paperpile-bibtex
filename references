@@ -25701,6 +25701,7 @@
                   name of the subject should be “Computability Theory” or
                   simplyComputabilityrather than “Recursive Function Theory.”},
   url          = {http://dx.doi.org/10.2307/420992},
+  keywords     = {Artificial Intelligence (AI);Technological change;git-lit},
   language     = {en}
 }
 
