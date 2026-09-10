@@ -25653,8 +25653,17 @@
   language     = {en}
 }
 
-@MISC{UnknownUnknown-lu,
-  url = {https://ojs.ifch.unicamp.br/index.php/teoriacritica/article/view/4570/50}
+@ARTICLE{Lion2022-yx,
+  title        = {The commodity and the computer: On the relation between the
+                  abstraction of labor and the genesis of computing science},
+  author       = {Lion, Thiago Ferreira},
+  journaltitle = {Dissonância: Revista de Teoria Crítica},
+  volume       = {6},
+  pages        = {421--452},
+  date         = {2022},
+  issn         = {2594-5025},
+  url          = {https://ojs.ifch.unicamp.br/index.php/teoriacritica/article/view/4570/50},
+  language     = {pt}
 }
 
 @ARTICLE{De_Jong2013-st,
