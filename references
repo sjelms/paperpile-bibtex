@@ -25737,6 +25737,18 @@
   language     = {en}
 }
 
+@BOOK{Chandler1977-lw,
+  title     = {The visible hand},
+  author    = {Chandler, Alfred D},
+  publisher = {Belknap Press},
+  location  = {London, England},
+  date      = {1977-07-01},
+  pagetotal = {624},
+  doi       = {10.2307/j.ctvjghwrj},
+  isbn      = {9780674940529,9780674940529},
+  url       = {http://dx.doi.org/10.2307/j.ctvjghwrj}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
