@@ -70683,3 +70683,33 @@
   keywords     = {Journal Articles;\_BibTex to MD Git;UCL;\_New
                   Literature;git-lit}
 }
+
+@BOOK{Cetina2005-jl,
+  title     = {The practice turn in contemporary theory},
+  editor    = {Cetina, Karin Knorr and Schatzki, Theodore R and von Savigny,
+               Eike},
+  publisher = {Routledge},
+  location  = {London, England},
+  date      = {2005-06-20},
+  pagetotal = {256},
+  doi       = {10.4324/9780203977453},
+  isbn      = {9781134586295,9781134586295},
+  abstract  = {Davidson’s remark is fairly conventional stuff in contemporary
+               philosophy, but the argument that informs it is elusive. Is this
+               a kind of unformulated transcendental argument, which amounts to
+               the claim that the ‘sharing’ of ‘language,’ in some unspecified
+               sense of these terms, is a condition of the possibility of
+               ‘communication’ in some unspecified sense of this term? Or is it
+               a kind of inference to the best explanation in which there are no
+               real alternativesan inference, so to speak, to the only
+               explanation (which is perhaps not a bad definition of
+               transcendental argument)? There are good reasons to be suspicious
+               of arguments of this form. Yet this general picture, of some sort
+               of shared (and presumably tacit) stuff at the basis of language,
+               is highly appealing, and so is its extension to practices
+               generally. The claim that there is some class of things that
+               could not happen, were it not for the existence of some sort of
+               shared practices, is a commonplace, despite, and perhaps because
+               of its vagueness.},
+  url       = {http://dx.doi.org/10.4324/9780203977453}
+}
