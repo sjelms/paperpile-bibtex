@@ -70237,19 +70237,6 @@
   keywords  = {RDL [CCME0041]}
 }
 
-@BOOK{Ackroyd2006-ua,
-  title     = {The Oxford handbook of work and organization},
-  author    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
-               Tolbert, Pamela S},
-  editor    = {Ackroyd, Stephen},
-  publisher = {Oxford University Press},
-  location  = {Oxford, England},
-  date      = {2006},
-  isbn      = {9780191577345,9780199299249},
-  keywords  = {Ox-Handbook-Work-Org},
-  language  = {en}
-}
-
 @BOOK{Eraut2007-dq,
   title    = {The Significance of Workplace Learning for Individuals, Groups and
               Organisations},
