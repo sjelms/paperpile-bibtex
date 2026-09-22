@@ -26626,7 +26626,24 @@
   date      = {2006-05-25},
   doi       = {10.1093/oxfordhb/9780199299249.003.0007},
   isbn      = {9780199299249},
-  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0007},
+  abstract  = {This article argues that traditional analyses of the impact of
+               technology, as well as more recent explorations of the role of
+               social agency in shaping technology, are not necessarily in
+               competition. They both address enduring and important issues in
+               the study of technology and the transformation of work. Yet
+               despite their value and ongoing relevance, the stronger versions
+               of these approaches remain restricted to a one-dimensional
+               approach to workplace transformation. The softer versions of both
+               approaches take up a more complex two-dimensional standpoint,
+               recognizing the mutual influence of the technical and the social.
+               However, in order to further advance the understanding of
+               technology and the transformation of work, these two-dimensional
+               views need to be integrated with those exploring a third
+               dimension, which is explained in this article. This article shows
+               that the themes addressed are implicit in a number of more
+               traditional analyses of technology and the transformation of
+               work.},
+  url       = {https://academic.oup.com/edited-volume/38663/chapter/335787018},
   note      = {Oxford Academic chapter ID: 335787018},
   keywords  = {Ox-Handbook-Work-Org;Book (child);Workplace Learning;VET}
 }
