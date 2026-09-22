@@ -27110,7 +27110,22 @@
   date      = {2006-05-25},
   doi       = {10.1093/oxfordhb/9780199299249.003.0027},
   isbn      = {9780199299249},
-  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0027},
+  abstract  = {Few observers would dispute the fact that radical changes have
+               been attempted in the funding and organization of public services
+               in most developed countries. Increasingly the trend is said to be
+               away from ‘outmoded traditional ways of organizing and conducting
+               public business towards up-to-date, state-of-the-art methods and
+               styles’. Such change is thought to have had implications for
+               employment relations. The aim of this article is to present a
+               critical overview of recent debates about the nature and
+               consequences of public sector restructuring. It first describes
+               some of the main characteristics of public service organizations
+               and how these have been largely embedded in national-level
+               institutions and policy traditions. Furthermore, this article
+               analyses the forces that have driven restructuring and looks at
+               how change has been associated with attempts to reshape public
+               services through privatization and management reform.},
+  url       = {https://academic.oup.com/edited-volume/38663/chapter/335792257},
   note      = {Oxford Academic chapter ID: 335792257},
   keywords  = {Ox-Handbook-Work-Org;Book (child);Workplace Learning;VET}
 }
