@@ -70817,6 +70817,39 @@
   institution = {University of North Carolina at Chapel Hill},
   location    = {Chapel Hill, NC},
   date        = {2008},
-  url         = {https://media.proquest.com/media/hms/ORIG/1/syxzH?_s=7cSnMvmk1urEaOX78I1xeV6WrJY%3D#view=FitV},
+  doi         = {10.17615/j09w-p543},
+  abstract    = {How do people acquire new concepts? Most theorists (including
+                 Quine, Chomsky, Fodor, and many others) assume that childhood
+                 learning is a kind of theory-building. This picture implies
+                 that children acquire new concepts by deploying concepts they
+                 already possess, and that in turn implies what I call the
+                 Conceptual Mediation Thesis (CMT): that, in order to acquire
+                 any new concepts, a cognizer must first already have some
+                 concepts. I argue that CMT is false. While CMT implies that at
+                 least some concepts are innate, it is widely accepted because
+                 it is thought to provide the only way to explain how concepts
+                 are acquired. However, I argue that the apparent explanatory
+                 virtues of CMT are in fact illusory. I then show how we can
+                 satisfy the explanatory goals that CMT was supposed to satisfy
+                 without postulating any innate concepts – indeed without any
+                 innate mental representations at all. I distinguish between
+                 indicating states and representing states of cognizers.
+                 Indicating states differ from representing states in being
+                 stimulus-bound: only those tokens directly caused by what they
+                 indicate count as correct. I argue that perception produces
+                 states that indicate features of the environment. These
+                 indicating states serve as input to mechanisms that record
+                 these states. These recording devices, in turn, respond to the
+                 input of systematically similar indicating states by creating
+                 states that represent what those indicating states merely
+                 indicate. I describe some processes whereby these recording
+                 devices can create representational states without any
+                 representational input. I argue that this explanation requires
+                 no appeal to mental representations that the agent already
+                 possessed. Finally, I show that this approach to concept
+                 acquisition has the resources to explain a variety of
+                 psychological phenomena that traditional views struggle to
+                 accomodate.},
+  url         = {https://doi.org/10.17615/j09w-p543},
   language    = {en}
 }
