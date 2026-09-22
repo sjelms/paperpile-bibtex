@@ -26867,7 +26867,23 @@
   date      = {2006-05-25},
   doi       = {10.1093/oxfordhb/9780199299249.003.0020},
   isbn      = {9780199299249},
-  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0020},
+  abstract  = {This article begins by reviewing two major clusters of research
+               on technical work, both developed after World War II when the
+               employment of scientists and engineers began to attract
+               attention. The first cluster, called the Weberian literature,
+               emerged in the 1950s when industrial sociologists were actively
+               exploring the implications and limitations of Weber's theory of
+               bureaucracy. The second cluster ascended during the 1970s, drew
+               its inspiration primarily from Marx and later Braverman, and
+               focused on questions about the place of technical occupations in
+               the class structure. This article shows how sociology's tendency
+               to place theory before description has left anemic images of
+               technical work. It lays out a research agenda for the development
+               of substantive knowledge of technical work and its social
+               organization, drawing eclectically on more recent studies that
+               have taken steps toward a more comparative, grounded, situated
+               and emic understanding of what technical work entails.},
+  url       = {https://academic.oup.com/edited-volume/38663/chapter/335789995},
   note      = {Oxford Academic chapter ID: 335789995},
   keywords  = {Ox-Handbook-Work-Org;Book (child);Workplace Learning;VET}
 }
