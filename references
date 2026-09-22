@@ -27366,7 +27366,23 @@
   date      = {2006-05-25},
   doi       = {10.1093/oxfordhb/9780199299249.003.0030},
   isbn      = {9780199299249},
-  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0030},
+  abstract  = {This article outlines different approaches to the analysis of
+               contemporary capitalism and considers what role they allocate to
+               the business organization. Three distinct positions are
+               distinguished. First, there are those who cling to the idea of
+               distinctive national business systems and retain a belief in the
+               organization of work, management, and employment relations
+               characterized by a national system of institutions. Second, there
+               are those who argue for the importance of globalizing trends and
+               the convergence between organizational forms and policies and, by
+               extension, more general features of economic organization. Third,
+               between the extremes, there are arguments that suggest that a
+               small number of patterns, of distinctive varieties of capitalism,
+               can be distinguished. It is proposed that there is merit in all
+               these positions, but none recognizes the complexity of real
+               economies and none are able to explain the extent of change and
+               continuity actually existing.},
+  url       = {https://academic.oup.com/edited-volume/38663/chapter/335793314},
   note      = {Oxford Academic chapter ID: 335793314},
   keywords  = {Ox-Handbook-Work-Org;Book (child);Workplace Learning;VET}
 }
