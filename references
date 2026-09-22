@@ -26431,6 +26431,589 @@
   language  = {en}
 }
 
+@INBOOK{Ackroyd2006-yw,
+  title     = {Copyright Page},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.002.0003},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.002.0003},
+  note      = {Oxford Academic chapter ID: 335785800},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
+@INBOOK{Ackroyd2006-ns,
+  title     = {List of Figures},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.002.0006},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.002.0006},
+  note      = {Oxford Academic chapter ID: 335785848},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
+@INBOOK{Ackroyd2006-oo,
+  title     = {List of Tables},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.002.0007},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.002.0007},
+  note      = {Oxford Academic chapter ID: 335785856},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
+@INBOOK{Ackroyd2006-lz,
+  title     = {List of Contributors},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  pages     = {xiii--xxii},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.002.0008},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.002.0008},
+  note      = {Oxford Academic chapter ID: 335785895},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
+@INBOOK{Ackroyd2006-eo,
+  title     = {Texts and Times: Mapping the Changing Study of Work and
+               Organizations},
+  author    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  pages     = {1--16},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.003.0001},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0001},
+  note      = {Oxford Academic chapter ID: 335785949},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
+@INBOOK{Batt2006-se,
+  title     = {Introduction},
+  author    = {Batt, Rosemary},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  pages     = {19--30},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.003.0002},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0002},
+  note      = {Oxford Academic chapter ID: 335786092},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
+@INBOOK{Rubery2006-ui,
+  title     = {Labor Markets and Flexibility},
+  author    = {Rubery, Jill},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  pages     = {31--51},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.003.0003},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0003},
+  note      = {Oxford Academic chapter ID: 335786197},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
+@INBOOK{Appelbaum2006-zt,
+  title     = {Organizations and the Intersection of Work and Family: A
+               Comparative Perspective},
+  author    = {Appelbaum, Eileen and Bailey, Thomas and Berg, Peter and
+               Kalleberg, Arne L},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  pages     = {52--73},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.003.0004},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0004},
+  note      = {Oxford Academic chapter ID: 335786389},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
+@INBOOK{McCall2006-ns,
+  title     = {Gender, Race, and the Restructuring of Work: Organizational and
+               Institutional Perspectives},
+  author    = {McCall, Leslie},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  pages     = {74--94},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.003.0005},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0005},
+  note      = {Oxford Academic chapter ID: 335786663},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
+@INBOOK{Crouch2006-di,
+  title     = {Skill Formation Systems},
+  author    = {Crouch, Colin},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  pages     = {95--114},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.003.0006},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0006},
+  note      = {Oxford Academic chapter ID: 335786836},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
+@INBOOK{Badham2006-ir,
+  title     = {Technology and the Transformation of Work},
+  author    = {Badham, Richard John},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  pages     = {115--137},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.003.0007},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0007},
+  note      = {Oxford Academic chapter ID: 335787018},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
+@INBOOK{Batt2006-sj,
+  title     = {Groups, Teams, and the Division of Labor: Interdisciplinary
+               Perspectives on the Organization of Work},
+  author    = {Batt, Rosemary and Doellgast, Virginia},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  pages     = {138--162},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.003.0008},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0008},
+  note      = {Oxford Academic chapter ID: 335787219},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
+@INBOOK{Thompson2006-yv,
+  title     = {Introduction: Unmanageable Capitalism?},
+  author    = {Thompson, Paul},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  pages     = {165--176},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.003.0009},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0009},
+  note      = {Oxford Academic chapter ID: 335787450},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
+@INBOOK{Strang2006-kg,
+  title     = {The Diffusion and Domestication of Managerial Innovations: The
+               Spread of Scientific Management, Quality Circles, and {TQM}
+               between the United States and Japan},
+  author    = {Strang, David and Kim, Young-Mi},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  pages     = {177--199},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.003.0010},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0010},
+  note      = {Oxford Academic chapter ID: 335787544},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
+@INBOOK{Kunda2006-ow,
+  title     = {Managers, Markets, and Ideologies: Design and Devotion Revisited},
+  author    = {Kunda, Gideon and Ailon-Souday, Galit},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  pages     = {200--219},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.003.0011},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0011},
+  note      = {Oxford Academic chapter ID: 335787823},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
+@INBOOK{Legge2006-zc,
+  title     = {Human Resource Management},
+  author    = {Legge, Karen},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  pages     = {220--241},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.003.0012},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0012},
+  note      = {Oxford Academic chapter ID: 335788007},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
+@INBOOK{McKinlay2006-lc,
+  title     = {Knowledge Management},
+  author    = {McKinlay, Alan},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  pages     = {242--262},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.003.0013},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0013},
+  note      = {Oxford Academic chapter ID: 335788156},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
+@INBOOK{Katz2006-ig,
+  title     = {Industrial Relations and Work},
+  author    = {Katz, Harry},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  pages     = {263--282},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.003.0014},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0014},
+  note      = {Oxford Academic chapter ID: 335788356},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
+@INBOOK{Kelly2006-ba,
+  title     = {Labor Movements and Mobilization},
+  author    = {Kelly, John},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  pages     = {283--304},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.003.0015},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0015},
+  note      = {Oxford Academic chapter ID: 335788586},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
+@INBOOK{Collinson2006-nz,
+  title     = {Resistance, Misbehavior, and Dissent},
+  author    = {Collinson, David and Ackroyd, Stephen},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  pages     = {305--326},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.003.0016},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0016},
+  note      = {Oxford Academic chapter ID: 335788882},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
+@INBOOK{Tolbert2006-os,
+  title     = {Introduction},
+  author    = {Tolbert, Pamela S},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  pages     = {329--337},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.003.0017},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0017},
+  note      = {Oxford Academic chapter ID: 335789191},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
+@INBOOK{Graham2006-dh,
+  title     = {Manual Workers: Conflict and Control},
+  author    = {Graham, Laurie},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  pages     = {338--355},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.003.0018},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0018},
+  note      = {Oxford Academic chapter ID: 335789329},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
+@INBOOK{Frenkel2006-ow,
+  title     = {Service Workers in Search of Decent Work},
+  author    = {Frenkel, Stephen J},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  pages     = {356--375},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.003.0019},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0019},
+  note      = {Oxford Academic chapter ID: 335789713},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
+@INBOOK{Barley2006-mr,
+  title     = {What We Know (And Mostly Don't Know) about Technical Work},
+  author    = {Barley, Stephen R},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  pages     = {376--403},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.003.0020},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0020},
+  note      = {Oxford Academic chapter ID: 335789995},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
+@INBOOK{Hinings2006-fc,
+  title     = {The Changing Nature of Professional Organizations},
+  author    = {Hinings, Bob},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  pages     = {404--424},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.003.0021},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0021},
+  note      = {Oxford Academic chapter ID: 335790366},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
+@INBOOK{Osterman2006-pu,
+  title     = {Ports and Ladders: The Nature and Relevance of Internal Labor
+               Markets in a Changing World},
+  author    = {Osterman, Paul and Burton, M Diane},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  pages     = {425--447},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.003.0022},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0022},
+  note      = {Oxford Academic chapter ID: 335790658},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
+@INBOOK{Ackroyd2006-df,
+  title     = {Introduction: The Reorganised Economy},
+  author    = {Ackroyd, Stephen},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  pages     = {449--461},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.003.0023},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0023},
+  note      = {Oxford Academic chapter ID: 335791074},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
+@INBOOK{Procter2006-hh,
+  title     = {Organizations and Organized Systems: From Direct Control to
+               Flexibility},
+  author    = {Procter, Stephen},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  pages     = {462--484},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.003.0024},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0024},
+  note      = {Oxford Academic chapter ID: 335791223},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
+@INBOOK{Alvesson2006-rl,
+  title     = {Post-Bureaucracy?},
+  author    = {Alvesson, Mats and Thompson, Paul},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  pages     = {485--507},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.003.0025},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0025},
+  note      = {Oxford Academic chapter ID: 335791570},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
+@INBOOK{Thompson2006-jx,
+  title     = {Interfirm Relations as Networks},
+  author    = {Thompson, Grahame},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  pages     = {508--529},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.003.0026},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0026},
+  note      = {Oxford Academic chapter ID: 335791958},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
+@INBOOK{Hebdon2006-qb,
+  title     = {Changes in the Organization of Public Services and Their Effects
+               on Employment Relations},
+  author    = {Hebdon, Robert and Kirkpatrick, Ian},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  pages     = {530--553},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.003.0027},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0027},
+  note      = {Oxford Academic chapter ID: 335792257},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
+@INBOOK{Morgan2006-kg,
+  title     = {Understanding Multinational Corporations},
+  author    = {Morgan, Glenn},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  pages     = {554--576},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.003.0028},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0028},
+  note      = {Oxford Academic chapter ID: 335792632},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
+@INBOOK{Lazonick2006-gt,
+  title     = {Corporate Restructuring},
+  author    = {Lazonick, William},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  pages     = {577--601},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.003.0029},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0029},
+  note      = {Oxford Academic chapter ID: 335792941},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
+@INBOOK{Smith2006-pl,
+  title     = {Beyond Convergence and Divergence: Explaining Variations in
+               Organizational Practices and Forms},
+  author    = {Smith, Chris},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  pages     = {602--625},
+  date      = {2006-05-25},
+  doi       = {10.1093/oxfordhb/9780199299249.003.0030},
+  isbn      = {9780199299249},
+  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0030},
+  note      = {Oxford Academic chapter ID: 335793314},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
 @BOOK{Warhurst2017-dg,
   title     = {The Oxford Handbook of Skills and Training},
   editor    = {Warhurst, Chris and Mayhew, Ken and Finegold, David and Buchanan,
@@ -64157,6 +64740,20 @@
                MD Git;YouTube;AEC;Interview;git-lit}
 }
 
+@INBOOK{Ackroyd2006-zq,
+  title     = {Index},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  date      = {2006-05-25},
+  isbn      = {9780199299249},
+  url       = {https://academic.oup.com/edited-volume/38663/chapter/335793601},
+  note      = {Oxford Academic chapter ID: 335793601},
+  keywords  = {Ox-Handbook-Work-Org}
+}
+
 @BOOK{Nilsson1998-nx,
   title     = {Artificial Intelligence},
   author    = {Nilsson, Nils},
@@ -69848,6 +70445,20 @@
                policymakers, and lifelong learners who seek a deeper
                understanding of education’s transformative potential.},
   keywords  = {\_BibTex to MD Git;Philosophy of Education;Education;git-lit}
+}
+
+@INBOOK{Ackroyd2006-br,
+  title     = {Acknowledgments},
+  editor    = {Ackroyd, Stephen and Batt, Rosemary and Thompson, Paul and
+               Tolbert, Pamela S},
+  booktitle = {The Oxford Handbook of Work and Organization},
+  publisher = {Oxford University Press},
+  location  = {Oxford},
+  date      = {2006-05-25},
+  isbn      = {9780199299249},
+  url       = {https://academic.oup.com/edited-volume/38663/chapter/335785841},
+  note      = {Oxford Academic chapter ID: 335785841},
+  keywords  = {Ox-Handbook-Work-Org}
 }
 
 @ONLINE{Associated_Builders_and_Contractors2023-pe,
