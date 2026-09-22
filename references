@@ -27262,7 +27262,23 @@
   date      = {2006-05-25},
   doi       = {10.1093/oxfordhb/9780199299249.003.0026},
   isbn      = {9780199299249},
-  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0026},
+  abstract  = {There are a number of ways that interfirm relationships can be
+               conceived and organized. The classic dichotomy is between a
+               market form of organization and a hierarchical form. Considered
+               in terms of this continuum, the market appears towards the
+               coordination end while hierarchy appears towards the governance
+               end. This article concentrates on how cooperation and governance
+               are organized in interfirm networks and what networks offer that
+               is different from either strictly market or hierarchical
+               relations between firms. Thus, networks are not seen as simple
+               hybrid organizational forms — occupying a space between markets
+               and hierarchies and involving aspects of them both — but as
+               distinctive, new organizational forms in their own right. They
+               have their own unique characteristics and logic of operation.
+               After setting out an argument to this effect, the discussion
+               critically interrogates evolutionary and biological approaches to
+               understanding networks.},
+  url       = {https://academic.oup.com/edited-volume/38663/chapter/335791958},
   note      = {Oxford Academic chapter ID: 335791958},
   keywords  = {Ox-Handbook-Work-Org;Book (child);Workplace Learning;VET}
 }
