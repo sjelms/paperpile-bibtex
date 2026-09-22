@@ -26922,7 +26922,23 @@
   date      = {2006-05-25},
   doi       = {10.1093/oxfordhb/9780199299249.003.0025},
   isbn      = {9780199299249},
-  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0025},
+  abstract  = {The traditional commentary and critique of bureaucracy is a
+               well-trodden territory. Critics of the nature of bureaucracy are
+               still around, their ranks having been swelled by some feminist
+               academics. However, the main development in critique has seen a
+               shift from the limits and dysfunctions of bureaucratic structure
+               and action, to a claim of systemic dysfunctionality — that
+               bureaucracy no longer works or is ceasing to be the prime
+               coordination mechanism in a contemporary economy and society.
+               This article argues that a broad set of changes have meant that
+               the days of stable structures and fine-tuning of bureaucratic
+               models are over and those of post-bureaucracies have arrived. It
+               reviews the nature of these claims and examines the evidence
+               across key territories of change. It accepts that bureaucracy is
+               one of a number of competing coordination mechanisms, alongside
+               markets and trust, and that the balance between such mechanisms
+               changes over time and territory.},
+  url       = {https://academic.oup.com/edited-volume/38663/chapter/335791570},
   note      = {Oxford Academic chapter ID: 335791570},
   keywords  = {Ox-Handbook-Work-Org;Book (child);Workplace Learning;VET}
 }
