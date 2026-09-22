@@ -27167,7 +27167,22 @@
   date      = {2006-05-25},
   doi       = {10.1093/oxfordhb/9780199299249.003.0024},
   isbn      = {9780199299249},
-  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0024},
+  abstract  = {This article argues that the development of formal knowledge of
+               organization can be understood as a double movement: from a
+               narrow focus on work to a broad concern with productive systems
+               and, at the same time, from concern about control to concern
+               about flexibility and adaptivity, which may come from less direct
+               control. Concern in organizational studies has shifted from a
+               desire to understand organization as such to recognition of the
+               importance of organized systems. In this article, attention is
+               paid to the connections between models of flexible firms and the
+               contexts within which firms operate. It is argued that the models
+               are not of universal application and that the patterns of
+               flexibility observed are a reflection of particular institutional
+               conditions. Consideration of context is important in trying to
+               answer such questions as why particular forms of organization
+               work effectively.},
+  url       = {https://academic.oup.com/edited-volume/38663/chapter/335791223},
   note      = {Oxford Academic chapter ID: 335791223},
   keywords  = {Ox-Handbook-Work-Org;Book (child);Workplace Learning;VET}
 }
