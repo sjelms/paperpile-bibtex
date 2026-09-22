@@ -70642,6 +70642,18 @@
   language  = {en}
 }
 
+@INBOOK{Unknown2005-os,
+  title     = {Objectual practice},
+  booktitle = {The Practice Turn in Contemporary Theory},
+  publisher = {Routledge},
+  pages     = {184--197},
+  date      = {2005-06-20},
+  doi       = {10.4324/9780203977453-22},
+  isbn      = {9780203977453},
+  url       = {http://dx.doi.org/10.4324/9780203977453-22},
+  language  = {en}
+}
+
 @ARTICLE{Shum2022-yx,
   title        = {Framing professional learning analytics as reframing oneself},
   author       = {Shum, Simon Buckingham and Littlejohn, Allison and Kitto,
