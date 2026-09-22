@@ -27218,7 +27218,22 @@
   date      = {2006-05-25},
   doi       = {10.1093/oxfordhb/9780199299249.003.0029},
   isbn      = {9780199299249},
-  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0029},
+  abstract  = {At any point in time, the structure of the corporation is the
+               result of an evolutionary process that reflects strategic
+               investment decisions to serve particular markets, engage in
+               particular activities, and produce in particular locations.
+               Restructuring occurs when the corporation is not willing or able
+               to utilize the capabilities and assets that are the legacy of
+               past decisions. Under adverse economic conditions that cut across
+               industrial sectors or firms within a sector, large numbers of
+               companies in the same nation or region may engage in
+               restructuring at the same time. Such restructuring can have a
+               negative impact on national or regional employment, especially
+               when restructuring involves large-scale downsizing or the closing
+               or locational shift of a labor-intensive facility. Thus,
+               restructuring can have profound impacts on the quality and
+               quantity of jobs available in the economy.},
+  url       = {https://academic.oup.com/edited-volume/38663/chapter/335792941},
   note      = {Oxford Academic chapter ID: 335792941},
   keywords  = {Ox-Handbook-Work-Org;Book (child);Workplace Learning;VET}
 }
