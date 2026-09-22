@@ -25852,7 +25852,8 @@
                philosophy, sociology, science, cultural theory, history and
                anthropology.},
   url       = {http://dx.doi.org/10.4324/9780203977453},
-  keywords  = {Philosophy of Education;RNIB;ePub;Book (parent);git-lit}
+  keywords  = {\_BibTex to MD Git;Philosophy of Education;RNIB;ePub;Book
+               (parent);git-lit}
 }
 
 @INBOOK{Knorr-Cetina2001-dh,
@@ -25900,7 +25901,8 @@
                conceive of practice in a way that accommodates this
                dissociation?},
   url       = {http://dx.doi.org/10.4324/9780203977453-22},
-  keywords  = {Philosophy of Education;RNIB;ePub;Book (child);git-lit},
+  keywords  = {\_BibTex to MD Git;Philosophy of Education;RNIB;ePub;Book
+               (child);git-lit},
   language  = {en}
 }
 
@@ -25930,7 +25932,8 @@
                godfather of behavioural science ... his steely analysis of the
                human mind and its many flaws remains perhaps the most useful
                guide to remaining sane and steady'},
-  keywords  = {Psychology;ePub;RNIB;Knowledge - Skill Acquisition;git-lit},
+  keywords  = {\_BibTex to MD Git;Psychology;ePub;RNIB;Knowledge - Skill
+               Acquisition;git-lit},
   language  = {en}
 }
 
