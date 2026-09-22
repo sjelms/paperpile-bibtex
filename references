@@ -26550,7 +26550,23 @@
   date      = {2006-05-25},
   doi       = {10.1093/oxfordhb/9780199299249.003.0003},
   isbn      = {9780199299249},
-  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0003},
+  abstract  = {The labor market has traditionally been viewed through a narrow
+               lens, trained directly on the market for wage labor and on the
+               management of employment within well-bounded organizations. This
+               narrow lens was possible in the era of the industrial model of
+               employment relations. This article explores the nature of change
+               in labor markets and the rise of so-called flexible labor
+               markets. The key elements of the employment system are taken to
+               be: employing organizations and the associated pattern of work
+               organization and pay; the structure of labor supply; and the form
+               of employment relationships and contracts. This article addresses
+               empirical evidence in support of this characterization. Its main
+               objective is to explore the debates about how these changes are
+               to be interpreted, particularly with respect to the now
+               ubiquitous concept of flexibility, and to identify how change in
+               one element is related to or reflective of changes in other
+               dimensions.},
+  url       = {https://academic.oup.com/edited-volume/38663/chapter/335786197},
   note      = {Oxford Academic chapter ID: 335786197},
   keywords  = {Ox-Handbook-Work-Org;Book (child);Workplace Learning;VET}
 }
