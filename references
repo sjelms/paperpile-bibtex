@@ -26908,7 +26908,21 @@
   date      = {2006-05-25},
   doi       = {10.1093/oxfordhb/9780199299249.003.0019},
   isbn      = {9780199299249},
-  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0019},
+  abstract  = {Service workers represent a large and growing proportion of the
+               workforce. They come a close second (17.9\%) in size to
+               professionals and related (paraprofessional and technical)
+               workers (18.4\%). Job growth is one element of decent work; the
+               other element is job quality, i.e. extrinsically and
+               intrinsically rewarding work. From this perspective, the future
+               is less promising. This article focuses on the way management
+               organizes service work, including a brief overview of management
+               strategies and tactics, and their implications for service
+               workers. It also examines workers' experience of work, including
+               strategies used to defend and promote workers' interests. The
+               concluding section of this article points to feasible strategies
+               aimed at promoting the growth of decent service work, thereby
+               contributing to a more humane and egalitarian society.},
+  url       = {https://academic.oup.com/edited-volume/38663/chapter/335789713},
   note      = {Oxford Academic chapter ID: 335789713},
   keywords  = {Ox-Handbook-Work-Org;Book (child);Workplace Learning;VET}
 }
