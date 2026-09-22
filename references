@@ -25905,33 +25905,31 @@
 }
 
 @BOOK{Kahneman2011-cf,
-  title     = {Thinking, fast and slow},
+  title     = {Thinking, Fast and Slow},
   author    = {Kahneman, Daniel},
   publisher = {Penguin Books},
   location  = {London, England},
   date      = {2011-11-03},
   pagetotal = {512},
   isbn      = {9780141918921},
-  abstract  = {One of the most influential books of the 21st century: the
-               ground-breaking psychology classic - over 10 million copies sold
-               - that changed the way we think about thinking 'There have been
-               many good books on human rationality and irrationality, but only
-               one masterpiece. That masterpiece is Thinking, Fast and Slow '
-               Financial Times 'A lifetime's worth of wisdom' Steven D. Levitt,
-               co-author of Freakonomics Why do we make the decisions we do?
-               Nobel Prize winner Daniel Kahneman revolutionised our
-               understanding of human behaviour with Thinking, Fast and Slow .
-               Distilling his life's work, Kahneman showed that there are two
-               ways we make choices: fast, intuitive thinking, and slow,
-               rational thinking. His book reveals how our minds are tripped up
-               by error, bias and prejudice (even when we think we are being
-               logical) and gives practical techniques that enable us all to
-               improve our decision-making. This profound exploration of the
-               marvels and limitations of the human mind has had a lasting
-               impact on how we see ourselves. 'The godfather of behavioural
-               science ... his steely analysis of the human mind and its many
-               flaws remains perhaps the most useful guide to remaining sane and
-               steady' Sunday Times},
+  abstract  = {The answer lies in the two ways we make choices: fast, intuitive
+               thinking, and slow, rational thinking. This book reveals how our
+               minds are tripped up by error and prejudice (even when we think
+               we are being logical), and gives you practical techniques for
+               slower, smarter thinking, enabling you to make better decisions
+               at work, at home, and in everything you do. Nobel Prize winner
+               Daniel Kahneman revolutionised our understanding of human
+               behaviour with Thinking, Fast and Slow . Distilling his life's
+               work, Kahneman showed that there are two ways we make choices:
+               fast, intuitive thinking, and slow, rational thinking. His book
+               reveals how our minds are tripped up by error, bias and prejudice
+               (even when we think we are being logical) and gives practical
+               techniques that enable us all to improve our decision-making.
+               This profound exploration of the marvels and limitations of the
+               human mind has had a lasting impact on how we see ourselves. 'The
+               godfather of behavioural science ... his steely analysis of the
+               human mind and its many flaws remains perhaps the most useful
+               guide to remaining sane and steady'},
   language  = {en}
 }
 
