@@ -26807,7 +26807,24 @@
   date      = {2006-05-25},
   doi       = {10.1093/oxfordhb/9780199299249.003.0014},
   isbn      = {9780199299249},
-  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0014},
+  abstract  = {This article focuses on the changing nature of labor, management,
+               and government interactions in advanced industrialized countries
+               with particular emphasis on how modifications in industrial
+               relations intersect with the organization of work. The evidence
+               shows increased variation in industrial relations patterns within
+               countries as a result of the growth of nonunion alternatives to
+               previously dominant union systems; the rise of human resource
+               employment patterns as alternatives to traditional collective
+               bargaining; and the polarization of collective bargaining into
+               participatory and adversarial alternatives. Variation across
+               countries is declining due to similarities in the process of
+               industrial relations. Although these process changes are
+               particularly evident in workplaces that make use of
+               high-performance work processes, they are common elsewhere. There
+               are also similarities in industrial relations outcomes across
+               countries involving commonalities in employment patterns and work
+               practices.},
+  url       = {https://academic.oup.com/edited-volume/38663/chapter/335788356},
   note      = {Oxford Academic chapter ID: 335788356},
   keywords  = {Ox-Handbook-Work-Org;Book (child);Workplace Learning;VET}
 }
