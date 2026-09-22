@@ -26559,7 +26559,22 @@
   date      = {2006-05-25},
   doi       = {10.1093/oxfordhb/9780199299249.003.0004},
   isbn      = {9780199299249},
-  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0004},
+  abstract  = {The aim of this article is to develop a conceptual and empirical
+               foundation for understanding the role that employers can play in
+               facilitating the successful resolution of the conflicting demands
+               of employees' work and family responsibilities. It focuses on
+               company policies and practices and the national laws and
+               institutions that shape them. Furthermore, it examines why
+               employers adopt various policies that support employees' efforts
+               to integrate their work and home lives. It then summarizes recent
+               empirical studies of outcomes for firms — improved recruitment
+               and retention, improvements in individual employee productivity,
+               and improvements in process efficiency — as a result of
+               implementing these policies. The final section of this article
+               examines the relationship between public policy and mothers'
+               employment as well as the impact of public policy on employers'
+               implementation of voluntary family-friendly policies.},
+  url       = {https://academic.oup.com/edited-volume/38663/chapter/335786389},
   note      = {Oxford Academic chapter ID: 335786389},
   keywords  = {Ox-Handbook-Work-Org;Book (child);Workplace Learning;VET}
 }
