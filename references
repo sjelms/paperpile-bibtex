@@ -26772,7 +26772,21 @@
   date      = {2006-05-25},
   doi       = {10.1093/oxfordhb/9780199299249.003.0010},
   isbn      = {9780199299249},
-  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0010},
+  abstract  = {This article discusses the flow of management practices between
+               two countries — the United States and Japan. Much research has
+               sought to link explicitly or contrast implicitly these two
+               organizational communities, for a number of good reasons: the
+               size of each national economy and critical role of both American
+               and Japanese corporations in global markets, the cultural and
+               institutional distance between the two, and the degree to which
+               the two countries have provided each other with organizational
+               models. This article examines three ‘moments’ in the diffusion of
+               managerial ideas between the United States and Japan. These are
+               the flow of scientific management (from the United States to
+               Japan), quality control circles (from Japan to the United
+               States), and company-wide quality control (from Japan to the
+               United States).},
+  url       = {https://academic.oup.com/edited-volume/38663/chapter/335787544},
   note      = {Oxford Academic chapter ID: 335787544},
   keywords  = {Ox-Handbook-Work-Org;Book (child);Workplace Learning;VET}
 }
