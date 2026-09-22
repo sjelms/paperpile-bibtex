@@ -26523,7 +26523,17 @@
   date      = {2006-05-25},
   doi       = {10.1093/oxfordhb/9780199299249.003.0002},
   isbn      = {9780199299249},
-  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0002},
+  abstract  = {The changing nature of work, technology, and the division of
+               labor in the last quarter of the twentieth century has been a
+               central preoccupation of scholarship on organizations. Debate has
+               centered on the extent to which a fundamental shift in employment
+               systems has occurred — from Fordist to post-Fordist models. The
+               accumulated body of survey research over the last twenty years
+               provides ample evidence that fundamental changes have occurred in
+               employment systems. This article gives some examples to
+               illustrate the complexities of interpreting the extent and nature
+               of change in the organization of work and labor markets.},
+  url       = {https://academic.oup.com/edited-volume/38663/chapter/335786092},
   note      = {Oxford Academic chapter ID: 335786092},
   keywords  = {Ox-Handbook-Work-Org;Book (child);Workplace Learning;VET}
 }
