@@ -26753,7 +26753,22 @@
   date      = {2006-05-25},
   doi       = {10.1093/oxfordhb/9780199299249.003.0009},
   isbn      = {9780199299249},
-  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0009},
+  abstract  = {When considering how to conceptualize the practice of management,
+               one can identify countervailing tendencies. On the one hand,
+               there is the legacy of classical writings in which management is
+               treated as a single, unproblematic category and generalizable in
+               terms of knowledge and practice. While this view is, perhaps, no
+               longer widely accepted, it is, as Armstrong observes, sustained
+               intellectually by popular business writings and institutionally
+               by consultants and senior executives who benefit from a view of
+               management as decontextualized and transferable expertise. The
+               idea of a universal body of management theory and practice that
+               develops in evolutionary and enlightened manner is well past its
+               sell-by date. While the search for universality does not stretch
+               very far beyond the territory of popular business books, social
+               scientists are still powerfully attracted to the idea of
+               holistic, integrated regimes.},
+  url       = {https://academic.oup.com/edited-volume/38663/chapter/335787450},
   note      = {Oxford Academic chapter ID: 335787450},
   keywords  = {Ox-Handbook-Work-Org;Book (child);Workplace Learning;VET}
 }
