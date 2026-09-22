@@ -27117,7 +27117,22 @@
   date      = {2006-05-25},
   doi       = {10.1093/oxfordhb/9780199299249.003.0022},
   isbn      = {9780199299249},
-  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0022},
+  abstract  = {Many believe that the nature of careers has changed dramatically
+               in the past twenty years. One scholar writes that internal labor
+               markets have been ‘demolished’, while a human resources manager
+               at Intel comments that, in contrast to the past, today, ‘You own
+               your own employability. You are responsible’ (Knoke 2001: 31).
+               The idea of the ‘boundaryless career’ seems increasingly popular
+               (Arthur and Rousseau 1996). If it is in fact true that the old
+               rules for organizing work have disappeared, this would represent
+               a fundamental change for employees. It would also have major
+               implications for how scholars think about the labor market. Not
+               surprisingly, the reality is more complicated, with evidence of
+               both change and stability in the nature of the employment
+               relationship. This article discusses the nature of these
+               developments and their implications for the internal labor market
+               literature.},
+  url       = {https://academic.oup.com/edited-volume/38663/chapter/335790658},
   note      = {Oxford Academic chapter ID: 335790658},
   keywords  = {Ox-Handbook-Work-Org;Book (child);Workplace Learning;VET}
 }
