@@ -26602,7 +26602,24 @@
   date      = {2006-05-25},
   doi       = {10.1093/oxfordhb/9780199299249.003.0005},
   isbn      = {9780199299249},
-  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0005},
+  abstract  = {This article builds on organizational and institutional
+               approaches to inequality that highlight the substantial degree of
+               variation in inequality across jobs, occupations, industries,
+               firms, regions, and countries that cannot be attributed to human
+               capital differences alone. It begins with a theoretical review of
+               organizational and institutional theories of gender and racial
+               inequality, follows with a brief description of the new context
+               of economic restructuring, and then focuses on the gendered and
+               racialized aspects of economic restructuring and
+               organization-level restructuring. It also examines the
+               institutional differences across advanced industrial countries
+               that have mediated the terms of women's economic incorporation
+               during this period. While much of the existing empirical and
+               theoretical literature, this article discusses draws on the
+               United States. Given existing strengths and weaknesses of the
+               literature, the primary focus of this article is on gender, and
+               it examines race as it intersects with gender.},
+  url       = {https://academic.oup.com/edited-volume/38663/chapter/335786663},
   note      = {Oxford Academic chapter ID: 335786663},
   keywords  = {Ox-Handbook-Work-Org;Book (child);Workplace Learning;VET}
 }
