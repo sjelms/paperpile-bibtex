@@ -25832,21 +25832,6 @@
   language  = {en}
 }
 
-@ARTICLE{Blattner1995-ml,
-  title        = {Decontextualization, standardization, and Deweyan science},
-  author       = {Blattner, William D},
-  journaltitle = {Man and World},
-  publisher    = {Springer Nature},
-  volume       = {28},
-  issue        = {4},
-  pages        = {321--339},
-  date         = {1995-10},
-  doi          = {10.1007/bf01273736},
-  issn         = {0025-1534},
-  url          = {http://dx.doi.org/10.1007/bf01273736},
-  language     = {en}
-}
-
 @BOOK{Schatzki2001-ej,
   title     = {The Practice Turn in Contemporary Theory},
   editor    = {Schatzki, Theodore R and Knorr Cetina, Karin and von Savigny,
@@ -25947,6 +25932,29 @@
                guide to remaining sane and steady'},
   keywords  = {Psychology;ePub;RNIB;Knowledge - Skill Acquisition},
   language  = {en}
+}
+
+@ARTICLE{Blattner1995-ml,
+  title        = {Decontextualization, standardization, and Deweyan science},
+  author       = {Blattner, William D},
+  journaltitle = {Man and World},
+  publisher    = {Springer Nature},
+  volume       = {28},
+  issue        = {4},
+  pages        = {321--339},
+  date         = {1995-10},
+  doi          = {10.1007/bf01273736},
+  issn         = {0025-1534},
+  abstract     = {The philosophy of natural science in Martin Heidegger's Being
+                  and Time is vitiated by an unrelievable tension between
+                  Heidegger's thesis that the objects of natural science are
+                  independent of human context and his methodological
+                  implication that we must understand the ontological genesis of
+                  such science pragmatically. I shall resolve the tension by
+                  embracing Heidegger's methodology over his results, by
+                  adopting methodological, genetic pragmatism.},
+  url          = {http://dx.doi.org/10.1007/bf01273736},
+  language     = {en}
 }
 
 @ARTICLE{De_Jong2013-st,
