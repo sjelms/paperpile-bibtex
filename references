@@ -26841,7 +26841,19 @@
   date      = {2006-05-25},
   doi       = {10.1093/oxfordhb/9780199299249.003.0015},
   isbn      = {9780199299249},
-  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0015},
+  abstract  = {This article examines evidence about contemporary work and
+               workers and then moves on to examine worker attitudes and
+               responses towards management and trade unions. Evidence is drawn
+               from as wide a range of countries as possible, but survey data on
+               worker attitudes tends to come from the United Kingdom and the
+               United States. In the light of this material, the initial
+               arguments about the decline of unions and collective action can
+               be reexamined. Many of the points in this article reflect an
+               observation made long ago by two of the most acute observers of
+               the capitalist mode of production: ‘In proportion as the
+               bourgeoisie, i.e. capital, is developed, in the same proportion
+               is the proletariat, the modern working class, developed’.},
+  url       = {https://academic.oup.com/edited-volume/38663/chapter/335788586},
   note      = {Oxford Academic chapter ID: 335788586},
   keywords  = {Ox-Handbook-Work-Org;Book (child);Workplace Learning;VET}
 }
