@@ -25832,6 +25832,21 @@
   language  = {en}
 }
 
+@ARTICLE{Blattner1995-ml,
+  title        = {Decontextualization, standardization, and Deweyan science},
+  author       = {Blattner, William D},
+  journaltitle = {Man and World},
+  publisher    = {Springer Nature},
+  volume       = {28},
+  issue        = {4},
+  pages        = {321--339},
+  date         = {1995-10},
+  doi          = {10.1007/bf01273736},
+  issn         = {0025-1534},
+  url          = {http://dx.doi.org/10.1007/bf01273736},
+  language     = {en}
+}
+
 @BOOK{Schatzki2001-ej,
   title     = {The Practice Turn in Contemporary Theory},
   editor    = {Schatzki, Theodore R and Knorr Cetina, Karin and von Savigny,
