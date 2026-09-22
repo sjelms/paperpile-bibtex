@@ -26756,7 +26756,22 @@
   date      = {2006-05-25},
   doi       = {10.1093/oxfordhb/9780199299249.003.0011},
   isbn      = {9780199299249},
-  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0011},
+  abstract  = {In a paper titled ‘Design and Devotion’ published in 1992 in
+               Administrative Science Quarterly, Barley and Kunda examined the
+               historical evolution of managerial ideology in the United States
+               between the late nineteenth and late twentieth century.
+               Managerial ideology, in their view, is ‘a stream of discourse
+               that promulgates, however unwittingly, a set of assumptions about
+               the nature of … corporations, employees, managers, and the means
+               by which the latter can direct the other two’. This article uses
+               Barley and Kunda's framework to illustrate and interpret the main
+               themes of market rationalism in the American context. Then, based
+               on a review of the research literature, it discusses some of the
+               actual transformations in the organization of work that appear to
+               be related to the managerial rhetoric of the period. It concludes
+               by offering some speculative thoughts on the nature of managerial
+               ideology and on its future directions.},
+  url       = {https://academic.oup.com/edited-volume/38663/chapter/335787823},
   note      = {Oxford Academic chapter ID: 335787823},
   keywords  = {Ox-Handbook-Work-Org;Book (child);Workplace Learning;VET}
 }
