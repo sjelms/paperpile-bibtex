@@ -26891,7 +26891,24 @@
   date      = {2006-05-25},
   doi       = {10.1093/oxfordhb/9780199299249.003.0018},
   isbn      = {9780199299249},
-  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0018},
+  abstract  = {This article examines the nature of recent changes that have
+               taken place in organizational structures in unionized
+               manufacturing settings, changes that contribute to the downward
+               trend of unionization. When applied in their most effective
+               manner, the changes limit the ability of this occupational group
+               to exercise its historically strong influence on the shop floor.
+               This article begins with an introduction to labor process theory
+               and a brief history of shop-floor control. This is followed by a
+               general description of the Japanese-Style Management System
+               (JSMS) and its impact on organizational change. The article also
+               discusses how the JSMS works to undermine worker control. It
+               examines first, formal controls that union workers have
+               established through negotiated contract language and second,
+               informal controls such as solidarity arrangements that workers
+               created to benefit each other. The last two sections of this
+               article include examples of worker resistance and concluding
+               remarks.},
+  url       = {https://academic.oup.com/edited-volume/38663/chapter/335789329},
   note      = {Oxford Academic chapter ID: 335789329},
   keywords  = {Ox-Handbook-Work-Org;Book (child);Workplace Learning;VET}
 }
