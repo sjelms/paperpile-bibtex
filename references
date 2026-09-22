@@ -70642,8 +70642,11 @@
   language  = {en}
 }
 
-@INBOOK{Unknown2005-os,
+@INBOOK{Knorr-Cetina2005-rw,
   title     = {Objectual Practice},
+  author    = {Knorr Cetina, Karin},
+  editor    = {Schatzki, Theodore R and Knorr Cetina, Karin and von Savigny,
+               Eike},
   booktitle = {The Practice Turn in Contemporary Theory},
   publisher = {Routledge},
   pages     = {184--197},
