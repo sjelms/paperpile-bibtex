@@ -26788,7 +26788,24 @@
   date      = {2006-05-25},
   doi       = {10.1093/oxfordhb/9780199299249.003.0012},
   isbn      = {9780199299249},
-  url       = {http://dx.doi.org/10.1093/oxfordhb/9780199299249.003.0012},
+  abstract  = {This article focuses on two streams of theory-driven empirical
+               research on human resource management (HRM). The first is the
+               ‘mainstream’, predominantly survey-based research on the nature
+               of ‘strategic’ high-commitment/high-performance HRM and its
+               relationship to organizational performance. Given its dominance
+               in present HRM research agenda-setting in the most prestigious
+               North American journals, this article devotes most of its space
+               to discussing this stream of research. The second stream is the
+               work that derives from critical, often case-study-based,
+               research, informed by a labor process tradition that has been
+               reinvigorated by Foucauldian and discourse analysis perspectives.
+               This research has focused on employees' experience of HRM in the
+               context of lean production, teamworking, and new work sites,
+               whether Japanese manufacturing implants or call centers. It has
+               also been concerned with issues of employee subjectivity,
+               identity, and resistance. Prominent researchers in this stream
+               are typically, but not exclusively, European.},
+  url       = {https://academic.oup.com/edited-volume/38663/chapter/335788007},
   note      = {Oxford Academic chapter ID: 335788007},
   keywords  = {Ox-Handbook-Work-Org;Book (child);Workplace Learning;VET}
 }
