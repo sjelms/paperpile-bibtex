@@ -25874,6 +25874,23 @@
   language  = {en}
 }
 
+@INBOOK{Felstead2009-ef,
+  title     = {Creating knowledge},
+  author    = {Felstead, Lorna},
+  booktitle = {Taylor \& Francis},
+  publisher = {Routledge},
+  location  = {London, England},
+  edition   = {1st Edition},
+  date      = {2009-05-07},
+  doi       = {10.4324/9780203877951-12},
+  abstract  = {Use of the word ‘knowledge’ to preface the terms ‘economy’,
+               ‘work’ and ‘worker’ is now commonplace in academic and
+               policy-related literatures. From one},
+  url       = {http://dx.doi.org/10.4324/9780203877951-12},
+  urldate   = {2026-09-30},
+  keywords  = {WALF\_Chapters}
+}
+
 @INBOOK{Felstead2009-mx,
   title     = {Mapping the working as learning framework},
   author    = {Felstead, Lorna},
