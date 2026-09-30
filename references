@@ -25798,6 +25798,23 @@
   keywords  = {WALF\_Chapters}
 }
 
+@INBOOK{Felstead2009-gk,
+  title     = {Making sandwiches},
+  author    = {Felstead, Lorna},
+  booktitle = {Taylor \& Francis},
+  publisher = {Routledge},
+  location  = {London, England},
+  edition   = {1st Edition},
+  date      = {2009-05-07},
+  doi       = {10.4324/9780203877951-13},
+  abstract  = {While the sandwich is nothing new, its commercialization
+               certainly is. In the UK, the ﬁrst factory-made sandwich appeared
+               on the shelves of Marks \& Spencer},
+  url       = {http://dx.doi.org/10.4324/9780203877951-13},
+  urldate   = {2026-09-30},
+  keywords  = {WALF\_Chapters}
+}
+
 @INBOOK{Felstead2009-ub,
   title     = {Setting the scene},
   author    = {Felstead, Lorna},
