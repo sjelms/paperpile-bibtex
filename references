@@ -25798,6 +25798,23 @@
   keywords  = {WALF\_Chapters}
 }
 
+@INBOOK{Felstead2009-rn,
+  title     = {Bringing working and learning together},
+  author    = {Felstead, Lorna},
+  booktitle = {Taylor \& Francis},
+  publisher = {Routledge},
+  location  = {London, England},
+  edition   = {1st Edition},
+  date      = {2009-05-07},
+  doi       = {10.4324/9780203877951-15},
+  abstract  = {Throughout this book, we have presented a variety of evidence to
+               illustrate the Working as Learning Framework (WALF) outlined in
+               Chapter 2. In this concluding},
+  url       = {http://dx.doi.org/10.4324/9780203877951-15},
+  urldate   = {2026-09-30},
+  keywords  = {WALF\_Chapters}
+}
+
 @INBOOK{Felstead2009-ub,
   title     = {Setting the scene},
   author    = {Felstead, Lorna},
