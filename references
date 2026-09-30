@@ -25765,6 +25765,23 @@
   language  = {en}
 }
 
+@INBOOK{Felstead2009-ve,
+  title     = {Promoting health},
+  author    = {Felstead, Lorna},
+  booktitle = {Taylor \& Francis},
+  publisher = {Routledge},
+  location  = {London, England},
+  edition   = {1st Edition},
+  date      = {2009-05-07},
+  doi       = {10.4324/9780203877951-10},
+  abstract  = {This chapter utilizes the Working as Learning Framework (WALF),
+               outlined in Chapter 2, in examining attempts by a group of health
+               visitors in an English city},
+  url       = {http://dx.doi.org/10.4324/9780203877951-10},
+  urldate   = {2026-09-30},
+  keywords  = {WALF\_Chapters}
+}
+
 @INBOOK{Felstead2009-ub,
   title     = {Setting the scene},
   author    = {Felstead, Lorna},
