@@ -70551,6 +70551,27 @@
   language     = {en}
 }
 
+@BOOK{Gruneberg2000-bn,
+  title     = {The Economics of the Modern Construction Firm},
+  author    = {Gruneberg, S and Ive, Graham J},
+  publisher = {Palgrave Macmillan UK},
+  location  = {Basingstoke, England},
+  edition   = {2000},
+  date      = {2000-08-08},
+  pagetotal = {307},
+  isbn      = {9780230800151},
+  abstract  = {This is a book about the whole diverse range of firms that are
+               found in the construction sector, about their decision-making and
+               the economic environments in which they operate. The authors aim
+               to provide a new and coherent perspective on these firms and the
+               choices they have to make - both for their managers and for all
+               who have a stake in these firms and their industry. This book
+               offers some new and important perspectives for research and
+               teaching about construction firms.},
+  keywords  = {EoC [BCPM0001];AEC;Economics;PGTA;RNIB},
+  language  = {en}
+}
+
 @BOOK{Chandler1977-lw,
   title     = {The Visible Hand: The Managerial Revolution in American Business},
   author    = {Chandler, Jr, Alfred D},
@@ -72203,18 +72224,5 @@
                offers some new and important perspectives for research and
                teaching in construction economics and management.},
   keywords  = {EoC [BCPM0001];RNIB;AEC;PGTA;Economics},
-  language  = {en}
-}
-
-@BOOK{Gruneberg2000-bn,
-  title     = {The economics of the modern construction firm},
-  author    = {Gruneberg, S and Ive, Graham J},
-  publisher = {Palgrave Macmillan UK},
-  location  = {Basingstoke, England},
-  edition   = {2000},
-  date      = {2000-08-08},
-  pagetotal = {307},
-  isbn      = {9780230800151},
-  keywords  = {EoC [BCPM0001];AEC;Economics;PGTA;RNIB},
   language  = {en}
 }
