@@ -25874,23 +25874,6 @@
   language  = {en}
 }
 
-@INBOOK{Felstead2009-ef,
-  title     = {Creating knowledge},
-  author    = {Felstead, Lorna},
-  booktitle = {Taylor \& Francis},
-  publisher = {Routledge},
-  location  = {London, England},
-  edition   = {1st Edition},
-  date      = {2009-05-07},
-  doi       = {10.4324/9780203877951-12},
-  abstract  = {Use of the word ‘knowledge’ to preface the terms ‘economy’,
-               ‘work’ and ‘worker’ is now commonplace in academic and
-               policy-related literatures. From one},
-  url       = {http://dx.doi.org/10.4324/9780203877951-12},
-  urldate   = {2026-09-30},
-  keywords  = {WALF\_Chapters}
-}
-
 @INBOOK{Felstead2009-mx,
   title     = {Mapping the working as learning framework},
   author    = {Felstead, Lorna},
@@ -27564,6 +27547,36 @@
   keywords  = {EoC [BCPM0001];Braverman;RCPSP\_Takt\_Taylorism;\_BibTex to MD
                Git;RNIB;AEC;PGTA;Economics;git-lit;Labor},
   language  = {en}
+}
+
+@INBOOK{Felstead2009-ef,
+  title     = {Creating knowledge},
+  author    = {Felstead, Lorna},
+  booktitle = {Taylor \& Francis},
+  publisher = {Routledge},
+  location  = {London, England},
+  edition   = {1st Edition},
+  date      = {2009-05-07},
+  doi       = {10.4324/9780203877951-12},
+  abstract  = {Use of the word ‘knowledge’ to preface the terms ‘economy’,
+               ‘work’ and ‘worker’ is now commonplace in academic and
+               policy-related literatures. From one perspective, these terms are
+               associated with the creation of information, ideas and concepts
+               that add value. From another, they are linked with those
+               occupations that require high level (graduate) skills and
+               qualiﬁcations. The assumptions associated with both perspectives
+               underpin national education and training policies designed to
+               create the more highly skilled and qualiﬁed workforce considered
+               necessary to generate a competitive ‘knowledge economy’. In this
+               chapter, we explore evidence relating to these themes drawn from
+               workers in two knowledge intensive organizations: a research-led
+               university (The University) and a ‘cutting edge’ software
+               engineering company (The Company). In the former, we investigated
+               the learning environments of contract researchers; in the latter,
+               we focused on the learning environments of software engineers.},
+  url       = {https://www.taylorfrancis.com/chapters/mono/10.4324/9780203877951-12/creating-knowledge-alan-felstead-alison-fuller-nick-jewson-lorna-unwin?context=ubx},
+  urldate   = {2026-09-30},
+  keywords  = {WALF\_Chapters}
 }
 
 @BOOK{Schumpeter1934-ss,
