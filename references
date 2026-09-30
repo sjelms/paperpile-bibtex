@@ -25841,6 +25841,23 @@
   language  = {en}
 }
 
+@INBOOK{Felstead2009-mx,
+  title     = {Mapping the working as learning framework},
+  author    = {Felstead, Lorna},
+  booktitle = {Taylor \& Francis},
+  publisher = {Routledge},
+  location  = {London, England},
+  edition   = {1st Edition},
+  date      = {2009-05-07},
+  doi       = {10.4324/9780203877951-8},
+  abstract  = {The notion of ‘the context of learning’ has provided a persistent
+               and powerful basis for the theoretical and empirical strategies
+               underpinning the research that},
+  url       = {http://dx.doi.org/10.4324/9780203877951-8},
+  urldate   = {2026-09-30},
+  keywords  = {WALF\_Chapters}
+}
+
 @BOOK{Chandler1977-lw,
   title     = {The Visible Hand: The Managerial Revolution in American Business},
   author    = {Chandler, Jr, Alfred D},
