@@ -25798,23 +25798,6 @@
   keywords  = {WALF\_Chapters}
 }
 
-@INBOOK{Felstead2009-gk,
-  title     = {Making sandwiches},
-  author    = {Felstead, Lorna},
-  booktitle = {Taylor \& Francis},
-  publisher = {Routledge},
-  location  = {London, England},
-  edition   = {1st Edition},
-  date      = {2009-05-07},
-  doi       = {10.4324/9780203877951-13},
-  abstract  = {While the sandwich is nothing new, its commercialization
-               certainly is. In the UK, the ﬁrst factory-made sandwich appeared
-               on the shelves of Marks \& Spencer},
-  url       = {http://dx.doi.org/10.4324/9780203877951-13},
-  urldate   = {2026-09-30},
-  keywords  = {WALF\_Chapters}
-}
-
 @INBOOK{Felstead2009-ub,
   title     = {Setting the scene},
   author    = {Felstead, Lorna},
@@ -27564,6 +27547,35 @@
   keywords  = {EoC [BCPM0001];Braverman;RCPSP\_Takt\_Taylorism;\_BibTex to MD
                Git;RNIB;AEC;PGTA;Economics;git-lit;Labor},
   language  = {en}
+}
+
+@INBOOK{Felstead2009-gk,
+  title     = {Making sandwiches},
+  author    = {Felstead, Lorna},
+  booktitle = {Taylor \& Francis},
+  publisher = {Routledge},
+  location  = {London, England},
+  edition   = {1st Edition},
+  date      = {2009-05-07},
+  doi       = {10.4324/9780203877951-13},
+  abstract  = {While the sandwich is nothing new, its commercialization
+               certainly is. In the UK, the ﬁrst factory-made sandwich appeared
+               on the shelves of Marks \& Spencer as recently as 1981 (Dunn
+               2006). Since then, an increasing proportion of sandwiches have
+               been produced commercially and sold through retail outlets.
+               Industry estimates suggest that, in the UK, approaching two
+               billion are purchased every year. The UK sandwich market is worth
+               around £3.5 billion and is over three times bigger than that for
+               UK pizza (Winship 2006). The most rapidly growing part of the
+               market is the ‘pre-packed, bought in’ sandwich as opposed to
+               those made on site. Two-thirds of these are ‘pure sandwiches’ –
+               that is, two slices of bread cut into triangles and packaged for
+               sale – as opposed to other formats, such as baguettes, rolls and
+               wraps (Hunter 2007). This chapter focuses on the traditional
+               ‘triangle’ part of the market.},
+  url       = {https://www.taylorfrancis.com/chapters/mono/10.4324/9780203877951-13/making-sandwiches-alan-felstead-alison-fuller-nick-jewson-lorna-unwin?context=ubx},
+  urldate   = {2026-09-30},
+  keywords  = {WALF\_Chapters}
 }
 
 @INBOOK{Felstead2009-ef,
