@@ -46877,7 +46877,8 @@
                management, organizational studies, marketing, industrial
                sociology and commercial law.},
   url       = {http://dx.doi.org/10.4324/9781003527305},
-  keywords  = {EoC [BCPM0001];Economics;Labor;ePub;RNIB;git-lit},
+  keywords  = {EoC [BCPM0001];\_BibTex to MD
+               Git;Economics;Labor;ePub;RNIB;git-lit},
   language  = {en}
 }
 
