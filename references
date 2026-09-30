@@ -70551,6 +70551,27 @@
   language     = {en}
 }
 
+@BOOK{Gruneberg2000-bn,
+  title     = {The Economics of the Modern Construction Firm},
+  author    = {Gruneberg, S and Ive, Graham J},
+  publisher = {Palgrave Macmillan UK},
+  location  = {Basingstoke, England},
+  edition   = {2000},
+  date      = {2000-08-08},
+  pagetotal = {307},
+  isbn      = {9780230800151},
+  abstract  = {This is a book about the whole diverse range of firms that are
+               found in the construction sector, about their decision-making and
+               the economic environments in which they operate. The authors aim
+               to provide a new and coherent perspective on these firms and the
+               choices they have to make - both for their managers and for all
+               who have a stake in these firms and their industry. This book
+               offers some new and important perspectives for research and
+               teaching about construction firms.},
+  keywords  = {EoC [BCPM0001];AEC;Economics;PGTA;RNIB},
+  language  = {en}
+}
+
 @BOOK{Felstead1993-ag,
   title     = {The Corporate Paradox: Power and Control in the Business
                Franchise},
@@ -70579,28 +70600,7 @@
                management, organizational studies, marketing, industrial
                sociology and commercial law.},
   url       = {http://dx.doi.org/10.4324/9781003527305},
-  keywords  = {EoC [BCPM0001]},
-  language  = {en}
-}
-
-@BOOK{Gruneberg2000-bn,
-  title     = {The Economics of the Modern Construction Firm},
-  author    = {Gruneberg, S and Ive, Graham J},
-  publisher = {Palgrave Macmillan UK},
-  location  = {Basingstoke, England},
-  edition   = {2000},
-  date      = {2000-08-08},
-  pagetotal = {307},
-  isbn      = {9780230800151},
-  abstract  = {This is a book about the whole diverse range of firms that are
-               found in the construction sector, about their decision-making and
-               the economic environments in which they operate. The authors aim
-               to provide a new and coherent perspective on these firms and the
-               choices they have to make - both for their managers and for all
-               who have a stake in these firms and their industry. This book
-               offers some new and important perspectives for research and
-               teaching about construction firms.},
-  keywords  = {EoC [BCPM0001];AEC;Economics;PGTA;RNIB},
+  keywords  = {EoC [BCPM0001];Economics;Labor;ePub;RNIB},
   language  = {en}
 }
 
