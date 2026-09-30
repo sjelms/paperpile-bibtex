@@ -25798,6 +25798,23 @@
   language  = {en}
 }
 
+@INBOOK{Felstead2009-ub,
+  title     = {Setting the scene},
+  author    = {Felstead, Lorna},
+  booktitle = {Taylor \& Francis},
+  publisher = {Routledge},
+  location  = {London, England},
+  edition   = {1st Edition},
+  date      = {2009-05-07},
+  doi       = {10.4324/9780203877951-7},
+  abstract  = {This book is about the learning that goes on every day in ofﬁces,
+               factories and shops throughout the world. Such activity can take
+               a number of forms, including},
+  url       = {http://dx.doi.org/10.4324/9780203877951-7},
+  urldate   = {2026-09-30},
+  keywords  = {WALF\_Chapters}
+}
+
 @BOOK{Chandler1977-lw,
   title     = {The Visible Hand: The Managerial Revolution in American Business},
   author    = {Chandler, Jr, Alfred D},
