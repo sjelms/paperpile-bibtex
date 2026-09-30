@@ -70605,7 +70605,7 @@
                learning environment were gradually undermined by a lack of
                appropriate institutional and organizational supports.},
   url       = {https://www.taylorfrancis.com/chapters/mono/10.4324/9780203877951-10/promoting-health-alan-felstead-alison-fuller-nick-jewson-lorna-unwin?context=ubx},
-  keywords  = {WALF\_Chapters;Book (child)}
+  keywords  = {WALF\_Chapters;Book (child);git-lit}
 }
 
 @INBOOK{Felstead2009-rn,
@@ -70629,7 +70629,7 @@
                development. The chapter also discusses the implications for the
                future of research in this ﬁeld.},
   url       = {https://www.taylorfrancis.com/chapters/mono/10.4324/9780203877951-15/bringing-working-learning-together-alan-felstead-alison-fuller-nick-jewson-lorna-unwin?context=ubx},
-  keywords  = {WALF\_Chapters;Book (child)}
+  keywords  = {WALF\_Chapters;Book (child);git-lit}
 }
 
 @INBOOK{Felstead2009-ub,
@@ -70673,7 +70673,7 @@
                public and private sectors – create the conditions in which
                learning can both ﬂourish and be celebrated.},
   url       = {https://www.taylorfrancis.com/chapters/mono/10.4324/9780203877951-7/setting-scene-alan-felstead-alison-fuller-nick-jewson-lorna-unwin?context=ubx&refId=549e392e-2045-461c-bb95-f3c8b70ffd65},
-  keywords  = {WALF\_Chapters;Book (child)}
+  keywords  = {WALF\_Chapters;Book (child);git-lit}
 }
 
 @BOOK{Felstead1993-ag,
@@ -70732,31 +70732,6 @@
   language     = {en}
 }
 
-@INBOOK{Felstead2009-mx,
-  title     = {Mapping the working as learning framework},
-  author    = {Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
-               Lorna},
-  booktitle = {Improving Working as Learning},
-  publisher = {Routledge},
-  location  = {London, England},
-  edition   = {1st Edition},
-  pages     = {17--36},
-  date      = {2009-05-07},
-  doi       = {10.4324/9780203877951-8},
-  abstract  = {The notion of ‘the context of learning’ has provided a persistent
-               and powerful basis for the theoretical and empirical strategies
-               underpinning the research that provides the foundation for this
-               book (see, for example, Lee et al. 2004; Unwin et al. 2007;
-               Fuller et al. 2006). It has also informed other important
-               contributions to the ﬁeld (e.g. Lave and Wenger 1991; Boreham
-               2002; Engeström 1994; Rainbird et al. 2004; Evans et al. 2006).
-               In this chapter, however, we present a new articulation of the
-               theoretical and conceptual meanings of ‘context’, which we refer
-               to as the ‘Working as Learning Framework’ (WALF).},
-  url       = {https://www.taylorfrancis.com/chapters/mono/10.4324/9780203877951-8/mapping-working-learning-framework-alan-felstead-alison-fuller-nick-jewson-lorna-unwin?context=ubx},
-  keywords  = {WALF\_Chapters;Book (child)}
-}
-
 @INBOOK{Felstead2009-pq,
   title     = {Utilizing artefacts},
   author    = {Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
@@ -70789,7 +70764,7 @@
                in-company newsletters, designed to encourage a sense of
                community and shared purpose.},
   url       = {https://www.taylorfrancis.com/chapters/mono/10.4324/9780203877951-14/utilizing-artefacts-alan-felstead-alison-fuller-nick-jewson-lorna-unwin?context=ubx},
-  keywords  = {WALF\_Chapters;Book (child)}
+  keywords  = {WALF\_Chapters;Book (child);git-lit}
 }
 
 @INBOOK{Felstead2009-tc,
@@ -70827,7 +70802,7 @@
                These group exercise classes – known as exercise to music (ETM) –
                are the focus of this chapter.},
   url       = {https://www.taylorfrancis.com/chapters/mono/10.4324/9780203877951-11/exercising-music-alan-felstead-alison-fuller-nick-jewson-lorna-unwin?context=ubx},
-  keywords  = {WALF\_Chapters;Book (child)}
+  keywords  = {WALF\_Chapters;Book (child);git-lit}
 }
 
 @BOOK{Chandler1977-lw,
@@ -72486,6 +72461,31 @@
   language  = {en}
 }
 
+@INBOOK{Felstead2009-mx,
+  title     = {Mapping the working as learning framework},
+  author    = {Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
+               Lorna},
+  booktitle = {Improving Working as Learning},
+  publisher = {Routledge},
+  location  = {London, England},
+  edition   = {1st Edition},
+  pages     = {17--36},
+  date      = {2009-05-07},
+  doi       = {10.4324/9780203877951-8},
+  abstract  = {The notion of ‘the context of learning’ has provided a persistent
+               and powerful basis for the theoretical and empirical strategies
+               underpinning the research that provides the foundation for this
+               book (see, for example, Lee et al. 2004; Unwin et al. 2007;
+               Fuller et al. 2006). It has also informed other important
+               contributions to the ﬁeld (e.g. Lave and Wenger 1991; Boreham
+               2002; Engeström 1994; Rainbird et al. 2004; Evans et al. 2006).
+               In this chapter, however, we present a new articulation of the
+               theoretical and conceptual meanings of ‘context’, which we refer
+               to as the ‘Working as Learning Framework’ (WALF).},
+  url       = {https://www.taylorfrancis.com/chapters/mono/10.4324/9780203877951-8/mapping-working-learning-framework-alan-felstead-alison-fuller-nick-jewson-lorna-unwin?context=ubx},
+  keywords  = {WALF\_Chapters;Book (child);git-lit}
+}
+
 @INBOOK{Felstead2009-gk,
   title     = {Making sandwiches},
   author    = {Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
@@ -72513,7 +72513,7 @@
                wraps (Hunter 2007). This chapter focuses on the traditional
                ‘triangle’ part of the market.},
   url       = {https://www.taylorfrancis.com/chapters/mono/10.4324/9780203877951-13/making-sandwiches-alan-felstead-alison-fuller-nick-jewson-lorna-unwin?context=ubx},
-  keywords  = {WALF\_Chapters;Book (child)}
+  keywords  = {WALF\_Chapters;Book (child);git-lit}
 }
 
 @INBOOK{Felstead2009-ef,
@@ -72544,7 +72544,7 @@
                the learning environments of contract researchers; in the latter,
                we focused on the learning environments of software engineers.},
   url       = {https://www.taylorfrancis.com/chapters/mono/10.4324/9780203877951-12/creating-knowledge-alan-felstead-alison-fuller-nick-jewson-lorna-unwin?context=ubx},
-  keywords  = {WALF\_Chapters;Book (child)}
+  keywords  = {WALF\_Chapters;Book (child);git-lit}
 }
 
 @ARTICLE{Tam2019-oj,
@@ -72624,5 +72624,5 @@
                and malfunctions within productive systems may impact on learning
                environments within organizations.},
   url       = {https://www.taylorfrancis.com/chapters/mono/10.4324/9780203877951-9/processing-calls-alan-felstead-alison-fuller-nick-jewson-lorna-unwin?context=ubx},
-  keywords  = {WALF\_Chapters;Book (child)}
+  keywords  = {WALF\_Chapters;Book (child);git-lit}
 }
