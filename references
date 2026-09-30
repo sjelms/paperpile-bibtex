@@ -72205,3 +72205,16 @@
   keywords  = {EoC [BCPM0001];RNIB;AEC;PGTA;Economics},
   language  = {en}
 }
+
+@BOOK{Gruneberg2000-bn,
+  title     = {The economics of the modern construction firm},
+  author    = {Gruneberg, S and Ive, Graham J},
+  publisher = {Palgrave Macmillan UK},
+  location  = {Basingstoke, England},
+  edition   = {2000},
+  date      = {2000-08-08},
+  pagetotal = {307},
+  isbn      = {9780230800151},
+  keywords  = {EoC [BCPM0001]},
+  language  = {en}
+}
