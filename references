@@ -25900,6 +25900,27 @@
   language  = {en}
 }
 
+@ARTICLE{Disbeschl2026-gk,
+  title        = {'You can mix your methods, but you can't mix your paradigms':
+                  a guide to ontology and epistemology for the confused
+                  researcher},
+  author       = {Disbeschl, Stefanie and Checkland, Katherine and Stutchbury,
+                  Kris and Payne, Rebecca},
+  journaltitle = {The British Journal of General Practice: The Journal of the
+                  Royal College of General Practitioners},
+  publisher    = {Royal College of General Practitioners},
+  volume       = {76},
+  issue        = {762},
+  pages        = {36--40},
+  date         = {2026-01-01},
+  doi          = {10.3399/BJGP.2025.0390},
+  pmc          = {PMC13044201},
+  pmid         = {41478646},
+  issn         = {0960-1643,1478-5242},
+  url          = {http://dx.doi.org/10.3399/BJGP.2025.0390},
+  language     = {en}
+}
+
 @INBOOK{Felstead2009-mx,
   title     = {Mapping the working as learning framework},
   author    = {Felstead, Alan and Fuller, Alison and Jewson, Nick and Unwin,
