@@ -25744,6 +25744,23 @@
   language     = {en}
 }
 
+@INBOOK{Felstead2009-tc,
+  title     = {Processing calls},
+  author    = {Felstead, Lorna},
+  booktitle = {Taylor \& Francis},
+  publisher = {Routledge},
+  location  = {London, England},
+  edition   = {1st Edition},
+  date      = {2009-05-07},
+  doi       = {10.4324/9780203877951-9},
+  abstract  = {This chapter analyses the ways in which the introduction of a
+               contact centre (County Talk) into the productive system of a
+               local authority (Shire County) shaped},
+  url       = {http://dx.doi.org/10.4324/9780203877951-9},
+  urldate   = {2026-09-30},
+  keywords  = {WALF\_Chapters}
+}
+
 @BOOK{Gruneberg2000-bn,
   title     = {The Economics of the Modern Construction Firm},
   author    = {Gruneberg, S and Ive, Graham J},
