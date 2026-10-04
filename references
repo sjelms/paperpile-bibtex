@@ -70598,7 +70598,6 @@
   author    = {Gruneberg, S and Ive, Graham J},
   publisher = {Palgrave Macmillan UK},
   location  = {Basingstoke, England},
-  edition   = {2000},
   date      = {2000-08-08},
   pagetotal = {307},
   doi       = {10.1057/9780230510432},
@@ -70611,7 +70610,7 @@
                who have a stake in these firms and their industry. This book
                offers some new and important perspectives for research and
                teaching about construction firms.},
-  url       = {https://doi.org/10.1057/9780230510432},
+  url       = {http://dx.doi.org/10.1057/9780230510432},
   keywords  = {EoC [BCPM0001];AEC;Economics;PGTA;RNIB},
   language  = {en}
 }
