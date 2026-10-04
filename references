@@ -70601,6 +70601,7 @@
   edition   = {2000},
   date      = {2000-08-08},
   pagetotal = {307},
+  doi       = {10.1057/9780230510432},
   isbn      = {9780230800151},
   abstract  = {This is a book about the whole diverse range of firms that are
                found in the construction sector, about their decision-making and
@@ -70610,6 +70611,7 @@
                who have a stake in these firms and their industry. This book
                offers some new and important perspectives for research and
                teaching about construction firms.},
+  url       = {https://doi.org/10.1057/9780230510432},
   keywords  = {EoC [BCPM0001];AEC;Economics;PGTA;RNIB},
   language  = {en}
 }
