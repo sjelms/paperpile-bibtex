@@ -47380,6 +47380,20 @@
   language  = {en}
 }
 
+@INBOOK{Goffman2023-lt,
+  title     = {The presentation of self in everyday life},
+  author    = {Goffman, Erving},
+  booktitle = {Social Theory Re-Wired},
+  publisher = {Routledge},
+  location  = {New York},
+  pages     = {450--459},
+  date      = {2023-04-28},
+  doi       = {10.4324/9781003320609-59},
+  isbn      = {9781003320609},
+  url       = {http://dx.doi.org/10.4324/9781003320609-59},
+  language  = {en}
+}
+
 @INBOOK{Jones1982-su,
   title     = {Destruction or redistribution of engineering skills? The case of
                numerical control},
