@@ -47354,13 +47354,27 @@
 }
 
 @BOOK{Longhofer2023-ri,
-  title     = {Social theory re-wired},
-  author    = {Longhofer, Wesley and Winchester, Daniel},
+  title     = {Social Theory Re-Wired: New Connections to Classical and
+               Contemporary Perspectives},
+  editor    = {Longhofer, Wesley and Winchester, Daniel},
   publisher = {Routledge},
   location  = {New York},
+  edition   = {3},
   date      = {2023-04-28},
   doi       = {10.4324/9781003320609},
   isbn      = {9781003320609},
+  abstract  = {This third edition of Social Theory Re-Wired is a significantly
+               revised edition of this leading text and its unique web learning
+               interactive programs that "allow us to go farther into theory and
+               to build student skills than ever before," according to many
+               teachers. Vital political and social updates are reflected both
+               in the text and the online supplements. "System updates" to each
+               section offer an expanded set of contemporary theory readings
+               that focus on the impacts of information/digital technologies on
+               each of the text’s five big themes: 1) the Puzzles of Social
+               Order, 2) the Social Consequences of Capitalism, 3) the Darkside
+               of Modernity, 4) Subordinated/Alternative Knowledges, and 5)
+               Self-Identity and Society.},
   url       = {http://dx.doi.org/10.4324/9781003320609},
   language  = {en}
 }
