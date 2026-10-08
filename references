@@ -4009,12 +4009,13 @@
 }
 
 @MISC{Stone2011-ks,
-  title  = {Guest Lecture on Storytelling},
-  author = {Stone, Matt and Parker, Trey},
-  date   = {2011-09},
-  note   = {Delivered in the Storytelling Strategies class, Tisch School of the
-            Arts, New York University, New York, USA, 6 September 2011.
-            Descriptive title supplied}
+  title    = {Guest Lecture on Storytelling},
+  author   = {Stone, Matt and Parker, Trey},
+  date     = {2011-09},
+  note     = {Delivered in the Storytelling Strategies class, Tisch School of
+              the Arts, New York University, New York, USA, 6 September 2011.
+              Descriptive title supplied},
+  keywords = {EoC Slide Ref}
 }
 
 @REPORT{Felstead2018-vq,
