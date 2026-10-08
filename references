@@ -47383,14 +47383,33 @@
 @INBOOK{Goffman2023-lt,
   title     = {The Presentation of Self in Everyday Life},
   author    = {Goffman, Erving},
+  editor    = {Longhofer, Wesley and Winchester, Daniel},
   booktitle = {Social Theory Re-Wired: New Connections to Classical and
                Contemporary Perspectives},
   publisher = {Routledge},
   location  = {New York},
+  edition   = {3},
   pages     = {450--459},
   date      = {2023-04-28},
   doi       = {10.4324/9781003320609-59},
   isbn      = {9781003320609},
+  abstract  = {When an individual plays a part he implicitly requests his
+               observers to take seriously the impression that is fostered
+               before them. They are asked to believe that the character they
+               see actually possesses the attributes he appears to possess, that
+               the task he performs will have the consequences that are
+               implicitly claimed for it, and that, in general, matters are what
+               they appear to be. Front is expressive equipment of a standard
+               kind intentionally or unwittingly employed by the individual
+               during his performance. For preliminary purposes, it will be
+               convenient to distinguish and label what seem to be the standard
+               parts of front. While in the presence of others, the individual
+               typically infuses his activity with signs which dramatically
+               highlight and portray confirmatory facts that might otherwise
+               remain unapparent or obscure. For if the individual’s activity is
+               to become significant to others, he must mobilize his activity so
+               that it will express during the interaction what he wishes to
+               convey.},
   url       = {http://dx.doi.org/10.4324/9781003320609-59},
   keywords  = {Book (child)},
   language  = {en}
