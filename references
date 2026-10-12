@@ -72872,3 +72872,24 @@
                system.},
   keywords  = {\_BibTex to MD Git;Education;Philosophy of Education;git-lit}
 }
+
+@BOOK{Woodford2003-fj,
+  title     = {Interest and prices: foundations of a theory of monetary policy},
+  author    = {Woodford, Michael},
+  publisher = {Princeton University Press},
+  location  = {Princeton, NJ},
+  date      = {2003},
+  pagetotal = {804},
+  isbn      = {9781400830169,9780691010496},
+  abstract  = {With the collapse of the Bretton Woods system, any pretense of a
+               connection of the world's currencies to any real commodity has
+               been abandoned. Yet since the 1980s, most central banks have
+               abandoned money-growth targets as practical guidelines for
+               monetary policy as well. How then can pure "fiat" currencies be
+               managed so as to create confidence in the stability of national
+               units of account?Interest and Prices seeks to provide theoretical
+               foundations for a rule-based approach to monetary policy suitable
+               for a world of instant communications and ever more efficient
+               financial markets. In such a w},
+  language  = {en}
+}
