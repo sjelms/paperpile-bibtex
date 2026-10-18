@@ -522,7 +522,7 @@
                   it came at a critical time in the history of Soviet science.},
   url          = {http://dx.doi.org/10.2753/rpo1061-040517043},
   keywords     = {\_BibTex to MD Git;llm-wiki-workflow;003\_Theoretical
-                  Framework;Marx\_Labor;Psychology;Philosophy of
+                  Framework;Marx\_Labor;Vygotsky;Psychology;Philosophy of
                   Education;git-lit},
   origdate     = {1925}
 }
@@ -602,7 +602,7 @@
   url          = {https://ideas.repec.org/a/cub/journl/v20y2017i2p63-70.html},
   keywords     = {\_BibTex to MD
                   Git;AEC\_learning\_theory\_2021-26;003\_Theoretical
-                  Framework;003\_NBLM;RCPSP\_Takt\_Taylorism;Workplace
+                  Framework;003\_NBLM;RCPSP\_Takt\_Taylorism;Vygotsky;Workplace
                   Learning;VET;Knowledge - Skill Acquisition;git-lit}
 }
 
@@ -1192,7 +1192,7 @@
   series    = {Learning in Doing: Social, Cognitive and Computational
                Perspectives},
   keywords  = {Contested Learning in Welfare Work;\_BibTex to MD
-               Git;Braverman;Marx\_Labor;Book (child);Labor;Workplace
+               Git;Braverman;Marx\_Labor;Vygotsky;Book (child);Labor;Workplace
                Learning;git-lit}
 }
 
@@ -4003,8 +4003,8 @@
                incorporates a new section on educational technology and its
                relation to major theories of learning and development.},
   series    = {Understanding Children's Worlds},
-  keywords  = {\_BibTex to MD Git;Knowledge - Skill Acquisition;Philosophy of
-               Education;Education;git-lit},
+  keywords  = {\_BibTex to MD Git;Vygotsky;Knowledge - Skill
+               Acquisition;Philosophy of Education;Education;git-lit},
   language  = {en}
 }
 
@@ -8342,7 +8342,7 @@
                education.},
   url       = {http://dx.doi.org/10.4324/9780203073667},
   keywords  = {EPubs Books;\_BibTex to MD
-               Git;llm-wiki-workflow;Braverman;Marx\_Labor;ePub;RNIB;Research
+               Git;llm-wiki-workflow;Braverman;Marx\_Labor;Vygotsky;ePub;RNIB;Research
                Methods;VET;git-lit}
 }
 
@@ -9401,7 +9401,7 @@
                 development of the “scientific” concepts the child learns in
                 school with his informally acquired “natural relents” concepts.},
   keywords   = {\_BibTex to MD Git;llm-wiki-workflow;003\_Theoretical
-                Framework;Marx\_Labor;Knowledge - Skill
+                Framework;Marx\_Labor;Vygotsky;Knowledge - Skill
                 Acquisition;Psychology;Philosophy of Education;git-lit},
   origtitle  = {Мышление и речь}
 }
@@ -9792,7 +9792,7 @@
                individual’s assimilation of historical experience. Several
                articles show the development of child’s psyche.},
   keywords  = {\_BibTex to MD Git;llm-wiki-workflow;003\_Theoretical
-               Framework;Marx\_Labor;Knowledge - Skill
+               Framework;Marx\_Labor;Vygotsky;Knowledge - Skill
                Acquisition;Psychology;git-lit},
   language  = {en},
   origdate  = {1959}
@@ -12173,7 +12173,7 @@
                companion to the theoretical and historical analysis presented in
                van der Veer and Vlasiner's Understanding Vygotsky.},
   keywords  = {\_BibTex to MD Git;003\_Theoretical
-               Framework;Psychology;Knowledge - Skill
+               Framework;Vygotsky;Psychology;Knowledge - Skill
                Acquisition;Education;Philosophy of Education;git-lit}
 }
 
@@ -12202,7 +12202,7 @@
                   of the theory he had established before.},
   url          = {http://dx.doi.org/10.1080/10749039.2016.1186197},
   keywords     = {\_BibTex to MD Git;003\_Theoretical
-                  Framework;Marx\_Labor;003\_NBLM;Psychology;git-lit},
+                  Framework;Marx\_Labor;003\_NBLM;Vygotsky;Psychology;git-lit},
   language     = {en}
 }
 
@@ -12365,7 +12365,7 @@
   url          = {https://www.tandfonline.com/doi/abs/10.1080/00220272.2023.2242914},
   urldate      = {2026-05-07},
   keywords     = {\_BibTex to MD Git;003\_Theoretical
-                  Framework;Marx\_Labor;Psychology;Reader\_Obsidian;git-lit},
+                  Framework;Marx\_Labor;Vygotsky;Psychology;Reader\_Obsidian;git-lit},
   language     = {en}
 }
 
@@ -12395,7 +12395,7 @@
                   play, a gap he intends this article to fill.},
   url          = {https://eric.ed.gov/?id=EJ1429504},
   urldate      = {2026-05-07},
-  keywords     = {\_BibTex to MD Git;Psychology;git-lit},
+  keywords     = {\_BibTex to MD Git;Vygotsky;Psychology;git-lit},
   language     = {en}
 }
 
@@ -14545,7 +14545,7 @@
   issn         = {1942-0722},
   url          = {http://dx.doi.org/10.1037/h0100530},
   keywords     = {llm-wiki-workflow;\_BibTex to MD Git;003\_Theoretical
-                  Framework;003\_NBLM;git-lit},
+                  Framework;003\_NBLM;Vygotsky;git-lit},
   language     = {en}
 }
 
@@ -19404,7 +19404,7 @@
                   construct uniquely powerful forms of perspectival cognitive
                   representation.},
   url          = {http://dx.doi.org/10.1098/rstb.2006.2000},
-  keywords     = {Knowledge - Skill Acquisition;Psychology},
+  keywords     = {Vygotsky;Knowledge - Skill Acquisition;Psychology},
   language     = {en}
 }
 
@@ -25643,7 +25643,7 @@
                the social and contextualized nature of cognition and meaning...},
   url       = {http://dx.doi.org/10.4324/9781410609519-16},
   urldate   = {2026-09-07},
-  keywords  = {Seed-Pending;\_BibTex to MD Git;Philosophy of
+  keywords  = {Seed-Pending;\_BibTex to MD Git;Vygotsky;Philosophy of
                Education;Psychology;Knowledge - Skill Acquisition;git-lit}
 }
 
@@ -27956,6 +27956,7 @@
                psychology, philosophical psychology, philosophy of science,
                history of psychology and Soviet/Russian history.},
   url       = {http://dx.doi.org/10.4324/9781315647654},
+  keywords  = {Vygotsky},
   origdate  = {1996}
 }
 
@@ -29964,7 +29965,7 @@
   note      = {pp. 192-210},
   keywords  = {Theory and Methodology in Social and Educational
                Research;Critical Realism;\_BibTex to MD
-               Git;llm-wiki-workflow;Marx\_Labor;git-lit},
+               Git;llm-wiki-workflow;Marx\_Labor;Vygotsky;git-lit},
   language  = {en}
 }
 
@@ -31418,7 +31419,7 @@
   keywords  = {education; learning; science; sprouts; vygotsky; theory; social
                development; development; language; more knowledgeable other;
                scaffolding;Notion Catalogued;\_BibTex to MD
-               Git;YouTube;\_Cataloged;git-lit}
+               Git;Vygotsky;YouTube;\_Cataloged;git-lit}
 }
 
 @MISC{Ngo2021-qp,
@@ -38540,7 +38541,7 @@
                interested in conceptual and empirical issues in all aspects of
                ‘activity-based’ research.},
   url       = {https://play.google.com/store/books/details?id=4fKt9MU9w_cC},
-  keywords  = {EPubs Books;\_BibTex to MD Git;\_In Notion;\_In
+  keywords  = {EPubs Books;\_BibTex to MD Git;Vygotsky;\_In Notion;\_In
                Readwise;ePub;Research Methods;\_New Literature;git-lit},
   language  = {en}
 }
@@ -45784,9 +45785,9 @@
   url       = {http://dx.doi.org/10.1007/978-1-4419-9625-1_12},
   keywords  = {Zotero Import (Feb 22);My Library;Intelligent Tutoring Systems
                (ITS);2\_Upgrade MAY 2023;Notion Catalogued;\_BibTex to MD
-               Git;BSSC Seed Fund for AI Research;llm-wiki-workflow;Intelligent
-               Tutoring Systems (ITS);UCL;Cited for
-               Frontiers;\_Cataloged;git-lit}
+               Git;BSSC Seed Fund for AI
+               Research;llm-wiki-workflow;Vygotsky;Intelligent Tutoring Systems
+               (ITS);UCL;Cited for Frontiers;\_Cataloged;git-lit}
 }
 
 @ARTICLE{Puntambekar2021-pm,
@@ -45819,7 +45820,7 @@
   url          = {https://doi.org/10.1007/s10648-021-09636-3},
   keywords     = {Zotero Import (Feb 22);My Library;Frontiers [2022];2\_Upgrade
                   MAY 2023;Journal Articles;\_BibTex to MD
-                  Git;llm-wiki-workflow;\_Mark Up;Knowledge - Skill
+                  Git;llm-wiki-workflow;Vygotsky;\_Mark Up;Knowledge - Skill
                   Acquisition;Cited for Frontiers;git-lit}
 }
 
@@ -45854,7 +45855,8 @@
   keywords     = {Zotero Import (Feb 22);My Library;Theory and Methodology in
                   Social and Educational Research;Journal Articles;\_BibTex to
                   MD Git;llm-wiki-workflow;003\_Theoretical
-                  Framework;003\_NBLM;Knowledge - Skill Acquisition;git-lit}
+                  Framework;003\_NBLM;Vygotsky;Knowledge - Skill
+                  Acquisition;git-lit}
 }
 
 @ARTICLE{Bruner1961-ca,
@@ -47144,49 +47146,9 @@
                systems ; Curriculum Area ; Design Framework ; Exact sciences and
                technology ; Learning and adaptive systems ; Learning
                Gain;Intelligent Tutoring Systems (ITS);\_BibTex to MD Git;BSSC
-               Seed Fund for AI Research;llm-wiki-workflow;Intelligent Tutoring
-               Systems (ITS);UCL;AEC;git-lit},
+               Seed Fund for AI Research;llm-wiki-workflow;Vygotsky;Intelligent
+               Tutoring Systems (ITS);UCL;AEC;git-lit},
   language  = {eng}
-}
-
-@ARTICLE{Luckin2016-aq,
-  title        = {Reflections on the Ecolab and the Zone of Proximal Development},
-  author       = {Luckin, Rosemary and du Boulay, Benedict},
-  journaltitle = {International Journal of Artificial Intelligence in Education},
-  volume       = {26},
-  issue        = {1},
-  pages        = {416--430},
-  date         = {2016-03-01},
-  doi          = {10.1007/s40593-015-0072-x},
-  issn         = {1560-4306},
-  abstract     = {In 1999 we reported a study that explored the way that
-                  Vygotsky’s Zone of Proximal Development could be used to
-                  inform the design of an Interactive Learning Environment
-                  called the Ecolab. Two aspects of this work have subsequently
-                  been used for further research. Firstly, there is the
-                  interpretation of the ZPD and its associated theory that was
-                  used to operationalize the ZPD so that it could be implemented
-                  in software. This interpretation has informed further research
-                  about how one can model context and its impact on learning,
-                  which has produced a design framework that has been
-                  successfully applied across a range of educational settings.
-                  Secondly, there is the Ecolab software itself. The software
-                  has been adapted into a variety of versions that have
-                  supported explorations into how to scaffold learners’
-                  metacognition, how to scaffold learners’ motivation and the
-                  implications of a learner’s goal orientation upon their use of
-                  the software. The findings from these studies have informed
-                  our understanding of learner scaffolding and have produced
-                  consistent results to demonstrate the importance of providing
-                  learners with appropriately challenging tasks and flexible
-                  support. Vygotsky’s work is as relevant now as it was in 1999:
-                  it still has an important role to play in the development of
-                  educational software.},
-  url          = {http://link.springer.com/10.1007/s40593-015-0072-x},
-  keywords     = {Intelligent Tutoring Systems (ITS);Journal Articles;Notion
-                  Catalogued;\_BibTex to MD Git;BSSC Seed Fund for AI
-                  Research;llm-wiki-workflow;Intelligent Tutoring Systems
-                  (ITS);UCL;\_Cataloged;git-lit}
 }
 
 @REPORT{Qin2020-ng,
@@ -66208,7 +66170,7 @@
   url       = {https://brill.com/display/book/9789460912597/BP000009.xml},
   urldate   = {2023-11-30},
   keywords  = {Higher Education; Education; Professional Development; Adult
-               Education;LCKE Chapters;\_BibTex to MD Git;Cross Ref
+               Education;LCKE Chapters;\_BibTex to MD Git;Vygotsky;Cross Ref
                Chapter;UCL;VET;Workplace Learning;Book (child);git-lit},
   language  = {en}
 }
@@ -66276,8 +66238,9 @@
   url       = {https://brill.com/display/book/9789460912597/BP000007.xml},
   urldate   = {2023-11-30},
   keywords  = {Higher Education; Education; Professional Development; Adult
-               Education;LCKE Chapters;Marx\_Labor;\_BibTex to MD Git;Cross Ref
-               Chapter;UCL;VET;Workplace Learning;Book (child);git-lit},
+               Education;LCKE Chapters;Marx\_Labor;\_BibTex to MD
+               Git;Vygotsky;Cross Ref Chapter;UCL;VET;Workplace Learning;Book
+               (child);git-lit},
   language  = {en}
 }
 
@@ -66313,8 +66276,9 @@
   url       = {https://brill.com/display/book/9789460912597/BP000010.xml},
   urldate   = {2023-11-30},
   keywords  = {Higher Education; Education; Professional Development; Adult
-               Education;LCKE Chapters;Marx\_Labor;\_BibTex to MD Git;Cross Ref
-               Chapter;UCL;VET;Workplace Learning;Book (child);git-lit},
+               Education;LCKE Chapters;Marx\_Labor;\_BibTex to MD
+               Git;Vygotsky;Cross Ref Chapter;UCL;VET;Workplace Learning;Book
+               (child);git-lit},
   language  = {en}
 }
 
@@ -66389,8 +66353,9 @@
   url       = {https://brill.com/display/book/9789460912597/BP000008.xml},
   urldate   = {2023-11-30},
   keywords  = {Higher Education; Education; Professional Development; Adult
-               Education;LCKE Chapters;Marx\_Labor;\_BibTex to MD Git;Cross Ref
-               Chapter;UCL;VET;Workplace Learning;Book (child);git-lit},
+               Education;LCKE Chapters;Marx\_Labor;\_BibTex to MD
+               Git;Vygotsky;Cross Ref Chapter;UCL;VET;Workplace Learning;Book
+               (child);git-lit},
   language  = {en}
 }
 
@@ -66827,7 +66792,7 @@
                   strategies and curriculum.},
   url          = {http://www.jstor.org/stable/3594354},
   keywords     = {Upgrade Viva Prep Reading;\_BibTex to MD
-                  Git;llm-wiki-workflow;Marx\_Labor;\_In Notion;\_In
+                  Git;llm-wiki-workflow;Marx\_Labor;Vygotsky;\_In Notion;\_In
                   Readwise;Education;Knowledge - Skill Acquisition;git-lit}
 }
 
@@ -73064,4 +73029,44 @@
   url          = {http://dx.doi.org/10.1109/tlt.2022.3190055},
   keywords     = {Journal Articles;\_BibTex to MD Git;UCL;\_New
                   Literature;git-lit}
+}
+
+@ARTICLE{Luckin2016-aq,
+  title        = {Reflections on the Ecolab and the Zone of Proximal Development},
+  author       = {Luckin, Rosemary and du Boulay, Benedict},
+  journaltitle = {International Journal of Artificial Intelligence in Education},
+  volume       = {26},
+  issue        = {1},
+  pages        = {416--430},
+  date         = {2016-03-01},
+  doi          = {10.1007/s40593-015-0072-x},
+  issn         = {1560-4306},
+  abstract     = {In 1999 we reported a study that explored the way that
+                  Vygotsky’s Zone of Proximal Development could be used to
+                  inform the design of an Interactive Learning Environment
+                  called the Ecolab. Two aspects of this work have subsequently
+                  been used for further research. Firstly, there is the
+                  interpretation of the ZPD and its associated theory that was
+                  used to operationalize the ZPD so that it could be implemented
+                  in software. This interpretation has informed further research
+                  about how one can model context and its impact on learning,
+                  which has produced a design framework that has been
+                  successfully applied across a range of educational settings.
+                  Secondly, there is the Ecolab software itself. The software
+                  has been adapted into a variety of versions that have
+                  supported explorations into how to scaffold learners’
+                  metacognition, how to scaffold learners’ motivation and the
+                  implications of a learner’s goal orientation upon their use of
+                  the software. The findings from these studies have informed
+                  our understanding of learner scaffolding and have produced
+                  consistent results to demonstrate the importance of providing
+                  learners with appropriately challenging tasks and flexible
+                  support. Vygotsky’s work is as relevant now as it was in 1999:
+                  it still has an important role to play in the development of
+                  educational software.},
+  url          = {http://link.springer.com/10.1007/s40593-015-0072-x},
+  keywords     = {Intelligent Tutoring Systems (ITS);Journal Articles;Notion
+                  Catalogued;\_BibTex to MD Git;BSSC Seed Fund for AI
+                  Research;llm-wiki-workflow;Vygotsky;Intelligent Tutoring
+                  Systems (ITS);UCL;\_Cataloged;git-lit}
 }
