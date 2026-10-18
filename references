@@ -504,19 +504,6 @@
   language     = {en}
 }
 
-@INBOOK{Lewis2008-dw,
-  title     = {Quantifying the {GDP–construction} relationship},
-  author    = {Lewis, Timothy Michael},
-  booktitle = {Economics for the Modern Built Environment},
-  publisher = {Taylor \& Francis},
-  pages     = {34--59},
-  date      = {2008-12-03},
-  doi       = {10.4324/9780203938577-10},
-  isbn      = {9780415454247,9780203938577},
-  url       = {http://dx.doi.org/10.4324/9780203938577-10},
-  keywords  = {RLW-1}
-}
-
 @ARTICLE{Wells1985-cp,
   title        = {The role of construction in economic growth and development},
   author       = {Wells, Jill},
@@ -550,6 +537,32 @@
   url          = {http://dx.doi.org/10.1016/0197-3975(85)90033-5},
   keywords     = {RLW-1},
   language     = {en}
+}
+
+@INBOOK{Lewis2008-dw,
+  title     = {Quantifying the {GDP–construction} relationship},
+  author    = {Lewis, Timothy Michael},
+  editor    = {Ruddock, Les},
+  booktitle = {Economics for the Modern Built Environment},
+  publisher = {Taylor \& Francis},
+  pages     = {34--59},
+  date      = {2008-12-03},
+  doi       = {10.4324/9780203938577-10},
+  isbn      = {9780415454247,9780203938577},
+  abstract  = {Even to the casual observer it would seem likely that there is
+               some sort of fairly direct relationship between the level of
+               activity in the construction sector and in the economy as a
+               whole. When the construction sector is booming, so too is the
+               economy; when the economy is down, so too is construction. But it
+               is not clear whether this is a coincidence or a causal
+               relationship. If it is a causal relationship, which is the driver
+               and which the follower? This is clearly important in policy terms
+               if the objective is to achieve economic growth and development.
+               In the same way, it is clear that the developmental status of the
+               country has some sort of relationship with the role and size of
+               the construction industry.},
+  url       = {http://dx.doi.org/10.4324/9780203938577-10},
+  keywords  = {RLW-1}
 }
 
 @INREFERENCE{Kormanik2013-yf,
