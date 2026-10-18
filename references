@@ -1128,16 +1128,15 @@
   language     = {en}
 }
 
-@MISC{The2017-db,
+@MISC{Economist2017-hh,
   title        = {The construction industry’s productivity problem},
-  author       = {{The}},
-  journaltitle = {The Economist},
+  author       = {{Economist}},
+  journaltitle = {The Economist Newspaper},
   publisher    = {The Economist},
   date         = {2017-08-17},
   issn         = {0013-0613},
   abstract     = {And how governments can catalyse change},
   url          = {https://www.economist.com/leaders/2017/08/17/the-construction-industrys-productivity-problem},
-  urldate      = {2026-10-18},
   keywords     = {RLW-1},
   language     = {en}
 }
