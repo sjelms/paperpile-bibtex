@@ -27905,6 +27905,21 @@
   language     = {en}
 }
 
+@BOOK{Daniels2017-hq,
+  title     = {Introduction to Vygotsky},
+  author    = {Daniels, Harry},
+  editor    = {Daniels, Harry},
+  publisher = {Routledge},
+  location  = {3rd edition. | Abingdon, Oxon ; New York, NY : Routledge,
+               [2017]Identifiers: LCCN 2016048948| ISBN 9781138125216 (hardback
+               : alk. paper) | ISBN 9781138125223 (pbk. : alk. paper) | ISBN
+               9781315647654 (ebook)},
+  date      = {2017-04-26},
+  doi       = {10.4324/9781315647654},
+  isbn      = {9781315647654},
+  url       = {http://dx.doi.org/10.4324/9781315647654}
+}
+
 @BOOK{Longhofer2023-ri,
   title     = {Social Theory Re-Wired: New Connections to Classical and
                Contemporary Perspectives},
