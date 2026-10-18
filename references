@@ -28068,6 +28068,25 @@
   language  = {en}
 }
 
+@BOOK{Hillebrandt2000-dm,
+  title     = {Economic theory and the construction industry},
+  author    = {Hillebrandt, Patricia M},
+  publisher = {Palgrave Macmillan},
+  location  = {Basingstoke, England},
+  edition   = {3},
+  date      = {2000-06-21},
+  pagetotal = {240},
+  doi       = {10.1057/9780230372481},
+  isbn      = {9780230372481,9780230372481},
+  abstract  = {This revised edition of an established classic textbook brings
+               the subject right up to date. It applies economic theory to the
+               formation of demand on the construction industry and to the way
+               the indus},
+  url       = {http://dx.doi.org/10.1057/9780230372481},
+  keywords  = {RLW-1},
+  language  = {en}
+}
+
 @INBOOK{Sawchuk2012-xo,
   title     = {Divergent Working and Learning Trajectories in Social Services},
   author    = {Sawchuk, Peter H},
