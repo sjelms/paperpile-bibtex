@@ -504,6 +504,19 @@
   language     = {en}
 }
 
+@INBOOK{Michael-Lewis2008-vl,
+  title     = {Quantifying the {GDP–construction} relationship},
+  author    = {Michael Lewis, Timothy},
+  booktitle = {Economics for the Modern Built Environment},
+  publisher = {Taylor \& Francis},
+  pages     = {34--59},
+  date      = {2008-12-03},
+  doi       = {10.4324/9780203938577.ch2},
+  isbn      = {9780415454247,9780203938577},
+  url       = {http://dx.doi.org/10.4324/9780203938577.ch2},
+  keywords  = {RLW-1}
+}
+
 @ARTICLE{Wells1985-cp,
   title        = {The role of construction in economic growth and development},
   author       = {Wells, Jill},
