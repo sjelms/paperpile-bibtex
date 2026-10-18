@@ -504,6 +504,22 @@
   language     = {en}
 }
 
+@ARTICLE{Wells1985-cp,
+  title        = {The role of construction in economic growth and development},
+  author       = {Wells, Jill},
+  journaltitle = {Habitat International},
+  publisher    = {Elsevier BV},
+  volume       = {9},
+  issue        = {1},
+  pages        = {55--70},
+  date         = {1985-01},
+  doi          = {10.1016/0197-3975(85)90033-5},
+  issn         = {0197-3975,1873-5428},
+  url          = {http://dx.doi.org/10.1016/0197-3975(85)90033-5},
+  keywords     = {RLW-1},
+  language     = {en}
+}
+
 @INREFERENCE{Kormanik2013-yf,
   title     = {Locus of Control},
   author    = {Kormanik, Martin B and Rocco, Tonette S},
