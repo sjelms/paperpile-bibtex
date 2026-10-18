@@ -1189,6 +1189,40 @@
   language     = {en}
 }
 
+@BOOK{Unknown2019-uk,
+  title     = {Public Goods Provision in the Early Modern Economy: Comparative
+               Perspectives from Japan, China, and Europe},
+  publisher = {University of California Press},
+  edition   = {1},
+  date      = {2019},
+  isbn      = {9780520303652},
+  abstract  = {Scholarly discussions on economic development in history,
+               specifically those linked to industrialization or modern economic
+               growth, have paid great attention to the formation and
+               development of the market economy as a set of institutions able
+               to augment people's welfare. The role of specific nonmarket
+               practices for promoting the economic development and welfare has
+               been a distinct concern, typically involving discussion of the
+               state's economic policies. How have societies tackled those
+               issues that the market did not? To what extent did those
+               solutions reflect the structure of an economy? Public Goods
+               Provision in the Early Modern Economy explores these questions by
+               investigating efforts made for the provision of "public goods" in
+               early modern economies from the perspective of Japanese
+               socioeconomic history during Tokugawa era (1603-1868), and by
+               comparing those cases with others from Europe and China's
+               economic history. The contributors focus on three areas of
+               inquiry-early modern era welfare policies for the poor,
+               infrastructure, and forest management-to provide both a unique
+               perspective on Japanese public finance at local levels and a
+               vantage point outside of Europe to encourage a more global view
+               of early modern political economies that shaped subsequent modern
+               transformations.},
+  url       = {http://www.jstor.org/stable/j.ctvr7fdqc},
+  urldate   = {2026-10-18},
+  keywords  = {RLW-1}
+}
+
 @INBOOK{Charmaz2012-uu,
   title     = {Qualitative interviewing and grounded theory analysis},
   author    = {Charmaz, Kathy and Belgrave, Linda Liska},
