@@ -27540,6 +27540,36 @@
                (child);VET;Workplace Learning}
 }
 
+@INBOOK{Bakker2012-ke,
+  title     = {Improving work processes by making the invisible {Visible1}},
+  author    = {Bakker, Arthur and Hoyles, Celia and Kent, Phillip and Noss,
+               Richard},
+  booktitle = {The Knowledge Economy and Lifelong Learning},
+  publisher = {SensePublishers},
+  location  = {Rotterdam},
+  pages     = {257--275},
+  date      = {2012},
+  doi       = {10.1007/978-94-6091-915-2_13},
+  isbn      = {9789460919152},
+  abstract  = {Increasingly, companies are taking part in process improvement
+               programmes, which brings about a growing need for employees to
+               interpret and act on data representations. We have carried out
+               case studies in a range of companies to identify the existence
+               and need of what we call Techno-mathematical Literacies (TmL):
+               functional mathematical knowledge mediated by tools and grounded
+               in the context of specific work situations. Based on data
+               gathered from a large biscuit manufacturing and packaging
+               company, we focus our analysis here on semiotic mediation within
+               activity systems and identify two sets of related TmL: the first
+               concerns rendering some invisible aspects visible through the
+               production of mathematical signs; the second concerns developing
+               meanings for action from an interpretation of these signs. We
+               conclude with some more general observations concerning the role
+               that mathematical signs play in the workplace.},
+  url       = {http://dx.doi.org/10.1007/978-94-6091-915-2_13},
+  keywords  = {The Knowledge Economy and Lifelong Learning 2012}
+}
+
 @ARTICLE{Mikkonen2017-oy,
   title        = {Guiding workplace learning in vocational education and
                   training: a literature review},
