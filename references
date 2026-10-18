@@ -27869,6 +27869,30 @@
   language  = {en}
 }
 
+@INBOOK{Sawchuk2012-xo,
+  title     = {Divergent working and learning trajectories in social services},
+  author    = {Sawchuk, Peter H},
+  booktitle = {The Knowledge Economy and Lifelong Learning},
+  publisher = {SensePublishers},
+  location  = {Rotterdam},
+  pages     = {277--300},
+  date      = {2012},
+  doi       = {10.1007/978-94-6091-915-2_14},
+  isbn      = {9789460919152},
+  abstract  = {In this chapter, I argue that a critical understanding of the
+               notion of a knowledgebased economy (KBE) in advanced capitalism
+               requires attention to the ways that the details of everyday
+               occupational life and learning represent an important arena of
+               political economic struggle. As elsewhere in this volume, the
+               discussion below relates to questions defining the nature of a
+               KBE. For example, I respond to the very real impacts of the
+               increasing speed of innovation and change in work processes which
+               often, as is the case in the research below, is mediated by new
+               forms of production technology and work design.},
+  url       = {http://dx.doi.org/10.1007/978-94-6091-915-2_14},
+  keywords  = {The Knowledge Economy and Lifelong Learning 2012}
+}
+
 @ARTICLE{Fuller2001-la,
   title        = {Credentialism, Adults and Part-time Higher Education in the
                   United Kingdom: An Account of Rising Take Up and Some
