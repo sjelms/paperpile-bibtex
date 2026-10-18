@@ -934,6 +934,39 @@
   language  = {en}
 }
 
+@ARTICLE{Cooney1955-lo,
+  title        = {The origins of the Victorian master builders},
+  author       = {Cooney, E W},
+  journaltitle = {The Economic History Review},
+  publisher    = {Wiley},
+  volume       = {8},
+  issue        = {2},
+  pages        = {167--176},
+  date         = {1955-12},
+  doi          = {10.1111/j.1468-0289.1955.tb01557.x},
+  issn         = {0013-0117,1468-0289},
+  abstract     = {T THE building industry is not prominent in accounts of the
+                  Industrial Revolution and even a brief consideration of its
+                  present organization and techniques is sufficient to suggest
+                  that it has not, in fact, had a notably revolutionary history.
+                  It has retained a large number of very small firms and a high
+                  proportion of its workers still consists of craftsmen using
+                  long-established techniques.' It is not surprising therefore
+                  that little space has been given to the industry in histories
+                  of the Industrial Revolution. Even Sir John Clapham, in his
+                  comprehensive survey of the British economy 'on the eve of the
+                  Railway Age', found it necessary to devote only a few pages to
+                  describing the technological condition and the structure of
+                  the industry, to pointing out its importance in the national
+                  economy in terms of numbers employed, and to outlining what he
+                  referred to as a 'partial change in organization',
+                  unaccompanied by changes in technique, which had taken place
+                  during the half century or so before},
+  url          = {http://dx.doi.org/10.1111/j.1468-0289.1955.tb01557.x},
+  keywords     = {RLW-1},
+  language     = {en}
+}
+
 @ARTICLE{Capraro2026-xt,
   title        = {{LLMorphism}: When humans come to see themselves as language
                   models},
