@@ -843,6 +843,35 @@
   language  = {en}
 }
 
+@ARTICLE{Stephenson2019-is,
+  title        = {The Economic Institutions of Construction in London after the
+                  Great Fire},
+  author       = {Stephenson, Judy Z},
+  journaltitle = {Enterprise \& Society},
+  publisher    = {Cambridge University Press},
+  volume       = {20},
+  issue        = {1},
+  pages        = {229--252},
+  date         = {2019},
+  issn         = {1467-2227,1467-2235},
+  abstract     = {This article contributes to literature on the role of “firms”
+                  in the early modern English economy by exploring contracts for
+                  works between the Crown, the City of London, and large
+                  construction firms that built the Greenwich Hospital, City
+                  churches, and St. Paul’s Cathedral from 1670 to 1712. Primary
+                  sources show varying arrangements to pricing, mitigating risk,
+                  and securing finance occurred without the costs of
+                  intermediaries. Clients pushed financial and operating risks
+                  onto contractors through complex contracting systems that
+                  enabled and supported a number of coordination mechanisms in
+                  the market. The article argues that contracts rather than
+                  firms should be the unit of analysis for those wishing to
+                  examine productivity and changes in early modern business.},
+  url          = {https://www.jstor.org/stable/26642890},
+  urldate      = {2026-10-18},
+  keywords     = {RLW-1}
+}
+
 @REPORT{Ministry-of-Housing-Communities-and-Local-Government2025-bf,
   type        = {resreport},
   title       = {National Planning Policy Framework: Plan-Making and National
