@@ -17299,6 +17299,15 @@
   language     = {en}
 }
 
+@INPROCEEDINGS{Ofori2015-pt,
+  title    = {Nature of the Construction Industry , Its Needs and Its
+              Development : A Review of Four Decades of Research},
+  author   = {Ofori, George},
+  date     = {2015},
+  url      = {https://api.semanticscholar.org/CorpusID:145041193},
+  keywords = {RLW-1}
+}
+
 @INPROCEEDINGS{Vinod2024-jq,
   title      = {Preliminary Insights into {AI} and Engineering Education in the
                 {US} and {UK}: An Exploratory Study},
