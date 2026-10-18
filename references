@@ -17299,15 +17299,6 @@
   language     = {en}
 }
 
-@INPROCEEDINGS{Ofori2015-pt,
-  title    = {Nature of the Construction Industry , Its Needs and Its
-              Development : A Review of Four Decades of Research},
-  author   = {Ofori, George},
-  date     = {2015},
-  url      = {https://api.semanticscholar.org/CorpusID:145041193},
-  keywords = {RLW-1}
-}
-
 @INPROCEEDINGS{Vinod2024-jq,
   title      = {Preliminary Insights into {AI} and Engineering Education in the
                 {US} and {UK}: An Exploratory Study},
@@ -28350,6 +28341,48 @@
                   v-)soraa v-( ON O...},
   url          = {http://dx.doi.org/10.1353/pgn.1997.0059},
   keywords     = {RLW-1}
+}
+
+@INPROCEEDINGS{Ofori2015-pt,
+  title    = {Nature of the Construction Industry, Its Needs and Its
+              Development: A Review of Four Decades of Research},
+  author   = {Ofori, George},
+  date     = {2015},
+  abstract = {The construction industry is not well understood. There is no
+              common definition, and there are even arguments about whether it
+              is an industry or a sector that comprises many industries. The
+              contribution of the construction industry to economic growth and
+              long-term national development is widely acknowledged,
+              highlighting its importance, particularly to developing countries.
+              For the benefit of these countries, it is important to investigate
+              the nature, essential characteristics and particular requirements
+              of the construction industry and to use them to develop programmes
+              for its improvement. A research programme that started in 1974 and
+              is still continuing is discussed. The subjects studied in the
+              research programme have included the nature of the construction
+              industry, its importance in development, its needs and its
+              development. Elements of the process of construction industry
+              development that have been studied include ways and means of
+              improving the performance of construction firms, focusing on
+              contractors and technology development. The findings from these
+              early studies influenced the formulation of policies and
+              legislation for establishing construction industry development
+              agencies in a number of countries. Other aspects of the
+              construction industry that are studied in the research programme
+              include the parameters of performance in the industry, such as
+              productivity and environmental performance. An information
+              technology framework for construction was also developed. As the
+              world entered the information age, the implications for the
+              industry were also studied. Finally, the concepts of leadership,
+              ethics and transparency and their importance on construction
+              projects and in the construction industry were also studied. The
+              focus here is on industry development and its application to the
+              delivery of housing. It is suggested that effective methods should
+              be found to reduce the tendency to duplicate studies and to
+              effectively build on relevant findings over time. A research
+              agenda is proposed.},
+  url      = {https://api.semanticscholar.org/CorpusID:145041193},
+  keywords = {RLW-1}
 }
 
 @BOOK{Masayuki2019-fg,
