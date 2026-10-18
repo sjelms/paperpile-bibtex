@@ -967,6 +967,37 @@
   language     = {en}
 }
 
+@ONLINE{Tidmarsh2016-bs,
+  title     = {The English fire courts and the American right to civil jury
+               trial},
+  author    = {Tidmarsh, Jay},
+  booktitle = {NDLScholarship},
+  date      = {2016},
+  abstract  = {This Article uncovers the history of a long-forgotten English
+               court system, the “fire courts,” which Parliament established to
+               resolve dispute between landlords and tenants in urban areas
+               destroyed in catastrophic fires. One of the fire courts’
+               remarkable features was the delegation of authority to judges to
+               adjudicate disputes without juries. Because the Seventh
+               Amendment’s right to a federal civil jury trial depends in part
+               on the historical practice of English courts in 1791, this
+               delegation bears directly on the present power of Congress to
+               abrogate the use of juries in federal civil litigation.Parliament
+               enacted fire-courts legislation on eight occasions between the
+               mid-seventeenth century and the nineteenth century. The Article
+               particularly emphasizes the first and largest of these courts,
+               established after the Great Fire of London in 1666. Archival
+               research into 1,585 cases resolved by the London Fire Court
+               reveals that the Court never employed juries to resolve contested
+               factual matters. The Article argues that the history of these
+               courts provides a limited but clear power for Congress to strike
+               civil juries in federal court.},
+  url       = {https://scholarship.law.nd.edu/law_faculty_scholarship/1274},
+  urldate   = {2026-10-18},
+  keywords  = {RLW-1},
+  language  = {en}
+}
+
 @ARTICLE{Capraro2026-xt,
   title        = {{LLMorphism}: When humans come to see themselves as language
                   models},
