@@ -473,6 +473,37 @@
   language     = {en}
 }
 
+@ARTICLE{Giang2011-lf,
+  title        = {Role of construction in economic development: Review of key
+                  concepts in the past 40 years},
+  author       = {Giang, Dang T H and Sui Pheng, Low},
+  journaltitle = {Habitat International},
+  publisher    = {Elsevier BV},
+  volume       = {35},
+  issue        = {1},
+  pages        = {118--125},
+  date         = {2011-01},
+  doi          = {10.1016/j.habitatint.2010.06.003},
+  issn         = {0197-3975,1873-5428},
+  abstract     = {This paper reviews the studies completed in the past four
+                  decades which examined the role of the construction industry
+                  in economic development. Findings from these studies
+                  demonstrated the significant relationship between the
+                  construction industry and economic growth in developing
+                  countries. These findings also suggested that the relationship
+                  appears to be more complicated than originally thought. It was
+                  noted that further expansion of the construction industry
+                  beyond the adaptive capacity of the economy will only waste
+                  national resources. Little is known about the impact that the
+                  adaptive capacities of other sectors in the economy have on
+                  the construction sector. This knowledge gap requires further
+                  study in order to formulate a more effective long-term
+                  strategy for construction industry development.},
+  url          = {http://dx.doi.org/10.1016/j.habitatint.2010.06.003},
+  keywords     = {RLW-1},
+  language     = {en}
+}
+
 @INREFERENCE{Kormanik2013-yf,
   title     = {Locus of Control},
   author    = {Kormanik, Martin B and Rocco, Tonette S},
