@@ -27510,6 +27510,36 @@
   keywords  = {Workplaces of the Future;Book (child)}
 }
 
+@INBOOK{Guile2012-is,
+  title     = {Working and Learning in The ‘Knowledgebased’ Creative and
+               Cultural Sector},
+  author    = {Guile, David},
+  editor    = {Livingstone, David W and Guile, David},
+  booktitle = {The Knowledge Economy and Lifelong Learning: A Critical Reader},
+  publisher = {SensePublishers},
+  location  = {Rotterdam},
+  pages     = {301--316},
+  date      = {2012},
+  doi       = {10.1007/978-94-6091-915-2_15},
+  isbn      = {9789460919152},
+  abstract  = {The profile of the creative and cultural (C\&C) sector has risen
+               worldwide over the last twenty years for a combination of
+               economic and social reasons. Economic gurus have argued that the
+               industries that comprise the sector are paradigmatic examples of
+               the type of knowledge-based industries that will constitute the
+               basis of nation states’ prosperity in the twenty-first century
+               (Porter \& Ketels, 2003). Socially, the sector symbolizes the
+               transactional freedom to work creatively, unencumbered by
+               bureaucratic work regimes that many people claim they are looking
+               for (Hesmondhalgh \& Baker, 2011), as well as an opportunity to
+               design products and services that reflect the forms of cultural
+               diversity which are an increasing feature of advanced industrial
+               economies (Bilton, 2007).},
+  url       = {http://dx.doi.org/10.1007/978-94-6091-915-2_15},
+  keywords  = {The Knowledge Economy and Lifelong Learning 2012;Book
+               (child);VET;Workplace Learning}
+}
+
 @ARTICLE{Mikkonen2017-oy,
   title        = {Guiding workplace learning in vocational education and
                   training: a literature review},
@@ -27869,35 +27899,6 @@
   language  = {en}
 }
 
-@INBOOK{Guile2012-is,
-  title     = {Working and Learning in The ‘Knowledgebased’ Creative and
-               Cultural Sector},
-  author    = {Guile, David},
-  editor    = {Livingstone, David W and Guile, David},
-  booktitle = {The Knowledge Economy and Lifelong Learning: A Critical Reader},
-  publisher = {SensePublishers},
-  location  = {Rotterdam},
-  pages     = {301--316},
-  date      = {2012},
-  doi       = {10.1007/978-94-6091-915-2_15},
-  isbn      = {9789460919152},
-  abstract  = {The profile of the creative and cultural (C\&C) sector has risen
-               worldwide over the last twenty years for a combination of
-               economic and social reasons. Economic gurus have argued that the
-               industries that comprise the sector are paradigmatic examples of
-               the type of knowledge-based industries that will constitute the
-               basis of nation states’ prosperity in the twenty-first century
-               (Porter \& Ketels, 2003). Socially, the sector symbolizes the
-               transactional freedom to work creatively, unencumbered by
-               bureaucratic work regimes that many people claim they are looking
-               for (Hesmondhalgh \& Baker, 2011), as well as an opportunity to
-               design products and services that reflect the forms of cultural
-               diversity which are an increasing feature of advanced industrial
-               economies (Bilton, 2007).},
-  url       = {http://dx.doi.org/10.1007/978-94-6091-915-2_15},
-  keywords  = {The Knowledge Economy and Lifelong Learning 2012}
-}
-
 @INBOOK{Sawchuk2012-xo,
   title     = {Divergent Working and Learning Trajectories in Social Services},
   author    = {Sawchuk, Peter H},
@@ -27920,7 +27921,8 @@
                often, as is the case in the research below, is mediated by new
                forms of production technology and work design.},
   url       = {http://dx.doi.org/10.1007/978-94-6091-915-2_14},
-  keywords  = {The Knowledge Economy and Lifelong Learning 2012}
+  keywords  = {The Knowledge Economy and Lifelong Learning 2012;Book
+               (child);VET;Workplace Learning}
 }
 
 @ARTICLE{Fuller2001-la,
