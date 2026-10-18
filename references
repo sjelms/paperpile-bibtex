@@ -504,9 +504,9 @@
   language     = {en}
 }
 
-@INBOOK{Michael-Lewis2008-vl,
+@INBOOK{Lewis2008-dw,
   title     = {Quantifying the {GDP–construction} relationship},
-  author    = {Michael Lewis, Timothy},
+  author    = {Lewis, Timothy Michael},
   booktitle = {Economics for the Modern Built Environment},
   publisher = {Taylor \& Francis},
   pages     = {34--59},
