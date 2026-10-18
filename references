@@ -1281,6 +1281,30 @@
   keywords  = {RLW-1}
 }
 
+@BOOK{Campbell2007-ac,
+  title     = {Building St Paul's},
+  author    = {Campbell, James W P},
+  publisher = {Thames \& Hudson},
+  location  = {London, England},
+  date      = {2007},
+  pagetotal = {176},
+  isbn      = {9780500342442},
+  abstract  = {Building St Paul’s tells the story of this remarkable building
+               and of those responsible for its construction, from the time of
+               the disastrous Great Fire to the cathedral’s final completion in
+               1708. Christopher Wren is well known, yet this book also
+               considers those ordinary craftsmen whose work on St Paul’s has
+               received less attention: the contractors and overseers, the
+               quarrymen on the Isle of Portland, the humble stonemasons and
+               carpenters who shaped the materials. It also unravels the
+               complicated tangle of the cathedral’s finances and the struggles
+               for money that at one time threatened to undermine the whole
+               enterprise. By looking at such details, Campbell’s account
+               reaffirms St Paul’s not only as one man’s masterwork, but as an
+               incredible collaborative achievement.},
+  keywords  = {RLW-1}
+}
+
 @INBOOK{Charmaz2012-uu,
   title     = {Qualitative interviewing and grounded theory analysis},
   author    = {Charmaz, Kathy and Belgrave, Linda Liska},
@@ -15927,17 +15951,6 @@
   url      = {https://web.archive.org/web/19980610100009/http://www.redherring.com/mag/issue55/economics.html},
   keywords = {Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;\_BibTex to
               MD Git;Economics;git-lit}
-}
-
-@BOOK{Campbell2008-yk,
-  title     = {Building St Paul's},
-  author    = {Campbell, James W P},
-  publisher = {Thames \& Hudson},
-  location  = {London, England},
-  date      = {2008-01-21},
-  pagetotal = {176},
-  isbn      = {9780500342442},
-  keywords  = {RLW-1}
 }
 
 @BOOK{Corbin2015-yj,
