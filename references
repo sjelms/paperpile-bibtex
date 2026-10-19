@@ -29020,20 +29020,6 @@
   keywords     = {RLW-2;EoC-Essential}
 }
 
-@ARTICLE{Greif2000-vj,
-  title        = {The Fundamental Problem of Exchange: A Research Agenda in
-                  Historical Institutional Analysis},
-  author       = {Greif, Avner},
-  journaltitle = {European Review of Economic History},
-  volume       = {4},
-  issue        = {3},
-  pages        = {251--284},
-  date         = {2000},
-  doi          = {10.1017/S1361491600000071},
-  url          = {http://dx.doi.org/10.1017/S1361491600000071},
-  keywords     = {RLW-2;EoC-Further}
-}
-
 @ARTICLE{Lamoreaux2003-gi,
   title        = {Beyond Markets and Hierarchies: Toward a New Synthesis of
                   American Business History},
@@ -29227,6 +29213,35 @@
   chapter   = {4},
   url       = {http://dx.doi.org/10.2139/ssrn.2020176},
   keywords  = {RLW-2;EoC-Further}
+}
+
+@ARTICLE{Greif2000-vj,
+  title        = {The Fundamental Problem of Exchange: A Research Agenda in
+                  Historical Institutional Analysis},
+  author       = {Greif, Avner},
+  journaltitle = {European Review of Economic History},
+  volume       = {4},
+  issue        = {3},
+  pages        = {251--284},
+  date         = {2000},
+  doi          = {10.1017/S1361491600000071},
+  abstract     = {For individuals to enter mutually beneficial exchange
+                  relationships they have to recognise them as such and they
+                  have to be able to commit to fulfil their contractual
+                  obligations. The ways in which a society's institutions
+                  mitigate this fundamental problem of exchange determine its
+                  efficiency and distribution. This article calls attention to
+                  the need, ability, and promise of studying the historical
+                  evolution of institutions that mitigated the fundamental
+                  problem of exchange. It elaborates on the essence of this
+                  problem and the related institutions, and demonstrates the
+                  ability and importance of studying them by drawing on various
+                  studies of historical institutions. Our understanding of the
+                  different economic performances and evolutions of various
+                  societies over time can be greatly enhanced by studying how
+                  they mitigated the fundamental problem of exchange.},
+  url          = {http://dx.doi.org/10.1017/S1361491600000071},
+  keywords     = {RLW-2;EoC-Further}
 }
 
 @ARTICLE{De_Jong2013-st,
