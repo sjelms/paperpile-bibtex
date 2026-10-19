@@ -29020,6 +29020,42 @@
   keywords     = {RLW-2;EoC-Essential}
 }
 
+@ARTICLE{Winch1989-uu,
+  title        = {The Construction Firm and the Construction Project: A
+                  Transaction Cost Approach},
+  author       = {Winch, Graham M},
+  journaltitle = {Construction Management and Economics},
+  volume       = {7},
+  issue        = {4},
+  pages        = {331--345},
+  date         = {1989},
+  keywords     = {RLW-2}
+}
+
+@ARTICLE{Stinchcombe1959-sf,
+  title        = {Bureaucratic and Craft Administration of Production: A
+                  Comparative Study},
+  author       = {Stinchcombe, Arthur L},
+  journaltitle = {Administrative Science Quarterly},
+  volume       = {4},
+  issue        = {2},
+  pages        = {168--187},
+  date         = {1959},
+  keywords     = {RLW-2}
+}
+
+@ARTICLE{Chang2007-ve,
+  title        = {The Principle of Inconsistent Trinity in the Selection of
+                  Procurement Systems in Construction},
+  author       = {Chang, C Y and Ive, Graham},
+  journaltitle = {Construction Management and Economics},
+  volume       = {25},
+  issue        = {7},
+  pages        = {677--690},
+  date         = {2007},
+  keywords     = {RLW-2}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
