@@ -9030,21 +9030,6 @@
   language  = {en}
 }
 
-@BOOK{Diebolt2024-gh,
-  title     = {Handbook of cliometrics},
-  editor    = {Diebolt, Claude and Haupert, Michael},
-  publisher = {Springer International Publishing},
-  location  = {Cham, Switzerland},
-  edition   = {3},
-  date      = {2024-05-24},
-  pagetotal = {2826},
-  doi       = {10.1007/978-3-031-35583-7},
-  isbn      = {9783031355820,9783031355837},
-  url       = {http://dx.doi.org/10.1007/978-3-031-35583-7},
-  keywords  = {EoC [BCPM0001]},
-  language  = {en}
-}
-
 @BOOK{Schoenenberger2024-lq,
   title     = {Connected Learning: Origins, Opportunities, and Perspectives of
                Contemporary Educational Design},
@@ -64088,6 +64073,30 @@
   isbn      = {9780465025299},
   keywords  = {Misc;EPubs Books;\_BibTex to MD Git;RNIB;ePub;Knowledge - Skill
                Acquisition;git-lit;biography}
+}
+
+@BOOK{Diebolt2024-gh,
+  title     = {Handbook of Cliometrics},
+  editor    = {Diebolt, Claude and Haupert, Michael},
+  publisher = {Springer International Publishing},
+  location  = {Cham, Switzerland},
+  edition   = {4},
+  date      = {2024-05-24},
+  pagetotal = {2826},
+  isbn      = {9783031355820,9783031355837},
+  abstract  = {This handbook is a milestone in the field of historical economics
+               and econometric history through its emphasis on the concrete
+               contribution of cliometrics to our knowledge in economics and
+               history. The articles in the handbook authored by the leading
+               scholars in the fields, stress the usefulness of cliometrics for
+               economists, historians and social scientists in general. The
+               handbook offers a comprehensive coverage of topics with each
+               article providing an overview of the contributions of cliometrics
+               to a particular topic. The handbook has set a new standard of
+               quality in the field by offering a world-wide forum of discussion
+               in cliometrics.},
+  keywords  = {EoC [BCPM0001]},
+  language  = {en}
 }
 
 @INBOOK{Grier2005-mv,
