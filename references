@@ -29020,18 +29020,6 @@
   keywords     = {RLW-2;EoC-Essential}
 }
 
-@ARTICLE{Holmstrom1999-ip,
-  title        = {The Firm as a Subeconomy},
-  author       = {Holmstrom, Bengt},
-  journaltitle = {Journal of Law, Economics, \& Organization},
-  volume       = {15},
-  issue        = {1},
-  pages        = {74--102},
-  date         = {1999},
-  url          = {https://ucl-new-primo.hosted.exlibrisgroup.com/permalink/f/1klfcc3/TN_cdi_gale_infotracacademiconefile_A55088323},
-  keywords     = {RLW-2;EoC-Further}
-}
-
 @BOOK{North1990-ow,
   title     = {Institutions, Institutional Change and Economic Performance},
   author    = {North, Douglass C},
@@ -29264,6 +29252,45 @@
                   hierarchical institutions have both risen and, more recently,
                   declined in significance.},
   url          = {https://doi.org/10.1086/ahr/108.2.404},
+  keywords     = {RLW-2;EoC-Further}
+}
+
+@ARTICLE{Holmstrom1999-ip,
+  title        = {The Firm as a Subeconomy},
+  author       = {Holmstrom, Bengt},
+  journaltitle = {Journal of Law, Economics, \& Organization},
+  volume       = {15},
+  issue        = {1},
+  pages        = {74--102},
+  date         = {1999},
+  abstract     = {The paper explores the economic role of the firm in a market
+                  economy. The analysis begins with a discussion and critique of
+                  the property rights approach to the theory of the firm as
+                  exposited in the recent work by Hart and Moore ("Property
+                  Rights and the Nature of the Firm"). It is argued that the
+                  Hart-Moore model, taken literally, can only explain why
+                  individuals own assets, but not why firms own assets. In
+                  particular, the logic of the model suggests that each asset
+                  should be free standing in order to provide maximal
+                  flexibility for the design of individual incentives. These
+                  implications run counter to fact. One of the key features of
+                  the modern firm is that it owns essentially all the productive
+                  assets that it employs. Employees rarely own any assets; they
+                  only contribute human capital. Why is the ownership of assets
+                  clustered in firms? The paper outlines an answer based on the
+                  notion that control over physical assets gives control over
+                  contracting rights to those assets. Metaphorically, the firm
+                  is viewed as a miniature economy, an "island" economy, in
+                  which asset ownership conveys the CEO the power to define the
+                  "rules of the game", that is, the ability to restructure the
+                  incentives of those that accept to do business on (or with)
+                  the island. The desire to regulate trade in this fashion stems
+                  from contractual externalities characteristic of imperfect
+                  information environments. The inability to regulate all trade
+                  through a single firm stems from the value of exit rights as
+                  an incentive instrument and a tool to discipline the abuse of
+                  power.},
+  url          = {https://dx.doi.org/10.2139/ssrn.162270},
   keywords     = {RLW-2;EoC-Further}
 }
 
