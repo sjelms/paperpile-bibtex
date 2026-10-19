@@ -73800,17 +73800,6 @@
   language  = {en}
 }
 
-@ARTICLE{Reve1984-mg,
-  title        = {Organization and Governance in Construction},
-  author       = {Reve, Torger and Levitt, Raymond E},
-  journaltitle = {International Journal of Project Management},
-  volume       = {2},
-  issue        = {1},
-  pages        = {17--25},
-  date         = {1984},
-  keywords     = {RLW-2}
-}
-
 @ARTICLE{Eccles1981-kg,
   title        = {Bureaucratic Versus Craft Administration: The Relationship of
                   Market Structure to the Construction Firm},
@@ -73862,5 +73851,27 @@
                   construction industry. Empirical evidence from a field study
                   of homebuilders is presented in support of this argument.},
   url          = {http://dx.doi.org/10.1016/0167-2681(81)90013-5},
+  keywords     = {RLW-2}
+}
+
+@ARTICLE{Reve1984-mg,
+  title        = {Organization and Governance in Construction},
+  author       = {Reve, Torger and Levitt, Raymond E},
+  journaltitle = {International Journal of Project Management},
+  volume       = {2},
+  issue        = {1},
+  pages        = {17--25},
+  date         = {1984},
+  doi          = {10.1016/0263-7863(84)90054-1},
+  abstract     = {Transaction cost analysis provides a viable theoretical
+                  perspective for the study of organization and governance in
+                  construction. The trilateral governance of a client,
+                  engineering consultant, and contractors commonly observed in
+                  industrial construction projects is detailed. The implications
+                  of a professional relationship between the client and the
+                  consultant and a clan-type relationship between the consultant
+                  and the contractors are discussed within the context of large
+                  construction projects.},
+  url          = {https://doi.org/10.1016/0263-7863(84)90054-1},
   keywords     = {RLW-2}
 }
