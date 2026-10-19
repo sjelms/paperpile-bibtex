@@ -73662,7 +73662,8 @@
                students and researchers in construction management, quantity
                surveying, architecture and engineering.},
   url       = {https://doi.org/10.1201/9781003102403},
-  keywords  = {EoC [BCPM0001];EPubs Books;AEC;UCL;Economics;RNIB;ePub}
+  keywords  = {EoC [BCPM0001];EPubs Books;AEC;UCL;Economics;RNIB;ePub;Book
+               (parent)}
 }
 
 @BOOK{Ji2015-un,
@@ -73707,7 +73708,8 @@
                merits and shortcomings, sometimes by looking at real life
                examples.},
   url       = {http://dx.doi.org/10.4324/9781315882925},
-  keywords  = {EoC [BCPM0001];EPubs Books;AEC;UCL;Economics;RNIB;ePub},
+  keywords  = {EoC [BCPM0001];EPubs Books;AEC;UCL;Economics;RNIB;ePub;Book
+               (parent)},
   language  = {en}
 }
 
@@ -73793,6 +73795,7 @@
                the global economy in ways previously under-represented in the
                literature.},
   url       = {https://doi.org/10.1201/9781315231785},
-  keywords  = {EPubs Books;EoC [BCPM0001];AEC;UCL;Economics;RNIB;ePub},
+  keywords  = {EPubs Books;EoC [BCPM0001];AEC;UCL;Economics;RNIB;ePub;Book
+               (parent)},
   language  = {en}
 }
