@@ -29020,15 +29020,6 @@
   keywords     = {RLW-2;EoC-Essential}
 }
 
-@BOOK{North1990-ow,
-  title     = {Institutions, Institutional Change and Economic Performance},
-  author    = {North, Douglass C},
-  publisher = {Cambridge University Press},
-  date      = {1990},
-  url       = {https://ucl-new-primo.hosted.exlibrisgroup.com/permalink/f/5qfvbu/UCL_LMS_DS21153084660004761},
-  keywords  = {RLW-2;EoC-Further}
-}
-
 @ARTICLE{Winch1989-uu,
   title        = {The Construction Firm and the Construction Project: A
                   Transaction Cost Approach},
@@ -29292,6 +29283,46 @@
                   power.},
   url          = {https://dx.doi.org/10.2139/ssrn.162270},
   keywords     = {RLW-2;EoC-Further}
+}
+
+@BOOK{North1990-ow,
+  title     = {Institutions, Institutional Change and Economic Performance},
+  author    = {North, Douglass C},
+  publisher = {Cambridge University Press},
+  date      = {1990},
+  doi       = {10.1017/CBO9780511808678},
+  abstract  = {Continuing his groundbreaking analysis of economic structures,
+               Douglass North develops an analytical framework for explaining
+               the ways in which institutions and institutional change affect
+               the performance of economies, both at a given time and over time.
+               Institutions exist, he argues, due to the uncertainties involved
+               in human interaction; they are the constraints devised to
+               structure that interaction. Yet, institutions vary widely in
+               their consequences for economic performance; some economies
+               develop institutions that produce growth and development, while
+               others develop institutions that produce stagnation. North first
+               explores the nature of institutions and explains the role of
+               transaction and production costs in their development. The second
+               part of the book deals with institutional change. Institutions
+               create the incentive structure in an economy, and organisations
+               will be created to take advantage of the opportunities provided
+               within a given institutional framework. North argues that the
+               kinds of skills and knowledge fostered by the structure of an
+               economy will shape the direction of change and gradually alter
+               the institutional framework. He then explains how institutional
+               development may lead to a path-dependent pattern of development.
+               In the final part of the book, North explains the implications of
+               this analysis for economic theory and economic history. He
+               indicates how institutional analysis must be incorporated into
+               neo-classical theory and explores the potential for the
+               construction of a dynamic theory of long-term economic change.
+               Douglass C. North is Director of the Center of Political Economy
+               and Professor of Economics and History at Washington University
+               in St. Louis. He is a past president of the Economic History
+               Association and Western Economics Association and a Fellow,
+               American Academy of Arts and Sciences.},
+  url       = {https://doi.org/10.1017/CBO9780511808678},
+  keywords  = {RLW-2;EoC-Further}
 }
 
 @ARTICLE{De_Jong2013-st,
