@@ -28723,7 +28723,7 @@
 }
 
 @BOOK{Sloman2023-kb,
-  title     = {Economics for business},
+  title     = {Economics for Business},
   author    = {Sloman, John and Garratt, Dean and Guest, Jon and Jones,
                Elizabeth},
   publisher = {Pearson Education},
@@ -28732,6 +28732,10 @@
   date      = {2023-03-13},
   pagetotal = {768},
   isbn      = {9781292440118},
+  abstract  = {Economics for Business covers all the current issues facing
+               today’s business world. Up-to-date case studies cover everything
+               from the impact of the financial crisis to the examination of
+               specific businesses.},
   keywords  = {EoC [BCPM0001]},
   language  = {en}
 }
