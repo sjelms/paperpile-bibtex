@@ -41502,6 +41502,27 @@
                  Frontiers;git-lit}
 }
 
+@INBOOK{Tadelis2013-cp,
+  title     = {Transaction Cost Economics},
+  author    = {Tadelis, Steven and Williamson, Oliver E},
+  editor    = {Gibbons, Robert and Roberts, John},
+  booktitle = {The Handbook of Organizational Economics},
+  publisher = {Princeton University Press},
+  location  = {Princeton, NJ},
+  pages     = {159--190},
+  date      = {2013},
+  doi       = {10.2139/ssrn.2020176},
+  abstract  = {The study of the governance of economic organization has become a
+               lively and diverse field of research over the last four decades.
+               This chapter describes the fundamental ideas of Transaction Cost
+               Economics (TCE) as these evolved in the 1970's to offer a
+               methodology through which to analyze how the governance of
+               economic organization has economizing consequences.},
+  chapter   = {4},
+  url       = {https://dx.doi.org/10.2139/ssrn.2020176},
+  keywords  = {RLW-2;EoC-Further}
+}
+
 @REPORT{D-Amico2023-ml,
   type        = {resreport},
   title       = {Why Has Construction Productivity Stagnated? The Role of
@@ -56037,19 +56058,6 @@
                Fear and Do It Anyway},
   keywords  = {EPubs Books;\_BibTex to MD Git;Audible;ePub;Audiobook;git-lit},
   language  = {en}
-}
-
-@INBOOK{Tadelis2013-cp,
-  title     = {Transaction Cost Economics},
-  author    = {Tadelis, Steven and Williamson, Oliver E},
-  editor    = {Gibbons, Robert and Roberts, John},
-  booktitle = {The Handbook of Organizational Economics},
-  publisher = {Princeton University Press},
-  location  = {Princeton, NJ},
-  pages     = {159--190},
-  date      = {2013},
-  chapter   = {4},
-  keywords  = {RLW-2;EoC-Further}
 }
 
 @INBOOK{Bock2015-tt,
