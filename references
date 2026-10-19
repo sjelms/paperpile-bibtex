@@ -29020,20 +29020,6 @@
   keywords     = {RLW-2;EoC-Essential}
 }
 
-@ARTICLE{Winch1989-uu,
-  title        = {The Construction Firm and the Construction Project: A
-                  Transaction Cost Approach},
-  author       = {Winch, Graham M},
-  journaltitle = {Construction Management and Economics},
-  volume       = {7},
-  issue        = {4},
-  pages        = {331--345},
-  date         = {1989},
-  doi          = {10.1080/01446198900000032},
-  url          = {https://doi.org/10.1080/01446198900000032},
-  keywords     = {RLW-2;EoC-Further}
-}
-
 @ARTICLE{Stinchcombe1959-sf,
   title        = {Bureaucratic and Craft Administration of Production: A
                   Comparative Study},
@@ -29133,6 +29119,34 @@
   date      = {1990},
   url       = {https://ucl-new-primo.hosted.exlibrisgroup.com/permalink/f/5qfvbu/UCL_LMS_DS21153084660004761},
   keywords  = {RLW-2;EoC-Further}
+}
+
+@ARTICLE{Winch1989-uu,
+  title        = {The Construction Firm and the Construction Project: A
+                  Transaction Cost Approach},
+  author       = {Winch, Graham M},
+  journaltitle = {Construction Management and Economics},
+  volume       = {7},
+  issue        = {4},
+  pages        = {331--345},
+  date         = {1989},
+  doi          = {10.1080/01446198900000032},
+  abstract     = {Three of the influential perspectives for analysing
+                  construction management are reviewed - socio-technical
+                  systems; organization and environment; and project management
+                  - and it is suggested that in spite of their considerable
+                  usefulness, they contain no framework for analysing the
+                  inevitable differences in interest between the different firms
+                  who are members of the project coalition. An alternative
+                  approach is then presented - the transaction cost approach -
+                  which, it is suggested, does allow these differences to be
+                  analysed. In conclusion, the dynamics of the contracting
+                  system are assessed in terms of the contradiction between
+                  construction firms’ responses to the uncertainties inherent in
+                  the project, and those deriving from the contracting system
+                  itself.},
+  url          = {http://dx.doi.org/10.1080/01446198900000032},
+  keywords     = {RLW-2;EoC-Further}
 }
 
 @ARTICLE{De_Jong2013-st,
