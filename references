@@ -28869,7 +28869,7 @@
 }
 
 @BOOK{Morton2007-gh,
-  title     = {Construction {UK}},
+  title     = {Construction {UK}: Introduction to the Industry},
   author    = {Morton, Ralph and Ross, Andrew},
   publisher = {Wiley-Blackwell},
   location  = {Chichester, England},
@@ -28877,6 +28877,28 @@
   date      = {2007-12-12},
   pagetotal = {240},
   isbn      = {9781405159432},
+  abstract  = {This thoroughly readable overview of the nature and history of
+               the construction industry offers a clear understanding of how
+               this vast and complex industry operates. Exploring its main
+               features—the markets, the principal players, and ways of
+               working—it provides a strong basis for further study.
+               Construction UK: Introduction to the Industry takes a fresh
+               approach to today's key issues—sustainability, safety,
+               efficiency, employment practices and procurement. It explains why
+               things are the way they are and investigates the powerful trends
+               for change. This new edition is updated with: the latest DTI
+               statistics, including new information on causes accidents an
+               examination of the effectiveness of initiatives post-Egan a new
+               section on the influence of European initiatives expanded
+               coverage of sustainability and the environmental drivers
+               affecting construction—as well as the industry's response an
+               enlarged section on labour resources and the skills gap a new
+               look at the role of IT and how it is changing the design,
+               construction and operation of buildings new case studies on
+               Holyrood and on Wembley Stadium. Students and all those
+               interested in the built environment—architecture, engineering,
+               surveying, construction—will find this a highly accessible and
+               stimulating approach.},
   keywords  = {EoC [BCPM0001]}
 }
 
