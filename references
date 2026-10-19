@@ -29208,7 +29208,7 @@
   keywords     = {RLW-2;EoC-Further}
 }
 
-@INBOOK{Tadelis2013-cp,
+@INBOOK{Tadelis2012-pv,
   title     = {Transaction Cost Economics},
   author    = {Tadelis, Steven and Williamson, Oliver E},
   editor    = {Gibbons, Robert and Roberts, John},
@@ -29216,7 +29216,7 @@
   publisher = {Princeton University Press},
   location  = {Princeton, NJ},
   pages     = {159--190},
-  date      = {2013},
+  date      = {2012-03-12},
   doi       = {10.2139/ssrn.2020176},
   abstract  = {The study of the governance of economic organization has become a
                lively and diverse field of research over the last four decades.
@@ -29225,7 +29225,7 @@
                methodology through which to analyze how the governance of
                economic organization has economizing consequences.},
   chapter   = {4},
-  url       = {https://dx.doi.org/10.2139/ssrn.2020176},
+  url       = {http://dx.doi.org/10.2139/ssrn.2020176},
   keywords  = {RLW-2;EoC-Further}
 }
 
