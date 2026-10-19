@@ -29056,6 +29056,79 @@
   keywords     = {RLW-2;EoC-Further}
 }
 
+@ARTICLE{Coase1937-ja,
+  title        = {The Nature of the Firm},
+  author       = {Coase, Ronald H},
+  journaltitle = {Economica},
+  volume       = {4},
+  issue        = {16},
+  pages        = {386--405},
+  date         = {1937},
+  doi          = {10.1111/j.1468-0335.1937.tb00002.x},
+  url          = {http://dx.doi.org/10.1111/j.1468-0335.1937.tb00002.x},
+  keywords     = {RLW-2}
+}
+
+@INBOOK{Tadelis2013-cp,
+  title     = {Transaction Cost Economics},
+  author    = {Tadelis, Steven and Williamson, Oliver E},
+  editor    = {Gibbons, Robert and Roberts, John},
+  booktitle = {The Handbook of Organizational Economics},
+  publisher = {Princeton University Press},
+  location  = {Princeton, NJ},
+  pages     = {159--190},
+  date      = {2013},
+  chapter   = {4},
+  keywords  = {RLW-2}
+}
+
+@ARTICLE{Greif2000-vj,
+  title        = {The Fundamental Problem of Exchange: A Research Agenda in
+                  Historical Institutional Analysis},
+  author       = {Greif, Avner},
+  journaltitle = {European Review of Economic History},
+  volume       = {4},
+  issue        = {3},
+  pages        = {251--284},
+  date         = {2000},
+  doi          = {10.1017/S1361491600000071},
+  url          = {http://dx.doi.org/10.1017/S1361491600000071},
+  keywords     = {RLW-2}
+}
+
+@ARTICLE{Lamoreaux2003-gi,
+  title        = {Beyond Markets and Hierarchies: Toward a New Synthesis of
+                  American Business History},
+  author       = {Lamoreaux, Naomi R and Raff, Daniel M G and Temin, Peter},
+  journaltitle = {The American Historical Review},
+  volume       = {108},
+  issue        = {2},
+  pages        = {404--433},
+  date         = {2003},
+  keywords     = {RLW-2}
+}
+
+@ARTICLE{Holmstrom1999-ip,
+  title        = {The Firm as a Subeconomy},
+  author       = {Holmstrom, Bengt},
+  journaltitle = {Journal of Law, Economics, \& Organization},
+  volume       = {15},
+  issue        = {1},
+  pages        = {74--102},
+  date         = {1999},
+  url          = {https://ucl-new-primo.hosted.exlibrisgroup.com/permalink/f/1klfcc3/TN_cdi_gale_infotracacademiconefile_A55088323},
+  keywords     = {RLW-2}
+}
+
+@BOOK{North1990-ow,
+  title     = {Institutions, Institutional Change and Economic Performance},
+  author    = {North, Douglass C},
+  publisher = {Cambridge University Press},
+  date      = {1990},
+  url       = {https://ucl-new-primo.hosted.exlibrisgroup.com/permalink/f/5qfvbu/UCL_LMS_DS21153084660004761},
+  keywords  = {RLW-2}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
