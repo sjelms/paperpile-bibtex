@@ -29029,7 +29029,7 @@
   issue        = {4},
   pages        = {331--345},
   date         = {1989},
-  keywords     = {RLW-2}
+  keywords     = {RLW-2;EoC-Further}
 }
 
 @ARTICLE{Stinchcombe1959-sf,
@@ -29041,7 +29041,7 @@
   issue        = {2},
   pages        = {168--187},
   date         = {1959},
-  keywords     = {RLW-2}
+  keywords     = {RLW-2;EoC-Further}
 }
 
 @ARTICLE{Chang2007-ve,
@@ -29053,7 +29053,7 @@
   issue        = {7},
   pages        = {677--690},
   date         = {2007},
-  keywords     = {RLW-2}
+  keywords     = {RLW-2;EoC-Further}
 }
 
 @ARTICLE{De_Jong2013-st,
