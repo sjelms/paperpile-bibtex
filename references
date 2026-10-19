@@ -29020,20 +29020,6 @@
   keywords     = {RLW-2;EoC-Essential}
 }
 
-@ARTICLE{Stinchcombe1959-sf,
-  title        = {Bureaucratic and Craft Administration of Production: A
-                  Comparative Study},
-  author       = {Stinchcombe, Arthur L},
-  journaltitle = {Administrative Science Quarterly},
-  volume       = {4},
-  issue        = {2},
-  pages        = {168--187},
-  date         = {1959},
-  doi          = {10.2307/2390676},
-  url          = {https://doi.org/10.2307/2390676},
-  keywords     = {RLW-2;EoC-Further}
-}
-
 @ARTICLE{Chang2007-ve,
   title        = {The Principle of Inconsistent Trinity in the Selection of
                   Procurement Systems in Construction},
@@ -29146,6 +29132,39 @@
                   the project, and those deriving from the contracting system
                   itself.},
   url          = {http://dx.doi.org/10.1080/01446198900000032},
+  keywords     = {RLW-2;EoC-Further}
+}
+
+@ARTICLE{Stinchcombe1959-sf,
+  title        = {Bureaucratic and Craft Administration of Production: A
+                  Comparative Study},
+  author       = {Stinchcombe, Arthur L},
+  journaltitle = {Administrative Science Quarterly},
+  volume       = {4},
+  issue        = {2},
+  pages        = {168--187},
+  date         = {1959},
+  doi          = {10.2307/2390676},
+  abstract     = {This chapter argues that the professionalization of the labor
+                  force in the construction industry serves the same functions
+                  as bureaucratic administration in mass production industries
+                  and is more rational than bureaucratic administration in the
+                  face of economic and technical constraints on construction
+                  projects. Craft institutions in construction are more than
+                  craft trade unions; they are also a method of administering
+                  work. The association between orientation to stability and
+                  large-scale bureaucratized firms reflects the social
+                  requirements of complex communications systems between
+                  designated officials. The variability of the construction
+                  industry, its intimate dependence on variations in local
+                  markets, makes the development of bureaucracy uneconomical.
+                  Systematic comparisons of different types of organizations can
+                  refine our conceptual apparatus by defining complex concepts
+                  comprised of elements that hang together empirically. The
+                  central innovation of operative building is in the field of
+                  marketing and finance rather than in the administration of
+                  production.},
+  url          = {http://dx.doi.org/10.2307/2390676},
   keywords     = {RLW-2;EoC-Further}
 }
 
