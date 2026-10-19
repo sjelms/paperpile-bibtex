@@ -73663,7 +73663,7 @@
                surveying, architecture and engineering.},
   url       = {https://doi.org/10.1201/9781003102403},
   keywords  = {EoC [BCPM0001];EPubs Books;AEC;UCL;Economics;RNIB;ePub;Book
-               (parent)}
+               (parent);git-lit}
 }
 
 @BOOK{Ji2015-un,
@@ -73709,7 +73709,7 @@
                examples.},
   url       = {http://dx.doi.org/10.4324/9781315882925},
   keywords  = {EoC [BCPM0001];EPubs Books;AEC;UCL;Economics;RNIB;ePub;Book
-               (parent)},
+               (parent);git-lit},
   language  = {en}
 }
 
@@ -73796,6 +73796,6 @@
                literature.},
   url       = {https://doi.org/10.1201/9781315231785},
   keywords  = {EPubs Books;EoC [BCPM0001];AEC;UCL;Economics;RNIB;ePub;Book
-               (parent)},
+               (parent);git-lit},
   language  = {en}
 }
