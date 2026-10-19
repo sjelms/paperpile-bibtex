@@ -73765,12 +73765,33 @@
 }
 
 @BOOK{Best2019-bw,
-  title     = {Accounting for construction},
+  title     = {Accounting for Construction: Frameworks, Productivity, Cost, and
+               Performance},
   editor    = {Best, Rick and Meikle, Jim},
   publisher = {Routledge},
   location  = {London, England},
+  edition   = {1},
   date      = {2019-03-27},
   pagetotal = {256},
+  doi       = {10.1201/9781315231785},
   isbn      = {9781351866095},
+  abstract  = {Accounting for Construction follows on from Measuring
+               Construction, edited by the same team. It extends the coverage of
+               some of the material in the first volume and expands the range of
+               related topics to include, inter alia, shadow economies,
+               accounting for informal construction and the treatment of the
+               built environment sector in national accounts. Taken together,
+               the two volumes collate a range of topics that are only
+               addressed, if addressed at all, in occasional academic papers and
+               the publications of bodies such as national statistical offices
+               and the World Bank. Accounting for Construction presents
+               international examples from the UK, Australia and New Zealand and
+               from both academic and professional contributors. This book is
+               essential reading for all researchers and professionals
+               interested in construction economics, construction management,
+               and anyone interested in how the construction industry affects
+               the global economy in ways previously under-represented in the
+               literature.},
+  url       = {https://doi.org/10.1201/9781315231785},
   language  = {en}
 }
