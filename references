@@ -28722,6 +28722,20 @@
   language     = {en}
 }
 
+@BOOK{Sloman2023-kb,
+  title     = {Economics for business},
+  author    = {Sloman, John and Garratt, Dean and Guest, Jon and Jones,
+               Elizabeth},
+  publisher = {Pearson Education},
+  location  = {London, England},
+  edition   = {9},
+  date      = {2023-03-13},
+  pagetotal = {768},
+  isbn      = {9781292440118},
+  keywords  = {EoC [BCPM0001]},
+  language  = {en}
+}
+
 @BOOK{Meikle2002-ve,
   title     = {Describing Construction: Industries, Projects, and Firms},
   editor    = {Meikle, Jim and Best, Rick},
