@@ -29066,7 +29066,7 @@
   date         = {1937},
   doi          = {10.1111/j.1468-0335.1937.tb00002.x},
   url          = {http://dx.doi.org/10.1111/j.1468-0335.1937.tb00002.x},
-  keywords     = {RLW-2}
+  keywords     = {RLW-2;EoC-Further}
 }
 
 @INBOOK{Tadelis2013-cp,
@@ -29079,7 +29079,7 @@
   pages     = {159--190},
   date      = {2013},
   chapter   = {4},
-  keywords  = {RLW-2}
+  keywords  = {RLW-2;EoC-Further}
 }
 
 @ARTICLE{Greif2000-vj,
@@ -29093,7 +29093,7 @@
   date         = {2000},
   doi          = {10.1017/S1361491600000071},
   url          = {http://dx.doi.org/10.1017/S1361491600000071},
-  keywords     = {RLW-2}
+  keywords     = {RLW-2;EoC-Further}
 }
 
 @ARTICLE{Lamoreaux2003-gi,
@@ -29105,7 +29105,7 @@
   issue        = {2},
   pages        = {404--433},
   date         = {2003},
-  keywords     = {RLW-2}
+  keywords     = {RLW-2;EoC-Further}
 }
 
 @ARTICLE{Holmstrom1999-ip,
@@ -29117,7 +29117,7 @@
   pages        = {74--102},
   date         = {1999},
   url          = {https://ucl-new-primo.hosted.exlibrisgroup.com/permalink/f/1klfcc3/TN_cdi_gale_infotracacademiconefile_A55088323},
-  keywords     = {RLW-2}
+  keywords     = {RLW-2;EoC-Further}
 }
 
 @BOOK{North1990-ow,
@@ -29126,7 +29126,7 @@
   publisher = {Cambridge University Press},
   date      = {1990},
   url       = {https://ucl-new-primo.hosted.exlibrisgroup.com/permalink/f/5qfvbu/UCL_LMS_DS21153084660004761},
-  keywords  = {RLW-2}
+  keywords  = {RLW-2;EoC-Further}
 }
 
 @ARTICLE{De_Jong2013-st,
