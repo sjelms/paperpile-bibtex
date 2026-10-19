@@ -28855,6 +28855,19 @@
   language  = {en}
 }
 
+@BOOK{Brealey2022-ec,
+  title     = {Fundamentals of corporate finance {ISE}},
+  author    = {Brealey, Richard and Myers, Stewart and Marcus, Alan},
+  publisher = {McGraw-Hill Education},
+  location  = {Columbus, OH},
+  edition   = {11},
+  date      = {2022-03-01},
+  pagetotal = {800},
+  isbn      = {9781265102593},
+  keywords  = {EoC [BCPM0001]},
+  language  = {en}
+}
+
 @BOOK{Morton2007-gh,
   title     = {Construction {UK}},
   author    = {Morton, Ralph and Ross, Andrew},
