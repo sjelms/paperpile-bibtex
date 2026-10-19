@@ -73811,19 +73811,6 @@
   keywords     = {RLW-2}
 }
 
-@ARTICLE{Eccles1981-ta,
-  title        = {The Quasifirm in the Construction Industry},
-  author       = {Eccles, Robert G},
-  journaltitle = {Journal of Economic Behavior \& Organization},
-  volume       = {2},
-  issue        = {4},
-  pages        = {335--357},
-  date         = {1981},
-  doi          = {10.1016/0167-2681(81)90013-5},
-  url          = {https://doi.org/10.1016/0167-2681(81)90013-5},
-  keywords     = {RLW-2}
-}
-
 @ARTICLE{Eccles1981-kg,
   title        = {Bureaucratic Versus Craft Administration: The Relationship of
                   Market Structure to the Construction Firm},
@@ -73849,5 +73836,31 @@
                   the administrative structure of construction firms. This
                   raises questions about the validity of Stinchcombe's thesis.},
   url          = {http://dx.doi.org/10.2307/2392517},
+  keywords     = {RLW-2}
+}
+
+@ARTICLE{Eccles1981-ta,
+  title        = {The Quasifirm in the Construction Industry},
+  author       = {Eccles, Robert G},
+  journaltitle = {Journal of Economic Behavior \& Organization},
+  volume       = {2},
+  issue        = {4},
+  pages        = {335--357},
+  date         = {1981},
+  doi          = {10.1016/0167-2681(81)90013-5},
+  abstract     = {Construction projects are executed by general contractors who
+                  retain the services of special trade subcontractors. This form
+                  of organization is preferable to vertically integrating these
+                  trades because of the transaction cost implications of
+                  construction technology. The general contractor and special
+                  trade subcontractors can form a stable organizational unit
+                  when conditions permit. This organizational form, called here
+                  the ‘quasifirm’, is analogous to the ‘inside contracting
+                  system’ discussed by Williamson (1975). This paper uses
+                  Williamson, 1975, Williamson, 1979 transaction cost approach
+                  to argue the theoretical existence of the quasifirm in the
+                  construction industry. Empirical evidence from a field study
+                  of homebuilders is presented in support of this argument.},
+  url          = {http://dx.doi.org/10.1016/0167-2681(81)90013-5},
   keywords     = {RLW-2}
 }
