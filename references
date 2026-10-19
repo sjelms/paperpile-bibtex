@@ -38626,6 +38626,26 @@
   language  = {en}
 }
 
+@BOOK{Ji2015-un,
+  title     = {Understanding and using structural concepts, second edition},
+  author    = {Ji, Tianjian and Bell, Adrian J and Ellis, Brian Roger},
+  publisher = {CRC Press},
+  location  = {London, England},
+  edition   = {2},
+  date      = {2015-12-02},
+  pagetotal = {374},
+  doi       = {10.1201/b19624},
+  isbn      = {9781498707312},
+  abstract  = {Understanding and Using Structural Concepts, Second Edition
+               provides numerous demonstrations using physical models and
+               practical examples. A significant amount of material, not found
+               in current textbooks, is included to enhance the understanding of
+               structural concepts and stimulate interest in learning, creative
+               thinking, and design. This is achiev},
+  url       = {http://dx.doi.org/10.1201/b19624},
+  keywords  = {EoC [BCPM0001]}
+}
+
 @ARTICLE{Lave1996-oh,
   title        = {Teaching, as Learning, in Practice},
   author       = {Lave, Jean},
