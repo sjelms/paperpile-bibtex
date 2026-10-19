@@ -73763,3 +73763,14 @@
   keywords  = {EoC [BCPM0001]},
   language  = {en}
 }
+
+@BOOK{Best2019-bw,
+  title     = {Accounting for construction},
+  editor    = {Best, Rick and Meikle, Jim},
+  publisher = {Routledge},
+  location  = {London, England},
+  date      = {2019-03-27},
+  pagetotal = {256},
+  isbn      = {9781351866095},
+  language  = {en}
+}
