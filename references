@@ -73834,6 +73834,20 @@
   pages        = {449--469},
   date         = {1981},
   doi          = {10.2307/2392517},
-  url          = {https://doi.org/10.2307/2392517},
+  abstract     = {This paper examines subcontracting and characteristics of
+                  firms in the construction industry. It argues that
+                  subcontracting by general contractors can be explained by
+                  complexity, size, and market extent. Data are provided to
+                  substantiate these claims and to disconfirm the hypothesis
+                  that subcontracting is a response to seasonal variability, a
+                  major alternative explanation. Extensive subcontracting has
+                  implications for the nature of the construction firm. The
+                  paper then examines Stinchcombe's (1959) thesis that
+                  construction firms are managed through craft administration.
+                  It is argued that firm size, role in the production process,
+                  and census classification problems are better explanations for
+                  the administrative structure of construction firms. This
+                  raises questions about the validity of Stinchcombe's thesis.},
+  url          = {http://dx.doi.org/10.2307/2392517},
   keywords     = {RLW-2}
 }
