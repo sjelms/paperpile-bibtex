@@ -28830,20 +28830,26 @@
 }
 
 @BOOK{Best2020-cj,
-  title     = {Measuring construction},
+  title     = {Measuring Construction: Prices, Output, and Productivity},
   editor    = {Best, Rick and Meikle, Jim},
   publisher = {Routledge},
   location  = {London, England},
+  edition   = {1},
   date      = {2020-12-18},
   pagetotal = {278},
   doi       = {10.4324/9781315882925},
   isbn      = {9781134687213},
-  abstract  = {Over the years, numerous attempts have been made to determin the
-               main drivers of productivity and efficiency in the construction
-               industry. Most studies that look at the productivity of the
-               construction industry are centred on the industry in the United
-               States, although in more recent years, studies have been
-               undertaken in other countries as well.},
+  abstract  = {Despite the size, complexity and importance of the construction
+               industry, there has been little study to date which focuses on
+               the challenge of drawing reliable conclusions from the available
+               data. The accuracy of industry reports has an impact on
+               government policy, the direction and outcomes of research and the
+               practices of construction firms, so confusion in this area can
+               have far reaching consequences. In response to this, Measuring
+               Construction looks at fundamental economic theories and concepts
+               with respect to the construction industry, and explains their
+               merits and shortcomings, sometimes by looking at real life
+               examples.},
   url       = {http://dx.doi.org/10.4324/9781315882925},
   keywords  = {EoC [BCPM0001]},
   language  = {en}
