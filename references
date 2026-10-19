@@ -73799,3 +73799,38 @@
                Git;AEC;UCL;Economics;RNIB;ePub;Book (parent);git-lit},
   language  = {en}
 }
+
+@ARTICLE{Reve1984-mg,
+  title        = {Organization and Governance in Construction},
+  author       = {Reve, Torger and Levitt, Raymond E},
+  journaltitle = {International Journal of Project Management},
+  volume       = {2},
+  issue        = {1},
+  pages        = {17--25},
+  date         = {1984},
+  keywords     = {RLW-2}
+}
+
+@ARTICLE{Eccles1981-ta,
+  title        = {The Quasifirm in the Construction Industry},
+  author       = {Eccles, Robert G},
+  journaltitle = {Journal of Economic Behavior \& Organization},
+  volume       = {2},
+  issue        = {4},
+  pages        = {335--357},
+  date         = {1981},
+  keywords     = {RLW-2}
+}
+
+@ARTICLE{Eccles1981-kg,
+  title        = {Bureaucratic Versus Craft Administration: The Relationship of
+                  Market Structure to the Construction Firm},
+  author       = {Eccles, Robert G},
+  journaltitle = {Administrative Science Quarterly},
+  volume       = {26},
+  issue        = {3},
+  pages        = {449--469},
+  date         = {1981},
+  url          = {https://ucl-new-primo.hosted.exlibrisgroup.com/permalink/f/1klfcc3/TN_cdi_gale_infotracacademiconefile_A2033391},
+  keywords     = {RLW-2}
+}
