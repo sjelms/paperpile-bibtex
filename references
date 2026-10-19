@@ -29020,20 +29020,6 @@
   keywords     = {RLW-2;EoC-Essential}
 }
 
-@ARTICLE{Chang2007-ve,
-  title        = {The Principle of Inconsistent Trinity in the Selection of
-                  Procurement Systems in Construction},
-  author       = {Chang, C Y and Ive, Graham},
-  journaltitle = {Construction Management and Economics},
-  volume       = {25},
-  issue        = {7},
-  pages        = {677--690},
-  date         = {2007},
-  doi          = {10.1080/01446190601164089},
-  url          = {https://doi.org/10.1080/01446190601164089},
-  keywords     = {RLW-2;EoC-Further}
-}
-
 @ARTICLE{Coase1937-ja,
   title        = {The Nature of the Firm},
   author       = {Coase, Ronald H},
@@ -29165,6 +29151,42 @@
                   marketing and finance rather than in the administration of
                   production.},
   url          = {http://dx.doi.org/10.2307/2390676},
+  keywords     = {RLW-2;EoC-Further}
+}
+
+@ARTICLE{Chang2007-ve,
+  title        = {The Principle of Inconsistent Trinity in the Selection of
+                  Procurement Systems in Construction},
+  author       = {Chang, C Y and Ive, Graham},
+  journaltitle = {Construction Management and Economics},
+  volume       = {25},
+  issue        = {7},
+  pages        = {677--690},
+  date         = {2007},
+  doi          = {10.1080/01446190601164089},
+  abstract     = {This paper examines the economic characteristics of
+                  construction procurement systems partially in terms of
+                  transaction cost economics and partly those of project
+                  management. It proposes the theoretical principle of an
+                  inconsistent trinity, according to which, in selecting a
+                  procurement system, the client will inevitably face a
+                  trade‐off between the procurement system best able to deliver:
+                  (1) fastest completion of the project (and therefore higher
+                  discounted present value of revenue from the project); (2)
+                  least vulnerability when making changes (lower transaction
+                  hold‐up costs arising from temporal or process specificity);
+                  as well as (3) least vulnerability to non‐performance (lower
+                  transaction measurement costs from greater visibility to third
+                  parties for ordering of disputes). The model provides a
+                  potentially testable contribution to a transaction cost theory
+                  of construction procurement. It also has two implications: (1)
+                  the three main family types of procurement systems are held to
+                  be intrinsically different in economic terms, so selection of
+                  procurement system does matter; (2) no system can enjoy
+                  absolute advantage over others, so the proposed strategy of
+                  procurement system selection is to align the characteristics
+                  of procurement systems with attributes of projects.},
+  url          = {http://dx.doi.org/10.1080/01446190601164089},
   keywords     = {RLW-2;EoC-Further}
 }
 
