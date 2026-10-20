@@ -29693,13 +29693,16 @@
 }
 
 @BOOK{Buchler1961-fx,
-  title     = {Concept of method},
+  title     = {The Concept of Method},
   author    = {Buchler, Justus},
   publisher = {Columbia University Press},
   location  = {New York, NY},
   date      = {1961-03-02},
   pagetotal = {182},
   isbn      = {9780231932400},
+  abstract  = {Examines the term method and what gives it universal and
+               essential traits. Looks at procedures which apply rational order
+               or systematic patterns.},
   language  = {en}
 }
 
