@@ -29755,6 +29755,41 @@
   language    = {en}
 }
 
+@ARTICLE{Buitelaar2026-dh,
+  title        = {Adult attention deficit-hyperactivity disorder},
+  author       = {Buitelaar, Jan K and Newcorn, Jeffrey H},
+  journaltitle = {The New England Journal of Medicine},
+  publisher    = {Massachusetts Medical Society},
+  volume       = {395},
+  issue        = {15},
+  pages        = {1519--1528},
+  date         = {2026-10-15},
+  doi          = {10.1056/NEJMcp2516040},
+  pmid         = {42874105},
+  issn         = {0028-4793,1533-4406},
+  abstract     = {Attention deficit-hyperactivity disorder (ADHD) is a medical
+                  condition that is present in approximately 2.5\% of adults
+                  worldwide and manifests in a variety of different ways across
+                  the lifespan. Adults with ADHD often have coexisting
+                  psychiatric disorders such as anxiety, mood, sleep, substance
+                  use, and personality disorders and are at increased risk for
+                  coexisting somatic conditions such as obesity, cardiovascular
+                  and cerebrovascular disease, type 1 and type 2 diabetes, and
+                  immune and inflammatory conditions. Hence, such adults may be
+                  seen by clinicians providing care for a wide range of
+                  psychiatric and somatic conditions. Nevertheless, ADHD remains
+                  unrecognized and undiagnosed in many persons. Assessment
+                  requires interviewing of the patient for core ADHD symptoms,
+                  coexisting conditions, and their functional effects, which can
+                  be facilitated by using standardized rating scales. Key
+                  components of treatment are psychoeducation and
+                  psychostimulant or nonstimulant medication, mostly in
+                  combination with psychosocial interventions and lifestyle
+                  guidance.},
+  url          = {http://dx.doi.org/10.1056/NEJMcp2516040},
+  language     = {en}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
