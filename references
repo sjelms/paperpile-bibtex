@@ -29791,6 +29791,16 @@
   language     = {en}
 }
 
+@BOOK{Pearce2003-lx,
+  title     = {The Social and Economic Value of Construction: The Construction
+               Industry's Contribution to Sustainable Development},
+  author    = {Pearce, D W},
+  publisher = {nCRISP},
+  location  = {London},
+  date      = {2003},
+  keywords  = {RLW-3}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
