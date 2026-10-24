@@ -74710,8 +74710,9 @@
   keywords     = {RLW-3;EoC-Essential}
 }
 
-@ARTICLE{Unknown2006-zj,
+@ARTICLE{Editorial2006-os,
   title        = {Understanding the Social and Economic Value of Construction},
+  author       = {{Editorial}},
   journaltitle = {Building Research \& Information},
   volume       = {34},
   issue        = {3},
