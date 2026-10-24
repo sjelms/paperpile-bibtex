@@ -74720,7 +74720,7 @@
   doi          = {10.1080/09613210600634427},
   url          = {http://dx.doi.org/10.1080/09613210600634427},
   note         = {Editorial; author not specified in the supplied reading list},
-  keywords     = {RLW-3}
+  keywords     = {RLW-3;EoC-Further}
 }
 
 @ARTICLE{Briscoe2006-xu,
@@ -74731,7 +74731,7 @@
   issue        = {3},
   pages        = {220--229},
   date         = {2006},
-  keywords     = {RLW-3}
+  keywords     = {RLW-3;EoC-Further}
 }
 
 @ARTICLE{Fernandez-Solis2008-zv,
@@ -74744,7 +74744,7 @@
   date         = {2008},
   doi          = {10.3763/aedm.2008.S807},
   url          = {http://dx.doi.org/10.3763/aedm.2008.S807},
-  keywords     = {RLW-3}
+  keywords     = {RLW-3;EoC-Further}
 }
 
 @ARTICLE{Kohler2006-ee,
@@ -74756,5 +74756,5 @@
   issue        = {3},
   pages        = {287--294},
   date         = {2006},
-  keywords     = {RLW-3}
+  keywords     = {RLW-3;EoC-Further}
 }
