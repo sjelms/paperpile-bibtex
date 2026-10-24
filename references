@@ -29856,16 +29856,6 @@
   keywords    = {RLW-3;AEC;EoC-Essential}
 }
 
-@BOOK{Ive2000-nw,
-  title     = {The Economics of the Modern Construction Sector},
-  author    = {Ive, Graham J and Gruneberg, Stephen L},
-  publisher = {Macmillan},
-  location  = {Basingstoke},
-  date      = {2000},
-  note      = {Assigned reading: Part II, Chapters 4, 5, and 6},
-  keywords  = {RLW-3;EoC-Essential}
-}
-
 @ARTICLE{Fernandez-Solis2008-zv,
   title        = {The Systemic Nature of the Construction Industry},
   author       = {Fernández-Solís, José L},
