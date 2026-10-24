@@ -74675,3 +74675,49 @@
                  context of sustainable development.},
   keywords    = {RLW-3;AEC;EoC-Essential}
 }
+
+@BOOK{Ive2000-nw,
+  title     = {The Economics of the Modern Construction Sector},
+  author    = {Ive, Graham J and Gruneberg, Stephen L},
+  publisher = {Macmillan},
+  location  = {Basingstoke},
+  date      = {2000},
+  note      = {Assigned reading: Part II, Chapters 4, 5, and 6},
+  keywords  = {RLW-3}
+}
+
+@ARTICLE{Ruddock2011-uk,
+  title        = {Evaluation of Trends in the {UK} Construction Industry Using
+                  Growth and Productivity Accounts},
+  author       = {Ruddock, Les and Ruddock, Steven},
+  journaltitle = {Construction Management and Economics},
+  volume       = {29},
+  issue        = {12},
+  pages        = {1229--1239},
+  date         = {2011},
+  keywords     = {RLW-3}
+}
+
+@REPORT{Pearce2003-yd,
+  type        = {resreport},
+  title       = {The Social and Economic Value of Construction: The Construction
+                 Industry's Contribution to Sustainable Development},
+  author      = {Pearce, David W},
+  institution = {nCRISP},
+  location    = {London},
+  date        = {2003},
+  note        = {Commonly referred to as the Pearce Report},
+  keywords    = {RLW-3}
+}
+
+@ARTICLE{Abdel-Wahab2011-uv,
+  title        = {Trends of Productivity Growth in the Construction Industry
+                  Across Europe, {US} and Japan},
+  author       = {Abdel-Wahab, Mohamed and Vogl, Bernard},
+  journaltitle = {Construction Management and Economics},
+  volume       = {29},
+  issue        = {6},
+  pages        = {635--644},
+  date         = {2011},
+  keywords     = {RLW-3}
+}
