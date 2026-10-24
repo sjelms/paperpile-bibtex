@@ -29878,18 +29878,6 @@
   keywords     = {RLW-3;EoC-Essential}
 }
 
-@ARTICLE{Abdel-Wahab2011-uv,
-  title        = {Trends of Productivity Growth in the Construction Industry
-                  Across Europe, {US} and Japan},
-  author       = {Abdel-Wahab, Mohamed and Vogl, Bernard},
-  journaltitle = {Construction Management and Economics},
-  volume       = {29},
-  issue        = {6},
-  pages        = {635--644},
-  date         = {2011},
-  keywords     = {RLW-3;EoC-Essential}
-}
-
 @ARTICLE{Fernandez-Solis2008-zv,
   title        = {The Systemic Nature of the Construction Industry},
   author       = {Fernández-Solís, José L},
@@ -29992,6 +29980,47 @@
   url          = {http://dx.doi.org/10.1080/09613210600634427},
   note         = {Editorial; author not specified in the supplied reading list},
   keywords     = {RLW-3;EoC-Further}
+}
+
+@ARTICLE{Abdel-Wahab2011-uv,
+  title        = {Trends of Productivity Growth in the Construction Industry
+                  Across Europe, {US}, and Japan},
+  author       = {Abdel-Wahab, Mohamed and Vogl, Bernard},
+  journaltitle = {Construction Management and Economics},
+  volume       = {29},
+  issue        = {6},
+  pages        = {635--644},
+  date         = {2011},
+  doi          = {10.1080/01446193.2011.573568},
+  issn         = {0144-6193,1466-433X},
+  abstract     = {Productivity is a key driver for economic growth and
+                  prosperity in any country. The pursuit of productivity growth
+                  requires an understanding of the factors affecting
+                  productivity. The trend of productivity growth, along with the
+                  possible factors underlying such growth across Europe, the US
+                  and Japan, is thus examined. In particular, there is a focus
+                  on comparing the productivity performance of the construction
+                  sector to that of other industries. Using the recently
+                  released EU KLEMS database, a growth accounting framework was
+                  adopted to assess the contribution of the following factors to
+                  productivity growth (during 1971–2005): capital, labour
+                  quality and total factor productivity (TFP). It was found that
+                  there is a general slowdown in labour productivity growth in
+                  total industries including construction across major OECD
+                  countries, with the exception of the UK. The differences in
+                  labour productivity growth between construction and total
+                  industries can be largely explained by construction’s poor TFP
+                  performance. With the exception of the UK, TFP negatively
+                  contributed to labour productivity growth in the period
+                  1990–2005, suggesting that the industry has become less
+                  efficient in combining the factors of production. That
+                  phenomenon seems to be consistent across all selected
+                  countries and warrants further investigation. Indeed a better
+                  understanding of the factors underlying productivity growth in
+                  OECD countries is a prerequisite for effective intervention of
+                  policy makers to support sustained productivity growth.},
+  url          = {https://doi.org/10.1080/01446193.2011.573568},
+  keywords     = {RLW-3;EoC-Essential}
 }
 
 @ARTICLE{De_Jong2013-st,
