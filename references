@@ -74698,18 +74698,6 @@
   keywords     = {RLW-3;EoC-Essential}
 }
 
-@REPORT{Pearce2003-yd,
-  type        = {resreport},
-  title       = {The Social and Economic Value of Construction: The Construction
-                 Industry's Contribution to Sustainable Development},
-  author      = {Pearce, David W},
-  institution = {nCRISP},
-  location    = {London},
-  date        = {2003},
-  note        = {Commonly referred to as the Pearce Report},
-  keywords    = {RLW-3;EoC-Essential}
-}
-
 @ARTICLE{Abdel-Wahab2011-uv,
   title        = {Trends of Productivity Growth in the Construction Industry
                   Across Europe, {US} and Japan},
