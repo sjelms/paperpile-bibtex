@@ -29890,20 +29890,6 @@
   keywords     = {RLW-3;EoC-Essential}
 }
 
-@ARTICLE{Editorial2006-os,
-  title        = {Understanding the Social and Economic Value of Construction},
-  author       = {{Editorial}},
-  journaltitle = {Building Research \& Information},
-  volume       = {34},
-  issue        = {3},
-  pages        = {191--196},
-  date         = {2006},
-  doi          = {10.1080/09613210600634427},
-  url          = {http://dx.doi.org/10.1080/09613210600634427},
-  note         = {Editorial; author not specified in the supplied reading list},
-  keywords     = {RLW-3;EoC-Further}
-}
-
 @ARTICLE{Fernandez-Solis2008-zv,
   title        = {The Systemic Nature of the Construction Industry},
   author       = {Fernández-Solís, José L},
@@ -29975,6 +29961,36 @@
                   and deal with the more technical aspects of international
                   comparisons.},
   url          = {https://doi.org/10.1080/09613210600589878},
+  keywords     = {RLW-3;EoC-Further}
+}
+
+@ARTICLE{Editorial2006-os,
+  title        = {Understanding the Social and Economic Value of Construction},
+  author       = {{Editorial}},
+  journaltitle = {Building Research \& Information},
+  volume       = {34},
+  issue        = {3},
+  pages        = {191--196},
+  date         = {2006},
+  doi          = {10.1080/09613210600634427},
+  abstract     = {The origins of this special edition of Building Research \&
+                  Information are in a report for nCRISP (new Construction
+                  Research and Innovation Strategy Panel, UK) published in
+                  November 2003 and entitled The Social and Economic Value of
+                  Construction: The Construction Industry's Contribution to
+                  Sustainable Development (Pearce, 2003). Its author was David
+                  Pearce, Emeritus Professor of Environmental Economics,
+                  University College London, UK. Pearce died suddenly in
+                  September 2005 while this special edition was in preparation.
+                  It is, therefore, dedicated to his memory. The purpose of this
+                  special issue of the journal is to involve the wider
+                  international research and policy communities in the
+                  significant questions directly and indirectly raised about the
+                  construction industry and the built environment. In
+                  particular, conceptual issues and practical aspects need to be
+                  addressed.},
+  url          = {http://dx.doi.org/10.1080/09613210600634427},
+  note         = {Editorial; author not specified in the supplied reading list},
   keywords     = {RLW-3;EoC-Further}
 }
 
