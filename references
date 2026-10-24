@@ -29904,17 +29904,6 @@
   keywords     = {RLW-3;EoC-Further}
 }
 
-@ARTICLE{Briscoe2006-xu,
-  title        = {How Useful and Reliable Are Construction Statistics?},
-  author       = {Briscoe, Geoff},
-  journaltitle = {Building Research \& Information},
-  volume       = {34},
-  issue        = {3},
-  pages        = {220--229},
-  date         = {2006},
-  keywords     = {RLW-3;EoC-Further}
-}
-
 @ARTICLE{Fernandez-Solis2008-zv,
   title        = {The Systemic Nature of the Construction Industry},
   author       = {Fernández-Solís, José L},
@@ -29948,6 +29937,44 @@
                   the same light as a manufacturing industry, then what is the
                   paradigm of the construction industry?},
   url          = {http://dx.doi.org/10.3763/aedm.2008.S807},
+  keywords     = {RLW-3;EoC-Further}
+}
+
+@ARTICLE{Briscoe2006-xu,
+  title        = {How Useful and Reliable Are Construction Statistics?},
+  author       = {Briscoe, Geoff},
+  journaltitle = {Building Research and Information},
+  volume       = {34},
+  issue        = {3},
+  pages        = {220--229},
+  date         = {2006},
+  doi          = {10.1080/09613210600589878},
+  issn         = {0961-3218,1466-4321},
+  abstract     = {The Pearce Report of 2003 drew attention to potential
+                  shortcomings in some of the existing statistics that were used
+                  to analyse the UK construction sector. The current study
+                  examines the broader statistical issues in greater depth to
+                  identify shortcomings that could cause some of the findings
+                  presented by Pearce, and similar studies, to need
+                  qualification and possible revision. Problems with reliable
+                  and accurate data collection and statistical analysis include
+                  defining the scope and coverage of the industry; measuring
+                  industry outputs and their allocation across different types
+                  of activity; identifying construction firms; and measuring
+                  capital formation and capital stock, inconsistencies in
+                  employment statistics and labour market variables,
+                  discrepancies in measuring productivity, and the lack of
+                  international comparison. Needed improvements include a wider
+                  definition of construction output and employment activities, a
+                  continuous review of the usefulness and reliability of the
+                  published construction statistics, and the resolution of the
+                  discrepancies between different registers. Industry
+                  stakeholders also need to become more engaged in the process
+                  of statistical revision and use. The creation of an
+                  international forum could improve the quality of statistics
+                  and deal with the more technical aspects of international
+                  comparisons.},
+  url          = {https://doi.org/10.1080/09613210600589878},
   keywords     = {RLW-3;EoC-Further}
 }
 
