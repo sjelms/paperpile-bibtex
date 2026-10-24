@@ -74709,3 +74709,52 @@
   date         = {2011},
   keywords     = {RLW-3;EoC-Essential}
 }
+
+@ARTICLE{Unknown2006-zj,
+  title        = {Understanding the Social and Economic Value of Construction},
+  journaltitle = {Building Research \& Information},
+  volume       = {34},
+  issue        = {3},
+  pages        = {191--196},
+  date         = {2006},
+  doi          = {10.1080/09613210600634427},
+  url          = {http://dx.doi.org/10.1080/09613210600634427},
+  note         = {Editorial; author not specified in the supplied reading list},
+  keywords     = {RLW-3}
+}
+
+@ARTICLE{Briscoe2006-xu,
+  title        = {How Useful and Reliable Are Construction Statistics?},
+  author       = {Briscoe, Geoff},
+  journaltitle = {Building Research \& Information},
+  volume       = {34},
+  issue        = {3},
+  pages        = {220--229},
+  date         = {2006},
+  keywords     = {RLW-3}
+}
+
+@ARTICLE{Fernandez-Solis2008-zv,
+  title        = {The Systemic Nature of the Construction Industry},
+  author       = {Fernández-Solís, José L},
+  journaltitle = {Architectural Engineering and Design Management},
+  volume       = {4},
+  issue        = {1},
+  pages        = {31--46},
+  date         = {2008},
+  doi          = {10.3763/aedm.2008.S807},
+  url          = {http://dx.doi.org/10.3763/aedm.2008.S807},
+  keywords     = {RLW-3}
+}
+
+@ARTICLE{Kohler2006-ee,
+  title        = {A European Perspective on the Pearce Report: Policy and
+                  Research},
+  author       = {Kohler, Niklaus},
+  journaltitle = {Building Research \& Information},
+  volume       = {34},
+  issue        = {3},
+  pages        = {287--294},
+  date         = {2006},
+  keywords     = {RLW-3}
+}
