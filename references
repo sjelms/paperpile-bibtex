@@ -74683,7 +74683,7 @@
   location  = {Basingstoke},
   date      = {2000},
   note      = {Assigned reading: Part II, Chapters 4, 5, and 6},
-  keywords  = {RLW-3}
+  keywords  = {RLW-3;EoC-Essential}
 }
 
 @ARTICLE{Ruddock2011-uk,
@@ -74695,7 +74695,7 @@
   issue        = {12},
   pages        = {1229--1239},
   date         = {2011},
-  keywords     = {RLW-3}
+  keywords     = {RLW-3;EoC-Essential}
 }
 
 @REPORT{Pearce2003-yd,
@@ -74707,7 +74707,7 @@
   location    = {London},
   date        = {2003},
   note        = {Commonly referred to as the Pearce Report},
-  keywords    = {RLW-3}
+  keywords    = {RLW-3;EoC-Essential}
 }
 
 @ARTICLE{Abdel-Wahab2011-uv,
@@ -74719,5 +74719,5 @@
   issue        = {6},
   pages        = {635--644},
   date         = {2011},
-  keywords     = {RLW-3}
+  keywords     = {RLW-3;EoC-Essential}
 }
