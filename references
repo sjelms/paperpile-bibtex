@@ -74735,19 +74735,6 @@
   keywords     = {RLW-3;EoC-Further}
 }
 
-@ARTICLE{Fernandez-Solis2008-zv,
-  title        = {The Systemic Nature of the Construction Industry},
-  author       = {Fernández-Solís, José L},
-  journaltitle = {Architectural Engineering and Design Management},
-  volume       = {4},
-  issue        = {1},
-  pages        = {31--46},
-  date         = {2008},
-  doi          = {10.3763/aedm.2008.S807},
-  url          = {http://dx.doi.org/10.3763/aedm.2008.S807},
-  keywords     = {RLW-3;EoC-Further}
-}
-
 @ARTICLE{Kohler2006-ee,
   title        = {A European Perspective on the Pearce Report: Policy and
                   Research},
@@ -74757,5 +74744,41 @@
   issue        = {3},
   pages        = {287--294},
   date         = {2006},
+  keywords     = {RLW-3;EoC-Further}
+}
+
+@ARTICLE{Fernandez-Solis2008-zv,
+  title        = {The Systemic Nature of the Construction Industry},
+  author       = {Fernández-Solís, José L},
+  journaltitle = {Architectural Engineering and Design Management},
+  volume       = {4},
+  issue        = {1},
+  pages        = {31--46},
+  date         = {2008},
+  doi          = {10.3763/aedm.2008.S807},
+  abstract     = {This paper addresses the ‘know why’ we build by looking first
+                  at the systemic nature and complexity that informs the
+                  construction industry's current paradigm. An objective of this
+                  paper is to present how the construction industry's reigning
+                  paradigm is driven by an obfuscating
+                  manufacturing—industrial—engineering mindset. Under the NAICS
+                  (North American Industry Classification System of the US
+                  Census Bureau), the construction industry is listed in the
+                  service sector of the economy under section 23 and is broken
+                  down into many categories, such as Buildings (236) and Heavy
+                  and Civil (237). Construction is considered a ‘basic
+                  industry’, like manufacturing, mining, fishing and farming.
+                  This industrial classification system implies a
+                  scientific—industrial—manufacturing—managing paradigm that is
+                  expected to overarch all industries. Over the past 10 years,
+                  Latham (1994) and Egan (1998, 2002) have challenged the
+                  industry to improve its efficiency as well as the quality of
+                  its output. Failure by the ndustry to achieve these
+                  efficiencies points to a lack of understanding of the systemic
+                  nature of the industry. The author is interested in the ‘why’
+                  that explains the ‘how’. If construction cannot be viewed in
+                  the same light as a manufacturing industry, then what is the
+                  paradigm of the construction industry?},
+  url          = {http://dx.doi.org/10.3763/aedm.2008.S807},
   keywords     = {RLW-3;EoC-Further}
 }
