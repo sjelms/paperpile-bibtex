@@ -29866,18 +29866,6 @@
   keywords  = {RLW-3;EoC-Essential}
 }
 
-@ARTICLE{Ruddock2011-uk,
-  title        = {Evaluation of Trends in the {UK} Construction Industry Using
-                  Growth and Productivity Accounts},
-  author       = {Ruddock, Les and Ruddock, Steven},
-  journaltitle = {Construction Management and Economics},
-  volume       = {29},
-  issue        = {12},
-  pages        = {1229--1239},
-  date         = {2011},
-  keywords     = {RLW-3;EoC-Essential}
-}
-
 @ARTICLE{Fernandez-Solis2008-zv,
   title        = {The Systemic Nature of the Construction Industry},
   author       = {Fernández-Solís, José L},
@@ -30020,6 +30008,38 @@
                   OECD countries is a prerequisite for effective intervention of
                   policy makers to support sustained productivity growth.},
   url          = {https://doi.org/10.1080/01446193.2011.573568},
+  keywords     = {RLW-3;EoC-Essential}
+}
+
+@ARTICLE{Ruddock2011-uk,
+  title        = {Evaluation of Trends in the {UK} Construction Industry Using
+                  Growth and Productivity Accounts},
+  author       = {Ruddock, Les and Ruddock, Steven},
+  journaltitle = {Construction Management and Economics},
+  volume       = {29},
+  issue        = {12},
+  pages        = {1229--1239},
+  date         = {2011},
+  doi          = {10.1080/01446193.2011.645494},
+  abstract     = {For an assessment of the productivity performance of
+                  construction at the industry level, the quality of any
+                  analysis can be improved by the availability and use of
+                  detailed data on the basic components of the industry’s
+                  production function. The EU KLEMS Growth and Productivity
+                  Accounts comprise a dataset that provides a rich source of
+                  information on the sources of growth by industry, one of which
+                  is the construction industry (ISIC 45), since the 1970s for
+                  European Union countries and other major economies. The
+                  database allows a breakdown of factor inputs by the
+                  categorization of capital inputs into asset types and labour
+                  inputs into components such as skill levels to provide more
+                  precise measurement of sources of growth at industry level.
+                  The UK construction sector forms the focal point of the
+                  analysis and the results of this analysis provide evidence of
+                  a steady increase in the growth of ICT and improved labour
+                  skills usage and a relatively high rate of total factor
+                  productivity for the UK construction industry.},
+  url          = {https://doi.org/10.1080/01446193.2011.645494},
   keywords     = {RLW-3;EoC-Essential}
 }
 
