@@ -28364,6 +28364,14 @@
   language  = {en}
 }
 
+@INPROCEEDINGS{Roegel2010-ty,
+  title  = {The great logarithmic and trigonometric tables of the French
+            Cadastre: a preliminary investigation},
+  author = {Roegel, Denis},
+  date   = {2010},
+  url    = {https://api.semanticscholar.org/CorpusID:63575991}
+}
+
 @ARTICLE{Bennett2014-zw,
   title        = {A Radical Critique of the Learning Outcomes Assessment
                   Movement},
