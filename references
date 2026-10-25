@@ -29892,6 +29892,41 @@
   keywords    = {RLW-3;AEC;EoC-Essential}
 }
 
+@ARTICLE{Hennessy2003-ol,
+  title        = {Worker responses to technological change in the Canadian
+                  public sector: issues of learning and labour process},
+  author       = {Hennessy, Trish and Sawchuk, Peter H},
+  journaltitle = {The Journal of Workplace Learning},
+  publisher    = {Emerald},
+  volume       = {15},
+  issue        = {7/8},
+  pages        = {319--325},
+  date         = {2003-12-01},
+  doi          = {10.1108/13665620310504792},
+  issn         = {1366-5626,1758-7859},
+  abstract     = {This article reports selected findings from a study on the
+                  changing nature of work, learning and technology in the
+                  Canadian public sector (Ontario). Vis‐à‐vis the involvement of
+                  a major management consultant firm, these findings mirror the
+                  experiences at the nexus of policy, labour process and
+                  technology, seen in several other western countries. The
+                  authors examined workers’ learning responses to management‐led
+                  introduction of a leading edge, Web‐based social service
+                  delivery system. The paper shows how neo‐Taylorist principles
+                  have shaped work design, and argues that the result has been a
+                  high‐tech form of “de‐skilling” (Braverman) in which
+                  semi‐professionalized case management workers’ skill/knowledge
+                  sets have been systematically broken down. The process has
+                  been contested however. Workers have sought to learn and
+                  re‐skill, generating not only specific computer‐based skills
+                  (or “work‐arounds”) but more general, collective cultures of
+                  learning within the everyday life of work. This learning is
+                  sometimes in keeping with managerial interests, and sometimes
+                  not.},
+  url          = {http://dx.doi.org/10.1108/13665620310504792},
+  language     = {en}
+}
+
 @ARTICLE{Fernandez-Solis2008-zv,
   title        = {The Systemic Nature of the Construction Industry},
   author       = {Fernández-Solís, José L},
