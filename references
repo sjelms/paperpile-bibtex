@@ -28376,7 +28376,8 @@
   abstract    = {This document is a first investigation of the ''Tables du
                  cadastre,'' Prony's effort to build the greatest monument of
                  science of the French Revolution.},
-  url         = {https://inria.hal.science/inria-00543946/en}
+  url         = {https://inria.hal.science/inria-00543946/en},
+  keywords    = {Economics;Report}
 }
 
 @ARTICLE{Bennett2014-zw,
