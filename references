@@ -28364,12 +28364,19 @@
   language  = {en}
 }
 
-@INPROCEEDINGS{Roegel2010-ty,
-  title  = {The great logarithmic and trigonometric tables of the French
-            Cadastre: a preliminary investigation},
-  author = {Roegel, Denis},
-  date   = {2010},
-  url    = {https://api.semanticscholar.org/CorpusID:63575991}
+@REPORT{Roegel2010-ty,
+  type        = {resreport},
+  title       = {The Great Logarithmic and Trigonometric Tables of the French
+                 Cadastre: A Preliminary Investigation},
+  author      = {Roegel, Denis},
+  institution = {Laboratoire lorrain de Recherche en Informatique et ses
+                 Applications},
+  date        = {2010-12-14},
+  pagetotal   = {232},
+  abstract    = {This document is a first investigation of the ''Tables du
+                 cadastre,'' Prony's effort to build the greatest monument of
+                 science of the French Revolution.},
+  url         = {https://inria.hal.science/inria-00543946/en}
 }
 
 @ARTICLE{Bennett2014-zw,
