@@ -75058,14 +75058,36 @@
   keywords  = {RLW-4;EoC-Essential}
 }
 
-@ARTICLE{Du-Moutier2010-dn,
+@ARTICLE{Lyonnet-du-Moutier2010-nz,
   title        = {Financing the Eiffel Tower: Project Finance and Agency Theory},
-  author       = {Du Moutier, Michel},
+  author       = {Lyonnet du Moutier, Michel J},
   journaltitle = {Journal of Applied Finance},
   volume       = {20},
   issue        = {1},
   pages        = {127--141},
   date         = {2010},
-  url          = {https://ucl-new-primo.hosted.exlibrisgroup.com/permalink/f/1klfcc3/TN_cdi_proquest_journals_894771510},
+  abstract     = {The City of Paris's Eiffel Tower, the world's tallest
+                  structure at its completion in 1889, has come to symbolize
+                  Europe itself. It is an embodiment of what we now call project
+                  finance. Under this model, a public grantor awards a
+                  concession to a projects private sponsor. The sponsor builds
+                  the project, financing it with equity and (mostly)
+                  limited-recourse debt, and uses revenues from operation of the
+                  project to service the debt. At the end of the concession, the
+                  sponsor or builder returns the infrastructure of the project
+                  to the public authority. The success of project finance
+                  depends on an optimal allocation of risks among all parties,
+                  including principals and agents. Agency theory provides us a
+                  way to characterize the myriad problems arising from
+                  agent-principal conflicts in such large complex projects in
+                  the modern corporate world. A positive agency theory model is
+                  built here through a detailed analysis of property rights
+                  exchanged in the transactions needed to build the Eiffel
+                  Tower. Analysis of the original financial documents and
+                  contracts for the Tower reveals how specific provisions in the
+                  contracts combined to reduce agency costs all around. Thus a
+                  model derived from positive agency theory may help us better
+                  understand modern project finance.},
+  url          = {https://ssrn.com/abstract=2693123},
   keywords     = {RLW-4;EoC-Essential}
 }
