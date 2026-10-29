@@ -75028,6 +75028,33 @@
   language  = {en}
 }
 
+@ARTICLE{Jensen1976-zb,
+  title        = {Theory of the Firm: Managerial Behavior, Agency Costs and
+                  Ownership Structure},
+  author       = {Jensen, Michael C and Meckling, William H},
+  journaltitle = {Journal of Financial Economics},
+  volume       = {3},
+  issue        = {4},
+  pages        = {305--360},
+  date         = {1976},
+  doi          = {10.1016/0304-405X(76)90026-X},
+  url          = {http://dx.doi.org/10.1016/0304-405X(76)90026-X},
+  keywords     = {RLW-4}
+}
+
+@ARTICLE{Shah1987-sw,
+  title        = {Optimal Capital Structure and Project Financing},
+  author       = {Shah, Salman and Thakor, Anjan V},
+  journaltitle = {Journal of Economic Theory},
+  volume       = {42},
+  issue        = {2},
+  pages        = {209--243},
+  date         = {1987},
+  doi          = {10.1016/0022-0531(87)90086-X},
+  url          = {http://dx.doi.org/10.1016/0022-0531(87)90086-X},
+  keywords     = {RLW-4}
+}
+
 @BOOK{Finnerty2013-tp,
   title     = {Project Financing: Asset-Based Financial Engineering},
   author    = {Finnerty, John D},
@@ -75056,6 +75083,29 @@
   url       = {http://dx.doi.org/10.1002/9781119204169},
   note      = {Assigned reading: Chapters 1, 8, and 9},
   keywords  = {RLW-4;EoC-Essential}
+}
+
+@BOOK{Gruneberg2000-aj,
+  title     = {The Economics of the Modern Construction Firm},
+  author    = {Gruneberg, Stephen L and Ive, Graham J},
+  publisher = {Macmillan},
+  location  = {Basingstoke},
+  date      = {2000},
+  note      = {Assigned reading: Chapters 5, 6, 9, and 10},
+  keywords  = {RLW-4}
+}
+
+@INBOOK{Pretorius2012-yw,
+  title     = {Project and Asset Finance},
+  author    = {Pretorius, F},
+  booktitle = {Handbook of Key Global Financial Markets, Institutions, and
+               Infrastructure},
+  publisher = {Academic Press},
+  pages     = {533--545},
+  date      = {2012},
+  chapter   = {48},
+  url       = {https://www.sciencedirect.com/science/article/pii/B9780123978738000323},
+  keywords  = {RLW-4}
 }
 
 @ARTICLE{du-Moutier2010-sx,
