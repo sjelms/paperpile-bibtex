@@ -75103,8 +75103,9 @@
   publisher = {Academic Press},
   pages     = {533--545},
   date      = {2012},
+  doi       = {10.1016/B978-0-12-397873-8.00032-3},
   chapter   = {48},
-  url       = {https://www.sciencedirect.com/science/article/pii/B9780123978738000323},
+  url       = {http://dx.doi.org/10.1016/B978-0-12-397873-8.00032-3},
   keywords  = {RLW-4}
 }
 
