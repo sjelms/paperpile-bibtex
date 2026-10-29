@@ -75035,8 +75035,25 @@
   location  = {Hoboken, NJ},
   edition   = {3},
   date      = {2013},
+  pagetotal = {541},
+  doi       = {10.1002/9781119204169},
   isbn      = {9781118394106},
-  url       = {https://ucl-new-primo.hosted.exlibrisgroup.com/permalink/f/1klfcc3/TN_cdi_askewsholts_vlebooks_9781118421840},
+  abstract  = {As an effective alternative to conventional direct financing,
+               project financing has become one of the hottest topics in
+               corporate finance. It's being used more and more frequently—and
+               more successfully—on a wide variety of high-profile corporate
+               projects, and has long been used to fund large-scale natural
+               resource projects. But the challenges of successful project
+               financing are immense, and the requirements of the process can
+               easily be misunderstood. That's why John Finnerty has returned
+               with the Third Edition of Project Financing.Drawing on his vast
+               experience in the field, Finnerty takes you through the process
+               step by step. Using updated examples and case studies that
+               illustrate how to apply the analytical techniques described in
+               the book, he covers the rationale for project financing, how to
+               prepare the financial plan, assess the risks, design the
+               financing mix, raise the funds, and much more.},
+  url       = {http://dx.doi.org/10.1002/9781119204169},
   note      = {Assigned reading: Chapters 1, 8, and 9},
   keywords  = {RLW-4;EoC-Essential}
 }
