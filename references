@@ -75095,20 +75095,6 @@
   keywords  = {RLW-4}
 }
 
-@INBOOK{Pretorius2012-yw,
-  title     = {Project and Asset Finance},
-  author    = {Pretorius, F},
-  booktitle = {Handbook of Key Global Financial Markets, Institutions, and
-               Infrastructure},
-  publisher = {Academic Press},
-  pages     = {533--545},
-  date      = {2012},
-  doi       = {10.1016/B978-0-12-397873-8.00032-3},
-  chapter   = {48},
-  url       = {http://dx.doi.org/10.1016/B978-0-12-397873-8.00032-3},
-  keywords  = {RLW-4}
-}
-
 @ARTICLE{du-Moutier2010-sx,
   title        = {Financing the Eiffel Tower: Project Finance and Agency Theory},
   author       = {du Moutier, Michel Lyonnet},
@@ -75141,4 +75127,33 @@
                   understand modern project finance.},
   url          = {https://ssrn.com/abstract=2693123},
   keywords     = {RLW-4;EoC-Essential}
+}
+
+@INBOOK{Pretorius2012-yw,
+  title     = {Project and Asset Finance},
+  author    = {Pretorius, Frederik I H},
+  editor    = {Caprio, Jr, Gerard and Arner, Douglas W and Beck, Thorsten and
+               Calomiris, Charles W and Neal, Larry and Veron, Nicolas},
+  booktitle = {Handbook of Key Global Financial Markets, Institutions, and
+               Infrastructure},
+  publisher = {Academic Press},
+  pages     = {533--545},
+  date      = {2012},
+  doi       = {10.1016/B978-0-12-397873-8.00032-3},
+  abstract  = {This chapter reviews financing of projects and selected
+               capital-intensive asset classes including ships and aircraft and
+               concentrates on asset-backed debt financing within conventional
+               corporate finance and capital market frameworks. Project finance
+               typically relies on revenue-based collateral and requires
+               extensive contracting to secure, because some fixed project
+               assets are often not easily secondary tradable. Ship financing
+               relies for collateral on both charter-backed revenue and residual
+               values in secondary asset markets. Aircraft, the least
+               asset-specific of these asset classes, are extensively operating
+               leased, and large-scale, diversified capital market-based leasing
+               corporations have developed. Capital market finance has increased
+               over time with all three asset classes.},
+  chapter   = {48},
+  url       = {http://dx.doi.org/10.1016/B978-0-12-397873-8.00032-3},
+  keywords  = {RLW-4}
 }
