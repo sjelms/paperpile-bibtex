@@ -75038,7 +75038,7 @@
   isbn      = {9781118394106},
   url       = {https://ucl-new-primo.hosted.exlibrisgroup.com/permalink/f/1klfcc3/TN_cdi_askewsholts_vlebooks_9781118421840},
   note      = {Assigned reading: Chapters 1, 8, and 9},
-  keywords  = {RLW-4}
+  keywords  = {RLW-4;EoC-Essential}
 }
 
 @ARTICLE{Du-Moutier2010-dn,
@@ -75050,5 +75050,5 @@
   pages        = {127--141},
   date         = {2010},
   url          = {https://ucl-new-primo.hosted.exlibrisgroup.com/permalink/f/1klfcc3/TN_cdi_proquest_journals_894771510},
-  keywords     = {RLW-4}
+  keywords     = {RLW-4;EoC-Essential}
 }
