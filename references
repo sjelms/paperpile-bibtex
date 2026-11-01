@@ -20370,16 +20370,16 @@
 
 @PROCEEDINGS{Ruddock2017-mz,
   title     = {International Research Conference 2017 : Shaping Tomorrow's Built
-               Environment - conference proceedings},
+               Environment—conference proceedings},
   author    = {Ruddock, L and Van-Dijk, H and Houghton, C A M},
-  editor    = {Ruddock, L and Van-Dijk, H and Houghton, C A M},
+  editor    = {Elkadi, Hisham and Ruddock, Les and Pathirage, Chaminda and
+               Abbott, Carl and van Dijk, Hanneke and Houghton, Charlotte},
   publisher = {University of Salford},
   location  = {Salford, UK},
-  pages     = {1048},
   date      = {2017-10},
+  pagetotal = {1050},
   isbn      = {9781912337040},
   url       = {https://usir.salford.ac.uk/id/eprint/44058/7/IRC2017_Proceedings_12102017_optimised.pdf},
-  urldate   = {2022-11-17},
   keywords  = {AEC},
   language  = {en}
 }
