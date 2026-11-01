@@ -20368,19 +20368,6 @@
                Computing Machinery;ACM}
 }
 
-@PROCEEDINGS{Ruddock2017-mz,
-  title     = {International Research Conference 2017: Shaping Tomorrow's Built
-               Environment—conference proceedings},
-  author    = {Ruddock, L and Van-Dijk, H and Houghton, C A M},
-  publisher = {University of Salford},
-  location  = {Salford, UK},
-  date      = {2017-10},
-  pagetotal = {1050},
-  isbn      = {9781912337040},
-  keywords  = {AEC},
-  language  = {en}
-}
-
 @ARTICLE{Lin2008-gc,
   title        = {Knowledge sharing and creation in a teachers’ professional
                   virtual community},
@@ -75128,6 +75115,34 @@
   url          = {http://dx.doi.org/10.1108/02686900310474343},
   keywords     = {EoC [BCPM0001]},
   language     = {en}
+}
+
+@PROCEEDINGS{Ruddock2017-mz,
+  title     = {International Research Conference 2017: Shaping Tomorrow's Built
+               Environment—conference proceedings},
+  author    = {Ruddock, L and Van-Dijk, H and Houghton, C A M},
+  editor    = {Elkadi, Hisham and Ruddock, Les and Pathirage, Chaminda and
+               Abbott, Carl and van Dijk, Hanneke and Houghton, Charlotte},
+  publisher = {University of Salford},
+  location  = {Salford, UK},
+  date      = {2017-10},
+  pagetotal = {1050},
+  isbn      = {9781912337040},
+  abstract  = {Welcome to the 13th International Postgraduate Research
+               Conference (IPGRC 2017) hosted by the School of the Built
+               Environment at University of Salford, UK. This year’s IPGRC is
+               organised as part of the International Research Week 2017-
+               ‘Shaping Tomorrow’s Built Environment: Construction and Design
+               for the Modern World’ and also the year we celebrate the 50th
+               anniversary of Salford as a University, which makes this year’s
+               conference very special. This conference creates a unique
+               opportunity for researchers from Salford and other parts of the
+               world to share their research interests, and outputs and to
+               network and interact within a professional and friendly
+               environment, with high profile academics and leaders within the
+               built environment.},
+  keywords  = {AEC},
+  language  = {en}
 }
 
 @ARTICLE{Shah1987-sw,
