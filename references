@@ -47973,11 +47973,12 @@
 @INBOOK{Winch2011-uh,
   title     = {Skill – A Concept Manufactured in England?},
   author    = {Winch, Christopher},
+  editor    = {Brockmann, Michaela and Clarke, Linda and Winch, Christopher},
   booktitle = {Knowledge, Skills, and Competence in the European Labour Market:
                What’s in a Vocational Qualification?},
   publisher = {Routledge},
   location  = {London, England},
-  edition   = {1st Edition},
+  edition   = {1},
   pages     = {101--117},
   date      = {2011-05-13},
   doi       = {10.4324/9780203814796-14},
@@ -47996,8 +47997,7 @@
                conceptual basis of the system and the domination of ‘skills’ in
                the policy agenda – from Sector Skills Councils (SSCs) to the
                Leitch Review (2006) on World Class Skills .},
-  url       = {https://www.taylorfrancis.com/chapters/edit/10.4324/9780203814796-7/skill-concept-manufactured-england-christopher-winch?context=ubx&refId=e7ee262d-baf5-4af1-964b-ca7f5e4cb18f},
-  urldate   = {2026-11-01}
+  url       = {https://www.taylorfrancis.com/chapters/edit/10.4324/9780203814796-7/skill-concept-manufactured-england-christopher-winch?context=ubx&refId=e7ee262d-baf5-4af1-964b-ca7f5e4cb18f}
 }
 
 @INBOOK{Clarke2011-aq,
