@@ -3074,7 +3074,8 @@
                qualifications. The book draws on case studies of particular
                sectors and occupations in England, France, Germany and the
                Netherlands.},
-  url       = {http://dx.doi.org/10.4324/9780203814796}
+  url       = {http://dx.doi.org/10.4324/9780203814796},
+  keywords  = {Book (parent)}
 }
 
 @ARTICLE{Foster2024-at,
