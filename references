@@ -22320,6 +22320,40 @@
   keywords   = {TCOT 2024 Poster;\_New Literature;\_XR MR VR AR}
 }
 
+@ARTICLE{Paulson1976-fe,
+  title        = {Designing to reduce construction costs},
+  author       = {Paulson, Jr, Boyd C},
+  journaltitle = {Journal of the Construction Division},
+  publisher    = {American Society of Civil Engineers (ASCE)},
+  volume       = {102},
+  issue        = {4},
+  pages        = {587--592},
+  date         = {1976-12},
+  doi          = {10.1061/jcceaz.0000639},
+  issn         = {0569-7948},
+  abstract     = {This paper describes interrelationships between engineering
+                  design, construction, and operation costs for a facility, and
+                  shows how the level of influence over those costs decreases
+                  precipitously as the project evolves. The level of influence
+                  is by far the greatest during engineering and design, while
+                  actual expenditures at that stage are relatively small. The
+                  level of influence concept can be helpful in forming
+                  contractual arrangements that minimize the suboptimization of
+                  costs for one party at the expense of overall project costs
+                  and benefits. Contractual arrangements should be drawn so as
+                  to assure that current construction and operations knowledge
+                  will be injected in the design process. Construction
+                  Management and design-construct, if appropriately tailored to
+                  the needs of a particular situation, can be helpful for this
+                  purpose. A second important conclusion is that efforts to
+                  suboptimize design costs by requiring competitive bidding for
+                  professional services are likely to produce much higher
+                  project costs in the long run.},
+  url          = {http://dx.doi.org/10.1061/jcceaz.0000639},
+  keywords     = {EoC [BCPM0001]},
+  language     = {en}
+}
+
 @ARTICLE{Bader2025-xa,
   title        = {Utilization of adult learning theories for effective virtual
                   reality safety training in construction},
