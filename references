@@ -30251,7 +30251,7 @@
   date         = {1987},
   doi          = {10.1016/0022-0531(87)90086-X},
   url          = {http://dx.doi.org/10.1016/0022-0531(87)90086-X},
-  keywords     = {RLW-4}
+  keywords     = {RLW-4;EoC-Further}
 }
 
 @BOOK{Finnerty2013-tp,
@@ -30344,7 +30344,7 @@
                over time with all three asset classes.},
   chapter   = {48},
   url       = {http://dx.doi.org/10.1016/B978-0-12-397873-8.00032-3},
-  keywords  = {RLW-4}
+  keywords  = {RLW-4;EoC-Further}
 }
 
 @ARTICLE{Jensen1976-zb,
@@ -30370,7 +30370,7 @@
                   of debt and equity claims is a special case of the supply side
                   of the completeness of markets problem.},
   url          = {http://dx.doi.org/10.1016/0304-405X(76)90026-X},
-  keywords     = {RLW-4}
+  keywords     = {RLW-4;EoC-Further}
 }
 
 @ARTICLE{De_Jong2013-st,
