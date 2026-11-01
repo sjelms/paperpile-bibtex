@@ -3076,8 +3076,8 @@
                sectors and occupations in England, France, Germany and the
                Netherlands.},
   url       = {http://dx.doi.org/10.4324/9780203814796},
-  keywords  = {EPubs Books;Book (parent);Knowledge - Skill Acquisition;Skill
-               demand;VET;Labor;ePub;git-lit}
+  keywords  = {EPubs Books;\_BibTex to MD Git;Book (parent);Knowledge - Skill
+               Acquisition;Skill demand;VET;Labor;ePub;git-lit}
 }
 
 @ARTICLE{Foster2024-at,
@@ -4709,8 +4709,8 @@
                ‘occupations’ and ‘trades’ in this sense are distinguished from
                ‘jobs’, which are bound to a single workplace.},
   url       = {http://dx.doi.org/10.4324/9780203814796-15},
-  keywords  = {Book (child);VET;Knowledge - Skill Acquisition;Skill
-               demand;Labor;git-lit;ePub}
+  keywords  = {\_BibTex to MD Git;Book (child);VET;Knowledge - Skill
+               Acquisition;Skill demand;Labor;git-lit;ePub}
 }
 
 @BOOK{Bessen2015-qr,
