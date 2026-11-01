@@ -3054,11 +3054,11 @@
 
 @BOOK{Brockmann2011-xs,
   title     = {Knowledge, skills and competence in the European labour market},
-  author    = {Brockmann, Michaela and Clarke, Linda and Winch, Christopher},
+  editor    = {Brockmann, Michaela and Clarke, Linda and Winch, Christopher},
   publisher = {Routledge},
   location  = {London, England},
   date      = {2011-05-13},
-  pagetotal = {18},
+  pagetotal = {224},
   doi       = {10.4324/9780203814796},
   isbn      = {9781136709678,9781136709678},
   abstract  = {For the free movement of labour across the European Union,
