@@ -23769,6 +23769,41 @@
   keywords     = {RLW-2;EoC-Further}
 }
 
+@ARTICLE{Betts1992-na,
+  title        = {Strategic Planning for Competitive Advantage in Construction},
+  author       = {Betts, Martin and Ofori, George},
+  journaltitle = {Construction Management and Economics},
+  volume       = {10},
+  issue        = {6},
+  pages        = {511--532},
+  date         = {1992},
+  doi          = {10.1080/01446199200000049},
+  abstract     = {This paper outlines the developments in strategic planning
+                  exemplified by the works of Porter (1979, 1985, 1990) and
+                  others. After describing the emerging concepts and techniques,
+                  it is observed that these have been applied by enterprises in
+                  other sectors of the economy in pursuit of competitive
+                  advantage. Such applications are taking place at the level of
+                  parts of an enterprise's operations and at the overall
+                  corporate level. This is contrasted with the situation in
+                  construction where strategic planning at any level is less
+                  widespread, although it is becoming more common. Several
+                  reasons are identified as hindrances to strategic planning in
+                  construction. The current and historical situation with regard
+                  to planning in construction is described. The ways in which
+                  strategic planning can be applied by construction enterprises
+                  are outlined. In conclusion, it is observed that Porter's new
+                  concepts of strategic planning have relevance to, and
+                  considerable scope for application in, construction
+                  enterprises. It is suggested that the changing nature of the
+                  task of the construction industry and the dynamism of its
+                  operating environment imply that the strategic planning
+                  techniques put forward by Porter are vital for the survival
+                  and progress of construction enterprises of all types.},
+  url          = {https://doi.org/10.1080/01446199200000049},
+  keywords     = {RLW-5;EoC-Essential}
+}
+
 @ARTICLE{Van_Rooij2021-qt,
   title        = {Factors That Influence Phd Candidates’ Success: The Importance
                   of {PhD} Project Characteristics},
@@ -64002,17 +64037,6 @@
   url          = {https://infed.org/malcolm-knowles-informal-adult-education-self-direction-and-andragogy/},
   keywords     = {Journal Articles;\_BibTex to MD Git;Andragogy;\_New
                   Literature;git-lit}
-}
-
-@ARTICLE{Betts1992-na,
-  title        = {Strategic Planning for Competitive Advantage in Construction},
-  author       = {Betts, Martin and Ofori, George},
-  journaltitle = {Construction Management and Economics},
-  volume       = {10},
-  issue        = {6},
-  pages        = {511--532},
-  date         = {1992},
-  keywords     = {RLW-5;EoC-Essential}
 }
 
 @ONLINE{HUD-User2022-ip,
