@@ -39986,7 +39986,7 @@
   date         = {2010},
   doi          = {10.1257/jep.24.2.145},
   url          = {http://dx.doi.org/10.1257/jep.24.2.145},
-  keywords     = {RLW-5}
+  keywords     = {RLW-5;EoC-Further}
 }
 
 @ARTICLE{Autor2015-me,
@@ -54635,7 +54635,7 @@
   publisher = {Routledge},
   pages     = {249--275},
   date      = {2022},
-  keywords  = {RLW-5}
+  keywords  = {RLW-5;EoC-Further}
 }
 
 @INBOOK{Sword2012-qk,
@@ -68904,7 +68904,7 @@
   pages        = {13--35},
   date         = {2000},
   url          = {https://ucl-new-primo.hosted.exlibrisgroup.com/permalink/f/1klfcc3/TN_cdi_gale_businessinsightsgauss_A62327583},
-  keywords     = {RLW-5}
+  keywords     = {RLW-5;EoC-Further}
 }
 
 @BOOK{Abiad2023-gb,
@@ -70585,7 +70585,7 @@
   issue        = {4},
   pages        = {207--216},
   date         = {2008},
-  keywords     = {RLW-5}
+  keywords     = {RLW-5;EoC-Further}
 }
 
 @INBOOK{Grier2005-bm,
@@ -72109,7 +72109,7 @@
   issue        = {4},
   pages        = {30--41},
   date         = {1980},
-  keywords     = {RLW-5}
+  keywords     = {RLW-5;EoC-Further}
 }
 
 @BOOK{Denzin2023-mp,
