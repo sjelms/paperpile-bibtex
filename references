@@ -28591,6 +28591,37 @@
   language  = {en}
 }
 
+@BOOK{Sloman2024-ut,
+  title     = {Economics for Business},
+  author    = {Sloman, John and Garratt, Dean and Guest, Jon and Jones,
+               Elizabeth},
+  publisher = {Financial Times Prentice Hall},
+  location  = {Harlow},
+  edition   = {9},
+  date      = {2024},
+  isbn      = {9781292440194},
+  abstract  = {Develop an understanding of economics applied to the world of
+               business. Economics for Business, 9th Edition is the ideal
+               textbook for students studying Economics as part of a Business
+               Studies degree or diploma. Clear, engaging, and packed with
+               useful features, the text introduces the key principles of
+               economics, illustrating how they can be used to understand real
+               business problems and aspects of the business environment. The
+               new, thoroughly updated edition reflects recent events that have
+               shaken the business world. These include the Covid-19 pandemic,
+               Brexit, and rampant inflation caused first by supply-chain
+               problems after global lockdowns and then by the surge in energy
+               and food prices following the invasion of Ukraine. Each chapter
+               includes topical examples, news stories, and case studies from
+               real businesses to explain and illustrate key economic concepts,
+               as well as activities, questions, and useful summaries to help
+               you check your understanding},
+  note      = {Assigned reading: Chapters 4, 5, 10 and
+               11https://media.pearsoncmg.com/intl/ema/ema\_uk\_he\_sloman\_economics\_business\_9e/cw/
+},
+  keywords  = {RLW-5;EoC-Essential}
+}
+
 @ARTICLE{James1997-rh,
   title        = {Funding the early Gothic churches of the Paris basin},
   author       = {James, John},
@@ -30610,35 +30641,6 @@
   pages        = {30--41},
   date         = {1980},
   keywords     = {RLW-5;EoC-Further}
-}
-
-@BOOK{Sloman2024-ut,
-  title     = {Economics for Business},
-  author    = {Sloman, John and Garratt, Dean and Guest, Jon and Jones,
-               Elizabeth},
-  publisher = {Financial Times Prentice Hall},
-  location  = {Harlow},
-  edition   = {9},
-  date      = {2024},
-  isbn      = {9781292440194},
-  abstract  = {Develop an understanding of economics applied to the world of
-               business. Economics for Business, 9th Edition is the ideal
-               textbook for students studying Economics as part of a Business
-               Studies degree or diploma. Clear, engaging, and packed with
-               useful features, the text introduces the key principles of
-               economics, illustrating how they can be used to understand real
-               business problems and aspects of the business environment. The
-               new, thoroughly updated edition reflects recent events that have
-               shaken the business world. These include the Covid-19 pandemic,
-               Brexit, and rampant inflation caused first by supply-chain
-               problems after global lockdowns and then by the surge in energy
-               and food prices following the invasion of Ukraine. Each chapter
-               includes topical examples, news stories, and case studies from
-               real businesses to explain and illustrate key economic concepts,
-               as well as activities, questions, and useful summaries to help
-               you check your understanding},
-  note      = {Assigned reading: Chapters 4, 5, 10 and 11},
-  keywords  = {RLW-5;EoC-Essential}
 }
 
 @ARTICLE{Lazonick2000-vw,
