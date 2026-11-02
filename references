@@ -29890,19 +29890,6 @@
   keywords  = {RLW-5;EoC-Essential;Book (child);ePub}
 }
 
-@ARTICLE{Einav2010-jj,
-  title        = {Empirical Industrial Organization: A Progress Report},
-  author       = {Einav, Liran and Levin, Jonathan},
-  journaltitle = {Journal of Economic Perspectives},
-  volume       = {24},
-  issue        = {2},
-  pages        = {145--162},
-  date         = {2010},
-  doi          = {10.1257/jep.24.2.145},
-  url          = {http://dx.doi.org/10.1257/jep.24.2.145},
-  keywords     = {RLW-5;EoC-Further}
-}
-
 @ARTICLE{Prawat2000-ou,
   title        = {Dewey Meets the "Mozart of Psychology" in Moscow: The Untold
                   Story},
@@ -30709,6 +30696,43 @@
                   of the factors for competitive advantage of nations in
                   international construction markets.},
   url          = {http://dx.doi.org/10.1061/(ASCE)0742-597X(2008)24:4(207)},
+  keywords     = {RLW-5;EoC-Further}
+}
+
+@ARTICLE{Einav2010-jj,
+  title        = {Empirical Industrial Organization: A Progress Report},
+  author       = {Einav, Liran and Levin, Jonathan},
+  journaltitle = {Journal of Economic Perspectives},
+  volume       = {24},
+  issue        = {2},
+  pages        = {145--162},
+  date         = {2010},
+  doi          = {10.1257/jep.24.2.145},
+  abstract     = {The field of industrial organization has made dramatic
+                  advances over the last few decades in developing empirical
+                  methods for analyzing imperfect competition and the
+                  organization of markets. These new methods have diffused
+                  widely: into merger reviews and antitrust litigation,
+                  regulatory decision making, price setting by retailers, the
+                  design of auctions and marketplaces, and into neighboring
+                  fields in economics, marketing, and engineering. Increasing
+                  access to firm-level data and in some cases the ability to
+                  cooperate with firms or governments in experimental research
+                  designs is offering new settings and opportunities to apply
+                  these ideas in empirical work. This essay begins with a sketch
+                  of how the field has evolved to its current state, in
+                  particular how the field's emphasis has shifted over time from
+                  attempts to relate aggregate measures across industries toward
+                  more focused studies of individual industries. The second and
+                  primary part of the essay describes several active areas of
+                  inquiry. We also discuss some of the impacts of this research
+                  and specify topics where research efforts have been more or
+                  less successful. The last section steps back to offer a
+                  broader perspective. We address some current debates about
+                  research emphasis in the field, and more broadly about
+                  empirical methods, and offer some thoughts on where future
+                  research might go.},
+  url          = {http://dx.doi.org/10.1257/jep.24.2.145},
   keywords     = {RLW-5;EoC-Further}
 }
 
