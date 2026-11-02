@@ -30712,6 +30712,37 @@
   keywords     = {RLW-5;EoC-Further}
 }
 
+@INBOOK{Murray2022-dp,
+  title     = {Using Financial Concepts to Understand Failing Construction
+               Contractors},
+  author    = {Murray, Alex and Kulakov, Alexandr},
+  editor    = {Best, Rick and Meikle, Jim},
+  booktitle = {Describing Construction: Industries, Projects, and Firms},
+  publisher = {Routledge},
+  pages     = {249--275},
+  date      = {2022},
+  abstract  = {Company accounts are an important source of information on the
+               health of firms and their likely future prospects. Large
+               businesses are required by law to produce annual accounts that
+               set out their financial position and are used by investors and
+               analysts to make or advise on investment decisions. This chapter
+               uses the collapse of Carillion, a major UK construction
+               contractor, in 2018 to investigate the efficacy of company
+               accounts as predictors of business failure; it identifies the
+               unique features of construction contracting as they are reflected
+               in company accounts; and it notes that the presentation of a
+               firm’s financial situation can be manipulated to provide a more
+               favourable picture than the real situation. Basing their analysis
+               on a subset of UK firms which have failed, Murray and Kulakov use
+               a series of business ratios to assess company performance in the
+               years preceding their failure. The conclusion is that there is
+               value in examining company accounts and the key financial ratios
+               that can be derived from them but that they are not necessarily
+               reliable predictors of future financial performance.},
+  url       = {https://www.taylorfrancis.com/chapters/edit/10.1201/9781003102403-11/using-financial-concepts-understand-failing-construction-contractors-alex-murray-alexandr-kulakov?context=ubx&refId=3311e1ba-997e-45ee-bee0-0e6445e433a9},
+  keywords  = {RLW-5;EoC-Further}
+}
+
 @ARTICLE{Lazonick2000-vw,
   title        = {Maximizing Shareholder Value: A New Ideology for Corporate
                   Governance},
@@ -30723,18 +30754,6 @@
   date         = {2000},
   url          = {https://ucl-new-primo.hosted.exlibrisgroup.com/permalink/f/1klfcc3/TN_cdi_gale_businessinsightsgauss_A62327583},
   keywords     = {RLW-5;EoC-Further}
-}
-
-@INBOOK{Murray2022-dp,
-  title     = {Using Financial Concepts to Understand Failing Construction
-               Contractors},
-  author    = {Murray, Alex and Kulakov, Alexandr},
-  booktitle = {Describing Construction},
-  publisher = {Routledge},
-  pages     = {249--275},
-  date      = {2022},
-  url       = {https://www.taylorfrancis.com/chapters/edit/10.1201/9781003102403-11/using-financial-concepts-understand-failing-construction-contractors-alex-murray-alexandr-kulakov?context=ubx&refId=3311e1ba-997e-45ee-bee0-0e6445e433a9},
-  keywords  = {RLW-5;EoC-Further}
 }
 
 @ARTICLE{Paulson1976-fe,
