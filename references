@@ -29809,7 +29809,7 @@
   title     = {Transforming the construction firm?},
   author    = {Smyth, Hedley},
   editor    = {Best, Rick and Meikle, Jim},
-  booktitle = {Describing Construction},
+  booktitle = {Describing Construction: Industries, Projects, and Firms},
   publisher = {Routledge},
   location  = {London},
   pages     = {197--219},
@@ -29826,7 +29826,7 @@
                contracting firm can fail, with far-reaching effects on clients,
                investors, suppliers, subcontractors and many others as well as
                causing very significant problems for the UK government.},
-  url       = {https://www.taylorfrancis.com/chapters/edit/10.1201/9781003102403-9/transforming-construction-firm-hedley-smyth},
+  url       = {http://dx.doi.org/10.1201/9781003102403-9},
   keywords  = {RLW-5;EoC-Essential}
 }
 
