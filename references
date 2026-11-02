@@ -30674,6 +30674,44 @@
   keywords     = {RLW-5;EoC-Further}
 }
 
+@ARTICLE{Korkmaz2008-tj,
+  title        = {Competitive Positioning and Continuity of Construction Firms
+                  in International Markets},
+  author       = {Korkmaz, Sinem and Messner, John I},
+  journaltitle = {Journal of Management in Engineering},
+  volume       = {24},
+  issue        = {4},
+  pages        = {207--216},
+  date         = {2008},
+  doi          = {10.1061/(ASCE)0742-597X(2008)24:4(207)},
+  abstract     = {In today’s global construction industry, firms exist in
+                  competitive market environments. To gain and maintain a
+                  competitive position in an increasingly challenging climate,
+                  firms must achieve a deep understanding of their dynamic
+                  environments and shape their strategies according to evolving
+                  conditions. Effectively leveraging external forces and shaping
+                  internal company focus in relation to the environment are
+                  essential for competitive positioning and achieving
+                  sustainable growth. This paper explores the concepts of
+                  competitive positioning and continuity in the context of mode
+                  (cost, quality, innovation, and timing) and scope (segment,
+                  vertical, geographic, and industry) of competition for U.S.
+                  and Turkish construction firms in international markets. The
+                  analysis of selected U.S. and Turkish firms demonstrates the
+                  strategic choice perspectives of different firms and the
+                  effects of environmental forces on these strategies over time.
+                  This study shows that construction firms tend to pursue
+                  consistent strategies in international markets while they
+                  adjust these strategies according to market demands and global
+                  tendencies. Research findings also show the differences
+                  between the strategic perspectives of construction firms in
+                  high and middle income countries enabling the identification
+                  of the factors for competitive advantage of nations in
+                  international construction markets.},
+  url          = {http://dx.doi.org/10.1061/(ASCE)0742-597X(2008)24:4(207)},
+  keywords     = {RLW-5;EoC-Further}
+}
+
 @ARTICLE{Lazonick2000-vw,
   title        = {Maximizing Shareholder Value: A New Ideology for Corporate
                   Governance},
@@ -30696,20 +30734,6 @@
   pages     = {249--275},
   date      = {2022},
   keywords  = {RLW-5;EoC-Further}
-}
-
-@ARTICLE{Korkmaz2008-tj,
-  title        = {Competitive Positioning and Continuity of Construction Firms
-                  in International Markets},
-  author       = {Korkmaz, Sinem and Messner, John I},
-  journaltitle = {Journal of Management in Engineering},
-  volume       = {24},
-  issue        = {4},
-  pages        = {207--216},
-  date         = {2008},
-  doi          = {10.1061/(ASCE)0742-597X(2008)24:4(207)},
-  url          = {https://doi.org/10.1061/(ASCE)0742-597X(2008)24:4(207)},
-  keywords     = {RLW-5;EoC-Further}
 }
 
 @ARTICLE{Paulson1976-fe,
