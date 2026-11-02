@@ -30778,7 +30778,22 @@
   pages        = {13--35},
   date         = {2000},
   doi          = {10.1080/030851400360541},
-  url          = {https://doi.org/10.1080/030851400360541},
+  abstract     = {The decade-long boom in the US stock market and the more
+                  recent boom in the US economy have fostered widespread belief
+                  in the economic benefits of the maximization of shareholder
+                  value as a principle of corporate governance. In this paper,
+                  we provide an historical analysis of the rise of shareholder
+                  value as a principle of corporate governance in the United
+                  States, tracing the transformation of US corporate strategy
+                  from an orientation towards retention of corporate earnings
+                  and reinvestment in corporate growth through the 1970s to one
+                  of downsizing of corporate labour forces and distribution of
+                  corporate earnings to shareholders over the past two decades.
+                  We then consider the recent performance of the US economy, and
+                  raise questions about the relation between the maximization of
+                  shareholder value and the sustainability of economic
+                  prosperity.},
+  url          = {http://dx.doi.org/10.1080/030851400360541},
   keywords     = {RLW-5;EoC-Further}
 }
 
