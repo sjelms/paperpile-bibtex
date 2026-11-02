@@ -71023,7 +71023,7 @@
                sociology and commercial law.},
   url       = {http://dx.doi.org/10.4324/9781003527305},
   keywords  = {EoC [BCPM0001];\_BibTex to MD
-               Git;Economics;Labor;ePub;RNIB;git-lit},
+               Git;Economics;Labor;ePub;RNIB;git-lit;AEC},
   language  = {en}
 }
 
@@ -72961,7 +72961,7 @@
                characteristic of radical and rapid economic change.},
   series    = {Routledge Classics},
   url       = {http://dx.doi.org/10.4324/9781003146766},
-  keywords  = {EoC [BCPM0001];Economics},
+  keywords  = {EoC [BCPM0001];Economics;AEC},
   language  = {en}
 }
 
@@ -73711,25 +73711,7 @@
                to a particular topic. The handbook has set a new standard of
                quality in the field by offering a world-wide forum of discussion
                in cliometrics.},
-  keywords  = {EoC [BCPM0001]},
-  language  = {en}
-}
-
-@BOOK{Sloman2023-kb,
-  title     = {Economics for Business},
-  author    = {Sloman, John and Garratt, Dean and Guest, Jon and Jones,
-               Elizabeth},
-  publisher = {Pearson Education},
-  location  = {London, England},
-  edition   = {9},
-  date      = {2023-03-13},
-  pagetotal = {768},
-  isbn      = {9781292440118},
-  abstract  = {Economics for Business covers all the current issues facing
-               today’s business world. Up-to-date case studies cover everything
-               from the impact of the financial crisis to the examination of
-               specific businesses.},
-  keywords  = {EoC [BCPM0001]},
+  keywords  = {EoC [BCPM0001];AEC},
   language  = {en}
 }
 
@@ -73796,7 +73778,7 @@
                structural concepts and stimulate interest in learning, creative
                thinking, and design. This is achiev},
   url       = {http://dx.doi.org/10.1201/b19624},
-  keywords  = {EoC [BCPM0001]}
+  keywords  = {EoC [BCPM0001];AEC}
 }
 
 @BOOK{Best2020-cj,
@@ -73857,7 +73839,7 @@
                interested in the built environment—architecture, engineering,
                surveying, construction—will find this a highly accessible and
                stimulating approach.},
-  keywords  = {EoC [BCPM0001]}
+  keywords  = {EoC [BCPM0001];AEC}
 }
 
 @BOOK{Brealey2022-ec,
@@ -73875,7 +73857,7 @@
                for the investments, and how those assets ultimately affect the
                value of the firm. In this edition, the authors have sought to
                make the book more up-to-date and easier to read.},
-  keywords  = {EoC [BCPM0001]},
+  keywords  = {EoC [BCPM0001];AEC},
   language  = {en}
 }
 
@@ -75192,38 +75174,22 @@
   language  = {en}
 }
 
-@ARTICLE{Love2003-tb,
-  title        = {Capturing rework costs in projects},
-  author       = {Love, Peter E D and Sohal, Amrik S},
-  journaltitle = {Managerial Auditing Journal},
-  publisher    = {Emerald},
-  volume       = {18},
-  issue        = {4},
-  pages        = {329--339},
-  date         = {2003-06},
-  doi          = {10.1108/02686900310474343},
-  issn         = {0268-6902,1758-7735},
-  abstract     = {Rework has become an endemic feature of the procurement
-                  process in construction, which invariably leads to time and
-                  cost overruns in projects. Thus, in order to improve the
-                  performance of projects it is necessary to identify the causes
-                  and costs of rework. The research presented in this paper
-                  quantifies the causes, magnitude and costs of rework
-                  experienced in two Australian construction projects procured
-                  using different contractual arrangements. The causes and costs
-                  of rework projects are analyzed and discussed. The case study
-                  projects’ rework costs were found to be 3.15 per cent and 2.4
-                  per cent of their contract value. Changes initiated by the
-                  client and end‐user, as well as errors and omissions in
-                  contract documentation, were found to be the primary causes of
-                  rework. Recommends that construction companies and consultant
-                  firms, particularly design consultants, implement quality
-                  management practices as well as place greater attention on the
-                  design development process, to prevent rework emerging during
-                  the project’s later stages.},
-  url          = {http://dx.doi.org/10.1108/02686900310474343},
-  keywords     = {EoC [BCPM0001]},
-  language     = {en}
+@BOOK{Sloman2023-kb,
+  title     = {Economics for Business},
+  author    = {Sloman, John and Garratt, Dean and Guest, Jon and Jones,
+               Elizabeth},
+  publisher = {Pearson Education},
+  location  = {London, England},
+  edition   = {9},
+  date      = {2023-03-13},
+  pagetotal = {768},
+  isbn      = {9781292440118},
+  abstract  = {Economics for Business covers all the current issues facing
+               today’s business world. Up-to-date case studies cover everything
+               from the impact of the financial crisis to the examination of
+               specific businesses.},
+  keywords  = {EoC [BCPM0001];AEC},
+  language  = {en}
 }
 
 @PROCEEDINGS{Ruddock2017-mz,
@@ -75623,6 +75589,40 @@
   keywords  = {RLW-5;EoC-Further;Book (child);ePub;RNIB}
 }
 
+@ARTICLE{Love2003-tb,
+  title        = {Capturing rework costs in projects},
+  author       = {Love, Peter E D and Sohal, Amrik S},
+  journaltitle = {Managerial Auditing Journal},
+  publisher    = {Emerald},
+  volume       = {18},
+  issue        = {4},
+  pages        = {329--339},
+  date         = {2003-06},
+  doi          = {10.1108/02686900310474343},
+  issn         = {0268-6902,1758-7735},
+  abstract     = {Rework has become an endemic feature of the procurement
+                  process in construction, which invariably leads to time and
+                  cost overruns in projects. Thus, in order to improve the
+                  performance of projects it is necessary to identify the causes
+                  and costs of rework. The research presented in this paper
+                  quantifies the causes, magnitude and costs of rework
+                  experienced in two Australian construction projects procured
+                  using different contractual arrangements. The causes and costs
+                  of rework projects are analyzed and discussed. The case study
+                  projects’ rework costs were found to be 3.15 per cent and 2.4
+                  per cent of their contract value. Changes initiated by the
+                  client and end‐user, as well as errors and omissions in
+                  contract documentation, were found to be the primary causes of
+                  rework. Recommends that construction companies and consultant
+                  firms, particularly design consultants, implement quality
+                  management practices as well as place greater attention on the
+                  design development process, to prevent rework emerging during
+                  the project’s later stages.},
+  url          = {http://dx.doi.org/10.1108/02686900310474343},
+  keywords     = {EoC [BCPM0001];AEC},
+  language     = {en}
+}
+
 @ARTICLE{Willingham2008-gd,
   title        = {Critical thinking: Why is it so hard to teach?},
   author       = {Willingham, Daniel T},
@@ -75708,6 +75708,6 @@
                   professional services are likely to produce much higher
                   project costs in the long run.},
   url          = {http://dx.doi.org/10.1061/jcceaz.0000639},
-  keywords     = {EoC [BCPM0001]},
+  keywords     = {EoC [BCPM0001];AEC},
   language     = {en}
 }
