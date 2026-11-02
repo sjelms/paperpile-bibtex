@@ -29423,6 +29423,33 @@
   keywords  = {RLW-2;EoC-Further}
 }
 
+@INBOOK{Connaughton2022-nd,
+  title     = {Education for collaboration in construction},
+  author    = {Connaughton, John},
+  booktitle = {Describing Construction},
+  publisher = {Routledge},
+  location  = {London},
+  pages     = {67--89},
+  date      = {2022-08-17},
+  doi       = {10.1201/9781003102403-4},
+  isbn      = {9781003102403},
+  abstract  = {Construction industries around the world are frequently
+               characterised by generally poor performance across key processes
+               of design development, coordination, management and construction
+               leading to projects that are late-running, over-budget and poorly
+               built. This is often blamed on the fragmented and frequently
+               adversarial nature of the industry. Greater collaboration between
+               the participants with a greater sharing of goals and rewards is
+               seen as a key factor in improving industry performance. In this
+               chapter the issues around educating construction professionals so
+               that they are adequately prepared to operate within a more
+               collaborative environment are examined and discussed, with some
+               recommendations being made for how universities and other
+               educational institutions may address the challenges that
+               education for collaboration presents.},
+  url       = {http://dx.doi.org/10.1201/9781003102403-4}
+}
+
 @ARTICLE{Eraut2006-rl,
   title        = {The Concept of Method: Help or Hindrance},
   author       = {Eraut, Michael},
