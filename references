@@ -74645,6 +74645,28 @@
   language  = {en}
 }
 
+@INBOOK{Smyth2022-ha,
+  title     = {Transforming the Construction Firm?},
+  author    = {Smyth, Hedley},
+  editor    = {Best, Rick and Meikle, Jim},
+  booktitle = {Describing Construction: Industries, Projects and Firms},
+  publisher = {Routledge},
+  pages     = {197--219},
+  date      = {2022},
+  abstract  = {In this chapter the author addresses questions related to the
+               business models that currently underpin many construction firms
+               and asks why recurring failures are not better understood and
+               thus why business models have not been developed and adapted so
+               that construction firms can be more resilient. The spectacular
+               collapse of Carillion is examined and discussed as an
+               illustration of the way that a large and apparently successful
+               contracting firm can fail, with far-reaching effects on clients,
+               investors, suppliers, subcontractors and many others as well as
+               causing very significant problems for the UK government.},
+  url       = {https://www.taylorfrancis.com/chapters/edit/10.1201/9781003102403-9/transforming-construction-firm-hedley-smyth},
+  keywords  = {RLW-5;EoC-Essential}
+}
+
 @ARTICLE{Einav2010-jj,
   title        = {Empirical Industrial Organization: A Progress Report},
   author       = {Einav, Liran and Levin, Jonathan},
@@ -75447,16 +75469,6 @@
   pages     = {249--275},
   date      = {2022},
   keywords  = {RLW-5;EoC-Further}
-}
-
-@INBOOK{Smyth2022-ha,
-  title     = {Transforming the Construction Firm?},
-  author    = {Smyth, Hedley},
-  booktitle = {Describing Construction},
-  publisher = {Routledge},
-  pages     = {197--219},
-  date      = {2022},
-  keywords  = {RLW-5;EoC-Essential}
 }
 
 @ARTICLE{Korkmaz2008-tj,
