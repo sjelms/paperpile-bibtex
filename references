@@ -28862,9 +28862,9 @@
   language  = {en}
 }
 
-@BOOK{Meikle2002-ve,
+@BOOK{Best2002-kk,
   title     = {Describing Construction: Industries, Projects, and Firms},
-  editor    = {Meikle, Jim and Best, Rick},
+  editor    = {Best, Rick and Meikle, Jim},
   publisher = {Routledge},
   location  = {New York, NY},
   edition   = {1},
@@ -28903,7 +28903,7 @@
                and may continue to change in future. It is essential reading for
                students and researchers in construction management, quantity
                surveying, architecture and engineering.},
-  url       = {https://doi.org/10.1201/9781003102403},
+  url       = {http://dx.doi.org/10.1201/9781003102403},
   keywords  = {EoC [BCPM0001];EPubs Books;\_BibTex to MD
                Git;AEC;UCL;Economics;RNIB;ePub;Book (parent);git-lit}
 }
