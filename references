@@ -55851,7 +55851,7 @@
   issue        = {9},
   pages        = {989--1000},
   date         = {2007},
-  keywords     = {RLW-5}
+  keywords     = {RLW-5;EoC-Essential}
 }
 
 @INBOOK{Smith1776-xg,
@@ -63988,7 +63988,7 @@
   issue        = {6},
   pages        = {511--532},
   date         = {1992},
-  keywords     = {RLW-5}
+  keywords     = {RLW-5;EoC-Essential}
 }
 
 @ONLINE{HUD-User2022-ip,
@@ -67699,7 +67699,7 @@
   publisher = {Routledge},
   pages     = {197--219},
   date      = {2022},
-  keywords  = {RLW-5}
+  keywords  = {RLW-5;EoC-Essential}
 }
 
 @BOOK{Levitt2014-pp,
@@ -71826,7 +71826,7 @@
   pages        = {137--145},
   date         = {1979},
   url          = {https://ucl-new-primo.hosted.exlibrisgroup.com/permalink/f/1klfcc3/TN_cdi_proquest_miscellaneous_227846343},
-  keywords     = {RLW-5}
+  keywords     = {RLW-5;EoC-Essential}
 }
 
 @MISC{Harper2024-ok,
@@ -72714,7 +72714,7 @@
   date      = {2010},
   url       = {https://ucl-new-primo.hosted.exlibrisgroup.com/permalink/f/luapog/UCL_LMS_DS51316688990004761},
   note      = {Assigned reading: Chapters 4, 5, 10 and 11},
-  keywords  = {RLW-5}
+  keywords  = {RLW-5;EoC-Essential}
 }
 
 @BOOK{Feynman2022-uv,
