@@ -39976,6 +39976,19 @@
   language     = {en}
 }
 
+@ARTICLE{Einav2010-jj,
+  title        = {Empirical Industrial Organization: A Progress Report},
+  author       = {Einav, Liran and Levin, Jonathan},
+  journaltitle = {Journal of Economic Perspectives},
+  volume       = {24},
+  issue        = {2},
+  pages        = {145--162},
+  date         = {2010},
+  doi          = {10.1257/jep.24.2.145},
+  url          = {http://dx.doi.org/10.1257/jep.24.2.145},
+  keywords     = {RLW-5}
+}
+
 @ARTICLE{Autor2015-me,
   title        = {Why are there still so many jobs? The history and future of
                   workplace automation},
@@ -54614,6 +54627,17 @@
   keywords  = {Stylish Academic Writing;PhD Support and Training;Book (child)}
 }
 
+@INBOOK{Murray2022-dp,
+  title     = {Using Financial Concepts to Understand Failing Construction
+               Contractors},
+  author    = {Murray, Alex and Kulakov, Alexandr},
+  booktitle = {Describing Construction},
+  publisher = {Routledge},
+  pages     = {249--275},
+  date      = {2022},
+  keywords  = {RLW-5}
+}
+
 @INBOOK{Sword2012-qk,
   title     = {The Story Net},
   author    = {Sword, Helen},
@@ -68870,6 +68894,19 @@
                  Git;llm-wiki-workflow;AEC;\_New Literature;git-lit}
 }
 
+@ARTICLE{Lazonick2000-vw,
+  title        = {Maximizing Shareholder Value: A New Ideology for Corporate
+                  Governance},
+  author       = {Lazonick, William and O'Sullivan, Mary},
+  journaltitle = {Economy and Society},
+  volume       = {29},
+  issue        = {1},
+  pages        = {13--35},
+  date         = {2000},
+  url          = {https://ucl-new-primo.hosted.exlibrisgroup.com/permalink/f/1klfcc3/TN_cdi_gale_businessinsightsgauss_A62327583},
+  keywords     = {RLW-5}
+}
+
 @BOOK{Abiad2023-gb,
   title     = {How to Write Your {PhD} Thesis: The Easy Handbook},
   author    = {Abiad, Zouhour and El-Chaarani, Hani},
@@ -70539,6 +70576,18 @@
                to MD Git;Economics;git-lit}
 }
 
+@ARTICLE{Korkmaz2008-tj,
+  title        = {Competitive Positioning and Continuity of Construction Firms
+                  in International Markets},
+  author       = {Korkmaz, Sinem and Messner, John I},
+  journaltitle = {Journal of Management in Engineering},
+  volume       = {24},
+  issue        = {4},
+  pages        = {207--216},
+  date         = {2008},
+  keywords     = {RLW-5}
+}
+
 @INBOOK{Grier2005-bm,
   title     = {Table of Contents},
   author    = {Grier, David Alan},
@@ -72049,6 +72098,18 @@
   keywords  = {\_BibTex to MD Git;Vygotsky;Knowledge - Skill
                Acquisition;Philosophy of Education;Education;git-lit},
   language  = {en}
+}
+
+@ARTICLE{Porter1980-wr,
+  title        = {Industry Structure and Competitive Strategy: Keys to
+                  Profitability},
+  author       = {Porter, Michael E},
+  journaltitle = {Financial Analysts Journal},
+  volume       = {36},
+  issue        = {4},
+  pages        = {30--41},
+  date         = {1980},
+  keywords     = {RLW-5}
 }
 
 @BOOK{Denzin2023-mp,
