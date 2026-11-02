@@ -75345,6 +75345,39 @@
                Acquisition;Skill demand;VET;git-lit}
 }
 
+@ARTICLE{Flanagan2007-qn,
+  title        = {Competitiveness in Construction: A Critical Review of Research},
+  author       = {Flanagan, Roger and Lu, Weisheng and Shen, Liyin and Jewell,
+                  Carol},
+  journaltitle = {Construction Management and Economics},
+  volume       = {25},
+  issue        = {9},
+  pages        = {989--1000},
+  date         = {2007},
+  doi          = {10.1080/01446190701258039},
+  abstract     = {Since its popularization in the 1980s, competitiveness has
+                  received close attention from practitioners and researchers
+                  across a wide range of industries. In the construction sector,
+                  many works on competitiveness have also been published. So
+                  far, however, there seems to be no comprehensive review to
+                  summarize and critique existing research on competitiveness in
+                  construction. This research, therefore, reviews the extant
+                  literature from four aspects: concept of competitiveness,
+                  competitiveness research at the construction industry level,
+                  competitiveness research at the firm level, and
+                  competitiveness research at the project level. The review
+                  presents the state-of-the-art development of competitiveness
+                  research in construction, identifies the research gaps, and
+                  proposes new directions for further studies. Further research
+                  is recommended to validate previous studies in construction
+                  practices, identify the mechanisms that encourage mutual
+                  enhancement of competitiveness at different levels, and how to
+                  achieve its sustainability by embracing new management and/or
+                  economics techniques.},
+  url          = {http://dx.doi.org/10.1080/01446190701258039},
+  keywords     = {RLW-5;EoC-Essential}
+}
+
 @ARTICLE{Betts1992-na,
   title        = {Strategic Planning for Competitive Advantage in Construction},
   author       = {Betts, Martin and Ofori, George},
@@ -75403,18 +75436,6 @@
   date         = {2000},
   url          = {https://ucl-new-primo.hosted.exlibrisgroup.com/permalink/f/1klfcc3/TN_cdi_gale_businessinsightsgauss_A62327583},
   keywords     = {RLW-5;EoC-Further}
-}
-
-@ARTICLE{Flanagan2007-qn,
-  title        = {Competitiveness in Construction: A Critical Review of Research},
-  author       = {Flanagan, Roger and Lu, Weisheng and Shen, Liyin and Jewell,
-                  Carol},
-  journaltitle = {Construction Management and Economics},
-  volume       = {25},
-  issue        = {9},
-  pages        = {989--1000},
-  date         = {2007},
-  keywords     = {RLW-5;EoC-Essential}
 }
 
 @INBOOK{Murray2022-dp,
