@@ -74829,6 +74829,17 @@
   keywords     = {RLW-3;EoC-Further}
 }
 
+@BOOK{Porter1980-vi,
+  title     = {Competitive strategy},
+  author    = {Porter, Michael E},
+  publisher = {Free Press},
+  location  = {New York, NY},
+  date      = {1980-10-01},
+  pagetotal = {398},
+  isbn      = {9780029253601},
+  keywords  = {EoC [BCPM0001]}
+}
+
 @ARTICLE{Buitelaar2026-dh,
   title        = {Adult attention deficit-hyperactivity disorder},
   author       = {Buitelaar, Jan K and Newcorn, Jeffrey H},
