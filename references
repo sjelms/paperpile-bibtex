@@ -370,6 +370,21 @@
                  Git;llm-wiki-workflow;Report;AEC;git-lit}
 }
 
+@INBOOK{Carter2025-hm,
+  title     = {Hugo münsterberg ({1863–1916})},
+  author    = {Carter, Nathan T},
+  booktitle = {Key Thinkers in Industrial and Organizational Psychology},
+  publisher = {Routledge},
+  location  = {New York},
+  pages     = {18--26},
+  date      = {2025-03-18},
+  doi       = {10.4324/9781003403258-3},
+  isbn      = {9781003403258},
+  url       = {http://dx.doi.org/10.4324/9781003403258-3},
+  keywords  = {Key-Thinkers\_I-O},
+  language  = {en}
+}
+
 @ARTICLE{Johnston2026-bz,
   title        = {On Reality, Experience, and Truth: John Watson's Unpublished
                   Notes on John Dewey},
