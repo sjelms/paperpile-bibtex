@@ -45424,17 +45424,6 @@
   language  = {en}
 }
 
-@BOOK{Gilbreth2013-ni,
-  title     = {The psychology of management},
-  author    = {Gilbreth, Lillian Moller},
-  publisher = {Createspace Independent Publishing Platform},
-  location  = {North Charleston, SC},
-  date      = {2013-04-08},
-  pagetotal = {212},
-  isbn      = {9781484063583},
-  keywords  = {RCPSP\_Takt\_Taylorism}
-}
-
 @REPORT{Felstead2018-vq,
   type      = {resreport},
   title     = {Productivity in Britain: The Workers’ {Perspective—First}
@@ -76403,4 +76392,26 @@
   url       = {http://dx.doi.org/10.4324/9781003403258-20},
   keywords  = {Key-Thinkers\_I-O;Book (child);ePub;Labor;RNIB;Psychology},
   language  = {en}
+}
+
+@BOOK{Gilbreth1914-qc,
+  title     = {The Psychology of Management: The Function of the Mind in
+               Determining, Teaching and Installing Methods of Least Waste},
+  author    = {Gilbreth, Lillian Moller},
+  publisher = {Macmillan},
+  location  = {New York, NY},
+  date      = {1914},
+  pagetotal = {212},
+  isbn      = {9781484063583},
+  abstract  = {The book explores the importance of individuality, measurement,
+               standardization, teaching, incentives, and welfare in enhancing
+               efficiency and productivity in the workplace. It contrasts
+               traditional and scientific management approaches, emphasizing the
+               scientific study of workers and the integration of welfare into
+               the system. Through practical examples and psychological
+               insights, the book provides a comprehensive guide to implementing
+               scientific management principles for optimal performance and
+               worker satisfaction.},
+  url       = {https://www.gutenberg.org/files/16256/16256-h/16256-h.htm},
+  keywords  = {RCPSP\_Takt\_Taylorism}
 }
