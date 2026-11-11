@@ -47217,6 +47217,19 @@
                   Acquisition;Labor;Skill demand;Reader\_Obsidian;git-lit}
 }
 
+@ARTICLE{Unknown1965-jf,
+  title        = {Crozier Michel — Le monde des employés de bureau},
+  journaltitle = {Population},
+  publisher    = {CAIRN},
+  volume       = {20},
+  issue        = {5},
+  pages        = {881--881},
+  date         = {1965-05-01},
+  doi          = {10.3917/popu.p1965.20n5.0881},
+  issn         = {0032-4663,1957-7966},
+  url          = {http://dx.doi.org/10.3917/popu.p1965.20n5.0881}
+}
+
 @ARTICLE{Marin-Vega2017-dy,
   title        = {A Brief Review of Game Engines for Educational and Serious
                   Games Development},
