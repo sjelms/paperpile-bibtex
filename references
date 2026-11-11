@@ -75631,6 +75631,25 @@
                (physical);Audiobook;git-lit}
 }
 
+@BOOK{Baran1966-xx,
+  title     = {Monopoly Capital: An Essay on the American Economic and Social
+               Order},
+  author    = {Baran, Paul A and Sweezy, Paul M},
+  publisher = {NYU Press},
+  date      = {1966},
+  isbn      = {9780853450733},
+  abstract  = {This landmark text by Paul Baran and Paul Sweezy is a classic of
+               twentieth-century radical thought, a hugely influential book that
+               continues to shape our understanding of modern capitalism. “This
+               book… deals with a vital area of economics, has a unique
+               approach, is stimulating and well written. It represents the
+               first serious attempt to extend Marx’s model of competitive
+               capitalism to the new conditions of monopoly capitalism.” —
+               Howard J. Sherman, American Economic Review},
+  url       = {http://www.jstor.org/stable/j.ctt9qg5zj},
+  keywords  = {Monopoly-1966}
+}
+
 @ONLINE{McKendrick2021-bk,
   title     = {{AI} Adoption Skyrocketed Over the Last 18 Months},
   author    = {McKendrick, J},
