@@ -26407,6 +26407,20 @@
   keywords  = {WALF\_Chapters;\_BibTex to MD Git;Book (child);git-lit}
 }
 
+@INBOOK{Shoenfelt2025-op,
+  title     = {Frederick Winslow Taylor ({1856–1915})},
+  author    = {Shoenfelt, Elizabeth L},
+  booktitle = {Key Thinkers in Industrial and Organizational Psychology},
+  publisher = {Routledge},
+  location  = {New York},
+  pages     = {1--10},
+  date      = {2025-03-18},
+  doi       = {10.4324/9781003403258-1},
+  isbn      = {9781003403258},
+  url       = {http://dx.doi.org/10.4324/9781003403258-1},
+  language  = {en}
+}
+
 @BOOK{Chandler1977-lw,
   title     = {The Visible Hand: The Managerial Revolution in American Business},
   author    = {Chandler, Jr, Alfred D},
