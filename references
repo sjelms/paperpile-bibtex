@@ -370,21 +370,6 @@
                  Git;llm-wiki-workflow;Report;AEC;git-lit}
 }
 
-@INBOOK{Grossman2025-zp,
-  title     = {Kurt Lewin ({1890–1947})},
-  author    = {Grossman, Rebecca},
-  booktitle = {Key Thinkers in Industrial and Organizational Psychology},
-  publisher = {Routledge},
-  location  = {New York},
-  pages     = {154--159},
-  date      = {2025-03-18},
-  doi       = {10.4324/9781003403258-20},
-  isbn      = {9781003403258},
-  url       = {http://dx.doi.org/10.4324/9781003403258-20},
-  keywords  = {Key-Thinkers\_I-O},
-  language  = {en}
-}
-
 @ARTICLE{Johnston2026-bz,
   title        = {On Reality, Experience, and Truth: John Watson's Unpublished
                   Notes on John Dewey},
@@ -31461,6 +31446,35 @@
                psychologist by successfully blending research, practice,
                service, and a personal life.},
   url       = {http://dx.doi.org/10.4324/9781003403258-10},
+  keywords  = {Key-Thinkers\_I-O},
+  language  = {en}
+}
+
+@INBOOK{Grossman2025-zp,
+  title     = {Kurt Lewin ({1890–1947})},
+  author    = {Grossman, Rebecca},
+  booktitle = {Key Thinkers in Industrial and Organizational Psychology},
+  publisher = {Routledge},
+  location  = {New York},
+  pages     = {154--159},
+  date      = {2025-03-18},
+  doi       = {10.4324/9781003403258-20},
+  isbn      = {9781003403258},
+  abstract  = {Kurt Lewin was once a prominent figure, but in more recent years,
+               his impact often gets overlooked. This chapter briefly summarizes
+               the life and work of Lewin, emphasizing his major contributions
+               and demonstrating why he should be considered a key thinker who
+               has been influential to the field of industrial-organizational
+               (I-O) psychology. Although it can be hard to pin down, his
+               influence is explored by discussing his research approach (e.g.,
+               field theory, action research), the topics he pursued (e.g.,
+               three-step model of change), and his continued commitment to
+               bettering society (e.g., through humanistic and democratic
+               values). This discussion highlights how Lewin pioneered or
+               provided a foundation for many of the approaches, concepts, and
+               topics that are still relevant to the field of I-O psychology
+               today.},
+  url       = {http://dx.doi.org/10.4324/9781003403258-20},
   keywords  = {Key-Thinkers\_I-O},
   language  = {en}
 }
