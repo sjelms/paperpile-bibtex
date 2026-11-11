@@ -75826,32 +75826,6 @@
   url       = {http://dx.doi.org/10.4135/9781483386874.n175}
 }
 
-@BOOK{Vinchur2018-gr,
-  title     = {The early years of industrial and organizational psychology},
-  author    = {Vinchur, Andrew J},
-  publisher = {Cambridge University Press},
-  location  = {Cambridge, England},
-  date      = {2018-11-08},
-  pagetotal = {370},
-  doi       = {10.1017/9781107588608},
-  isbn      = {9781107065734,9781107065734},
-  abstract  = {This book provides a history of the origins of
-               industrial-organizational (I-O) psychology, focusing on the late
-               nineteenth century and early twentieth centuries. Taking an
-               international perspective, The Early Years of
-               Industrial-Organizational Psychology examines the context in
-               which the field emerged, and its origins in the measurement of
-               individual differences. Andrew J. Vinchur covers the initial
-               applications of psychology in advertising, the study of fatigue,
-               and especially employee selection, as well as the role industrial
-               psychology played in World War I and the post-war expansion of
-               the field. He also examines the education of industrial
-               psychologists, their efforts to establish industrial psychology
-               as a profession, and the beginnings of the organizational side of
-               the field.},
-  url       = {http://dx.doi.org/10.1017/9781107588608}
-}
-
 @INBOOK{Baran1966-pp,
   title     = {Front Matter},
   author    = {Baran, Paul A and Sweezy, Paul M},
