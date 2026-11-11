@@ -52631,6 +52631,29 @@
                Git;Braverman;Marx\_Labor;Book (child);git-lit}
 }
 
+@INBOOK{Baran1966-nq,
+  title     = {The Tendency Of Surplus To Rise},
+  author    = {Baran, Paul A and Sweezy, Paul M},
+  booktitle = {Monopoly Capital: An Essay on the American Economic and Social
+               Order},
+  publisher = {NYU Press},
+  pages     = {52--78},
+  date      = {1966},
+  isbn      = {9780853450733},
+  abstract  = {Monopoly capitalism is a system made up of giant corporations.
+               This is not to say that there are no other elements in the system
+               or that it is useful to study monopoly capitalism by abstracting
+               from everything except giant corporations. It is both more
+               realistic and more enlightening to proceed from the outset by
+               including, alongside the corporate-monopoly sector, a more or
+               less extensive smaller-business sector, the reason being that
+               smaller business enters in many ways into the calculations and
+               strategies of Big Business. To abstract from smaller business
+               would be to exclude from the field of investigation some of},
+  url       = {http://www.jstor.org/stable/j.ctt9qg5zj.6},
+  keywords  = {Monopoly-1966}
+}
+
 @INBOOK{Sword2012-oq,
   title     = {Smart Sentencing},
   author    = {Sword, Helen},
@@ -53881,6 +53904,29 @@
   keywords  = {Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;\_BibTex
                to MD Git;Robots;Artificial Intelligence (AI);Future of
                Work;Economics;Technological change;git-lit}
+}
+
+@INBOOK{Baran1966-yv,
+  title     = {The Absorption Of Surplus: Capitalists’ Consumption And
+               Investment},
+  author    = {Baran, Paul A and Sweezy, Paul M},
+  booktitle = {Monopoly Capital: An Essay on the American Economic and Social
+               Order},
+  publisher = {NYU Press},
+  pages     = {79--111},
+  date      = {1966},
+  isbn      = {9780853450733},
+  abstract  = {In the last chapter it was shown that under monopoly capitalism,
+               owing to the nature of the price and cost policies of the giant
+               corporations, there is a strong and systematic tendency for
+               surplus to rise, both absolutely and as a share of total output.
+               We now come to the problem of the absorption or utilization of
+               the surplus.In general, surplus can be absorbed in the following
+               ways: (1) it can be consumed, (2) it can be invested, and (3) it
+               can be wasted. In this chapter we confine attention to the
+               capacity of monopoly capitalism to absorb surplus},
+  url       = {http://www.jstor.org/stable/j.ctt9qg5zj.7},
+  keywords  = {Monopoly-1966}
 }
 
 @REPORT{Department-of-Economic-History2017-nb,
@@ -55403,6 +55449,30 @@
   language  = {en}
 }
 
+@INBOOK{Baran1966-zi,
+  title     = {On The Quality Of Monopoly Capitalist Society},
+  author    = {Baran, Paul A and Sweezy, Paul M},
+  booktitle = {Monopoly Capital: An Essay on the American Economic and Social
+               Order},
+  publisher = {NYU Press},
+  pages     = {281--335},
+  date      = {1966},
+  isbn      = {9780853450733},
+  abstract  = {The purpose of the preceding discussion has been not only to
+               advance the understanding of the working principles of the
+               contemporary American economy but also to gain insight into the
+               forces that mold the lives, shape the minds, and determine the
+               development of individuals in our society. This insight is
+               pressingly needed today. Disorientation, apathy, and often
+               despair, haunting Americans in all walks of life, have assumed in
+               our time the dimensions of a profound crisis. This crisis affects
+               every aspect of national life, and ravages both its
+               socio-political and its individual spheres—everyman’s everyday
+               existence. A heavy, strangulating sense},
+  url       = {http://www.jstor.org/stable/j.ctt9qg5zj.13},
+  keywords  = {Monopoly-1966}
+}
+
 @ONLINE{Yglesias2021-bo,
   title      = {Homelessness is About Housing: The Solution is to Legalize More
                 and More Kinds of It},
@@ -56722,6 +56792,29 @@
   keywords     = {RCPSP\_Takt\_Taylorism;AEC;Skill demand}
 }
 
+@INBOOK{Baran1966-hc,
+  title     = {Monopoly Capitalism And Race Relations},
+  author    = {Baran, Paul A and Sweezy, Paul M},
+  booktitle = {Monopoly Capital: An Essay on the American Economic and Social
+               Order},
+  publisher = {NYU Press},
+  pages     = {249--280},
+  date      = {1966},
+  isbn      = {9780853450733},
+  abstract  = {The race problem in the United States was not created by monopoly
+               capitalism. It was inherited from the slave system of Old South.
+               However, the nature of the problem has undergone a transformation
+               during the monopoly capitalist period; in a world in which the
+               colored races are shaking off the of oppression, it is apparent
+               to everyone that the future the United States will be deeply, and
+               perhaps decisively, influenced by the further development of
+               relations between the inside the country.The most elaborate and
+               widely praised study of the United race problem is undoubtedly
+               Gunhar Myrdal’s An American Dilemma,},
+  url       = {http://www.jstor.org/stable/j.ctt9qg5zj.12},
+  keywords  = {Monopoly-1966}
+}
+
 @INBOOK{Braverman1974-ku,
   title     = {The Role of the State},
   author    = {Braverman, Harry},
@@ -57372,6 +57465,30 @@
   language  = {en}
 }
 
+@INBOOK{Baran1966-bf,
+  title     = {The Absorption Of Surplus: The Sales Effort},
+  author    = {Baran, Paul A and Sweezy, Paul M},
+  booktitle = {Monopoly Capital: An Essay on the American Economic and Social
+               Order},
+  publisher = {NYU Press},
+  pages     = {112--141},
+  date      = {1966},
+  isbn      = {9780853450733},
+  abstract  = {In analyzing the utilization of society’s economic surplus—the
+               difference between total social output and the socially necessary
+               costs of producing it—economic theory has traditionally centered
+               attention on capitalists’ consumption and private investment, the
+               subject dealt with in the preceding chapter. Not that other modes
+               of utilization have been completely ignored. State and church
+               have always been recognized as co-consumers of surplus, and both
+               the classics and Marx considered that in addition to public
+               officials and the clergy there was an important category of
+               “unproductive” workers, typified by domestic servants, who
+               received a large part or all of their},
+  url       = {http://www.jstor.org/stable/j.ctt9qg5zj.8},
+  keywords  = {Monopoly-1966}
+}
+
 @INBOOK{Braverman1974-wm,
   title     = {Surplus Value and Surplus Labor},
   author    = {Braverman, Harry},
@@ -57747,6 +57864,19 @@
   keywords    = {Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Deloitte
                  - McKinsey - EY - PWC;\_BibTex to MD
                  Git;llm-wiki-workflow;git-lit}
+}
+
+@INBOOK{Baran1966-tr,
+  title     = {Author Index},
+  author    = {Baran, Paul A and Sweezy, Paul M},
+  booktitle = {Monopoly Capital: An Essay on the American Economic and Social
+               Order},
+  publisher = {NYU Press},
+  pages     = {392--394},
+  date      = {1966},
+  isbn      = {9780853450733},
+  url       = {http://www.jstor.org/stable/j.ctt9qg5zj.16},
+  keywords  = {Monopoly-1966}
 }
 
 @MISC{Basak2025-gu,
@@ -58779,6 +58909,19 @@
               Brenda Mallory, Chair of the Council on Environmental Quality.
               Biden-Harris Administration. The White House.},
   keywords = {Government Report;Report;Economics}
+}
+
+@INBOOK{Baran1966-pp,
+  title     = {Front Matter},
+  author    = {Baran, Paul A and Sweezy, Paul M},
+  booktitle = {Monopoly Capital: An Essay on the American Economic and Social
+               Order},
+  publisher = {NYU Press},
+  pages     = {i--vi},
+  date      = {1966},
+  isbn      = {9780853450733},
+  url       = {http://www.jstor.org/stable/j.ctt9qg5zj.1},
+  keywords  = {Monopoly-1966}
 }
 
 @INBOOK{Grier2005-vj,
@@ -61556,6 +61699,29 @@
                and CME;Website;Statistics;git-lit}
 }
 
+@INBOOK{Baran1966-dc,
+  title     = {The Giant Corporation},
+  author    = {Baran, Paul A and Sweezy, Paul M},
+  booktitle = {Monopoly Capital: An Essay on the American Economic and Social
+               Order},
+  publisher = {NYU Press},
+  pages     = {14--51},
+  date      = {1966},
+  isbn      = {9780853450733},
+  abstract  = {Scientific understanding proceeds by way of constructing and
+               analyzing “models” of the segments or aspects of reality under
+               study. The purpose of these models is not to give a mirror image
+               of reality, not to include all its elements in their exact sizes
+               and proportions, but rather to single out and make available for
+               intensive investigation those elements which are decisive. We
+               abstract from nonessentials, we blot out the unimportant to get
+               an unobstructed view of the important, we magnify in order to
+               improve the range and accuracy of our observation. A model is,
+               and must be, unrealistic in the},
+  url       = {http://www.jstor.org/stable/j.ctt9qg5zj.5},
+  keywords  = {Monopoly-1966}
+}
+
 @BOOK{Ormrod2025-ik,
   title     = {Educational Psychology: Developing Learners},
   author    = {Ormrod, Jeanne Ellis and Anderman, Eric M and Anderman, Lynley H},
@@ -61981,6 +62147,30 @@
                  PWC;AEC Cited Lit for Jacqui;\_BibTex to MD
                  Git;llm-wiki-workflow;AEC;\_In Notion;\_In Readwise;\_New
                  Literature;git-lit}
+}
+
+@INBOOK{Baran1966-sp,
+  title     = {Introduction},
+  author    = {Baran, Paul A and Sweezy, Paul M},
+  booktitle = {Monopoly Capital: An Essay on the American Economic and Social
+               Order},
+  publisher = {NYU Press},
+  pages     = {1--13},
+  date      = {1966},
+  isbn      = {9780853450733},
+  abstract  = {The situation in the social sciences in the United States today
+               is paradoxical. The number of research workers and teachers is
+               rapidly rising. Their training and command of their disciplines,
+               including the ability to use precise mathematical reasoning and
+               sophisticated statistical methods, are far above the levels
+               attained by their predecessors of even one generation ago.
+               Universities, foundations, and governments organize research
+               projects and dispense grants on an unprecedented scale. Books,
+               reports, and articles are turned out in a never-ending stream.
+               And yet all this high-powered intellectual activity has yielded
+               few important new or fresh insights into the way our},
+  url       = {http://www.jstor.org/stable/j.ctt9qg5zj.4},
+  keywords  = {Monopoly-1966}
 }
 
 @REPORT{Pothier2020-kd,
@@ -62879,6 +63069,29 @@
                  Frontiers;Intelligent Tutoring Systems (ITS);Notion
                  Catalogued;\_BibTex to MD Git;llm-wiki-workflow;Intelligent
                  Tutoring Systems (ITS);\_Cataloged;Economics;git-lit}
+}
+
+@INBOOK{Baran1966-rp,
+  title     = {The Absorption Of Surplus: Militarism And Imperialism},
+  author    = {Baran, Paul A and Sweezy, Paul M},
+  booktitle = {Monopoly Capital: An Essay on the American Economic and Social
+               Order},
+  publisher = {NYU Press},
+  pages     = {178--217},
+  date      = {1966},
+  isbn      = {9780853450733},
+  abstract  = {The question posed at the end of the last chapter can be
+               reformulated: Why does the United States oligarchy need and
+               maintain such a huge military machine nowadays when it used get
+               along with such a little one? In order to answer this question,
+               we must first consider the role of armed force in capitalist
+               society.From its earliest beginnings in the Middle Ages
+               capitalism always been an international system. And it has always
+               a hierarchical system with one or more leading metropolises at
+               the top, completely dependent colonies at the bottom, many
+               degrees of superordination and subordination in between.},
+  url       = {http://www.jstor.org/stable/j.ctt9qg5zj.10},
+  keywords  = {Monopoly-1966}
 }
 
 @ONLINE{Hon2021-if,
@@ -64177,6 +64390,19 @@
   origlocation = {New York}
 }
 
+@INBOOK{Baran1966-ro,
+  title     = {Table of Contents},
+  author    = {Baran, Paul A and Sweezy, Paul M},
+  booktitle = {Monopoly Capital: An Essay on the American Economic and Social
+               Order},
+  publisher = {NYU Press},
+  pages     = {xi--xiv},
+  date      = {1966},
+  isbn      = {9780853450733},
+  url       = {http://www.jstor.org/stable/j.ctt9qg5zj.3},
+  keywords  = {Monopoly-1966}
+}
+
 @INPROCEEDINGS{Hamlin2006-gf,
   title     = {Do spatial abilities impact the learning of {3D} solid modeling
                software?},
@@ -65395,6 +65621,19 @@
                world of work, but an exploration of the effects of contemporary
                practices of work on the self.},
   keywords  = {\_BibTex to MD Git;EPubs Books;ePub;Labor;git-lit}
+}
+
+@INBOOK{Phillips1966-vi,
+  title     = {Appendix: Estimating The Economic Surplus},
+  author    = {Phillips, Joseph D and Baran, Paul A and Sweezy, Paul M},
+  booktitle = {Monopoly Capital: An Essay on the American Economic and Social
+               Order},
+  publisher = {NYU Press},
+  pages     = {369--391},
+  date      = {1966},
+  isbn      = {9780853450733},
+  url       = {http://www.jstor.org/stable/j.ctt9qg5zj.15},
+  keywords  = {Monopoly-1966}
 }
 
 @REPORT{CEDEFOP1998-op,
@@ -66841,6 +67080,19 @@
   keywords  = {When-Computers-Were-Human;Book (child)}
 }
 
+@INBOOK{Baran1966-vq,
+  title     = {Preface},
+  author    = {Baran, Paul A and Sweezy, Paul M},
+  booktitle = {Monopoly Capital: An Essay on the American Economic and Social
+               Order},
+  publisher = {NYU Press},
+  pages     = {vii--x},
+  date      = {1966},
+  isbn      = {9780853450733},
+  url       = {http://www.jstor.org/stable/j.ctt9qg5zj.2},
+  keywords  = {Monopoly-1966}
+}
+
 @INPROCEEDINGS{Torner_Ribe2016-nv,
   title     = {Virtual Reality application to improve spatial ability of
                engineering students},
@@ -66872,6 +67124,29 @@
                  Frontiers;Frontiers [2022];UCL Poster Q1 2023;2\_Upgrade MAY
                  2023;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to
                  MD Git;llm-wiki-workflow;Cited for Frontiers;AEC;git-lit}
+}
+
+@INBOOK{Baran1966-ph,
+  title     = {The Irrational System},
+  author    = {Baran, Paul A and Sweezy, Paul M},
+  booktitle = {Monopoly Capital: An Essay on the American Economic and Social
+               Order},
+  publisher = {NYU Press},
+  pages     = {336--368},
+  date      = {1966},
+  isbn      = {9780853450733},
+  abstract  = {It is of the essence of capitalism that both goods and labor
+               power are typically bought and sold on the market. In such a
+               society relations among individuals are dominated by the
+               principle of the exchange of equivalents, of quid pro quo, not
+               only in economic matters but in all other aspects of life as
+               well.Not that the principle of equivalent exchange is or ever has
+               been universally practiced in capitalist society. As Marx showed
+               so convincingly in the closing chapters of the first volume of
+               Capital, the primary accumulation of capital was effected through
+               violence and plunder, and},
+  url       = {http://www.jstor.org/stable/j.ctt9qg5zj.14},
+  keywords  = {Monopoly-1966}
 }
 
 @INBOOK{Bock2015-mt,
@@ -74915,6 +75190,29 @@
   language  = {en}
 }
 
+@INBOOK{Baran1966-ll,
+  title     = {On The History Of Monopoly Capitalism},
+  author    = {Baran, Paul A and Sweezy, Paul M},
+  booktitle = {Monopoly Capital: An Essay on the American Economic and Social
+               Order},
+  publisher = {NYU Press},
+  pages     = {218--248},
+  date      = {1966},
+  isbn      = {9780853450733},
+  abstract  = {“It is not enough,” writes Celso Furtado, “to construct an model
+               and provide an explanation of how it operates; just as important
+               to demonstrate the explanatory effectiveness of such a model as
+               applied to historical realities.”¹ According to our model, the
+               growth of monopoly generates a strong tendency for surplus to
+               rise without at the same time providing adequate mechanisms of
+               surplus absorption. But surplus that is absorbed is also surplus
+               that is not produced: it is merely potential surplus, and it
+               leaves its statistical trace not in the of profits and investment
+               but rather in the figures of unemployment},
+  url       = {http://www.jstor.org/stable/j.ctt9qg5zj.11},
+  keywords  = {Monopoly-1966}
+}
+
 @BOOK{Gardner2008-lx,
   title     = {Multiple Intelligences: New Horizons in Theory and Practice},
   author    = {Gardner, Howard E},
@@ -75088,6 +75386,29 @@
   keywords  = {Data Stats Figures;2\_Upgrade MAY 2023;\_BibTex to MD
                Git;Automation;Website;Statistics;git-lit},
   language  = {en}
+}
+
+@INBOOK{Baran1966-ch,
+  title     = {The Absorption Of Surplus: Civilian Government},
+  author    = {Baran, Paul A and Sweezy, Paul M},
+  booktitle = {Monopoly Capital: An Essay on the American Economic and Social
+               Order},
+  publisher = {NYU Press},
+  pages     = {142--177},
+  date      = {1966},
+  isbn      = {9780853450733},
+  abstract  = {In the preceding chapter it was shown that the sales effort
+               directly and indirectly, a large amount of surplus otherwise
+               would not have been produced. The purpose and the following
+               chapters is twofold: to demonstrate, that government plays a
+               similar role but on a larger scale; second, that the uses to
+               which government puts the surplus it absorbs are narrowly
+               circumscribed by the nature of capitalist society and as time
+               goes on become more more irrational and destructive.In the older
+               theories— and here we include Marxian as well classical and
+               neoclassical economics— it was normally taken granted that the},
+  url       = {http://www.jstor.org/stable/j.ctt9qg5zj.9},
+  keywords  = {Monopoly-1966}
 }
 
 @INBOOK{Taber2011-nj,
@@ -75387,6 +75708,19 @@
                range of technologies.},
   keywords  = {EPubs Books;\_BibTex to MD Git;ePub;AEC;git-lit},
   language  = {en}
+}
+
+@INBOOK{Baran1966-ro,
+  title     = {Subject Index},
+  author    = {Baran, Paul A and Sweezy, Paul M},
+  booktitle = {Monopoly Capital: An Essay on the American Economic and Social
+               Order},
+  publisher = {NYU Press},
+  pages     = {395--401},
+  date      = {1966},
+  isbn      = {9780853450733},
+  url       = {http://www.jstor.org/stable/j.ctt9qg5zj.17},
+  keywords  = {Monopoly-1966}
 }
 
 @INBOOK{Harteis2014-go,
