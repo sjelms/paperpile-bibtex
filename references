@@ -370,6 +370,21 @@
                  Git;llm-wiki-workflow;Report;AEC;git-lit}
 }
 
+@INBOOK{Grossman2025-zp,
+  title     = {Kurt Lewin ({1890–1947})},
+  author    = {Grossman, Rebecca},
+  booktitle = {Key Thinkers in Industrial and Organizational Psychology},
+  publisher = {Routledge},
+  location  = {New York},
+  pages     = {154--159},
+  date      = {2025-03-18},
+  doi       = {10.4324/9781003403258-20},
+  isbn      = {9781003403258},
+  url       = {http://dx.doi.org/10.4324/9781003403258-20},
+  keywords  = {Key-Thinkers\_I-O},
+  language  = {en}
+}
+
 @ARTICLE{Johnston2026-bz,
   title        = {On Reality, Experience, and Truth: John Watson's Unpublished
                   Notes on John Dewey},
