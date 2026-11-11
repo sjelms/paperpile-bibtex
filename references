@@ -50883,18 +50883,6 @@
   keywords     = {AEC;YouTube}
 }
 
-@INREFERENCE{Unknown2017-fe,
-  title     = {Founders of industrial and organizational psychology},
-  booktitle = {The SAGE Encyclopedia of Industrial and Organizational
-               Psychology, 2nd edition},
-  publisher = {SAGE Publications, Inc},
-  location  = {2455 Teller Road, Thousand Oaks California 91320},
-  date      = {2017},
-  doi       = {10.4135/9781483386874.n175},
-  isbn      = {9781483386898,9781483386874},
-  url       = {http://dx.doi.org/10.4135/9781483386874.n175}
-}
-
 @REPORT{Rupnik2026-qd,
   type        = {resreport},
   title       = {{HUD}'s Past, Present, and Future Role in Accelerating {U}.{S}.
@@ -75809,6 +75797,33 @@
   url          = {http://dx.doi.org/10.13152/ijrvet.7.2.3},
   keywords     = {\_BibTex to MD Git;VET-TVET;Essential;VET;Knowledge - Skill
                   Acquisition;git-lit}
+}
+
+@INREFERENCE{Ignagni2017-vt,
+  title     = {Founders of Industrial and Organizational Psychology},
+  author    = {Ignagni, Mary E},
+  editor    = {Rogelberg, Steven G},
+  booktitle = {The SAGE Encyclopedia of Industrial and Organizational
+               Psychology, 2nd edition},
+  publisher = {SAGE Publications, Inc},
+  location  = {2455 Teller Road, Thousand Oaks California 91320},
+  edition   = {2},
+  volume    = {4},
+  pages     = {513--515},
+  date      = {2017},
+  doi       = {10.4135/9781483386874.n175},
+  isbn      = {9781483386898,9781483386874},
+  abstract  = {The founders of industrial and organizational (I-O) psychology
+               were men and women who were interested in applying the principles
+               of psychology to problems within organizations. The following is
+               a discussion of a few key individuals who helped to shape the
+               field. The two individuals credited with being the main founders
+               of I-O psychology are Hugo Munsterberg and Walter Dill Scott.
+               Both were trained as experimental psychologists and were involved
+               in applying psychological principles to organizational problems.
+               Hugo Munsterberg (1863–1916) played a key role in the development
+               of applied psychology, especially industrial psychology.},
+  url       = {http://dx.doi.org/10.4135/9781483386874.n175}
 }
 
 @INBOOK{Baran1966-pp,
