@@ -47217,8 +47217,9 @@
                   Acquisition;Labor;Skill demand;Reader\_Obsidian;git-lit}
 }
 
-@ARTICLE{Unknown1965-jf,
-  title        = {Crozier Michel — Le monde des employés de bureau},
+@ARTICLE{Michel1965-cp,
+  title        = {Le monde des employés de bureau},
+  author       = {Michel, Crozier},
   journaltitle = {Population},
   publisher    = {CAIRN},
   volume       = {20},
