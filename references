@@ -31330,6 +31330,7 @@
   location  = {London, England},
   date      = {2025-04-14},
   pagetotal = {340},
+  doi       = {10.4324/9781003403258},
   isbn      = {9781040345061},
   abstract  = {Key Thinkers in Industrial and Organizational Psychology explores
                the lives, ideas, contributions, and impact of key figures who
@@ -31346,6 +31347,7 @@
                practitioners of I-O psychology and historians of psychology, as
                well as anyone interested in how psychology has transformed
                workplaces and influenced organizational practices.},
+  url       = {https://doi.org/10.4324/9781003403258},
   keywords  = {RCPSP\_Takt\_Taylorism;EPubs Books;\_BibTex to MD
                Git;RNIB;Workplace Learning;ePub;Psychology;git-lit;Book (parent)},
   language  = {en}
