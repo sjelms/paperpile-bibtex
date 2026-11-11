@@ -919,6 +919,21 @@
   language     = {en}
 }
 
+@INBOOK{Burch2025-dg,
+  title     = {Walter Van Dyke Bingham ({1880–1952})},
+  author    = {Burch, Katrina A},
+  booktitle = {Key Thinkers in Industrial and Organizational Psychology},
+  publisher = {Routledge},
+  location  = {New York},
+  pages     = {79--87},
+  date      = {2025-03-18},
+  doi       = {10.4324/9781003403258-11},
+  isbn      = {9781003403258},
+  url       = {http://dx.doi.org/10.4324/9781003403258-11},
+  keywords  = {Key-Thinkers\_I-O},
+  language  = {en}
+}
+
 @ARTICLE{Johnston2026-bz,
   title        = {On Reality, Experience, and Truth: John Watson's Unpublished
                   Notes on John Dewey},
