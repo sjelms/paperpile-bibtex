@@ -75804,6 +75804,13 @@
   keywords     = {RLW-5;EoC-Further}
 }
 
+@BOOK{Clarke1996-vq,
+  title  = {Skills and the Construction Process: a comparative study of
+            vocational education and quality in social housebuilding},
+  author = {Clarke, Linda and Wall, Christine},
+  date   = {1996}
+}
+
 @ARTICLE{Sylte2020-oo,
   title        = {Predicting the future competence needs in working life:
                   Didactical implications for {VET}},
