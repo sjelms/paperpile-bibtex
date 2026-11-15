@@ -30134,7 +30134,7 @@
   location  = {Oxford},
   date      = {2006},
   note      = {Assigned reading: Introduction and Chapter 9},
-  keywords  = {RLW-6}
+  keywords  = {RLW-6;EoC-Further}
 }
 
 @ARTICLE{Davidoff2008-cw,
@@ -30145,7 +30145,7 @@
   issue        = {2},
   pages        = {275--277},
   date         = {2008},
-  keywords     = {RLW-6}
+  keywords     = {RLW-6;EoC-Further}
 }
 
 @ARTICLE{Hilber2016-bn,
@@ -30156,7 +30156,7 @@
   issue        = {591},
   pages        = {358--405},
   date         = {2016},
-  keywords     = {RLW-6}
+  keywords     = {RLW-6;EoC-Further}
 }
 
 @ARTICLE{Bickerton2013-lx,
@@ -30168,7 +30168,7 @@
   issue        = {3},
   pages        = {268--281},
   date         = {2013},
-  keywords     = {RLW-6}
+  keywords     = {RLW-6;EoC-Further}
 }
 
 @ARTICLE{Ryan-Collins2019-vf,
@@ -30180,7 +30180,7 @@
   doi          = {10.1177/0308518X19862811},
   url          = {http://dx.doi.org/10.1177/0308518X19862811},
   note         = {Volume, issue and page range require verification},
-  keywords     = {RLW-6}
+  keywords     = {RLW-6;EoC-Further}
 }
 
 @ARTICLE{Sirmans2005-mm,
@@ -30191,7 +30191,7 @@
   issue        = {1},
   pages        = {3--43},
   date         = {2005},
-  keywords     = {RLW-6}
+  keywords     = {RLW-6;EoC-Further}
 }
 
 @REPORT{Pearce2003-lx,
