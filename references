@@ -31704,6 +31704,28 @@
   language     = {en}
 }
 
+@BOOK{Gilbreth2023-sj,
+  title     = {Bricklaying system},
+  author    = {Gilbreth, Frank B},
+  publisher = {Braunfell Books},
+  date      = {2023-02-06},
+  pagetotal = {208},
+  isbn      = {9781805230632},
+  abstract  = {Frank Gilbreth's book "Brick Laying System" has been a classic in
+               its field but long out of print since its first publication in
+               1909. "Chapters include Training Apprentices in Bricklaying,
+               Methods of Management, Methods of Construction, Routing of
+               Material, Scaffolds, The Gilbreth Scaffold, The Gilbreth Packet
+               System, Building Tall Chimneys, Mortar, Bricks, Bricklayers'
+               Tools, Lines, Plumbs and Poles, Methods of Laying Brick Under
+               Special Conditions, Finishing, Jointing and Pointing, Arches and
+               Chimney Breasts, Tearing Down, Cutting Out and Patching
+               Brickwork, Bond and more. A real treasury of information on brick
+               laying, the history of brick laying and utilizing bricks in
+               construction by a master bricklayer."-Print ed.},
+  language  = {en}
+}
+
 @ARTICLE{De_Jong2013-st,
   title        = {Physical and virtual laboratories in science and engineering
                   education},
