@@ -15623,6 +15623,24 @@
   language     = {en}
 }
 
+@ARTICLE{Davidoff2008-cw,
+  title        = {Supply Constraints and Housing Prices},
+  author       = {Davidoff, Thomas and Saiz, Albert},
+  journaltitle = {Economics Letters},
+  volume       = {99},
+  issue        = {2},
+  pages        = {275--277},
+  date         = {2008},
+  doi          = {10.1016/j.econlet.2007.07.019},
+  abstract     = {We analyze the effects of supply constraints on housing
+                  prices. For plausible parameterizations, loosening regulatory
+                  constraints in individual jurisdictions would have little
+                  effect on prices, while coordinated loosening across markets
+                  could have large price effects.},
+  url          = {https://doi.org/10.1016/j.econlet.2007.07.019},
+  keywords     = {RLW-6;EoC-Further}
+}
+
 @ARTICLE{Tynjala2008-ct,
   title        = {Perspectives into learning at the workplace},
   author       = {Tynjälä, Päivi},
@@ -74796,17 +74814,6 @@
   note      = {Read Chapter 8: "Elementary Quantitative Data Analysis." pages
                154-177.},
   keywords  = {RDL [CCME0041]}
-}
-
-@ARTICLE{Davidoff2008-cw,
-  title        = {Supply Constraints and Housing Prices},
-  author       = {Davidoff, Thomas and Saiz, Albert},
-  journaltitle = {Economics Letters},
-  volume       = {99},
-  issue        = {2},
-  pages        = {275--277},
-  date         = {2008},
-  keywords     = {RLW-6;EoC-Further}
 }
 
 @BOOK{Polanyi1944-bv,
