@@ -29933,6 +29933,20 @@
   keywords     = {Knowledge - Skill Acquisition}
 }
 
+@ARTICLE{Bickerton2013-lx,
+  title        = {The London Interbank Offered Rate ({LIBOR}) and {UK}
+                  Construction Industry Output {1990–2008}},
+  author       = {Bickerton, Matt and Gruneberg, Stephen Louis},
+  journaltitle = {Journal of Financial Management of Property and Construction},
+  volume       = {18},
+  issue        = {3},
+  pages        = {268--281},
+  date         = {2013},
+  doi          = {10.1108/JFMPC-03-2012-0004},
+  url          = {http://dx.doi.org/10.1108/JFMPC-03-2012-0004},
+  keywords     = {RLW-6;EoC-Further}
+}
+
 @ARTICLE{Veile2019-es,
   title        = {Lessons Learned From Industry 4.0 Implementation in the German
                   Manufacturing Industry},
@@ -54229,18 +54243,6 @@
   pages        = {9--10},
   date         = {1999},
   keywords     = {Journal Articles;AIEd;\_New Literature}
-}
-
-@ARTICLE{Bickerton2013-lx,
-  title        = {The London Interbank Offered Rate ({LIBOR}) and {UK}
-                  Construction Industry Output 1990--2008},
-  author       = {Bickerton, Matt and Gruneberg, Stephen Louis},
-  journaltitle = {Journal of Financial Management of Property and Construction},
-  volume       = {18},
-  issue        = {3},
-  pages        = {268--281},
-  date         = {2013},
-  keywords     = {RLW-6;EoC-Further}
 }
 
 @BOOK{Levitt2006-xq,
