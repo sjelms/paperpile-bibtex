@@ -30127,16 +30127,6 @@
   keywords     = {RLW-6;EoC-Essential}
 }
 
-@BOOK{Wellings2006-rr,
-  title     = {British Housebuilders: History and Analysis},
-  author    = {Wellings, Fred},
-  publisher = {Blackwell Publishing},
-  location  = {Oxford},
-  date      = {2006},
-  note      = {Assigned reading: Introduction and Chapter 9},
-  keywords  = {RLW-6;EoC-Further}
-}
-
 @ARTICLE{Davidoff2008-cw,
   title        = {Supply Constraints and Housing Prices},
   author       = {Davidoff, Thomas and Saiz, Albert},
@@ -31825,6 +31815,37 @@
   url          = {http://dx.doi.org/10.1177/0308518X19862811},
   note         = {Volume, issue and page range require verification},
   keywords     = {RLW-6;EoC-Further}
+}
+
+@BOOK{Wellings2006-rr,
+  title     = {British Housebuilders: History and Analysis},
+  author    = {Wellings, Fred},
+  publisher = {Blackwell Publishing},
+  location  = {Oxford},
+  date      = {2006},
+  doi       = {10.1002/9780470757963},
+  abstract  = {British Housebuilders is the first comprehensive account of the
+               corporate history of the twentieth-century speculative
+               housebuilding industry - the firms that `supplied` those houses
+               and the entrepreneurs who created those firms. The transition
+               from the local housebuilders of the 1930s, through the regional
+               diversification of the 1960s, to the national housebuilders of
+               today is charted via a series of industry league tables. The
+               rationale for the growth in national firms is analysed. The
+               conventional explanation of economies of scale is rejected:
+               instead, the stock market is found to play a key role both in
+               facilitating acquisitions and in demanding growth from its
+               constituent companies. The supply-side analysis also addresses
+               the frequent corporate failures: succession issues, lack of focus
+               and the 1974 and 1990 recessions have played their part in equal
+               measure. British Housebuilders provides the first opportunity to
+               review the evidence drawn from a century of speculative
+               housebuilding; it is only with this historical perspective that
+               sound judgements can be made on the corporate role in
+               housebuilding.},
+  url       = {http://dx.doi.org/10.1002/9780470757963},
+  note      = {Assigned reading: Introduction and Chapter 9},
+  keywords  = {RLW-6;EoC-Further}
 }
 
 @ARTICLE{De_Jong2013-st,
