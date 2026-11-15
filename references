@@ -30127,6 +30127,73 @@
   keywords     = {RLW-6;EoC-Essential}
 }
 
+@BOOK{Wellings2006-rr,
+  title     = {British Housebuilders: History and Analysis},
+  author    = {Wellings, Fred},
+  publisher = {Blackwell Publishing},
+  location  = {Oxford},
+  date      = {2006},
+  note      = {Assigned reading: Introduction and Chapter 9},
+  keywords  = {RLW-6}
+}
+
+@ARTICLE{Davidoff2008-cw,
+  title        = {Supply Constraints and Housing Prices},
+  author       = {Davidoff, Thomas and Saiz, Albert},
+  journaltitle = {Economics Letters},
+  volume       = {99},
+  issue        = {2},
+  pages        = {275--277},
+  date         = {2008},
+  keywords     = {RLW-6}
+}
+
+@ARTICLE{Hilber2016-bn,
+  title        = {The Impact of Supply Constraints on House Prices in England},
+  author       = {Hilber, Christian A L and Vermeulen, Wouter},
+  journaltitle = {The Economic Journal},
+  volume       = {126},
+  issue        = {591},
+  pages        = {358--405},
+  date         = {2016},
+  keywords     = {RLW-6}
+}
+
+@ARTICLE{Bickerton2013-lx,
+  title        = {The London Interbank Offered Rate ({LIBOR}) and {UK}
+                  Construction Industry Output 1990--2008},
+  author       = {Bickerton, Matt and Gruneberg, Stephen Louis},
+  journaltitle = {Journal of Financial Management of Property and Construction},
+  volume       = {18},
+  issue        = {3},
+  pages        = {268--281},
+  date         = {2013},
+  keywords     = {RLW-6}
+}
+
+@ARTICLE{Ryan-Collins2019-vf,
+  title        = {Breaking the Housing--Finance Cycle: Macroeconomic Policy
+                  Reforms for More Affordable Homes},
+  author       = {Ryan-Collins, Josh},
+  journaltitle = {Environment and Planning A: Economy and Space},
+  date         = {2019},
+  doi          = {10.1177/0308518X19862811},
+  url          = {http://dx.doi.org/10.1177/0308518X19862811},
+  note         = {Volume, issue and page range require verification},
+  keywords     = {RLW-6}
+}
+
+@ARTICLE{Sirmans2005-mm,
+  title        = {The Composition of Hedonic Pricing Models},
+  author       = {Sirmans, G Stacy and Macpherson, David A and Zietz, Emily N},
+  journaltitle = {Journal of Real Estate Literature},
+  volume       = {13},
+  issue        = {1},
+  pages        = {3--43},
+  date         = {2005},
+  keywords     = {RLW-6}
+}
+
 @REPORT{Pearce2003-lx,
   type        = {resreport},
   title       = {The Social and Economic Value of Construction: The Construction
