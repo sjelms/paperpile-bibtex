@@ -15623,9 +15623,9 @@
   language     = {en}
 }
 
-@ARTICLE{Davidoff2008-cw,
+@ARTICLE{Aura2008-ks,
   title        = {Supply Constraints and Housing Prices},
-  author       = {Davidoff, Thomas and Saiz, Albert},
+  author       = {Aura, Saku and Davidoff, Thomas},
   journaltitle = {Economics Letters},
   volume       = {99},
   issue        = {2},
@@ -15637,7 +15637,7 @@
                   constraints in individual jurisdictions would have little
                   effect on prices, while coordinated loosening across markets
                   could have large price effects.},
-  url          = {https://doi.org/10.1016/j.econlet.2007.07.019},
+  url          = {http://dx.doi.org/10.1016/j.econlet.2007.07.019},
   keywords     = {RLW-6;EoC-Further}
 }
 
