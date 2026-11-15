@@ -32215,6 +32215,31 @@
   keywords     = {RDL [CCME0041];Journal Articles}
 }
 
+@ARTICLE{Hilber2016-bn,
+  title        = {The Impact of Supply Constraints on House Prices in England},
+  author       = {Hilber, Christian A L and Vermeulen, Wouter},
+  journaltitle = {The Economic Journal},
+  volume       = {126},
+  issue        = {591},
+  pages        = {358--405},
+  date         = {2016},
+  doi          = {10.1111/ecoj.12213},
+  abstract     = {We test the theoretical prediction that house prices respond
+                  more strongly to changes in local earnings in places with
+                  tight supply constraints using a unique panel dataset of 353
+                  Local Planning Authorities in England between 1974 and 2008.
+                  Exploiting exogenous variation from a policy reform, vote
+                  shares and historical density to identify the endogenous
+                  constraints-measures, we find that: regulatory constraints
+                  have a substantive positive impact on the house price-earnings
+                  elasticity; the effect of constraints due to scarcity of
+                  developable land is largely confined to highly urbanised
+                  areas; and uneven topography has a quantitatively less
+                  meaningful impact.},
+  url          = {http://dx.doi.org/10.1111/ecoj.12213},
+  keywords     = {RLW-6;EoC-Further}
+}
+
 @ARTICLE{Coffman2022-qg,
   title        = {Financing the rebuilding of the City of London after the Great
                   Fire of 1666},
@@ -75653,17 +75678,6 @@
   urldate   = {2021-05-18},
   keywords  = {2\_Upgrade MAY 2023;\_BibTex to MD Git;Website;git-lit},
   language  = {en}
-}
-
-@ARTICLE{Hilber2016-bn,
-  title        = {The Impact of Supply Constraints on House Prices in England},
-  author       = {Hilber, Christian A L and Vermeulen, Wouter},
-  journaltitle = {The Economic Journal},
-  volume       = {126},
-  issue        = {591},
-  pages        = {358--405},
-  date         = {2016},
-  keywords     = {RLW-6;EoC-Further}
 }
 
 @ARTICLE{Meyer2019-pv,
