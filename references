@@ -16294,35 +16294,42 @@
                   MD Git;llm-wiki-workflow;AEC;Cited for Frontiers;git-lit}
 }
 
-@ARTICLE{Bergvall2024-qx,
-  title    = {The impact of {PhD} studies on mental health—A longitudinal
-              population study},
-  author   = {Bergvall, Sanna and Fernström, Clara and Ranehill, Eva and
-              Sandberg, Anna},
-  date     = {2024},
-  doi      = {10.1016/j.jhealeco.2025.103070},
-  abstract = {Recent self-reported and cross-sectional survey evidence documents
-              high levels of mental health problems among PhD students. We study
-              the impact of PhD studies on mental health care uptake using
-              Swedish administrative records of prescriptions for psychiatric
-              medication for the full population of PhD students. First, we
-              provide descriptive evidence that PhD students collect psychiatric
-              medication at a higher rate than a matched sample of individuals
-              holding a master's degree, but at a lower rate than a matched
-              sample from the general population. Second, we implement an event
-              study analysis and document that, in the years preceding their PhD
-              studies, prospective students collect psychiatric medication at a
-              rate similar to that of a matched sample of individuals holding a
-              master's degree. However, following the start of PhD studies, the
-              use of psychiatric medication among PhD students increases
-              substantially. This upward trend continues throughout the course
-              of PhD studies, with estimates showing a 40 percent increase by
-              the fifth year compared to pre-PhD levels. After the fifth year,
-              which represents the average duration of PhD studies in our
-              sample, we observe a notable decrease in the utilization of
-              psychiatric medication.},
-  url      = {https://doi.org/10.1016/j.jhealeco.2025.103070},
-  keywords = {PhD Study and Support;PhD Support and Training}
+@ARTICLE{Bergvall2025-jv,
+  title        = {The impact of {PhD} studies on mental health—A longitudinal
+                  population study},
+  author       = {Bergvall, Sanna and Fernström, Clara and Ranehill, Eva and
+                  Sandberg, Anna},
+  journaltitle = {Journal of Health Economics},
+  publisher    = {Elsevier BV},
+  volume       = {104},
+  issue        = {103070},
+  pages        = {103070},
+  date         = {2025-12},
+  doi          = {10.1016/j.jhealeco.2025.103070},
+  pmid         = {41033288},
+  issn         = {0167-6296,1879-1646},
+  abstract     = {Recent self-reported and cross-sectional survey evidence
+                  documents high levels of mental health problems among PhD
+                  students. We study the relationship between PhD studies and
+                  mental health care utilization using Swedish administrative
+                  records of prescriptions for psychiatric medication for the
+                  full population of PhD students. We find that prior to
+                  starting their PhD studies, prospective students use
+                  psychiatric medication at a rate similar to a matched sample
+                  of individuals with a master's degree. However, following the
+                  start of their PhD studies, psychiatric medication use among
+                  PhD students increases substantially. This upward trend
+                  continues throughout the course of PhD studies, and by the
+                  fifth year medication use has increased by 40 percent compared
+                  to pre-PhD levels. After the fifth year, when most students in
+                  our sample graduate, the psychiatric medication use declines
+                  notably. Heterogeneity analyses indicate that the increase in
+                  medication use occurs broadly across different student
+                  subgroups and academic disciplines, with the exception of
+                  students in the medical and health sciences.},
+  url          = {https://www.ncbi.nlm.nih.gov/pubmed/41033288},
+  keywords     = {PhD Study and Support;PhD Support and Training},
+  language     = {en}
 }
 
 @ARTICLE{Ariga2013-mn,
