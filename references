@@ -73262,35 +73262,32 @@
   origdate  = {1996}
 }
 
-@REPORT{Stiglitz1991-is,
-  type        = {resreport},
-  title       = {The Invisible Hand and Modern Welfare Economics},
-  author      = {Stiglitz, Joseph E},
-  institution = {National Bureau of Economic Research},
-  location    = {Cambridge, MA, USA},
-  date        = {1991-03},
-  pagetotal   = {50},
-  doi         = {10.3386/w3641},
-  abstract    = {This paper reviews and puts into perspective recent work
-                 reassessing the first and second Fundamental Theorems of
-                 Welfare Economics. It assesses the implications of the
-                 Greenwald-Stiglitz theorem establishing the (constrained)
-                 Pareto inefficiency of market economies with imperfect
-                 information and incomplete markets as well as recent work on
-                 endogenous technological change. The information theoretic
-                 limitations to the Second Fundamental Theorem are also
-                 discussed, including the inability to separate out issues of
-                 equity and efficiency. The final sections of the paper consider
-                 the consequences of these problems for economic organization,
-                 economic policy, and the role of ideology in the belief in the
-                 Invisible Hand.},
-  series      = {NBER Working Paper Series},
-  url         = {http://dx.doi.org/10.3386/w3641},
-  keywords    = {Welfare Economics;Invisible Hand;Market Failure; Imperfect
-                 Information;Incomplete Markets;Pareto Efficiency; Economic
-                 Theory;Technological Change;Economic Policy; Working
-                 Paper;Economics;Columbia University},
-  language    = {en}
+@ARTICLE{Stiglitz1991-is,
+  title        = {The Invisible Hand and Modern Welfare Economics},
+  author       = {Stiglitz, Joseph E},
+  journaltitle = {Working Paper Series (National Bureau of Economic Research)},
+  institution  = {National Bureau of Economic Research},
+  number       = {w3641},
+  date         = {1991-03},
+  pagetotal    = {50},
+  doi          = {10.3386/w3641},
+  abstract     = {This paper reviews and puts into perspective recent work
+                  reassessing the first and second Fundamental Theorems of
+                  Welfare Economics. It assesses the implications of the
+                  Greenwald-Stiglitz theorem establishing the (constrained)
+                  Pareto inefficiency of market economies with imperfect
+                  information and incomplete markets as well as recent work on
+                  endogenous technological change. The information theoretic
+                  limitations to the Second Fundamental Theorem are also
+                  discussed, including the inability to separate out issues of
+                  equity and efficiency. The final sections of the paper
+                  consider the consequences of these problems for economic
+                  organization, economic policy, and the role of ideology in the
+                  belief in the Invisible Hand.},
+  series       = {NBER Working Paper Series},
+  url          = {https://www.nber.org/papers/w3641},
+  keywords     = {Economics;Columbia University},
+  language     = {en}
 }
 
 @ARTICLE{Schmidt2024-qz,
