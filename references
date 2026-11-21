@@ -4973,7 +4973,7 @@
 }
 
 @INBOOK{Stephenson2018-jc,
-  title     = {The pay of labourers and unskilled men on London building sites,
+  title     = {The Pay of Labourers and Unskilled Men on London Building Sites,
                {1650–1770}},
   author    = {Stephenson, Judy Z},
   booktitle = {Seven Centuries of Unreal Wages},
@@ -4983,6 +4983,15 @@
   date      = {2018},
   doi       = {10.1007/978-3-319-96962-6_6},
   isbn      = {9783319969619,9783319969626},
+  abstract  = {Economic historians have taken the pay of urban construction
+               labourers as representative of the unskilled male wage for
+               unskilled workers in long-run wage series and welfare
+               calculations. This chapter argues that London labourers whose pay
+               makes up these series were not unskilled, but semi-skilled, and
+               brings new wage evidence to show that the unskilled nominal wage
+               in London 1660–1800 was in many cases little more than half of
+               what we currently use to calculate welfare and labour costs for
+               the long eighteenth century in London.},
   url       = {http://dx.doi.org/10.1007/978-3-319-96962-6_6}
 }
 
