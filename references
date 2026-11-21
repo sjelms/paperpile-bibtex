@@ -4937,6 +4937,20 @@
                Learning;git-lit}
 }
 
+@BOOK{Ongaro2026-lt,
+  title     = {A historical casebook of wage formation},
+  editor    = {Ongaro, Giulio and Stephenson, Judy Z and Mocarelli, Luca},
+  publisher = {Springer International Publishing},
+  location  = {Cham, Switzerland},
+  date      = {2026-05-22},
+  pagetotal = {410},
+  doi       = {10.1007/978-3-031-91930-5},
+  issn      = {2662-6497,2662-6500},
+  isbn      = {9783031919299,9783031919305},
+  url       = {http://dx.doi.org/10.1007/978-3-031-91930-5},
+  language  = {en}
+}
+
 @REPORT{Francis-Devine2025-kg,
   type        = {resreport},
   title       = {Youth Unemployment Statistics},
