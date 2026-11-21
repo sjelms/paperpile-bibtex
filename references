@@ -1908,6 +1908,40 @@
   keywords     = {Labor;UCL;Skill demand}
 }
 
+@BOOK{Ongaro2026-lt,
+  title     = {A Historical Casebook of Wage Formation},
+  editor    = {Ongaro, Giulio and Stephenson, Judy Z and Mocarelli, Luca},
+  publisher = {Springer International Publishing},
+  location  = {Cham, Switzerland},
+  date      = {2026-05-22},
+  pagetotal = {410},
+  doi       = {10.1007/978-3-031-91930-5},
+  issn      = {2662-6497,2662-6500},
+  isbn      = {9783031919299,9783031919305},
+  abstract  = {This edited collection presents 16 new historical cases of wage
+               formation and wage bargaining across the early modern and
+               preindustrial world. Recent literature has revived an established
+               interest in the economic history of wage formation, underlining
+               the gaps still existing in our understanding of wages’
+               composition, quantification, and process of structuring. This
+               collection will shed light on these points, examining diverse
+               topics including in-kind and monetary payments, bonuses and
+               supplements, work contracts, differentials between skilled and
+               unskilled workers, women’s work, slavery and coerced labour
+               contracts, and wages in both diachronic and comparative
+               perspective: how wages’ structure and composition changes across
+               times and spaces (both in terms of geographical areas and
+               urban-rural environments). The book presents case studies from
+               various geographical areas (from South America to India) from the
+               preindustrial period to the contemporary age and features related
+               contributions on the manufacturing sector, agriculture, mining,
+               and public sectors. The book will be a valuable resource for
+               scholars and students of pre-industrial labour markets in
+               economic, social and labour history.},
+  url       = {http://dx.doi.org/10.1007/978-3-031-91930-5},
+  language  = {en}
+}
+
 @INBOOK{Wallis2019-hy,
   title     = {Apprenticeship in England},
   author    = {Wallis, Patrick},
@@ -4935,20 +4969,6 @@
   url       = {http://dx.doi.org/10.1057/9781137014764_5},
   keywords  = {\_BibTex to MD Git;Knowledge - Skill Acquisition;Workplace
                Learning;git-lit}
-}
-
-@BOOK{Ongaro2026-lt,
-  title     = {A historical casebook of wage formation},
-  editor    = {Ongaro, Giulio and Stephenson, Judy Z and Mocarelli, Luca},
-  publisher = {Springer International Publishing},
-  location  = {Cham, Switzerland},
-  date      = {2026-05-22},
-  pagetotal = {410},
-  doi       = {10.1007/978-3-031-91930-5},
-  issn      = {2662-6497,2662-6500},
-  isbn      = {9783031919299,9783031919305},
-  url       = {http://dx.doi.org/10.1007/978-3-031-91930-5},
-  language  = {en}
 }
 
 @REPORT{Francis-Devine2025-kg,
