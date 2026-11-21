@@ -4874,6 +4874,7 @@
 @INBOOK{Wallis2019-hy,
   title     = {Apprenticeship in England},
   author    = {Wallis, Patrick},
+  editor    = {Prak, Maarten and Wallis, Patrick},
   booktitle = {Apprenticeship in Early Modern Europe},
   publisher = {Cambridge University Press},
   pages     = {247--281},
