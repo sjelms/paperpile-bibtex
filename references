@@ -1871,6 +1871,41 @@
   keywords    = {\_BibTex to MD Git;Marx\_Labor;Economics;Labor;git-lit}
 }
 
+@BOOK{Hatcher2019-nd,
+  title     = {Seven Centuries of Unreal Wages: The Unreliable Data, Sources and
+               Methods that have been used for Measuring Standards of Living in
+               the Past},
+  editor    = {Hatcher, John and Stephenson, Judy Z},
+  publisher = {Springer International Publishing},
+  location  = {Cham, Switzerland},
+  edition   = {2018},
+  date      = {2019-02-25},
+  pagetotal = {318},
+  doi       = {10.1007/978-3-319-96962-6},
+  isbn      = {9783319969619,9783319969626},
+  abstract  = {The quality of life experienced by people in the past is one of
+               the most important areas of historical enquiry, and the standard
+               of living of populations is one of the leading measures of the
+               economic performance of nations. Yet how accurate is the
+               information on which these judgments are based? This collection
+               of essays, written by renowned scholars in the fields of labour,
+               wage and welfare history, cogently undermine the validity of the
+               data that have for decades dominated the measurement of these
+               phenomena in Britain, Europe and Asia, and provided the
+               statistical backbone for countless descriptions and analyses of
+               economic development, welfare and many other prime subjects in
+               economic and social history. The contributors to this volume
+               rigorously expose misapprehensions of long-run macroeconomic
+               estimates of the real wage and provide a host of improved methods
+               and data for revising and rejecting them. This volume is
+               essential reading for anyone interested in economic and social
+               history, economics and the application of statistical methods to
+               historical evidence.},
+  series    = {Palgrave Studies in Economic History},
+  url       = {http://dx.doi.org/10.1007/978-3-319-96962-6},
+  language  = {en}
+}
+
 @ARTICLE{Stephenson2026-kg,
   title        = {Review of the market for skill: Apprenticeship and economic
                   growth in early modern England by Patrick Wallis},
@@ -2606,21 +2641,6 @@
   date      = {2015},
   series    = {James Bond},
   keywords  = {\_BibTex to MD Git;Multimedia;git-lit}
-}
-
-@BOOK{Hatcher2019-nd,
-  title     = {Seven Centuries of Unreal Wages},
-  editor    = {Hatcher, John and Stephenson, Judy Z},
-  publisher = {Springer International Publishing},
-  location  = {Cham, Switzerland},
-  edition   = {2018},
-  date      = {2019-02-25},
-  pagetotal = {318},
-  doi       = {10.1007/978-3-319-96962-6},
-  isbn      = {9783319969619,9783319969626},
-  series    = {Palgrave Studies in Economic History},
-  url       = {http://dx.doi.org/10.1007/978-3-319-96962-6},
-  language  = {en}
 }
 
 @ARTICLE{Schmid2024-tx,
