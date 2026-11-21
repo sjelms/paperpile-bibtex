@@ -4900,9 +4900,17 @@
                Learning;git-lit}
 }
 
-@ONLINE{UnknownUnknown-ho,
-  url     = {https://discovery.ucl.ac.uk/id/eprint/10222056},
-  urldate = {2026-11-21}
+@ARTICLE{Stephenson2026-kg,
+  title        = {Review of the market for skill: Apprenticeship and economic
+                  growth in early modern England by Patrick Wallis (Princeton:
+                  Princeton {UP}, {NJ}, 2025, £38.)},
+  author       = {Stephenson, Judy},
+  journaltitle = {The English Historical Review},
+  publisher    = {Oxford University Press (OUP)},
+  date         = {2026-07-31},
+  issn         = {0013-8266,1477-4534},
+  url          = {https://discovery.ucl.ac.uk/id/eprint/10222056},
+  urldate      = {2026-11-21}
 }
 
 @REPORT{Francis-Devine2025-kg,
