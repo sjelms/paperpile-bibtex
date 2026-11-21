@@ -1835,6 +1835,42 @@
   url          = {http://www.jstor.org/stable/23606493}
 }
 
+@REPORT{Allen2007-bb,
+  type        = {resreport},
+  title       = {Engels' Pause: A Pessimist's Guide to the British Industrial
+                 Revolution},
+  author      = {Allen, Robert C},
+  institution = {Oxford University, Department of Economics},
+  number      = {315},
+  date        = {2007},
+  pagetotal   = {43},
+  issn        = {1471-0498},
+  abstract    = {The paper reviews the macroeconomic data describing the British
+                 economy from 1760 to 1913 and shows that it passed through a
+                 two stage evolution of inequality. In the first half of the
+                 nineteenth century, the real wage stagnated while output per
+                 worker expanded. The profit rate doubled and the share of
+                 profits in national income expanded at the expense of labour
+                 and land. After the middle of the nineteenth century, real
+                 wages began to grow in line with productivity, and the profit
+                 rate and factor shares stabilized. An integrated model of
+                 growth and distribution is developed to explain these trends.
+                 The model includes an aggregate production function that
+                 explains the distribution of income, while a savings function
+                 in which savings depended on property income governs
+                 accumulation. Simulations with the model show that technical
+                 progress was the prime mover behind the industrial revolution.
+                 Capital accumulation was a necessary complement. The surge in
+                 inequality was intrinsic to the growth process: Technical
+                 change increased the demand for capital and raised the profit
+                 rate and capital’s share. The rise in profits, in turn,
+                 sustained the industrial revolution by financing the necessary
+                 capital accumulation. After the middle of the nineteenth
+                 century, accumulation had caught up with the requirements of
+                 technology and wages rose in line with productivity.},
+  keywords    = {\_BibTex to MD Git;Economics;Labor;git-lit}
+}
+
 @ARTICLE{Lewis1954-fz,
   title        = {Economic Development with Unlimited Supplies of Labour},
   author       = {Lewis, William Arthur},
@@ -1900,44 +1936,8 @@
                   productivity per head is rising or because capitalist workers
                   raise their subsistence standards.},
   url          = {http://dx.doi.org/10.1111/j.1467-9957.1954.tb00021.x},
-  keywords     = {Economics;Labor;git-lit},
+  keywords     = {\_BibTex to MD Git;Economics;Labor;git-lit},
   language     = {en}
-}
-
-@REPORT{Allen2007-bb,
-  type        = {resreport},
-  title       = {Engels' Pause: A Pessimist's Guide to the British Industrial
-                 Revolution},
-  author      = {Allen, Robert C},
-  institution = {Oxford University, Department of Economics},
-  number      = {315},
-  date        = {2007},
-  pagetotal   = {43},
-  issn        = {1471-0498},
-  abstract    = {The paper reviews the macroeconomic data describing the British
-                 economy from 1760 to 1913 and shows that it passed through a
-                 two stage evolution of inequality. In the first half of the
-                 nineteenth century, the real wage stagnated while output per
-                 worker expanded. The profit rate doubled and the share of
-                 profits in national income expanded at the expense of labour
-                 and land. After the middle of the nineteenth century, real
-                 wages began to grow in line with productivity, and the profit
-                 rate and factor shares stabilized. An integrated model of
-                 growth and distribution is developed to explain these trends.
-                 The model includes an aggregate production function that
-                 explains the distribution of income, while a savings function
-                 in which savings depended on property income governs
-                 accumulation. Simulations with the model show that technical
-                 progress was the prime mover behind the industrial revolution.
-                 Capital accumulation was a necessary complement. The surge in
-                 inequality was intrinsic to the growth process: Technical
-                 change increased the demand for capital and raised the profit
-                 rate and capital’s share. The rise in profits, in turn,
-                 sustained the industrial revolution by financing the necessary
-                 capital accumulation. After the middle of the nineteenth
-                 century, accumulation had caught up with the requirements of
-                 technology and wages rose in line with productivity.},
-  keywords    = {Economics;Labor;git-lit}
 }
 
 @INBOOK{Lakoff1993-is,
