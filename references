@@ -2608,6 +2608,20 @@
   keywords  = {\_BibTex to MD Git;Multimedia;git-lit}
 }
 
+@INBOOK{Stephenson2018-vj,
+  title     = {In search of the average craftsman: Understanding skilled work
+               and wages in the early modern building trades and wider economy},
+  author    = {Stephenson, Judy Z},
+  booktitle = {Seven Centuries of Unreal Wages},
+  publisher = {Springer International Publishing},
+  location  = {Cham},
+  pages     = {117--141},
+  date      = {2018},
+  doi       = {10.1007/978-3-319-96962-6_5},
+  isbn      = {9783319969619,9783319969626},
+  url       = {http://dx.doi.org/10.1007/978-3-319-96962-6_5}
+}
+
 @ARTICLE{Schmid2024-tx,
   title        = {Workplace learning environment and participation in work
                   communities: A qualitative comparison of stayers’ and leavers’
