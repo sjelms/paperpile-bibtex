@@ -1835,6 +1835,13 @@
   url          = {http://www.jstor.org/stable/23606493}
 }
 
+@BOOK{Allen2007-bb,
+  title  = {Engel's Pause: A Pessimist's Guide to the British Industrial
+            Revolution},
+  author = {Allen, R},
+  date   = {2007}
+}
+
 @INBOOK{Lakoff1993-is,
   title     = {The contemporary theory of metaphor},
   author    = {Lakoff, George},
