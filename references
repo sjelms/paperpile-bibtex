@@ -2608,6 +2608,21 @@
   keywords  = {\_BibTex to MD Git;Multimedia;git-lit}
 }
 
+@BOOK{Hatcher2019-nd,
+  title     = {Seven Centuries of Unreal Wages},
+  editor    = {Hatcher, John and Stephenson, Judy Z},
+  publisher = {Springer International Publishing},
+  location  = {Cham, Switzerland},
+  edition   = {2018},
+  date      = {2019-02-25},
+  pagetotal = {318},
+  doi       = {10.1007/978-3-319-96962-6},
+  isbn      = {9783319969619,9783319969626},
+  series    = {Palgrave Studies in Economic History},
+  url       = {http://dx.doi.org/10.1007/978-3-319-96962-6},
+  language  = {en}
+}
+
 @ARTICLE{Schmid2024-tx,
   title        = {Workplace learning environment and participation in work
                   communities: A qualitative comparison of stayers’ and leavers’
