@@ -4972,6 +4972,20 @@
                Learning;git-lit}
 }
 
+@INBOOK{Stephenson2018-jc,
+  title     = {The pay of labourers and unskilled men on London building sites,
+               {1650–1770}},
+  author    = {Stephenson, Judy Z},
+  booktitle = {Seven Centuries of Unreal Wages},
+  publisher = {Springer International Publishing},
+  location  = {Cham},
+  pages     = {143--163},
+  date      = {2018},
+  doi       = {10.1007/978-3-319-96962-6_6},
+  isbn      = {9783319969619,9783319969626},
+  url       = {http://dx.doi.org/10.1007/978-3-319-96962-6_6}
+}
+
 @REPORT{Francis-Devine2025-kg,
   type        = {resreport},
   title       = {Youth Unemployment Statistics},
