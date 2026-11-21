@@ -4976,7 +4976,10 @@
   title     = {The Pay of Labourers and Unskilled Men on London Building Sites,
                {1650–1770}},
   author    = {Stephenson, Judy Z},
-  booktitle = {Seven Centuries of Unreal Wages},
+  editor    = {Hatcher, John and Stephenson, Judy Z},
+  booktitle = {Seven Centuries of Unreal Wages: The Unreliable Data, Sources and
+               Methods that have been used for Measuring Standards of Living in
+               the Past},
   publisher = {Springer International Publishing},
   location  = {Cham},
   pages     = {143--163},
