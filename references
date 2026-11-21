@@ -73068,7 +73068,8 @@
   pmid         = {29052648},
   issn         = {0028-0836,1476-4687},
   url          = {http://dx.doi.org/10.1038/550321a},
-  keywords     = {Technology Trap;Future of Work;git-lit;Economics;Labor},
+  keywords     = {Technology Trap;\_BibTex to MD Git;Future of
+                  Work;git-lit;Economics;Labor},
   language     = {en}
 }
 
