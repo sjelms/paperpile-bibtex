@@ -1871,6 +1871,42 @@
   keywords    = {\_BibTex to MD Git;Marx\_Labor;Economics;Labor;git-lit}
 }
 
+@ARTICLE{Stephenson2026-kg,
+  title        = {Review of the market for skill: Apprenticeship and economic
+                  growth in early modern England by Patrick Wallis},
+  author       = {Stephenson, Judy Z},
+  journaltitle = {The English Historical Review},
+  publisher    = {Oxford University Press (OUP)},
+  date         = {2026-07-31},
+  issn         = {0013-8266,1477-4534},
+  abstract     = {The Market for Skill: Apprenticeship and Economic Growth in
+                  Early Modern England by Patrick Wallis (Princeton: Princeton
+                  UP, NJ, 2025, £38.) will be a recognised for a generation or
+                  more as the definitive study of pre-industrial apprenticeship
+                  in England. It sets out to do so at the centre of one of the
+                  most influential paradigms of early twenty-first century
+                  economic history, that of human capital theory, where
+                  apprenticeship is the key pillar of an institutional framework
+                  for the dissemination of knowledge that can explain England’s
+                  early industrial innovation and development. The idea that
+                  apprenticeship, as an open, effective, meritocratic means of
+                  developing and passing on technical knowledge (rather than an
+                  elite, or clan based one) was the progenitor of modern growth
+                  has its origins in the mid 1990s in the influential work of
+                  Larry (Stephan R.) Epstein on guilds and the development of
+                  markets in medieval Europe. These ideas, notably contested by
+                  Sheilagh Ogilvie, spawned a research programme across Europe
+                  and profoundly influenced economists interested in
+                  early-modern economic growth, (directly influencing 2025’s
+                  Nobel Prize in economics). This book grew directly out of
+                  Wallis’s own discussions with Epstein, and so in many ways
+                  marks an apogee of the paradigm’s trajectory, and the huge
+                  progress that has been made, largely by his own meticulous
+                  scholarship, in researching the empirics of its’ questions.},
+  url          = {https://discovery.ucl.ac.uk/id/eprint/10222056},
+  urldate      = {2026-11-21}
+}
+
 @INBOOK{Wallis2019-hy,
   title     = {Apprenticeship in England},
   author    = {Wallis, Patrick},
@@ -4898,18 +4934,6 @@
   url       = {http://dx.doi.org/10.1057/9781137014764_5},
   keywords  = {\_BibTex to MD Git;Knowledge - Skill Acquisition;Workplace
                Learning;git-lit}
-}
-
-@ARTICLE{Stephenson2026-kg,
-  title        = {Review of the market for skill: Apprenticeship and economic
-                  growth in early modern England by Patrick Wallis},
-  author       = {Stephenson, Judy Z},
-  journaltitle = {The English Historical Review},
-  publisher    = {Oxford University Press (OUP)},
-  date         = {2026-07-31},
-  issn         = {0013-8266,1477-4534},
-  url          = {https://discovery.ucl.ac.uk/id/eprint/10222056},
-  urldate      = {2026-11-21}
 }
 
 @REPORT{Francis-Devine2025-kg,
