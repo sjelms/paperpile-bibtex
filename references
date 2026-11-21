@@ -30010,7 +30010,7 @@
                historical evidence.},
   series    = {Palgrave Studies in Economic History},
   url       = {http://dx.doi.org/10.1007/978-3-319-96962-6},
-  keywords  = {Book (parent);UCL;Labor;ePub;RNIB;git-lit},
+  keywords  = {\_BibTex to MD Git;Book (parent);UCL;Labor;ePub;RNIB;git-lit},
   language  = {en}
 }
 
@@ -30082,7 +30082,7 @@
                scholars and students of pre-industrial labour markets in
                economic, social and labour history.},
   url       = {http://dx.doi.org/10.1007/978-3-031-91930-5},
-  keywords  = {ePub;RNIB;Skill demand;Labor;Economics;git-lit},
+  keywords  = {\_BibTex to MD Git;ePub;RNIB;Skill demand;Labor;Economics;git-lit},
   language  = {en}
 }
 
@@ -30105,7 +30105,7 @@
                those groups which afford problems of any special difficulty or
                interest'. This book will be of value to anyone with an interest
                in British economic history and the development of statistics.},
-  keywords  = {Book (parent);Economics;Labor;UCL;git-lit}
+  keywords  = {\_BibTex to MD Git;Book (parent);Economics;Labor;UCL;git-lit}
 }
 
 @INBOOK{Wallis2019-hy,
@@ -30134,8 +30134,8 @@
                no formal examination at the end, nor other form of
                certification.},
   url       = {http://dx.doi.org/10.1017/9781108690188.010},
-  keywords  = {Knowledge - Skill Acquisition;Skill demand;VET;Book
-               (child);git-lit}
+  keywords  = {\_BibTex to MD Git;Knowledge - Skill Acquisition;Skill
+               demand;VET;Book (child);git-lit}
 }
 
 @ARTICLE{Lewis1954-fz,
@@ -46947,7 +46947,8 @@
                construction industry and asks whether Bowley’s assumptions about
                building craftsmen and the average worker can be upheld.},
   url       = {http://dx.doi.org/10.1007/978-3-319-96962-6_5},
-  keywords  = {Book (child);UCL;Labor;ePub;RNIB;Skill demand;git-lit}
+  keywords  = {\_BibTex to MD Git;Book (child);UCL;Labor;ePub;RNIB;Skill
+               demand;git-lit}
 }
 
 @REPORT{Francis-Devine2025-kg,
