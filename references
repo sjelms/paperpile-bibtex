@@ -77294,6 +77294,20 @@
   language     = {en}
 }
 
+@INBOOK{Bornfelt2023-au,
+  title     = {Taylorism and fordism},
+  author    = {Börnfelt, P-O},
+  booktitle = {Work Organisation in Practice},
+  publisher = {Springer Nature Switzerland},
+  location  = {Cham},
+  pages     = {25--37},
+  date      = {2023},
+  doi       = {10.1007/978-3-031-21667-1_2},
+  isbn      = {9783031216664,9783031216671},
+  url       = {http://dx.doi.org/10.1007/978-3-031-21667-1_2},
+  language  = {en}
+}
+
 @BOOK{Machlup1962-bx,
   title     = {The Production and Distribution of Knowledge in the United States},
   author    = {Machlup, Friedrich Eduard},
