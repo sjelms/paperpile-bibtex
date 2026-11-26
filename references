@@ -8,7 +8,13 @@
   pages        = {404--437},
   date         = {1951},
   doi          = {10.2307/1907465},
-  url          = {https://doi.org/10.2307/1907465},
+  abstract     = {This paper seeks to survey the literature in economics,
+                  philosophy, mathematics, and statistics on the subject of
+                  choice among alternatives the consequences of which are not
+                  certain. Attention is centered on the suggested modes of
+                  describing uncertainty and on the theories of rational and
+                  actual behavior of individuals in making choices.},
+  url          = {http://dx.doi.org/10.2307/1907465},
   keywords     = {RWL-7;EoC-Further}
 }
 
