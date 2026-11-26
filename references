@@ -16909,7 +16909,25 @@
   pages        = {44--51},
   date         = {2013},
   doi          = {10.1016/j.ssci.2013.01.016},
-  url          = {https://doi.org/10.1016/j.ssci.2013.01.016},
+  abstract     = {In recent years there has been much focus on the so-called
+                  black swans in relation to risk management and decision making
+                  under uncertainty. A key issue has been the ability of risk
+                  assessment and probability theory to capture the black swans.
+                  In this paper we carry out an in-depth analysis of what a
+                  black swan means in relation to risk, uncertainty and
+                  probability: is a black swan just an extreme event with a very
+                  low probability or is it a more surprising event in some
+                  sense, for example an unknown unknown? We question how the
+                  black swans are linked to the risk concept, to expected values
+                  and probabilities, and to the common distinction between
+                  aleatory uncertainties and epistemic uncertainties. The main
+                  aim of this paper is to contribute to a clarification of the
+                  issue in order to strengthen the foundations of the meaning
+                  and characterisation of risk, and in this way provide a basis
+                  for improved risk management. The paper concludes that the
+                  black swan concept should be associated with a surprising
+                  extreme event relative to the present knowledge.},
+  url          = {http://dx.doi.org/10.1016/j.ssci.2013.01.016},
   keywords     = {RWL-7;EoC-Essential}
 }
 
