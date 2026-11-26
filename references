@@ -77595,7 +77595,8 @@
                previous conclusions; the bulk of the study explores new
                territory.},
   url       = {https://www.jstor.org/stable/10.7864/j.ctt7zsw04},
-  keywords  = {RWL-7;EoC-Essential;Book (parent);ePub;RNIB;git-lit},
+  keywords  = {RWL-7;\_BibTex to MD Git;EoC-Essential;Book
+               (parent);ePub;RNIB;git-lit},
   origdate  = {1967}
 }
 
@@ -77671,5 +77672,5 @@
                rational expectations revolution failed to account for them.},
   url       = {http://dx.doi.org/10.1515/9781400834723},
   note      = {Assigned reading: Chapters 4, 5, 11, and 12},
-  keywords  = {RWL-7;EoC-Further;RNIB;ePub;git-lit}
+  keywords  = {RWL-7;\_BibTex to MD Git;EoC-Further;RNIB;ePub;git-lit}
 }
