@@ -1,3 +1,25 @@
+@INBOOK{Hirschman2015-sz,
+  title     = {Chapter One the Principle of the Hiding Hand},
+  author    = {Hirschman, Albert O},
+  booktitle = {Development Projects Observed},
+  pages     = {8--31},
+  date      = {2015},
+  abstract  = {The karnaphuli pulp and paper mill is one of the earliest
+               large-scale industrial enterprises to have been set up in
+               Pakistan after Partition and Independence. Planned by the
+               official Industrial Development Corporation to utilize the vast
+               resources of the bamboo forests of the Chittagong Hill Tracts
+               along the upper reaches of the Karnaphuli River in East Pakistan,
+               the mill started to operate in 1953. It had perhaps more than its
+               share of technical and managerial teething troubles, but
+               considerable progress had been achieved by 1959 when its
+               management passed into private hands.},
+  url       = {https://www.jstor.org/stable/10.7864/j.ctt7zsw04.7},
+  urldate   = {2026-11-26},
+  keywords  = {RWL-7},
+  origdate  = {1964}
+}
+
 @BOOK{Schmidt2025-hq,
   title     = {Genesis: Artificial Intelligence, Hope, and the Human Spirit},
   author    = {Schmidt, Eric and Kissinger, Henry A and Mundie, Craig},
@@ -1166,12 +1188,6 @@
   keywords     = {AEC\_learning\_theory\_2021-26;\_BibTex to MD
                   Git;AEC;Training;VET;Knowledge - Skill Acquisition;git-lit},
   language     = {en}
-}
-
-@ONLINE{UnknownUnknown-um,
-  url      = {https://www.jstor.org/stable/10.7864/j.ctt7zsw04.7},
-  urldate  = {2026-11-26},
-  keywords = {RWL-7}
 }
 
 @BOOK{Goodhart1984-qa,
