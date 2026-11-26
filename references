@@ -77214,7 +77214,7 @@
   date      = {2014},
   isbn      = {9780444536853},
   url       = {https://shop.elsevier.com/books/handbook-of-the-economics-of-risk-and-uncertainty/machina/978-0-444-53685-3},
-  keywords  = {RWL-7}
+  keywords  = {RWL-7;EoC-Essential}
 }
 
 @ARTICLE{Aven2013-nf,
@@ -77226,7 +77226,7 @@
   date         = {2013},
   doi          = {10.1016/j.ssci.2013.01.016},
   url          = {https://doi.org/10.1016/j.ssci.2013.01.016},
-  keywords     = {RWL-7}
+  keywords     = {RWL-7;EoC-Essential}
 }
 
 @ARTICLE{Sak-Acur2026-il,
@@ -77385,7 +77385,7 @@
   date      = {2015},
   chapter   = {1},
   url       = {https://www.jstor.org/stable/10.7864/j.ctt7zsw04.7},
-  keywords  = {RWL-7},
+  keywords  = {RWL-7;EoC-Essential},
   origdate  = {1967}
 }
 
@@ -77400,7 +77400,7 @@
   date         = {2016},
   doi          = {10.1353/sor.2016.0063},
   url          = {https://doi.org/10.1353/sor.2016.0063},
-  keywords     = {RWL-7}
+  keywords     = {RWL-7;EoC-Essential}
 }
 
 @ARTICLE{Corrigan2026-pq,
