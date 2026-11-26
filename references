@@ -77206,6 +77206,29 @@
   keywords     = {Thesis Writing;PhD Support and Training}
 }
 
+@BOOK{Machina2014-jn,
+  title     = {Handbook of the Economics of Risk and Uncertainty},
+  editor    = {Machina, Mark J and Viscusi, W Kip},
+  publisher = {North-Holland},
+  volume    = {1},
+  date      = {2014},
+  isbn      = {9780444536853},
+  url       = {https://shop.elsevier.com/books/handbook-of-the-economics-of-risk-and-uncertainty/machina/978-0-444-53685-3},
+  keywords  = {RWL-7}
+}
+
+@ARTICLE{Aven2013-nf,
+  title        = {On the Meaning of a Black Swan in a Risk Context},
+  author       = {Aven, Terje},
+  journaltitle = {Safety Science},
+  volume       = {57},
+  pages        = {44--51},
+  date         = {2013},
+  doi          = {10.1016/j.ssci.2013.01.016},
+  url          = {https://doi.org/10.1016/j.ssci.2013.01.016},
+  keywords     = {RWL-7}
+}
+
 @ARTICLE{Sak-Acur2026-il,
   title        = {The role of visibility as a predictor of children's location
                   choices in outdoor school grounds across age and gender},
@@ -77351,6 +77374,33 @@
                between 1900 and 1959—a monumental shift.},
   keywords  = {\_BibTex to MD Git;Knowledge - Skill
                Acquisition;git-lit;Economics}
+}
+
+@INBOOK{Hirschman2015-sv,
+  title     = {The Principle of the Hiding Hand},
+  author    = {Hirschman, Albert O},
+  booktitle = {Development Projects Observed},
+  publisher = {Brookings Institution Press},
+  pages     = {8--31},
+  date      = {2015},
+  chapter   = {1},
+  url       = {https://www.jstor.org/stable/10.7864/j.ctt7zsw04.7},
+  keywords  = {RWL-7},
+  origdate  = {1967}
+}
+
+@ARTICLE{Flyvbjerg2016-up,
+  title        = {The Principle of the Malevolent Hiding Hand; or, the Planning
+                  Fallacy Writ Large},
+  author       = {Flyvbjerg, Bent and Sunstein, Cass R},
+  journaltitle = {Social Research: An International Quarterly},
+  volume       = {83},
+  issue        = {4},
+  pages        = {979--1004},
+  date         = {2016},
+  doi          = {10.1353/sor.2016.0063},
+  url          = {https://doi.org/10.1353/sor.2016.0063},
+  keywords     = {RWL-7}
 }
 
 @ARTICLE{Corrigan2026-pq,
