@@ -41713,7 +41713,21 @@
   pages        = {979--1004},
   date         = {2016},
   doi          = {10.1353/sor.2016.0063},
-  url          = {https://doi.org/10.1353/sor.2016.0063},
+  abstract     = {Albert O. Hirschman's Hiding Hand offers an ingenious play on
+                  Smith’s Invisible Hand. It suggests that human creativity is
+                  often underestimated, leading to unexpected solutions to
+                  seemingly intractable problems. In individual lives as in
+                  public policy and business, blindness to obstacles sometimes
+                  has ironic and desirable consequences. Hirschman's is an
+                  infectious account, but it does not fit the data. Far more
+                  often, planners are subject to the Malevolent Hiding Hand,
+                  which prompts people to proceed, unaware of the obstacles and
+                  of their inability to surmount them. The Hiding Hand obscures
+                  the planning fallacy, writ very large. Hirschman had a keen
+                  understanding of human psychology, but his enthusiasm for
+                  happy endings led him to a misleading account of economic
+                  development. The Hiding Hand is usually malevolent.},
+  url          = {http://dx.doi.org/10.1353/sor.2016.0063},
   keywords     = {RWL-7;EoC-Essential}
 }
 
