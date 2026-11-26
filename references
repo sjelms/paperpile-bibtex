@@ -1,17 +1,3 @@
-@ARTICLE{Kerur2012-rn,
-  title        = {Identifying and Managing Risk in International Construction
-                  Projects},
-  author       = {Kerur, Sachin and Marshall, William},
-  journaltitle = {International Review of Law},
-  volume       = {2012},
-  issue        = {1},
-  pages        = {1--14},
-  date         = {2012},
-  doi          = {10.5339/irl.2012.8},
-  url          = {https://doi.org/10.5339/irl.2012.8},
-  keywords     = {RWL-7;EoC-Further}
-}
-
 @ARTICLE{Arrow1951-xv,
   title        = {Alternative Approaches to the Theory of Choice in Risk-Taking
                   Situations},
@@ -32734,6 +32720,45 @@
   url       = {https://www.jstor.org/stable/10.7864/j.ctt7zsw04},
   keywords  = {RWL-7;EoC-Essential;Book (parent);ePub;RNIB},
   origdate  = {1967}
+}
+
+@ARTICLE{Kerur2012-rn,
+  title        = {Identifying and Managing Risk in International Construction
+                  Projects},
+  author       = {Kerur, Sachin and Marshall, William},
+  journaltitle = {International Review of Law},
+  volume       = {2012},
+  issue        = {1},
+  pages        = {1--14},
+  date         = {2012},
+  doi          = {10.5339/irl.2012.8},
+  abstract     = {Over the last decade, major construction projects have
+                  increasingly arisen in countries or regions that lack
+                  specialist, expert construction contractors, suppliers and
+                  consultants. Steps are being taken by governments in the
+                  Middle East, Eastern Europe, China, India and developing
+                  markets to address national infrastructure deficits, and by so
+                  doing, are creating new regions of booming construction
+                  demand. When coupled with anaemic growth in developed markets
+                  such as the United Kingdom, the USA and Western Europe,
+                  foreign markets present attractive opportunities to the global
+                  construction industry. However, foreign markets are littered
+                  with the cautionary tales of international contractors and
+                  consultants that have failed to grasp the intricacies and
+                  risks of operating in a new environment and have failed to
+                  capitalise on the opportunities available. By identifying the
+                  classes of risks, and undertaking detailed analysis, ranking
+                  and mitigation of relevant jurisdictional risks, participants
+                  in international construction projects will increase the
+                  likelihood of project success and commercial longevity in the
+                  new jurisdiction. Risk identification and assessment is not a
+                  science but an art, and while there are many potential
+                  approaches to the issue, we propose that our strategies for
+                  identifying, assessing, ranking and mitigating jurisdictional
+                  risks offer new international players a good chance of
+                  commercial success.},
+  url          = {http://dx.doi.org/10.5339/irl.2012.8},
+  keywords     = {RWL-7;EoC-Further}
 }
 
 @ARTICLE{De_Jong2013-st,
