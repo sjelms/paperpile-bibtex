@@ -14366,7 +14366,7 @@
   isbn      = {9780444536853},
   series    = {Handbook of Risk and Uncertainty},
   url       = {http://dx.doi.org/10.1016/b978-0-444-53685-3.00001-5},
-  keywords  = {RWL-7;EoC-Essential}
+  keywords  = {RWL-7;EoC-Essential;Book (child)}
 }
 
 @INBOOK{Clercq2004-py,
