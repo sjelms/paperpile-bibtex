@@ -14357,6 +14357,7 @@
   title     = {Axiomatic foundations of expected utility and subjective
                probability},
   author    = {Karni, Edi},
+  editor    = {Machina, Mark J and Viscusi, W Kip},
   booktitle = {Handbook of the Economics of Risk and Uncertainty},
   publisher = {Elsevier},
   pages     = {1--39},
@@ -14364,6 +14365,12 @@
   doi       = {10.1016/b978-0-444-53685-3.00001-5},
   issn      = {2211-7547,2211-7555},
   isbn      = {9780444536853},
+  abstract  = {This chapter provides a critical review of the theories of
+               decision making under risk and under uncertainty and the notion
+               of choice-based subjective probabilities. It includes formal
+               statements and discussions of the various models, including their
+               analytical frameworks, the corresponding axiomatic foundations,
+               and the representations.},
   series    = {Handbook of Risk and Uncertainty},
   url       = {http://dx.doi.org/10.1016/b978-0-444-53685-3.00001-5},
   keywords  = {RWL-7;EoC-Essential;Book (child)}
