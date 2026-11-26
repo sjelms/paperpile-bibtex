@@ -2,6 +2,7 @@
   title     = {Chapter One the Principle of the Hiding Hand},
   author    = {Hirschman, Albert O},
   booktitle = {Development Projects Observed},
+  edition   = {3},
   pages     = {8--31},
   date      = {2015},
   abstract  = {The karnaphuli pulp and paper mill is one of the earliest
@@ -14,10 +15,11 @@
                share of technical and managerial teething troubles, but
                considerable progress had been achieved by 1959 when its
                management passed into private hands.},
+  chapter   = {1},
   url       = {https://www.jstor.org/stable/10.7864/j.ctt7zsw04.7},
   urldate   = {2026-11-26},
   keywords  = {RWL-7},
-  origdate  = {1964}
+  origdate  = {1967}
 }
 
 @BOOK{Schmidt2025-hq,
