@@ -1,3 +1,45 @@
+@ARTICLE{Kerur2012-rn,
+  title        = {Identifying and Managing Risk in International Construction
+                  Projects},
+  author       = {Kerur, Sachin and Marshall, William},
+  journaltitle = {International Review of Law},
+  volume       = {2012},
+  issue        = {1},
+  pages        = {1--14},
+  date         = {2012},
+  doi          = {10.5339/irl.2012.8},
+  url          = {https://doi.org/10.5339/irl.2012.8},
+  keywords     = {RWL-7}
+}
+
+@ARTICLE{Arrow1951-xv,
+  title        = {Alternative Approaches to the Theory of Choice in Risk-Taking
+                  Situations},
+  author       = {Arrow, Kenneth J},
+  journaltitle = {Econometrica},
+  volume       = {19},
+  issue        = {4},
+  pages        = {404--437},
+  date         = {1951},
+  doi          = {10.2307/1907465},
+  url          = {https://doi.org/10.2307/1907465},
+  keywords     = {RWL-7}
+}
+
+@BOOK{Akerlof2009-zw,
+  title     = {Animal Spirits: How Human Psychology Drives the Economy, and Why
+               It Matters for Global Capitalism},
+  author    = {Akerlof, George A and Shiller, Robert J},
+  publisher = {Princeton University Press},
+  location  = {Princeton, NJ},
+  date      = {2009},
+  doi       = {10.1515/9781400834723},
+  isbn      = {9780691142333},
+  url       = {https://doi.org/10.1515/9781400834723},
+  note      = {Assigned reading: Chapters 4, 5, 11, and 12},
+  keywords  = {RWL-7}
+}
+
 @INBOOK{Hirschman2015-sz,
   title     = {The Principle of the Hiding Hand},
   author    = {Hirschman, Albert O},
