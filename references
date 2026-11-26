@@ -74253,23 +74253,22 @@
 }
 
 @BOOK{Machina2014-jn,
-  title     = {Handbook of the Economics of Risk and Uncertainty},
-  editor    = {Machina, Mark J and Viscusi, W Kip},
-  publisher = {North-Holland},
-  volume    = {1},
-  date      = {2014},
-  issn      = {2211-7547},
-  isbn      = {9780444536853},
-  abstract  = {The literature on the economics of risk and uncertainty has had a
-               far reaching impact on our understanding of individual choice,
-               market behavior, and public interventions to enhance market
-               performance. This work has not only broadened the domain of
-               economic inquiry but also has established the frameworks that are
-               used in the design and evaluation of policies. The chapters in
-               this Handbook provide self-contained but advanced treatments of
-               these important topics.},
-  url       = {https://shop.elsevier.com/books/handbook-of-the-economics-of-risk-and-uncertainty/machina/978-0-444-53685-3},
-  keywords  = {RWL-7;EoC-Essential;Book (parent)}
+  title    = {Handbook of the Economics of Risk and Uncertainty},
+  editor   = {Machina, Mark J and Viscusi, W Kip},
+  volume   = {1},
+  date     = {2014},
+  issn     = {2211-7547},
+  isbn     = {9780444536853},
+  abstract = {The literature on the economics of risk and uncertainty has had a
+              far reaching impact on our understanding of individual choice,
+              market behavior, and public interventions to enhance market
+              performance. This work has not only broadened the domain of
+              economic inquiry but also has established the frameworks that are
+              used in the design and evaluation of policies. The chapters in
+              this Handbook provide self-contained but advanced treatments of
+              these important topics.},
+  url      = {https://shop.elsevier.com/books/handbook-of-the-economics-of-risk-and-uncertainty/machina/978-0-444-53685-3},
+  keywords = {RWL-7;EoC-Essential;Book (parent)}
 }
 
 @ARTICLE{GOdwin2013-xm,
