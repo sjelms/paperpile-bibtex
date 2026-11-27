@@ -2737,7 +2737,6 @@
                   geometry with compelling textures from only text as input.},
   url          = {https://lukashoel.github.io/text-to-room/},
   urldate      = {2023-04-03},
-  note         = {<br>},
   keywords     = {\_XR MR VR AR;Game Engine;Multimedia}
 }
 
@@ -3614,10 +3613,10 @@
                   technology for construction applications include mature of
                   technology, data resource, technology transfer, social
                   attitude, etc., is also presented.},
-  note         = {<p>Wang, X., \& Dunston, P. (2007). Design, strategies, and
+  note         = {Wang, X., \& Dunston, P. (2007). Design, strategies, and
                   issues towards an Augmented Reality-based construction
                   training platform. Electronic Journal of Information
-                  Technology in Construction, 12, 363-380.</p>},
+                  Technology in Construction, 12, 363-380.},
   keywords     = {Zotero Import (Feb 22);My Library;Game Engine;Journal
                   Articles;\_New Literature;AEC}
 }
@@ -4015,7 +4014,7 @@
                   examples of the way the Ecology of Resources framework can be
                   used.},
   url          = {https://www.sciencedirect.com/science/article/pii/S0360131507001091},
-  note         = {<p>DEVELOPMENT, DISRUPTION \& DEBATE</p>},
+  note         = {DEVELOPMENT, DISRUPTION \& DEBATE},
   keywords     = {Zotero Import (Feb 22);My Library;Frontiers [2022];2\_Upgrade
                   MAY 2023;Journal Articles;llm-wiki-workflow;\_BibTex to MD
                   Git;Cited for Frontiers;Intelligent Tutoring Systems
@@ -4175,8 +4174,8 @@
                   in fact with help of any sort well nigh unobtainable, the
                   farmer who has just ...},
   url          = {https://www.proquest.com/historical-newspapers/doing-farm-work-motor-tractor/docview/99984292/se-2?accountid=14511},
-  note         = {<p>Copyright - Copyright New York Times Company Jan 6, 1918;
-                  Last updated - 2010-05-21</p>},
+  note         = {Copyright - Copyright New York Times Company Jan 6, 1918; Last
+                  updated - 2010-05-21},
   keywords     = {Zotero Import (Feb 22);My Library;Frontiers [2022];2\_Upgrade
                   MAY 2023;\_BibTex to MD
                   Git;General-Interest-Periodicals-United-States;Cited for
@@ -4204,8 +4203,8 @@
                   the history of America. Three days later Governor Smith made
                   public a report from the New ...},
   url          = {https://www.proquest.com/historical-newspapers/march-machine-makes-idle-hands/docview/104357612/se-2?accountid=14511},
-  note         = {<p>Copyright - Copyright New York Times Company Feb 26, 1928;
-                  Last updated - 2010-05-21</p>},
+  note         = {Copyright - Copyright New York Times Company Feb 26, 1928;
+                  Last updated - 2010-05-21},
   keywords     = {Zotero Import (Feb 22);My
                   Library;General-Interest-Periodicals-United-States},
   language     = {English}
@@ -5008,7 +5007,7 @@
                   this approach?},
   url          = {http://dx.doi.org/10.1177/1548512910365698},
   urldate      = {2021-10-09},
-  note         = {<p>doi: 10.1177/1548512910365698</p>},
+  note         = {doi: 10.1177/1548512910365698},
   keywords     = {Zotero Import (Feb 22);My Library;Frontiers [2021];Intelligent
                   Tutoring Systems (ITS);Frontiers [2022];2\_Upgrade MAY
                   2023;Journal Articles;Notion Catalogued;\_BibTex to MD
@@ -44985,7 +44984,7 @@
   url          = {https://www.thetimes.com/uk/education/article/graduate-worst-jobs-markets-in-generation-czl9gvs5p},
   urldate      = {2025-09-14},
   note         = {Education and Early Years Editor: Louise Eccles; City Editor:
-                  Jill Treanor. Saturday edition,Carl Benedikt Frey featured
+                  Jill Treanor. Saturday edition, Carl Benedikt Frey featured
                   interview.},
   keywords     = {\_BibTex to MD Git;llm-wiki-workflow;LexisNexis;Future of
                   Work;git-lit}
@@ -50486,8 +50485,8 @@
   url          = {https://ericdata.com/tw/detail.aspx?no=258837},
   note         = {Qujing Normal College, School of Economics and Management. DOI
                   may not resolve via doi.org; search by DOI string or Chinese
-                  title in CNKI.<br><br>Based on the analysis of characteristics
-                  of workplace learning (WPL), the authors put forward the
+                  title in CNKI. Based on the analysis of characteristics of
+                  workplace learning (WPL), the authors put forward the
                   restrictive - expansive research framework of WPL. Expansive
                   learning is the way organizations encourage and guide learners
                   to go beyond the existing scope of work learning; while on the
@@ -57872,7 +57871,7 @@
                   the fadishness of human relations training, noting how new
                   techniques follow a characteristic pattern of emerging,
                   gaining widespread use, stimulating research, then fading in
-                  popularity upon the emergence of a new technique.Models,
+                  popularity upon the emergence of a new technique. Models,
                   Theories, and the Training Problem - Discusses the historical
                   prominence of learning principles as a theoretical foundation
                   for personnel training. - Presents Gagne's conceptualization
@@ -57881,7 +57880,7 @@
                   be included in training. - Discusses the use of attitude
                   theory, motivation theory, behavior modification, individual
                   differences, and general systems theory as a foundation for
-                  training and development.New Developments in Technique -
+                  training and development. New Developments in Technique -
                   Discusses the extensive use of training and development
                   techniques across organizations. - Presents a list of
                   techniques including those used frequently, such as on-the-job
@@ -57891,7 +57890,7 @@
                   techniques including computer assisted instruction,
                   organization development, basic encounter and personal growth
                   training, television, cross-cultural training, and training
-                  for the disadvantaged.Evaluation Methodology - Notes that the
+                  for the disadvantaged. Evaluation Methodology - Notes that the
                   traditional either/or approach to training evaluation (whether
                   a program has value or doesn't) is simplistic and unhelpful
                   and suggests abandoning this approach. - Describes the
@@ -57903,7 +57902,7 @@
                   experimental design issues, and systems considerations. -
                   Highlights a critique of the scientific method as used in the
                   social sciences, noting the need to involve participants as
-                  collaborators in training and development research.Empirical
+                  collaborators in training and development research. Empirical
                   Research - Presents a review of 84 studies on management
                   development organized by training content and method, type of
                   criteria (internal vs. external), and the level of
@@ -57913,7 +57912,7 @@
                   training the disadvantaged, programmed instruction, computer
                   assisted instruction, orientation training, sales training,
                   training via television, team training, simulation, and
-                  specialty programs.Concluding Remarks - Discusses internal
+                  specialty programs. Concluding Remarks - Discusses internal
                   reasons, such as a retreat from defining what is to be
                   learned, and external reasons, such as the focus on generating
                   favorable reactions in trainers, trainees, and sponsors, for
@@ -57923,7 +57922,7 @@
                   system using a systems approach, considering the use of
                   behavior modification techniques, adopting the PI model, and
                   focusing training evaluation on measuring behavioral outcomes
-                  and differential effects of competing training strategies.<br>},
+                  and differential effects of competing training strategies.},
   keywords     = {AEC\_learning\_theory\_2021-26;\_BibTex to MD
                   Git;003\_Theoretical Framework;Training;Psychology;git-lit},
   language     = {en}
@@ -73676,7 +73675,7 @@
                   belief in the Invisible Hand.},
   series       = {NBER Working Paper Series},
   url          = {https://www.nber.org/papers/w3641},
-  keywords     = {Economics;Columbia University;git-lit},
+  keywords     = {\_BibTex to MD Git;Economics;Columbia University;git-lit},
   language     = {en}
 }
 
@@ -73914,8 +73913,8 @@
                real businesses to explain and illustrate key economic concepts,
                as well as activities, questions, and useful summaries to help
                you check your understanding},
-  note      = {Assigned reading: Chapters 4, 5, 10 and
-               11https://media.pearsoncmg.com/intl/ema/ema\_uk\_he\_sloman\_economics\_business\_9e/cw/
+  note      = {Assigned reading: Chapters 4, 5, 10 and 11
+               https://media.pearsoncmg.com/intl/ema/ema\_uk\_he\_sloman\_economics\_business\_9e/cw/
 },
   keywords  = {RLW-5;EPubs Books;EoC-Essential;ePub;RNIB;Economics;git-lit}
 }
